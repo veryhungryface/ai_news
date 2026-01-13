@@ -142,11 +142,33 @@ def parse_rss_date(date_str, source):
 
 def fetch_rss_news(source_info, target_date):
     """Fetch news from RSS source for a specific date"""
+    headers = {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
+        'Accept': 'application/rss+xml, application/xml, text/xml, */*;q=0.9'
+    }
+    
     try:
-        response = requests.get(source_info['url'], timeout=30)
+        response = requests.get(source_info['url'], headers=headers, timeout=30)
+        
+        if response.status_code != 200:
+            log_message(f"  HTTP {response.status_code}: {source_info['name']}")
+            return []
+        
         response.encoding = 'utf-8'
         
-        root = ET.fromstring(response.content)
+        if not response.content:
+            log_message(f"  Empty response: {source_info['name']}")
+            return []
+        
+        try:
+            root = ET.fromstring(response.content)
+        except ET.ParseError as e:
+            log_message(f"  XML ParseError in {source_info['name']}: {str(e)[:50]}")
+            return []
+        except Exception as e:
+            log_message(f"  Unexpected error parsing {source_info['name']}: {str(e)[:50]}")
+            return []
+        
         items = root.findall('.//item')
         
         news_list = []
