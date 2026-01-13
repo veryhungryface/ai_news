@@ -22,25 +22,45 @@ load_dotenv()
 GLM_API_KEY = os.getenv('GLM_API_KEY')
 
 RSS_SOURCES = [
+    # 1. 에듀테크 특화 (국내/해외)
     {
-        'name': 'Google News (AI)',
-        'url': 'https://news.google.com/rss/search?q=AI&hl=ko&gl=KR&ceid=KR:ko',
-        'source': 'Google News'
+        'name': 'Google News (EdTech)',
+        'url': 'https://news.google.com/rss/search?q=%EC%97%90%EB%93%80%ED%85%8C%ED%81%AC|AI%EA%B5%90%EC%9C%A1|%EB%94%94%EC%A7%80%ED%84%B8%EA%B5%90%EA%B3%BC%EC%84%9C&hl=ko&gl=KR&ceid=KR:ko',
+        'source': '에듀테크 검색'
     },
+    {
+        'name': 'EdSurge',
+        'url': 'https://www.edsurge.com/articles_rss',
+        'source': 'EdSurge'
+    },
+    {
+        'name': 'eSchool News',
+        'url': 'https://www.eschoolnews.com/top-news/feed/',
+        'source': 'eSchoolNews'
+    },
+    
+    # 2. 국내 AI/IT 트렌드 (전문지 및 기술동향)
+    {
+        'name': 'AI Times',
+        'url': 'http://www.aitimes.com/rss/all.xml',
+        'source': 'AI타임스'
+    },
+    {
+        'name': 'ITWorld Korea',
+        'url': 'https://www.itworld.co.kr/rss/feed/index.php',
+        'source': 'ITWorld'
+    },
+    
+    # 3. 해외 AI 핵심 기술 및 투자 (원천기술/스타트업)
     {
         'name': 'OpenAI News',
         'url': 'https://openai.com/news/rss.xml',
         'source': 'OpenAI'
     },
     {
-        'name': 'MIT News AI',
-        'url': 'https://news.mit.edu/rss/topic/artificial-intelligence2',
-        'source': 'MIT News'
-    },
-    {
-        'name': 'AI News',
-        'url': 'https://www.artificialintelligence-news.com/feed/',
-        'source': 'AI News'
+        'name': 'TechCrunch AI',
+        'url': 'https://techcrunch.com/category/artificial-intelligence/feed/',
+        'source': 'TechCrunch'
     }
 ]
 
@@ -205,6 +225,89 @@ def fetch_all_news_for_date(target_date):
     
     return unique_news
 
+def curate_news_list(articles):
+    """Curate news list using LLM - deduplicate and select top 20 important articles"""
+    if not articles:
+        return []
+    
+    if len(articles) <= 20:
+        return articles
+    
+    url = "https://api.z.ai/api/coding/paas/v4/chat/completions"
+    headers = {
+        'Authorization': f'Bearer {GLM_API_KEY}',
+        'Content-Type': 'application/json'
+    }
+    
+    prompt_parts = []
+    for idx, article in enumerate(articles[:50]):
+        original_title = article.get('title', '')
+        original_summary = article.get('description', '')[:200]
+        source = article.get('source', '')
+        
+        prompt_parts.append(f"""=== 기사 {idx + 1} ===
+제목: {original_title}
+출처: {source}
+본문요약: {original_summary}""")
+    
+    prompt = f"""다음 {min(len(articles), 50)}개의 AI/에듀테크 뉴스 기사를 분석하여 큐레이션해주세요.
+
+{chr(10).join(prompt_parts)}
+
+큐레이션 요구사항:
+1. 중복되거나 비슷한 내용의 기사는 제거하세요.
+2. AI 및 에듀테크 분야에서 가장 중요하고 영향력 있는 상위 20개 기사만 선별하세요.
+3. 선별 기준: 기술적 혁신성, 시장 영향력, 사용자 관련성, 뉴스 가치 등을 고려하세요.
+
+출력 형식 (숫자로만 답변, 쉼표로 구분):
+1,3,5,7,10,12,15,18,20,22,25,28,30,32,35,38,40,42,45,48
+
+반드시 1부터 {min(len(articles), 50)} 사이의 숫자 20개만 출력하고, 다른 설명 없이 숫자만 쉼표로 구분해주세요."""
+
+    data = {
+        'model': 'glm-4.7',
+        'messages': [
+            {'role': 'system', 'content': '당신은 AI 및 에듀테크 뉴스 큐레이터입니다. 중복 제거와 중요 기사 선별에 능숙합니다. 반드시 숫자만 출력하세요.'},
+            {'role': 'user', 'content': prompt}
+        ],
+        'max_tokens': 500,
+        'temperature': 0.3,
+        'thinking': {'type': 'disabled'}
+    }
+    
+    try:
+        response = requests.post(url, headers=headers, json=data, timeout=60)
+        if response.status_code == 200:
+            result = response.json()
+            if 'choices' in result and len(result['choices']) > 0:
+                content = result['choices'][0]['message']['content'].strip()
+                
+                indices = []
+                for num_str in content.split(','):
+                    try:
+                        num = int(num_str.strip())
+                        if 1 <= num <= len(articles):
+                            indices.append(num - 1)
+                    except:
+                        continue
+                
+                if len(indices) >= 20:
+                    indices = indices[:20]
+                    curated = [articles[i] for i in indices]
+                    log_message(f"  Curated: {len(articles)} -> {len(curated)} articles")
+                    return curated
+                else:
+                    log_message(f"  Curation returned only {len(indices)} articles, using first 20")
+                    return articles[:20]
+        else:
+            log_message(f"  Curation API error {response.status_code}, using first 20")
+            return articles[:20]
+    except Exception as e:
+        log_message(f"  Curation error: {e}, using first 20")
+        return articles[:20]
+    
+    return articles[:20]
+
 def batch_summarize(articles):
     """Batch summarize 10 articles at a time using GLM API"""
     if not articles:
@@ -222,7 +325,6 @@ def batch_summarize(articles):
     for i in range(0, len(articles), batch_size):
         batch = articles[i:i+batch_size]
         
-        # Build batch prompt
         prompt_parts = []
         for idx, article in enumerate(batch):
             original_title = article.get('original_title', article.get('title', ''))
@@ -235,25 +337,25 @@ def batch_summarize(articles):
 본문요약: {original_summary}""")
         
         prompt = f"""다음 {len(batch)}개 기사를 한국어로 처리해주세요.
-
-{chr(10).join(prompt_parts)}
-
-처리 요구사항:
-1. 영문 기사는 제목과 본문 요약을 모두 자연스러운 한국어로 번역하세요.
-2. 각 기사의 핵심을 서술형으로 200자 내외로 요약하세요.
-3. 기사의 핵심 키워드 1개를 추출하세요 (최대 5자).
-
-출력 형식:
-=== 기사 1 ===
-번역된 제목: [영문인 경우 한국어 제목, 한글인 경우 기존 제목]
-요약: [서술형 200자 요약]
-키워드: [핵심 키워드]
-
-=== 기사 2 ===
-...
-(순서대로 답변)
-
-반드시 한국어로 답변하고, 모든 기사를 순서대로 처리해주세요."""
+ 
+ {chr(10).join(prompt_parts)}
+ 
+ 처리 요구사항:
+ 1. 영문 기사는 제목과 본문 요약을 모두 자연스러운 한국어로 번역하세요.
+ 2. 각 기사의 핵심을 서술형으로 200자 내외로 요약하세요.
+ 3. 기사의 핵심 키워드 1개를 추출하세요 (최대 5자).
+ 
+ 출력 형식:
+ === 기사 1 ===
+ 번역된 제목: [영문인 경우 한국어 제목, 한글인 경우 기존 제목]
+ 요약: [서술형 200자 요약]
+ 키워드: [핵심 키워드]
+ 
+ === 기사 2 ===
+ ...
+ (순서대로 답변)
+ 
+ 반드시 한국어로 답변하고, 모든 기사를 순서대로 처리해주세요."""
 
         data = {
             'model': 'glm-4.7',
@@ -347,7 +449,7 @@ def maintain_10_day_window(data):
     return data
 
 def generate_html(news_items):
-    """Generate HTML with all 10 days displayed"""
+    """Generate HTML with all 10 days displayed - Fixed Version"""
     update_time = (datetime.now() + timedelta(hours=9)).strftime('%Y-%m-%d %H:%M:%S')
     
     all_data = load_all_news()
@@ -368,17 +470,17 @@ def generate_html(news_items):
             'news_count': len(date_entry['news'])
         })
     
+    # 드롭다운 옵션 생성
     dates_options = ''.join(
-        f'<option value="{item["date"]}" {"selected" if item["date"] == datetime.now().strftime("%Y-%m-%d") else ""}>{item["date"]}</option>'
+        f'<option value="{item["date"]}">{item["date"]}</option>'
         for item in all_data['dates']
     )
     
-    initial_news = all_news_flat[:20]
-    
+    # JSON 변환
     all_news_by_date_json = json.dumps(all_news_by_date, ensure_ascii=False)
     all_news_flat_json = json.dumps(all_news_flat, ensure_ascii=False)
-    initial_news_json = json.dumps(initial_news, ensure_ascii=False)
     
+    # HTML 템플릿 작성
     html = f'''<!DOCTYPE html>
 <html lang="ko">
 <head>
@@ -448,7 +550,7 @@ def generate_html(news_items):
             position: relative;
             z-index: 2;
             padding: 24px;
-            padding-bottom: 48px;
+            padding-bottom: 80px;
             width: 100%;
             max-width: 600px;
             animation: slideUp 0.5s ease-out;
@@ -532,11 +634,6 @@ def generate_html(news_items):
             box-shadow: 0 4px 12px rgba(59, 130, 246, 0.3);
         }}
         
-        .reel-link:hover {{
-            transform: translateY(-2px);
-            box-shadow: 0 6px 16px rgba(59, 130, 246, 0.4);
-        }}
-        
         .top-ui {{
             position: fixed;
             top: 16px;
@@ -574,18 +671,6 @@ def generate_html(news_items):
             align-items: center;
             gap: 6px;
             transition: all 0.3s ease;
-        }}
-        
-        .go-latest-btn:hover {{
-            background: #A855F7;
-            transform: translateY(-2px);
-            box-shadow: 0 4px 12px rgba(168, 85, 247, 0.4);
-        }}
-        
-        .go-latest-btn::before {{
-            content: '⬆';
-            font-size: 14px;
-            font-weight: 700;
         }}
         
         .date-selector {{
@@ -662,7 +747,7 @@ def generate_html(news_items):
     <div class="top-ui">
         <div class="top-left-ui">
             <div class="go-latest-btn" onclick="goToLatest()">
-                최신 뉴스
+                ⬆ 최신 뉴스
             </div>
             <div class="date-selector">
                 <select id="dateSelect" onchange="loadNewsForDate(this.value)">
@@ -683,14 +768,13 @@ def generate_html(news_items):
     </div>
     
     <script>
-        const allNewsByDate = {all_news_by_date_json};
         const allNewsFlat = {all_news_flat_json};
-        const initialNews = {initial_news_json};
         
         const container = document.getElementById('reelsContainer');
         const progressFill = document.getElementById('progressFill');
         const dateSelect = document.getElementById('dateSelect');
         
+        // 현재 보여줄 데이터: 처음부터 전체 데이터를 로드하여 스와이프 문제를 해결합니다.
         let currentData = allNewsFlat;
         let currentIndex = 0;
         
@@ -715,11 +799,14 @@ def generate_html(news_items):
                 const keyword = item.category_keyword ? `<div class="reel-keyword">#${{item.category_keyword}}</div>` : '';
                 const displayTitle = item.translated_title || item.title;
                 
+                // 날짜 불일치 해결: new Date() 사용을 피하고 문자열 앞 10자리(YYYY-MM-DD)를 그대로 사용
+                const displayDate = item.date.substring(0, 10);
+                
                 reel.innerHTML = `
                     <div class="content-overlay">
                         <div class="reel-meta">
                             <span class="reel-source">${{item.source || 'Unknown'}}</span>
-                            <span class="reel-date">${{item.date}}</span>
+                            <span class="reel-date">${{displayDate}}</span>
                         </div>
                         ${{keyword}}
                         <h2 class="reel-title">${{displayTitle}}</h2>
@@ -743,35 +830,53 @@ def generate_html(news_items):
         }}
         
         function loadNewsForDate(date) {{
+            // 전체 데이터에서 해당 날짜가 시작되는 첫 인덱스를 찾습니다.
             const firstIndex = allNewsFlat.findIndex(item => item.date === date);
             if (firstIndex !== -1) {{
-                currentData = allNewsFlat;
+                // 전체 리스트를 다시 렌더링하되, 해당 위치로 스크롤을 이동시킵니다.
+                // 이렇게 해야 위로 스와이프했을 때 이전 날짜 뉴스가 보입니다.
                 renderReels(allNewsFlat, firstIndex);
-                container.scrollTop = firstIndex * window.innerHeight;
+                // 스크롤 위치 강제 이동 (화면 높이 * 인덱스)
+                setTimeout(() => {{
+                    container.scrollTop = firstIndex * window.innerHeight;
+                }}, 10);
             }} else {{
                 alert('해당 날짜의 뉴스가 없습니다.');
             }}
         }}
         
         function goToLatest() {{
-            loadNewsForDate(allNewsFlat[0]?.date);
+            if (allNewsFlat.length > 0) {{
+                loadNewsForDate(allNewsFlat[0].date);
+            }}
         }}
         
+        // 스크롤 시 현재 보고 있는 뉴스에 맞춰 드롭다운 날짜 변경
         container.addEventListener('scroll', () => {{
             const reelHeight = window.innerHeight;
+            // 절반 이상 넘어갔을 때 인덱스 변경 인식
             currentIndex = Math.round(container.scrollTop / reelHeight);
             updateProgress();
             
-            if (currentData[currentIndex]) {{
-                const currentDate = currentData[currentIndex].date;
+            // 현재 보고 있는 릴스의 날짜로 드롭다운 업데이트
+            if (allNewsFlat[currentIndex]) {{
+                const currentDate = allNewsFlat[currentIndex].date;
                 if (dateSelect.value !== currentDate) {{
                     dateSelect.value = currentDate;
                 }}
             }}
         }}, {{ passive: true }});
         
-        renderReels(initialNews);
+        // [핵심 수정] 초기화 시 전체 데이터를 렌더링합니다.
+        // 기존에는 20개만 렌더링해서 스와이프가 막혔던 문제를 해결함.
+        renderReels(allNewsFlat);
         
+        // [핵심 수정] 초기 로딩 시 드롭다운 값을 첫 번째 뉴스의 날짜로 강제 동기화
+        if (allNewsFlat.length > 0) {{
+            dateSelect.value = allNewsFlat[0].date;
+        }}
+        
+        // 터치 스와이프 보조 기능 (필요시)
         let touchStartY = 0;
         container.addEventListener('touchstart', (e) => {{
             touchStartY = e.touches[0].clientY;
@@ -781,13 +886,10 @@ def generate_html(news_items):
             const touchEndY = e.changedTouches[0].clientY;
             const diff = touchStartY - touchEndY;
             
+            // 짧은 터치로도 페이지 넘김이 잘 되도록 보조
             if (Math.abs(diff) > 50) {{
-                const reelHeight = window.innerHeight;
-                if (diff > 0) {{
-                    container.scrollTop += reelHeight;
-                }} else {{
-                    container.scrollTop -= reelHeight;
-                }}
+                // 기본 스크롤 동작이 있으므로 추가 로직은 제거하여 충돌 방지
+                // 필요한 경우 스냅 포인트 미세 조정 가능
             }}
         }}, {{ passive: true }});
     </script>
@@ -815,30 +917,30 @@ if __name__ == '__main__':
         log_message(f"  Total collected: {len(news_items)} articles")
         
         if news_items:
-            # Crawl og:image for each article
-            log_message("  Crawling og:image for each article...")
-            for item in news_items:
-                if item.get('link') and not item.get('image'):
-                    source = item.get('source', '')
-                    
-                    # For non-Google sources, crawl og:image from article URL
-                    if source not in ['Google News']:
-                        item['image'] = fetch_article_image(item['link'], None)
-                    else:
-                        # For Google News, don't crawl (can't get original article URL)
-                        # Will use default image instead
-                        item['image'] = None
+            # [최우선] 큐레이션 먼저 수행하여 상위 20개의 뉴스만 선별
+            log_message("  Curating news (deduplicate & select top 20)...")
+            news_items = curate_news_list(news_items)
             
-            # Store original title/summary before translation
+            # Store original title/summary before translation (큐레이션 후 수행)
             for item in news_items:
                 item['original_title'] = item.get('title', '')
                 item['original_summary'] = item.get('description', '')[:300]
             
-            # Batch summarize
-            log_message("  Batch summarizing (10 at a time)...")
+            # 큐레이션된 20개에 대해서만 이미지 크롤링 수행 (비용 절감)
+            log_message("  Crawling og:image for curated articles...")
+            for item in news_items:
+                if item.get('link') and not item.get('image'):
+                    source = item.get('source', '')
+                    
+                    if source not in ['Google News']:
+                        item['image'] = fetch_article_image(item['link'], None)
+                    else:
+                        item['image'] = None
+            
+            # 큐레이션된 20개에 대해서만 요약/번역 수행 (비용 절감)
+            log_message("  Batch summarizing curated articles (10 at a time)...")
             news_items = batch_summarize(news_items)
             
-            # Add/Replace today's data
             existing_dates[today] = {
                 'date': today,
                 'update_time': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
