@@ -35,19 +35,19 @@ RSS_SOURCES = [
     },
     {
         'name': 'eSchool News',
-        'url': 'https://www.eschoolnews.com/top-news/feed/',
+        'url': 'https://www.eschoolnews.com/feed/',
         'source': 'eSchoolNews'
     },
     
     # 2. 국내 AI/IT 트렌드 (전문지 및 기술동향)
     {
         'name': 'AI Times',
-        'url': 'http://www.aitimes.com/rss/all.xml',
+        'url': 'https://cdn.aitimes.com/rss/gn_rss_allArticle.xml',
         'source': 'AI타임스'
     },
     {
         'name': 'ITWorld Korea',
-        'url': 'https://www.itworld.co.kr/rss/feed/index.php',
+        'url': 'https://www.itworld.co.kr/feed/',
         'source': 'ITWorld'
     },
     
@@ -119,7 +119,7 @@ def fetch_article_image(article_url, rss_image=None):
     return rss_image
 
 def parse_rss_date(date_str, source):
-    """Parse RSS date to YYYY-MM-DD format"""
+    """Parse RSS date to YYYY-MM-DD format with timezone conversion"""
     date_formats = [
         '%a, %d %b %Y %H:%M:%S %Z',
         '%Y-%m-%dT%H:%M:%SZ',
@@ -131,6 +131,12 @@ def parse_rss_date(date_str, source):
     for fmt in date_formats:
         try:
             dt = datetime.strptime(date_str.strip(), fmt)
+            
+            # Convert GMT/UTC to KST (UTC+9)
+            tz_str = date_str.strip().split()[-1] if date_str else ''
+            if tz_str in ['GMT', 'UTC'] or fmt.endswith('Z'):
+                dt = dt + timedelta(hours=9)
+            
             return dt.strftime('%Y-%m-%d')
         except:
             continue
@@ -157,16 +163,12 @@ def fetch_rss_news(source_info, target_date):
         response.encoding = 'utf-8'
         
         if not response.content:
-            log_message(f"  Empty response: {source_info['name']}")
             return []
         
         try:
-            root = ET.fromstring(response.content)
+            root = ET.fromstring(response.content.strip())
         except ET.ParseError as e:
             log_message(f"  XML ParseError in {source_info['name']}: {str(e)[:50]}")
-            return []
-        except Exception as e:
-            log_message(f"  Unexpected error parsing {source_info['name']}: {str(e)[:50]}")
             return []
         
         items = root.findall('.//item')
