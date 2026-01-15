@@ -1080,7 +1080,8 @@ if __name__ == '__main__':
                     existing_links.add(news['link'])
         
         # Collect today's data only (rolling window will maintain 10 days)
-        today = datetime.now().strftime('%Y-%m-%d')
+        # UTC+9 (KST) 기준으로 오늘 날짜 설정
+        today = (datetime.now() + timedelta(hours=9)).strftime('%Y-%m-%d')
         
         log_message(f"\nFetching news for {today}...")
         
