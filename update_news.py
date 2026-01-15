@@ -148,10 +148,8 @@ def parse_rss_date(date_str, source):
         except:
             continue
     
-    if source in ['OpenAI', 'MIT News', 'AI News']:
-        return datetime.now().strftime('%Y-%m-%d')
-    
-    return datetime.now().strftime('%Y-%m-%d')
+    # If parsing fails, return None instead of today's date to avoid duplicates
+    return None
 
 def fetch_rss_news(source_info, target_date):
     """Fetch news from RSS source for a specific date"""
@@ -200,7 +198,8 @@ def fetch_rss_news(source_info, target_date):
             pub_date = pub_date.text if pub_date is not None else ''
             news_date = parse_rss_date(pub_date, source_info['source'])
             
-            if news_date != target_date:
+            # If date parsing failed or date doesn't match target, skip
+            if not news_date or news_date != target_date:
                 continue
             
             description = item.find('description')
@@ -237,14 +236,23 @@ def fetch_rss_news(source_info, target_date):
         log_message(f"Error fetching {source_info['name']}: {e}")
         return []
 
-def fetch_all_news_for_date(target_date):
+def fetch_all_news_for_date(target_date, existing_links=None):
     """Fetch all news for a specific date from all sources"""
     all_news = []
+    if existing_links is None:
+        existing_links = set()
     
     for source in RSS_SOURCES:
         news = fetch_rss_news(source, target_date)
-        all_news.extend(news)
-        log_message(f"  {source['name']}: {len(news)} articles")
+        
+        # Filter out links that already exist in previous days
+        new_items = []
+        for item in news:
+            if item['link'] not in existing_links:
+                new_items.append(item)
+        
+        all_news.extend(new_items)
+        log_message(f"  {source['name']}: {len(new_items)} new articles (found {len(news)})")
         time.sleep(1)
     
     seen = set()
@@ -1064,12 +1072,19 @@ if __name__ == '__main__':
         all_data = load_all_news()
         existing_dates = {d['date']: d for d in all_data.get('dates', [])}
         
+        # Collect all existing links for global deduplication (across all dates)
+        existing_links = set()
+        for date_entry in all_data.get('dates', []):
+            for news in date_entry.get('news', []):
+                if news.get('link'):
+                    existing_links.add(news['link'])
+        
         # Collect today's data only (rolling window will maintain 10 days)
         today = datetime.now().strftime('%Y-%m-%d')
         
         log_message(f"\nFetching news for {today}...")
         
-        news_items = fetch_all_news_for_date(today)
+        news_items = fetch_all_news_for_date(today, existing_links)
         log_message(f"  Total collected: {len(news_items)} articles")
         
         if news_items:
@@ -1097,13 +1112,20 @@ if __name__ == '__main__':
             log_message("  Batch summarizing curated articles (10 at a time)...")
             news_items = batch_summarize(news_items)
             
+            # Merge with existing news for today if any
+            existing_today_news = existing_dates.get(today, {}).get('news', [])
+            combined_news = existing_today_news + news_items
+            
+            # Sort combined news by priority (optional but good for consistency)
+            # combined_news = sort_by_source_priority(combined_news) # Assuming sort is stable
+            
             existing_dates[today] = {
                 'date': today,
                 'update_time': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
-                'news': news_items
+                'news': combined_news
             }
             
-            log_message(f"  Completed: {len(news_items)} articles")
+            log_message(f"  Completed: {len(news_items)} new articles (Total for today: {len(combined_news)})")
         else:
             log_message("  No new articles found for today")
         
