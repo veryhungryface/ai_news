@@ -249,13 +249,27 @@ def fetch_all_news_for_date(target_date):
     
     return unique_news
 
+def sort_by_source_priority(articles):
+    """Sort articles by source priority: AI타임스 -> 에듀테크 검색 -> ITWorld -> 나머지"""
+    source_priority = {
+        'AI타임스': 0,
+        '에듀테크 검색': 1,
+        'ITWorld': 2
+    }
+    
+    def get_priority(article):
+        source = article.get('source', '')
+        return source_priority.get(source, 99)
+    
+    return sorted(articles, key=get_priority)
+
 def curate_news_list(articles):
-    """Curate news list using LLM - deduplicate and select top 20 important articles"""
+    """Curate news list using LLM - deduplicate and select top 30 important articles"""
     if not articles:
         return []
     
-    if len(articles) <= 20:
-        return articles
+    if len(articles) <= 30:
+        return sort_by_source_priority(articles)
     
     url = "https://api.z.ai/api/coding/paas/v4/chat/completions"
     headers = {
@@ -263,8 +277,22 @@ def curate_news_list(articles):
         'Content-Type': 'application/json'
     }
     
+    # 소스별로 균등하게 샘플링하여 큐레이션 (최대 100개)
+    from collections import defaultdict
+    source_articles = defaultdict(list)
+    for article in articles:
+        source_articles[article.get('source', 'Unknown')].append(article)
+    
+    # 각 소스에서 최대 20개씩 취하여 균등한 분포 확보
+    sampled_articles = []
+    for source, source_list in source_articles.items():
+        sampled_articles.extend(source_list[:20])
+    
+    # 최대 100개만 LLM에 전달 (토큰 제한 고려)
+    sampled_articles = sampled_articles[:100]
+    
     prompt_parts = []
-    for idx, article in enumerate(articles[:50]):
+    for idx, article in enumerate(sampled_articles):
         original_title = article.get('title', '')
         original_summary = article.get('description', '')[:200]
         source = article.get('source', '')
@@ -274,19 +302,19 @@ def curate_news_list(articles):
 출처: {source}
 본문요약: {original_summary}""")
     
-    prompt = f"""다음 {min(len(articles), 50)}개의 AI/에듀테크 뉴스 기사를 분석하여 큐레이션해주세요.
-
-{chr(10).join(prompt_parts)}
-
-큐레이션 요구사항:
-1. 중복되거나 비슷한 내용의 기사는 제거하세요.
-2. AI 및 에듀테크 분야에서 가장 중요하고 영향력 있는 상위 20개 기사만 선별하세요.
-3. 선별 기준: 기술적 혁신성, 시장 영향력, 사용자 관련성, 뉴스 가치 등을 고려하세요.
-
-출력 형식 (숫자로만 답변, 쉼표로 구분):
-1,3,5,7,10,12,15,18,20,22,25,28,30,32,35,38,40,42,45,48
-
-반드시 1부터 {min(len(articles), 50)} 사이의 숫자 20개만 출력하고, 다른 설명 없이 숫자만 쉼표로 구분해주세요."""
+    prompt = f"""다음 {len(sampled_articles)}개의 AI/에듀테크 뉴스 기사를 분석하여 큐레이션해주세요.
+ 
+ {chr(10).join(prompt_parts)}
+ 
+ 큐레이션 요구사항:
+ 1. 중복되거나 비슷한 내용의 기사는 제거하세요.
+ 2. AI 및 에듀테크 분야에서 가장 중요하고 영향력 있는 상위 30개 기사만 선별하세요.
+ 3. 선별 기준: 기술적 혁신성, 시장 영향력, 사용자 관련성, 뉴스 가치 등을 고려하세요.
+ 
+ 출력 형식 (숫자로만 답변, 쉼표로 구분):
+ 1,3,5,7,10,12,15,18,20,22,25,28,30,32,35,38,40,42,45,48,50,52,55,58,60,62,65,68,70,72
+ 
+ 반드시 1부터 {len(sampled_articles)} 사이의 숫자 30개만 출력하고, 다른 설명 없이 숫자만 쉼표로 구분해주세요."""
 
     data = {
         'model': 'glm-4.7',
@@ -310,27 +338,27 @@ def curate_news_list(articles):
                 for num_str in content.split(','):
                     try:
                         num = int(num_str.strip())
-                        if 1 <= num <= len(articles):
+                        if 1 <= num <= len(sampled_articles):
                             indices.append(num - 1)
                     except:
                         continue
                 
-                if len(indices) >= 20:
-                    indices = indices[:20]
-                    curated = [articles[i] for i in indices]
+                if len(indices) >= 30:
+                    indices = indices[:30]
+                    curated = [sampled_articles[i] for i in indices]
                     log_message(f"  Curated: {len(articles)} -> {len(curated)} articles")
-                    return curated
+                    return sort_by_source_priority(curated)
                 else:
-                    log_message(f"  Curation returned only {len(indices)} articles, using first 20")
-                    return articles[:20]
+                    log_message(f"  Curation returned only {len(indices)} articles, using first 30")
+                    return sort_by_source_priority(articles[:30])
         else:
-            log_message(f"  Curation API error {response.status_code}, using first 20")
-            return articles[:20]
+            log_message(f"  Curation API error {response.status_code}, using first 30")
+            return sort_by_source_priority(articles[:30])
     except Exception as e:
-        log_message(f"  Curation error: {e}, using first 20")
-        return articles[:20]
+        log_message(f"  Curation error: {e}, using first 30")
+        return sort_by_source_priority(articles[:30])
     
-    return articles[:20]
+    return sort_by_source_priority(articles[:30])
 
 def batch_summarize(articles):
     """Batch summarize 10 articles at a time using GLM API"""
@@ -366,13 +394,16 @@ def batch_summarize(articles):
  
  처리 요구사항:
  1. 영문 기사는 제목과 본문 요약을 모두 자연스러운 한국어로 번역하세요.
- 2. 각 기사의 핵심을 서술형으로 200자 내외로 요약하세요.
+ 2. 각 기사의 핵심을 불렛 포인트(•) 4개로 구조화하여 요약하세요. 줄글보다 빠르게 파악할 수 있도록 각 핵심은 명확하고 간결하게 작성하세요.
  3. 기사의 핵심 키워드 1개를 추출하세요 (최대 5자).
  
  출력 형식:
  === 기사 1 ===
  번역된 제목: [영문인 경우 한국어 제목, 한글인 경우 기존 제목]
- 요약: [서술형 200자 요약]
+ 요약: • 첫 번째 핵심 내용 (20자 내외)
+ • 두 번째 핵심 내용 (20자 내외)
+ • 세 번째 핵심 내용 (20자 내외)
+ • 네 번째 핵심 내용 (20자 내외)
  키워드: [핵심 키워드]
  
  === 기사 2 ===
@@ -427,10 +458,13 @@ def parse_batch_response(articles, response):
             if title_match:
                 articles[idx]['translated_title'] = title_match.group(1).strip()
             
-            # Extract summary
-            summary_match = re.search(r'요약:\s*(.+?)(?:\n===|$)', section_content, re.DOTALL)
+            # Extract summary (키워드: 라인 전까지만 추출)
+            summary_match = re.search(r'요약:\s*(.+?)(?:키워드:|$)', section_content, re.DOTALL)
             if summary_match:
-                articles[idx]['summary'] = summary_match.group(1).strip()
+                summary_text = summary_match.group(1).strip()
+                # 키워드 라인이 혼입된 경우 제거
+                summary_text = re.sub(r'키워드:.*$', '', summary_text, flags=re.MULTILINE).strip()
+                articles[idx]['summary'] = summary_text
             
             # Extract keyword
             keyword_match = re.search(r'키워드:\s*(.+?)(?:\n|$)', section_content)
@@ -554,19 +588,29 @@ def generate_html(news_items):
             flex-direction: column;
             justify-content: flex-end;
             overflow: hidden;
-            background-size: cover;
-            background-position: center;
+            background-color: #000000;
             transition: transform 0.3s ease;
         }}
         
-        .reel::before {{
+        .reel-bg {{
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 70%;
+            background-size: cover;
+            background-position: center top;
+            z-index: 0;
+        }}
+        
+        .reel-bg::after {{
             content: '';
             position: absolute;
             top: 0;
             left: 0;
             right: 0;
             bottom: 0;
-            background: linear-gradient(180deg, transparent 40%, rgba(0,0,0,0.6) 70%, rgba(0,0,0,0.9) 100%);
+            background: linear-gradient(180deg, transparent 0%, transparent 40%, rgba(0,0,0,0.6) 70%, rgba(0,0,0,1) 100%);
             z-index: 1;
         }}
         
@@ -593,69 +637,102 @@ def generate_html(news_items):
         
         .reel-title {{
             color: #FFFFFF;
-            font-size: 26px;
-            font-weight: 700;
-            line-height: 1.4;
-            margin-bottom: 12px;
-            text-shadow: 0 2px 8px rgba(0,0,0,0.5);
+            font-size: 28px;
+            font-weight: 800;
+            line-height: 1.35;
+            margin-bottom: 14px;
+            text-shadow: 0 2px 12px rgba(0,0,0,0.8);
             word-wrap: break-word;
+            letter-spacing: -0.5px;
         }}
         
         .reel-summary {{
-            color: #FFFFFF;
+            color: rgba(255, 255, 255, 0.95);
             font-size: 16px;
-            line-height: 1.6;
-            margin-bottom: 16px;
-            text-shadow: 0 1px 4px rgba(0,0,0,0.5);
+            line-height: 1.8;
+            margin-bottom: 60px; /* Space for the button */
+            text-shadow: 0 1px 2px rgba(0,0,0,0.8);
             white-space: pre-line;
+            font-weight: 400;
+        }}
+        
+        .reel-summary strong {{
+            color: #FFFFFF;
+            font-weight: 700;
+            text-shadow: 0 0 10px rgba(255,255,255,0.3);
         }}
         
         .reel-meta {{
             display: flex;
             align-items: center;
-            gap: 12px;
+            gap: 10px;
             margin-bottom: 12px;
-            flex-wrap: wrap;
+            white-space: nowrap;
         }}
         
         .reel-source {{
-            background: rgba(59, 130, 246, 0.9);
-            padding: 4px 10px;
-            border-radius: 6px;
+            background: #3B82F6;
+            padding: 3px 8px;
+            border-radius: 4px;
             font-size: 12px;
-            font-weight: 600;
+            font-weight: 700;
             color: #FFFFFF;
+            display: inline-flex;
+            align-items: center;
+        }}
+        
+        .meta-separator {{
+            color: rgba(255, 255, 255, 0.4);
+            font-size: 12px;
+            font-weight: 300;
         }}
         
         .reel-date {{
-            color: #9CA3AF;
+            color: #E5E7EB;
             font-size: 13px;
             font-weight: 500;
         }}
         
-        .reel-keyword {{
-            display: inline-block;
-            background: rgba(168, 85, 247, 0.9);
-            padding: 6px 14px;
-            border-radius: 20px;
-            font-size: 14px;
-            font-weight: 700;
-            color: #FFFFFF;
-            margin-bottom: 14px;
-            box-shadow: 0 2px 8px rgba(168, 85, 247, 0.3);
+        .reel-tag {{
+            color: rgba(255, 255, 255, 0.8);
+            font-size: 13px;
+            font-weight: 400;
         }}
         
         .reel-link {{
-            display: inline-block;
-            background: linear-gradient(135deg, #3B82F6 0%, #8B5CF6 100%);
+            position: absolute;
+            bottom: 80px;  /* 모바일 주소창 간섭 방지를 위해 상향 조정 */
+            right: 20px;
+            background: rgba(255, 255, 255, 0.15);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            border-radius: 30px;
+            padding: 10px 20px;
             color: #FFFFFF;
-            padding: 12px 24px;
-            border-radius: 10px;
-            text-decoration: none;
-            font-weight: 600;
             font-size: 14px;
+            font-weight: 600;
+            text-decoration: none;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            z-index: 10;
             transition: all 0.3s ease;
-            box-shadow: 0 4px 12px rgba(59, 130, 246, 0.3);
+            box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+        }}
+        
+        .reel-link:active {{
+            transform: scale(0.95);
+        }}
+
+        @keyframes pulse-btn {{
+            0% {{ box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.4); }}
+            70% {{ box-shadow: 0 0 0 10px rgba(255, 255, 255, 0); }}
+            100% {{ box-shadow: 0 0 0 0 rgba(255, 255, 255, 0); }}
+        }}
+        
+        .reel-link {{
+            animation: pulse-btn 3s infinite;
         }}
         
         .top-ui {{
@@ -665,10 +742,57 @@ def generate_html(news_items):
             right: 16px;
             z-index: 1000;
             display: flex;
-            justify-content: space-between;
-            align-items: flex-start;
-            gap: 16px;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
             pointer-events: none;
+        }}
+        
+        .top-ui > * {{
+            pointer-events: auto;
+        }}
+        
+        .go-latest-btn {{
+            background: rgba(0,0,0,0.4);
+            backdrop-filter: blur(20px);
+            border: 1px solid rgba(255,255,255,0.15);
+            border-radius: 50px;
+            padding: 8px 14px;
+            color: #FFFFFF;
+            font-size: 12px;
+            font-weight: 600;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            gap: 5px;
+            transition: all 0.3s ease;
+        }}
+        
+        .date-selector {{
+            background: rgba(0,0,0,0.4);
+            backdrop-filter: blur(20px);
+            border: 1px solid rgba(255,255,255,0.15);
+            border-radius: 12px;
+            padding: 6px 10px;
+            color: #FFFFFF;
+            font-size: 13px;
+        }}
+        
+        .date-selector select {{
+            background: rgba(255,255,255,0.08);
+            color: #FFFFFF;
+            border: none;
+            padding: 5px 10px;
+            border-radius: 8px;
+            font-size: 13px;
+            font-weight: 500;
+            cursor: pointer;
+            min-width: 110px;
+        }}
+        
+        .date-selector select option {{
+            background: #000000;
+            color: #FFFFFF;
         }}
         
         .top-ui > * {{
@@ -769,18 +893,13 @@ def generate_html(news_items):
     </div>
     
     <div class="top-ui">
-        <div class="top-left-ui">
-            <div class="go-latest-btn" onclick="goToLatest()">
-                ⬆ 최신 뉴스
-            </div>
-            <div class="date-selector">
-                <select id="dateSelect" onchange="loadNewsForDate(this.value)">
-                    {dates_options}
-                </select>
-            </div>
+        <div class="go-latest-btn" onclick="goToLatest()">
+            ⬆ 최신
         </div>
-        <div class="update-time">
-            {update_time}
+        <div class="date-selector">
+            <select id="dateSelect" onchange="loadNewsForDate(this.value)">
+                {dates_options}
+            </select>
         </div>
     </div>
     
@@ -818,25 +937,30 @@ def generate_html(news_items):
                 const bgImage = item.image 
                     ? item.image 
                     : defaultImages[(startIndex + index) % defaultImages.length];
-                reel.style.backgroundImage = `url(${{bgImage}})`;
                 
-                const keyword = item.category_keyword ? `<div class="reel-keyword">#${{item.category_keyword}}</div>` : '';
+                const keywordTag = item.category_keyword ? `<span class="meta-separator">|</span><span class="reel-tag">#${{item.category_keyword}}</span>` : '';
                 const displayTitle = item.translated_title || item.title;
                 
                 // 날짜 불일치 해결: new Date() 사용을 피하고 문자열 앞 10자리(YYYY-MM-DD)를 그대로 사용
                 const displayDate = item.date.substring(0, 10);
                 
+                let summaryText = item.summary || '전체 기사 내용을 확인하려면 아래 링크를 클릭하세요.';
+                // 불렛 포인트를 이모지로 변경하여 가독성 개선
+                summaryText = summaryText.replace(/•/g, '✔️');
+                
                 reel.innerHTML = `
+                    <div class="reel-bg" style="background-image: url(${{bgImage}})"></div>
                     <div class="content-overlay">
                         <div class="reel-meta">
                             <span class="reel-source">${{item.source || 'Unknown'}}</span>
+                            <span class="meta-separator">|</span>
                             <span class="reel-date">${{displayDate}}</span>
+                            ${{keywordTag}}
                         </div>
-                        ${{keyword}}
                         <h2 class="reel-title">${{displayTitle}}</h2>
-                        <p class="reel-summary">${{item.summary || '전체 기사 내용을 확인하려면 아래 링크를 클릭하세요.'}}</p>
-                        <a class="reel-link" href="${{item.link}}" target="_blank">자세히 보기</a>
+                        <div class="reel-summary">${{summaryText}}</div>
                     </div>
+                    <a class="reel-link" href="${{item.link}}" target="_blank">자세히 보기 &gt;</a>
                 `;
                 
                 container.appendChild(reel);
@@ -941,8 +1065,8 @@ if __name__ == '__main__':
         log_message(f"  Total collected: {len(news_items)} articles")
         
         if news_items:
-            # [최우선] 큐레이션 먼저 수행하여 상위 20개의 뉴스만 선별
-            log_message("  Curating news (deduplicate & select top 20)...")
+            # [최우선] 큐레이션 먼저 수행하여 상위 30개의 뉴스만 선별
+            log_message("  Curating news (deduplicate & select top 30)...")
             news_items = curate_news_list(news_items)
             
             # Store original title/summary before translation (큐레이션 후 수행)
@@ -950,7 +1074,7 @@ if __name__ == '__main__':
                 item['original_title'] = item.get('title', '')
                 item['original_summary'] = item.get('description', '')[:300]
             
-            # 큐레이션된 20개에 대해서만 이미지 크롤링 수행 (비용 절감)
+            # 큐레이션된 30개에 대해서만 이미지 크롤링 수행 (비용 절감)
             log_message("  Crawling og:image for curated articles...")
             for item in news_items:
                 if item.get('link') and not item.get('image'):
@@ -961,7 +1085,7 @@ if __name__ == '__main__':
                     else:
                         item['image'] = None
             
-            # 큐레이션된 20개에 대해서만 요약/번역 수행 (비용 절감)
+            # 큐레이션된 30개에 대해서만 요약/번역 수행 (비용 절감)
             log_message("  Batch summarizing curated articles (10 at a time)...")
             news_items = batch_summarize(news_items)
             
