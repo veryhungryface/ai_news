@@ -22,29 +22,29 @@ load_dotenv()
 GLM_API_KEY = os.getenv('GLM_API_KEY')
 
 RSS_SOURCES = [
-    # 1. 네이버 뉴스 - 키워드 기반 (핵심)
+    # 1. 네이버 뉴스 키워드 대안 (Google News)
     {
-        'name': 'Naver News (EdTech)',
-        'url': 'https://news.naver.com/main/rss/search.naver?query=%EC%97%90%EB%93%80%ED%85%8C%ED%81%AC',
+        'name': 'Google News (EdTech)',
+        'url': 'https://news.google.com/rss/search?q=%EC%97%90%EB%93%80%ED%85%8C%ED%81%AC&hl=ko&gl=KR&ceid=KR:ko',
         'source': '네이버(에듀테크)'
     },
     {
-        'name': 'Naver News (AI Education)',
-        'url': 'https://news.naver.com/main/rss/search.naver?query=AI%20%EA%B5%90%EC%9C%A1',
+        'name': 'Google News (AI Education)',
+        'url': 'https://news.google.com/rss/search?q=AI+%EA%B5%90%EC%9C%A1&hl=ko&gl=KR&ceid=KR:ko',
         'source': '네이버(AI교육)'
     },
     {
-        'name': 'Naver News (Digital Textbook)',
-        'url': 'https://news.naver.com/main/rss/search.naver?query=%EB%94%94%EC%A7%80%ED%84%B8%20%EA%B5%90%EA%B3%BC%EC%84%9C',
+        'name': 'Google News (Digital Textbook)',
+        'url': 'https://news.google.com/rss/search?q=%EB%94%94%EC%A7%80%ED%84%B8+%EA%B5%90%EA%B3%BC%EC%84%9C&hl=ko&gl=KR&ceid=KR:ko',
         'source': '네이버(디지털교과서)'
     },
     {
-        'name': 'Naver News (AI Textbook)',
-        'url': 'https://news.naver.com/main/rss/search.naver?query=AI%20%EA%B5%90%EA%B3%BC%EC%84%9C',
+        'name': 'Google News (AI Textbook)',
+        'url': 'https://news.google.com/rss/search?q=AI+%EA%B5%90%EA%B3%BC%EC%84%9C&hl=ko&gl=KR&ceid=KR:ko',
         'source': '네이버(AI교과서)'
     },
 
-    # 2. 정부·공공 공식 채널 (정책 신뢰도 최상)
+    # 2. 정부·공공 공식 채널
     {
         'name': 'Korea Policy Briefing',
         'url': 'https://www.korea.kr/rss/policy.xml',
@@ -52,21 +52,15 @@ RSS_SOURCES = [
         'keywords': ['인공지능', 'AI', '디지털교과서', '에듀테크', '디지털 전환']
     },
 
-    # 3. 주요 언론사 (시장·기업 흐름)
+    # 3. 주요 언론사
     {
         'name': 'Yonhap News',
         'url': 'https://www.yna.co.kr/rss/society.xml',
         'source': '연합뉴스',
         'keywords': ['인공지능', 'AI', '디지털교과서', '에듀테크', '디지털 전환', '교육']
     },
-    {
-        'name': 'Hankyung',
-        'url': 'https://www.hankyung.com/feed',
-        'source': '한국경제',
-        'keywords': ['에듀테크', 'AI 교육', '디지털 교과서', '교육 플랫폼', '스타트업', '투자', 'M&A']
-    },
-
-    # 4. 기존 에듀테크/AI 전문 매체 (유지)
+    
+    # 4. 전문 매체
     {
         'name': 'AI Times',
         'url': 'https://cdn.aitimes.com/rss/gn_rss_allArticle.xml',
@@ -78,7 +72,7 @@ RSS_SOURCES = [
         'source': 'ITWorld'
     },
     
-    # 5. 해외 AI 핵심 기술 및 투자 (원천기술/스타트업)
+    # 5. 해외
     {
         'name': 'OpenAI News',
         'url': 'https://openai.com/news/rss.xml',
@@ -154,6 +148,7 @@ def parse_rss_date(date_str, source):
     """Parse RSS date to YYYY-MM-DD format with timezone conversion"""
     date_formats = [
         '%a, %d %b %Y %H:%M:%S %Z',
+        '%a, %d %b %Y %H:%M:%S %z',  # Added for Yonhap (+0900)
         '%Y-%m-%dT%H:%M:%SZ',
         '%Y-%m-%dT%H:%M:%S%z',
         '%d %b %Y %H:%M:%S',
@@ -178,9 +173,10 @@ def parse_rss_date(date_str, source):
 
 def fetch_rss_news(source_info, target_date):
     """Fetch news from RSS source for a specific date"""
+    # Simple headers often work better for RSS feeds
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36',
-        'Accept': 'application/rss+xml, application/xml, text/xml, */*;q=0.9'
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
+        'Accept': 'application/rss+xml, application/xml, text/xml, */*'
     }
     
     try:
@@ -308,7 +304,6 @@ def sort_by_source_priority(articles):
         '네이버(디지털교과서)': 1,
         
         # 2. 시장/기업 (Market)
-        '한국경제': 2,
         '네이버(에듀테크)': 2,
         
         # 3. 기술/트렌드 (Tech)
