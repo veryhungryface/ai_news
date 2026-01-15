@@ -61,6 +61,13 @@ RSS_SOURCES = [
         'name': 'TechCrunch AI',
         'url': 'https://techcrunch.com/category/artificial-intelligence/feed/',
         'source': 'TechCrunch'
+    },
+    
+    # 4. 오픈소스 AI 모델 트렌드
+    {
+        'name': 'HuggingFace Trending',
+        'url': 'https://zernel.github.io/huggingface-trending-feed/feed.xml',
+        'source': 'HuggingFace'
     }
 ]
 
@@ -254,7 +261,8 @@ def sort_by_source_priority(articles):
     source_priority = {
         'AI타임스': 0,
         '에듀테크 검색': 1,
-        'ITWorld': 2
+        'ITWorld': 2,
+        'HuggingFace': 3
     }
     
     def get_priority(article):
