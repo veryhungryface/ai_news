@@ -22,24 +22,51 @@ load_dotenv()
 GLM_API_KEY = os.getenv('GLM_API_KEY')
 
 RSS_SOURCES = [
-    # 1. 에듀테크 특화 (국내/해외)
+    # 1. 네이버 뉴스 - 키워드 기반 (핵심)
     {
-        'name': 'Google News (EdTech)',
-        'url': 'https://news.google.com/rss/search?q=%EC%97%90%EB%93%80%ED%85%8C%ED%81%AC|AI%EA%B5%90%EC%9C%A1|%EB%94%94%EC%A7%80%ED%84%B8%EA%B5%90%EA%B3%BC%EC%84%9C&hl=ko&gl=KR&ceid=KR:ko',
-        'source': '에듀테크 검색'
+        'name': 'Naver News (EdTech)',
+        'url': 'https://news.naver.com/main/rss/search.naver?query=%EC%97%90%EB%93%80%ED%85%8C%ED%81%AC',
+        'source': '네이버(에듀테크)'
     },
     {
-        'name': 'EdSurge',
-        'url': 'https://www.edsurge.com/articles_rss',
-        'source': 'EdSurge'
+        'name': 'Naver News (AI Education)',
+        'url': 'https://news.naver.com/main/rss/search.naver?query=AI%20%EA%B5%90%EC%9C%A1',
+        'source': '네이버(AI교육)'
     },
     {
-        'name': 'eSchool News',
-        'url': 'https://www.eschoolnews.com/feed/',
-        'source': 'eSchoolNews'
+        'name': 'Naver News (Digital Textbook)',
+        'url': 'https://news.naver.com/main/rss/search.naver?query=%EB%94%94%EC%A7%80%ED%84%B8%20%EA%B5%90%EA%B3%BC%EC%84%9C',
+        'source': '네이버(디지털교과서)'
     },
-    
-    # 2. 국내 AI/IT 트렌드 (전문지 및 기술동향)
+    {
+        'name': 'Naver News (AI Textbook)',
+        'url': 'https://news.naver.com/main/rss/search.naver?query=AI%20%EA%B5%90%EA%B3%BC%EC%84%9C',
+        'source': '네이버(AI교과서)'
+    },
+
+    # 2. 정부·공공 공식 채널 (정책 신뢰도 최상)
+    {
+        'name': 'Korea Policy Briefing',
+        'url': 'https://www.korea.kr/rss/policy.xml',
+        'source': '정책브리핑',
+        'keywords': ['인공지능', 'AI', '디지털교과서', '에듀테크', '디지털 전환']
+    },
+
+    # 3. 주요 언론사 (시장·기업 흐름)
+    {
+        'name': 'Yonhap News',
+        'url': 'https://www.yna.co.kr/rss/society.xml',
+        'source': '연합뉴스',
+        'keywords': ['인공지능', 'AI', '디지털교과서', '에듀테크', '디지털 전환', '교육']
+    },
+    {
+        'name': 'Hankyung',
+        'url': 'https://www.hankyung.com/feed',
+        'source': '한국경제',
+        'keywords': ['에듀테크', 'AI 교육', '디지털 교과서', '교육 플랫폼', '스타트업', '투자', 'M&A']
+    },
+
+    # 4. 기존 에듀테크/AI 전문 매체 (유지)
     {
         'name': 'AI Times',
         'url': 'https://cdn.aitimes.com/rss/gn_rss_allArticle.xml',
@@ -51,7 +78,7 @@ RSS_SOURCES = [
         'source': 'ITWorld'
     },
     
-    # 3. 해외 AI 핵심 기술 및 투자 (원천기술/스타트업)
+    # 5. 해외 AI 핵심 기술 및 투자 (원천기술/스타트업)
     {
         'name': 'OpenAI News',
         'url': 'https://openai.com/news/rss.xml',
@@ -62,8 +89,6 @@ RSS_SOURCES = [
         'url': 'https://techcrunch.com/category/artificial-intelligence/feed/',
         'source': 'TechCrunch'
     },
-    
-    # 4. 오픈소스 AI 모델 트렌드
     {
         'name': 'HuggingFace Trending',
         'url': 'https://zernel.github.io/huggingface-trending-feed/feed.xml',
@@ -206,6 +231,15 @@ def fetch_rss_news(source_info, target_date):
             desc = description.text if description is not None else ''
             clean_desc = re.sub('<[^<]+?>', '', desc)[:500] if desc else ''
             
+            # Keyword filtering (if specified in source config)
+            keywords = source_info.get('keywords', [])
+            if keywords:
+                # Check if any keyword is present in title or description
+                text_to_check = (title + " " + clean_desc).lower()
+                # Use simple substring matching
+                if not any(k.lower() in text_to_check for k in keywords):
+                    continue
+            
             enclosure = item.find('enclosure')
             image = None
             if enclosure is not None and enclosure.get('type', '').startswith('image'):
@@ -265,12 +299,28 @@ def fetch_all_news_for_date(target_date, existing_links=None):
     return unique_news
 
 def sort_by_source_priority(articles):
-    """Sort articles by source priority: AI타임스 -> 에듀테크 검색 -> ITWorld -> 나머지"""
+    """Sort articles by source priority: Policy -> Market -> Tech -> Global"""
     source_priority = {
-        'AI타임스': 0,
-        '에듀테크 검색': 1,
-        'ITWorld': 2,
-        'HuggingFace': 3
+        # 1. 정책 (Policy)
+        '대한민국 정책브리핑': 0,
+        '정책브리핑': 0,
+        '네이버(AI교과서)': 1,
+        '네이버(디지털교과서)': 1,
+        
+        # 2. 시장/기업 (Market)
+        '한국경제': 2,
+        '네이버(에듀테크)': 2,
+        
+        # 3. 기술/트렌드 (Tech)
+        '네이버(AI교육)': 3,
+        '연합뉴스': 3,
+        'AI타임스': 3,
+        'ITWorld': 3,
+        
+        # 4. 해외 (Global)
+        'OpenAI': 4,
+        'HuggingFace': 4,
+        'TechCrunch': 4
     }
     
     def get_priority(article):
