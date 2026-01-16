@@ -616,6 +616,96 @@ def generate_html(news_items):
             font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
         }}
         
+        /* Intro Screen Styles */
+        .intro-screen {{
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: #000000;
+            z-index: 9999;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            transition: opacity 0.8s ease-out;
+        }}
+
+        .intro-text {{
+            color: #FFFFFF;
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 2.2rem;
+            font-weight: 700;
+            overflow: hidden;
+            border-right: .15em solid #FFFFFF;
+            white-space: nowrap;
+            margin: 0 auto;
+            letter-spacing: 0.1em;
+            animation: 
+                typing 2s steps(11, end),
+                blink-caret .75s step-end infinite;
+            width: 0;
+            animation-fill-mode: forwards;
+        }}
+
+        @keyframes typing {{
+            from {{ width: 0 }}
+            to {{ width: 12ch }}
+        }}
+
+        @keyframes blink-caret {{
+            from, to {{ border-color: transparent }}
+            50% {{ border-color: #FFFFFF }}
+        }}
+
+        .intro-hidden {{
+            opacity: 0;
+            pointer-events: none;
+        }}
+
+        /* Landscape Warning */
+        #landscapeWarning {{
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: #000000;
+            z-index: 10000;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            color: #FFFFFF;
+            text-align: center;
+        }}
+
+        #landscapeWarning .icon {{
+            font-size: 48px;
+            margin-bottom: 20px;
+            animation: rotate-phone 2s infinite ease-in-out;
+        }}
+
+        #landscapeWarning p {{
+            font-size: 18px;
+            font-weight: 600;
+        }}
+
+        @keyframes rotate-phone {{
+            0% {{ transform: rotate(0deg); }}
+            50% {{ transform: rotate(-90deg); }}
+            100% {{ transform: rotate(0deg); }}
+        }}
+
+        @media screen and (orientation: landscape) {{
+            #landscapeWarning {{
+                display: flex;
+            }}
+            .reels-container, .top-ui, .nav-hint, .progress-container {{
+                display: none !important;
+            }}
+        }}
+
         .reels-container {{
             height: 100vh;
             width: 100vw;
@@ -941,6 +1031,17 @@ def generate_html(news_items):
     </style>
 </head>
 <body>
+    <!-- Landscape Warning -->
+    <div id="landscapeWarning">
+        <div class="icon">📱</div>
+        <p>세로 모드로 봐주세요</p>
+    </div>
+
+    <!-- Intro Screen -->
+    <div id="introScreen" class="intro-screen">
+        <div class="intro-text">shortsNews</div>
+    </div>
+
     <div class="progress-container">
         <div class="progress-fill" id="progressFill"></div>
     </div>
@@ -964,6 +1065,19 @@ def generate_html(news_items):
     </div>
     
     <script>
+        // Intro Animation Logic
+        window.addEventListener('load', () => {{
+            setTimeout(() => {{
+                const intro = document.getElementById('introScreen');
+                if (intro) {{
+                    intro.classList.add('intro-hidden');
+                    setTimeout(() => {{
+                        intro.style.display = 'none';
+                    }}, 800);
+                }}
+            }}, 2500); // 2s typing + 0.5s delay
+        }});
+
         const allNewsFlat = {all_news_flat_json};
         
         const container = document.getElementById('reelsContainer');
