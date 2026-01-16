@@ -410,6 +410,11 @@ def batch_summarize(articles):
     for i in range(0, len(articles), batch_size):
         batch = articles[i:i+batch_size]
         
+        # Pre-fill summary with description as fallback
+        for article in batch:
+            if not article.get('summary'):
+                article['summary'] = article.get('description', '')[:300]
+        
         prompt_parts = []
         for idx, article in enumerate(batch):
             original_title = article.get('original_title', article.get('title', ''))
@@ -456,18 +461,24 @@ def batch_summarize(articles):
             'thinking': {'type': 'disabled'}
         }
         
-        try:
-            response = requests.post(url, headers=headers, json=data, timeout=120)
-            if response.status_code == 200:
-                result = response.json()
-                if 'choices' in result and len(result['choices']) > 0:
-                    content = result['choices'][0]['message']['content']
-                    log_message(f"  Batch {i//batch_size + 1}: API success")
-                    parse_batch_response(batch, content)
-            else:
-                log_message(f"  Batch {i//batch_size + 1}: API error {response.status_code}")
-        except Exception as e:
-            log_message(f"  Batch {i//batch_size + 1}: Error - {e}")
+        retries = 3
+        for attempt in range(retries):
+            try:
+                response = requests.post(url, headers=headers, json=data, timeout=120)
+                if response.status_code == 200:
+                    result = response.json()
+                    if 'choices' in result and len(result['choices']) > 0:
+                        content = result['choices'][0]['message']['content']
+                        log_message(f"  Batch {i//batch_size + 1}: API success")
+                        parse_batch_response(batch, content)
+                        break
+                else:
+                    log_message(f"  Batch {i//batch_size + 1}: API error {response.status_code} (Attempt {attempt+1}/{retries})")
+            except Exception as e:
+                log_message(f"  Batch {i//batch_size + 1}: Error - {e} (Attempt {attempt+1}/{retries})")
+            
+            if attempt < retries - 1:
+                time.sleep(5) # Wait before retry
         
         processed += len(batch)
         time.sleep(2)
