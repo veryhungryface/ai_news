@@ -22,29 +22,7 @@ load_dotenv()
 GLM_API_KEY = os.getenv('GLM_API_KEY')
 
 RSS_SOURCES = [
-    # 1. 네이버 뉴스 키워드 대안 (Google News)
-    {
-        'name': 'Google News (EdTech)',
-        'url': 'https://news.google.com/rss/search?q=%EC%97%90%EB%93%80%ED%85%8C%ED%81%AC&hl=ko&gl=KR&ceid=KR:ko',
-        'source': '네이버(에듀테크)'
-    },
-    {
-        'name': 'Google News (AI Education)',
-        'url': 'https://news.google.com/rss/search?q=AI+%EA%B5%90%EC%9C%A1&hl=ko&gl=KR&ceid=KR:ko',
-        'source': '네이버(AI교육)'
-    },
-    {
-        'name': 'Google News (Digital Textbook)',
-        'url': 'https://news.google.com/rss/search?q=%EB%94%94%EC%A7%80%ED%84%B8+%EA%B5%90%EA%B3%BC%EC%84%9C&hl=ko&gl=KR&ceid=KR:ko',
-        'source': '네이버(디지털교과서)'
-    },
-    {
-        'name': 'Google News (AI Textbook)',
-        'url': 'https://news.google.com/rss/search?q=AI+%EA%B5%90%EA%B3%BC%EC%84%9C&hl=ko&gl=KR&ceid=KR:ko',
-        'source': '네이버(AI교과서)'
-    },
-
-    # 2. 정부·공공 공식 채널
+    # 1. 정부·공공 공식 채널 (정책 신뢰도 최상)
     {
         'name': 'Korea Policy Briefing',
         'url': 'https://www.korea.kr/rss/policy.xml',
@@ -52,7 +30,7 @@ RSS_SOURCES = [
         'keywords': ['인공지능', 'AI', '디지털교과서', '에듀테크', '디지털 전환']
     },
 
-    # 3. 주요 언론사
+    # 2. 주요 언론사 (시장·기업 흐름)
     {
         'name': 'Yonhap News',
         'url': 'https://www.yna.co.kr/rss/society.xml',
@@ -60,7 +38,7 @@ RSS_SOURCES = [
         'keywords': ['인공지능', 'AI', '디지털교과서', '에듀테크', '디지털 전환', '교육']
     },
     
-    # 4. 전문 매체
+    # 3. 전문 매체
     {
         'name': 'AI Times',
         'url': 'https://cdn.aitimes.com/rss/gn_rss_allArticle.xml',
@@ -72,7 +50,7 @@ RSS_SOURCES = [
         'source': 'ITWorld'
     },
     
-    # 5. 해외
+    # 4. 해외
     {
         'name': 'OpenAI News',
         'url': 'https://openai.com/news/rss.xml',
@@ -295,27 +273,21 @@ def fetch_all_news_for_date(target_date, existing_links=None):
     return unique_news
 
 def sort_by_source_priority(articles):
-    """Sort articles by source priority: Policy -> Market -> Tech -> Global"""
+    """Sort articles by source priority: Policy -> Tech -> Global"""
     source_priority = {
         # 1. 정책 (Policy)
         '대한민국 정책브리핑': 0,
         '정책브리핑': 0,
-        '네이버(AI교과서)': 1,
-        '네이버(디지털교과서)': 1,
         
-        # 2. 시장/기업 (Market)
-        '네이버(에듀테크)': 2,
+        # 2. 기술/트렌드 (Tech) - Domestic
+        '연합뉴스': 1,
+        'AI타임스': 2,
+        'ITWorld': 2,
         
-        # 3. 기술/트렌드 (Tech)
-        '네이버(AI교육)': 3,
-        '연합뉴스': 3,
-        'AI타임스': 3,
-        'ITWorld': 3,
-        
-        # 4. 해외 (Global)
-        'OpenAI': 4,
-        'HuggingFace': 4,
-        'TechCrunch': 4
+        # 3. 해외 (Global)
+        'OpenAI': 3,
+        'HuggingFace': 3,
+        'TechCrunch': 3
     }
     
     def get_priority(article):
