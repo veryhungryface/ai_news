@@ -27,7 +27,7 @@ RSS_SOURCES = [
         'name': 'Korea Policy Briefing',
         'url': 'https://www.korea.kr/rss/policy.xml',
         'source': '정책브리핑',
-        'keywords': ['인공지능', 'AI', '디지털교과서', '에듀테크', '디지털 전환']
+        'keywords': ['인공지능', 'AI', '디지털교과서', '에듀테크', '디지털 전환', 'AI 교육']
     },
 
     # 2. 주요 언론사 (시장·기업 흐름)
@@ -35,7 +35,7 @@ RSS_SOURCES = [
         'name': 'Yonhap News',
         'url': 'https://www.yna.co.kr/rss/society.xml',
         'source': '연합뉴스',
-        'keywords': ['인공지능', 'AI', '디지털교과서', '에듀테크', '디지털 전환', '교육']
+        'keywords': ['인공지능', 'AI', '디지털교과서', '에듀테크', '디지털 전환', 'AI 교육', '소프트웨어 교육', '코딩 교육']
     },
     
     # 3. 전문 매체
@@ -208,10 +208,19 @@ def fetch_rss_news(source_info, target_date):
             # Keyword filtering (if specified in source config)
             keywords = source_info.get('keywords', [])
             if keywords:
-                # Check if any keyword is present in title or description
+                # Check if any keyword matches
+                # For keywords with spaces (e.g. "AI 교육"), require ALL words to be present (AND condition)
                 text_to_check = (title + " " + clean_desc).lower()
-                # Use simple substring matching
-                if not any(k.lower() in text_to_check for k in keywords):
+                
+                match_found = False
+                for k in keywords:
+                    sub_keywords = k.lower().split()
+                    # Check if all sub-keywords are present in text
+                    if all(sub_k in text_to_check for sub_k in sub_keywords):
+                        match_found = True
+                        break
+                
+                if not match_found:
                     continue
             
             enclosure = item.find('enclosure')
