@@ -88,6 +88,190 @@ def is_english_text(text):
     total_chars = len(text.strip())
     return total_chars > 0 and (english_chars / total_chars) > 0.5
 
+# ============================================================
+# HuggingFace Trending Models Pipeline
+# ============================================================
+
+def fetch_huggingface_trending(limit=10):
+    """Fetch trending models from HuggingFace REST API"""
+    url = 'https://huggingface.co/api/models'
+    params = {'sort': 'trendingScore', 'direction': '-1', 'limit': limit}
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
+    
+    try:
+        response = requests.get(url, params=params, headers=headers, timeout=30)
+        if response.status_code == 200:
+            models = response.json()
+            log_message(f"  HuggingFace API: Fetched {len(models)} trending models")
+            return models
+        else:
+            log_message(f"  HuggingFace API error: {response.status_code}")
+            return []
+    except Exception as e:
+        log_message(f"  HuggingFace API exception: {e}")
+        return []
+
+def fetch_model_readme_and_image(model_id):
+    """Fetch README.md content and extract first image from a HuggingFace model"""
+    readme_url = f"https://huggingface.co/{model_id}/raw/main/README.md"
+    headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
+    
+    readme_text = ""
+    image_url = None
+    
+    try:
+        response = requests.get(readme_url, headers=headers, timeout=15)
+        if response.status_code == 200:
+            readme_text = response.text[:3000]  # Limit to first 3000 chars
+            
+            # Extract first image from markdown
+            # Pattern 1: ![alt](url)
+            img_match = re.search(r'!\[[^\]]*\]\(([^)]+)\)', readme_text)
+            if img_match:
+                img_src = img_match.group(1)
+                # Convert relative URLs to absolute
+                if img_src.startswith('http'):
+                    image_url = img_src
+                elif not img_src.startswith('data:'):
+                    image_url = f"https://huggingface.co/{model_id}/resolve/main/{img_src}"
+            
+            # Pattern 2: <img src="...">
+            if not image_url:
+                img_tag_match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', readme_text)
+                if img_tag_match:
+                    img_src = img_tag_match.group(1)
+                    if img_src.startswith('http'):
+                        image_url = img_src
+                    elif not img_src.startswith('data:'):
+                        image_url = f"https://huggingface.co/{model_id}/resolve/main/{img_src}"
+    except Exception as e:
+        log_message(f"    README fetch error for {model_id}: {e}")
+    
+    # Fallback image: HuggingFace model card thumbnail
+    if not image_url:
+        image_url = f"https://huggingface.co/{model_id}/resolve/main/thumbnail.png"
+    
+    return readme_text, image_url
+
+def summarize_model_with_glm(model_id, readme_text):
+    """Generate 4-line summary for a HuggingFace model using GLM API"""
+    if not readme_text or len(readme_text.strip()) < 50:
+        return [
+            f"{model_id} 모델 공개",
+            "HuggingFace 트렌딩 모델",
+            "상세 정보는 링크 참조",
+            "최신 AI 모델 트렌드"
+        ]
+    
+    url = "https://api.z.ai/api/coding/paas/v4/chat/completions"
+    headers = {
+        'Authorization': f'Bearer {GLM_API_KEY}',
+        'Content-Type': 'application/json'
+    }
+    
+    prompt = f"""다음은 HuggingFace 모델 '{model_id}'의 README 문서입니다:
+
+{readme_text[:2000]}
+
+위 문서를 분석해서 일반인이 이해하기 쉬운 4개의 핵심 문장으로 요약해주세요.
+
+[필수 제약 사항]
+- 반드시 JSON Format으로 출력: {{"summary": ["문장1", "문장2", "문장3", "문장4"]}}
+- 각 문장은 30자 내외로 간결하게 작성
+- 문체는 '~함', '~제공', '~공개' 등 뉴스 헤드라인 스타일(명사형 종결) 유지
+- 이모지 사용 금지
+- 반드시 한국어로 작성"""
+
+    data = {
+        'model': 'glm-4.7',
+        'messages': [
+            {'role': 'system', 'content': '너는 IT 트렌드 뉴스 에디터야. 기술 문서를 간결한 뉴스 형식으로 요약하는 전문가야.'},
+            {'role': 'user', 'content': prompt}
+        ],
+        'max_tokens': 500,
+        'temperature': 0.5,
+        'thinking': {'type': 'disabled'}
+    }
+    
+    try:
+        response = requests.post(url, headers=headers, json=data, timeout=60)
+        if response.status_code == 200:
+            result = response.json()
+            if 'choices' in result and len(result['choices']) > 0:
+                content = result['choices'][0]['message']['content'].strip()
+                
+                # Parse JSON response
+                json_match = re.search(r'\{[^{}]*"summary"[^{}]*\}', content, re.DOTALL)
+                if json_match:
+                    try:
+                        parsed = json.loads(json_match.group())
+                        if 'summary' in parsed and isinstance(parsed['summary'], list):
+                            return parsed['summary'][:4]
+                    except json.JSONDecodeError:
+                        pass
+                
+                # Fallback: extract bullet points or lines
+                lines = [l.strip() for l in content.split('\n') if l.strip() and not l.startswith('{')]
+                if len(lines) >= 4:
+                    return lines[:4]
+    except Exception as e:
+        log_message(f"    GLM API error for {model_id}: {e}")
+    
+    # Default fallback
+    return [
+        f"{model_id.split('/')[-1]} 모델 공개",
+        "HuggingFace 트렌딩 모델",
+        "최신 AI 기술 적용",
+        "상세 정보는 링크 참조"
+    ]
+
+def process_huggingface_models():
+    """Main pipeline: Fetch trending models, get README, summarize with GLM"""
+    log_message("Processing HuggingFace Trending Models...")
+    
+    models = fetch_huggingface_trending(limit=10)
+    if not models:
+        log_message("  No models fetched from HuggingFace")
+        return []
+    
+    today = (datetime.now() + timedelta(hours=9)).strftime('%Y-%m-%d')
+    processed_models = []
+    
+    for i, model in enumerate(models):
+        model_id = model.get('modelId', '')
+        if not model_id:
+            continue
+        
+        log_message(f"  [{i+1}/{len(models)}] Processing: {model_id}")
+        
+        # Fetch README and image
+        readme_text, image_url = fetch_model_readme_and_image(model_id)
+        
+        # Generate summary with GLM
+        summary_list = summarize_model_with_glm(model_id, readme_text)
+        summary_text = '\n'.join([f'• {s}' for s in summary_list])
+        
+        # Build news-compatible data structure
+        model_data = {
+            'title': model_id,
+            'link': f'https://huggingface.co/{model_id}',
+            'date': today,
+            'source': 'HuggingFace',
+            'description': summary_text,
+            'image': image_url,
+            'is_english': True,
+            'summary': summary_text,
+            'translated_title': model_id,
+            'category_keyword': 'AI Model',
+            'category': 'AI Model'  # For frontend filtering
+        }
+        
+        processed_models.append(model_data)
+        time.sleep(1)  # Rate limiting
+    
+    log_message(f"  Processed {len(processed_models)} HuggingFace models")
+    return processed_models
+
 def get_og_image(html_content):
     """Extract og:image from HTML content using regex"""
     if not html_content:
@@ -1021,6 +1205,11 @@ def generate_html(news_items):
             opacity: 0.7;
         }}
 
+        .capsule-btn.active {{
+            background: rgba(255,255,255,0.2);
+            border-radius: 999px;
+        }}
+
         .capsule-divider {{
             width: 1px;
             height: 14px;
@@ -1127,6 +1316,10 @@ def generate_html(news_items):
             <span class="logo-shorts">s</span><span class="logo-news">News</span>
         </div>
         <div class="header-capsule">
+            <div class="capsule-btn active" id="tabNews" onclick="switchTab('news')">News</div>
+            <div class="capsule-divider"></div>
+            <div class="capsule-btn" id="tabModel" onclick="switchTab('model')">AI Model</div>
+            <div class="capsule-divider"></div>
             <div class="capsule-btn" onclick="goToLatest()">Newest</div>
             <div class="capsule-divider"></div>
             <div class="capsule-select">
@@ -1175,9 +1368,29 @@ def generate_html(news_items):
         const progressFill = document.getElementById('progressFill');
         const dateSelect = document.getElementById('dateSelect');
         
-        // 현재 보여줄 데이터: 처음부터 전체 데이터를 로드하여 스와이프 문제를 해결합니다.
         let currentData = allNewsFlat;
         let currentIndex = 0;
+        let currentTab = 'news';
+        
+        function switchTab(tab) {{
+            currentTab = tab;
+            const tabNews = document.getElementById('tabNews');
+            const tabModel = document.getElementById('tabModel');
+            
+            if (tab === 'news') {{
+                tabNews.classList.add('active');
+                tabModel.classList.remove('active');
+                currentData = allNewsFlat.filter(item => item.category !== 'AI Model');
+            }} else {{
+                tabNews.classList.remove('active');
+                tabModel.classList.add('active');
+                currentData = allNewsFlat.filter(item => item.category === 'AI Model');
+            }}
+            
+            currentIndex = 0;
+            renderReels(currentData);
+            container.scrollTop = 0;
+        }}
         
         function renderReels(newsItems, startIndex = 0) {{
             container.innerHTML = '';
@@ -1240,13 +1453,9 @@ def generate_html(news_items):
         }}
         
         function loadNewsForDate(date) {{
-            // 전체 데이터에서 해당 날짜가 시작되는 첫 인덱스를 찾습니다.
-            const firstIndex = allNewsFlat.findIndex(item => item.date === date);
+            const firstIndex = currentData.findIndex(item => item.date === date);
             if (firstIndex !== -1) {{
-                // 전체 리스트를 다시 렌더링하되, 해당 위치로 스크롤을 이동시킵니다.
-                // 이렇게 해야 위로 스와이프했을 때 이전 날짜 뉴스가 보입니다.
-                renderReels(allNewsFlat, firstIndex);
-                // 스크롤 위치 강제 이동 (화면 높이 * 인덱스)
+                renderReels(currentData, firstIndex);
                 setTimeout(() => {{
                     container.scrollTop = firstIndex * window.innerHeight;
                 }}, 10);
@@ -1256,37 +1465,34 @@ def generate_html(news_items):
         }}
         
         function goToLatest() {{
-            if (allNewsFlat.length > 0) {{
-                loadNewsForDate(allNewsFlat[0].date);
+            if (currentData.length > 0) {{
+                currentIndex = 0;
+                renderReels(currentData);
+                container.scrollTop = 0;
             }}
         }}
         
-        // 스크롤 시 현재 보고 있는 뉴스에 맞춰 드롭다운 날짜 변경
         container.addEventListener('scroll', () => {{
             const reelHeight = window.innerHeight;
-            // 절반 이상 넘어갔을 때 인덱스 변경 인식
             currentIndex = Math.round(container.scrollTop / reelHeight);
             updateProgress();
             
-            // 현재 보고 있는 릴스의 날짜로 드롭다운 업데이트
-            if (allNewsFlat[currentIndex]) {{
-                const currentDate = allNewsFlat[currentIndex].date;
+            if (currentData[currentIndex]) {{
+                const currentDate = currentData[currentIndex].date;
                 if (dateSelect.value !== currentDate) {{
                     dateSelect.value = currentDate;
                 }}
             }}
         }}, {{ passive: true }});
         
-        // [핵심 수정] 초기화 시 전체 데이터를 렌더링합니다.
-        // 기존에는 20개만 렌더링해서 스와이프가 막혔던 문제를 해결함.
-        renderReels(allNewsFlat);
+        // 초기화: News 탭의 데이터만 렌더링
+        currentData = allNewsFlat.filter(item => item.category !== 'AI Model');
+        renderReels(currentData);
         
-        // [핵심 수정] 초기 로딩 시 드롭다운 값을 첫 번째 뉴스의 날짜로 강제 동기화
-        if (allNewsFlat.length > 0) {{
-            dateSelect.value = allNewsFlat[0].date;
+        if (currentData.length > 0) {{
+            dateSelect.value = currentData[0].date;
         }}
         
-        // 터치 스와이프 보조 기능 (필요시)
         let touchStartY = 0;
         container.addEventListener('touchstart', (e) => {{
             touchStartY = e.touches[0].clientY;
@@ -1314,19 +1520,15 @@ if __name__ == '__main__':
         log_message("AI News Shorts - Batch Processing Started")
         log_message("=" * 50)
         
-        # Load existing data for 10-day rolling window
         all_data = load_all_news()
         existing_dates = {d['date']: d for d in all_data.get('dates', [])}
         
-        # Collect all existing links for global deduplication (across all dates)
         existing_links = set()
         for date_entry in all_data.get('dates', []):
             for news in date_entry.get('news', []):
                 if news.get('link'):
                     existing_links.add(news['link'])
         
-        # Collect today's data only (rolling window will maintain 10 days)
-        # UTC+9 (KST) 기준으로 오늘 날짜 설정
         today = (datetime.now() + timedelta(hours=9)).strftime('%Y-%m-%d')
         
         log_message(f"\nFetching news for {today}...")
@@ -1335,16 +1537,13 @@ if __name__ == '__main__':
         log_message(f"  Total collected: {len(news_items)} articles")
         
         if news_items:
-            # [최우선] 큐레이션 먼저 수행하여 상위 30개의 뉴스만 선별
             log_message("  Curating news (deduplicate & select top 30)...")
             news_items = curate_news_list(news_items)
             
-            # Store original title/summary before translation (큐레이션 후 수행)
             for item in news_items:
                 item['original_title'] = item.get('title', '')
                 item['original_summary'] = item.get('description', '')[:300]
             
-            # 큐레이션된 30개에 대해서만 이미지 크롤링 수행 (비용 절감)
             log_message("  Crawling og:image for curated articles...")
             for item in news_items:
                 if item.get('link') and not item.get('image'):
@@ -1355,16 +1554,12 @@ if __name__ == '__main__':
                     else:
                         item['image'] = None
             
-            # 큐레이션된 30개에 대해서만 요약/번역 수행 (비용 절감)
             log_message("  Batch summarizing curated articles (10 at a time)...")
             news_items = batch_summarize(news_items)
             
-            # Merge with existing news for today if any
             existing_today_news = existing_dates.get(today, {}).get('news', [])
-            combined_news = existing_today_news + news_items
-            
-            # Sort combined news by priority (optional but good for consistency)
-            # combined_news = sort_by_source_priority(combined_news) # Assuming sort is stable
+            existing_today_news_filtered = [n for n in existing_today_news if n.get('category') != 'AI Model']
+            combined_news = existing_today_news_filtered + news_items
             
             existing_dates[today] = {
                 'date': today,
@@ -1376,20 +1571,35 @@ if __name__ == '__main__':
         else:
             log_message("  No new articles found for today")
         
-        # Sort by date descending and keep only last 10 days
+        # ============================================================
+        # HuggingFace Trending Models Integration
+        # ============================================================
+        log_message("\n" + "=" * 50)
+        hf_models = process_huggingface_models()
+        
+        if hf_models:
+            existing_today_entry = existing_dates.get(today, {'date': today, 'update_time': '', 'news': []})
+            existing_news = [n for n in existing_today_entry.get('news', []) if n.get('category') != 'AI Model']
+            combined_news = existing_news + hf_models
+            
+            existing_dates[today] = {
+                'date': today,
+                'update_time': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
+                'news': combined_news
+            }
+            log_message(f"  Added {len(hf_models)} HuggingFace models to today's feed")
+        
         sorted_dates = sorted(existing_dates.values(), key=lambda x: x['date'], reverse=True)
         all_data['dates'] = sorted_dates[:10]
         
         save_all_news(all_data)
         log_message(f"\nSaved {len(all_data['dates'])} days of data (10-day rolling window)")
         
-        # Generate HTML
         html_content = generate_html([])
         with open('/root/first/index.html', 'w', encoding='utf-8') as f:
             f.write(html_content)
         log_message(f"\nGenerated index.html")
         
-        # Count total articles
         total_articles = sum(len(d['news']) for d in all_data['dates'])
         log_message(f"Total articles: {total_articles}")
         
