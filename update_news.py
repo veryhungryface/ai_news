@@ -1335,9 +1335,9 @@ if __name__ == '__main__':
         
         # Generate HTML
         html_content = generate_html([])
-        with open('/root/first/ai_news.html', 'w', encoding='utf-8') as f:
+        with open('/root/first/index.html', 'w', encoding='utf-8') as f:
             f.write(html_content)
-        log_message(f"\nGenerated ai_news.html")
+        log_message(f"\nGenerated index.html")
         
         # Count total articles
         total_articles = sum(len(d['news']) for d in all_data['dates'])
