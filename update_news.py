@@ -1314,8 +1314,6 @@ def generate_html(news_items):
         </div>
         
         <div class="header-capsule">
-            <div class="capsule-btn" onclick="goToLatest()">Newest</div>
-            <div class="capsule-divider"></div>
             <div class="capsule-select">
                 <select id="dateSelect" onchange="loadNewsForDate(this.value)">
                     {dates_options}
