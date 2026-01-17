@@ -767,7 +767,7 @@ def generate_html(news_items):
     
     # 드롭다운 옵션 생성
     dates_options = ''.join(
-        f'<option value="{item["date"]}">{item["date"]}</option>'
+        f'<option value="{item["date"]}">{item["date"][5:]}</option>'
         for item in all_data['dates']
     )
     
@@ -1147,9 +1147,8 @@ def generate_html(news_items):
             right: 16px;
             z-index: 1000;
             display: flex;
-            justify-content: center;
+            justify-content: space-between;
             align-items: center;
-            gap: 10px;
             pointer-events: none;
         }}
         
@@ -1158,8 +1157,6 @@ def generate_html(news_items):
         }}
         
         .header-logo {{
-            position: absolute;
-            left: 0; /* Since top-ui has padding or is centered, wait. top-ui is fixed left 16 right 16. So absolute left 0 is relative to top-ui container */
             font-family: 'Courier New', Courier, monospace;
             font-size: 20px;
             font-weight: bold;
@@ -1315,11 +1312,8 @@ def generate_html(news_items):
         <div class="header-logo">
             <span class="logo-shorts">s</span><span class="logo-news">News</span>
         </div>
+        
         <div class="header-capsule">
-            <div class="capsule-btn active" id="tabNews" onclick="switchTab('news')">News</div>
-            <div class="capsule-divider"></div>
-            <div class="capsule-btn" id="tabModel" onclick="switchTab('model')">AI Model</div>
-            <div class="capsule-divider"></div>
             <div class="capsule-btn" onclick="goToLatest()">Newest</div>
             <div class="capsule-divider"></div>
             <div class="capsule-select">
@@ -1327,6 +1321,12 @@ def generate_html(news_items):
                     {dates_options}
                 </select>
             </div>
+        </div>
+
+        <div class="header-capsule">
+            <div class="capsule-btn active" id="tabNews" onclick="switchTab('news')">News</div>
+            <div class="capsule-divider"></div>
+            <div class="capsule-btn" id="tabModel" onclick="switchTab('model')">AI Model</div>
         </div>
     </div>
     
@@ -1413,7 +1413,7 @@ def generate_html(news_items):
                 const displayTitle = item.translated_title || item.title;
                 
                 // 날짜 불일치 해결: new Date() 사용을 피하고 문자열 앞 10자리(YYYY-MM-DD)를 그대로 사용
-                const displayDate = item.date.substring(0, 10);
+                const displayDate = item.date.substring(5, 10);
                 
                 let summaryText = item.summary || '전체 기사 내용을 확인하려면 아래 링크를 클릭하세요.';
                 // 불렛 포인트를 이모지로 변경하여 가독성 개선
