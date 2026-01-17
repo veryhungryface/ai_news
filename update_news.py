@@ -1146,18 +1146,18 @@ def generate_html(news_items):
     
     <script>
         // Intro Animation Logic
-        window.addEventListener('load', () => {{
+        document.addEventListener('DOMContentLoaded', () => {{
             // 1. Typing animation runs via CSS (2s)
             
-            // 2. Collapse animation start (at 2.2s)
+            // 2. Collapse animation start (at 2.5s -> 0.5s wait after typing)
             setTimeout(() => {{
                 const shortsText = document.getElementById('introShorts');
                 if (shortsText) {{
                     shortsText.classList.add('collapsed');
                 }}
-            }}, 2200);
+            }}, 2500);
 
-            // 3. Fade out intro screen (at 3.5s)
+            // 3. Fade out intro screen (at 3.8s)
             setTimeout(() => {{
                 const intro = document.getElementById('introScreen');
                 if (intro) {{
@@ -1166,7 +1166,7 @@ def generate_html(news_items):
                         intro.style.display = 'none';
                     }}, 800);
                 }}
-            }}, 3500);
+            }}, 3800);
         }});
 
         const allNewsFlat = {all_news_flat_json};
