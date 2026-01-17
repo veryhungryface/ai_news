@@ -636,6 +636,12 @@ def generate_html(news_items):
             font-family: 'Courier New', Courier, monospace;
             font-size: 2.2rem;
             font-weight: 700;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }}
+
+        .intro-typing-wrapper {{
             overflow: hidden;
             border-right: .15em solid #FFFFFF;
             white-space: nowrap;
@@ -646,6 +652,37 @@ def generate_html(news_items):
                 blink-caret .75s step-end infinite;
             width: 0;
             animation-fill-mode: forwards;
+        }}
+
+        .intro-shorts {{
+            display: inline-flex;
+            align-items: baseline;
+            vertical-align: bottom;
+            transition: color 0.6s ease, padding-left 0.6s cubic-bezier(0.25, 1, 0.5, 1);
+        }}
+
+        .intro-short-part {{
+            display: inline-block;
+            overflow: hidden;
+            width: 5.5ch; /* 'short' length + buffer */
+            text-align: right; /* Ensure text sticks to the right (near 's') */
+            margin-right: 0.1em; /* Restore letter-spacing between t and s */
+            transition: width 0.6s cubic-bezier(0.25, 1, 0.5, 1), margin-right 0.6s cubic-bezier(0.25, 1, 0.5, 1);
+            white-space: nowrap;
+        }}
+
+        .intro-shorts.collapsed {{
+            color: #FF0000;
+            padding-left: calc(5.5ch + 0.1em); /* Compensate for width + margin reduction */
+        }}
+
+        .intro-shorts.collapsed .intro-short-part {{
+            width: 0 !important;
+            margin-right: 0 !important;
+        }}
+
+        .intro-news {{
+            color: #FFFFFF;
         }}
 
         @keyframes typing {{
@@ -936,97 +973,91 @@ def generate_html(news_items):
             pointer-events: auto;
         }}
         
-        .go-latest-btn {{
-            background: rgba(0,0,0,0.4);
-            backdrop-filter: blur(20px);
-            border: 1px solid rgba(255,255,255,0.15);
-            border-radius: 50px;
-            padding: 8px 14px;
-            color: #FFFFFF;
-            font-size: 12px;
-            font-weight: 600;
-            cursor: pointer;
+        .header-logo {{
+            position: absolute;
+            left: 0; /* Since top-ui has padding or is centered, wait. top-ui is fixed left 16 right 16. So absolute left 0 is relative to top-ui container */
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 20px;
+            font-weight: bold;
             display: flex;
             align-items: center;
-            gap: 5px;
-            transition: all 0.3s ease;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.5);
+            cursor: default;
         }}
         
-        .date-selector {{
-            background: rgba(0,0,0,0.4);
-            backdrop-filter: blur(20px);
-            border: 1px solid rgba(255,255,255,0.15);
-            border-radius: 12px;
-            padding: 6px 10px;
-            color: #FFFFFF;
-            font-size: 13px;
+        .logo-shorts {{
+            color: #FF0000;
         }}
         
-        .date-selector select {{
-            background: rgba(255,255,255,0.08);
-            color: #FFFFFF;
-            border: none;
-            padding: 5px 10px;
-            border-radius: 8px;
-            font-size: 13px;
-            font-weight: 500;
-            cursor: pointer;
-            min-width: 110px;
-        }}
-        
-        .date-selector select option {{
-            background: #000000;
+        .logo-news {{
             color: #FFFFFF;
         }}
         
-        .top-ui > * {{
-            pointer-events: auto;
-        }}
-        
-        .top-left-ui {{
-            display: flex;
-            align-items: center;
-            gap: 12px;
-        }}
-        
-        .go-latest-btn {{
-            background: rgba(168, 85, 247, 0.9);
-            backdrop-filter: blur(20px);
-            border: 1px solid rgba(255,255,255,0.2);
-            border-radius: 50px;
-            padding: 8px 16px;
-            color: #FFFFFF;
-            font-size: 14px;
-            font-weight: 600;
-            cursor: pointer;
-            display: flex;
-            align-items: center;
-            gap: 6px;
-            transition: all 0.3s ease;
-        }}
-        
-        .date-selector {{
+        .header-capsule {{
             background: rgba(0,0,0,0.6);
             backdrop-filter: blur(20px);
-            border: 1px solid rgba(255,255,255,0.1);
-            border-radius: 12px;
-            padding: 8px 12px;
+            border-radius: 999px;
+            border: 1px solid rgba(255,255,255,0.15);
+            display: flex;
+            align-items: center;
+            height: 40px;
+            padding: 0 4px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+        }}
+
+        .capsule-btn {{
             color: #FFFFFF;
             font-size: 14px;
+            font-weight: 600;
+            padding: 0 16px;
+            cursor: pointer;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            transition: opacity 0.2s;
         }}
-        
-        .date-selector select {{
-            background: rgba(255,255,255,0.1);
-            color: #FFFFFF;
+
+        .capsule-btn:active {{
+            opacity: 0.7;
+        }}
+
+        .capsule-divider {{
+            width: 1px;
+            height: 14px;
+            background: rgba(255,255,255,0.2);
+        }}
+
+        .capsule-select {{
+            position: relative;
+            height: 100%;
+            display: flex;
+            align-items: center;
+        }}
+
+        .capsule-select select {{
+            background: transparent;
             border: none;
-            padding: 6px 12px;
-            border-radius: 8px;
+            color: #FFFFFF;
             font-size: 14px;
             font-weight: 500;
+            padding: 0 16px;
+            padding-right: 30px; /* Space for arrow */
             cursor: pointer;
+            outline: none;
+            appearance: none;
+            -webkit-appearance: none;
         }}
-        
-        .date-selector select option {{
+
+        .capsule-select::after {{
+            content: '▼';
+            position: absolute;
+            right: 12px;
+            font-size: 8px;
+            color: rgba(255,255,255,0.5);
+            pointer-events: none;
+        }}
+
+        .capsule-select select option {{
             background: #000000;
             color: #FFFFFF;
         }}
@@ -1080,7 +1111,11 @@ def generate_html(news_items):
 
     <!-- Intro Screen -->
     <div id="introScreen" class="intro-screen">
-        <div class="intro-text">shortsNews</div>
+        <div class="intro-text">
+            <div class="intro-typing-wrapper">
+                <span id="introShorts" class="intro-shorts"><span class="intro-short-part">short</span>s</span><span class="intro-news">News</span>
+            </div>
+        </div>
     </div>
 
     <div class="progress-container">
@@ -1088,13 +1123,17 @@ def generate_html(news_items):
     </div>
     
     <div class="top-ui">
-        <div class="go-latest-btn" onclick="goToLatest()">
-            ⬆ 최신
+        <div class="header-logo">
+            <span class="logo-shorts">s</span><span class="logo-news">News</span>
         </div>
-        <div class="date-selector">
-            <select id="dateSelect" onchange="loadNewsForDate(this.value)">
-                {dates_options}
-            </select>
+        <div class="header-capsule">
+            <div class="capsule-btn" onclick="goToLatest()">Newest</div>
+            <div class="capsule-divider"></div>
+            <div class="capsule-select">
+                <select id="dateSelect" onchange="loadNewsForDate(this.value)">
+                    {dates_options}
+                </select>
+            </div>
         </div>
     </div>
     
@@ -1108,6 +1147,17 @@ def generate_html(news_items):
     <script>
         // Intro Animation Logic
         window.addEventListener('load', () => {{
+            // 1. Typing animation runs via CSS (2s)
+            
+            // 2. Collapse animation start (at 2.2s)
+            setTimeout(() => {{
+                const shortsText = document.getElementById('introShorts');
+                if (shortsText) {{
+                    shortsText.classList.add('collapsed');
+                }}
+            }}, 2200);
+
+            // 3. Fade out intro screen (at 3.5s)
             setTimeout(() => {{
                 const intro = document.getElementById('introScreen');
                 if (intro) {{
@@ -1116,7 +1166,7 @@ def generate_html(news_items):
                         intro.style.display = 'none';
                     }}, 800);
                 }}
-            }}, 2500); // 2s typing + 0.5s delay
+            }}, 3500);
         }});
 
         const allNewsFlat = {all_news_flat_json};
