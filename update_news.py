@@ -735,26 +735,52 @@ def generate_html(news_items):
             transition: transform 0.3s ease;
         }}
         
-        .reel-bg {{
-            position: absolute;
-            top: 0;
-            left: 0;
-            right: 0;
-            height: 70%;
-            background-size: cover;
-            background-position: center top;
-            z-index: 0;
-        }}
-        
-        .reel-bg::after {{
-            content: '';
+        .reel-bg-blur {{
             position: absolute;
             top: 0;
             left: 0;
             right: 0;
             bottom: 0;
-            background: linear-gradient(180deg, transparent 0%, transparent 40%, rgba(0,0,0,0.6) 70%, rgba(0,0,0,1) 100%);
+            background-size: cover;
+            background-position: center;
+            filter: blur(25px);
+            opacity: 0.5;
+            transform: scale(1.1);
+            z-index: 0;
+        }}
+        
+        .reel-img-container {{
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 70%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
             z-index: 1;
+            overflow: hidden;
+            background: rgba(0,0,0,0.1);
+        }}
+
+        .reel-main-img {{
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+            position: relative;
+            z-index: 1;
+            transition: transform 0.5s ease;
+        }}
+        
+        .reel-gradient-overlay {{
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: linear-gradient(180deg, transparent 0%, transparent 50%, rgba(0,0,0,0.6) 80%, rgba(0,0,0,1) 100%);
+            z-index: 2;
+            pointer-events: none;
         }}
         
         .content-overlay {{
@@ -1116,7 +1142,11 @@ def generate_html(news_items):
                 summaryText = summaryText.replace(/•/g, '✔️');
                 
                 reel.innerHTML = `
-                    <div class="reel-bg" style="background-image: url(${{bgImage}})"></div>
+                    <div class="reel-bg-blur" style="background-image: url(${{bgImage}})"></div>
+                    <div class="reel-img-container">
+                        <img class="reel-main-img" src="${{bgImage}}" alt="News Image">
+                        <div class="reel-gradient-overlay"></div>
+                    </div>
                     <div class="content-overlay">
                         <div class="reel-meta">
                             <span class="reel-source">${{item.source || 'Unknown'}}</span>
