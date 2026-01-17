@@ -740,7 +740,7 @@ def generate_html(news_items):
             top: 0;
             left: 0;
             right: 0;
-            bottom: 0;
+            height: 60%;
             background-size: cover;
             background-position: center;
             filter: blur(25px);
@@ -754,7 +754,7 @@ def generate_html(news_items):
             top: 0;
             left: 0;
             right: 0;
-            height: 70%;
+            height: 60%;
             display: flex;
             justify-content: center;
             align-items: center;
@@ -777,20 +777,38 @@ def generate_html(news_items):
             top: 0;
             left: 0;
             right: 0;
-            bottom: 0;
-            background: linear-gradient(180deg, transparent 0%, transparent 50%, rgba(0,0,0,0.6) 80%, rgba(0,0,0,1) 100%);
+            height: 150px;
+            background: linear-gradient(to bottom, rgba(0,0,0,0.8) 0%, transparent 100%);
             z-index: 2;
             pointer-events: none;
         }}
         
         .content-overlay {{
-            position: relative;
-            z-index: 2;
+            position: absolute;
+            top: 60%;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: #000000;
+            z-index: 10;
             padding: 24px;
-            padding-bottom: 80px;
-            width: 100%;
-            max-width: 600px;
+            padding-top: 0; /* Title starts right at the top of this container */
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-start;
             animation: slideUp 0.5s ease-out;
+            overflow: visible; /* Allow gradient to extend upwards */
+        }}
+        
+        .content-overlay::before {{
+            content: '';
+            position: absolute;
+            top: -150px; /* Gradient height */
+            left: 0;
+            right: 0;
+            height: 150px;
+            background: linear-gradient(to bottom, transparent, #000000);
+            pointer-events: none;
         }}
         
         @keyframes slideUp {{
@@ -810,7 +828,6 @@ def generate_html(news_items):
             font-weight: 800;
             line-height: 1.35;
             margin-bottom: 14px;
-            text-shadow: 0 2px 12px rgba(0,0,0,0.8);
             word-wrap: break-word;
             letter-spacing: -0.5px;
         }}
@@ -820,7 +837,6 @@ def generate_html(news_items):
             font-size: 16px;
             line-height: 1.8;
             margin-bottom: 60px; /* Space for the button */
-            text-shadow: 0 1px 2px rgba(0,0,0,0.8);
             white-space: pre-line;
             font-weight: 400;
         }}
@@ -828,7 +844,6 @@ def generate_html(news_items):
         .reel-summary strong {{
             color: #FFFFFF;
             font-weight: 700;
-            text-shadow: 0 0 10px rgba(255,255,255,0.3);
         }}
         
         .reel-meta {{
