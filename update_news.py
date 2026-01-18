@@ -1402,15 +1402,20 @@ def generate_html(news_items):
             currentTab = tab;
             const tabNews = document.getElementById('tabNews');
             const tabModel = document.getElementById('tabModel');
+            const dateSelectWrapper = document.querySelector('.header-capsule:has(#dateSelect)');
             
             if (tab === 'news') {{
                 tabNews.classList.add('active');
                 tabModel.classList.remove('active');
+                if (dateSelectWrapper) dateSelectWrapper.style.display = 'flex';
                 currentData = allNewsFlat.filter(item => item.category !== 'AI Model');
+                const selectedDate = dateSelect.value;
+                currentData = currentData.filter(item => item.date === selectedDate);
             }} else {{
                 tabNews.classList.remove('active');
                 tabModel.classList.add('active');
-                currentData = allNewsFlat.filter(item => item.category === 'AI Model');
+                if (dateSelectWrapper) dateSelectWrapper.style.display = 'none';
+                currentData = allNewsFlat.filter(item => item.category === 'AI Model').slice(0, 20);
             }}
             
             currentIndex = 0;
@@ -1479,15 +1484,12 @@ def generate_html(news_items):
         }}
         
         function loadNewsForDate(date) {{
-            const firstIndex = currentData.findIndex(item => item.date === date);
-            if (firstIndex !== -1) {{
-                renderReels(currentData, firstIndex);
-                setTimeout(() => {{
-                    container.scrollTop = firstIndex * window.innerHeight;
-                }}, 10);
-            }} else {{
-                alert('해당 날짜의 뉴스가 없습니다.');
-            }}
+            if (currentTab === 'model') return;
+            
+            currentData = allNewsFlat.filter(item => item.category !== 'AI Model' && item.date === date);
+            currentIndex = 0;
+            renderReels(currentData);
+            container.scrollTop = 0;
         }}
         
         function goToLatest() {{
@@ -1503,7 +1505,7 @@ def generate_html(news_items):
             currentIndex = Math.round(container.scrollTop / reelHeight);
             updateProgress();
             
-            if (currentData[currentIndex]) {{
+            if (currentTab === 'news' && currentData[currentIndex]) {{
                 const currentDate = currentData[currentIndex].date;
                 if (dateSelect.value !== currentDate) {{
                     dateSelect.value = currentDate;
@@ -1511,12 +1513,13 @@ def generate_html(news_items):
             }}
         }}, {{ passive: true }});
         
-        // 초기화: News 탭의 데이터만 렌더링
-        currentData = allNewsFlat.filter(item => item.category !== 'AI Model');
+        // 초기화: News 탭의 첫 번째 날짜 데이터만 렌더링
+        const firstDate = allNewsFlat.length > 0 ? allNewsFlat[0].date : '';
+        currentData = allNewsFlat.filter(item => item.category !== 'AI Model' && item.date === firstDate);
         renderReels(currentData);
         
-        if (currentData.length > 0) {{
-            dateSelect.value = currentData[0].date;
+        if (firstDate) {{
+            dateSelect.value = firstDate;
         }}
         
         let touchStartY = 0;
