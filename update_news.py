@@ -76,6 +76,14 @@ DEFAULT_IMAGES = [
     'https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1920&q=80'
 ]
 
+HUGGINGFACE_DEFAULT_IMAGES = [
+    'https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80',
+    'https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80',
+    'https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80',
+    'https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80',
+    'https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80',
+]
+
 def log_message(message):
     timestamp = (datetime.now() + timedelta(hours=9)).strftime('%Y-%m-%d %H:%M:%S')
     print(f"[{timestamp}] {message}")
@@ -247,7 +255,9 @@ def process_huggingface_models():
         # Fetch README and image
         readme_text, image_url = fetch_model_readme_and_image(model_id)
         
-        # Generate summary with GLM
+        if not image_url or 'thumbnail.png' in image_url:
+            image_url = HUGGINGFACE_DEFAULT_IMAGES[i % len(HUGGINGFACE_DEFAULT_IMAGES)]
+        
         summary_list = summarize_model_with_glm(model_id, readme_text)
         summary_text = '\n'.join([f'• {s}' for s in summary_list])
         
