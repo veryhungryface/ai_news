@@ -50,7 +50,7 @@ RSS_SOURCES = [
         'source': 'ITWorld'
     },
     
-    # 4. 해외
+    # 4. 해외 주요 매체
     {
         'name': 'OpenAI News',
         'url': 'https://openai.com/news/rss.xml',
@@ -65,6 +65,72 @@ RSS_SOURCES = [
         'name': 'HuggingFace Trending',
         'url': 'https://zernel.github.io/huggingface-trending-feed/feed.xml',
         'source': 'HuggingFace'
+    },
+    {
+        'name': 'AI Trends',
+        'url': 'https://www.aitrends.com/feed/',
+        'source': 'AI Trends'
+    },
+    {
+        'name': 'Science Daily AI',
+        'url': 'https://www.sciencedaily.com/rss/computers_math/artificial_intelligence.xml',
+        'source': 'Science Daily'
+    },
+    {
+        'name': 'MIT AI News',
+        'url': 'https://news.mit.edu/rss/topic/artificial-intelligence2',
+        'source': 'MIT News'
+    },
+    
+    # 5. 기업 AI 블로그
+    {
+        'name': 'Google AI Blog',
+        'url': 'https://blog.google/technology/ai/rss/',
+        'source': 'Google AI'
+    },
+    {
+        'name': 'Microsoft Research',
+        'url': 'https://www.microsoft.com/en-us/research/blog/feed/',
+        'source': 'MS Research'
+    },
+    {
+        'name': 'NVIDIA AI Blog',
+        'url': 'https://blogs.nvidia.com/blog/category/deep-learning/feed/',
+        'source': 'NVIDIA'
+    },
+    
+    # 6. 연구 블로그
+    {
+        'name': 'BAIR',
+        'url': 'https://bair.berkeley.edu/blog/feed.xml',
+        'source': 'Berkeley AI'
+    },
+    {
+        'name': 'Fast AI',
+        'url': 'https://www.fast.ai/index.xml',
+        'source': 'Fast.ai'
+    },
+    {
+        'name': 'Andrej Karpathy',
+        'url': 'https://medium.com/feed/@karpathy',
+        'source': 'Karpathy'
+    },
+    
+    # 7. 커뮤니티
+    {
+        'name': 'Reddit AI',
+        'url': 'https://www.reddit.com/r/artificial/.rss',
+        'source': 'Reddit'
+    },
+    {
+        'name': 'Becoming Human',
+        'url': 'https://becominghuman.ai/feed',
+        'source': 'Medium AI'
+    },
+    {
+        'name': 'AI Weirdness',
+        'url': 'https://aiweirdness.com/rss',
+        'source': 'AI Weirdness'
     }
 ]
 
