@@ -1341,7 +1341,7 @@ def generate_html(news_items):
             <span class="logo-shorts">s</span><span class="logo-news">News</span>
         </div>
         
-        <div class="header-capsule">
+        <div class="header-capsule" id="dateSelectWrapper">
             <div class="capsule-select">
                 <select id="dateSelect" onchange="loadNewsForDate(this.value)">
                     {dates_options}
@@ -1402,15 +1402,14 @@ def generate_html(news_items):
             currentTab = tab;
             const tabNews = document.getElementById('tabNews');
             const tabModel = document.getElementById('tabModel');
-            const dateSelectWrapper = document.querySelector('.header-capsule:has(#dateSelect)');
+            const dateSelectWrapper = document.getElementById('dateSelectWrapper');
             
             if (tab === 'news') {{
                 tabNews.classList.add('active');
                 tabModel.classList.remove('active');
                 if (dateSelectWrapper) dateSelectWrapper.style.display = 'flex';
-                currentData = allNewsFlat.filter(item => item.category !== 'AI Model');
                 const selectedDate = dateSelect.value;
-                currentData = currentData.filter(item => item.date === selectedDate);
+                currentData = allNewsFlat.filter(item => item.category !== 'AI Model' && item.date === selectedDate);
             }} else {{
                 tabNews.classList.remove('active');
                 tabModel.classList.add('active');
