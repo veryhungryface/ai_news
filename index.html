@@ -602,7 +602,9 @@
                 tabNews.classList.add('active');
                 tabModel.classList.remove('active');
                 if (dateSelectWrapper) dateSelectWrapper.style.display = 'flex';
-                const selectedDate = dateSelect.value;
+                currentDateIndex = 0;
+                const selectedDate = allDates[0] || '';
+                dateSelect.value = selectedDate;
                 currentData = allNewsFlat.filter(item => item.category !== 'AI Model' && item.date === selectedDate);
             } else {
                 tabNews.classList.remove('active');
@@ -679,6 +681,9 @@
         function loadNewsForDate(date) {
             if (currentTab === 'model') return;
             
+            currentDateIndex = allDates.indexOf(date);
+            if (currentDateIndex === -1) currentDateIndex = 0;
+            
             currentData = allNewsFlat.filter(item => item.category !== 'AI Model' && item.date === date);
             currentIndex = 0;
             renderReels(currentData);
@@ -693,6 +698,26 @@
             }
         }
         
+        const allDates = [...new Set(allNewsFlat.filter(item => item.category !== 'AI Model').map(item => item.date))].sort().reverse();
+        let currentDateIndex = 0;
+        
+        function loadNextDate() {
+            if (currentTab !== 'news') return false;
+            if (currentDateIndex >= allDates.length - 1) return false;
+            
+            currentDateIndex++;
+            const nextDate = allDates[currentDateIndex];
+            const nextDateNews = allNewsFlat.filter(item => item.category !== 'AI Model' && item.date === nextDate);
+            
+            nextDateNews.forEach(item => {
+                currentData.push(item);
+            });
+            
+            renderReels(currentData);
+            dateSelect.value = nextDate;
+            return true;
+        }
+        
         container.addEventListener('scroll', () => {
             const reelHeight = window.innerHeight;
             currentIndex = Math.round(container.scrollTop / reelHeight);
@@ -703,6 +728,11 @@
                 if (dateSelect.value !== currentDate) {
                     dateSelect.value = currentDate;
                 }
+            }
+            
+            const isAtBottom = container.scrollTop + container.clientHeight >= container.scrollHeight - 10;
+            if (currentTab === 'news' && isAtBottom && currentIndex >= currentData.length - 1) {
+                loadNextDate();
             }
         }, { passive: true });
         
