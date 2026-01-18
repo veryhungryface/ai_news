@@ -62,14 +62,19 @@ RSS_SOURCES = [
         'source': 'TechCrunch'
     },
     {
-        'name': 'HuggingFace Trending',
-        'url': 'https://zernel.github.io/huggingface-trending-feed/feed.xml',
-        'source': 'HuggingFace'
+        'name': 'KnowTechie AI',
+        'url': 'https://knowtechie.com/category/ai/feed/',
+        'source': 'KnowTechie'
     },
     {
-        'name': 'AI Trends',
-        'url': 'https://www.aitrends.com/feed/',
-        'source': 'AI Trends'
+        'name': 'AI Business',
+        'url': 'https://aibusiness.com/rss.xml',
+        'source': 'AI Business'
+    },
+    {
+        'name': 'AIModels.fyi',
+        'url': 'https://aimodels.substack.com/feed',
+        'source': 'AIModels'
     },
     {
         'name': 'Science Daily AI',
@@ -89,39 +94,12 @@ RSS_SOURCES = [
         'source': 'Google AI'
     },
     {
-        'name': 'Microsoft Research',
-        'url': 'https://www.microsoft.com/en-us/research/blog/feed/',
-        'source': 'MS Research'
-    },
-    {
         'name': 'NVIDIA AI Blog',
         'url': 'https://blogs.nvidia.com/blog/category/deep-learning/feed/',
         'source': 'NVIDIA'
     },
     
-    # 6. 연구 블로그
-    {
-        'name': 'BAIR',
-        'url': 'https://bair.berkeley.edu/blog/feed.xml',
-        'source': 'Berkeley AI'
-    },
-    {
-        'name': 'Fast AI',
-        'url': 'https://www.fast.ai/index.xml',
-        'source': 'Fast.ai'
-    },
-    {
-        'name': 'Andrej Karpathy',
-        'url': 'https://medium.com/feed/@karpathy',
-        'source': 'Karpathy'
-    },
-    
-    # 7. 커뮤니티
-    {
-        'name': 'Reddit AI',
-        'url': 'https://www.reddit.com/r/artificial/.rss',
-        'source': 'Reddit'
-    },
+    # 6. 커뮤니티
     {
         'name': 'Becoming Human',
         'url': 'https://becominghuman.ai/feed',
