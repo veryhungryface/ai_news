@@ -357,8 +357,8 @@ def parse_rss_date(date_str, source):
     # If parsing fails, return None instead of today's date to avoid duplicates
     return None
 
-def fetch_rss_news(source_info, target_date):
-    """Fetch news from RSS source for a specific date"""
+def fetch_rss_news(source_info, target_date, include_yesterday=False):
+    """Fetch news from RSS source for a specific date (optionally include yesterday)"""
     # Simple headers often work better for RSS feeds
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)',
@@ -405,8 +405,12 @@ def fetch_rss_news(source_info, target_date):
             pub_date = pub_date.text if pub_date is not None else ''
             news_date = parse_rss_date(pub_date, source_info['source'])
             
-            # If date parsing failed or date doesn't match target, skip
-            if not news_date or news_date != target_date:
+            if not news_date:
+                continue
+            
+            yesterday = (datetime.strptime(target_date, '%Y-%m-%d') - timedelta(days=1)).strftime('%Y-%m-%d')
+            valid_dates = [target_date, yesterday] if include_yesterday else [target_date]
+            if news_date not in valid_dates:
                 continue
             
             description = item.find('description')
@@ -461,14 +465,14 @@ def fetch_rss_news(source_info, target_date):
         log_message(f"Error fetching {source_info['name']}: {e}")
         return []
 
-def fetch_all_news_for_date(target_date, existing_links=None):
+def fetch_all_news_for_date(target_date, existing_links=None, include_yesterday=False):
     """Fetch all news for a specific date from all sources"""
     all_news = []
     if existing_links is None:
         existing_links = set()
     
     for source in RSS_SOURCES:
-        news = fetch_rss_news(source, target_date)
+        news = fetch_rss_news(source, target_date, include_yesterday)
         
         # Filter out links that already exist in previous days
         new_items = []
@@ -1555,7 +1559,7 @@ if __name__ == '__main__':
         
         log_message(f"\nFetching news for {today}...")
         
-        news_items = fetch_all_news_for_date(today, existing_links)
+        news_items = fetch_all_news_for_date(today, existing_links, include_yesterday=True)
         log_message(f"  Total collected: {len(news_items)} articles")
         
         if news_items:
