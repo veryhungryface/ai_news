@@ -16,8 +16,20 @@ from urllib.parse import urlparse
 import xml.etree.ElementTree as ET
 from dotenv import load_dotenv
 import requests
+import pytz
 
 load_dotenv()
+
+KST = pytz.timezone('Asia/Seoul')
+
+def get_kst_now():
+    return datetime.now(KST)
+
+def get_kst_today():
+    return get_kst_now().strftime('%Y-%m-%d')
+
+def get_kst_timestamp():
+    return get_kst_now().strftime('%Y-%m-%d %H:%M:%S')
 
 GLM_API_KEY = os.getenv('GLM_API_KEY')
 
@@ -129,7 +141,7 @@ HUGGINGFACE_DEFAULT_IMAGES = [
 ]
 
 def log_message(message):
-    timestamp = (datetime.now() + timedelta(hours=9)).strftime('%Y-%m-%d %H:%M:%S')
+    timestamp = get_kst_timestamp()
     print(f"[{timestamp}] {message}")
 
 def is_english_text(text):
@@ -293,7 +305,7 @@ def process_huggingface_models(existing_links=None):
         log_message("  No models fetched from HuggingFace")
         return []
     
-    today = (datetime.now() + timedelta(hours=9)).strftime('%Y-%m-%d')
+    today = get_kst_today()
     processed_models = []
     skipped_count = 0
     
@@ -452,8 +464,12 @@ def fetch_rss_news(source_info, target_date, include_yesterday=False):
             if not news_date:
                 continue
             
-            yesterday = (datetime.strptime(target_date, '%Y-%m-%d') - timedelta(days=1)).strftime('%Y-%m-%d')
-            valid_dates = [target_date, yesterday] if include_yesterday else [target_date]
+            target_dt = datetime.strptime(target_date, '%Y-%m-%d')
+            yesterday = (target_dt - timedelta(days=1)).strftime('%Y-%m-%d')
+            tomorrow = (target_dt + timedelta(days=1)).strftime('%Y-%m-%d')
+            valid_dates = {target_date, tomorrow}
+            if include_yesterday:
+                valid_dates.add(yesterday)
             if news_date not in valid_dates:
                 continue
             
@@ -794,7 +810,7 @@ def parse_batch_response(articles, response):
 def load_all_news():
     """Load all news from JSON file"""
     try:
-        with open('/root/first/all_news.json', 'r', encoding='utf-8') as f:
+        with open('all_news.json', 'r', encoding='utf-8') as f:
             return json.load(f)
     except FileNotFoundError:
         return {'dates': []}
@@ -803,7 +819,7 @@ def load_all_news():
 
 def save_all_news(data):
     """Save all news to JSON file"""
-    with open('/root/first/all_news.json', 'w', encoding='utf-8') as f:
+    with open('all_news.json', 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 def maintain_10_day_window(data):
@@ -817,7 +833,7 @@ def maintain_10_day_window(data):
 
 def generate_html(news_items):
     """Generate HTML with all 10 days displayed - Fixed Version"""
-    update_time = (datetime.now() + timedelta(hours=9)).strftime('%Y-%m-%d %H:%M:%S')
+    update_time = get_kst_timestamp()
     
     all_data = load_all_news()
     all_data = maintain_10_day_window(all_data)
@@ -1631,7 +1647,7 @@ if __name__ == '__main__':
                 if news.get('link'):
                     existing_links.add(news['link'])
         
-        today = (datetime.now() + timedelta(hours=9)).strftime('%Y-%m-%d')
+        today = get_kst_today()
         
         log_message(f"\nFetching news for {today}...")
         
@@ -1707,7 +1723,7 @@ if __name__ == '__main__':
         log_message(f"\nSaved {len(all_data['dates'])} days of data (10-day rolling window)")
         
         html_content = generate_html([])
-        with open('/root/first/index.html', 'w', encoding='utf-8') as f:
+        with open('index.html', 'w', encoding='utf-8') as f:
             f.write(html_content)
         log_message(f"\nGenerated index.html")
         
