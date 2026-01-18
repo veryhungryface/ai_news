@@ -100,7 +100,7 @@ def is_english_text(text):
 # HuggingFace Trending Models Pipeline
 # ============================================================
 
-def fetch_huggingface_trending(limit=10):
+def fetch_huggingface_trending(limit=20):
     """Fetch trending models from HuggingFace REST API"""
     url = 'https://huggingface.co/api/models'
     params = {'sort': 'trendingScore', 'direction': '-1', 'limit': limit}
@@ -244,7 +244,7 @@ def process_huggingface_models(existing_links=None):
     if existing_links is None:
         existing_links = set()
     
-    models = fetch_huggingface_trending(limit=10)
+    models = fetch_huggingface_trending(limit=20)
     if not models:
         log_message("  No models fetched from HuggingFace")
         return []
@@ -1616,7 +1616,8 @@ if __name__ == '__main__':
         if hf_models:
             existing_today_entry = existing_dates.get(today, {'date': today, 'update_time': '', 'news': []})
             existing_news = [n for n in existing_today_entry.get('news', []) if n.get('category') != 'AI Model']
-            combined_news = existing_news + hf_models
+            existing_models = [n for n in existing_today_entry.get('news', []) if n.get('category') == 'AI Model']
+            combined_news = existing_news + existing_models + hf_models
             
             existing_dates[today] = {
                 'date': today,
