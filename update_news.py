@@ -233,9 +233,16 @@ def summarize_model_with_glm(model_id, readme_text):
         "상세 정보는 링크 참조"
     ]
 
-def process_huggingface_models():
-    """Main pipeline: Fetch trending models, get README, summarize with GLM"""
+def process_huggingface_models(existing_links=None):
+    """Main pipeline: Fetch trending models, get README, summarize with GLM
+    
+    Args:
+        existing_links: Set of existing article links to skip (for deduplication)
+    """
     log_message("Processing HuggingFace Trending Models...")
+    
+    if existing_links is None:
+        existing_links = set()
     
     models = fetch_huggingface_trending(limit=10)
     if not models:
@@ -244,10 +251,17 @@ def process_huggingface_models():
     
     today = (datetime.now() + timedelta(hours=9)).strftime('%Y-%m-%d')
     processed_models = []
+    skipped_count = 0
     
     for i, model in enumerate(models):
         model_id = model.get('modelId', '')
         if not model_id:
+            continue
+        
+        model_link = f'https://huggingface.co/{model_id}'
+        if model_link in existing_links:
+            log_message(f"  [{i+1}/{len(models)}] Skipping (already exists): {model_id}")
+            skipped_count += 1
             continue
         
         log_message(f"  [{i+1}/{len(models)}] Processing: {model_id}")
@@ -277,9 +291,9 @@ def process_huggingface_models():
         }
         
         processed_models.append(model_data)
-        time.sleep(1)  # Rate limiting
+        time.sleep(1)
     
-    log_message(f"  Processed {len(processed_models)} HuggingFace models")
+    log_message(f"  Processed {len(processed_models)} new models, skipped {skipped_count} existing")
     return processed_models
 
 def get_og_image(html_content):
@@ -1583,7 +1597,7 @@ if __name__ == '__main__':
         # HuggingFace Trending Models Integration
         # ============================================================
         log_message("\n" + "=" * 50)
-        hf_models = process_huggingface_models()
+        hf_models = process_huggingface_models(existing_links)
         
         if hf_models:
             existing_today_entry = existing_dates.get(today, {'date': today, 'update_time': '', 'news': []})
