@@ -1583,17 +1583,25 @@ if __name__ == '__main__':
             log_message("  Batch summarizing curated articles (10 at a time)...")
             news_items = batch_summarize(news_items)
             
-            existing_today_news = existing_dates.get(today, {}).get('news', [])
-            existing_today_news_filtered = [n for n in existing_today_news if n.get('category') != 'AI Model']
-            combined_news = existing_today_news_filtered + news_items
+            from collections import defaultdict
+            news_by_date = defaultdict(list)
+            for item in news_items:
+                item_date = item.get('date', today)
+                news_by_date[item_date].append(item)
             
-            existing_dates[today] = {
-                'date': today,
-                'update_time': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
-                'news': combined_news
-            }
+            for news_date, date_news_items in news_by_date.items():
+                existing_date_news = existing_dates.get(news_date, {}).get('news', [])
+                existing_date_news_filtered = [n for n in existing_date_news if n.get('category') != 'AI Model']
+                combined_news = existing_date_news_filtered + date_news_items
+                
+                existing_dates[news_date] = {
+                    'date': news_date,
+                    'update_time': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
+                    'news': combined_news
+                }
+                log_message(f"  Added {len(date_news_items)} articles to {news_date}")
             
-            log_message(f"  Completed: {len(news_items)} new articles (Total for today: {len(combined_news)})")
+            log_message(f"  Completed: {len(news_items)} new articles across {len(news_by_date)} date(s)")
         else:
             log_message("  No new articles found for today")
         

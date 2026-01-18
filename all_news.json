@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-01-18",
-      "update_time": "2026-01-18 02:24:38",
+      "update_time": "2026-01-18 02:31:47",
       "news": [
         {
           "title": "현장 달려가 '디지털 문맹' 없앤다…한글햇살버스 9곳 확대 운영",
@@ -32,6 +32,142 @@
           "translated_title": "전주서 'AI 미래 운동회' 열린다…신기술과 놀이 결합 체험",
           "category_keyword": "AI운동회"
         },
+        {
+          "title": "zai-org/GLM-Image",
+          "link": "https://huggingface.co/zai-org/GLM-Image",
+          "date": "2026-01-18",
+          "source": "HuggingFace",
+          "description": "• zai-org, 하이브리드 구조 이미지 생성 모델 GLM-Image 공개\n• 텍스트 렌더링 및 지식 기반 생성에서 강점 발휘\n• 고해상도 디테일 구현과 정교한 이미지 편집 지원\n• 복잡한 의미 이해 기반 생성 성능 입증",
+          "image": "https://raw.githubusercontent.com/zai-org/GLM-Image/refs/heads/main/resources/show_case.jpeg",
+          "is_english": true,
+          "summary": "• zai-org, 하이브리드 구조 이미지 생성 모델 GLM-Image 공개\n• 텍스트 렌더링 및 지식 기반 생성에서 강점 발휘\n• 고해상도 디테일 구현과 정교한 이미지 편집 지원\n• 복잡한 의미 이해 기반 생성 성능 입증",
+          "translated_title": "zai-org/GLM-Image",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "fal/Qwen-Image-Edit-2511-Multiple-Angles-LoRA",
+          "link": "https://huggingface.co/fal/Qwen-Image-Edit-2511-Multiple-Angles-LoRA",
+          "date": "2026-01-18",
+          "source": "HuggingFace",
+          "description": "• 후원서 모델 카메라 각도 조절 LoRA 공개\n• 96개 정밀 카메라 포지션 지원함\n• 가우시안 스플래팅 기반 데이터 활용\n• 저각도 촬영 기능 완벽 구현 제공",
+          "image": "https://huggingface.co/fal/Qwen-Image-Edit-2511-Multiple-Angles-LoRA/resolve/main/all_animations_combined.gif",
+          "is_english": true,
+          "summary": "• 후원서 모델 카메라 각도 조절 LoRA 공개\n• 96개 정밀 카메라 포지션 지원함\n• 가우시안 스플래팅 기반 데이터 활용\n• 저각도 촬영 기능 완벽 구현 제공",
+          "translated_title": "fal/Qwen-Image-Edit-2511-Multiple-Angles-LoRA",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Lightricks/LTX-2",
+          "link": "https://huggingface.co/Lightricks/LTX-2",
+          "date": "2026-01-18",
+          "source": "HuggingFace",
+          "description": "• 라이트트릭스, LTX-2 공개\n• 오디오·영상 동시 생성 지원\n• AI 기반 효율적 모델 탑재\n• 로컬 실행 가능한 오픈소스",
+          "image": "https://img.youtube.com/vi/8fWAJXZJbRA/maxresdefault.jpg",
+          "is_english": true,
+          "summary": "• 라이트트릭스, LTX-2 공개\n• 오디오·영상 동시 생성 지원\n• AI 기반 효율적 모델 탑재\n• 로컬 실행 가능한 오픈소스",
+          "translated_title": "Lightricks/LTX-2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "openbmb/AgentCPM-Explore",
+          "link": "https://huggingface.co/openbmb/AgentCPM-Explore",
+          "date": "2026-01-18",
+          "source": "HuggingFace",
+          "description": "• 4B 규모 온디바이스 에이전트 모델 공개\n• 복잡한 8개 벤치마크서 최고 성과 달성\n• 깊이 있는 연구 수행 및 검증 능력 입증\n• 학습부터 평가까지 전체 인프라 오픈소스화",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• 4B 규모 온디바이스 에이전트 모델 공개\n• 복잡한 8개 벤치마크서 최고 성과 달성\n• 깊이 있는 연구 수행 및 검증 능력 입증\n• 학습부터 평가까지 전체 인프라 오픈소스화",
+          "translated_title": "openbmb/AgentCPM-Explore",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "google/translategemma-4b-it",
+          "link": "https://huggingface.co/google/translategemma-4b-it",
+          "date": "2026-01-18",
+          "source": "HuggingFace",
+          "description": "• google/translategemma-4b-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 상세 정보는 링크 참조\n• 최신 AI 모델 트렌드",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• google/translategemma-4b-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 상세 정보는 링크 참조\n• 최신 AI 모델 트렌드",
+          "translated_title": "google/translategemma-4b-it",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "kyutai/pocket-tts",
+          "link": "https://huggingface.co/kyutai/pocket-tts",
+          "date": "2026-01-18",
+          "source": "HuggingFace",
+          "description": "• kyutai/pocket-tts 모델 공개\n• HuggingFace 트렌딩 모델\n• 상세 정보는 링크 참조\n• 최신 AI 모델 트렌드",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "is_english": true,
+          "summary": "• kyutai/pocket-tts 모델 공개\n• HuggingFace 트렌딩 모델\n• 상세 정보는 링크 참조\n• 최신 AI 모델 트렌드",
+          "translated_title": "kyutai/pocket-tts",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "google/medgemma-1.5-4b-it",
+          "link": "https://huggingface.co/google/medgemma-1.5-4b-it",
+          "date": "2026-01-18",
+          "source": "HuggingFace",
+          "description": "• google/medgemma-1.5-4b-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 상세 정보는 링크 참조\n• 최신 AI 모델 트렌드",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• google/medgemma-1.5-4b-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 상세 정보는 링크 참조\n• 최신 AI 모델 트렌드",
+          "translated_title": "google/medgemma-1.5-4b-it",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Supertone/supertonic-2",
+          "link": "https://huggingface.co/Supertone/supertonic-2",
+          "date": "2026-01-18",
+          "source": "HuggingFace",
+          "description": "• 슈퍼톤, 초고속 온디바이스 TTS 공개\n• 5개국어 지원으로 다국어 기능 확장\n• 실시간 대비 167배 속도 구현\n• 개인정보 보호 위해 기기 내 실행 지원",
+          "image": "https://huggingface.co/Supertone/supertonic-2/resolve/main/img/supertonic_preview_0.1.jpg",
+          "is_english": true,
+          "summary": "• 슈퍼톤, 초고속 온디바이스 TTS 공개\n• 5개국어 지원으로 다국어 기능 확장\n• 실시간 대비 167배 속도 구현\n• 개인정보 보호 위해 기기 내 실행 지원",
+          "translated_title": "Supertone/supertonic-2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Kijai/LTXV2_comfy",
+          "link": "https://huggingface.co/Kijai/LTXV2_comfy",
+          "date": "2026-01-18",
+          "source": "HuggingFace",
+          "description": "• 허깅페이스, LTXV2 모델 공개\n• 비디오 VAE 오류 수정 완료\n• 고해상도 영상 디테일 개선\n• 업데이트된 노드 필수 사용",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/63297908f0b2fc94904a65b8/7rNUxIEgfdX1rx0adyJCV.png",
+          "is_english": true,
+          "summary": "• 허깅페이스, LTXV2 모델 공개\n• 비디오 VAE 오류 수정 완료\n• 고해상도 영상 디테일 개선\n• 업데이트된 노드 필수 사용",
+          "translated_title": "Kijai/LTXV2_comfy",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "google/translategemma-27b-it",
+          "link": "https://huggingface.co/google/translategemma-27b-it",
+          "date": "2026-01-18",
+          "source": "HuggingFace",
+          "description": "• google/translategemma-27b-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 상세 정보는 링크 참조\n• 최신 AI 모델 트렌드",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• google/translategemma-27b-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 상세 정보는 링크 참조\n• 최신 AI 모델 트렌드",
+          "translated_title": "google/translategemma-27b-it",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        }
+      ]
+    },
+    {
+      "date": "2026-01-17",
+      "update_time": "2026-01-18 02:31:47",
+      "news": [
         {
           "title": "허사비스 \"구글을 스타트업처럼 민첩하게...피차이와 매일 소통\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=205692",
@@ -185,13 +321,7 @@
           "summary": "• 머스크가 오픈AI에 막대한 보상 청구\n• 초기 투자자로서 수익 요구 주장\n• 투자 대비 수익 훨씬 커야 한다는 논리\n• 막대한 개인 자산에도 소송 강행",
           "translated_title": "머스크, 700조 원 재산에도 오픈AI 소송에서 134조 원 보상 요구",
           "category_keyword": "오픈AI"
-        }
-      ]
-    },
-    {
-      "date": "2026-01-17",
-      "update_time": "2026-01-17 05:42:20",
-      "news": [
+        },
         {
           "title": "\"AI로 가상화폐 거래하면 고수익\"…사기 일당 항소심도 징역형",
           "link": "https://www.yna.co.kr/view/AKR20260116088400055",
@@ -336,7 +466,7 @@
     },
     {
       "date": "2026-01-16",
-      "update_time": "2026-01-16 09:16:43",
+      "update_time": "2026-01-18 02:31:47",
       "news": [
         {
           "title": "카카오모빌리티, 산업부 ‘AI 미래차 M.AX 얼라이언스’ 합류",
@@ -832,7 +962,7 @@
     },
     {
       "date": "2026-01-15",
-      "update_time": "2026-01-15 09:37:28",
+      "update_time": "2026-01-18 02:31:47",
       "news": [
         {
           "title": "[사진] 中 간쑤, 장애인 대상 AI 교육 실시...취업까지 연계 - 동방일보",
@@ -1424,7 +1554,7 @@
     },
     {
       "date": "2026-01-14",
-      "update_time": "2026-01-14 23:56:09",
+      "update_time": "2026-01-18 02:31:47",
       "news": [
         {
           "title": "[1월14일] 앤트로픽의 '코워크'가 \"미래 지식 노동의 기반\"으로 꼽힌 이유는",
