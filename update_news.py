@@ -1612,18 +1612,29 @@ def generate_html(news_items):
         }}
         
         let touchStartY = 0;
+        let isAtLastItem = false;
+        
         container.addEventListener('touchstart', (e) => {{
             touchStartY = e.touches[0].clientY;
+            const reelHeight = window.innerHeight;
+            const currentIdx = Math.round(container.scrollTop / reelHeight);
+            isAtLastItem = currentIdx >= currentData.length - 1;
         }}, {{ passive: true }});
         
         container.addEventListener('touchend', (e) => {{
             const touchEndY = e.changedTouches[0].clientY;
             const diff = touchStartY - touchEndY;
             
-            // 짧은 터치로도 페이지 넘김이 잘 되도록 보조
-            if (Math.abs(diff) > 50) {{
-                // 기본 스크롤 동작이 있으므로 추가 로직은 제거하여 충돌 방지
-                // 필요한 경우 스냅 포인트 미세 조정 가능
+            // 마지막 아이템에서 위로 스와이프 (diff > 50) 하면 다음 날짜 로드
+            if (currentTab === 'news' && isAtLastItem && diff > 50) {{
+                const loaded = loadNextDate();
+                if (loaded) {{
+                    // 새로 로드된 첫 번째 아이템으로 스크롤
+                    setTimeout(() => {{
+                        const reelHeight = window.innerHeight;
+                        container.scrollTop = currentIndex * reelHeight + reelHeight;
+                    }}, 100);
+                }}
             }}
         }}, {{ passive: true }});
     </script>
