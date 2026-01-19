@@ -2,33 +2,21 @@
   "dates": [
     {
       "date": "2026-01-20",
-      "update_time": "2026-01-19 18:19:24",
+      "update_time": "2026-01-19 21:12:18",
       "news": [
         {
-          "title": "nvidia/personaplex-7b-v1",
-          "link": "https://huggingface.co/nvidia/personaplex-7b-v1",
+          "title": "\"송파 세모녀 비극 없게\"…이웃의 눈과 AI가 뭉쳤다",
+          "link": "https://www.yna.co.kr/view/AKR20260119072700530",
           "date": "2026-01-20",
-          "source": "HuggingFace",
-          "description": "• nvidia/personaplex-7b-v1 모델 공개\n• HuggingFace 트렌딩 모델\n• 상세 정보는 링크 참조\n• 최신 AI 모델 트렌드",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• nvidia/personaplex-7b-v1 모델 공개\n• HuggingFace 트렌딩 모델\n• 상세 정보는 링크 참조\n• 최신 AI 모델 트렌드",
-          "translated_title": "nvidia/personaplex-7b-v1",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "zai-org/GLM-4.7-Flash",
-          "link": "https://huggingface.co/zai-org/GLM-4.7-Flash",
-          "date": "2026-01-20",
-          "source": "HuggingFace",
-          "description": "• ZAI, 최고 성능 30B 모델 공개\n• 경량화 배지와 효율성 극대화\n• 주요 벤치마크서 경쟁 모델 압도\n• 로컬 배포 vLLM 등 지원 제공",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
-          "is_english": true,
-          "summary": "• ZAI, 최고 성능 30B 모델 공개\n• 경량화 배지와 효율성 극대화\n• 주요 벤치마크서 경쟁 모델 압도\n• 로컬 배포 vLLM 등 지원 제공",
-          "translated_title": "zai-org/GLM-4.7-Flash",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 서한기 기자 = 모두가 잠든 새벽 1시 32분. 적막을 깨고 한 통의 신고가 접수됐다. 생활고와 채무 독촉, 그리고 남편을 잃...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/01/19/AKR20260119072700530_07_i_P2.jpg",
+          "is_english": false,
+          "original_title": "\"송파 세모녀 비극 없게\"…이웃의 눈과 AI가 뭉쳤다",
+          "original_summary": "(서울=연합뉴스) 서한기 기자 = 모두가 잠든 새벽 1시 32분. 적막을 깨고 한 통의 신고가 접수됐다. 생활고와 채무 독촉, 그리고 남편을 잃...",
+          "summary": "• 새벽 1시 신고 접수\n• 생활고와 채무 독촉\n• 남장 상실 후 어려움\n• AI와 이웃의 협력",
+          "translated_title": "\"송파 세모녀 비극 없게\"…이웃의 눈과 AI가 뭉쳤다",
+          "category_keyword": "AI감시"
         }
       ]
     },
