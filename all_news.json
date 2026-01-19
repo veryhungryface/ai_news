@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-01-20",
-      "update_time": "2026-01-19 15:18:40",
+      "update_time": "2026-01-19 18:19:24",
       "news": [
         {
           "title": "nvidia/personaplex-7b-v1",
@@ -16,12 +16,25 @@
           "translated_title": "nvidia/personaplex-7b-v1",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "zai-org/GLM-4.7-Flash",
+          "link": "https://huggingface.co/zai-org/GLM-4.7-Flash",
+          "date": "2026-01-20",
+          "source": "HuggingFace",
+          "description": "• ZAI, 최고 성능 30B 모델 공개\n• 경량화 배지와 효율성 극대화\n• 주요 벤치마크서 경쟁 모델 압도\n• 로컬 배포 vLLM 등 지원 제공",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• ZAI, 최고 성능 30B 모델 공개\n• 경량화 배지와 효율성 극대화\n• 주요 벤치마크서 경쟁 모델 압도\n• 로컬 배포 vLLM 등 지원 제공",
+          "translated_title": "zai-org/GLM-4.7-Flash",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-01-19",
-      "update_time": "2026-01-19 15:18:38",
+      "update_time": "2026-01-19 18:19:20",
       "news": [
         {
           "title": "IMF, 올해 한국경제 성장률 1.9% 전망…선진국 평균 웃돌아",
@@ -566,6 +579,48 @@
           "summary": "• 구글 빅쿼리에 자연어 주석 기반 SQL 생성 기능 추가\n• 데이터 분석 속도 향상과 진입 장벽 낮추는 기대\n• 복잡한 쿼리 작업의 데이터 접근 단순화\n• AI 파일럿 프로젝트의 실환경 전환 지원",
           "translated_title": "구글, 빅쿼리에 자연어 주석 기반 SQL 생성 기능 도입",
           "category_keyword": "빅쿼리"
+        },
+        {
+          "title": "2025년 1억 달러 이상 투자 유치한 미국 AI 스타트업 55곳",
+          "link": "https://techcrunch.com/2026/01/19/here-are-the-49-us-ai-startups-that-have-raised-100m-or-more-in-2025/",
+          "date": "2026-01-19",
+          "source": "TechCrunch",
+          "description": "Last year was monumental for the AI industry in the U.S. and beyond. How will 2025 compare?",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1485726179-1.jpg?resize=1200,720",
+          "is_english": true,
+          "original_title": "Here are the 55 US AI startups that have raised $100M or more in 2025",
+          "original_summary": "Last year was monumental for the AI industry in the U.S. and beyond. How will 2025 compare?",
+          "summary": "• 2025년 미국 AI 투자 동향 소개\n• 1억 달러 이상 유치 기업 선정\n• 전년 대비 업계 성장세 주목\n• 스타트업 자금 조달 현황 파악",
+          "translated_title": "2025년 1억 달러 이상 투자 유치한 미국 AI 스타트업 55곳",
+          "category_keyword": "AI투자"
+        },
+        {
+          "title": "로그에이전트와 섀도우 AI: 왜 VC들이 AI 보안에 큰 내기를 걸까",
+          "link": "https://techcrunch.com/2026/01/19/rogue-agents-and-shadow-ai-why-vcs-are-betting-big-on-ai-security/",
+          "date": "2026-01-19",
+          "source": "TechCrunch",
+          "description": "Misaligned agents are just one layer of the AI security challenge that startup Witness AI is trying to solve. It detects employee use of unapproved tools, blocking attacks, and ensuring compliance. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/rick-caccia-witnessai.jpg?w=860",
+          "is_english": true,
+          "original_title": "Rogue agents and shadow AI: Why VCs are betting big on AI security",
+          "original_summary": "Misaligned agents are just one layer of the AI security challenge that startup Witness AI is trying to solve. It detects employee use of unapproved tools, blocking attacks, and ensuring compliance. ",
+          "summary": "• VC들의 AI 보안 분야 투자 증가\n• Witness AI의 보안 솔루션 소개\n• 승인되지 않은 도구 사용 탐지\n• 공격 차단 및 규정 준수 보장",
+          "translated_title": "로그에이전트와 섀도우 AI: 왜 VC들이 AI 보안에 큰 내기를 걸까",
+          "category_keyword": "AI보안"
+        },
+        {
+          "title": "글쎄, 메타버스는 이제 끝인가!",
+          "link": "https://techcrunch.com/2026/01/19/well-there-goes-the-metaverse/",
+          "date": "2026-01-19",
+          "source": "TechCrunch",
+          "description": "The metaverse is on its last legs as VR is eclipsed by AI. But that's not the only thing that went wrong for Meta's VR ambitions. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/friends.webp?w=1200",
+          "is_english": true,
+          "original_title": "Well, there goes the metaverse!",
+          "original_summary": "The metaverse is on its last legs as VR is eclipsed by AI. But that's not the only thing that went wrong for Meta's VR ambitions. ",
+          "summary": "• 메타버스 쇠퇴기 진입 분석\n• VR 열도에 AI가 앞서는 상황\n• Meta의 VR 야망 실패 원인\n• 관심사 변화와 시장 흐름 변화",
+          "translated_title": "글쎄, 메타버스는 이제 끝인가!",
+          "category_keyword": "메타버스"
         }
       ]
     },
