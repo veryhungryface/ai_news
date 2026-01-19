@@ -175,7 +175,7 @@ def fetch_huggingface_trending(limit=20):
         log_message(f"  HuggingFace API exception: {e}")
         return []
 
-def fetch_model_readme_and_image(model_id):
+def fetch_model_readme_and_image(model_id, model_data=None):
     """Fetch README.md content and extract first image from a HuggingFace model"""
     readme_url = f"https://huggingface.co/{model_id}/raw/main/README.md"
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
@@ -208,6 +208,15 @@ def fetch_model_readme_and_image(model_id):
                         image_url = img_src
                     elif not img_src.startswith('data:'):
                         image_url = f"https://huggingface.co/{model_id}/resolve/main/{img_src}"
+        elif response.status_code in [401, 403] and model_data:
+            # Gated model - build description from API data
+            tags = model_data.get('tags', [])
+            pipeline_tag = model_data.get('pipeline_tag', '')
+            downloads = model_data.get('downloads', 0)
+            likes = model_data.get('likes', 0)
+            
+            tag_str = ', '.join([t for t in tags if not t.startswith('license') and ':' not in t][:5])
+            readme_text = f"Model: {model_id}\nPipeline: {pipeline_tag}\nTags: {tag_str}\nDownloads: {downloads:,}\nLikes: {likes}"
     except Exception as e:
         log_message(f"    README fetch error for {model_id}: {e}")
     
@@ -220,11 +229,12 @@ def fetch_model_readme_and_image(model_id):
 def summarize_model_with_glm(model_id, readme_text):
     """Generate 4-line summary for a HuggingFace model using GLM API"""
     if not readme_text or len(readme_text.strip()) < 50:
+        model_name = model_id.split('/')[-1]
         return [
-            f"{model_id} 모델 공개",
-            "HuggingFace 트렌딩 모델",
-            "상세 정보는 링크 참조",
-            "최신 AI 모델 트렌드"
+            f"{model_name} AI 모델 공개",
+            "HuggingFace에서 트렌딩 중",
+            "다운로드 및 상세 정보는 링크에서",
+            "최신 오픈소스 AI 기술"
         ]
     
     url = "https://api.z.ai/api/coding/paas/v4/chat/completions"
@@ -322,8 +332,8 @@ def process_huggingface_models(existing_links=None):
         
         log_message(f"  [{i+1}/{len(models)}] Processing: {model_id}")
         
-        # Fetch README and image
-        readme_text, image_url = fetch_model_readme_and_image(model_id)
+        # Fetch README and image (pass model data for gated models fallback)
+        readme_text, image_url = fetch_model_readme_and_image(model_id, model)
         
         if not image_url or 'thumbnail.png' in image_url:
             image_url = HUGGINGFACE_DEFAULT_IMAGES[i % len(HUGGINGFACE_DEFAULT_IMAGES)]
