@@ -1683,7 +1683,12 @@ if __name__ == '__main__':
             
             for news_date, date_news_items in news_by_date.items():
                 existing_date_news = existing_dates.get(news_date, {}).get('news', [])
-                existing_date_news_filtered = [n for n in existing_date_news if n.get('category') != 'AI Model']
+                # Only filter out AI Models for TODAY (they get re-added by HuggingFace processing)
+                # Preserve AI Models on past dates
+                if news_date == today:
+                    existing_date_news_filtered = [n for n in existing_date_news if n.get('category') != 'AI Model']
+                else:
+                    existing_date_news_filtered = existing_date_news
                 combined_news = existing_date_news_filtered + date_news_items
                 
                 existing_dates[news_date] = {
