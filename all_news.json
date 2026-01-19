@@ -1,8 +1,27 @@
 {
   "dates": [
     {
+      "date": "2026-01-20",
+      "update_time": "2026-01-19 15:18:40",
+      "news": [
+        {
+          "title": "nvidia/personaplex-7b-v1",
+          "link": "https://huggingface.co/nvidia/personaplex-7b-v1",
+          "date": "2026-01-20",
+          "source": "HuggingFace",
+          "description": "• nvidia/personaplex-7b-v1 모델 공개\n• HuggingFace 트렌딩 모델\n• 상세 정보는 링크 참조\n• 최신 AI 모델 트렌드",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• nvidia/personaplex-7b-v1 모델 공개\n• HuggingFace 트렌딩 모델\n• 상세 정보는 링크 참조\n• 최신 AI 모델 트렌드",
+          "translated_title": "nvidia/personaplex-7b-v1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        }
+      ]
+    },
+    {
       "date": "2026-01-19",
-      "update_time": "2026-01-19 12:30:05",
+      "update_time": "2026-01-19 15:18:38",
       "news": [
         {
           "title": "IMF, 올해 한국경제 성장률 1.9% 전망…선진국 평균 웃돌아",
@@ -421,6 +440,132 @@
           "translated_title": "dx8152/Qwen-Image-Edit-2511-Gaussian-Splash",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "빔 소프트웨어, 홍성구 신임 한국 지사장 선임",
+          "link": "https://www.itworld.co.kr/article/4118470/%eb%b9%94-%ec%86%8c%ed%94%84%ed%8a%b8%ec%9b%a8%ec%96%b4-%ed%99%8d%ec%84%b1%ea%b5%ac-%ec%8b%a0%ec%9e%84-%ed%95%9c%ea%b5%ad-%ec%a7%80%ec%82%ac%ec%9e%a5-%ec%84%a0%ec%9e%84-2.html",
+          "date": "2026-01-19",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n빔 소프트웨어(Veeam)는 대규모 AI 환경의 안전성, 규정 준수 및 감사 가능성을 보장하기 위해 복원력, 보안, 거버넌스 및 프라이버시 솔루션을 제공하고 있으며, 홍 지사장의 선임도 전략적으로 매우 중요한 시점에 이뤄졌다고 밝혔다.\n\n\n\n빔 소프트웨어 아시아 태평양 및 일본(APJ) 수석부사장 겸 총괄 베니 시아는 “홍 지사장은 한국 기업 및 공공 부문 전반에 걸쳐 탄탄한 네트워크를 보유한 검증된 시장 진출 리더”라며, “많은 한국 기업이 사이버 복원력 강화에 박차를 가하는 가운데, 홍 지사장은 성과가 뛰어난 팀을 구축하고 채널 파트너와 협력해 온 경험을 갖고 있다. 이는 고객이 데이터를 보호하고 복구하며 더 많은 가치를 창출하는 원동력이 될 것”이라고 밝혔다.\n\n\n srcset=\"https://b2b-contenthub.com/wp-content/uploads/2026/01/사진자료-홍성구-빔-소프트웨어-한국-지사장.png?quality",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/01/4118470-0-75090300-1768809360-Veeam.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "빔 소프트웨어, 홍성구 신임 한국 지사장 선임",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n빔 소프트웨어(Veeam)는 대규모 AI 환경의 안전성, 규정 준수 및 감사 가능성을 보장하기 위해 복원력, 보안, 거버넌스 및 프라이버시 솔루션을 제공하고 있으며, 홍 지사장의 선임도 전략적으로 매우 중요한 시점에 이뤄졌다고 밝혔다.\n\n\n\n빔 소프트웨어 아시아 태평양 및 일본(APJ) 수석부사장 겸 총괄 베니 시아는 “홍 지사장은 한국 기업 및 공공 부문 전반에 걸쳐 탄탄한 네트워크를 보유한 검증된 시장 진출 리더”라며, “많은 한국 기업이 사이버 복원력 강화에 박차를 가하는 가운데, 홍 ",
+          "summary": "• 빔 소프트웨어가 신임 한국 지사장으로 홍성구를 선임\n• 대규모 AI 환경의 안전성과 규정 준수 솔루션 제공\n• 홍 지사장은 공공 부문 등 탄탄한 네트워크 보유\n• 한국 기업의 사이버 복원력 강화에 기대",
+          "translated_title": "빔 소프트웨어, 홍성구 신임 한국 지사장 선임",
+          "category_keyword": "빔 소프트웨어"
+        },
+        {
+          "title": "비주얼 스튜디오와 VS 코드에서 깃허브 코파일럿 시작하기",
+          "link": "https://www.itworld.co.kr/article/4118436/%eb%b9%84%ec%a3%bc%ec%96%bc-%ec%8a%a4%ed%8a%9c%eb%94%94%ec%98%a4%ec%99%80-vs-%ec%bd%94%eb%93%9c%ec%97%90%ec%84%9c-%ea%b9%83%ed%97%88%eb%b8%8c-%ec%bd%94%ed%8c%8c%ec%9d%bc%eb%9f%bf-%ec%8b%9c%ec%9e%91.html",
+          "date": "2026-01-19",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n지난 수십 년 동안 소프트웨어가 개발되는 방식에는 몇 번의 큰 변화가 있었다. 어셈블리 언어에서 클라우드 네이티브 개발까지, 모놀리식 아키텍처에서 마이크로서비스까지, 수동 테스트에서 CI/CD 자동화까지, 기업과 개발자의 끊임없이 변화하는 요구를 충족하기 위해 수많은 소프트웨어 아키텍처와 기술, 툴이 등장했다.\n\n\n\n최근에는 AI 기반 툴이 소프트웨어 개발에 막대한 영향을 미쳤다. 그중 하나가 깃허브 코파일럿이다. 강력하고 접근성 높은 AI 페어 프로그래머인 깃허브 코파일럿은 비주얼 스튜디오와 비주얼 스튜디오 코드에 매끄럽게 통합된다.\n\n\n\n이 기사에서는 깃허브 코파일럿이 무엇인지, 왜 중요한지, 그리고 비주얼 스튜디오 내에서 어떻게 깃허브 코파일럿을 사용해 코드를 생성하고 최적화하는지 알아본다. 또한 코드 문제 수정과 테스트에서 깃허브 코파일럿이 어떤 도움이 되는지도 살펴본다.\n\n\n\n깃허브 코파일럿이란 무엇이며, 왜 필요한가?\n\n\n\n현대 소",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/01/4118436-0-11947000-1768802931-shutterstock_407893192.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "비주얼 스튜디오와 VS 코드에서 깃허브 코파일럿 시작하기",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n지난 수십 년 동안 소프트웨어가 개발되는 방식에는 몇 번의 큰 변화가 있었다. 어셈블리 언어에서 클라우드 네이티브 개발까지, 모놀리식 아키텍처에서 마이크로서비스까지, 수동 테스트에서 CI/CD 자동화까지, 기업과 개발자의 끊임없이 변화하는 요구를 충족하기 위해 수많은 소프트웨어 아키텍처와 기술, 툴이 등장했다.\n\n\n\n최근에는 AI 기반 툴이 소프트웨어 개발에 막대한 영향을 미쳤다. 그중 하나가 깃허브 코파일럿이다. 강력하고 접근성 높은 AI 페어 프로그래머인 깃허브 코파일럿은 비주얼 스튜디오",
+          "summary": "• 소프트웨어 개발 방식의 역사적 변화와 진화\n• AI 기반 툴이 개발 방식에 막대한 영향 미침\n• 깃허브 코파일럿, 강력한 AI 페어 프로그래머로 주목\n• 비주얼 스튜디오 등 개발 툴에서 활용 가능",
+          "translated_title": "비주얼 스튜디오와 VS 코드에서 깃허브 코파일럿 시작하기",
+          "category_keyword": "코파일럿"
+        },
+        {
+          "title": "아이폰으로도 작품 만드는 시대, 모바일 크리에이터 홀대하는 애플",
+          "link": "https://www.itworld.co.kr/article/4118422/%ec%95%84%ec%9d%b4%ed%8f%b0%ec%9c%bc%eb%a1%9c-%ec%9e%91%ed%92%88-%eb%a7%8c%eb%93%9c%eb%8a%94-%ec%8b%9c%eb%8c%80-%eb%aa%a8%eb%b0%94%ec%9d%bc-%ec%82%ac%ec%9a%a9%ec%9e%90-%ed%99%80%eb%8c%80%ed%95%98.html",
+          "date": "2026-01-19",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n최근 애플이 새로운 ‘애플 크리에이터 스튜디오(Apple Creator Studio)’를 공개하며 전문 크리에이터들을 놀라게 했다. 이 번들은 파이널 컷 프로(Final Cut Pro), 로직 프로(Logic Pro), 픽셀메이터 프로(Pixelmator Pro) 등 여러 앱을 하나의 구독 형태로 묶은 것이 특징이다. 모든 앱을 다 사용하지 않더라도, 구성만 놓고 보면 상당히 매력적인 조건이다.\n\n\n\n하지만 애플이 크로스플랫폼 번들이라는 이미지를 강조하는 것과 달리, 실제로 제공되는 도구 대부분은 맥 전용이거나 맥에서만 제대로 활용할 수 있다. 이 때문에 아이패드나 아이폰을 중심으로 작업하는 크리에이터에게는 매력이 크게 떨어진다. 데스크톱급 프로세서를 탑재한 아이패드가 등장했고, 곧 태블릿 크기로 펼쳐질 아이폰까지 예고된 상황에서, 이런 제한은 쉽게 납득하기 어렵다.\n\n\n\n맥에서만 누릴 수 있는 가치\n\n\n\n맥 환경에서 애플 크리에이터 스튜디오",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/01/4118422-0-71813200-1768792747-iPhone-creators-Image-from-Apple.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "아이폰으로도 작품 만드는 시대, 모바일 크리에이터 홀대하는 애플",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n최근 애플이 새로운 ‘애플 크리에이터 스튜디오(Apple Creator Studio)’를 공개하며 전문 크리에이터들을 놀라게 했다. 이 번들은 파이널 컷 프로(Final Cut Pro), 로직 프로(Logic Pro), 픽셀메이터 프로(Pixelmator Pro) 등 여러 앱을 하나의 구독 형태로 묶은 것이 특징이다. 모든 앱을 다 사용하지 않더라도, 구성만 놓고 보면 상당히 매력적인 조건이다.\n\n\n\n하지만 애플이 크로스플랫폼 번들이라는 이미지를 강조하는 것과 달리, 실제로 제공되는 도구 대",
+          "summary": "• 애플이 새로운 크리에이터 스튜디오 번들을 공개\n• 파이널 컷 프로 등 앱을 구독 형태로 묶어 제공\n• 구성은 매력적이나 크로스플랫폼 지원 미흡\n• 모바일 크리에이터에 대한 애플의 소홀한 지적",
+          "translated_title": "아이폰으로도 작품 만드는 시대, 모바일 크리에이터 홀대하는 애플",
+          "category_keyword": "애플"
+        },
+        {
+          "title": "클릭 한 번으로 정보 유출…코파일럿을 무기로 만든 ‘리프롬프트’ 취약점 확인",
+          "link": "https://www.itworld.co.kr/article/4118418/%ed%81%b4%eb%a6%ad-%ed%95%9c-%eb%b2%88%ec%9c%bc%eb%a1%9c-%ec%a0%95%eb%b3%b4-%ec%9c%a0%ec%b6%9c%ec%bd%94%ed%8c%8c%ec%9d%bc%eb%9f%bf%ec%9d%84-%eb%ac%b4%ea%b8%b0%eb%a1%9c-%eb%a7%8c%eb%93%a0.html",
+          "date": "2026-01-19",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n인공지능 코파일럿은 매우 똑똑하고 유용하다. 동시에 순진하고, 쉽게 속으며, 때로는 지나치게 단순하게 반응하기도 한다.\n\n\n\n이 같은 특성은 바로니스 위협 연구소(Varonis Threat Labs) 연구진이 발견한 새로운 원클릭 공격 흐름을 통해 다시 확인됐다. 연구진은 이 공격을 리프롬프트(Reprompt)라고 명명했으며, 초기 LLM 프롬프트 이후 모든 보안 통제를 우회하는 3단계 공격 체인이라고 설명했다. 이 공격은 눈에 띄지 않게 실행되며, 탐지 없이 사실상 제한 없는 접근이 가능해진다.\n\n\n\n바로니스 위협 연구소 보안 연구원 돌레브 탈러는 블로그 게시글을 통해 “인공지능 비서는 민감한 정보를 공유하고 조언을 구하며 망설임 없이 의존하는 신뢰 대상이 됐다”며 “그러나 신뢰는 쉽게 악용될 수 있고, 인공지능 비서는 클릭 한 번으로 데이터 유출 무기로 전환될 수 있다”라고 밝혔다.\n\n\n\n현재까지 리프롬프트는 마이크로소프트 코파일럿 퍼스널",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/01/4118418-0-74222000-1768791288-microsoft-copilot-logo-juan-roballo-shutterstock-2409519711.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "클릭 한 번으로 정보 유출…코파일럿을 무기로 만든 ‘리프롬프트’ 취약점 확인",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n인공지능 코파일럿은 매우 똑똑하고 유용하다. 동시에 순진하고, 쉽게 속으며, 때로는 지나치게 단순하게 반응하기도 한다.\n\n\n\n이 같은 특성은 바로니스 위협 연구소(Varonis Threat Labs) 연구진이 발견한 새로운 원클릭 공격 흐름을 통해 다시 확인됐다. 연구진은 이 공격을 리프롬프트(Reprompt)라고 명명했으며, 초기 LLM 프롬프트 이후 모든 보안 통제를 우회하는 3단계 공격 체인이라고 설명했다. 이 공격은 눈에 띄지 않게 실행되며, 탐지 없이 사실상 제한 없는 접근이 가능해",
+          "summary": "• 코파일럿의 높은 지능과 보안적 단순함 공존\n• ‘리프롬프트’ 공격 기법 통해 새로운 취약점 확인\n• 초기 프롬프트 후 보안 통제 우회 가능\n• 탐지 없이 정보 유출 등 피해 야기 가능",
+          "translated_title": "클릭 한 번으로 정보 유출…코파일럿을 무기로 만든 ‘리프롬프트’ 취약점 확인",
+          "category_keyword": "리프롬프트"
+        },
+        {
+          "title": "엔비디아와 마이크론의 감정 마케팅이 키운 반감",
+          "link": "https://www.itworld.co.kr/article/4118406/%ec%97%94%eb%b9%84%eb%94%94%ec%95%84%ec%99%80-%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%a0%ec%9d%98-%ea%b0%90%ec%a0%95-%eb%a7%88%ec%bc%80%ed%8c%85%ec%9d%b4-%ed%82%a4%ec%9a%b4-%eb%b0%98%ea%b0%90.html",
+          "date": "2026-01-19",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n기업에는 감정이 없다. 그럼에도 불구하고 기업은 감정이 있는 것처럼 보이길 원하며, 외부의 비판이 지나치다고 인식되기를 바라고 있다.\n\n\n\n지난주만 해도 IT 기업 두 곳이 잇따라 공감에 호소하는 발언을 내놓았다. 한 사례는 마이크론과 진행한 Wccftech 인터뷰에서 나왔다. 메모리 제조사 마이크론과 다른 공급사가 사용자를 외면하고 있는지 질문을 받자, 마이크론은 “전 세계 사용자를 돕고 있다는 관점에서 접근하고 있다. 다만 방식이 달라졌을 뿐이다”라고 답했다. 이어 “현재 총 주소 지정 가능 시장과 데이터센터 시장이 폭발적으로 성장하고 있으며, 기업으로서 해당 수요를 충족하는 데 기여하고자 한다”고 설명했다.\n\n\n\n다른 사례는 엔비디아에서 나왔다. 엔비디아 CEO 젠슨 황은 노 프라이어스 팟캐스트에서 인공지능에 대한 비관적 시각이 “극도로 상처를 준다”고 표현했다. 젠슨 황은 “최근 존경받는 인사들이 종말론적이고 공상과학적인 서사를 만들어",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/01/4118406-0-43288100-1768790268-pexels-zeleboba-23941163.webp",
+          "is_english": false,
+          "original_title": "엔비디아와 마이크론의 감정 마케팅이 키운 반감",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n기업에는 감정이 없다. 그럼에도 불구하고 기업은 감정이 있는 것처럼 보이길 원하며, 외부의 비판이 지나치다고 인식되기를 바라고 있다.\n\n\n\n지난주만 해도 IT 기업 두 곳이 잇따라 공감에 호소하는 발언을 내놓았다. 한 사례는 마이크론과 진행한 Wccftech 인터뷰에서 나왔다. 메모리 제조사 마이크론과 다른 공급사가 사용자를 외면하고 있는지 질문을 받자, 마이크론은 “전 세계 사용자를 돕고 있다는 관점에서 접근하고 있다. 다만 방식이 달라졌을 뿐이다”라고 답했다. 이어 “현재 총 주소 지정 ",
+          "summary": "• 기업이 감정적 접근으로 비판 회피하려는 시도\n• 마이크론, 사용자 외면 지적에 공감 호소\n• 사용자 반감을 키우는 감정 마케팅 양상\n• 기업의 실질적 대응과 정책 변화의 필요성",
+          "translated_title": "엔비디아와 마이크론의 감정 마케팅이 키운 반감",
+          "category_keyword": "마이크론"
+        },
+        {
+          "title": "구글 버텍스 AI 보안 권한 설계, 내부자 위협 증폭 우려",
+          "link": "https://www.itworld.co.kr/article/4118398/%ea%b5%ac%ea%b8%80-%eb%b2%84%ed%85%8d%ec%8a%a4-ai-%eb%b3%b4%ec%95%88-%ea%b6%8c%ed%95%9c-%ec%84%a4%ea%b3%84-%eb%82%b4%eb%b6%80%ec%9e%90-%ec%9c%84%ed%98%91-%ec%a6%9d%ed%8f%ad-%ec%9a%b0%eb%a0%a4.html",
+          "date": "2026-01-19",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n구글의 버텍스 AI(Vertex AI)에서 새롭게 확인된 권한 상승 취약점은 AI 서비스 에이전트를 관리하는 일이 기존에 CISO가 경험하던 보안 과제와는 전혀 다른 성격을 지닌다는 점을 보여준다.\n\n\n\n보안 업체 XM사이버(XM Cyber)는 최근 버텍스 AI와 관련해 2가지 보안 문제를 보고했다. 기본 설정 상태에서 권한이 낮은 사용자가 더 높은 권한을 가진 서비스 에이전트 역할로 이동할 수 있다는 내용이다. 다만 XM사이버는 이에 대해 구글이 해당 시스템은 의도한 대로 작동하고 있을 뿐이라는 입장을 전달해 왔다고 밝혔다.\n\n\n\n보안 업체 록사이버(RockCyber) CEO 록 램브로스는 “OWASP가 계정 및 권한 남용 취약점인 ASI03을 에이전틱 취약점 상위 10가지로 공식 분류한 직후 바로 그 유형의 사례가 구글 버텍스 AI에서 나왔다”라고 말했다.\n\n\n\n하지만 이런 상황은 이미 여러 차례 반복돼 왔다. 래램브로스는 “오르카(Orc",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/01/4118398-0-13593900-1768790218-escalators_paths_exits_entrances_radhuset-t-bana-stockholm-sweden_by_george_kedenburg_iii_cc0_via_unsplash_1200x800-100764074-orig.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "구글 버텍스 AI 보안 권한 설계, 내부자 위협 증폭 우려",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n구글의 버텍스 AI(Vertex AI)에서 새롭게 확인된 권한 상승 취약점은 AI 서비스 에이전트를 관리하는 일이 기존에 CISO가 경험하던 보안 과제와는 전혀 다른 성격을 지닌다는 점을 보여준다.\n\n\n\n보안 업체 XM사이버(XM Cyber)는 최근 버텍스 AI와 관련해 2가지 보안 문제를 보고했다. 기본 설정 상태에서 권한이 낮은 사용자가 더 높은 권한을 가진 서비스 에이전트 역할로 이동할 수 있다는 내용이다. 다만 XM사이버는 이에 대해 구글이 해당 시스템은 의도한 대로 작동하고 있을 뿐",
+          "summary": "• 구글 버텍스 AI서서 권한 상승 취약점 확인\n• 낮은 권한 사용자의 높은 권한 획득 가능성\n• 기존 보안 과제와 성격이 다른 새로운 위협\n• AI 서비스 관리의 내부자 위협 우려 제기",
+          "translated_title": "구글 버텍스 AI 보안 권한 설계, 내부자 위협 증폭 우려",
+          "category_keyword": "버텍스 AI"
+        },
+        {
+          "title": "의도하지 않은 SaaS 전환에 대응해 기업이 해야 할 일",
+          "link": "https://www.itworld.co.kr/article/4118393/%ec%9d%98%eb%8f%84%ed%95%98%ec%a7%80-%ec%95%8a%ec%9d%80-saas-%ec%a0%84%ed%99%98%ec%97%90-%eb%8c%80%ec%9d%91%ed%95%b4-%ea%b8%b0%ec%97%85%ec%9d%b4-%ed%95%b4%ec%95%bc-%ed%95%a0-%ec%9d%bc.html",
+          "date": "2026-01-19",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n변화가 잦은 엔터프라이즈 기술 환경에서 최근 몇 년 동안 점점 분명해진 것은 온프레미스 소프트웨어가 퇴장 수순에 들어갔으며, 이는 기업의 선택에 의한 것이 아니라는 사실이다. 기술 전환을 수없이 지켜본 경험에 따르면, 구매자와 솔루션 업체 사이 힘의 균형이 구매자에서 솔루션 업체로 옮겨갔고, 이런 변화는 SaaS 영역에서 일어나는 변화에서 가장 뚜렷하게 드러나고 있다. 제조 및 유통 분야의 산업별 맞춤형 비즈니스 소프트웨어로 잘 알려진 에피코(Epicor)의 최근 발표는 온프레미스 ERP 시대가 막을 내리고 솔루션 업체가 운전대를 잡았다는 사실을 분명히 보여준다.\n\n\n\n에피코는 최근 자사 키네틱(Kinetic), 프로핏 21(Prophet 21), 비스트랙(BisTrack) 솔루션의 마지막 온프레미스 릴리스 일정을 발표했다. 에피코는 수년 동안 클라우드 우선 전략을 추진해 왔고, 이번에 이를 공식화한 것이다. 레거시 버전을 사용하는 고객이 새",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/01/4118393-0-32698800-1768788972-shutterstock_1826742611.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "의도하지 않은 SaaS 전환에 대응해 기업이 해야 할 일",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n변화가 잦은 엔터프라이즈 기술 환경에서 최근 몇 년 동안 점점 분명해진 것은 온프레미스 소프트웨어가 퇴장 수순에 들어갔으며, 이는 기업의 선택에 의한 것이 아니라는 사실이다. 기술 전환을 수없이 지켜본 경험에 따르면, 구매자와 솔루션 업체 사이 힘의 균형이 구매자에서 솔루션 업체로 옮겨갔고, 이런 변화는 SaaS 영역에서 일어나는 변화에서 가장 뚜렷하게 드러나고 있다. 제조 및 유통 분야의 산업별 맞춤형 비즈니스 소프트웨어로 잘 알려진 에피코(Epicor)의 최근 발표는 온프레미스 ERP 시",
+          "summary": "• 기술 환경 변화로 온프레미스 소프트웨어 퇴장\n• 솔루션 업체로의 힘의 균형 이동 현상\n• 기업 선택 아닌 불가피한 SaaS 전환 가속화\n• 기업의 적극적인 대응 전략 수립 필요성",
+          "translated_title": "의도하지 않은 SaaS 전환에 대응해 기업이 해야 할 일",
+          "category_keyword": "SaaS"
+        },
+        {
+          "title": "인텔, 다시 경쟁 전면에 서다…팬서 레이크로 반격 시작",
+          "link": "https://www.itworld.co.kr/article/4118386/%ec%9d%b8%ed%85%94-%eb%8b%a4%ec%8b%9c-%ea%b2%bd%ec%9f%81-%ec%a0%84%eb%a9%b4%ec%97%90-%ec%84%9c%eb%8b%a4%ed%8c%ac%ec%84%9c-%eb%a0%88%ec%9d%b4%ed%81%ac%eb%a1%9c-%eb%b0%98%ea%b2%a9-%ec%8b%9c.html",
+          "date": "2026-01-19",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n지난 1년 동안 인텔 CPU를 탑재한 노트북을 다수 리뷰하면서 여러 불만이 있었다. 코어 울트라 시리즈 2 세대는 루나 레이크, 애로우 레이크, 메테오 레이크 아키텍처가 뒤섞이며 브랜드 체계가 혼란스러웠다. 그러나 CES 2026에서 인텔은 분명한 변화를 보여줬다. 코어 울트라 시리즈 3로 명명된 팬서 레이크는 AMD와 퀄컴을 정면으로 상대할 수 있는 일관된 플랫폼처럼 보였다.\n\n\n\n인텔은 자신감도 되찾은 분위기다. 이전 세대에서 인텔은 루나 레이크 CPU를 TSMC에 위탁 생산했지만, 현재는 다시 자체 CPU 제조로 복귀했다. 엔비디아와 대규모 계약을 체결했고, 미국 정부는 인텔 사업의 주요 주주로 참여했다. 최근의 어려움에도 불구하고, 대형 반도체 제조사 인텔을 섣불리 배제하기는 어렵다.\n\n\n\nCES 2026 현장에서 팬서 레이크 기반 신형 시스템을 직접 벤치마크하지는 못했다. 실제 리뷰용 제품을 확보한 이후에 성능 검증이 이뤄질 예정이다",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/01/4118386-0-63842200-1768788652-ITT-3367-4.webp",
+          "is_english": false,
+          "original_title": "인텔, 다시 경쟁 전면에 서다…팬서 레이크로 반격 시작",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n지난 1년 동안 인텔 CPU를 탑재한 노트북을 다수 리뷰하면서 여러 불만이 있었다. 코어 울트라 시리즈 2 세대는 루나 레이크, 애로우 레이크, 메테오 레이크 아키텍처가 뒤섞이며 브랜드 체계가 혼란스러웠다. 그러나 CES 2026에서 인텔은 분명한 변화를 보여줬다. 코어 울트라 시리즈 3로 명명된 팬서 레이크는 AMD와 퀄컴을 정면으로 상대할 수 있는 일관된 플랫폼처럼 보였다.\n\n\n\n인텔은 자신감도 되찾은 분위기다. 이전 세대에서 인텔은 루나 레이크 CPU를 TSMC에 위탁 생산했지만, 현재",
+          "summary": "• 인텔, 브랜드 혼란 극복하고 CES 2026 변화 보여줌\n• 코어 울트라 3세대 팬서 레이크 공개 및 경쟁력 강화\n• AMD 및 퀄컴과 정면 경쟁할 플랫폼 완성\n• TSMC 위탁 생산에서 자체 생산 체제로 전환",
+          "translated_title": "인텔, 다시 경쟁 전면에 서다…팬서 레이크로 반격 시작",
+          "category_keyword": "인텔"
+        },
+        {
+          "title": "구글, 빅쿼리에 자연어 주석 기반 SQL 생성 기능 도입",
+          "link": "https://www.itworld.co.kr/article/4118376/%ea%b5%ac%ea%b8%80-%eb%b9%85%ec%bf%bc%eb%a6%ac%ec%97%90-%ec%9e%90%ec%97%b0%ec%96%b4-%ec%a3%bc%ec%84%9d-%ea%b8%b0%eb%b0%98-sql-%ec%83%9d%ec%84%b1-%ea%b8%b0%eb%8a%a5-%eb%8f%84%ec%9e%85.html",
+          "date": "2026-01-19",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n구글이 자사 데이터 웨어하우스 서비스인 빅쿼리(BigQuery)에 자연어 주석을 활용해 SQL 쿼리 일부를 생성하는 새로운 AI 기능을 미리 공개했다. 구글은 이 기능이 데이터 분석 속도를 높이고, 복잡한 쿼리를 다루는 데 따른 진입 장벽을 낮춰 기업들이 데이터 접근을 단순화하고 AI 파일럿 프로젝트를 실제 프로덕션 환경으로 전환하는 데 도움이 될 것이라고 설명했다.\n\n\n\n새 기능인 ‘코멘트 투 SQL(Comments to SQL)’은 개발자와 데이터 분석가가 SQL 주석에 자연어로 작성한 지시를 빅쿼리 스튜디오(BigQuery Studio) 내부에서 실행 가능한 쿼리로 변환한다. 이를 통해 사용자는 기존의 복잡한 SQL 문법에 익숙하지 않더라도 자연어 설명을 활용해 쿼리 작성을 보다 쉽게 진행할 수 있다.\n\n\n\n사용하려면 먼저 빅쿼리 스튜디오에서 SQL 생성 위젯을 활성화해야 한다. 이후 /*와 */로 구분된 SQL 주석 안에 자연어로 지시",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/01/4118376-0-85208400-1768785139-shutterstock_1564607236.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "구글, 빅쿼리에 자연어 주석 기반 SQL 생성 기능 도입",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n구글이 자사 데이터 웨어하우스 서비스인 빅쿼리(BigQuery)에 자연어 주석을 활용해 SQL 쿼리 일부를 생성하는 새로운 AI 기능을 미리 공개했다. 구글은 이 기능이 데이터 분석 속도를 높이고, 복잡한 쿼리를 다루는 데 따른 진입 장벽을 낮춰 기업들이 데이터 접근을 단순화하고 AI 파일럿 프로젝트를 실제 프로덕션 환경으로 전환하는 데 도움이 될 것이라고 설명했다.\n\n\n\n새 기능인 ‘코멘트 투 SQL(Comments to SQL)’은 개발자와 데이터 분석가가 SQL 주석에 자연어로 작성한 ",
+          "summary": "• 구글 빅쿼리에 자연어 주석 기반 SQL 생성 기능 추가\n• 데이터 분석 속도 향상과 진입 장벽 낮추는 기대\n• 복잡한 쿼리 작업의 데이터 접근 단순화\n• AI 파일럿 프로젝트의 실환경 전환 지원",
+          "translated_title": "구글, 빅쿼리에 자연어 주석 기반 SQL 생성 기능 도입",
+          "category_keyword": "빅쿼리"
         }
       ]
     },
