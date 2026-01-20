@@ -1,8 +1,27 @@
 {
   "dates": [
     {
+      "date": "2026-01-21",
+      "update_time": "2026-01-20 18:23:08",
+      "news": [
+        {
+          "title": "unsloth/GLM-4.7-Flash-GGUF",
+          "link": "https://huggingface.co/unsloth/GLM-4.7-Flash-GGUF",
+          "date": "2026-01-21",
+          "source": "HuggingFace",
+          "description": "• 언슬로스, GLM-4.7-Flash 모델 공개\n• 반복 출력 줄이는 파라미터 제안\n• 툸 사용 등 최적 설정 가이드 제공\n• 다이나믹 2.0으로 정확도 향상",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "is_english": true,
+          "summary": "• 언슬로스, GLM-4.7-Flash 모델 공개\n• 반복 출력 줄이는 파라미터 제안\n• 툸 사용 등 최적 설정 가이드 제공\n• 다이나믹 2.0으로 정확도 향상",
+          "translated_title": "unsloth/GLM-4.7-Flash-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        }
+      ]
+    },
+    {
       "date": "2026-01-20",
-      "update_time": "2026-01-20 15:21:37",
+      "update_time": "2026-01-20 18:23:05",
       "news": [
         {
           "title": "\"송파 세모녀 비극 없게\"…이웃의 눈과 AI가 뭉쳤다",
@@ -617,6 +636,20 @@
           "summary": "• 기업 가치 3억 달러로 상향\n • 7천만 달러 신규 펀딩 유치\n • 연간 매출 5천만 달러 달성\n • 내년 1억 달러 목표 설정",
           "translated_title": "인도 '바이브 코딩' 스타트업 Emergent, 평가액 3배 돌파",
           "category_keyword": "Emergent"
+        },
+        {
+          "title": "앤스로픽, xAI, 구글 출신 인재들이 만든 '인간 중심' AI 스타트업 휴먼앤드(Humans&), 시드 라운드 4억 8천만 달러 유치",
+          "link": "https://techcrunch.com/2026/01/20/humans-a-human-centric-ai-startup-founded-by-anthropic-xai-google-alums-raised-480m-seed-round/",
+          "date": "2026-01-20",
+          "source": "TechCrunch",
+          "description": "Humans&#038;, a startup that believes AI should empower people, not replace them, has reportedly raised a $480 million seed round at a $4.48 billion valuation.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/humans.png?resize=1200,633",
+          "is_english": true,
+          "original_title": "Humans&, a ‘human-centric’ AI startup founded by Anthropic, xAI, Google alums, raised $480M seed round",
+          "original_summary": "Humans&#038;, a startup that believes AI should empower people, not replace them, has reportedly raised a $480 million seed round at a $4.48 billion valuation.",
+          "summary": "• 앤스로픽·xAI·구글 출신 창업\n• 4억 8천만 달러 시드 투자 유치\n• 기업 가치 44억 8천만 달러 평가\n• 인간 대체 아닌 인간 중심 AI 지향",
+          "translated_title": "앤스로픽, xAI, 구글 출신 인재들이 만든 '인간 중심' AI 스타트업 휴먼앤드(Humans&), 시드 라운드 4억 8천만 달러 유치",
+          "category_keyword": "휴먼앤드"
         }
       ]
     },
