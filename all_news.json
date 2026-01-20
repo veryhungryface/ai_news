@@ -2,26 +2,27 @@
   "dates": [
     {
       "date": "2026-01-21",
-      "update_time": "2026-01-20 18:23:08",
+      "update_time": "2026-01-20 21:13:58",
       "news": [
         {
-          "title": "unsloth/GLM-4.7-Flash-GGUF",
-          "link": "https://huggingface.co/unsloth/GLM-4.7-Flash-GGUF",
+          "title": "AI가 영업 부서의 행정 부담을 줄이는 방법",
+          "link": "https://aibusiness.com/generative-ai/how-ai-is-reducing-the-administrative-burden-in-sales",
           "date": "2026-01-21",
-          "source": "HuggingFace",
-          "description": "• 언슬로스, GLM-4.7-Flash 모델 공개\n• 반복 출력 줄이는 파라미터 제안\n• 툸 사용 등 최적 설정 가이드 제공\n• 다이나믹 2.0으로 정확도 향상",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "source": "AI Business",
+          "description": "Sales teams are using generative AI to reduce the time they spend on administrative tasks, enabling sales associates to focus on their core responsibilities.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt9cfa8b5804e2a341/696fdc6e9ec162ebdd59793c/Sales.jpg?width=1280&auto=webp&quality=80&disable=upscale",
           "is_english": true,
-          "summary": "• 언슬로스, GLM-4.7-Flash 모델 공개\n• 반복 출력 줄이는 파라미터 제안\n• 툸 사용 등 최적 설정 가이드 제공\n• 다이나믹 2.0으로 정확도 향상",
-          "translated_title": "unsloth/GLM-4.7-Flash-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
+          "original_title": "How AI is Reducing the Administrative Burden in Sales",
+          "original_summary": "Sales teams are using generative AI to reduce the time they spend on administrative tasks, enabling sales associates to focus on their core responsibilities.",
+          "summary": "• 영업팀이 생성형 AI를 활용해 업무 효율 증대\n• 행정 업무에 소요되는 시간을 획기적으로 절감\n• 영업 담당자가 본연의 핵심 역할에 집중 가능\n• AI 기반 자동화로 영업 생산성 향상 기대",
+          "translated_title": "AI가 영업 부서의 행정 부담을 줄이는 방법",
+          "category_keyword": "업무 자동화"
         }
       ]
     },
     {
       "date": "2026-01-20",
-      "update_time": "2026-01-20 18:23:05",
+      "update_time": "2026-01-20 21:13:58",
       "news": [
         {
           "title": "\"송파 세모녀 비극 없게\"…이웃의 눈과 AI가 뭉쳤다",
@@ -650,6 +651,48 @@
           "summary": "• 앤스로픽·xAI·구글 출신 창업\n• 4억 8천만 달러 시드 투자 유치\n• 기업 가치 44억 8천만 달러 평가\n• 인간 대체 아닌 인간 중심 AI 지향",
           "translated_title": "앤스로픽, xAI, 구글 출신 인재들이 만든 '인간 중심' AI 스타트업 휴먼앤드(Humans&), 시드 라운드 4억 8천만 달러 유치",
           "category_keyword": "휴먼앤드"
+        },
+        {
+          "title": "시스코와 오픈AI, AI 에이전트로 기업 엔지니어링의 미래를 재정의하다",
+          "link": "https://openai.com/index/cisco",
+          "date": "2026-01-20",
+          "source": "OpenAI",
+          "description": "Cisco and OpenAI redefine enterprise engineering with Codex, an AI software agent embedded in workflows to speed builds, automate defect fixes, and enable AI-native development.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Cisco and OpenAI redefine enterprise engineering with AI agents",
+          "original_summary": "Cisco and OpenAI redefine enterprise engineering with Codex, an AI software agent embedded in workflows to speed builds, automate defect fixes, and enable AI-native development.",
+          "summary": "• 시스코와 오픈AI가 협력하여 엔지니어링 혁신 추진\n• 워크플로우에 통합된 AI 소프트웨어 에이전트 'Codex' 도입\n• 빌드 속도 향상 및 결함 수정 자동화 지원\n• AI 네이티브 개발 환경을 실현하는 것이 목표",
+          "translated_title": "시스코와 오픈AI, AI 에이전트로 기업 엔지니어링의 미래를 재정의하다",
+          "category_keyword": "Codex"
+        },
+        {
+          "title": "연령 예측에 대한 우리의 접근 방식",
+          "link": "https://openai.com/index/our-approach-to-age-prediction",
+          "date": "2026-01-20",
+          "source": "OpenAI",
+          "description": "ChatGPT is rolling out age prediction to estimate if accounts are under or over 18, applying safeguards for teens and refining accuracy over time.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Our approach to age prediction",
+          "original_summary": "ChatGPT is rolling out age prediction to estimate if accounts are under or over 18, applying safeguards for teens and refining accuracy over time.",
+          "summary": "• ChatGPT에 계정 연령 예측 기능을 도입\n• 사용자가 18세 미만인지 초과인지 추정 가능\n• 미성년자 사용자 보호를 위한 안전장치 적용\n• 시간이 지남에 따라 예측 정확도를 더욱 정교화",
+          "translated_title": "연령 예측에 대한 우리의 접근 방식",
+          "category_keyword": "연령 예측"
+        },
+        {
+          "title": "선다인스티튜트와 함께 구축하는 커뮤니티 주도의 영화 AI 미래",
+          "link": "https://blog.google/company-news/outreach-and-initiatives/google-org/sundance-institute-ai-education/",
+          "date": "2026-01-20",
+          "source": "Google AI",
+          "description": "A look at how Sundance Institute will build a community-led ecosystem for AI education and empowerment, to support creatives.",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Building_a_community-led_future.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "Building a community-led future for AI in film with Sundance Institute",
+          "original_summary": "A look at how Sundance Institute will build a community-led ecosystem for AI education and empowerment, to support creatives.",
+          "summary": "• 선다인스티튜트가 커뮤니티 주도의 AI 생태계 구축\n• 영화 제작자를 위한 AI 교육 및 권한 부여 지원\n• 창의적인 전문가들을 지원하는 것이 주요 목표\n• 영화 산업에서 AI의 건전한 발전을 도모",
+          "translated_title": "선다인스티튜트와 함께 구축하는 커뮤니티 주도의 영화 AI 미래",
+          "category_keyword": "AI 교육"
         }
       ]
     },
