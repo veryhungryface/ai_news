@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-01-20",
-      "update_time": "2026-01-20 12:29:35",
+      "update_time": "2026-01-20 15:21:37",
       "news": [
         {
           "title": "\"송파 세모녀 비극 없게\"…이웃의 눈과 AI가 뭉쳤다",
@@ -589,6 +589,34 @@
           "translated_title": "nvidia/personaplex-7b-v1",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "ServiceNow, OpenAI와 손잡고 실행 가능한 기업용 AI 구현",
+          "link": "https://openai.com/index/servicenow-powers-actionable-enterprise-ai-with-openai",
+          "date": "2026-01-20",
+          "source": "OpenAI",
+          "description": "ServiceNow expands access to OpenAI frontier models to power AI-driven enterprise workflows, summarization, search, and voice across the ServiceNow Platform.",
+          "image": null,
+          "is_english": true,
+          "original_title": "ServiceNow powers actionable enterprise AI with OpenAI",
+          "original_summary": "ServiceNow expands access to OpenAI frontier models to power AI-driven enterprise workflows, summarization, search, and voice across the ServiceNow Platform.",
+          "summary": "• OpenAI 최신 모델 접근성 확대\n • AI 기반 기업 워크플로우 지원\n • 요약, 검색, 음성 기능 탑재\n • ServiceNow 플랫폼 전반 적용",
+          "translated_title": "ServiceNow, OpenAI와 손잡고 실행 가능한 기업용 AI 구현",
+          "category_keyword": "ServiceNow"
+        },
+        {
+          "title": "인도 '바이브 코딩' 스타트업 Emergent, 평가액 3배 돌파",
+          "link": "https://techcrunch.com/2026/01/20/indian-vibe-coding-startup-emergent-raises-70m-at-300m-valuation-from-softbank-khosla-ventures/",
+          "date": "2026-01-20",
+          "source": "TechCrunch",
+          "description": "The funding comes as the startup claims it has scaled ARR to $50 million, and is targeting $100 million by April 2026.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/emergent-logo.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Indian vibe-coding startup Emergent triples valuation to $300M with $70M fundraise",
+          "original_summary": "The funding comes as the startup claims it has scaled ARR to $50 million, and is targeting $100 million by April 2026.",
+          "summary": "• 기업 가치 3억 달러로 상향\n • 7천만 달러 신규 펀딩 유치\n • 연간 매출 5천만 달러 달성\n • 내년 1억 달러 목표 설정",
+          "translated_title": "인도 '바이브 코딩' 스타트업 Emergent, 평가액 3배 돌파",
+          "category_keyword": "Emergent"
         }
       ]
     },
