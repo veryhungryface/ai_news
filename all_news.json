@@ -1,8 +1,28 @@
 {
   "dates": [
     {
+      "date": "2026-01-22",
+      "update_time": "2026-01-21 18:31:27",
+      "news": [
+        {
+          "title": "오픈AI, 2034년까지 1.4조 달러 몰입... 수익화 목표",
+          "link": "https://aibusiness.com/generative-ai/openai-targets-monetization-commitments-2034",
+          "date": "2026-01-22",
+          "source": "AI Business",
+          "description": "With the company investing massive amounts in infrastructure, prompting scrutiny of its finances, increased use of its products is a clear focus.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt68e85768d9a5cbfe/697102dac4d967e1482b21d2/openAI.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "OpenAI Targets Monetization, $1.4T Commitments by 2034",
+          "original_summary": "With the company investing massive amounts in infrastructure, prompting scrutiny of its finances, increased use of its products is a clear focus.",
+          "summary": "• 2034년까지 1.4조 달러 투자 계획\n• 막대한 인프라 투자로 재정 검증 받아\n• 제품 사용 증대가 핵심적인 초점\n• 수익화 모델을 통해 성장 추구",
+          "translated_title": "오픈AI, 2034년까지 1.4조 달러 몰입... 수익화 목표",
+          "category_keyword": "수익화"
+        }
+      ]
+    },
+    {
       "date": "2026-01-21",
-      "update_time": "2026-01-21 15:22:03",
+      "update_time": "2026-01-21 18:31:27",
       "news": [
         {
           "title": "AI가 영업 부서의 행정 부담을 줄이는 방법",
@@ -1022,6 +1042,34 @@
           "summary": "• 잔스카, 1억1천500만 달러 조달\n• 미 서부 전력망 공급 목표\n• 10여 개 지열 자원 탐사\n• 간과된 잠재력 강조",
           "translated_title": "잔스카, 미국 서부 1테라와트 지열 발전 잠재력 주목",
           "category_keyword": "지열"
+        },
+        {
+          "title": "힉스필드, 간단한 아이디어를 시네마틱한 소셜 비디오로 변환하다",
+          "link": "https://openai.com/index/higgsfield",
+          "date": "2026-01-21",
+          "source": "OpenAI",
+          "description": "Discover how Higgsfield gives creators cinematic, social-first video output from simple inputs using OpenAI GPT-4.1, GPT-5, and Sora 2.",
+          "image": null,
+          "is_english": true,
+          "original_title": "How Higgsfield turns simple ideas into cinematic social videos",
+          "original_summary": "Discover how Higgsfield gives creators cinematic, social-first video output from simple inputs using OpenAI GPT-4.1, GPT-5, and Sora 2.",
+          "summary": "• 간단한 입력으로 고품질 비디오 생성\n• 소셜 미디어 최적화된 출력 지원\n• GPT-4.1과 GPT-5 활용하여 스크립트 작성\n• 소라 2 기술로 시네마틱한 영상 제작",
+          "translated_title": "힉스필드, 간단한 아이디어를 시네마틱한 소셜 비디오로 변환하다",
+          "category_keyword": "힉스필드"
+        },
+        {
+          "title": "유튜브, 곧 자신의 AI 아바타로 쇼츠 제작 가능해진다",
+          "link": "https://techcrunch.com/2026/01/21/youtube-will-soon-let-creators-make-shorts-with-their-own-ai-likeness/",
+          "date": "2026-01-21",
+          "source": "TechCrunch",
+          "description": "YouTube Shorts viewers might soon see AI versions of their favorite creators when scrolling through their feeds. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/09/youtube-shorts.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "YouTube will soon let creators make Shorts with their own AI likeness",
+          "original_summary": "YouTube Shorts viewers might soon see AI versions of their favorite creators when scrolling through their feeds. ",
+          "summary": "• 자신의 AI 모습으로 쇼츠 제작 지원\n• 피드에 AI 버전의 크리에이터 등장\n• 좋아하는 크리에이터를 AI로 구현\n• 유튜브 쇼츠의 새로운 AI 기능 도입",
+          "translated_title": "유튜브, 곧 자신의 AI 아바타로 쇼츠 제작 가능해진다",
+          "category_keyword": "AI 쇼츠"
         }
       ]
     },
