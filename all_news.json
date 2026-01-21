@@ -22,7 +22,7 @@
     },
     {
       "date": "2026-01-21",
-      "update_time": "2026-01-21 18:31:27",
+      "update_time": "2026-01-21 21:21:15",
       "news": [
         {
           "title": "AI가 영업 부서의 행정 부담을 줄이는 방법",
@@ -1070,6 +1070,20 @@
           "summary": "• 자신의 AI 모습으로 쇼츠 제작 지원\n• 피드에 AI 버전의 크리에이터 등장\n• 좋아하는 크리에이터를 AI로 구현\n• 유튜브 쇼츠의 새로운 AI 기능 도입",
           "translated_title": "유튜브, 곧 자신의 AI 아바타로 쇼츠 제작 가능해진다",
           "category_keyword": "AI 쇼츠"
+        },
+        {
+          "title": "아이러니 경고: 권위 있는 AI 학술 회의 뉴립스 논문에서 허위 인용 발견",
+          "link": "https://techcrunch.com/2026/01/21/irony-alert-hallucinated-citations-found-in-papers-from-neurips-the-prestigious-ai-conference/",
+          "date": "2026-01-21",
+          "source": "TechCrunch",
+          "description": "Research from startup GPTZero points to the impossible problem prestigious conferences face in the age of AI slop.",
+          "image": "https://techcrunch.com/wp-content/uploads/2019/11/GettyImages-1129660767.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Irony alert: Hallucinated citations found in papers from NeurIPS, the prestigious AI conference",
+          "original_summary": "Research from startup GPTZero points to the impossible problem prestigious conferences face in the age of AI slop.",
+          "summary": "• 스타트업 GPTZero의 연구 결과 공개\n• 뉴립스 논문에서 허위 인용 다수 확인\n• AI 시대 학술대회의 심각한 난제 지적\n• AI 생성 콘텐츠 걸러내기 불가능해져",
+          "translated_title": "아이러니 경고: 권위 있는 AI 학술 회의 뉴립스 논문에서 허위 인용 발견",
+          "category_keyword": "허위 인용"
         }
       ]
     },
