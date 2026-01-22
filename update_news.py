@@ -1710,7 +1710,7 @@ if __name__ == '__main__':
                     existing_date_news_filtered = [n for n in existing_date_news if n.get('category') != 'AI Model']
                 else:
                     existing_date_news_filtered = existing_date_news
-                combined_news = existing_date_news_filtered + date_news_items
+                combined_news = date_news_items + existing_date_news_filtered
                 
                 existing_dates[news_date] = {
                     'date': news_date,
