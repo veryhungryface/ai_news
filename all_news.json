@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-01-22",
-      "update_time": "2026-01-22 01:01:41",
+      "update_time": "2026-01-22 04:05:35",
       "news": [
         {
           "title": "오픈AI, 2034년까지 1.4조 달러 몰입... 수익화 목표",
@@ -103,17 +103,88 @@
           "category_keyword": "AI웨어러블"
         },
         {
-          "title": "lightonai/LightOnOCR-2-1B",
-          "link": "https://huggingface.co/lightonai/LightOnOCR-2-1B",
+          "title": "어선 충돌 위험 자동감지 기술 개발…AI로 위험물체 실시간 식별",
+          "link": "https://www.yna.co.kr/view/AKR20260122071100530",
           "date": "2026-01-22",
-          "source": "HuggingFace",
-          "description": "• 라이트온, 최신 OCR 모델 공개\n• 경쟁 모델 대비 속도 월등함\n• 복잡한 문서도 정확히 변환\n• 비용 효율성까지 대폭 개선",
-          "image": "https://huggingface.co/lightonai/LightOnOCR-2-1B/resolve/main/lightonocr-banner.png",
-          "is_english": true,
-          "summary": "• 라이트온, 최신 OCR 모델 공개\n• 경쟁 모델 대비 속도 월등함\n• 복잡한 문서도 정확히 변환\n• 비용 효율성까지 대폭 개선",
-          "translated_title": "lightonai/LightOnOCR-2-1B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 오진송 기자 = 행정안전부는 어선 충돌로 인한 인명피해를 줄이기 위해 내년 말까지 9억원을 투입해 &apos;소형 어선 맞춤형 충돌 방...",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2025/10/12/PYH2025101203880006500_P2.jpg",
+          "is_english": false,
+          "original_title": "어선 충돌 위험 자동감지 기술 개발…AI로 위험물체 실시간 식별",
+          "original_summary": "(서울=연합뉴스) 오진송 기자 = 행정안전부는 어선 충돌로 인한 인명피해를 줄이기 위해 내년 말까지 9억원을 투입해 &apos;소형 어선 맞춤형 충돌 방...",
+          "summary": "• 행정안전부, 어선 충돌 인명피해 감소 목표\n• 내년 말까지 9억 원 투입 계획\n• AI 기반 위험물체 실시간 식별 기술\n• 소형 어선 맞춤형 충돌 방지 시스템",
+          "translated_title": "어선 충돌 위험 자동감지 기술 개발…AI로 위험물체 실시간 식별",
+          "category_keyword": "AI"
+        },
+        {
+          "title": "복지신청 30% 증가·119 접수시간 3% 단축…'AI 챌린지' 성과",
+          "link": "https://www.yna.co.kr/view/AKR20260122079700061",
+          "date": "2026-01-22",
+          "source": "연합뉴스",
+          "description": "(수원=연합뉴스) 최찬흥 기자 = 경기도가 지난해 추진한 인공지능(AI) 기술 활용 공공서비스 혁신 과제인 &apos;AI 챌린지 프로그램&apos;이 상당한 성...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/01/22/AKR20260122079700061_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "복지신청 30% 증가·119 접수시간 3% 단축…'AI 챌린지' 성과",
+          "original_summary": "(수원=연합뉴스) 최찬흥 기자 = 경기도가 지난해 추진한 인공지능(AI) 기술 활용 공공서비스 혁신 과제인 &apos;AI 챌린지 프로그램&apos;이 상당한 성...",
+          "summary": "• 경기도 AI 챌린지 프로그램 상당한 성과\n• 복지 신청 건수 30% 증가 기록\n• 119 접수 소요 시간 3% 단축\n• AI 기술 활용 공공서비스 혁신",
+          "translated_title": "복지신청 30% 증가·119 접수시간 3% 단축…'AI 챌린지' 성과",
+          "category_keyword": "AI 챌린지"
+        },
+        {
+          "title": "아이폰 사진, 전문가처럼 보정하는 기본 기능 7가지",
+          "link": "https://www.itworld.co.kr/article/4120437/%ec%95%84%ec%9d%b4%ed%8f%b0-%ec%82%ac%ec%a7%84-%ec%a0%84%eb%ac%b8%ea%b0%80%ec%b2%98%eb%9f%bc-%eb%b3%b4%ec%a0%95%ed%95%98%eb%8a%94-%ea%b8%b0%eb%b3%b8-%ea%b8%b0%eb%8a%a5-7%ea%b0%80%ec%a7%80.html",
+          "date": "2026-01-22",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n온라인에서 ‘#ShotoniPhone’ 해시태그가 붙은 멋진 사진을 본 적 있을 것이다. 하지만 막상 같은 기종의 아이폰으로 찍으면 비슷한 결과가 나오지 않아 의아해 하는 사람도 적지 않다. 사실 대부분 바이럴 사진은 공유 전에 세밀하게 편집된 결과물이다.\n\n\n\n전문 포토그래퍼는 색감과 디테일 보정을 위해 어도비 라이트룸(Adobe Lightroom)을 사용하지만, 사실 아이폰에 기본 탑재된 사진 앱만으로도 충분히 수준 높은 결과를 얻을 수 있다. 서드파티 앱 없이도 전문가처럼 보이는 이미지를 만들고 싶다면, 아래의 기본 기능을 적극 활용해보자.\n\n\n\n1. 자동 인물 사진\n\n\n\n모바일 사진 촬영은 대체로 순간적이고 즉흥적이다. 길을 걷다 끼가 넘치는 친구나 반려동물이 자연스럽게 포즈를 취하는 순간을 발견하면, 대체로 카메라 앱에서 모드를 바꿀 새도 없이 바로 촬영 버튼을 누르게 된다.\n\n\n\n다행히 최근 아이폰은 특정 조건에서 자동으로 심도 데",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/01/4120437-0-01587700-1769049146-iphone-14-telephoto-camera-moon-100938653-orig.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "아이폰 사진, 전문가처럼 보정하는 기본 기능 7가지",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n온라인에서 ‘#ShotoniPhone’ 해시태그가 붙은 멋진 사진을 본 적 있을 것이다. 하지만 막상 같은 기종의 아이폰으로 찍으면 비슷한 결과가 나오지 않아 의아해 하는 사람도 적지 않다. 사실 대부분 바이럴 사진은 공유 전에 세밀하게 편집된 결과물이다.\n\n\n\n전문 포토그래퍼는 색감과 디테일 보정을 위해 어도비 라이트룸(Adobe Lightroom)을 사용하지만, 사실 아이폰에 기본 탑재된 사진 앱만으로도 충분히 수준 높은 결과를 얻을 수 있다. 서드파티 앱 없이도 전문가처럼 보이는 이미지",
+          "summary": "• 기본 앱만으로 전문가급 사진 가능\n• 외부 편집 앱 없이도 수준 높은 결과\n• 색감과 디테일 보정 핵심 기능 소개\n• #ShotoniPhone 결과물 따라 만드는 법",
+          "translated_title": "아이폰 사진, 전문가처럼 보정하는 기본 기능 7가지",
+          "category_keyword": "아이폰 보정"
+        },
+        {
+          "title": "“메모리 부족 2027년까지 장기화” DDR5 전환·HBM 급증까지 겹쳐",
+          "link": "https://www.itworld.co.kr/article/4120420/%eb%a9%94%eb%aa%a8%eb%a6%ac-%eb%b6%80%ec%a1%b1-2027%eb%85%84%ea%b9%8c%ec%a7%80-%ec%9e%a5%ea%b8%b0%ed%99%94-ddr5-%ec%a0%84%ed%99%98%c2%b7hbm-%ea%b8%89%ec%a6%9d%ea%b9%8c%ec%a7%80.html",
+          "date": "2026-01-22",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n메모리 업계는 호황과 불황이 극단적으로 오가는 것으로 악명이 높지만, 이번 공급 부족 사태는 특히 심각하다. 메모리 업계에 무슨 일이 벌어진 것인가?\n\n\n\n메모리 업계는 과거에도 여러 차례 공급 부족 사태를 겪었지만, 그 중 일부는 메모리 폼팩터 변경이 최소한 부분적으로 원인이었다. 예를 들어, DDR4 같은 구형 메모리에서 DDR5로 넘어갈 때 전환이 꽤 급격했고, CPU나 GPU 마이그레이션에 비해 전환 과정이 매끄럽지 못했다.\n\n\n\n현재 메모리 업계는 핵심 공급사가 3곳이나 되는 구조이지만, 역사상 최악의 공급 부족 사태를 겪고 있다. 메모리 시장 전문 리서치 회사 트렌드포스(TrendForce)는 최근 DRAM 평균 가격이 이번 분기에 2025년 4분기 대비 50%~55% 상승할 것으로 예상한다고 밝혔다. 삼성도 최근 비슷한 경고를 내놨다.\n\n\n\n가장 큰 원인은 AI다. AI 중심 데이터센터 구축 경쟁이 가속화되면서 사실상 메모리 공급",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/01/4120420-0-68389800-1769045754-shutterstock_1319513786.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "“메모리 부족 2027년까지 장기화” DDR5 전환·HBM 급증까지 겹쳐",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n메모리 업계는 호황과 불황이 극단적으로 오가는 것으로 악명이 높지만, 이번 공급 부족 사태는 특히 심각하다. 메모리 업계에 무슨 일이 벌어진 것인가?\n\n\n\n메모리 업계는 과거에도 여러 차례 공급 부족 사태를 겪었지만, 그 중 일부는 메모리 폼팩터 변경이 최소한 부분적으로 원인이었다. 예를 들어, DDR4 같은 구형 메모리에서 DDR5로 넘어갈 때 전환이 꽤 급격했고, CPU나 GPU 마이그레이션에 비해 전환 과정이 매끄럽지 못했다.\n\n\n\n현재 메모리 업계는 핵심 공급사가 3곳이나 되는 구조이",
+          "summary": "• 메모리 부족 현상 2027년까지 장기화\n• DDR5 전환과 HBM 수요 급증 겹침\n• 과거 전환 과정보다 매끄럽지 못함\n• 핵심 공급사 3곳 구조의 시장 변화",
+          "translated_title": "“메모리 부족 2027년까지 장기화” DDR5 전환·HBM 급증까지 겹쳐",
+          "category_keyword": "메모리 부족"
+        },
+        {
+          "title": "오픈AI, 챗GPT 광고 빠르면 내달 도입…“최후의 수단”이 현실로",
+          "link": "https://www.itworld.co.kr/article/4120411/%ec%98%a4%ed%94%88ai-%ec%b1%97gpt-%ea%b4%91%ea%b3%a0-%eb%b9%a0%eb%a5%b4%eb%a9%b4-%eb%82%b4%eb%8b%ac-%eb%8f%84%ec%9e%85%ec%b5%9c%ed%9b%84%ec%9d%98-%ec%88%98%eb%8b%a8.html",
+          "date": "2026-01-22",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n보도에 따르면, 오픈AI는 광고주들과 협력해 챗GPT 사용자에게 광고를 노출하는 테스트를 진행 중이다. 이 서비스는 빠르면 다음 달 상용화될 가능성이 있다.\n\n\n\n오픈AI가 AI 챗봇과의 대화에 광고를 삽입할 계획을 공식 발표한 것은 지난주의 일이다. CEO 샘 올트먼은 과거 이러한 광고 모델을 “회사로서는 최후의 수단”이라고 언급한 바 있다.\n\n\n\nIT 전문 매체 디 인포메이션(The Information)의 최근 보도에 따르면, 오픈AI는 광고주들에게 웹 기반 광고에서 일반적인 클릭당 과금(Pay Per Click, PPC) 방식이 아닌 노출당 과금(Pay Per Impression, PPM) 모델을 우선 적용할 예정이다.\n\n\n\nPPM 방식은 사용자가 광고를 클릭하지 않아도 화면에 광고가 표시되는 순간 오픈AI에 수익이 발생한다는 점에서 안정적인 수익 구조를 제공한다. 다만 광고주 입장에서는 실제 지출이 어느 정도 효과를 냈는지 판단하기 ",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/01/4120411-0-46895900-1769045188-shutterstock_2662121575.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "오픈AI, 챗GPT 광고 빠르면 내달 도입…“최후의 수단”이 현실로",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n보도에 따르면, 오픈AI는 광고주들과 협력해 챗GPT 사용자에게 광고를 노출하는 테스트를 진행 중이다. 이 서비스는 빠르면 다음 달 상용화될 가능성이 있다.\n\n\n\n오픈AI가 AI 챗봇과의 대화에 광고를 삽입할 계획을 공식 발표한 것은 지난주의 일이다. CEO 샘 올트먼은 과거 이러한 광고 모델을 “회사로서는 최후의 수단”이라고 언급한 바 있다.\n\n\n\nIT 전문 매체 디 인포메이션(The Information)의 최근 보도에 따르면, 오픈AI는 광고주들에게 웹 기반 광고에서 일반적인 클릭당 과",
+          "summary": "• 챗GPT 광고 빠르면 다음 달 상용화\n• 광고주들과 협력해 현재 테스트 중\n• 대화 내용에 광고 삽입 계획 발표\n• CEO 과거 “최후의 수단” 언급 배경",
+          "translated_title": "오픈AI, 챗GPT 광고 빠르면 내달 도입…“최후의 수단”이 현실로",
+          "category_keyword": "챗GPT 광고"
+        },
+        {
+          "title": "공급망 공격 시대, IT 협력업체를 다시 검증하는 질문 리스트",
+          "link": "https://www.itworld.co.kr/article/4120409/%ea%b3%b5%ea%b8%89%eb%a7%9d-%ea%b3%b5%ea%b2%a9-%ec%8b%9c%eb%8c%80-it-%ed%98%91%eb%a0%a5%ec%97%85%ec%b2%b4%eb%a5%bc-%eb%8b%a4%ec%8b%9c-%ea%b2%80%ec%a6%9d%ed%95%98%eb%8a%94-%ec%a7%88%eb%ac%b8-%eb%a6%ac.html",
+          "date": "2026-01-22",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n공격자가 서드파티 공급업체를 노리는 사례가 점점 더 늘어나고 있다. 고객사는 뒤늦게 피해를 인지하게 된다. CISO는 업체 협상 과정에서 더 적극적인 역할을 맡고, 질문의 강도를 높여야 한다.\n\n\n\nIT 서비스 제공업체, 디지털 도구, 서드파티 소프트웨어에 대한 의존도가 높아지면서 기업의 공격 표면은 빠르게 확대되고 있다. 지난 1년간 발생한 여러 사이버 공격은 이런 현실을 분명히 보여줬다.\n\n\n\n2025년 10월, 영국 유통업체 마크스앤스펜서는 사이버 공격 이후 타타 컨설턴시 서비스와의 장기 헬프데스크 계약을 종료했다. 해당 공격으로 약 3억 파운드의 손실이 발생했고, 온라인 사업이 일시 중단됐다.\n\n\n\n8월에는 중국 기반 위협 그룹이 서드파티 플랫폼 세일즈로프트 드리프트에서 탈취한 OAuth 토큰을 악용해 최대 700개 기업에서 민감한 비즈니스 데이터를 유출했다. 유출 대상에는 아마존웹서비스 키, 스노우플레이크 토큰, 비밀번호 등이 포함됐",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/01/4120409-0-76461900-1769045012-five-cio-questions-shutterstock_662965375.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "공급망 공격 시대, IT 협력업체를 다시 검증하는 질문 리스트",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n공격자가 서드파티 공급업체를 노리는 사례가 점점 더 늘어나고 있다. 고객사는 뒤늦게 피해를 인지하게 된다. CISO는 업체 협상 과정에서 더 적극적인 역할을 맡고, 질문의 강도를 높여야 한다.\n\n\n\nIT 서비스 제공업체, 디지털 도구, 서드파티 소프트웨어에 대한 의존도가 높아지면서 기업의 공격 표면은 빠르게 확대되고 있다. 지난 1년간 발생한 여러 사이버 공격은 이런 현실을 분명히 보여줬다.\n\n\n\n2025년 10월, 영국 유통업체 마크스앤스펜서는 사이버 공격 이후 타타 컨설턴시 서비스와의 장",
+          "summary": "• 서드파티 공급업체 공격 사례 급증\n• CISO, 협업 시 검증 질문 강도 높여야\n• IT 의존도 증가로 공격 표면 확대\n• 공급망 보안 강화를 위한 실질적 대책",
+          "translated_title": "공급망 공격 시대, IT 협력업체를 다시 검증하는 질문 리스트",
+          "category_keyword": "공급망 보안"
         }
       ]
     },
