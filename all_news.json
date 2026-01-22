@@ -1,9 +1,140 @@
 {
   "dates": [
     {
-      "date": "2026-01-22",
-      "update_time": "2026-01-22 12:28:53",
+      "date": "2026-01-23",
+      "update_time": "2026-01-22 15:21:25",
       "news": [
+        {
+          "title": "microsoft/VibeVoice-ASR",
+          "link": "https://huggingface.co/microsoft/VibeVoice-ASR",
+          "date": "2026-01-23",
+          "source": "HuggingFace",
+          "description": "• 마이크로소프트, 1시간 음성 단일 처리 AI 공개\n• 화자 식별 및 타임스탬프 동시 생성 지원\n• 맥락 유지를 통한 긴 음성 분석력 강화\n• 사용자 맞춤형 핵심어 인식 기능 탑재",
+          "image": "https://img.shields.io/badge/GitHub-Repo-black?logo=github",
+          "is_english": true,
+          "summary": "• 마이크로소프트, 1시간 음성 단일 처리 AI 공개\n• 화자 식별 및 타임스탬프 동시 생성 지원\n• 맥락 유지를 통한 긴 음성 분석력 강화\n• 사용자 맞춤형 핵심어 인식 기능 탑재",
+          "translated_title": "microsoft/VibeVoice-ASR",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        }
+      ]
+    },
+    {
+      "date": "2026-01-22",
+      "update_time": "2026-01-22 15:21:21",
+      "news": [
+        {
+          "title": "젠슨 황 \"데이터센터 붐으로 건설 노동자 급여 2배 증가...10만달러 이상 연봉 가능\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=205840",
+          "date": "2026-01-22",
+          "source": "AI타임스",
+          "description": "젠슨 황 엔비디아 CEO가 AI 데이터센터 건설 수요 덕분에 배관공, 전기공, 건설 노동자들도 수만달러의 연봉을 받을 수 있다고 말했다. 황 CEO는 20일(현지시간) 스위스 다보스에서 열린 세계경제포럼(WEF)에서 무대에 올라 AI 기술에는 역사상 가장 큰 규모의 인프라 구축이 필요하며, 이를 위해 수조달러의 신규 투자가 요구될 것이라고 말했다.그는 AI를 에너지, 칩 및 컴퓨팅 인프라, 클라우드 데이터센터, AI 모델, 애플리케이션 계층 등으로 구성된 \\'5층 케이크\\'에 비유했다. 그리고 각 계층이 전 세계적으로 성장을 주도하고",
+          "image": "https://cdn.aitimes.com/news/photo/202601/205840_207710_2712.jpeg",
+          "is_english": false,
+          "original_title": "젠슨 황 \"데이터센터 붐으로 건설 노동자 급여 2배 증가...10만달러 이상 연봉 가능\"",
+          "original_summary": "젠슨 황 엔비디아 CEO가 AI 데이터센터 건설 수요 덕분에 배관공, 전기공, 건설 노동자들도 수만달러의 연봉을 받을 수 있다고 말했다. 황 CEO는 20일(현지시간) 스위스 다보스에서 열린 세계경제포럼(WEF)에서 무대에 올라 AI 기술에는 역사상 가장 큰 규모의 인프라 구축이 필요하며, 이를 위해 수조달러의 신규 투자가 요구될 것이라고 말했다.그는 AI를 에너지, 칩 및 컴퓨팅 인프라, 클라우드 데이터센터, AI 모델, 애플리케이션 계층 등으로 구성된 \\'5층 케이크\\'에 비유했다. 그리고 각 계층이 전 세계적으로 성장을 주도하",
+          "summary": "• AI 데이터센터 건설 수요 급증\n• 건설 노동자 연봉 10만달러 돌파\n• 역대 최대 규모 인프라 필요\n• 5층 케이크 비유로 성장 강조",
+          "translated_title": "젠슨 황 \"데이터센터 붐으로 건설 노동자 급여 2배 증가...10만달러 이상 연봉 가능\"",
+          "category_keyword": "엔비디아"
+        },
+        {
+          "title": "프락티카의 대화 중심 언어 학습 접근법",
+          "link": "https://openai.com/index/praktika",
+          "date": "2026-01-22",
+          "source": "OpenAI",
+          "description": "How Praktika uses GPT-4.1 and GPT-5.2 to build adaptive AI tutors that personalize lessons, track progress, and help learners achieve real-world language fluency",
+          "image": null,
+          "is_english": true,
+          "original_title": "Inside Praktika's conversational approach to language learning",
+          "original_summary": "How Praktika uses GPT-4.1 and GPT-5.2 to build adaptive AI tutors that personalize lessons, track progress, and help learners achieve real-world language fluency",
+          "summary": "• GPT 활용 적응형 AI 튜터 도입\n• 맞춤형 레슨 및 진도 관리\n• 실전 언어 구사력 향상 목표\n• 최신 모델 기반 학습 지원",
+          "translated_title": "프락티카의 대화 중심 언어 학습 접근법",
+          "category_keyword": "AI교육"
+        },
+        {
+          "title": "구글, AI 음성 스타트업 휴메 AI 핵심 인수",
+          "link": "https://techcrunch.com/2026/01/22/google-reportedly-snags-up-team-behind-ai-voice-startup-hume-ai/",
+          "date": "2026-01-22",
+          "source": "TechCrunch",
+          "description": "Google has hired the CEO and top top behind voice AI startup Hume AI, signaling that voice is increasingly becoming the preferred interface over screens. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2166080568.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Google reportedly snags up team behind AI voice startup Hume AI",
+          "original_summary": "Google has hired the CEO and top top behind voice AI startup Hume AI, signaling that voice is increasingly becoming the preferred interface over screens. ",
+          "summary": "• 구글, 휴메 AI 인수설 보도\n• 음성이 화면 대체 인기 상승\n• CEO 및 핵심 임원 영입\n• 음성 인터페이스 중심 전략",
+          "translated_title": "구글, AI 음성 스타트업 휴메 AI 핵심 인수",
+          "category_keyword": "인수"
+        },
+        {
+          "title": "투명 망토서 AI 칩까지: 뉴로포스, 광학 프로세서 개발에 1.1억 달러 투자 유치",
+          "link": "https://techcrunch.com/2026/01/22/from-invisibility-cloaks-to-ai-chips-neurophos-raises-110m-to-build-tiny-optical-processors-for-inferencing/",
+          "date": "2026-01-22",
+          "source": "TechCrunch",
+          "description": "Neurophos is taking a crack at solving the AI industry's power efficiency problem with an optical chip that uses a composite material to do the math required in AI inferencing tasks.",
+          "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+          "is_english": true,
+          "original_title": "From invisibility cloaks to AI chips: Neurophos raises $110M to build tiny optical processors for inferencing",
+          "original_summary": "Neurophos is taking a crack at solving the AI industry's power efficiency problem with an optical chip that uses a composite material to do the math required in AI inferencing tasks.",
+          "summary": "• 뉴로포스, 1.1억 달러 투자 유치\n• AI 추론용 광학 칩 개발\n• 복합재료로 수학 연산 처리\n• AI 전력 효율 문제 해결",
+          "translated_title": "투명 망토서 AI 칩까지: 뉴로포스, 광학 프로세서 개발에 1.1억 달러 투자 유치",
+          "category_keyword": "광학칩"
+        },
+        {
+          "title": "앤트로픽, AI 도용 방지 위해 기술 면접 시험 지속 개정",
+          "link": "https://techcrunch.com/2026/01/22/anthropic-has-to-keep-revising-its-technical-interview-test-so-you-cant-cheat-on-it-with-claude/",
+          "date": "2026-01-22",
+          "source": "TechCrunch",
+          "description": "Since 2024, Anthropic's performance optimization team has given job seekers a take-home test to make sure they know their stuff — but as AI coding tools have gotten better, the test has had to change a lot to stay ahead of AI-assisted cheating.",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/11/Claude2_Blog_V1-1.webp?resize=1200,675",
+          "is_english": true,
+          "original_title": "Anthropic has to keep revising its technical interview test so you can’t cheat on it with Claude",
+          "original_summary": "Since 2024, Anthropic's performance optimization team has given job seekers a take-home test to make sure they know their stuff — but as AI coding tools have gotten better, the test has had to change a lot to stay ahead of AI-assisted cheating.",
+          "summary": "• AI 코딩 도구 발전으로 변화\n• 과제 시험 지속 수정 중\n• 클로드를 이용한 부정 방지\n• 실력 검증 위한 시험 강화",
+          "translated_title": "앤트로픽, AI 도용 방지 위해 기술 면접 시험 지속 개정",
+          "category_keyword": "채용"
+        },
+        {
+          "title": "스포티파이, 미국과 캐나다에 AI 기반 '프롬프트 플레이리스트' 도입",
+          "link": "https://techcrunch.com/2026/01/22/spotify-brings-ai-powered-prompted-playlists-to-the-u-s-and-canada/",
+          "date": "2026-01-22",
+          "source": "TechCrunch",
+          "description": "Now available in the US and Canada, Spotify's AI-powered Prompted Playlists let users describe what they want to hear using natural language commands.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/Prompted-Playlist-Header.jpg?resize=1200,683",
+          "is_english": true,
+          "original_title": "Spotify brings AI-powered Prompted Playlists to the U.S. and Canada",
+          "original_summary": "Now available in the US and Canada, Spotify's AI-powered Prompted Playlists let users describe what they want to hear using natural language commands.",
+          "summary": "• 미국과 캐나다 지역 서비스 시작\n• 자연어 명령으로 검색 가능\n• 원하는 음악 묘사하여 생성\n• AI 활용 플레이리스트 추천",
+          "translated_title": "스포티파이, 미국과 캐나다에 AI 기반 '프롬프트 플레이리스트' 도입",
+          "category_keyword": "스포티파이"
+        },
+        {
+          "title": "쿼드릭, 클라우드에서 온디바이스로 AI 전환에 힘입어 성과 가시화",
+          "link": "https://techcrunch.com/2026/01/22/quadric-rides-the-shift-from-cloud-ai-to-on-device-inference-and-its-paying-off/",
+          "date": "2026-01-22",
+          "source": "TechCrunch",
+          "description": "Quadric aims to help companies and governments build programmable on-device AI chips that can run fast-changing models locally.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/quadric-founders.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Quadric rides the shift from cloud AI to on-device inference — and it’s paying off",
+          "original_summary": "Quadric aims to help companies and governments build programmable on-device AI chips that can run fast-changing models locally.",
+          "summary": "• 클라우드에서 온디바이스 전환\n• 온디바이스용 AI 칩 개발\n• 빠르게 변화하는 모델 로컬 실행\n• 기업 및 정부 고객 지원",
+          "translated_title": "쿼드릭, 클라우드에서 온디바이스로 AI 전환에 힘입어 성과 가시화",
+          "category_keyword": "엣지AI"
+        },
+        {
+          "title": "앤트로픽, 클로드 헌법으로 투명성 확보 목표",
+          "link": "https://aibusiness.com/responsible-ai/anthropic-aims-for-transparency-with-constitution",
+          "date": "2026-01-22",
+          "source": "AI Business",
+          "description": "The updated document addresses enterprises' need to understand AI systems and how they think -- a critical factor for using them in applications that could lead to unpredictable situations.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt7e2f2322b28af60e/6972374ec6470ac9c8c78a18/Antrhopic.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Anthropic Aims for Transparency With Claude Constitution",
+          "original_summary": "The updated document addresses enterprises' need to understand AI systems and how they think -- a critical factor for using them in applications that could lead to unpredictable situations.",
+          "summary": "• AI 시스템 이해도 향상 목표\n• 기업 안정성 요구에 대응\n• 클로드 헌법 문서 업데이트\n• 불확실성 상황 활용 중시",
+          "translated_title": "앤트로픽, 클로드 헌법으로 투명성 확보 목표",
+          "category_keyword": "투명성"
+        },
         {
           "title": "'인공지능기본법' 궁금증 해결…22일부터 '지원데스크' 운영",
           "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148958442&call_from=rsslink",
