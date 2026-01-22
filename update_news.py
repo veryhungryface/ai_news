@@ -1733,7 +1733,7 @@ if __name__ == '__main__':
             existing_today_entry = existing_dates.get(today, {'date': today, 'update_time': '', 'news': []})
             existing_news = [n for n in existing_today_entry.get('news', []) if n.get('category') != 'AI Model']
             existing_models = [n for n in existing_today_entry.get('news', []) if n.get('category') == 'AI Model']
-            combined_news = existing_news + existing_models + hf_models
+            combined_news = existing_news + hf_models + existing_models
             
             existing_dates[today] = {
                 'date': today,
