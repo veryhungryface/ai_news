@@ -2,8 +2,21 @@
   "dates": [
     {
       "date": "2026-01-23",
-      "update_time": "2026-01-22 15:21:25",
+      "update_time": "2026-01-22 18:19:25",
       "news": [
+        {
+          "title": "LiquidAI/LFM2.5-1.2B-Thinking",
+          "link": "https://huggingface.co/LiquidAI/LFM2.5-1.2B-Thinking",
+          "date": "2026-01-23",
+          "source": "HuggingFace",
+          "description": "• 리퀴드AI, 온디바이스용 신규 모델 공개\n• 경량화로 고성능 AI 탑재 지원\n• 모바일 기기서 초고속 추론 구현\n• 대규모 학습 기반 성능 최적화",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/KfNudLXnOZxAhlLp_1QVo.png",
+          "is_english": true,
+          "summary": "• 리퀴드AI, 온디바이스용 신규 모델 공개\n• 경량화로 고성능 AI 탑재 지원\n• 모바일 기기서 초고속 추론 구현\n• 대규모 학습 기반 성능 최적화",
+          "translated_title": "LiquidAI/LFM2.5-1.2B-Thinking",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
         {
           "title": "microsoft/VibeVoice-ASR",
           "link": "https://huggingface.co/microsoft/VibeVoice-ASR",
@@ -21,8 +34,50 @@
     },
     {
       "date": "2026-01-22",
-      "update_time": "2026-01-22 15:21:21",
+      "update_time": "2026-01-22 18:19:21",
       "news": [
+        {
+          "title": "구글의 AI 모드, 이제 Gmail과 포토에 접근해 맞춤형 답변 제공",
+          "link": "https://techcrunch.com/2026/01/22/googles-ai-mode-can-now-tap-into-your-gmail-and-photos-to-provide-tailored-responses/",
+          "date": "2026-01-22",
+          "source": "TechCrunch",
+          "description": "The company notes that AI Mode doesn’t train directly on your Gmail inbox or Google Photos library. Instead, it trains on specific prompts and the model’s responses. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Google’s AI Mode can now tap into your Gmail and Photos to provide tailored responses",
+          "original_summary": "The company notes that AI Mode doesn’t train directly on your Gmail inbox or Google Photos library. Instead, it trains on specific prompts and the model’s responses. ",
+          "summary": "• Gmail 및 포토 활용 가능\n• 학습용 데이터는 직접 미사용\n• 프롬프트와 답변으로 학습\n• 개인 정보 보호 강조",
+          "translated_title": "구글의 AI 모드, 이제 Gmail과 포토에 접근해 맞춤형 답변 제공",
+          "category_keyword": "AI 모드"
+        },
+        {
+          "title": "휴먼앤드(Humans&), 인간 중심 AI 도구 구축 위해 4억 8천만 달러 유치",
+          "link": "https://aibusiness.com/agentic-ai/startup-human-centric-ai-tools",
+          "date": "2026-01-22",
+          "source": "AI Business",
+          "description": "Just three months old, the startup is already valued at $4.48 billion and has garnered attention from Google, Nvidia and Jeff Bezos.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltb48d4841dd03a810/69724179f9ed6ded505eb033/AI.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Humans&amp; Raises $480M to Build Human-Centric AI Tools",
+          "original_summary": "Just three months old, the startup is already valued at $4.48 billion and has garnered attention from Google, Nvidia and Jeff Bezos.",
+          "summary": "• 설립 3개월 만에 4.8조 평가\n• 구글·엔비디아·베이조스 투자\n• 인간 중심 AI 도구 개발\n• 막대한 투자금 유치 성공",
+          "translated_title": "휴먼앤드(Humans&), 인간 중심 AI 도구 구축 위해 4억 8천만 달러 유치",
+          "category_keyword": "휴먼앤드"
+        },
+        {
+          "title": "검색 AI 모드의 개인 지능: 나만을 위한 맞춤형 도움",
+          "link": "https://blog.google/products-and-platforms/products/search/personal-intelligence-ai-mode-search/",
+          "date": "2026-01-22",
+          "source": "Google AI",
+          "description": "Personal Intelligence lets you tap into your context from Gmail and Photos to deliver tailored responses in Search, just for you.",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/pcontext_sizzle_thumbnail.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "Personal Intelligence in AI Mode in Search: Help that's uniquely yours",
+          "original_summary": "Personal Intelligence lets you tap into your context from Gmail and Photos to deliver tailored responses in Search, just for you.",
+          "summary": "• 개인 지능 기능 탑재\n• Gmail과 포토 문맥 활용\n• 검색 시 맞춤형 답변 제공\n• 사용자 맞춤형 경험 강화",
+          "translated_title": "검색 AI 모드의 개인 지능: 나만을 위한 맞춤형 도움",
+          "category_keyword": "개인 지능"
+        },
         {
           "title": "젠슨 황 \"데이터센터 붐으로 건설 노동자 급여 2배 증가...10만달러 이상 연봉 가능\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=205840",
