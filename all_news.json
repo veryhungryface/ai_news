@@ -2,53 +2,56 @@
   "dates": [
     {
       "date": "2026-01-24",
-      "update_time": "2026-01-23 15:17:33",
+      "update_time": "2026-01-23 21:13:10",
       "news": [
         {
-          "title": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
-          "link": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+          "title": "Serve Robotics, 병원 보조 로봇 기업 인수",
+          "link": "https://aibusiness.com/robotics/serve-robotics-acquires-hospital-robot-company",
           "date": "2026-01-24",
-          "source": "HuggingFace",
-          "description": "• 10개 국어 및 방언 지원 TTS 모델 공개\n• 감정과 억양 자연스럽게 조절 가능\n• 고속 실시간 음성 생성 기술 구현\n• 완전한 종단 간 아키텍처로 성능 최적화",
-          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-TTS-Repo/qwen3_tts_introduction.png",
+          "source": "AI Business",
+          "description": "The acquisition of Diligent Robotics marks the first expansion of Serve’s autonomy platform from sidewalks to indoor environments.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt94ab45fed3c99fd5/6973be19f9ed6dc2375eb4bd/Serve.jpg?width=1280&auto=webp&quality=80&disable=upscale",
           "is_english": true,
-          "summary": "• 10개 국어 및 방언 지원 TTS 모델 공개\n• 감정과 억양 자연스럽게 조절 가능\n• 고속 실시간 음성 생성 기술 구현\n• 완전한 종단 간 아키텍처로 성능 최적화",
-          "translated_title": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "sweepai/sweep-next-edit-1.5B",
-          "link": "https://huggingface.co/sweepai/sweep-next-edit-1.5B",
-          "date": "2026-01-24",
-          "source": "HuggingFace",
-          "description": "• 휴대폰에서도 구동 가능한 초경량 AI 모델 공개\n• 개발자의 다음 코드 편집을 빠르게 예측\n• 자체 서버 없이 0.5초 만에 즉각적인 수정 제안\n• JetBrains 등 주요 개발 도구에서 사용 가능",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• 휴대폰에서도 구동 가능한 초경량 AI 모델 공개\n• 개발자의 다음 코드 편집을 빠르게 예측\n• 자체 서버 없이 0.5초 만에 즉각적인 수정 제안\n• JetBrains 등 주요 개발 도구에서 사용 가능",
-          "translated_title": "sweepai/sweep-next-edit-1.5B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "LiquidAI/LFM2.5-1.2B-Thinking",
-          "link": "https://huggingface.co/LiquidAI/LFM2.5-1.2B-Thinking",
-          "date": "2026-01-24",
-          "source": "HuggingFace",
-          "description": "• 온디바이스 특화 하이브리드 모델 공개\n• 경량화로 고성능 모바일 AI 구현\n• 초고속 추론 및 적은 메모리 사용\n• 다국어 지원과 대규모 학습 완료",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/KfNudLXnOZxAhlLp_1QVo.png",
-          "is_english": true,
-          "summary": "• 온디바이스 특화 하이브리드 모델 공개\n• 경량화로 고성능 모바일 AI 구현\n• 초고속 추론 및 적은 메모리 사용\n• 다국어 지원과 대규모 학습 완료",
-          "translated_title": "LiquidAI/LFM2.5-1.2B-Thinking",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
+          "original_title": "Serve Robotics Acquires Hospital Assistant Robot Company",
+          "original_summary": "The acquisition of Diligent Robotics marks the first expansion of Serve’s autonomy platform from sidewalks to indoor environments.",
+          "summary": "• Diligent Robotics 인수를 공식 발표\n• 인도형 자율 주행 플랫폼의 첫 확장\n• 보도에서 실내 환경으로 서비스 진출\n• Serve의 자율 플랫폼 사업 영역 확대",
+          "translated_title": "Serve Robotics, 병원 보조 로봇 기업 인수",
+          "category_keyword": "인수"
         }
       ]
     },
     {
       "date": "2026-01-23",
-      "update_time": "2026-01-23 18:32:12",
+      "update_time": "2026-01-23 21:13:10",
       "news": [
+        {
+          "title": "Codex 에이전트 루프의 작동 원리 분석",
+          "link": "https://openai.com/index/unrolling-the-codex-agent-loop",
+          "date": "2026-01-23",
+          "source": "OpenAI",
+          "description": "A technical deep dive into the Codex agent loop, explaining how Codex CLI orchestrates models, tools, prompts, and performance using the Responses API.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Unrolling the Codex agent loop",
+          "original_summary": "A technical deep dive into the Codex agent loop, explaining how Codex CLI orchestrates models, tools, prompts, and performance using the Responses API.",
+          "summary": "• Codex 에이전트 루프의 기술적 심층 분석\n• CLI의 모델 및 도구 관리 방식 설명\n• 프롬프트와 성능 최적화 활용 전략\n• Responses API를 통한 오케스트레이션 구조",
+          "translated_title": "Codex 에이전트 루프의 작동 원리 분석",
+          "category_keyword": "Codex"
+        },
+        {
+          "title": "다보스, 어떻게 기술 컨퍼런스가 되었나?",
+          "link": "https://techcrunch.com/video/how-did-davos-turn-into-a-tech-conference/",
+          "date": "2026-01-23",
+          "source": "TechCrunch",
+          "description": "The World Economic Forum&#8217;s annual meeting in Davos&#160;felt different this year, and not just because Meta and Salesforce took over storefronts on the main promenade.&#160;AI dominated the conversation in a way that overshadowed traditional topics like climate change and global poverty, and the CEOs&#160;weren&#8217;t&#160;holding back. There was public criticism of trade policy, warnings about AI [&#8230;]",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256813240.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "How did Davos turn into a tech conference?",
+          "original_summary": "The World Economic Forum&#8217;s annual meeting in Davos&#160;felt different this year, and not just because Meta and Salesforce took over storefronts on the main promenade.&#160;AI dominated the conversation in a way that overshadowed traditional topics like climate change and global poverty, and t",
+          "summary": "• 올해 다보스 회의의 분위기가 달라짐\n• 메타와 세일즈포스의 대규모 홍보 활동\n• AI가 기후변화 등 전통적 의제 압도\n• 글로벌 빈곤 등 기존 주제와 대조적 변화",
+          "translated_title": "다보스, 어떻게 기술 컨퍼런스가 되었나?",
+          "category_keyword": "다보스"
+        },
         {
           "title": "Google Photos’ latest feature lets you meme yourself",
           "link": "https://techcrunch.com/2026/01/23/google-photos-latest-feature-lets-you-meme-yourself/",
