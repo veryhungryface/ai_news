@@ -2,8 +2,50 @@
   "dates": [
     {
       "date": "2026-01-24",
-      "update_time": "2026-01-23 21:13:10",
+      "update_time": "2026-01-24 00:58:06",
       "news": [
+        {
+          "title": "[1월23일] 실리콘 밸리에서 거론되는 AI 모델 개발 대전환...\"사전·사후 학습 통합해야\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=205849",
+          "date": "2026-01-24",
+          "source": "AI타임스",
+          "description": "\\'사전 학습→사후 학습\\'은 대형언어모델(LLM) 개발의 공식입니다. 이는 인간의 학습과도 흡사합니다. 초등학교나 저학년에서는 일반적인 지식 기반이 필요하고, 그 후 구체적이고 전문적인 지식을 배우는 식입니다.하지만 디 인포메이션은 22일(현지시간) 실리콘 밸리에서는 최근 이런 방식에 근본적으로 의문을 제기하고 새로운 방식을 시도해야 한다는 주장이 나오고 있다고 소개했습니다.대표적인 인물이 데이비드 루안 아마존 AGI 랩 책임자입니다. 그는 지난해 12월 열린 \\'뉴립스\\'에서 \\\"현재 우리가 모델을 훈련하는 방식은 오래가지 못할 것\\\"이라",
+          "image": "https://cdn.aitimes.com/news/photo/202601/205849_207721_3747.png",
+          "is_english": false,
+          "original_title": "[1월23일] 실리콘 밸리에서 거론되는 AI 모델 개발 대전환...\"사전·사후 학습 통합해야\"",
+          "original_summary": "\\'사전 학습→사후 학습\\'은 대형언어모델(LLM) 개발의 공식입니다. 이는 인간의 학습과도 흡사합니다. 초등학교나 저학년에서는 일반적인 지식 기반이 필요하고, 그 후 구체적이고 전문적인 지식을 배우는 식입니다.하지만 디 인포메이션은 22일(현지시간) 실리콘 밸리에서는 최근 이런 방식에 근본적으로 의문을 제기하고 새로운 방식을 시도해야 한다는 주장이 나오고 있다고 소개했습니다.대표적인 인물이 데이비드 루안 아마존 AGI 랩 책임자입니다. 그는 지난해 12월 열린 \\'뉴립스\\'에서 \\\"현재 우리가 모델을 훈련하는 방식은 오래가지 못할",
+          "summary": "• 사전·사후 학습은 기존 LLM 개발 공식\n• 실리콘 밸리서 새로운 방식 시도 주장\n• 아마존 AGI 랩 루안 책임자 제안\n• 기존 훈련 방식 지속 불가능 시사",
+          "translated_title": "[1월23일] 실리콘 밸리에서 거론되는 AI 모델 개발 대전환...\"사전·사후 학습 통합해야\"",
+          "category_keyword": "모델개발"
+        },
+        {
+          "title": "AI는 새로운 ‘핵무기’… 워런 버핏의 우려",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=205859",
+          "date": "2026-01-24",
+          "source": "AI타임스",
+          "description": "AI타임스 조예주 기자 joyejuoffice@aitimes.com",
+          "image": "https://cdn.aitimes.com/news/photo/202601/205859_207734_3115.jpg",
+          "is_english": false,
+          "original_title": "AI는 새로운 ‘핵무기’… 워런 버핏의 우려",
+          "original_summary": "AI타임스 조예주 기자 joyejuoffice@aitimes.com",
+          "summary": "• 워런 버핏 AI를 새로운 핵무기 비유\n• 기술 발전에 따른 깊은 우려 표명\n• AI의 위험성 경고 의미 강조\n• 글로벌 투자자의 관심 집중",
+          "translated_title": "AI는 새로운 ‘핵무기’… 워런 버핏의 우려",
+          "category_keyword": "핵무기"
+        },
+        {
+          "title": "얀 르쿤의 '세계 모델' 스타트업, AMI Labs의 배경은?",
+          "link": "https://techcrunch.com/2026/01/23/whos-behind-ami-labs-yann-lecuns-world-model-startup/",
+          "date": "2026-01-24",
+          "source": "TechCrunch",
+          "description": "Yann LeCun's new venture, AMI Labs, has drawn intense attention since the AI scientist left Meta to found it. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2198379447.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Who’s behind AMI Labs, Yann LeCun’s ‘world model’ startup",
+          "original_summary": "Yann LeCun's new venture, AMI Labs, has drawn intense attention since the AI scientist left Meta to found it. ",
+          "summary": "• 얀 르쿤 메타離退 후 AMI Labs 설립\n• AI 과학자의 신규 벤처 강력 호응\n• '세계 모델' 구현 위한 목적 추정\n• 업계에서 폭넓은 주목과 관심 유도",
+          "translated_title": "얀 르쿤의 '세계 모델' 스타트업, AMI Labs의 배경은?",
+          "category_keyword": "AMI Labs"
+        },
         {
           "title": "Serve Robotics, 병원 보조 로봇 기업 인수",
           "link": "https://aibusiness.com/robotics/serve-robotics-acquires-hospital-robot-company",
@@ -17,6 +59,45 @@
           "summary": "• Diligent Robotics 인수를 공식 발표\n• 인도형 자율 주행 플랫폼의 첫 확장\n• 보도에서 실내 환경으로 서비스 진출\n• Serve의 자율 플랫폼 사업 영역 확대",
           "translated_title": "Serve Robotics, 병원 보조 로봇 기업 인수",
           "category_keyword": "인수"
+        },
+        {
+          "title": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+          "link": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+          "date": "2026-01-24",
+          "source": "HuggingFace",
+          "description": "• 10개 언어 지원 TTS 모델 공개\n• 문맥 이해 기반 감정 표현 구현\n• 초저지연 실시간 음성 생성 지원\n• 자연어 명령으로 음성 제어 가능",
+          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-TTS-Repo/qwen3_tts_introduction.png",
+          "is_english": true,
+          "summary": "• 10개 언어 지원 TTS 모델 공개\n• 문맥 이해 기반 감정 표현 구현\n• 초저지연 실시간 음성 생성 지원\n• 자연어 명령으로 음성 제어 가능",
+          "translated_title": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "sweepai/sweep-next-edit-1.5B",
+          "link": "https://huggingface.co/sweepai/sweep-next-edit-1.5B",
+          "date": "2026-01-24",
+          "source": "HuggingFace",
+          "description": "• 허깅페이스, 소형 코드 자동완성 모델 공개\n• 1.5B 파라미터로 4배 큰 모델 능가\n• 500ms 이내 빠른 로컬 실행 지원\n• Qwen2.5 기반 차세대 편집 예측 구현",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• 허깅페이스, 소형 코드 자동완성 모델 공개\n• 1.5B 파라미터로 4배 큰 모델 능가\n• 500ms 이내 빠른 로컬 실행 지원\n• Qwen2.5 기반 차세대 편집 예측 구현",
+          "translated_title": "sweepai/sweep-next-edit-1.5B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "LiquidAI/LFM2.5-1.2B-Thinking",
+          "link": "https://huggingface.co/LiquidAI/LFM2.5-1.2B-Thinking",
+          "date": "2026-01-24",
+          "source": "HuggingFace",
+          "description": "• 리퀴드AI, 초경량 온디바이스 AI 모델 공개\n• 1.2B 규모로 대형 모델 수준 성능 구현\n• 모바일 기기서 초고속 추론 가능함\n• 1GB 미만 메모리로 최적화됨",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/KfNudLXnOZxAhlLp_1QVo.png",
+          "is_english": true,
+          "summary": "• 리퀴드AI, 초경량 온디바이스 AI 모델 공개\n• 1.2B 규모로 대형 모델 수준 성능 구현\n• 모바일 기기서 초고속 추론 가능함\n• 1GB 미만 메모리로 최적화됨",
+          "translated_title": "LiquidAI/LFM2.5-1.2B-Thinking",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
