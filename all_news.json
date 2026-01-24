@@ -2,8 +2,22 @@
   "dates": [
     {
       "date": "2026-01-24",
-      "update_time": "2026-01-24 00:58:06",
+      "update_time": "2026-01-24 06:19:17",
       "news": [
+        {
+          "title": "리걸 AI 기업 하비, 텍스 인수… 리걸 테크 경쟁 격화",
+          "link": "https://techcrunch.com/2026/01/23/legal-ai-giant-harvey-acquires-hexus-as-competition-heats-up-in-legal-tech/",
+          "date": "2026-01-24",
+          "source": "TechCrunch",
+          "description": "Hexus founder and CEO Sakshi Pratap, who previously held engineering roles at Walmart, Oracle, and Google, tells TechCrunch that her San Francisco-based team has already joined Harvey, while the startup's India-based engineers will come onboard once Harvey establishes a Bangalore office.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/11/Screenshot-2025-11-14-at-11.50.31-AM.png?resize=1200,863",
+          "is_english": true,
+          "original_title": "Legal AI giant Harvey acquires Hexus as competition heats up in legal tech",
+          "original_summary": "Hexus founder and CEO Sakshi Pratap, who previously held engineering roles at Walmart, Oracle, and Google, tells TechCrunch that her San Francisco-based team has already joined Harvey, while the startup's India-based engineers will come onboard once Harvey establishes a Bangalore office.",
+          "summary": "• 리걸 AI 대기업 하비가 텍스를 인수함\n• 샌프란시스코 팀은 이미 합류 완료\n• 인도 엔지니어는 방갈로어 사무 개소 후 합류\n• 리걸 테크 시장 경쟁이 치열해지는 가운데 확장",
+          "translated_title": "리걸 AI 기업 하비, 텍스 인수… 리걸 테크 경쟁 격화",
+          "category_keyword": "하비"
+        },
         {
           "title": "[1월23일] 실리콘 밸리에서 거론되는 AI 모델 개발 대전환...\"사전·사후 학습 통합해야\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=205849",
@@ -59,45 +73,6 @@
           "summary": "• Diligent Robotics 인수를 공식 발표\n• 인도형 자율 주행 플랫폼의 첫 확장\n• 보도에서 실내 환경으로 서비스 진출\n• Serve의 자율 플랫폼 사업 영역 확대",
           "translated_title": "Serve Robotics, 병원 보조 로봇 기업 인수",
           "category_keyword": "인수"
-        },
-        {
-          "title": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
-          "link": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
-          "date": "2026-01-24",
-          "source": "HuggingFace",
-          "description": "• 10개 언어 지원 TTS 모델 공개\n• 문맥 이해 기반 감정 표현 구현\n• 초저지연 실시간 음성 생성 지원\n• 자연어 명령으로 음성 제어 가능",
-          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-TTS-Repo/qwen3_tts_introduction.png",
-          "is_english": true,
-          "summary": "• 10개 언어 지원 TTS 모델 공개\n• 문맥 이해 기반 감정 표현 구현\n• 초저지연 실시간 음성 생성 지원\n• 자연어 명령으로 음성 제어 가능",
-          "translated_title": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "sweepai/sweep-next-edit-1.5B",
-          "link": "https://huggingface.co/sweepai/sweep-next-edit-1.5B",
-          "date": "2026-01-24",
-          "source": "HuggingFace",
-          "description": "• 허깅페이스, 소형 코드 자동완성 모델 공개\n• 1.5B 파라미터로 4배 큰 모델 능가\n• 500ms 이내 빠른 로컬 실행 지원\n• Qwen2.5 기반 차세대 편집 예측 구현",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• 허깅페이스, 소형 코드 자동완성 모델 공개\n• 1.5B 파라미터로 4배 큰 모델 능가\n• 500ms 이내 빠른 로컬 실행 지원\n• Qwen2.5 기반 차세대 편집 예측 구현",
-          "translated_title": "sweepai/sweep-next-edit-1.5B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "LiquidAI/LFM2.5-1.2B-Thinking",
-          "link": "https://huggingface.co/LiquidAI/LFM2.5-1.2B-Thinking",
-          "date": "2026-01-24",
-          "source": "HuggingFace",
-          "description": "• 리퀴드AI, 초경량 온디바이스 AI 모델 공개\n• 1.2B 규모로 대형 모델 수준 성능 구현\n• 모바일 기기서 초고속 추론 가능함\n• 1GB 미만 메모리로 최적화됨",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/KfNudLXnOZxAhlLp_1QVo.png",
-          "is_english": true,
-          "summary": "• 리퀴드AI, 초경량 온디바이스 AI 모델 공개\n• 1.2B 규모로 대형 모델 수준 성능 구현\n• 모바일 기기서 초고속 추론 가능함\n• 1GB 미만 메모리로 최적화됨",
-          "translated_title": "LiquidAI/LFM2.5-1.2B-Thinking",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
