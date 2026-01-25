@@ -2,8 +2,22 @@
   "dates": [
     {
       "date": "2026-01-25",
-      "update_time": "2026-01-25 04:11:00",
+      "update_time": "2026-01-25 06:19:28",
       "news": [
+        {
+          "title": "구글, 3D 생성 스타트업 인수...월드모델·XR 서비스 주도권 강화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=205887",
+          "date": "2026-01-25",
+          "source": "AI타임스",
+          "description": "구글이 2D 이미지를 고품질 3D 디지털 자산으로 변환하는 AI 스타트업을 인수했다. 이를 통해 월드 모델을 강화하는 것은 물론, 소비자용 확장현실(XR) 기술에도 도움을 줄 수 있다는 분석이다.22일(현지시간) 디 인포메이션에 따르면, 구글은 커먼 센스 머신스(CSM)를 인수했다고 공식 확인했다.거래는 이번 주 마무리됐으며, 인수 금액은 공개되지 않았다. CSM은 직원 12명의 소규모 스타트업으로, 2020년 설립 이후 3D 이미지 생성 분야에서 주목받아 왔다.사진, 스케치, 텍스트 프롬프트 등 2D 입력값을 게임 엔진과 상업 환",
+          "image": "https://cdn.aitimes.com/news/photo/202601/205887_207778_1931.jpg",
+          "is_english": false,
+          "original_title": "구글, 3D 생성 스타트업 인수...월드모델·XR 서비스 주도권 강화",
+          "original_summary": "구글이 2D 이미지를 고품질 3D 디지털 자산으로 변환하는 AI 스타트업을 인수했다. 이를 통해 월드 모델을 강화하는 것은 물론, 소비자용 확장현실(XR) 기술에도 도움을 줄 수 있다는 분석이다.22일(현지시간) 디 인포메이션에 따르면, 구글은 커먼 센스 머신스(CSM)를 인수했다고 공식 확인했다.거래는 이번 주 마무리됐으며, 인수 금액은 공개되지 않았다. CSM은 직원 12명의 소규모 스타트업으로, 2020년 설립 이후 3D 이미지 생성 분야에서 주목받아 왔다.사진, 스케치, 텍스트 프롬프트 등 2D 입력값을 게임 엔진과 상업 환",
+          "summary": "• 구글, 3D 생성 AI 스타트업 CSM 인수\n• 2D 이미지를 고품질 3D로 변환\n• 월드 모델 및 XR 기술 강화 기대\n• 12명 직원, 인수 금액은 비공개",
+          "translated_title": "구글, 3D 생성 스타트업 인수...월드모델·XR 서비스 주도권 강화",
+          "category_keyword": "구글"
+        },
         {
           "title": "서울시 공문서 'AI 리더블'로 바꾼다…AI가 분석·요약·확장",
           "link": "https://www.yna.co.kr/view/AKR20260124031900004",
@@ -115,58 +129,6 @@
           "summary": "• 서초구 AI 단속 시스템 운영\n• 거주자 우선 구역 부정단속\n• 주민 불편 해소가 목적\n• 인공지능으로 효율성 확보",
           "translated_title": "서초구, AI 기반 부정주차 무인 단속시스템 운영",
           "category_keyword": "부정주차"
-        },
-        {
-          "title": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
-          "link": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
-          "date": "2026-01-25",
-          "source": "HuggingFace",
-          "description": "• 10개국어 지원하는 다국어 음성 생성 모델 공개\n• 자연스러운 감정 표현과 빠른 실시간 생성 지원\n• 차세대 아키텍처로 고품질 음성 복원 구현\n• 초저지연 스트리밍으로 실시간 대화 서비스 제공",
-          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-TTS-Repo/qwen3_tts_introduction.png",
-          "is_english": true,
-          "summary": "• 10개국어 지원하는 다국어 음성 생성 모델 공개\n• 자연스러운 감정 표현과 빠른 실시간 생성 지원\n• 차세대 아키텍처로 고품질 음성 복원 구현\n• 초저지연 스트리밍으로 실시간 대화 서비스 제공",
-          "translated_title": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "sweepai/sweep-next-edit-1.5B",
-          "link": "https://huggingface.co/sweepai/sweep-next-edit-1.5B",
-          "date": "2026-01-25",
-          "source": "HuggingFace",
-          "description": "• 휴깅페이스, 코드 자동완성 모델 공개\n• 노트북에서 0.5초 만에 고속 구동\n• 경량화로 대형 모델 능가하는 성과\n• 제트브레인 플러그인 등 활용 가능",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• 휴깅페이스, 코드 자동완성 모델 공개\n• 노트북에서 0.5초 만에 고속 구동\n• 경량화로 대형 모델 능가하는 성과\n• 제트브레인 플러그인 등 활용 가능",
-          "translated_title": "sweepai/sweep-next-edit-1.5B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "LiquidAI/LFM2.5-1.2B-Thinking",
-          "link": "https://huggingface.co/LiquidAI/LFM2.5-1.2B-Thinking",
-          "date": "2026-01-25",
-          "source": "HuggingFace",
-          "description": "• 리퀴드AI, 12억 파라미터 온디바이스 AI 모델 공개\n• 대형 모델 겨줄 성능에 1GB 이내 메모리 사용\n• 모바일 NPU 등 엣지 디바이스에서 초고속 추론\n• 다국어 지원 및 다양한 개발 환경 호환성 제공",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/KfNudLXnOZxAhlLp_1QVo.png",
-          "is_english": true,
-          "summary": "• 리퀴드AI, 12억 파라미터 온디바이스 AI 모델 공개\n• 대형 모델 겨줄 성능에 1GB 이내 메모리 사용\n• 모바일 NPU 등 엣지 디바이스에서 초고속 추론\n• 다국어 지원 및 다양한 개발 환경 호환성 제공",
-          "translated_title": "LiquidAI/LFM2.5-1.2B-Thinking",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-          "link": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-          "date": "2026-01-25",
-          "source": "HuggingFace",
-          "description": "• 10개 국어 다국어 음성 합성 지원\n• 문맥 이해 기반 감정표현 자동 조절\n• 첫 글자 입력 후 0.1초만에 음성 생성\n• 자연어 명령어로 목소리 디자인 가능",
-          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-TTS-Repo/qwen3_tts_introduction.png",
-          "is_english": true,
-          "summary": "• 10개 국어 다국어 음성 합성 지원\n• 문맥 이해 기반 감정표현 자동 조절\n• 첫 글자 입력 후 0.1초만에 음성 생성\n• 자연어 명령어로 목소리 디자인 가능",
-          "translated_title": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
