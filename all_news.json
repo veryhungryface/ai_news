@@ -2,8 +2,36 @@
   "dates": [
     {
       "date": "2026-01-25",
-      "update_time": "2026-01-25 06:19:28",
+      "update_time": "2026-01-25 09:14:12",
       "news": [
+        {
+          "title": "야생조류에서 고병원성 AI…창원 주남저수지 출입 통제",
+          "link": "https://www.yna.co.kr/view/AKR20260125040100052",
+          "date": "2026-01-25",
+          "source": "연합뉴스",
+          "description": "(창원=연합뉴스) 이정훈 기자 = 경남도는 주남저수지에서 죽은 야생조류에서 고병원성 조류인플루엔자(AI) 바이러스를 확인해 일반인 출입 차단 등...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/01/25/AKR20260125040100052_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "야생조류에서 고병원성 AI…창원 주남저수지 출입 통제",
+          "original_summary": "(창원=연합뉴스) 이정훈 기자 = 경남도는 주남저수지에서 죽은 야생조류에서 고병원성 조류인플루엔자(AI) 바이러스를 확인해 일반인 출입 차단 등...",
+          "summary": "• 창원 주남저수지 야생조류 AI 확인\n• 일반인 출입 전면 차단 조치\n• 고병원성 조류인플루엔za 감염\n• 경남도 관리 차원 예방 조치",
+          "translated_title": "야생조류에서 고병원성 AI…창원 주남저수지 출입 통제",
+          "category_keyword": "고병원성AI"
+        },
+        {
+          "title": "구글, 추론 모델 내부 구조 규명...\"인간처럼 '사고의 사회' 생성\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=205860",
+          "date": "2026-01-25",
+          "source": "AI타임스",
+          "description": "AI가 복잡한 문제를 해결하는 \\'추론(Reasoning)\\' 과정이 단순히 계산 시간을 늘리는 것이 아니라, 모델 내부에서 다양한 관점들이 서로 논쟁하고 조율하는 ‘사회적 상호작용’의 결과라는 연구 결과가 나왔다.구글과 시카고대학교 연구진은 22일(현지시간) 기존의 명령어 기반(instruction-tuned) 모델보다 추론 특화 모델이 복잡한 문제에서 더 높은 성능을 보이는 이유를 분석한 논문 ‘추론 모델은 ‘사고의 사회’를 생성한다(Models Generate Societies of Thought)’를 온라인 아카이브를 통해 공개",
+          "image": "https://cdn.aitimes.com/news/photo/202601/205860_207788_2616.jpg",
+          "is_english": false,
+          "original_title": "구글, 추론 모델 내부 구조 규명...\"인간처럼 '사고의 사회' 생성\"",
+          "original_summary": "AI가 복잡한 문제를 해결하는 \\'추론(Reasoning)\\' 과정이 단순히 계산 시간을 늘리는 것이 아니라, 모델 내부에서 다양한 관점들이 서로 논쟁하고 조율하는 ‘사회적 상호작용’의 결과라는 연구 결과가 나왔다.구글과 시카고대학교 연구진은 22일(현지시간) 기존의 명령어 기반(instruction-tuned) 모델보다 추론 특화 모델이 복잡한 문제에서 더 높은 성능을 보이는 이유를 분석한 논문 ‘추론 모델은 ‘사고의 사회’를 생성한다(Models Generate Societies of Thought)’를 온라인 아카이브를 통해 ",
+          "summary": "• 구글, 추론 모델 내부 구조 규명\n• 다양한 관점 논쟁·조율 과정\n• ‘사고의 사회’ 생성 결과 확인\n• 복잡한 문제 해결 성능 입증",
+          "translated_title": "구글, 추론 모델 내부 구조 규명...\"인간처럼 '사고의 사회' 생성\"",
+          "category_keyword": "추론 모델"
+        },
         {
           "title": "구글, 3D 생성 스타트업 인수...월드모델·XR 서비스 주도권 강화",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=205887",
@@ -129,6 +157,58 @@
           "summary": "• 서초구 AI 단속 시스템 운영\n• 거주자 우선 구역 부정단속\n• 주민 불편 해소가 목적\n• 인공지능으로 효율성 확보",
           "translated_title": "서초구, AI 기반 부정주차 무인 단속시스템 운영",
           "category_keyword": "부정주차"
+        },
+        {
+          "title": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+          "link": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+          "date": "2026-01-25",
+          "source": "HuggingFace",
+          "description": "• 주요 10개국 언어 및 방언 지원\n• 자연스러운 감정 표현 및 억제 제공\n• 문자 입력 후 97ms 만에 음성 생성\n• 높은 음질과 빠른 처리 속도 구현",
+          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-TTS-Repo/qwen3_tts_introduction.png",
+          "is_english": true,
+          "summary": "• 주요 10개국 언어 및 방언 지원\n• 자연스러운 감정 표현 및 억제 제공\n• 문자 입력 후 97ms 만에 음성 생성\n• 높은 음질과 빠른 처리 속도 구현",
+          "translated_title": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "sweepai/sweep-next-edit-1.5B",
+          "link": "https://huggingface.co/sweepai/sweep-next-edit-1.5B",
+          "date": "2026-01-25",
+          "source": "HuggingFace",
+          "description": "• 휴깅페이스, 차세대 코드 모델 공개\n• 15억 파라미터, 초고속 예측 구현\n• 로컬서 0.5초 만에 편집 제안\n• 전용 플러그인 및 기술 문서 제공",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• 휴깅페이스, 차세대 코드 모델 공개\n• 15억 파라미터, 초고속 예측 구현\n• 로컬서 0.5초 만에 편집 제안\n• 전용 플러그인 및 기술 문서 제공",
+          "translated_title": "sweepai/sweep-next-edit-1.5B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "LiquidAI/LFM2.5-1.2B-Thinking",
+          "link": "https://huggingface.co/LiquidAI/LFM2.5-1.2B-Thinking",
+          "date": "2026-01-25",
+          "source": "HuggingFace",
+          "description": "• 리퀴드AI, 온디바이스 AI 모델 공개\n• 소형 파라미터로 대형 모델 성능 구현\n• 엣지 디바이스서 초고속 추론 지원\n• 다국어 지원하는 하이브리드 모델임",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/KfNudLXnOZxAhlLp_1QVo.png",
+          "is_english": true,
+          "summary": "• 리퀴드AI, 온디바이스 AI 모델 공개\n• 소형 파라미터로 대형 모델 성능 구현\n• 엣지 디바이스서 초고속 추론 지원\n• 다국어 지원하는 하이브리드 모델임",
+          "translated_title": "LiquidAI/LFM2.5-1.2B-Thinking",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+          "link": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+          "date": "2026-01-25",
+          "source": "HuggingFace",
+          "description": "• 10개 국어 지원 글로벌 TTS 모델 공개\n• 감정과 억양 자유롭게 조절 가능\n• 입력 즉시 음성 생성 극저지연 구현\n• 끊김 없는 실시간 대화 지원 제공",
+          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-TTS-Repo/qwen3_tts_introduction.png",
+          "is_english": true,
+          "summary": "• 10개 국어 지원 글로벌 TTS 모델 공개\n• 감정과 억양 자유롭게 조절 가능\n• 입력 즉시 음성 생성 극저지연 구현\n• 끊김 없는 실시간 대화 지원 제공",
+          "translated_title": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
