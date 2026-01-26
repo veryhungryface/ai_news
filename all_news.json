@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-01-27",
-      "update_time": "2026-01-26 18:22:33",
+      "update_time": "2026-01-26 21:15:37",
       "news": [
         {
           "title": "엔비디아, CoreWeave에 20억 달러 투자 및 파트너십 확대",
@@ -45,13 +45,79 @@
           "summary": "• MS, 로봇 추론 능력 강화 위한 모델 출시\n• 모델명은 ‘Rho-alpha’로 명명\n• 물리적 AI 분야로 시장 확장 선언\n• 로봇의 지능형 행동 구현 지원",
           "translated_title": "Microsoft, 로봇을 위한 시각-언어-행동 모델 출시",
           "category_keyword": "로봇AI"
+        },
+        {
+          "title": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+          "link": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+          "date": "2026-01-27",
+          "source": "HuggingFace",
+          "description": "• 10개국어 지원하는 음성합성 AI 공개\n• 문맥 이해해 감정 표현 자동 조절\n• 97ms 지연으로 실시간 대화 지원\n• 고품질 음성 생성 구현 및 효율성 강화",
+          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-TTS-Repo/qwen3_tts_introduction.png",
+          "is_english": true,
+          "summary": "• 10개국어 지원하는 음성합성 AI 공개\n• 문맥 이해해 감정 표현 자동 조절\n• 97ms 지연으로 실시간 대화 지원\n• 고품질 음성 생성 구현 및 효율성 강화",
+          "translated_title": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "sweepai/sweep-next-edit-1.5B",
+          "link": "https://huggingface.co/sweepai/sweep-next-edit-1.5B",
+          "date": "2026-01-27",
+          "source": "HuggingFace",
+          "description": "• 1.5B 초경량 코드 모델 공개\n• 로컬서 0.5초 만에 추론 완료\n• 대형 모델 대비 성능 우수 입증\n• Qwen 기반 오픈소스 라이선스",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• 1.5B 초경량 코드 모델 공개\n• 로컬서 0.5초 만에 추론 완료\n• 대형 모델 대비 성능 우수 입증\n• Qwen 기반 오픈소스 라이선스",
+          "translated_title": "sweepai/sweep-next-edit-1.5B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "LiquidAI/LFM2.5-1.2B-Thinking",
+          "link": "https://huggingface.co/LiquidAI/LFM2.5-1.2B-Thinking",
+          "date": "2026-01-27",
+          "source": "HuggingFace",
+          "description": "• 온디바이스 실행 최적화 신모델 공개\n• 경량 사이즈로도 최고 성능 구현\n• 모바일 기기서 초고속 추론 지원\n• 1GB 미만 메모리로 효율적 운용",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/KfNudLXnOZxAhlLp_1QVo.png",
+          "is_english": true,
+          "summary": "• 온디바이스 실행 최적화 신모델 공개\n• 경량 사이즈로도 최고 성능 구현\n• 모바일 기기서 초고속 추론 지원\n• 1GB 미만 메모리로 효율적 운용",
+          "translated_title": "LiquidAI/LFM2.5-1.2B-Thinking",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+          "link": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+          "date": "2026-01-27",
+          "source": "HuggingFace",
+          "description": "• 10개 국어 및 다양한 방언 지원\n• 명령어 기반 정서와 톤 조절\n• 초저지연 실시간 음성 생성 구현\n• 효율적인 엔드투엔드 아키텍처 탑재",
+          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-TTS-Repo/qwen3_tts_introduction.png",
+          "is_english": true,
+          "summary": "• 10개 국어 및 다양한 방언 지원\n• 명령어 기반 정서와 톤 조절\n• 초저지연 실시간 음성 생성 구현\n• 효율적인 엔드투엔드 아키텍처 탑재",
+          "translated_title": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-01-26",
-      "update_time": "2026-01-26 18:22:33",
+      "update_time": "2026-01-26 21:15:23",
       "news": [
+        {
+          "title": "AI 스타트업 CVector, 산업용 '신경계' 구축으로 500만 달러 투자 유치",
+          "link": "https://techcrunch.com/2026/01/26/ai-startup-cvector-raises-5m-for-its-industrial-nervous-system/",
+          "date": "2026-01-26",
+          "source": "TechCrunch",
+          "description": "Now, founders Richard Zhang and Tyler Ruggles are tasked with a bigger challenge: showing customers and investors how this AI-powered software layer translates to real savings on an industrial scale. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/factory-GettyImages.jpg?resize=1200,1173",
+          "is_english": true,
+          "original_title": "AI startup CVector raises $5M for its industrial ‘nervous system’",
+          "original_summary": "Now, founders Richard Zhang and Tyler Ruggles are tasked with a bigger challenge: showing customers and investors how this AI-powered software layer translates to real savings on an industrial scale. ",
+          "summary": "• AI 스타트업 CVector가 500만 달러 투자를 유치함\n • 산업 현장용 '신경계' 소프트웨어를 개발 중\n • 설립자는 고객과 투자자에게 실제 비용 절감 효과 입증 과제\n • AI 소프트웨어 계층의 산업 규모 효용성 증명이 관건",
+          "translated_title": "AI 스타트업 CVector, 산업용 '신경계' 구축으로 500만 달러 투자 유치",
+          "category_keyword": "CVector"
+        },
         {
           "title": "Obvious Ventures, 5번째 펀드로 3억 6천만 달러 조성…행성·인간·경제 건강 통합 관점",
           "link": "https://techcrunch.com/2026/01/26/obvious-ventures-lands-fund-five-with-a-360-degree-view-of-planetary-human-economic-health/",
