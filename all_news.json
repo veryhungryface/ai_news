@@ -2,8 +2,50 @@
   "dates": [
     {
       "date": "2026-01-29",
-      "update_time": "2026-01-28 15:22:53",
+      "update_time": "2026-01-28 18:25:54",
       "news": [
+        {
+          "title": "[사이테크+] 구글 딥마인드, DNA 변이의 영향 예측하는 AI '알파게놈' 공개",
+          "link": "https://www.yna.co.kr/view/AKR20260127167200017",
+          "date": "2026-01-29",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 이주영 기자 = 구글 딥마인드가 최대 염기쌍 100만개가 연결된 긴 DNA 서열이 생물학적 과정에 어떤 영향을 미치는지 예측할...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/01/27/AKR20260127167200017_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "[사이테크+] 구글 딥마인드, DNA 변이의 영향 예측하는 AI '알파게놈' 공개",
+          "original_summary": "(서울=연합뉴스) 이주영 기자 = 구글 딥마인드가 최대 염기쌍 100만개가 연결된 긴 DNA 서열이 생물학적 과정에 어떤 영향을 미치는지 예측할...",
+          "summary": "• 구글 딥마인드가 AI '알파게놈' 공개\n• DNA 변이 영향 예측 가능\n• 최대 100만개 염기쌍 분석\n• 긴 DNA 서열의 영향 파악",
+          "translated_title": "[사이테크+] 구글 딥마인드, DNA 변이의 영향 예측하는 AI '알파게놈' 공개",
+          "category_keyword": "알파게놈"
+        },
+        {
+          "title": "2026년 로봇공학: 휴머노이드의 사업적 타당성 구축",
+          "link": "https://aibusiness.com/robotics/building-business-case-for-humanoid-robotics",
+          "date": "2026-01-29",
+          "source": "AI Business",
+          "description": "From household deployments to general-purpose machines, experts weigh in on what the next year holds for the robotics industry.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt58f3aeaef98fe834/697a3be36fdea70801f2e79e/humanoid.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Robotics in 2026: Building the Business Case for Humanoids",
+          "original_summary": "From household deployments to general-purpose machines, experts weigh in on what the next year holds for the robotics industry.",
+          "summary": "• 가정용 로봇 도입 확대 예상\n• 범용 목적 기계로 진화 전망\n• 전문가들로부터 산업 전망 수집\n• 다음해 로봇 산업 변화 조망",
+          "translated_title": "2026년 로봇공학: 휴머노이드의 사업적 타당성 구축",
+          "category_keyword": "휴머노이드"
+        },
+        {
+          "title": "차세대 생성형 AI: 2026년 예측",
+          "link": "https://aibusiness.com/agentic-ai/navigating-the-next-phase-of-genai",
+          "date": "2026-01-29",
+          "source": "AI Business",
+          "description": "This year, enterprises will increasingly use and refine how they apply AI technology, balancing cost management with maximizing AI effectiveness.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltfdbd96dd31e14b33/697a2dd9c469bc735a03a350/Outlook.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Navigating the Next Phase of GenAI: Predictions for 2026",
+          "original_summary": "This year, enterprises will increasingly use and refine how they apply AI technology, balancing cost management with maximizing AI effectiveness.",
+          "summary": "• 기업의 AI 기술 활용 증가\n• AI 적용 방식의 정교화 필요\n• 비용 관리과 효율성 극대화\n• 효과적인 AI 도입의 균형 추구",
+          "translated_title": "차세대 생성형 AI: 2026년 예측",
+          "category_keyword": "기업AI"
+        },
         {
           "title": "nvidia/personaplex-7b-v1",
           "link": "https://huggingface.co/nvidia/personaplex-7b-v1",
@@ -174,19 +216,6 @@
           "category": "AI Model"
         },
         {
-          "title": "google/translategemma-4b-it",
-          "link": "https://huggingface.co/google/translategemma-4b-it",
-          "date": "2026-01-29",
-          "source": "HuggingFace",
-          "description": "• 구글, 번역 모델 'Gemma' 공개\n• 이미지 텍스트 기반 번역 지원\n• 4B 파라미터 경량 모델 탑재\n• 허깅페이스 플랫폼 다운로드 가능",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• 구글, 번역 모델 'Gemma' 공개\n• 이미지 텍스트 기반 번역 지원\n• 4B 파라미터 경량 모델 탑재\n• 허깅페이스 플랫폼 다운로드 가능",
-          "translated_title": "google/translategemma-4b-it",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "stepfun-ai/Step3-VL-10B",
           "link": "https://huggingface.co/stepfun-ai/Step3-VL-10B",
           "date": "2026-01-29",
@@ -263,13 +292,96 @@
           "translated_title": "Lightricks/LTX-2",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "black-forest-labs/FLUX.2-klein-4B",
+          "link": "https://huggingface.co/black-forest-labs/FLUX.2-klein-4B",
+          "date": "2026-01-29",
+          "source": "HuggingFace",
+          "description": "• 초고속 1초 내 이미지 생성 실현\n• 소비자용 GPU에서도 구동 가능\n• 생성과 편집을 하나로 통합 지원\n• 상업 사용 가능한 오픈 소스 공개",
+          "image": "https://huggingface.co/black-forest-labs/FLUX.2-klein-4B/resolve/main/./realism.jpg",
+          "is_english": true,
+          "summary": "• 초고속 1초 내 이미지 생성 실현\n• 소비자용 GPU에서도 구동 가능\n• 생성과 편집을 하나로 통합 지원\n• 상업 사용 가능한 오픈 소스 공개",
+          "translated_title": "black-forest-labs/FLUX.2-klein-4B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-01-28",
-      "update_time": "2026-01-28 15:22:53",
+      "update_time": "2026-01-28 18:25:46",
       "news": [
+        {
+          "title": "크롬, 젬미니 통합 강화 및 자율적 작업 수행 에이전트 기능으로 AI 브라우저 경쟁",
+          "link": "https://techcrunch.com/2026/01/28/chrome-takes-on-ai-browsers-with-tighter-gemini-integration-agentic-features-for-autonomous-tasks/",
+          "date": "2026-01-28",
+          "source": "TechCrunch",
+          "description": "Google Chrome is adding Gemini in sidebar and is rolling out an agentic feature for AI Pro and Ultra users",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/chrome_rollercoaster-1.jpeg?resize=1200,675",
+          "is_english": true,
+          "original_title": "Chrome takes on AI browsers with tighter Gemini integration, agentic features for autonomous tasks",
+          "original_summary": "Google Chrome is adding Gemini in sidebar and is rolling out an agentic feature for AI Pro and Ultra users",
+          "summary": "• 크롬 사이드바에 젬미니 탑재\n• AI 프로 및 울트라 사용자 대상\n• 자율 작업 에이전트 기능 출시\n• AI 브라우저 시장 공략 강화",
+          "translated_title": "크롬, 젬미니 통합 강화 및 자율적 작업 수행 에이전트 기능으로 AI 브라우저 경쟁",
+          "category_keyword": "크롬AI"
+        },
+        {
+          "title": "작은 스타트업 Arcee AI, 메타의 라마를 뛰어넘는 400B 오픈소스 LLM 직접 개발",
+          "link": "https://techcrunch.com/2026/01/28/tiny-startup-arcee-ai-built-a-400b-open-source-llm-from-scratch-to-best-metas-llama/",
+          "date": "2026-01-28",
+          "source": "TechCrunch",
+          "description": "30-person startup Arcee AI has released a 400B model called Trinity, which it says is one of the biggest open source foundation models from a US company.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/Arcee-founders.jpg?resize=1200,802",
+          "is_english": true,
+          "original_title": "Tiny startup Arcee AI built a 400B open source LLM from scratch to best Meta’s Llama",
+          "original_summary": "30-person startup Arcee AI has released a 400B model called Trinity, which it says is one of the biggest open source foundation models from a US company.",
+          "summary": "• Arcee AI가 400B 모델 트리니티 공개\n• 직원 30명 소규모 스타트업 제작\n• 미국 기업 중 가장 큰 규모\n• 메타 라마 모델 성능 능가 목표",
+          "translated_title": "작은 스타트업 Arcee AI, 메타의 라마를 뛰어넘는 400B 오픈소스 LLM 직접 개발",
+          "category_keyword": "트리니티"
+        },
+        {
+          "title": "애플의 새로운 Creator Studio Pro, AI는 대체가 아닌 창작 보조 도구",
+          "link": "https://techcrunch.com/2026/01/28/with-apples-new-creator-studio-pro-ai-is-a-tool-to-aid-creation-not-replace-it/",
+          "date": "2026-01-28",
+          "source": "TechCrunch",
+          "description": "Apple’s Creator Studio Pro leverages AI to help creators with tedious tasks—like finding clips or building slides—without trying to do the work for them",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/Screenshot-2026-01-13-at-9.34.59-AM.png?resize=1200,594",
+          "is_english": true,
+          "original_title": "With Apple’s new Creator Studio Pro, AI is a tool to aid creation, not replace it",
+          "original_summary": "Apple’s Creator Studio Pro leverages AI to help creators with tedious tasks—like finding clips or building slides—without trying to do the work for them",
+          "summary": "• 애플 크리에이터 스튜디오 프로 출시\n• AI로 지루한 작업 자동화 지원\n• 클립 찾기나 슬라이드 제작 도움\n• 창작자의 역할 대체하지 않음",
+          "translated_title": "애플의 새로운 Creator Studio Pro, AI는 대체가 아닌 창작 보조 도구",
+          "category_keyword": "크리에이터"
+        },
+        {
+          "title": "Modelence, 바이브 코딩 스택 개선을 위해 300만 달러 투자 유치",
+          "link": "https://techcrunch.com/2026/01/28/modelence-raises-13-million-to-smooth-out-the-vibe-coding-stack/",
+          "date": "2026-01-28",
+          "source": "TechCrunch",
+          "description": "How do you build tooling for the AI software stack? A company called Modelence has an interesting answer.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1388336038.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "Modelence raises $3 million to smooth out the vibe-coding stack",
+          "original_summary": "How do you build tooling for the AI software stack? A company called Modelence has an interesting answer.",
+          "summary": "• Modelence가 300만 달러 투자 유치\n• AI 소프트웨어 스택용 도구 개발\n• 바이브 코딩 생산성 향상 목표\n• 개발 도구 구축의 새로운 접근",
+          "translated_title": "Modelence, 바이브 코딩 스택 개선을 위해 300만 달러 투자 유치",
+          "category_keyword": "Modelence"
+        },
+        {
+          "title": "TechCrunch Disrupt 2026: 반려 패스 매진 임박, 3일 남음",
+          "link": "https://techcrunch.com/2026/01/28/techcrunch-disrupt-2026-plus-one-passes-are-almost-gone-and-only-3-days-remain/",
+          "date": "2026-01-28",
+          "source": "TechCrunch",
+          "description": "The TechCrunch Disrupt 2026 plus-one passes at 50% off are almost sold out, and this deal ends in 3 days. Register here before this deal ends on Friday, January 30 at 11:59 p.m. PT.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/11/54884872593_c3dca13a6c_k.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "TechCrunch Disrupt 2026: Plus-one passes are almost gone and only 3 days remain",
+          "original_summary": "The TechCrunch Disrupt 2026 plus-one passes at 50% off are almost sold out, and this deal ends in 3 days. Register here before this deal ends on Friday, January 30 at 11:59 p.m. PT.",
+          "summary": "• 50% 할인 반려 패스 거의 매진\n• 1월 30일 오후 11시 59분 종료\n• 해당 혜택 3일 남음\n• 서둘러 사전 등록 바람",
+          "translated_title": "TechCrunch Disrupt 2026: 반려 패스 매진 임박, 3일 남음",
+          "category_keyword": "디스럽트"
+        },
         {
           "title": "AI 인프라 붐, 둔화 조짐 없어",
           "link": "https://techcrunch.com/2026/01/28/the-ai-infrastructure-boom-shows-no-sign-of-slowing-down/",
