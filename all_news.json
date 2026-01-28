@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-01-29",
-      "update_time": "2026-01-28 18:25:54",
+      "update_time": "2026-01-28 21:21:30",
       "news": [
         {
           "title": "[사이테크+] 구글 딥마인드, DNA 변이의 영향 예측하는 AI '알파게놈' 공개",
@@ -310,8 +310,64 @@
     },
     {
       "date": "2026-01-28",
-      "update_time": "2026-01-28 18:25:46",
+      "update_time": "2026-01-28 21:21:30",
       "news": [
+        {
+          "title": "AI 에이전트가 링크를 클릭할 때 데이터를 안전하게 보호하는 방법",
+          "link": "https://openai.com/index/ai-agent-link-safety",
+          "date": "2026-01-28",
+          "source": "OpenAI",
+          "description": "Learn how OpenAI protects user data when AI agents open links, preventing URL-based data exfiltration and prompt injection with built-in safeguards.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Keeping your data safe when an AI agent clicks a link",
+          "original_summary": "Learn how OpenAI protects user data when AI agents open links, preventing URL-based data exfiltration and prompt injection with built-in safeguards.",
+          "summary": "• AI 에이전트의 링크 클릭 시 데이터 유출 방지\n• URL 기반 프롬프트 인젝션 차단 기능\n• OpenAI의 내장된 보안 장치 활용 전략\n• 사용자 데이터 보호를 위한 안전장치 강화",
+          "translated_title": "AI 에이전트가 링크를 클릭할 때 데이터를 안전하게 보호하는 방법",
+          "category_keyword": "데이터보안"
+        },
+        {
+          "title": "ServiceNow, 이번에는 Anthropic과 AI 파트너십 체결",
+          "link": "https://techcrunch.com/2026/01/28/servicenow-inks-another-ai-partnership-this-time-with-anthropic/",
+          "date": "2026-01-28",
+          "source": "TechCrunch",
+          "description": "ServiceNow partners with Anthropic just a week after announcing a partnership with OpenAI as the company takes a multi-model approach. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1782807384.jpg?w=1024",
+          "is_english": true,
+          "original_title": "ServiceNow inks another AI partnership, this time with Anthropic",
+          "original_summary": "ServiceNow partners with Anthropic just a week after announcing a partnership with OpenAI as the company takes a multi-model approach. ",
+          "summary": "• ServiceNow, AI 기업 Anthropic과 제휴\n• OpenAI와의 협력 발표 불과 일주일 만\n• 다중 모델 전략 기반의 확장성 확보\n• 기업용 AI 경쟁력 강화를 위한 행보",
+          "translated_title": "ServiceNow, 이번에는 Anthropic과 AI 파트너십 체결",
+          "category_keyword": "ServiceNow"
+        },
+        {
+          "title": "이탈리아에서 AI 챗봇 운영 시 WhatsApp 요금 부과",
+          "link": "https://techcrunch.com/2026/01/28/whatsapp-will-now-charge-ai-chatbots-to-operate-in-italy/",
+          "date": "2026-01-28",
+          "source": "TechCrunch",
+          "description": "WhatsApp plans to charge developers of AI chatbots per message.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/12/whatsapp-logo.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "WhatsApp will now charge AI chatbots to operate in Italy",
+          "original_summary": "WhatsApp plans to charge developers of AI chatbots per message.",
+          "summary": "• 이탈리아 내 AI 챗봇 운영 비용 부과\n• 메시지 건수별 개발자 과금 계획\n• WhatsApp의 새로운 수익 모델 도입\n• AI 서비스 비용 정책의 변화",
+          "translated_title": "이탈리아에서 AI 챗봇 운영 시 WhatsApp 요금 부과",
+          "category_keyword": "유료화"
+        },
+        {
+          "title": "AI 데이터 라벨러 Handshake, 인수 경쟁 있던 Cleanlab 인수",
+          "link": "https://techcrunch.com/2026/01/28/ai-data-labeler-handshake-buys-cleanlab-an-acquisition-target-of-multiple-others/",
+          "date": "2026-01-28",
+          "source": "TechCrunch",
+          "description": "The deal’s purpose is primarily to acquire talent, aka an acqui-hire, adding nine key Cleanlab employees to Handshake’s research organization. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/Cleanlab.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "AI data labeler Handshake buys  Cleanlab, an acquisition target of multiple others",
+          "original_summary": "The deal’s purpose is primarily to acquire talent, aka an acqui-hire, adding nine key Cleanlab employees to Handshake’s research organization. ",
+          "summary": "• 데이터 라벨링 기업 Handshake의 인수\n• Cleanlab 핵심 인재 9명 영입 목적\n• 인수 합병이 아닌 탤런트 어쿠이어\n• 연구 조직의 역량 강화가 주된 목표",
+          "translated_title": "AI 데이터 라벨러 Handshake, 인수 경쟁 있던 Cleanlab 인수",
+          "category_keyword": "인수"
+        },
         {
           "title": "크롬, 젬미니 통합 강화 및 자율적 작업 수행 에이전트 기능으로 AI 브라우저 경쟁",
           "link": "https://techcrunch.com/2026/01/28/chrome-takes-on-ai-browsers-with-tighter-gemini-integration-agentic-features-for-autonomous-tasks/",
