@@ -299,16 +299,16 @@ def summarize_model_with_glm(model_id, readme_text):
         "상세 정보는 링크 참조"
     ]
 
-def process_huggingface_models(existing_links=None):
+def process_huggingface_models(existing_models_cache=None):
     """Main pipeline: Fetch trending models, get README, summarize with GLM
     
     Args:
-        existing_links: Set of existing article links to skip (for deduplication)
+        existing_models_cache: Dict of model_link -> model_data for reusing existing summaries
     """
     log_message("Processing HuggingFace Trending Models...")
     
-    if existing_links is None:
-        existing_links = set()
+    if existing_models_cache is None:
+        existing_models_cache = {}
     
     models = fetch_huggingface_trending(limit=20)
     if not models:
@@ -317,7 +317,8 @@ def process_huggingface_models(existing_links=None):
     
     today = get_kst_today()
     processed_models = []
-    skipped_count = 0
+    reused_count = 0
+    new_count = 0
     
     for i, model in enumerate(models):
         model_id = model.get('modelId', '')
@@ -325,14 +326,17 @@ def process_huggingface_models(existing_links=None):
             continue
         
         model_link = f'https://huggingface.co/{model_id}'
-        if model_link in existing_links:
-            log_message(f"  [{i+1}/{len(models)}] Skipping (already exists): {model_id}")
-            skipped_count += 1
+        
+        if model_link in existing_models_cache:
+            cached = existing_models_cache[model_link]
+            cached['date'] = today
+            processed_models.append(cached)
+            log_message(f"  [{i+1}/{len(models)}] Reusing cached: {model_id}")
+            reused_count += 1
             continue
         
-        log_message(f"  [{i+1}/{len(models)}] Processing: {model_id}")
+        log_message(f"  [{i+1}/{len(models)}] Processing new: {model_id}")
         
-        # Fetch README and image (pass model data for gated models fallback)
         readme_text, image_url = fetch_model_readme_and_image(model_id, model)
         
         if not image_url or 'thumbnail.png' in image_url:
@@ -341,7 +345,6 @@ def process_huggingface_models(existing_links=None):
         summary_list = summarize_model_with_glm(model_id, readme_text)
         summary_text = '\n'.join([f'• {s}' for s in summary_list])
         
-        # Build news-compatible data structure
         model_data = {
             'title': model_id,
             'link': f'https://huggingface.co/{model_id}',
@@ -353,13 +356,14 @@ def process_huggingface_models(existing_links=None):
             'summary': summary_text,
             'translated_title': model_id,
             'category_keyword': 'AI Model',
-            'category': 'AI Model'  # For frontend filtering
+            'category': 'AI Model'
         }
         
         processed_models.append(model_data)
+        new_count += 1
         time.sleep(1)
     
-    log_message(f"  Processed {len(processed_models)} new models, skipped {skipped_count} existing")
+    log_message(f"  Total: {len(processed_models)} models (new: {new_count}, cached: {reused_count})")
     return processed_models
 
 def get_og_image(html_content):
@@ -1774,17 +1778,20 @@ if __name__ == '__main__':
         else:
             log_message("  No new articles found for today")
         
-        # ============================================================
-        # HuggingFace Trending Models Integration
-        # ============================================================
         log_message("\n" + "=" * 50)
-        hf_models = process_huggingface_models(existing_links)
+        
+        existing_models_cache = {}
+        for date_entry in all_data.get('dates', []):
+            for news in date_entry.get('news', []):
+                if news.get('category') == 'AI Model' and news.get('link'):
+                    existing_models_cache[news['link']] = news
+        
+        hf_models = process_huggingface_models(existing_models_cache)
         
         if hf_models:
             existing_today_entry = existing_dates.get(today, {'date': today, 'update_time': '', 'news': []})
             existing_news = [n for n in existing_today_entry.get('news', []) if n.get('category') != 'AI Model']
-            existing_models = [n for n in existing_today_entry.get('news', []) if n.get('category') == 'AI Model']
-            combined_news = existing_news + hf_models + existing_models
+            combined_news = existing_news + hf_models
             
             existing_dates[today] = {
                 'date': today,
