@@ -1031,8 +1031,12 @@ def generate_html(news_items):
                 display: none !important;
             }}
             
-            .reels-container, .top-ui, .nav-hint, .progress-container {{
+            .reels-container, .nav-hint, .progress-container {{
                 display: block !important;
+            }}
+            
+            .top-ui {{
+                display: flex !important;
             }}
             
             html, body {{

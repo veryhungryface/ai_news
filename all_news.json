@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-01-28",
-      "update_time": "2026-01-28 03:08:49",
+      "update_time": "2026-01-28 03:18:58",
       "news": [
         {
           "title": "'재난관리자원 통합관리시스템' 고도화…대화형 AI 시범도입",
@@ -253,6 +253,71 @@
           "summary": "• 마이아 200 칩 개발\n• 기업용 AI 에이전트 지원\n• 추론 비용 및 에너지 절감\n• 다단계 작업 성능 최적화",
           "translated_title": "MS, '마이아 200'으로 추론 효율성 개선 도모",
           "category_keyword": "마이아"
+        },
+        {
+          "title": "Tongyi-MAI/Z-Image",
+          "link": "https://huggingface.co/Tongyi-MAI/Z-Image",
+          "date": "2026-01-28",
+          "source": "HuggingFace",
+          "description": "• 통이MAI, 고품질 이미지 생성 모델 Z-Image 공개\n• 단일 스트림 디퓨전 트랜스포머 기술 탑재\n• 다양한 스타일과 정교한 프롬프트 준수 지원\n• HuggingFace에서 모델 체크포인트 다운로드 제공",
+          "image": "https://img.shields.io/badge/Official%20Site-333399.svg?logo=homepage",
+          "is_english": true,
+          "summary": "• 통이MAI, 고품질 이미지 생성 모델 Z-Image 공개\n• 단일 스트림 디퓨전 트랜스포머 기술 탑재\n• 다양한 스타일과 정교한 프롬프트 준수 지원\n• HuggingFace에서 모델 체크포인트 다운로드 제공",
+          "translated_title": "Tongyi-MAI/Z-Image",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "google/translategemma-4b-it",
+          "link": "https://huggingface.co/google/translategemma-4b-it",
+          "date": "2026-01-28",
+          "source": "HuggingFace",
+          "description": "• 구글, 번역 모델 'Gemma' 공개\n• 이미지 텍스트 기반 번역 지원\n• 4B 파라미터 경량 모델 탑재\n• 허깅페이스 플랫폼 다운로드 가능",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• 구글, 번역 모델 'Gemma' 공개\n• 이미지 텍스트 기반 번역 지원\n• 4B 파라미터 경량 모델 탑재\n• 허깅페이스 플랫폼 다운로드 가능",
+          "translated_title": "google/translategemma-4b-it",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "stepfun-ai/Step3-VL-10B",
+          "link": "https://huggingface.co/stepfun-ai/Step3-VL-10B",
+          "date": "2026-01-28",
+          "source": "HuggingFace",
+          "description": "• 경량 100억 파라미터 모델 공개\n• 텍스트 이미지 이해 능력 제공\n• 온라인 데모 및 vLLM 지원\n• 벤치마크 측정 오류 수정 진행",
+          "image": "https://img.shields.io/badge/%F0%9F%A4%97%20HF-StepFun/STEP3--VL--10B-blue",
+          "is_english": true,
+          "summary": "• 경량 100억 파라미터 모델 공개\n• 텍스트 이미지 이해 능력 제공\n• 온라인 데모 및 vLLM 지원\n• 벤치마크 측정 오류 수정 진행",
+          "translated_title": "stepfun-ai/Step3-VL-10B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "kyutai/pocket-tts",
+          "link": "https://huggingface.co/kyutai/pocket-tts",
+          "date": "2026-01-28",
+          "source": "HuggingFace",
+          "description": "• 위띠 토이, 경량형 TTS 모델 공개\n• 영어 음성 합성 기능 지원함\n• 가볍고 빠른 모델 특징임\n• 누적 다운로드 4만 5천 회 달성",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• 위띠 토이, 경량형 TTS 모델 공개\n• 영어 음성 합성 기능 지원함\n• 가볍고 빠른 모델 특징임\n• 누적 다운로드 4만 5천 회 달성",
+          "translated_title": "kyutai/pocket-tts",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "black-forest-labs/FLUX.2-klein-4B",
+          "link": "https://huggingface.co/black-forest-labs/FLUX.2-klein-4B",
+          "date": "2026-01-28",
+          "source": "HuggingFace",
+          "description": "• 1초 만에 고품질 이미지 생성\n• 일반 GPU에서도 고성능 구동\n• 생성과 편집을 하나로 통합\n• 상업적 이용 가능한 오픈 소스",
+          "image": "https://huggingface.co/black-forest-labs/FLUX.2-klein-4B/resolve/main/./realism.jpg",
+          "is_english": true,
+          "summary": "• 1초 만에 고품질 이미지 생성\n• 일반 GPU에서도 고성능 구동\n• 생성과 편집을 하나로 통합\n• 상업적 이용 가능한 오픈 소스",
+          "translated_title": "black-forest-labs/FLUX.2-klein-4B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         },
         {
           "title": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
