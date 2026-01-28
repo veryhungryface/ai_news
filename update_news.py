@@ -983,7 +983,7 @@ def generate_html(news_items):
         }}
 
         /* Landscape Warning */
-        #landscapeWarning {{
+        .landscape-warning {{
             display: none;
             position: fixed;
             top: 0;
@@ -999,13 +999,13 @@ def generate_html(news_items):
             text-align: center;
         }}
 
-        #landscapeWarning .icon {{
+        .landscape-warning .icon {{
             font-size: 48px;
             margin-bottom: 20px;
             animation: rotate-phone 2s infinite ease-in-out;
         }}
 
-        #landscapeWarning p {{
+        .landscape-warning p {{
             font-size: 18px;
             font-weight: 600;
         }}
@@ -1017,7 +1017,7 @@ def generate_html(news_items):
         }}
 
         @media screen and (orientation: landscape) {{
-            #landscapeWarning {{
+            .landscape-warning {{
                 display: flex;
             }}
             .reels-container, .top-ui, .nav-hint, .progress-container {{
@@ -1026,8 +1026,15 @@ def generate_html(news_items):
         }}
 
         /* Desktop: Show as phone-sized container centered with black background */
-        @media screen and (min-width: 768px) and (orientation: portrait),
-               screen and (min-width: 768px) and (min-aspect-ratio: 1/2) {{
+        @media screen and (min-width: 768px) {{
+            .landscape-warning {{
+                display: none !important;
+            }}
+            
+            .reels-container, .top-ui, .nav-hint, .progress-container {{
+                display: block !important;
+            }}
+            
             html, body {{
                 background: #000000;
             }}
@@ -1428,7 +1435,7 @@ def generate_html(news_items):
 </head>
 <body>
     <!-- Landscape Warning -->
-    <div id="landscapeWarning">
+    <div class="landscape-warning">
         <div class="icon">📱</div>
         <p>세로 모드로 봐주세요</p>
     </div>
