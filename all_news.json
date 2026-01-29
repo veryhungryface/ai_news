@@ -2,8 +2,22 @@
   "dates": [
     {
       "date": "2026-01-30",
-      "update_time": "2026-01-29 18:31:37",
+      "update_time": "2026-01-29 21:18:41",
       "news": [
+        {
+          "title": "구글, AI 탑재 크롬으로 검색 패러다임 변화",
+          "link": "https://aibusiness.com/agentic-ai/google-s-ai-powered-chrome",
+          "date": "2026-01-30",
+          "source": "AI Business",
+          "description": "Similar to Anthropic's computer use tool and OpenAI's Atlas, the new AI features reflect the shift from the regular search format to one infused with AI agents.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt38ec6584f9dc79e6/697bc301d0b4d1e9a9091b57/Chrome.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Google's AI-Powered Chrome Further Transforms Search",
+          "original_summary": "Similar to Anthropic's computer use tool and OpenAI's Atlas, the new AI features reflect the shift from the regular search format to one infused with AI agents.",
+          "summary": "• AI 기능으로 검색 변화 가속\n• 앤트로픽, 오픈AI와 유사 흐름\n• 일반 검색에서 에이전트 중심으로\n• 새로운 AI 특징 반영됨",
+          "translated_title": "구글, AI 탑재 크롬으로 검색 패러다임 변화",
+          "category_keyword": "검색혁신"
+        },
         {
           "title": "미스트랄 AI, 바이브 코딩 에이전트 업그레이드",
           "link": "https://aibusiness.com/foundation-models/mistral-ai-upgrades-vibe-coding-agent",
@@ -296,8 +310,64 @@
     },
     {
       "date": "2026-01-29",
-      "update_time": "2026-01-29 18:31:37",
+      "update_time": "2026-01-29 21:18:41",
       "news": [
+        {
+          "title": "ChatGPT에서 GPT-4o, GPT-4.1 등 모델 퇴역 예정",
+          "link": "https://openai.com/index/retiring-gpt-4o-and-older-models",
+          "date": "2026-01-29",
+          "source": "OpenAI",
+          "description": "On February 13, 2026, alongside the previously announced retirement⁠ of GPT‑5 (Instant, Thinking, and Pro), we will retire GPT‑4o, GPT‑4.1, GPT‑4.1 mini, and OpenAI o4-mini from ChatGPT. In the API, there are no changes at this time.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+          "original_summary": "On February 13, 2026, alongside the previously announced retirement⁠ of GPT‑5 (Instant, Thinking, and Pro), we will retire GPT‑4o, GPT‑4.1, GPT‑4.1 mini, and OpenAI o4-mini from ChatGPT. In the API, there are no changes at this time.",
+          "summary": "• 2026년 2월 13일부로 퇴역 예정\n• GPT-5 등 이전 발표와 동시 진행\n• 대상은 GPT-4o, GPT-4.1 등 4종\n• API는 현재 변경 사항 없음",
+          "translated_title": "ChatGPT에서 GPT-4o, GPT-4.1 등 모델 퇴역 예정",
+          "category_keyword": "모델퇴역"
+        },
+        {
+          "title": "사티아 나델라 MS CEO, \"코파일러 AI 이용량 많다\"",
+          "link": "https://techcrunch.com/2026/01/29/satya-nadella-insists-people-are-using-microsofts-copilot-ai-a-lot/",
+          "date": "2026-01-29",
+          "source": "TechCrunch",
+          "description": "With Microsoft spending many billions on data centers, and rumors that no one is using its AI, CEO Satya Nadella shared some usage numbers.",
+          "image": "https://techcrunch.com/wp-content/uploads/2018/05/gettyimages-915446280.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Satya Nadella insists people are using Microsoft’s Copilot AI a lot",
+          "original_summary": "With Microsoft spending many billions on data centers, and rumors that no one is using its AI, CEO Satya Nadella shared some usage numbers.",
+          "summary": "• AI 이용 저조설 일파만파\n• 나델라 CEO, 실제 사용 공유\n• 수조 달러 데이터센터 투자\n• 이용률 우려 불식당한 듯",
+          "translated_title": "사티아 나델라 MS CEO, \"코파일러 AI 이용량 많다\"",
+          "category_keyword": "사용량"
+        },
+        {
+          "title": "\"일론 머스크의 스페이스X와 xAI, 합병 협의 중\"",
+          "link": "https://techcrunch.com/2026/01/29/elon-musk-spacex-xai-merger-talks-ipo-reuters/",
+          "date": "2026-01-29",
+          "source": "TechCrunch",
+          "description": "This merger would bring the Grok chatbot, Starlink satellites, and SpaceX rockets together under one corporation.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/02/musk-cpac-sunglasses-doge.jpg?resize=1200,977",
+          "is_english": true,
+          "original_title": "Elon Musk’s SpaceX and xAI in talks to merge, report says",
+          "original_summary": "This merger would bring the Grok chatbot, Starlink satellites, and SpaceX rockets together under one corporation.",
+          "summary": "• 스페이스X와 xAI 합병 논의\n• 그룹 챗봇 '그록' 통합 예정\n• 스타링크 위성 함께 포함\n• 한 기업 하에 융합될 전망",
+          "translated_title": "\"일론 머스크의 스페이스X와 xAI, 합병 협의 중\"",
+          "category_keyword": "합병"
+        },
+        {
+          "title": "애플, AI 경쟁 가열 속 이스라엘 스타트업 Q.ai 인수",
+          "link": "https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/",
+          "date": "2026-01-29",
+          "source": "TechCrunch",
+          "description": "Q.ai is an Israeli startup specializing in imaging and machine learning, particularly technologies that enable devices to interpret whispered speech and enhance audio in noisy environments. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/06/apple-on-phone.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Apple buys Israeli startup Q.ai as the AI race heats up",
+          "original_summary": "Q.ai is an Israeli startup specializing in imaging and machine learning, particularly technologies that enable devices to interpret whispered speech and enhance audio in noisy environments. ",
+          "summary": "• 이스라엘 스타트업 Q.ai 인수\n• 영상 및 머신러닝 전문 기업\n• 속삭임 해석 등 오디오 기술\n• AI 기술 경쟁력 강화 목적",
+          "translated_title": "애플, AI 경쟁 가열 속 이스라엘 스타트업 Q.ai 인수",
+          "category_keyword": "인수"
+        },
         {
           "title": "OpenAI의 자체 구축 데이터 에이전트 내부",
           "link": "https://openai.com/index/inside-our-in-house-data-agent",
