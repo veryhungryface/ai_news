@@ -2,8 +2,36 @@
   "dates": [
     {
       "date": "2026-01-30",
-      "update_time": "2026-01-29 15:26:47",
+      "update_time": "2026-01-29 18:31:37",
       "news": [
+        {
+          "title": "미스트랄 AI, 바이브 코딩 에이전트 업그레이드",
+          "link": "https://aibusiness.com/foundation-models/mistral-ai-upgrades-vibe-coding-agent",
+          "date": "2026-01-30",
+          "source": "AI Business",
+          "description": "The update is a step forward as the company underscores its position as a European challenger to dominant U.S. players in AI-assisted software development.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltdcd1cbd2cb07d3d8/697ba56673caa9ccb74a391d/mistral.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Mistral AI Upgrades Vibe Coding Agent",
+          "original_summary": "The update is a step forward as the company underscores its position as a European challenger to dominant U.S. players in AI-assisted software development.",
+          "summary": "• 미국 빅테크에 도전장\n• 유럽 기반 경쟁력 강화\n• AI 소프트웨어 개발 지원\n• 에이전트 기능 고도화",
+          "translated_title": "미스트랄 AI, 바이브 코딩 에이전트 업그레이드",
+          "category_keyword": "코딩에이전트"
+        },
+        {
+          "title": "영국 규제 당국, 구글 AI 옵트아웃 촉구",
+          "link": "https://aibusiness.com/ai-policy/uk-watchdog-google-ai-opt-out",
+          "date": "2026-01-30",
+          "source": "AI Business",
+          "description": "As sites see reduced clicks due to Google's AI summaries, calls are mounting for renewed regulation.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltf5be7c0e76c497b7/697b9d105042f92707d1b54f/google_search.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "UK Watchdog Pushes for Google AI Opt-Out",
+          "original_summary": "As sites see reduced clicks due to Google's AI summaries, calls are mounting for renewed regulation.",
+          "summary": "• 클릭량 감소 우려 제기\n• 구글 AI 요약 문제 제기\n• 새로운 규제 필요성 증대\n• 옵트아웃 선택권 요구",
+          "translated_title": "영국 규제 당국, 구글 AI 옵트아웃 촉구",
+          "category_keyword": "AI규제"
+        },
         {
           "title": "nvidia/personaplex-7b-v1",
           "link": "https://huggingface.co/nvidia/personaplex-7b-v1",
@@ -148,19 +176,6 @@
           "category": "AI Model"
         },
         {
-          "title": "openbmb/AgentCPM-Report",
-          "link": "https://huggingface.co/openbmb/AgentCPM-Report",
-          "date": "2026-01-30",
-          "source": "HuggingFace",
-          "description": "• 칭화대 등 연구팀, AgentCPM 보고서 모델 공개\n• 구미니 2.5 프로급 연구 수행 능력 구현\n• 로컬 환경에서 심층 리서치 기능 제공\n• 오픈소스 기반 상용 수준 성능 입증",
-          "image": "https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-AgentCPM--Report-yellow",
-          "is_english": true,
-          "summary": "• 칭화대 등 연구팀, AgentCPM 보고서 모델 공개\n• 구미니 2.5 프로급 연구 수행 능력 구현\n• 로컬 환경에서 심층 리서치 기능 제공\n• 오픈소스 기반 상용 수준 성능 입증",
-          "translated_title": "openbmb/AgentCPM-Report",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
           "link": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-Base",
           "date": "2026-01-30",
@@ -170,6 +185,19 @@
           "is_english": true,
           "summary": "• 10개 국어 및 다양한 방언 지원 공개\n• 효율적인 음성 압축 기술 탑재\n• 극저지연 실시간 스트리밍 생성 지원\n• 자연어 명령어 기반 감정 조절 가능",
           "translated_title": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "openbmb/AgentCPM-Report",
+          "link": "https://huggingface.co/openbmb/AgentCPM-Report",
+          "date": "2026-01-30",
+          "source": "HuggingFace",
+          "description": "• 칭화대 등 연구팀, AgentCPM 보고서 모델 공개\n• 구미니 2.5 프로급 연구 수행 능력 구현\n• 로컬 환경에서 심층 리서치 기능 제공\n• 오픈소스 기반 상용 수준 성능 입증",
+          "image": "https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-AgentCPM--Report-yellow",
+          "is_english": true,
+          "summary": "• 칭화대 등 연구팀, AgentCPM 보고서 모델 공개\n• 구미니 2.5 프로급 연구 수행 능력 구현\n• 로컬 환경에서 심층 리서치 기능 제공\n• 오픈소스 기반 상용 수준 성능 입증",
+          "translated_title": "openbmb/AgentCPM-Report",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +296,92 @@
     },
     {
       "date": "2026-01-29",
-      "update_time": "2026-01-29 15:26:47",
+      "update_time": "2026-01-29 18:31:37",
       "news": [
+        {
+          "title": "OpenAI의 자체 구축 데이터 에이전트 내부",
+          "link": "https://openai.com/index/inside-our-in-house-data-agent",
+          "date": "2026-01-29",
+          "source": "OpenAI",
+          "description": "How OpenAI built an in-house AI data agent that uses GPT-5, Codex, and memory to reason over massive datasets and deliver reliable insights in minutes.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Inside OpenAI’s in-house data agent",
+          "original_summary": "How OpenAI built an in-house AI data agent that uses GPT-5, Codex, and memory to reason over massive datasets and deliver reliable insights in minutes.",
+          "summary": "• GPT-5와 Codex 활용 구조\n• 대규모 데이터 신속 분석\n• 안정적인 인사이트 제공\n• 메모리 기반 추론 능력",
+          "translated_title": "OpenAI의 자체 구축 데이터 에이전트 내부",
+          "category_keyword": "데이터에이전트"
+        },
+        {
+          "title": "구글의 새로운 AI 월드 생성기로 마멜로우 성을 만들다",
+          "link": "https://techcrunch.com/2026/01/29/i-built-marshmallow-castles-in-googles-new-ai-world-generator-project-genie/",
+          "date": "2026-01-29",
+          "source": "TechCrunch",
+          "description": "Starting Thursday, Google AI Ultra subscribers in the U.S. can play around with Project Genie, which is powered by a combination of Google’s latest world model Genie 3, its image generation model Nano Banana Pro, and Gemini. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/Project-Genie.png?resize=1200,665",
+          "is_english": true,
+          "original_title": "I built marshmallow castles in Google’s new AI world generator",
+          "original_summary": "Starting Thursday, Google AI Ultra subscribers in the U.S. can play around with Project Genie, which is powered by a combination of Google’s latest world model Genie 3, its image generation model Nano Banana Pro, and Gemini. ",
+          "summary": "• 미국 구글 AI Ultra 대상\n• Project Genie 체험 가능\n• 최신 월드 모델 탑재\n• 이미지 생성 모델 결합",
+          "translated_title": "구글의 새로운 AI 월드 생성기로 마멜로우 성을 만들다",
+          "category_keyword": "월드생성"
+        },
+        {
+          "title": "OpenAI의 소라 앱, 화려한 론칭 후 고전",
+          "link": "https://techcrunch.com/2026/01/29/openais-sora-app-is-struggling-after-its-stellar-launch/",
+          "date": "2026-01-29",
+          "source": "TechCrunch",
+          "description": "New data suggests the app is seeing declines in both app downloads and consumer spending, as the early hype about the AI video social network wears off.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/10/sora-app-GettyImages-2240278671.jpeg?resize=1200,800",
+          "is_english": true,
+          "original_title": "OpenAI’s Sora app is struggling after its stellar launch",
+          "original_summary": "New data suggests the app is seeing declines in both app downloads and consumer spending, as the early hype about the AI video social network wears off.",
+          "summary": "• 다운로드 및 지출 감소\n• 초기 열기 식증 현상\n• AI 비디오 소셜 네트워크\n• 사용자 관심 하락세",
+          "translated_title": "OpenAI의 소라 앱, 화려한 론칭 후 고전",
+          "category_keyword": "소라"
+        },
+        {
+          "title": "음악 출판사들, 2만 작품 '노골적 해적 행위'로 앤스로픽에 30억 달러 소송",
+          "link": "https://techcrunch.com/2026/01/29/music-publishers-sue-anthropic-for-3b-over-flagrant-piracy-of-20000-works/",
+          "date": "2026-01-29",
+          "source": "TechCrunch",
+          "description": "Originally, these music publishers had filed a lawsuit against Anthropic over its use of about 500 copyrighted works.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Music publishers sue Anthropic for $3B over ‘flagrant piracy’ of 20,000 works",
+          "original_summary": "Originally, these music publishers had filed a lawsuit against Anthropic over its use of about 500 copyrighted works.",
+          "summary": "• 30억 달러 규모 소송\n• 2만개 작품 저작권 침해\n• '노골적 해적 행위' 주장\n• 기존 소송 규모 확대",
+          "translated_title": "음악 출판사들, 2만 작품 '노골적 해적 행위'로 앤스로픽에 30억 달러 소송",
+          "category_keyword": "저작권소송"
+        },
+        {
+          "title": "인도, 교육 분야 AI 확장 가능성을 구글에 입증하다",
+          "link": "https://techcrunch.com/2026/01/29/india-is-teaching-google-how-ai-in-education-can-scale/",
+          "date": "2026-01-29",
+          "source": "TechCrunch",
+          "description": "With the highest global usage of Gemini for learning, India is emerging as a key market shaping Google's approach to AI in education.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch_09ed85.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "India is teaching Google how AI in education can scale",
+          "original_summary": "With the highest global usage of Gemini for learning, India is emerging as a key market shaping Google's approach to AI in education.",
+          "summary": "• 학습용 젬니이 최다 사용\n• 핵심 시장으로 부상 중\n• 교육 AI 방향에 영향력\n• 구글의 AI 전략 반영",
+          "translated_title": "인도, 교육 분야 AI 확장 가능성을 구글에 입증하다",
+          "category_keyword": "교육AI"
+        },
+        {
+          "title": "Project Genie: 무한하고 대화형 세계 실험",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
+          "date": "2026-01-29",
+          "source": "Google AI",
+          "description": "Google AI Ultra subscribers in the U.S. can now try out Project Genie.",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/genie-3__project-genie__hero-fi.max-600x600.format-webp_d7CisM6.webp",
+          "is_english": true,
+          "original_title": "Project Genie: Experimenting with infinite, interactive worlds",
+          "original_summary": "Google AI Ultra subscribers in the U.S. can now try out Project Genie.",
+          "summary": "• 미국 구글 AI 대상\n• Project Genie 사용 가능\n• 무한 대화형 세계 구현\n• 구독자 시범 서비스",
+          "translated_title": "Project Genie: 무한하고 대화형 세계 실험",
+          "category_keyword": "제니프로젝트"
+        },
         {
           "title": "퍼덕이는 비행기, 연구 기반 AI의 약속을 품다",
           "link": "https://techcrunch.com/2026/01/29/flapping-airplanes-and-the-promise-of-research-driven-ai/",
@@ -2651,7 +2763,7 @@
         {
           "title": "nvidia/personaplex-7b-v1",
           "link": "https://huggingface.co/nvidia/personaplex-7b-v1",
-          "date": "2026-01-28",
+          "date": "2026-01-30",
           "source": "HuggingFace",
           "description": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -2716,7 +2828,7 @@
         {
           "title": "zai-org/GLM-4.7-Flash",
           "link": "https://huggingface.co/zai-org/GLM-4.7-Flash",
-          "date": "2026-01-28",
+          "date": "2026-01-30",
           "source": "HuggingFace",
           "description": "• Z.ai, 고성능 300억 모델 공개\n• 경량화로 성능과 효율성 균형\n• 다양한 벤치마크서 최고 성능\n• vLLM 등 로컬 배포 환경 지원",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
