@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-01-31",
-      "update_time": "2026-01-30 15:25:37",
+      "update_time": "2026-01-30 18:29:02",
       "news": [
         {
           "title": "moonshotai/Kimi-K2.5",
@@ -122,19 +122,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
-          "link": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-Base",
-          "date": "2026-01-31",
-          "source": "HuggingFace",
-          "description": "• 10개 국어 및 다양한 방언 지원 공개\n• 효율적인 음성 압축 기술 탑재\n• 극저지연 실시간 스트리밍 생성 지원\n• 자연어 명령어 기반 감정 조절 가능",
-          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-TTS-Repo/qwen3_tts_introduction.png",
-          "is_english": true,
-          "summary": "• 10개 국어 및 다양한 방언 지원 공개\n• 효율적인 음성 압축 기술 탑재\n• 극저지연 실시간 스트리밍 생성 지원\n• 자연어 명령어 기반 감정 조절 가능",
-          "translated_title": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "numind/NuMarkdown-8B-Thinking",
           "link": "https://huggingface.co/numind/NuMarkdown-8B-Thinking",
           "date": "2026-01-31",
@@ -144,6 +131,32 @@
           "is_english": true,
           "summary": "• 휴깅페이스, 추론 OCR 모델 공개\n• 복잡한 문서 마크다운 변환 지원\n• 생성 과정 사고 토큰으로 해석\n• 성능은 기존 모델보다 월등함",
           "translated_title": "numind/NuMarkdown-8B-Thinking",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "tencent/HunyuanImage-3.0-Instruct",
+          "link": "https://huggingface.co/tencent/HunyuanImage-3.0-Instruct",
+          "date": "2026-01-31",
+          "source": "HuggingFace",
+          "description": "• 텐센트, 최신 멀티모달 이미지 모델 공개\n• 뛰어난 이미지 생성 성능 구현함\n• 가벼운 디스틸 버전 동시 출시\n• 공식 웹사이트에서 체험 가능",
+          "image": "https://huggingface.co/tencent/HunyuanImage-3.0-Instruct/resolve/main/./assets/logo.png",
+          "is_english": true,
+          "summary": "• 텐센트, 최신 멀티모달 이미지 모델 공개\n• 뛰어난 이미지 생성 성능 구현함\n• 가벼운 디스틸 버전 동시 출시\n• 공식 웹사이트에서 체험 가능",
+          "translated_title": "tencent/HunyuanImage-3.0-Instruct",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+          "link": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+          "date": "2026-01-31",
+          "source": "HuggingFace",
+          "description": "• 10개 국어 및 다양한 방언 지원 공개\n• 효율적인 음성 압축 기술 탑재\n• 극저지연 실시간 스트리밍 생성 지원\n• 자연어 명령어 기반 감정 조절 가능",
+          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-TTS-Repo/qwen3_tts_introduction.png",
+          "is_english": true,
+          "summary": "• 10개 국어 및 다양한 방언 지원 공개\n• 효율적인 음성 압축 기술 탑재\n• 극저지연 실시간 스트리밍 생성 지원\n• 자연어 명령어 기반 감정 조절 가능",
+          "translated_title": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -250,26 +263,27 @@
           "translated_title": "unsloth/GLM-4.7-Flash-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "Lightricks/LTX-2",
-          "link": "https://huggingface.co/Lightricks/LTX-2",
-          "date": "2026-01-31",
-          "source": "HuggingFace",
-          "description": "• 라이트트릭스, 멀티모달 AI 'LTX-2' 공개\n• 단일 모델로 영상과 오디오 동시 생성\n• 현지 실행 최적화로 오픈 소스 제공\n• 다국어 지원 및 고효율 양자화 적용",
-          "image": "https://img.youtube.com/vi/8fWAJXZJbRA/maxresdefault.jpg",
-          "is_english": true,
-          "summary": "• 라이트트릭스, 멀티모달 AI 'LTX-2' 공개\n• 단일 모델로 영상과 오디오 동시 생성\n• 현지 실행 최적화로 오픈 소스 제공\n• 다국어 지원 및 고효율 양자화 적용",
-          "translated_title": "Lightricks/LTX-2",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-01-30",
-      "update_time": "2026-01-30 15:25:37",
+      "update_time": "2026-01-30 18:28:57",
       "news": [
+        {
+          "title": "앤스로픽, Cowork에 에이전트 플러그인 도입",
+          "link": "https://techcrunch.com/2026/01/30/anthropic-brings-agentic-plugins-to-cowork/",
+          "date": "2026-01-30",
+          "source": "TechCrunch",
+          "description": "The company says you can use plugins to \"tell Claude how you like work done, which tools and data to pull from, how to handle critical workflows, and what slash commands to expose so your team gets more consistent outcomes.\"",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/02/Claude_3-7_illustration.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "Anthropic brings agentic plugins to Cowork",
+          "original_summary": "The company says you can use plugins to \"tell Claude how you like work done, which tools and data to pull from, how to handle critical workflows, and what slash commands to expose so your team gets more consistent outcomes.\"",
+          "summary": "• 클로드 작업 방식 설정 가능\n • 툴 및 데이터 연동 지원\n • 중요 워크플로우 자동화\n • 슬래시 명령어로 결과 일관화",
+          "translated_title": "앤스로픽, Cowork에 에이전트 플러그인 도입",
+          "category_keyword": "Cowork"
+        },
         {
           "title": "TechCrunch Disrupt 2026, 반값 +1 패스 마감 임박",
           "link": "https://techcrunch.com/2026/01/30/last-24-hours-to-grab-your-1-pass-at-50-off-to-techcrunch-disrupt-2026/",
@@ -4097,7 +4111,7 @@
         {
           "title": "unsloth/GLM-4.7-Flash-GGUF",
           "link": "https://huggingface.co/unsloth/GLM-4.7-Flash-GGUF",
-          "date": "2026-01-28",
+          "date": "2026-01-31",
           "source": "HuggingFace",
           "description": "• AI 기업 HuggingFace 신규 모델 공개\n• 추론 성능 눈에 띄게 개선됨\n• 다양한 용도 파라미터 최적화 제공\n• 무료 정밀 튜닝 가이드 지원함",
           "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
