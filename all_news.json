@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-01-31",
-      "update_time": "2026-01-30 18:29:02",
+      "update_time": "2026-01-30 21:19:14",
       "news": [
         {
           "title": "moonshotai/Kimi-K2.5",
@@ -83,6 +83,19 @@
           "category": "AI Model"
         },
         {
+          "title": "tencent/HunyuanImage-3.0-Instruct",
+          "link": "https://huggingface.co/tencent/HunyuanImage-3.0-Instruct",
+          "date": "2026-01-31",
+          "source": "HuggingFace",
+          "description": "• 텐센트, 최신 멀티모달 이미지 모델 공개\n• 뛰어난 이미지 생성 성능 구현함\n• 가벼운 디스틸 버전 동시 출시\n• 공식 웹사이트에서 체험 가능",
+          "image": "https://huggingface.co/tencent/HunyuanImage-3.0-Instruct/resolve/main/./assets/logo.png",
+          "is_english": true,
+          "summary": "• 텐센트, 최신 멀티모달 이미지 모델 공개\n• 뛰어난 이미지 생성 성능 구현함\n• 가벼운 디스틸 버전 동시 출시\n• 공식 웹사이트에서 체험 가능",
+          "translated_title": "tencent/HunyuanImage-3.0-Instruct",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "zai-org/GLM-4.7-Flash",
           "link": "https://huggingface.co/zai-org/GLM-4.7-Flash",
           "date": "2026-01-31",
@@ -135,15 +148,15 @@
           "category": "AI Model"
         },
         {
-          "title": "tencent/HunyuanImage-3.0-Instruct",
-          "link": "https://huggingface.co/tencent/HunyuanImage-3.0-Instruct",
+          "title": "Qwen/Qwen3-ASR-1.7B",
+          "link": "https://huggingface.co/Qwen/Qwen3-ASR-1.7B",
           "date": "2026-01-31",
           "source": "HuggingFace",
-          "description": "• 텐센트, 최신 멀티모달 이미지 모델 공개\n• 뛰어난 이미지 생성 성능 구현함\n• 가벼운 디스틸 버전 동시 출시\n• 공식 웹사이트에서 체험 가능",
-          "image": "https://huggingface.co/tencent/HunyuanImage-3.0-Instruct/resolve/main/./assets/logo.png",
+          "description": "• 52개 언어 식별 및 음성 인식 지원\n• 최고 수준의 오픈소스 성능 입증\n• 스트리밍 통합 추론 기능 제공\n• 강력한 성능의 추론 툴킷 공개",
+          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-ASR-Repo/qwen3_asr_introduction.png",
           "is_english": true,
-          "summary": "• 텐센트, 최신 멀티모달 이미지 모델 공개\n• 뛰어난 이미지 생성 성능 구현함\n• 가벼운 디스틸 버전 동시 출시\n• 공식 웹사이트에서 체험 가능",
-          "translated_title": "tencent/HunyuanImage-3.0-Instruct",
+          "summary": "• 52개 언어 식별 및 음성 인식 지원\n• 최고 수준의 오픈소스 성능 입증\n• 스트리밍 통합 추론 기능 제공\n• 강력한 성능의 추론 툴킷 공개",
+          "translated_title": "Qwen/Qwen3-ASR-1.7B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -157,19 +170,6 @@
           "is_english": true,
           "summary": "• 10개 국어 및 다양한 방언 지원 공개\n• 효율적인 음성 압축 기술 탑재\n• 극저지연 실시간 스트리밍 생성 지원\n• 자연어 명령어 기반 감정 조절 가능",
           "translated_title": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "Qwen/Qwen3-ASR-1.7B",
-          "link": "https://huggingface.co/Qwen/Qwen3-ASR-1.7B",
-          "date": "2026-01-31",
-          "source": "HuggingFace",
-          "description": "• 52개 언어 식별 및 음성 인식 지원\n• 최고 수준의 오픈소스 성능 입증\n• 스트리밍 통합 추론 기능 제공\n• 강력한 성능의 추론 툴킷 공개",
-          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-ASR-Repo/qwen3_asr_introduction.png",
-          "is_english": true,
-          "summary": "• 52개 언어 식별 및 음성 인식 지원\n• 최고 수준의 오픈소스 성능 입증\n• 스트리밍 통합 추론 기능 제공\n• 강력한 성능의 추론 툴킷 공개",
-          "translated_title": "Qwen/Qwen3-ASR-1.7B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -213,15 +213,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
-          "link": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+          "title": "unsloth/Kimi-K2.5-GGUF",
+          "link": "https://huggingface.co/unsloth/Kimi-K2.5-GGUF",
           "date": "2026-01-31",
           "source": "HuggingFace",
-          "description": "• 10개국어 및 다양한 방언 지원\n• 문맥 이해 기반 감정 표현 조절\n• 낮은 지연 시간 실시간 음성 생성\n• 자연어指令 기반 정교한 음성 제어",
-          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-TTS-Repo/qwen3_tts_introduction.png",
+          "description": "• 언슬로스, 김-K2.5 모델 공개\n• GGUF 포맷으로 로컬 실행 지원\n• 최소 240GB 메모리 권장\n• 현재 비전 기능은 미지원",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
           "is_english": true,
-          "summary": "• 10개국어 및 다양한 방언 지원\n• 문맥 이해 기반 감정 표현 조절\n• 낮은 지연 시간 실시간 음성 생성\n• 자연어指令 기반 정교한 음성 제어",
-          "translated_title": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+          "summary": "• 언슬로스, 김-K2.5 모델 공개\n• GGUF 포맷으로 로컬 실행 지원\n• 최소 240GB 메모리 권장\n• 현재 비전 기능은 미지원",
+          "translated_title": "unsloth/Kimi-K2.5-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,28 +239,28 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Kimi-K2.5-GGUF",
-          "link": "https://huggingface.co/unsloth/Kimi-K2.5-GGUF",
+          "title": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
+          "link": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
           "date": "2026-01-31",
           "source": "HuggingFace",
-          "description": "• 언슬로스, 김-K2.5 모델 공개\n• GGUF 포맷으로 로컬 실행 지원\n• 최소 240GB 메모리 권장\n• 현재 비전 기능은 미지원",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "description": "• 10개국어 및 다양한 방언 지원\n• 문맥 이해 기반 감정 표현 조절\n• 낮은 지연 시간 실시간 음성 생성\n• 자연어指令 기반 정교한 음성 제어",
+          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-TTS-Repo/qwen3_tts_introduction.png",
           "is_english": true,
-          "summary": "• 언슬로스, 김-K2.5 모델 공개\n• GGUF 포맷으로 로컬 실행 지원\n• 최소 240GB 메모리 권장\n• 현재 비전 기능은 미지원",
-          "translated_title": "unsloth/Kimi-K2.5-GGUF",
+          "summary": "• 10개국어 및 다양한 방언 지원\n• 문맥 이해 기반 감정 표현 조절\n• 낮은 지연 시간 실시간 음성 생성\n• 자연어指令 기반 정교한 음성 제어",
+          "translated_title": "Qwen/Qwen3-TTS-12Hz-1.7B-VoiceDesign",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
         {
-          "title": "unsloth/GLM-4.7-Flash-GGUF",
-          "link": "https://huggingface.co/unsloth/GLM-4.7-Flash-GGUF",
+          "title": "Lightricks/LTX-2",
+          "link": "https://huggingface.co/Lightricks/LTX-2",
           "date": "2026-01-31",
           "source": "HuggingFace",
-          "description": "• AI 기업 HuggingFace 신규 모델 공개\n• 추론 성능 눈에 띄게 개선됨\n• 다양한 용도 파라미터 최적화 제공\n• 무료 정밀 튜닝 가이드 지원함",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "description": "• 라이트트릭스, 멀티모달 AI 'LTX-2' 공개\n• 단일 모델로 영상과 오디오 동시 생성\n• 현지 실행 최적화로 오픈 소스 제공\n• 다국어 지원 및 고효율 양자화 적용",
+          "image": "https://img.youtube.com/vi/8fWAJXZJbRA/maxresdefault.jpg",
           "is_english": true,
-          "summary": "• AI 기업 HuggingFace 신규 모델 공개\n• 추론 성능 눈에 띄게 개선됨\n• 다양한 용도 파라미터 최적화 제공\n• 무료 정밀 튜닝 가이드 지원함",
-          "translated_title": "unsloth/GLM-4.7-Flash-GGUF",
+          "summary": "• 라이트트릭스, 멀티모달 AI 'LTX-2' 공개\n• 단일 모델로 영상과 오디오 동시 생성\n• 현지 실행 최적화로 오픈 소스 제공\n• 다국어 지원 및 고효율 양자화 적용",
+          "translated_title": "Lightricks/LTX-2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
