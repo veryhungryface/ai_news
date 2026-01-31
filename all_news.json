@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-02-01",
-      "update_time": "2026-01-31 15:14:33",
+      "update_time": "2026-01-31 18:19:48",
       "news": [
         {
           "title": "moonshotai/Kimi-K2.5",
@@ -213,19 +213,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
-          "link": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-Base",
-          "date": "2026-02-01",
-          "source": "HuggingFace",
-          "description": "• 10개 국어 및 다양한 방언 지원 공개\n• 효율적인 음성 압축 기술 탑재\n• 극저지연 실시간 스트리밍 생성 지원\n• 자연어 명령어 기반 감정 조절 가능",
-          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-TTS-Repo/qwen3_tts_introduction.png",
-          "is_english": true,
-          "summary": "• 10개 국어 및 다양한 방언 지원 공개\n• 효율적인 음성 압축 기술 탑재\n• 극저지연 실시간 스트리밍 생성 지원\n• 자연어 명령어 기반 감정 조절 가능",
-          "translated_title": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "robbyant/lingbot-world-base-cam",
           "link": "https://huggingface.co/robbyant/lingbot-world-base-cam",
           "date": "2026-02-01",
@@ -235,6 +222,19 @@
           "is_english": true,
           "summary": "• 로비안트 팀, '링봇-월드' 공개\n• 현실부터 카툰까지 고품질 구현\n• 일 분 이상 장면 기억 유지\n• 초당 16프레임 실시간 생성 지원",
           "translated_title": "robbyant/lingbot-world-base-cam",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+          "link": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+          "date": "2026-02-01",
+          "source": "HuggingFace",
+          "description": "• 10개 국어 및 다양한 방언 지원 공개\n• 효율적인 음성 압축 기술 탑재\n• 극저지연 실시간 스트리밍 생성 지원\n• 자연어 명령어 기반 감정 조절 가능",
+          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-TTS-Repo/qwen3_tts_introduction.png",
+          "is_english": true,
+          "summary": "• 10개 국어 및 다양한 방언 지원 공개\n• 효율적인 음성 압축 기술 탑재\n• 극저지연 실시간 스트리밍 생성 지원\n• 자연어 명령어 기반 감정 조절 가능",
+          "translated_title": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -252,15 +252,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Lightricks/LTX-2",
-          "link": "https://huggingface.co/Lightricks/LTX-2",
+          "title": "meituan-longcat/LongCat-Flash-Lite",
+          "link": "https://huggingface.co/meituan-longcat/LongCat-Flash-Lite",
           "date": "2026-02-01",
           "source": "HuggingFace",
-          "description": "• 라이트트릭스, 멀티모달 AI 'LTX-2' 공개\n• 단일 모델로 영상과 오디오 동시 생성\n• 현지 실행 최적화로 오픈 소스 제공\n• 다국어 지원 및 고효율 양자화 적용",
-          "image": "https://img.youtube.com/vi/8fWAJXZJbRA/maxresdefault.jpg",
+          "description": "• 메이투안, 대규모 AI 모델 롱캣 공개\n• 전문가 혼합 기반 685억 개 파라미터\n• 실제 활용 파라미터는 약 30억 개\n• 최대 26만 토큰 컨텍스트 지원",
+          "image": "https://raw.githubusercontent.com/meituan-longcat/LongCat-Flash-Chat/main/figures/longcat_logo.svg",
           "is_english": true,
-          "summary": "• 라이트트릭스, 멀티모달 AI 'LTX-2' 공개\n• 단일 모델로 영상과 오디오 동시 생성\n• 현지 실행 최적화로 오픈 소스 제공\n• 다국어 지원 및 고효율 양자화 적용",
-          "translated_title": "Lightricks/LTX-2",
+          "summary": "• 메이투안, 대규모 AI 모델 롱캣 공개\n• 전문가 혼합 기반 685억 개 파라미터\n• 실제 활용 파라미터는 약 30억 개\n• 최대 26만 토큰 컨텍스트 지원",
+          "translated_title": "meituan-longcat/LongCat-Flash-Lite",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -268,8 +268,22 @@
     },
     {
       "date": "2026-01-31",
-      "update_time": "2026-01-31 15:14:33",
+      "update_time": "2026-01-31 18:19:44",
       "news": [
+        {
+          "title": "엔비디아 CEO, 오픈AI에 1000억 달러 투자 지연설 일축",
+          "link": "https://techcrunch.com/2026/01/31/nvidia-ceo-pushes-back-against-report-that-his-companys-100b-openai-investment-has-stalled/",
+          "date": "2026-01-31",
+          "source": "TechCrunch",
+          "description": "Nvidia CEO Jensen Huang said that a recent report of friction between his company and OpenAI was “nonsense.”",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205754389.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Nvidia CEO pushes back against report that his company’s $100B OpenAI investment has stalled",
+          "original_summary": "Nvidia CEO Jensen Huang said that a recent report of friction between his company and OpenAI was “nonsense.”",
+          "summary": "• 오픈AI 투자 교체설 부인\n • 젠슨 황 CEO 헛소리 반박\n • 양사 관계 악화 사실 무근\n • 대규모 투자 계획 유지",
+          "translated_title": "엔비디아 CEO, 오픈AI에 1000억 달러 투자 지연설 일축",
+          "category_keyword": "엔비디아"
+        },
         {
           "title": "앤트로픽, ‘코워크’에 플러그인 도입...\"11개 비개발 부서 전문가로 확장\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=206194",
@@ -4618,7 +4632,7 @@
         {
           "title": "lightonai/LightOnOCR-2-1B",
           "link": "https://huggingface.co/lightonai/LightOnOCR-2-1B",
-          "date": "2026-01-28",
+          "date": "2026-02-01",
           "source": "HuggingFace",
           "description": "• 라이트온 OCR 2, 10억 파라미터 모델 공개\n• 경쟁 모델 대비 최대 5배 빠른 처리 속도\n• 다국어 및 표, 수식 등 문서 지원 강화\n• H100 기준 1장당 1달러 미만 비용 절감",
           "image": "https://huggingface.co/lightonai/LightOnOCR-2-1B/resolve/main/lightonocr-banner.png",
