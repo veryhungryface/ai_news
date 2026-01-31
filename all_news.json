@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-02-01",
-      "update_time": "2026-01-31 18:19:48",
+      "update_time": "2026-01-31 21:12:50",
       "news": [
         {
           "title": "moonshotai/Kimi-K2.5",
@@ -161,19 +161,6 @@
           "category": "AI Model"
         },
         {
-          "title": "FlashLabs/Chroma-4B",
-          "link": "https://huggingface.co/FlashLabs/Chroma-4B",
-          "date": "2026-02-01",
-          "source": "HuggingFace",
-          "description": "• 허깅페이스 크로마 4B 공개\n• 올투올 변환 파이프라인 지원\n• 음성 대 음성 변환 특화\n• 모델 다운로드 2천 회 돌파",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
-          "is_english": true,
-          "summary": "• 허깅페이스 크로마 4B 공개\n• 올투올 변환 파이프라인 지원\n• 음성 대 음성 변환 특화\n• 모델 다운로드 2천 회 돌파",
-          "translated_title": "FlashLabs/Chroma-4B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Comfy-Org/z_image",
           "link": "https://huggingface.co/Comfy-Org/z_image",
           "date": "2026-02-01",
@@ -183,6 +170,19 @@
           "is_english": true,
           "summary": "• z_image AI 모델 공개\n• HuggingFace에서 트렌딩 중\n• 다운로드 및 상세 정보는 링크에서\n• 최신 오픈소스 AI 기술",
           "translated_title": "Comfy-Org/z_image",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "FlashLabs/Chroma-4B",
+          "link": "https://huggingface.co/FlashLabs/Chroma-4B",
+          "date": "2026-02-01",
+          "source": "HuggingFace",
+          "description": "• 허깅페이스 크로마 4B 공개\n• 올투올 변환 파이프라인 지원\n• 음성 대 음성 변환 특화\n• 모델 다운로드 2천 회 돌파",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• 허깅페이스 크로마 4B 공개\n• 올투올 변환 파이프라인 지원\n• 음성 대 음성 변환 특화\n• 모델 다운로드 2천 회 돌파",
+          "translated_title": "FlashLabs/Chroma-4B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,19 +239,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Tongyi-MAI/Z-Image-Turbo",
-          "link": "https://huggingface.co/Tongyi-MAI/Z-Image-Turbo",
-          "date": "2026-02-01",
-          "source": "HuggingFace",
-          "description": "• 통이, 고효율 이미지 생성 모델 공개\n• 단일 스트림 트랜스포머 기술 적용\n• 빠른 텍스트 기반 이미지 생성 지원\n• 온라인 데모 및 모바일 버전 제공",
-          "image": "https://img.shields.io/badge/Official%20Site-333399.svg?logo=homepage",
-          "is_english": true,
-          "summary": "• 통이, 고효율 이미지 생성 모델 공개\n• 단일 스트림 트랜스포머 기술 적용\n• 빠른 텍스트 기반 이미지 생성 지원\n• 온라인 데모 및 모바일 버전 제공",
-          "translated_title": "Tongyi-MAI/Z-Image-Turbo",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "meituan-longcat/LongCat-Flash-Lite",
           "link": "https://huggingface.co/meituan-longcat/LongCat-Flash-Lite",
           "date": "2026-02-01",
@@ -261,6 +248,19 @@
           "is_english": true,
           "summary": "• 메이투안, 대규모 AI 모델 롱캣 공개\n• 전문가 혼합 기반 685억 개 파라미터\n• 실제 활용 파라미터는 약 30억 개\n• 최대 26만 토큰 컨텍스트 지원",
           "translated_title": "meituan-longcat/LongCat-Flash-Lite",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Tongyi-MAI/Z-Image-Turbo",
+          "link": "https://huggingface.co/Tongyi-MAI/Z-Image-Turbo",
+          "date": "2026-02-01",
+          "source": "HuggingFace",
+          "description": "• 통이, 고효율 이미지 생성 모델 공개\n• 단일 스트림 트랜스포머 기술 적용\n• 빠른 텍스트 기반 이미지 생성 지원\n• 온라인 데모 및 모바일 버전 제공",
+          "image": "https://img.shields.io/badge/Official%20Site-333399.svg?logo=homepage",
+          "is_english": true,
+          "summary": "• 통이, 고효율 이미지 생성 모델 공개\n• 단일 스트림 트랜스포머 기술 적용\n• 빠른 텍스트 기반 이미지 생성 지원\n• 온라인 데모 및 모바일 버전 제공",
+          "translated_title": "Tongyi-MAI/Z-Image-Turbo",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
