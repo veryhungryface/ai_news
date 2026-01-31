@@ -2,8 +2,22 @@
   "dates": [
     {
       "date": "2026-01-31",
-      "update_time": "2026-01-31 06:26:55",
+      "update_time": "2026-01-31 09:18:56",
       "news": [
+        {
+          "title": "[AI 이슈트렌드] 이해찬 별세·광주 도서관 붕괴 1, 2위 차지",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=206200",
+          "date": "2026-01-31",
+          "source": "AI타임스",
+          "description": "AI타임스와 이스트에이드의 1월 넷째 주(1월 23일~29일) 이슈 분석 결과, \\'이해찬 별세(13.45%)\\'와 ‘광주 도서관 붕괴 추모제(9.24%)’에 관심이 집중된 것으로 나타났다.이해찬 전 국무총리는 지난 25일 베트남 출장 도중 심근경색으로 갑작스럽게 별세했다. 영결식에는 이재명 대통령과 김민석 국무총리 등 주요 인사가 참석해 고인의 마지막 길을 배웅했다.2위는 지난해 12월 신축 공사 중 발생한 붕괴 사고로 노동자 4명이 숨진 참사의 49재를 맞아 이들을 기리는 추모제가 열린 일이다. 경찰은 사고 관계자 30명을 입건해",
+          "image": "https://cdn.aitimes.com/news/photo/202601/206200_208143_4549.jpg",
+          "is_english": false,
+          "original_title": "﻿[AI 이슈트렌드] 이해찬 별세·광주 도서관 붕괴 1, 2위 차지",
+          "original_summary": "AI타임스와 이스트에이드의 1월 넷째 주(1월 23일~29일) 이슈 분석 결과, \\'이해찬 별세(13.45%)\\'와 ‘광주 도서관 붕괴 추모제(9.24%)’에 관심이 집중된 것으로 나타났다.이해찬 전 국무총리는 지난 25일 베트남 출장 도중 심근경색으로 갑작스럽게 별세했다. 영결식에는 이재명 대통령과 김민석 국무총리 등 주요 인사가 참석해 고인의 마지막 길을 배웅했다.2위는 지난해 12월 신축 공사 중 발생한 붕괴 사고로 노동자 4명이 숨진 참사의 49재를 맞아 이들을 기리는 추모제가 열린 일이다. 경찰은 사고 관계자 30명을 입건",
+          "summary": "• 이해찬 전 총리 별세 1위\n• 광주 도서관 붕괴 추모제 2위\n• 이해찬 전 총리 심근경색으로 별세\n• 광주 사고 관계자 30명 입건",
+          "translated_title": "[AI 이슈트렌드] 이해찬 별세·광주 도서관 붕괴 1, 2위 차지",
+          "category_keyword": "이해찬 별세"
+        },
         {
           "title": "구글 엔지니어, 중국 기업에 AI 기술 빼돌린 혐의로 유죄 판결",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=206196",
@@ -238,19 +252,6 @@
           "category": "AI Model"
         },
         {
-          "title": "microsoft/VibeVoice-ASR",
-          "link": "https://huggingface.co/microsoft/VibeVoice-ASR",
-          "date": "2026-01-31",
-          "source": "HuggingFace",
-          "description": "• MS, 60분 장음성 한 번에 변환하는 AI 공개\n• 화자 식별과 타임스탬프 동시에 제공\n• 특정 단어 인식률 높이는 커스텀 기능 지원\n• 긴 맥락 잃지 않고 전체 통합 처리 가능",
-          "image": "https://img.shields.io/badge/GitHub-Repo-black?logo=github",
-          "is_english": true,
-          "summary": "• MS, 60분 장음성 한 번에 변환하는 AI 공개\n• 화자 식별과 타임스탬프 동시에 제공\n• 특정 단어 인식률 높이는 커스텀 기능 지원\n• 긴 맥락 잃지 않고 전체 통합 처리 가능",
-          "translated_title": "microsoft/VibeVoice-ASR",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "tencent/HunyuanImage-3.0-Instruct",
           "link": "https://huggingface.co/tencent/HunyuanImage-3.0-Instruct",
           "date": "2026-01-31",
@@ -260,6 +261,19 @@
           "is_english": true,
           "summary": "• 텐센트, 최신 멀티모달 이미지 모델 공개\n• 뛰어난 이미지 생성 성능 구현함\n• 가벼운 디스틸 버전 동시 출시\n• 공식 웹사이트에서 체험 가능",
           "translated_title": "tencent/HunyuanImage-3.0-Instruct",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "microsoft/VibeVoice-ASR",
+          "link": "https://huggingface.co/microsoft/VibeVoice-ASR",
+          "date": "2026-01-31",
+          "source": "HuggingFace",
+          "description": "• MS, 60분 장음성 한 번에 변환하는 AI 공개\n• 화자 식별과 타임스탬프 동시에 제공\n• 특정 단어 인식률 높이는 커스텀 기능 지원\n• 긴 맥락 잃지 않고 전체 통합 처리 가능",
+          "image": "https://img.shields.io/badge/GitHub-Repo-black?logo=github",
+          "is_english": true,
+          "summary": "• MS, 60분 장음성 한 번에 변환하는 AI 공개\n• 화자 식별과 타임스탬프 동시에 제공\n• 특정 단어 인식률 높이는 커스텀 기능 지원\n• 긴 맥락 잃지 않고 전체 통합 처리 가능",
+          "translated_title": "microsoft/VibeVoice-ASR",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -277,19 +291,6 @@
           "category": "AI Model"
         },
         {
-          "title": "lightonai/LightOnOCR-2-1B",
-          "link": "https://huggingface.co/lightonai/LightOnOCR-2-1B",
-          "date": "2026-01-31",
-          "source": "HuggingFace",
-          "description": "• 라이트온 OCR 2, 10억 파라미터 모델 공개\n• 경쟁 모델 대비 최대 5배 빠른 처리 속도\n• 다국어 및 표, 수식 등 문서 지원 강화\n• H100 기준 1장당 1달러 미만 비용 절감",
-          "image": "https://huggingface.co/lightonai/LightOnOCR-2-1B/resolve/main/lightonocr-banner.png",
-          "is_english": true,
-          "summary": "• 라이트온 OCR 2, 10억 파라미터 모델 공개\n• 경쟁 모델 대비 최대 5배 빠른 처리 속도\n• 다국어 및 표, 수식 등 문서 지원 강화\n• H100 기준 1장당 1달러 미만 비용 절감",
-          "translated_title": "lightonai/LightOnOCR-2-1B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "PaddlePaddle/PaddleOCR-VL-1.5",
           "link": "https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.5",
           "date": "2026-01-31",
@@ -299,6 +300,19 @@
           "is_english": true,
           "summary": "• 바이두, 문서 분석 AI 모델 공개\n• 9억 파라미터로 다양한 OCR 수행\n• 표·수식·도장 등 정밀 해석 지원\n• 복잡한 문서 레이아웃 이해 가능",
           "translated_title": "PaddlePaddle/PaddleOCR-VL-1.5",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "lightonai/LightOnOCR-2-1B",
+          "link": "https://huggingface.co/lightonai/LightOnOCR-2-1B",
+          "date": "2026-01-31",
+          "source": "HuggingFace",
+          "description": "• 라이트온 OCR 2, 10억 파라미터 모델 공개\n• 경쟁 모델 대비 최대 5배 빠른 처리 속도\n• 다국어 및 표, 수식 등 문서 지원 강화\n• H100 기준 1장당 1달러 미만 비용 절감",
+          "image": "https://huggingface.co/lightonai/LightOnOCR-2-1B/resolve/main/lightonocr-banner.png",
+          "is_english": true,
+          "summary": "• 라이트온 OCR 2, 10억 파라미터 모델 공개\n• 경쟁 모델 대비 최대 5배 빠른 처리 속도\n• 다국어 및 표, 수식 등 문서 지원 강화\n• H100 기준 1장당 1달러 미만 비용 절감",
+          "translated_title": "lightonai/LightOnOCR-2-1B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -329,19 +343,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
-          "link": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-Base",
-          "date": "2026-01-31",
-          "source": "HuggingFace",
-          "description": "• 10개 국어 및 다양한 방언 지원 공개\n• 효율적인 음성 압축 기술 탑재\n• 극저지연 실시간 스트리밍 생성 지원\n• 자연어 명령어 기반 감정 조절 가능",
-          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-TTS-Repo/qwen3_tts_introduction.png",
-          "is_english": true,
-          "summary": "• 10개 국어 및 다양한 방언 지원 공개\n• 효율적인 음성 압축 기술 탑재\n• 극저지연 실시간 스트리밍 생성 지원\n• 자연어 명령어 기반 감정 조절 가능",
-          "translated_title": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Comfy-Org/z_image",
           "link": "https://huggingface.co/Comfy-Org/z_image",
           "date": "2026-01-31",
@@ -351,6 +352,19 @@
           "is_english": true,
           "summary": "• z_image AI 모델 공개\n• HuggingFace에서 트렌딩 중\n• 다운로드 및 상세 정보는 링크에서\n• 최신 오픈소스 AI 기술",
           "translated_title": "Comfy-Org/z_image",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+          "link": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+          "date": "2026-01-31",
+          "source": "HuggingFace",
+          "description": "• 10개 국어 및 다양한 방언 지원 공개\n• 효율적인 음성 압축 기술 탑재\n• 극저지연 실시간 스트리밍 생성 지원\n• 자연어 명령어 기반 감정 조절 가능",
+          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-TTS-Repo/qwen3_tts_introduction.png",
+          "is_english": true,
+          "summary": "• 10개 국어 및 다양한 방언 지원 공개\n• 효율적인 음성 압축 기술 탑재\n• 극저지연 실시간 스트리밍 생성 지원\n• 자연어 명령어 기반 감정 조절 가능",
+          "translated_title": "Qwen/Qwen3-TTS-12Hz-1.7B-Base",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -420,15 +434,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Lightricks/LTX-2",
-          "link": "https://huggingface.co/Lightricks/LTX-2",
+          "title": "Tongyi-MAI/Z-Image-Turbo",
+          "link": "https://huggingface.co/Tongyi-MAI/Z-Image-Turbo",
           "date": "2026-01-31",
           "source": "HuggingFace",
-          "description": "• 라이트트릭스, 멀티모달 AI 'LTX-2' 공개\n• 단일 모델로 영상과 오디오 동시 생성\n• 현지 실행 최적화로 오픈 소스 제공\n• 다국어 지원 및 고효율 양자화 적용",
-          "image": "https://img.youtube.com/vi/8fWAJXZJbRA/maxresdefault.jpg",
+          "description": "• 통이, 고효율 이미지 생성 모델 공개\n• 단일 스트림 트랜스포머 기술 적용\n• 빠른 텍스트 기반 이미지 생성 지원\n• 온라인 데모 및 모바일 버전 제공",
+          "image": "https://img.shields.io/badge/Official%20Site-333399.svg?logo=homepage",
           "is_english": true,
-          "summary": "• 라이트트릭스, 멀티모달 AI 'LTX-2' 공개\n• 단일 모델로 영상과 오디오 동시 생성\n• 현지 실행 최적화로 오픈 소스 제공\n• 다국어 지원 및 고효율 양자화 적용",
-          "translated_title": "Lightricks/LTX-2",
+          "summary": "• 통이, 고효율 이미지 생성 모델 공개\n• 단일 스트림 트랜스포머 기술 적용\n• 빠른 텍스트 기반 이미지 생성 지원\n• 온라인 데모 및 모바일 버전 제공",
+          "translated_title": "Tongyi-MAI/Z-Image-Turbo",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
