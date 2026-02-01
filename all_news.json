@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-02-02",
-      "update_time": "2026-02-01 18:21:34",
+      "update_time": "2026-02-01 21:14:35",
       "news": [
         {
           "title": "지방자치인재개발원 장기교육과정 개시…생성형 AI활용 실습교육",
@@ -147,19 +147,6 @@
           "category": "AI Model"
         },
         {
-          "title": "lightonai/LightOnOCR-2-1B",
-          "link": "https://huggingface.co/lightonai/LightOnOCR-2-1B",
-          "date": "2026-02-02",
-          "source": "HuggingFace",
-          "description": "• 라이트온 OCR 2, 10억 파라미터 모델 공개\n• 경쟁 모델 대비 최대 5배 빠른 처리 속도\n• 다국어 및 표, 수식 등 문서 지원 강화\n• H100 기준 1장당 1달러 미만 비용 절감",
-          "image": "https://huggingface.co/lightonai/LightOnOCR-2-1B/resolve/main/lightonocr-banner.png",
-          "is_english": true,
-          "summary": "• 라이트온 OCR 2, 10억 파라미터 모델 공개\n• 경쟁 모델 대비 최대 5배 빠른 처리 속도\n• 다국어 및 표, 수식 등 문서 지원 강화\n• H100 기준 1장당 1달러 미만 비용 절감",
-          "translated_title": "lightonai/LightOnOCR-2-1B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "robbyant/lingbot-world-base-cam",
           "link": "https://huggingface.co/robbyant/lingbot-world-base-cam",
           "date": "2026-02-02",
@@ -169,6 +156,19 @@
           "is_english": true,
           "summary": "• 로비안트 팀, '링봇-월드' 공개\n• 현실부터 카툰까지 고품질 구현\n• 일 분 이상 장면 기억 유지\n• 초당 16프레임 실시간 생성 지원",
           "translated_title": "robbyant/lingbot-world-base-cam",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "lightonai/LightOnOCR-2-1B",
+          "link": "https://huggingface.co/lightonai/LightOnOCR-2-1B",
+          "date": "2026-02-02",
+          "source": "HuggingFace",
+          "description": "• 라이트온 OCR 2, 10억 파라미터 모델 공개\n• 경쟁 모델 대비 최대 5배 빠른 처리 속도\n• 다국어 및 표, 수식 등 문서 지원 강화\n• H100 기준 1장당 1달러 미만 비용 절감",
+          "image": "https://huggingface.co/lightonai/LightOnOCR-2-1B/resolve/main/lightonocr-banner.png",
+          "is_english": true,
+          "summary": "• 라이트온 OCR 2, 10억 파라미터 모델 공개\n• 경쟁 모델 대비 최대 5배 빠른 처리 속도\n• 다국어 및 표, 수식 등 문서 지원 강화\n• H100 기준 1장당 1달러 미만 비용 절감",
+          "translated_title": "lightonai/LightOnOCR-2-1B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -280,8 +280,22 @@
     },
     {
       "date": "2026-02-01",
-      "update_time": "2026-02-01 18:21:34",
+      "update_time": "2026-02-01 21:14:35",
       "news": [
+        {
+          "title": "테더 CEO, 최근 화제의 중심에 선 이유",
+          "link": "https://techcrunch.com/2026/02/01/why-tethers-ceo-is-everywhere-right-now/",
+          "date": "2026-02-01",
+          "source": "TechCrunch",
+          "description": "For years, Tether's CEO avoided the United States, watching from offshore as regulators circled and prosecutors investigated. Those days are over.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2258508694.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Why Tether’s CEO is everywhere right now",
+          "original_summary": "For years, Tether's CEO avoided the United States, watching from offshore as regulators circled and prosecutors investigated. Those days are over.",
+          "summary": "• CEO가 미국을 피해온 과거\n• 해외에서 규제 당국 주시\n• 검찰의 조사도 피해다녀\n• 이제 미국 활동을 시작",
+          "translated_title": "테더 CEO, 최근 화제의 중심에 선 이유",
+          "category_keyword": "테더"
+        },
         {
           "title": "인도네시아, 그로크(Grok) 금지 조건부 해제",
           "link": "https://techcrunch.com/2026/02/01/indonesia-conditionally-lifts-ban-on-grok/",
