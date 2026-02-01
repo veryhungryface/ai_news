@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-02-02",
-      "update_time": "2026-02-01 15:28:20",
+      "update_time": "2026-02-01 18:21:34",
       "news": [
         {
           "title": "지방자치인재개발원 장기교육과정 개시…생성형 AI활용 실습교육",
@@ -173,6 +173,19 @@
           "category": "AI Model"
         },
         {
+          "title": "circlestone-labs/Anima",
+          "link": "https://huggingface.co/circlestone-labs/Anima",
+          "date": "2026-02-02",
+          "source": "HuggingFace",
+          "description": "• 애니메이션 전문 고품질 이미지 모델 공개\n• 최대 20억 파라미터 규모의 경량화 설계\n• ComfyUI 기반으로 쉽고 빠른 생성 지원\n• 현재 사전 공개 버전으로 지속 업데이트 예정",
+          "image": "https://huggingface.co/circlestone-labs/Anima/resolve/main/example.png",
+          "is_english": true,
+          "summary": "• 애니메이션 전문 고품질 이미지 모델 공개\n• 최대 20억 파라미터 규모의 경량화 설계\n• ComfyUI 기반으로 쉽고 빠른 생성 지원\n• 현재 사전 공개 버전으로 지속 업데이트 예정",
+          "translated_title": "circlestone-labs/Anima",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Comfy-Org/z_image",
           "link": "https://huggingface.co/Comfy-Org/z_image",
           "date": "2026-02-02",
@@ -199,32 +212,6 @@
           "category": "AI Model"
         },
         {
-          "title": "numind/NuMarkdown-8B-Thinking",
-          "link": "https://huggingface.co/numind/NuMarkdown-8B-Thinking",
-          "date": "2026-02-02",
-          "source": "HuggingFace",
-          "description": "• 휴깅페이스, 추론 OCR 모델 공개\n• 복잡한 문서 마크다운 변환 지원\n• 생성 과정 사고 토큰으로 해석\n• 성능은 기존 모델보다 월등함",
-          "image": "https://huggingface.co/numind/NuMarkdown-8B-Thinking/resolve/main/numind.svg",
-          "is_english": true,
-          "summary": "• 휴깅페이스, 추론 OCR 모델 공개\n• 복잡한 문서 마크다운 변환 지원\n• 생성 과정 사고 토큰으로 해석\n• 성능은 기존 모델보다 월등함",
-          "translated_title": "numind/NuMarkdown-8B-Thinking",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "circlestone-labs/Anima",
-          "link": "https://huggingface.co/circlestone-labs/Anima",
-          "date": "2026-02-02",
-          "source": "HuggingFace",
-          "description": "• 애니메이션 전문 고품질 이미지 모델 공개\n• 최대 20억 파라미터 규모의 경량화 설계\n• ComfyUI 기반으로 쉽고 빠른 생성 지원\n• 현재 사전 공개 버전으로 지속 업데이트 예정",
-          "image": "https://huggingface.co/circlestone-labs/Anima/resolve/main/example.png",
-          "is_english": true,
-          "summary": "• 애니메이션 전문 고품질 이미지 모델 공개\n• 최대 20억 파라미터 규모의 경량화 설계\n• ComfyUI 기반으로 쉽고 빠른 생성 지원\n• 현재 사전 공개 버전으로 지속 업데이트 예정",
-          "translated_title": "circlestone-labs/Anima",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "RuneXX/LTX-2-Workflows",
           "link": "https://huggingface.co/RuneXX/LTX-2-Workflows",
           "date": "2026-02-02",
@@ -234,6 +221,19 @@
           "is_english": true,
           "summary": "• LTX-2 워크플로우 모델 공개\n• 컴퓨터 최적화 및 GGUF 지원\n• ComfyUI 최신 버전과 노드 필요\n• 다양한 가이드 및 워크플로우 제공",
           "translated_title": "RuneXX/LTX-2-Workflows",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "numind/NuMarkdown-8B-Thinking",
+          "link": "https://huggingface.co/numind/NuMarkdown-8B-Thinking",
+          "date": "2026-02-02",
+          "source": "HuggingFace",
+          "description": "• 휴깅페이스, 추론 OCR 모델 공개\n• 복잡한 문서 마크다운 변환 지원\n• 생성 과정 사고 토큰으로 해석\n• 성능은 기존 모델보다 월등함",
+          "image": "https://huggingface.co/numind/NuMarkdown-8B-Thinking/resolve/main/numind.svg",
+          "is_english": true,
+          "summary": "• 휴깅페이스, 추론 OCR 모델 공개\n• 복잡한 문서 마크다운 변환 지원\n• 생성 과정 사고 토큰으로 해석\n• 성능은 기존 모델보다 월등함",
+          "translated_title": "numind/NuMarkdown-8B-Thinking",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -280,8 +280,50 @@
     },
     {
       "date": "2026-02-01",
-      "update_time": "2026-02-01 15:28:20",
+      "update_time": "2026-02-01 18:21:34",
       "news": [
+        {
+          "title": "인도네시아, 그로크(Grok) 금지 조건부 해제",
+          "link": "https://techcrunch.com/2026/02/01/indonesia-conditionally-lifts-ban-on-grok/",
+          "date": "2026-02-01",
+          "source": "TechCrunch",
+          "description": "Indonesia has followed Malaysia and the Philippines in lifting a ban on xAI’s chatbot Grok.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2207699717.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Indonesia ‘conditionally’ lifts ban on Grok",
+          "original_summary": "Indonesia has followed Malaysia and the Philippines in lifting a ban on xAI’s chatbot Grok.",
+          "summary": "• 인도네시아가 xAI 챗봇 금지 해제\n• 말레이시아, 필리핀 뒤이어 조치\n• 일정 조건 충족 시 서비스 허용\n• 동남아시아 규제 완화 흐름",
+          "translated_title": "인도네시아, 그로크(Grok) 금지 조건부 해제",
+          "category_keyword": "그로크"
+        },
+        {
+          "title": "인도, 글로벌 AI 워크로드 유치 위해 2047년까지 면세 혜택 제공",
+          "link": "https://techcrunch.com/2026/02/01/india-offers-zero-taxes-through-2047-to-lure-global-ai-workloads/",
+          "date": "2026-02-01",
+          "source": "TechCrunch",
+          "description": "New Delhi's latest move comes as Amazon, Google, and Microsoft expand data center investments in India.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/09/india-flag.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "India offers zero taxes through 2047 to lure global AI workloads",
+          "original_summary": "New Delhi's latest move comes as Amazon, Google, and Microsoft expand data center investments in India.",
+          "summary": "• 2047년까지 AI 세금 면제 추진\n• 글로벌 AI 투자 유치 목표\n• 빅테크 데이터센터 확장 중\n• 인도 정부의 공격적 지원 정책",
+          "translated_title": "인도, 글로벌 AI 워크로드 유치 위해 2047년까지 면세 혜택 제공",
+          "category_keyword": "인도"
+        },
+        {
+          "title": "잘가요 기업 재벌, 안녕하세요 개인 재벌",
+          "link": "https://techcrunch.com/2026/02/01/bye-bye-corporate-conglomerates-hello-personal-conglomerates/",
+          "date": "2026-02-01",
+          "source": "TechCrunch",
+          "description": "Elon Musk's reported merging of SpaceX, xAI, and Tesla harkens back to the heyday of General Electric — or maybe the robber barons of the Gilded Age.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2147789843.jpg?resize=1200,737",
+          "is_english": true,
+          "original_title": "Bye-bye corporate conglomerates. Hello personal conglomerates.",
+          "original_summary": "Elon Musk's reported merging of SpaceX, xAI, and Tesla harkens back to the heyday of General Electric — or maybe the robber barons of the Gilded Age.",
+          "summary": "• 일론 머스크 기업 통합 논의\n• 스페이스X, xAI, 테슬라 결합\n• GE 전성기 시대 연상시켜\n• 거대 자본가 시대의 막이 오르나",
+          "translated_title": "잘가요 기업 재벌, 안녕하세요 개인 재벌",
+          "category_keyword": "머스크"
+        },
         {
           "title": "AI 에이전트만 활동하는 '몰트북'에서는 무슨 일이 일어나고 있을까",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=206210",
@@ -5039,7 +5081,7 @@
         {
           "title": "microsoft/VibeVoice-ASR",
           "link": "https://huggingface.co/microsoft/VibeVoice-ASR",
-          "date": "2026-01-28",
+          "date": "2026-02-02",
           "source": "HuggingFace",
           "description": "• MS, 60분 장음성 한 번에 변환하는 AI 공개\n• 화자 식별과 타임스탬프 동시에 제공\n• 특정 단어 인식률 높이는 커스텀 기능 지원\n• 긴 맥락 잃지 않고 전체 통합 처리 가능",
           "image": "https://img.shields.io/badge/GitHub-Repo-black?logo=github",
@@ -5117,7 +5159,7 @@
         {
           "title": "FlashLabs/Chroma-4B",
           "link": "https://huggingface.co/FlashLabs/Chroma-4B",
-          "date": "2026-01-28",
+          "date": "2026-02-02",
           "source": "HuggingFace",
           "description": "• 허깅페이스 크로마 4B 공개\n• 올투올 변환 파이프라인 지원\n• 음성 대 음성 변환 특화\n• 모델 다운로드 2천 회 돌파",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
