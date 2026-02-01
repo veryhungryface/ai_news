@@ -2,8 +2,36 @@
   "dates": [
     {
       "date": "2026-02-01",
-      "update_time": "2026-01-31 21:12:50",
+      "update_time": "2026-02-01 01:20:17",
       "news": [
+        {
+          "title": "경남교육정보원, 학교 AI·디지털 정보서비스 혁신에 362억 투입",
+          "link": "https://www.yna.co.kr/view/AKR20260130143000052",
+          "date": "2026-02-01",
+          "source": "연합뉴스",
+          "description": "(창원=연합뉴스) 김동민 기자 = 경남도교육청 교육정보원은 인공지능(AI)과 디지털 중심 교육환경 조성을 위해 정보서비스 혁신을 강화한다고 1일...",
+          "image": "https://img.yna.co.kr/photo/cms/2026/01/12/89/PCM20260112000089990_P2.jpg",
+          "is_english": false,
+          "original_title": "경남교육정보원, 학교 AI·디지털 정보서비스 혁신에 362억 투입",
+          "original_summary": "(창원=연합뉴스) 김동민 기자 = 경남도교육청 교육정보원은 인공지능(AI)과 디지털 중심 교육환경 조성을 위해 정보서비스 혁신을 강화한다고 1일...",
+          "summary": "• 경남교육정보원, 정보서비스 혁신 강화\n• AI·디지털 교육환경 조성 목적\n• 총 362억 원 규모 투자 집행\n• 학교 현장 디지털 전환 가속화",
+          "translated_title": "경남교육정보원, 학교 AI·디지털 정보서비스 혁신에 362억 투입",
+          "category_keyword": "디지털 혁신"
+        },
+        {
+          "title": "젠슨 황, 오픈AI 불화설에 \"말도 안 돼\"...새로운 투자 라운드 참여 확인",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=206201",
+          "date": "2026-02-01",
+          "source": "AI타임스",
+          "description": "엔비디아가 지난해 9월 발표한 오픈AI 1000억달러 투자 계획이 보류됐으며, 젠슨 황 CEO도 오픈AI에 불만이라는 말이 나왔다. 그러나 황 CEO는 불만설을 \\\"말도 안 된다\\\"라고 일축하며, 한발 더 나아가 오픈AI가 추진 중인 새로운 투자 라운드에도 참여할 것이라고 밝혔다.황 CEO는 1월31일 타이베이 방문 중 오픈AI에 불만을 표시했다는 보도에 대한 질문이 나오자 \\\"난센스(nonsense)\\\"라고 답했다. 이는 이날 월스트리트 저널이 관계자들을 인용, 양사의 협상이 초기 단계에서 더 이상 진전되지 않았다고 전한 데 따른 것이다",
+          "image": "https://cdn.aitimes.com/news/photo/202602/206201_208148_4043.png",
+          "is_english": false,
+          "original_title": "젠슨 황, 오픈AI 불화설에 \"말도 안 돼\"...새로운 투자 라운드 참여 확인",
+          "original_summary": "엔비디아가 지난해 9월 발표한 오픈AI 1000억달러 투자 계획이 보류됐으며, 젠슨 황 CEO도 오픈AI에 불만이라는 말이 나왔다. 그러나 황 CEO는 불만설을 \\\"말도 안 된다\\\"라고 일축하며, 한발 더 나아가 오픈AI가 추진 중인 새로운 투자 라운드에도 참여할 것이라고 밝혔다.황 CEO는 1월31일 타이베이 방문 중 오픈AI에 불만을 표시했다는 보도에 대한 질문이 나오자 \\\"난센스(nonsense)\\\"라고 답했다. 이는 이날 월스트리트 저널이 관계자들을 인용, 양사의 협상이 초기 단계에서 더 이상 진전되지 않았다고 전한 데 따른",
+          "summary": "• 젠슨 황, 오픈AI 불화설 일축\n• 1000억 달러 투자 보도 부정\n• 새로운 투자 라운드 참여 선언\n• 엔비디아-오픈AI 관계 원활함",
+          "translated_title": "젠슨 황, 오픈AI 불화설에 \"말도 안 돼\"...새로운 투자 라운드 참여 확인",
+          "category_keyword": "엔비디아"
+        },
         {
           "title": "moonshotai/Kimi-K2.5",
           "link": "https://huggingface.co/moonshotai/Kimi-K2.5",
@@ -18,19 +46,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/personaplex-7b-v1",
-          "link": "https://huggingface.co/nvidia/personaplex-7b-v1",
-          "date": "2026-02-01",
-          "source": "HuggingFace",
-          "description": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
-          "translated_title": "nvidia/personaplex-7b-v1",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Tongyi-MAI/Z-Image",
           "link": "https://huggingface.co/Tongyi-MAI/Z-Image",
           "date": "2026-02-01",
@@ -40,6 +55,19 @@
           "is_english": true,
           "summary": "• 통이MAI, 고품질 이미지 생성 모델 Z-Image 공개\n• 단일 스트림 디퓨전 트랜스포머 기술 탑재\n• 다양한 스타일과 정교한 프롬프트 준수 지원\n• HuggingFace에서 모델 체크포인트 다운로드 제공",
           "translated_title": "Tongyi-MAI/Z-Image",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/personaplex-7b-v1",
+          "link": "https://huggingface.co/nvidia/personaplex-7b-v1",
+          "date": "2026-02-01",
+          "source": "HuggingFace",
+          "description": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
+          "translated_title": "nvidia/personaplex-7b-v1",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -96,19 +124,6 @@
           "category": "AI Model"
         },
         {
-          "title": "zai-org/GLM-4.7-Flash",
-          "link": "https://huggingface.co/zai-org/GLM-4.7-Flash",
-          "date": "2026-02-01",
-          "source": "HuggingFace",
-          "description": "• Z.ai, 고성능 300억 모델 공개\n• 경량화로 성능과 효율성 균형\n• 다양한 벤치마크서 최고 성능\n• vLLM 등 로컬 배포 환경 지원",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Z.ai, 고성능 300억 모델 공개\n• 경량화로 성능과 효율성 균형\n• 다양한 벤치마크서 최고 성능\n• vLLM 등 로컬 배포 환경 지원",
-          "translated_title": "zai-org/GLM-4.7-Flash",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "PaddlePaddle/PaddleOCR-VL-1.5",
           "link": "https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.5",
           "date": "2026-02-01",
@@ -118,6 +133,19 @@
           "is_english": true,
           "summary": "• 바이두, 문서 분석 AI 모델 공개\n• 9억 파라미터로 다양한 OCR 수행\n• 표·수식·도장 등 정밀 해석 지원\n• 복잡한 문서 레이아웃 이해 가능",
           "translated_title": "PaddlePaddle/PaddleOCR-VL-1.5",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "zai-org/GLM-4.7-Flash",
+          "link": "https://huggingface.co/zai-org/GLM-4.7-Flash",
+          "date": "2026-02-01",
+          "source": "HuggingFace",
+          "description": "• Z.ai, 고성능 300억 모델 공개\n• 경량화로 성능과 효율성 균형\n• 다양한 벤치마크서 최고 성능\n• vLLM 등 로컬 배포 환경 지원",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Z.ai, 고성능 300억 모델 공개\n• 경량화로 성능과 효율성 균형\n• 다양한 벤치마크서 최고 성능\n• vLLM 등 로컬 배포 환경 지원",
+          "translated_title": "zai-org/GLM-4.7-Flash",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,6 +267,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Lightricks/LTX-2",
+          "link": "https://huggingface.co/Lightricks/LTX-2",
+          "date": "2026-02-01",
+          "source": "HuggingFace",
+          "description": "• 라이트트릭스, 멀티모달 AI 'LTX-2' 공개\n• 단일 모델로 영상과 오디오 동시 생성\n• 현지 실행 최적화로 오픈 소스 제공\n• 다국어 지원 및 고효율 양자화 적용",
+          "image": "https://img.youtube.com/vi/8fWAJXZJbRA/maxresdefault.jpg",
+          "is_english": true,
+          "summary": "• 라이트트릭스, 멀티모달 AI 'LTX-2' 공개\n• 단일 모델로 영상과 오디오 동시 생성\n• 현지 실행 최적화로 오픈 소스 제공\n• 다국어 지원 및 고효율 양자화 적용",
+          "translated_title": "Lightricks/LTX-2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "meituan-longcat/LongCat-Flash-Lite",
           "link": "https://huggingface.co/meituan-longcat/LongCat-Flash-Lite",
           "date": "2026-02-01",
@@ -248,19 +289,6 @@
           "is_english": true,
           "summary": "• 메이투안, 대규모 AI 모델 롱캣 공개\n• 전문가 혼합 기반 685억 개 파라미터\n• 실제 활용 파라미터는 약 30억 개\n• 최대 26만 토큰 컨텍스트 지원",
           "translated_title": "meituan-longcat/LongCat-Flash-Lite",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "Tongyi-MAI/Z-Image-Turbo",
-          "link": "https://huggingface.co/Tongyi-MAI/Z-Image-Turbo",
-          "date": "2026-02-01",
-          "source": "HuggingFace",
-          "description": "• 통이, 고효율 이미지 생성 모델 공개\n• 단일 스트림 트랜스포머 기술 적용\n• 빠른 텍스트 기반 이미지 생성 지원\n• 온라인 데모 및 모바일 버전 제공",
-          "image": "https://img.shields.io/badge/Official%20Site-333399.svg?logo=homepage",
-          "is_english": true,
-          "summary": "• 통이, 고효율 이미지 생성 모델 공개\n• 단일 스트림 트랜스포머 기술 적용\n• 빠른 텍스트 기반 이미지 생성 지원\n• 온라인 데모 및 모바일 버전 제공",
-          "translated_title": "Tongyi-MAI/Z-Image-Turbo",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
