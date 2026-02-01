@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-02-01",
-      "update_time": "2026-02-01 04:55:34",
+      "update_time": "2026-02-01 06:37:43",
       "news": [
         {
           "title": "'무거운 헬멧은 노' KAIST, 모자처럼 쓰는 탈모 예방 OLED 개발",
@@ -258,6 +258,19 @@
           "category": "AI Model"
         },
         {
+          "title": "robbyant/lingbot-world-base-cam",
+          "link": "https://huggingface.co/robbyant/lingbot-world-base-cam",
+          "date": "2026-02-01",
+          "source": "HuggingFace",
+          "description": "• 로비안트 팀, '링봇-월드' 공개\n• 현실부터 카툰까지 고품질 구현\n• 일 분 이상 장면 기억 유지\n• 초당 16프레임 실시간 생성 지원",
+          "image": "https://img.shields.io/badge/%F0%9F%8C%90%20Project%20Page-Demo-00bfff",
+          "is_english": true,
+          "summary": "• 로비안트 팀, '링봇-월드' 공개\n• 현실부터 카툰까지 고품질 구현\n• 일 분 이상 장면 기억 유지\n• 초당 16프레임 실시간 생성 지원",
+          "translated_title": "robbyant/lingbot-world-base-cam",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "unsloth/Kimi-K2.5-GGUF",
           "link": "https://huggingface.co/unsloth/Kimi-K2.5-GGUF",
           "date": "2026-02-01",
@@ -280,19 +293,6 @@
           "is_english": true,
           "summary": "• 허깅페이스 크로마 4B 공개\n• 올투올 변환 파이프라인 지원\n• 음성 대 음성 변환 특화\n• 모델 다운로드 2천 회 돌파",
           "translated_title": "FlashLabs/Chroma-4B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "robbyant/lingbot-world-base-cam",
-          "link": "https://huggingface.co/robbyant/lingbot-world-base-cam",
-          "date": "2026-02-01",
-          "source": "HuggingFace",
-          "description": "• 로비안트 팀, '링봇-월드' 공개\n• 현실부터 카툰까지 고품질 구현\n• 일 분 이상 장면 기억 유지\n• 초당 16프레임 실시간 생성 지원",
-          "image": "https://img.shields.io/badge/%F0%9F%8C%90%20Project%20Page-Demo-00bfff",
-          "is_english": true,
-          "summary": "• 로비안트 팀, '링봇-월드' 공개\n• 현실부터 카툰까지 고품질 구현\n• 일 분 이상 장면 기억 유지\n• 초당 16프레임 실시간 생성 지원",
-          "translated_title": "robbyant/lingbot-world-base-cam",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
