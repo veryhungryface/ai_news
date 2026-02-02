@@ -2,8 +2,36 @@
   "dates": [
     {
       "date": "2026-02-03",
-      "update_time": "2026-02-02 15:31:08",
+      "update_time": "2026-02-02 18:30:41",
       "news": [
+        {
+          "title": "AI 모델 번역의 문화적 편향성 해결 방안",
+          "link": "https://aibusiness.com/responsible-ai/combatting-cultural-bias-in-the-translation-of-ai-models",
+          "date": "2026-02-03",
+          "source": "AI Business",
+          "description": "Although model providers are introducing translation models, much still needs to be done to ensure they accurately capture cultural nuances.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltbc8885260ceaf36d/6980eca6e2f4a259ec1651b8/Languages.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Combatting Cultural Bias in the Translation of AI Models",
+          "original_summary": "Although model providers are introducing translation models, much still needs to be done to ensure they accurately capture cultural nuances.",
+          "summary": "• 번역 모델의 편향성\n• 문화적 뉘앙스 중요\n• 정확성 향상 필요\n• 모델 제공자 노력",
+          "translated_title": "AI 모델 번역의 문화적 편향성 해결 방안",
+          "category_keyword": "번역 편향"
+        },
+        {
+          "title": "뉴욕 로봇 컨소시엄, 160개 스타트업과 함께 출범",
+          "link": "https://aibusiness.com/robotics/new-york-robotics-consortium-launches-160-startups",
+          "date": "2026-02-03",
+          "source": "AI Business",
+          "description": "The news comes as the state works to place itself as a serious contender in the global robotics race.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltf7d067fcf2fa6d68/6980e0582e80c25cbe04996f/robot.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "New York Robotics Consortium Launches with 160 Startups",
+          "original_summary": "The news comes as the state works to place itself as a serious contender in the global robotics race.",
+          "summary": "• 뉴욕 로봇 컨소시엄\n• 160개 스타트업 참여\n• 글로벌 로봇 경쟁\n• 주 산업 육성 목표",
+          "translated_title": "뉴욕 로봇 컨소시엄, 160개 스타트업과 함께 출범",
+          "category_keyword": "뉴욕 로봇"
+        },
         {
           "title": "moonshotai/Kimi-K2.5",
           "link": "https://huggingface.co/moonshotai/Kimi-K2.5",
@@ -268,8 +296,78 @@
     },
     {
       "date": "2026-02-02",
-      "update_time": "2026-02-02 15:31:08",
+      "update_time": "2026-02-02 18:30:41",
       "news": [
+        {
+          "title": "코덱스(Codex) macOS 앱 출시",
+          "link": "https://openai.com/index/introducing-the-codex-app",
+          "date": "2026-02-02",
+          "source": "OpenAI",
+          "description": "Introducing the Codex app for macOS—a command center for AI coding and software development with multiple agents, parallel workflows, and long-running tasks.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Introducing the Codex app",
+          "original_summary": "Introducing the Codex app for macOS—a command center for AI coding and software development with multiple agents, parallel workflows, and long-running tasks.",
+          "summary": "• macOS용 코덱스 앱 소개\n• AI 코딩 커맨드 센터\n• 복수 에이전트 지원\n• 병렬 워크플로우 가능",
+          "translated_title": "코덱스(Codex) macOS 앱 출시",
+          "category_keyword": "코덱스 앱"
+        },
+        {
+          "title": "OpenAI, 에이전트 코딩 위한 새 macOS 앱 출시",
+          "link": "https://techcrunch.com/2026/02/02/openai-launches-new-macos-app-for-agentic-coding/",
+          "date": "2026-02-02",
+          "source": "TechCrunch",
+          "description": "OpenAI has released a new MacOS app for Codex, integrating many of the agentic coding practices that have become popular since Codex launched last year.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/Codex-dark.png?resize=1200,675",
+          "is_english": true,
+          "original_title": "OpenAI launches new MacOS app for agentic coding",
+          "original_summary": "OpenAI has released a new MacOS app for Codex, integrating many of the agentic coding practices that have become popular since Codex launched last year.",
+          "summary": "• OpenAI의 새로운 앱\n• macOS용 코덱스 지원\n• 에이전트 코딩 통합\n• 지난해 트렌드 반영",
+          "translated_title": "OpenAI, 에이전트 코딩 위한 새 macOS 앱 출시",
+          "category_keyword": "OpenAI"
+        },
+        {
+          "title": "Ring, '서치 파티' 기능을 비링 카메라 사용자에게도 확대",
+          "link": "https://techcrunch.com/2026/02/02/ring-brings-its-search-party-feature-for-finding-lost-dogs-to-non-ring-camera-owners/",
+          "date": "2026-02-02",
+          "source": "TechCrunch",
+          "description": "Ring's Search Party feature for finding lost dogs is now available across the U.S. — even if you don't own a Ring camera.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/ring-search-party-hero-lt-0129hero-1.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "Ring brings its ‘Search Party’ feature for finding lost dogs to non-Ring camera owners",
+          "original_summary": "Ring's Search Party feature for finding lost dogs is now available across the U.S. — even if you don't own a Ring camera.",
+          "summary": "• Ring의 '서치 파티'\n• 잃어버린 강아지 찾기\n• 링 카메라 없이 이용\n• 미국 전역에서 서비스",
+          "translated_title": "Ring, '서치 파티' 기능을 비링 카메라 사용자에게도 확대",
+          "category_keyword": "Ring"
+        },
+        {
+          "title": "AI로 멸종 위기 종 유전 정보 보존 지원",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/ai-to-preserve-endangered-species/",
+          "date": "2026-02-02",
+          "source": "Google AI",
+          "description": "Scientists are working to sequence the genome of every known species on Earth.",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Terria-Clay_Collage_hero.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "How we’re helping preserve the genetic information of endangered species with AI",
+          "original_summary": "Scientists are working to sequence the genome of every known species on Earth.",
+          "summary": "• AI 유전 정보 활용\n• 멸종 위기 종 보존\n• 지구상 모든 종 분석\n• 과학자들의 유전체 연구",
+          "translated_title": "AI로 멸종 위기 종 유전 정보 보존 지원",
+          "category_keyword": "유전 정보"
+        },
+        {
+          "title": "게임 아레나로 AI 벤치마킹 고도화",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/",
+          "date": "2026-02-02",
+          "source": "Google AI",
+          "description": "We’re expanding Game Arena with Poker and Werewolf, while Gemini 3 Pro and Flash top our chess leaderboard.",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/kaggle_Gsmes_Hero.png",
+          "is_english": true,
+          "original_title": "Advancing AI benchmarking with Game Arena",
+          "original_summary": "We’re expanding Game Arena with Poker and Werewolf, while Gemini 3 Pro and Flash top our chess leaderboard.",
+          "summary": "• 게임 아레나 확장\n• 포커와 늑대인간 추가\n• 체스 리더 1위 달성\n• 제미니 모델 성과",
+          "translated_title": "게임 아레나로 AI 벤치마킹 고도화",
+          "category_keyword": "AI 벤치마크"
+        },
         {
           "title": "스노우플레이크와 OpenAI, 기업 데이터에 최첨단 지능 통합",
           "link": "https://openai.com/index/snowflake-partnership",
