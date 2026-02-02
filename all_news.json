@@ -2,8 +2,36 @@
   "dates": [
     {
       "date": "2026-02-02",
-      "update_time": "2026-02-01 21:14:35",
+      "update_time": "2026-02-02 01:12:01",
       "news": [
+        {
+          "title": "[게시판] 인공지능산업법학회, 7일 '피지컬 AI와 보안 과제' 학술대회",
+          "link": "https://www.yna.co.kr/view/AKR20260202047100004",
+          "date": "2026-02-02",
+          "source": "연합뉴스",
+          "description": "▲ 인공지능산업법학회(회장 손형섭)는 7일 스페이스쉐어 서울역점에서 &apos;피지컬 AI와 인공지능 보안의 산업적 과제&apos;를 주제로 신년 학술대회를 개최...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/02/02/AKR20260202047100004_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "[게시판] 인공지능산업법학회, 7일 '피지컬 AI와 보안 과제' 학술대회",
+          "original_summary": "▲ 인공지능산업법학회(회장 손형섭)는 7일 스페이스쉐어 서울역점에서 &apos;피지컬 AI와 인공지능 보안의 산업적 과제&apos;를 주제로 신년 학술대회를 개최...",
+          "summary": "• 인공지능산업법학회가 신년 학술대회 개최\n• 7일 서울역 스페이스쉐어에서 열림\n• '피지컬 AI와 AI 보안 과제' 다루\n• 관련 산업 현안과 법적 쟁점 논의",
+          "translated_title": "[게시판] 인공지능산업법학회, 7일 '피지컬 AI와 보안 과제' 학술대회",
+          "category_keyword": "피지컬 AI"
+        },
+        {
+          "title": "C파이썬 vs 파이파이, 어떤 파이썬 런타임의 JIT가 더 뛰어날까?",
+          "link": "https://www.itworld.co.kr/article/4124813/c%ed%8c%8c%ec%9d%b4%ec%8d%ac-vs-%ed%8c%8c%ec%9d%b4%ed%8c%8c%ec%9d%b4-%ec%96%b4%eb%96%a4-%ed%8c%8c%ec%9d%b4%ec%8d%ac-%eb%9f%b0%ed%83%80%ec%9e%84%ec%9d%98-jit%ea%b0%80-%eb%8d%94-%eb%9b%b0%ec%96%b4.html",
+          "date": "2026-02-02",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n파이썬 코드를 실행하는 런타임 파이파이(PyPy)는 특별히 제작된 JIT 컴파일러를 사용해서 전통적인 파이썬 런타임인 C파이썬(CPython) 대비 잠재적으로 상당한 속도 향상을 달성한다.\n\n\n\n그러나 파이파이의 우수한 성능에는 파이썬 생태계 전반, 특히 C 확장과의 호환성 희생이라는 대가가 따른다. 이 문제는 개선되고 있지만 파이파이 런타임 자체가 최신 파이썬 릴리스와 보조를 맞추지 못하고 뒤처지는 경우가 많다.\n\n\n\n한편 최근 C파이썬 릴리스에는 C파이썬의 네이티브 JIT 컴파일러 첫 버전이 포함됐다. 장기적으로 성능 개선을 추구하지만 일부 워크로드에서는 이미 상당한 개선을 확인할 수 있다. 또한 C파이썬에는 GIL을 제거해 완전한 자유 스레딩 연산을 가능하게 하는 새로운 대안 빌드도 추가됐다. 이는 성능 향상을 얻을 수 있는 또 하나의 중요한 경로다.\n\n\n\nC파이썬이 더 나은 성능으로 파이파이를 대체할 만한 궤도에 올라설 수 있을까? J",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/02/4124813-0-36259900-1769994068-shutterstock_1339640861-100936417-orig.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "C파이썬 vs 파이파이, 어떤 파이썬 런타임의 JIT가 더 뛰어날까?",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n파이썬 코드를 실행하는 런타임 파이파이(PyPy)는 특별히 제작된 JIT 컴파일러를 사용해서 전통적인 파이썬 런타임인 C파이썬(CPython) 대비 잠재적으로 상당한 속도 향상을 달성한다.\n\n\n\n그러나 파이파이의 우수한 성능에는 파이썬 생태계 전반, 특히 C 확장과의 호환성 희생이라는 대가가 따른다. 이 문제는 개선되고 있지만 파이파이 런타임 자체가 최신 파이썬 릴리스와 보조를 맞추지 못하고 뒤처지는 경우가 많다.\n\n\n\n한편 최근 C파이썬 릴리스에는 C파이썬의 네이티브 JIT 컴파일러 첫 버",
+          "summary": "• 파이파이는 JIT로 속도 향상 달성\n• C파이썬 대비 잠재적 성능 우위\n• C 확장 호환성 등에 제약 존재\n• 최신 C파이썬도 JIT 지원 추진",
+          "translated_title": "C파이썬 vs 파이파이, 어떤 파이썬 런타임의 JIT가 더 뛰어날까?",
+          "category_keyword": "파이썬 JIT"
+        },
         {
           "title": "지방자치인재개발원 장기교육과정 개시…생성형 AI활용 실습교육",
           "link": "https://www.yna.co.kr/view/AKR20260130173500530",
@@ -56,19 +84,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/personaplex-7b-v1",
-          "link": "https://huggingface.co/nvidia/personaplex-7b-v1",
-          "date": "2026-02-02",
-          "source": "HuggingFace",
-          "description": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
-          "translated_title": "nvidia/personaplex-7b-v1",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "deepseek-ai/DeepSeek-OCR-2",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-OCR-2",
           "date": "2026-02-02",
@@ -78,6 +93,19 @@
           "is_english": true,
           "summary": "• 딥시크 차세대 OCR 모델 'DeepSeek-OCR 2' 공개\n• 인간처럼 이해하는 시각 인코딩 기술 탑재\n• 허깅페이스 통해 모델 무료 다운로드 지원\n• 그래픽카드 기반 추론 환경에서 사용 가능",
           "translated_title": "deepseek-ai/DeepSeek-OCR-2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/personaplex-7b-v1",
+          "link": "https://huggingface.co/nvidia/personaplex-7b-v1",
+          "date": "2026-02-02",
+          "source": "HuggingFace",
+          "description": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
+          "translated_title": "nvidia/personaplex-7b-v1",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -160,19 +188,6 @@
           "category": "AI Model"
         },
         {
-          "title": "lightonai/LightOnOCR-2-1B",
-          "link": "https://huggingface.co/lightonai/LightOnOCR-2-1B",
-          "date": "2026-02-02",
-          "source": "HuggingFace",
-          "description": "• 라이트온 OCR 2, 10억 파라미터 모델 공개\n• 경쟁 모델 대비 최대 5배 빠른 처리 속도\n• 다국어 및 표, 수식 등 문서 지원 강화\n• H100 기준 1장당 1달러 미만 비용 절감",
-          "image": "https://huggingface.co/lightonai/LightOnOCR-2-1B/resolve/main/lightonocr-banner.png",
-          "is_english": true,
-          "summary": "• 라이트온 OCR 2, 10억 파라미터 모델 공개\n• 경쟁 모델 대비 최대 5배 빠른 처리 속도\n• 다국어 및 표, 수식 등 문서 지원 강화\n• H100 기준 1장당 1달러 미만 비용 절감",
-          "translated_title": "lightonai/LightOnOCR-2-1B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "circlestone-labs/Anima",
           "link": "https://huggingface.co/circlestone-labs/Anima",
           "date": "2026-02-02",
@@ -182,6 +197,19 @@
           "is_english": true,
           "summary": "• 애니메이션 전문 고품질 이미지 모델 공개\n• 최대 20억 파라미터 규모의 경량화 설계\n• ComfyUI 기반으로 쉽고 빠른 생성 지원\n• 현재 사전 공개 버전으로 지속 업데이트 예정",
           "translated_title": "circlestone-labs/Anima",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "lightonai/LightOnOCR-2-1B",
+          "link": "https://huggingface.co/lightonai/LightOnOCR-2-1B",
+          "date": "2026-02-02",
+          "source": "HuggingFace",
+          "description": "• 라이트온 OCR 2, 10억 파라미터 모델 공개\n• 경쟁 모델 대비 최대 5배 빠른 처리 속도\n• 다국어 및 표, 수식 등 문서 지원 강화\n• H100 기준 1장당 1달러 미만 비용 절감",
+          "image": "https://huggingface.co/lightonai/LightOnOCR-2-1B/resolve/main/lightonocr-banner.png",
+          "is_english": true,
+          "summary": "• 라이트온 OCR 2, 10억 파라미터 모델 공개\n• 경쟁 모델 대비 최대 5배 빠른 처리 속도\n• 다국어 및 표, 수식 등 문서 지원 강화\n• H100 기준 1장당 1달러 미만 비용 절감",
+          "translated_title": "lightonai/LightOnOCR-2-1B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -225,19 +253,6 @@
           "category": "AI Model"
         },
         {
-          "title": "numind/NuMarkdown-8B-Thinking",
-          "link": "https://huggingface.co/numind/NuMarkdown-8B-Thinking",
-          "date": "2026-02-02",
-          "source": "HuggingFace",
-          "description": "• 휴깅페이스, 추론 OCR 모델 공개\n• 복잡한 문서 마크다운 변환 지원\n• 생성 과정 사고 토큰으로 해석\n• 성능은 기존 모델보다 월등함",
-          "image": "https://huggingface.co/numind/NuMarkdown-8B-Thinking/resolve/main/numind.svg",
-          "is_english": true,
-          "summary": "• 휴깅페이스, 추론 OCR 모델 공개\n• 복잡한 문서 마크다운 변환 지원\n• 생성 과정 사고 토큰으로 해석\n• 성능은 기존 모델보다 월등함",
-          "translated_title": "numind/NuMarkdown-8B-Thinking",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "FlashLabs/Chroma-4B",
           "link": "https://huggingface.co/FlashLabs/Chroma-4B",
           "date": "2026-02-02",
@@ -251,15 +266,15 @@
           "category": "AI Model"
         },
         {
-          "title": "meituan-longcat/LongCat-Flash-Lite",
-          "link": "https://huggingface.co/meituan-longcat/LongCat-Flash-Lite",
+          "title": "numind/NuMarkdown-8B-Thinking",
+          "link": "https://huggingface.co/numind/NuMarkdown-8B-Thinking",
           "date": "2026-02-02",
           "source": "HuggingFace",
-          "description": "• 메이투안, 대규모 AI 모델 롱캣 공개\n• 전문가 혼합 기반 685억 개 파라미터\n• 실제 활용 파라미터는 약 30억 개\n• 최대 26만 토큰 컨텍스트 지원",
-          "image": "https://raw.githubusercontent.com/meituan-longcat/LongCat-Flash-Chat/main/figures/longcat_logo.svg",
+          "description": "• 휴깅페이스, 추론 OCR 모델 공개\n• 복잡한 문서 마크다운 변환 지원\n• 생성 과정 사고 토큰으로 해석\n• 성능은 기존 모델보다 월등함",
+          "image": "https://huggingface.co/numind/NuMarkdown-8B-Thinking/resolve/main/numind.svg",
           "is_english": true,
-          "summary": "• 메이투안, 대규모 AI 모델 롱캣 공개\n• 전문가 혼합 기반 685억 개 파라미터\n• 실제 활용 파라미터는 약 30억 개\n• 최대 26만 토큰 컨텍스트 지원",
-          "translated_title": "meituan-longcat/LongCat-Flash-Lite",
+          "summary": "• 휴깅페이스, 추론 OCR 모델 공개\n• 복잡한 문서 마크다운 변환 지원\n• 생성 과정 사고 토큰으로 해석\n• 성능은 기존 모델보다 월등함",
+          "translated_title": "numind/NuMarkdown-8B-Thinking",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -275,13 +290,40 @@
           "translated_title": "Qwen/Qwen3-ASR-0.6B",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "meituan-longcat/LongCat-Flash-Lite",
+          "link": "https://huggingface.co/meituan-longcat/LongCat-Flash-Lite",
+          "date": "2026-02-02",
+          "source": "HuggingFace",
+          "description": "• 메이투안, 대규모 AI 모델 롱캣 공개\n• 전문가 혼합 기반 685억 개 파라미터\n• 실제 활용 파라미터는 약 30억 개\n• 최대 26만 토큰 컨텍스트 지원",
+          "image": "https://raw.githubusercontent.com/meituan-longcat/LongCat-Flash-Chat/main/figures/longcat_logo.svg",
+          "is_english": true,
+          "summary": "• 메이투안, 대규모 AI 모델 롱캣 공개\n• 전문가 혼합 기반 685억 개 파라미터\n• 실제 활용 파라미터는 약 30억 개\n• 최대 26만 토큰 컨텍스트 지원",
+          "translated_title": "meituan-longcat/LongCat-Flash-Lite",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-02-01",
-      "update_time": "2026-02-01 21:14:35",
+      "update_time": "2026-02-02 01:12:01",
       "news": [
+        {
+          "title": "AI 해고고용, 아니면 'AI 위장'일까?",
+          "link": "https://techcrunch.com/2026/02/01/ai-layoffs-or-ai-washing/",
+          "date": "2026-02-01",
+          "source": "TechCrunch",
+          "description": "How many of the companies with recent layoffs are just using AI as an excuse? ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2247697590.jpg?resize=1200,686",
+          "is_english": true,
+          "original_title": "AI layoffs or ‘AI-washing’?",
+          "original_summary": "How many of the companies with recent layoffs are just using AI as an excuse? ",
+          "summary": "• 기업들이 AI를 해고의 구실로 활용\n• 실제 AI 도입 여부와 무관한 정리해고\n• 'AI 세탁'을 통한 비용 절감 시도 우려\n• AI 변화 핑계로 인력 감축 의심",
+          "translated_title": "AI 해고고용, 아니면 'AI 위장'일까?",
+          "category_keyword": "AI 위장"
+        },
         {
           "title": "테더 CEO, 최근 화제의 중심에 선 이유",
           "link": "https://techcrunch.com/2026/02/01/why-tethers-ceo-is-everywhere-right-now/",
