@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-02-04",
-      "update_time": "2026-02-03 15:40:57",
+      "update_time": "2026-02-03 18:43:12",
       "news": [
         {
           "title": "moonshotai/Kimi-K2.5",
@@ -14,19 +14,6 @@
           "is_english": true,
           "summary": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
           "translated_title": "moonshotai/Kimi-K2.5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "Tongyi-MAI/Z-Image",
-          "link": "https://huggingface.co/Tongyi-MAI/Z-Image",
-          "date": "2026-02-04",
-          "source": "HuggingFace",
-          "description": "• 통이MAI, 고품질 이미지 생성 모델 Z-Image 공개\n• 단일 스트림 디퓨전 트랜스포머 기술 탑재\n• 다양한 스타일과 정교한 프롬프트 준수 지원\n• HuggingFace에서 모델 체크포인트 다운로드 제공",
-          "image": "https://img.shields.io/badge/Official%20Site-333399.svg?logo=homepage",
-          "is_english": true,
-          "summary": "• 통이MAI, 고품질 이미지 생성 모델 Z-Image 공개\n• 단일 스트림 디퓨전 트랜스포머 기술 탑재\n• 다양한 스타일과 정교한 프롬프트 준수 지원\n• HuggingFace에서 모델 체크포인트 다운로드 제공",
-          "translated_title": "Tongyi-MAI/Z-Image",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -44,6 +31,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Tongyi-MAI/Z-Image",
+          "link": "https://huggingface.co/Tongyi-MAI/Z-Image",
+          "date": "2026-02-04",
+          "source": "HuggingFace",
+          "description": "• 통이MAI, 고품질 이미지 생성 모델 Z-Image 공개\n• 단일 스트림 디퓨전 트랜스포머 기술 탑재\n• 다양한 스타일과 정교한 프롬프트 준수 지원\n• HuggingFace에서 모델 체크포인트 다운로드 제공",
+          "image": "https://img.shields.io/badge/Official%20Site-333399.svg?logo=homepage",
+          "is_english": true,
+          "summary": "• 통이MAI, 고품질 이미지 생성 모델 Z-Image 공개\n• 단일 스트림 디퓨전 트랜스포머 기술 탑재\n• 다양한 스타일과 정교한 프롬프트 준수 지원\n• HuggingFace에서 모델 체크포인트 다운로드 제공",
+          "translated_title": "Tongyi-MAI/Z-Image",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "nvidia/personaplex-7b-v1",
           "link": "https://huggingface.co/nvidia/personaplex-7b-v1",
           "date": "2026-02-04",
@@ -57,28 +57,15 @@
           "category": "AI Model"
         },
         {
-          "title": "deepseek-ai/DeepSeek-OCR-2",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-OCR-2",
+          "title": "zai-org/GLM-OCR",
+          "link": "https://huggingface.co/zai-org/GLM-OCR",
           "date": "2026-02-04",
           "source": "HuggingFace",
-          "description": "• 딥시크 차세대 OCR 모델 'DeepSeek-OCR 2' 공개\n• 인간처럼 이해하는 시각 인코딩 기술 탑재\n• 허깅페이스 통해 모델 무료 다운로드 지원\n• 그래픽카드 기반 추론 환경에서 사용 가능",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
+          "description": "• 훼이스, 차세대 OCR 모델 GLM-OCR 공개\n• 복잡한 문서 이해 및 레이아웃 분석 지원\n• 글로벌 벤치마크에서 1위 차지함\n• 가벼운 모델로 빠른 추론 속도 제공",
+          "image": "https://raw.githubusercontent.com/zai-org/GLM-OCR/refs/heads/main/resources/docparse.png",
           "is_english": true,
-          "summary": "• 딥시크 차세대 OCR 모델 'DeepSeek-OCR 2' 공개\n• 인간처럼 이해하는 시각 인코딩 기술 탑재\n• 허깅페이스 통해 모델 무료 다운로드 지원\n• 그래픽카드 기반 추론 환경에서 사용 가능",
-          "translated_title": "deepseek-ai/DeepSeek-OCR-2",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "Qwen/Qwen3-ASR-1.7B",
-          "link": "https://huggingface.co/Qwen/Qwen3-ASR-1.7B",
-          "date": "2026-02-04",
-          "source": "HuggingFace",
-          "description": "• 52개 언어 식별 및 음성 인식 지원\n• 최고 수준의 오픈소스 성능 입증\n• 스트리밍 통합 추론 기능 제공\n• 강력한 성능의 추론 툴킷 공개",
-          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-ASR-Repo/qwen3_asr_introduction.png",
-          "is_english": true,
-          "summary": "• 52개 언어 식별 및 음성 인식 지원\n• 최고 수준의 오픈소스 성능 입증\n• 스트리밍 통합 추론 기능 제공\n• 강력한 성능의 추론 툴킷 공개",
-          "translated_title": "Qwen/Qwen3-ASR-1.7B",
+          "summary": "• 훼이스, 차세대 OCR 모델 GLM-OCR 공개\n• 복잡한 문서 이해 및 레이아웃 분석 지원\n• 글로벌 벤치마크에서 1위 차지함\n• 가벼운 모델로 빠른 추론 속도 제공",
+          "translated_title": "zai-org/GLM-OCR",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -96,15 +83,28 @@
           "category": "AI Model"
         },
         {
-          "title": "zai-org/GLM-OCR",
-          "link": "https://huggingface.co/zai-org/GLM-OCR",
+          "title": "Qwen/Qwen3-ASR-1.7B",
+          "link": "https://huggingface.co/Qwen/Qwen3-ASR-1.7B",
           "date": "2026-02-04",
           "source": "HuggingFace",
-          "description": "• 훼이스, 차세대 OCR 모델 GLM-OCR 공개\n• 복잡한 문서 이해 및 레이아웃 분석 지원\n• 글로벌 벤치마크에서 1위 차지함\n• 가벼운 모델로 빠른 추론 속도 제공",
-          "image": "https://raw.githubusercontent.com/zai-org/GLM-OCR/refs/heads/main/resources/docparse.png",
+          "description": "• 52개 언어 식별 및 음성 인식 지원\n• 최고 수준의 오픈소스 성능 입증\n• 스트리밍 통합 추론 기능 제공\n• 강력한 성능의 추론 툴킷 공개",
+          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-ASR-Repo/qwen3_asr_introduction.png",
           "is_english": true,
-          "summary": "• 훼이스, 차세대 OCR 모델 GLM-OCR 공개\n• 복잡한 문서 이해 및 레이아웃 분석 지원\n• 글로벌 벤치마크에서 1위 차지함\n• 가벼운 모델로 빠른 추론 속도 제공",
-          "translated_title": "zai-org/GLM-OCR",
+          "summary": "• 52개 언어 식별 및 음성 인식 지원\n• 최고 수준의 오픈소스 성능 입증\n• 스트리밍 통합 추론 기능 제공\n• 강력한 성능의 추론 툴킷 공개",
+          "translated_title": "Qwen/Qwen3-ASR-1.7B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-OCR-2",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-OCR-2",
+          "date": "2026-02-04",
+          "source": "HuggingFace",
+          "description": "• 딥시크 차세대 OCR 모델 'DeepSeek-OCR 2' 공개\n• 인간처럼 이해하는 시각 인코딩 기술 탑재\n• 허깅페이스 통해 모델 무료 다운로드 지원\n• 그래픽카드 기반 추론 환경에서 사용 가능",
+          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
+          "is_english": true,
+          "summary": "• 딥시크 차세대 OCR 모델 'DeepSeek-OCR 2' 공개\n• 인간처럼 이해하는 시각 인코딩 기술 탑재\n• 허깅페이스 통해 모델 무료 다운로드 지원\n• 그래픽카드 기반 추론 환경에서 사용 가능",
+          "translated_title": "deepseek-ai/DeepSeek-OCR-2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -135,19 +135,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
-          "link": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
-          "date": "2026-02-04",
-          "source": "HuggingFace",
-          "description": "• 10개 언어를 지원하는 차세대 AI 음성 모델 공개\n• 텍스트 의미에 따라 감정과 속도 자동 조절\n• 실시간 대화 가능한 97ms 초저지연 구현\n• 간소화된 구조로 음성 품질과 효율성 극대화",
-          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-TTS-Repo/qwen3_tts_introduction.png",
-          "is_english": true,
-          "summary": "• 10개 언어를 지원하는 차세대 AI 음성 모델 공개\n• 텍스트 의미에 따라 감정과 속도 자동 조절\n• 실시간 대화 가능한 97ms 초저지연 구현\n• 간소화된 구조로 음성 품질과 효율성 극대화",
-          "translated_title": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "robbyant/lingbot-world-base-cam",
           "link": "https://huggingface.co/robbyant/lingbot-world-base-cam",
           "date": "2026-02-04",
@@ -161,15 +148,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Comfy-Org/z_image",
-          "link": "https://huggingface.co/Comfy-Org/z_image",
+          "title": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+          "link": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
           "date": "2026-02-04",
           "source": "HuggingFace",
-          "description": "• z_image AI 모델 공개\n• HuggingFace에서 트렌딩 중\n• 다운로드 및 상세 정보는 링크에서\n• 최신 오픈소스 AI 기술",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "description": "• 10개 언어를 지원하는 차세대 AI 음성 모델 공개\n• 텍스트 의미에 따라 감정과 속도 자동 조절\n• 실시간 대화 가능한 97ms 초저지연 구현\n• 간소화된 구조로 음성 품질과 효율성 극대화",
+          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-TTS-Repo/qwen3_tts_introduction.png",
           "is_english": true,
-          "summary": "• z_image AI 모델 공개\n• HuggingFace에서 트렌딩 중\n• 다운로드 및 상세 정보는 링크에서\n• 최신 오픈소스 AI 기술",
-          "translated_title": "Comfy-Org/z_image",
+          "summary": "• 10개 언어를 지원하는 차세대 AI 음성 모델 공개\n• 텍스트 의미에 따라 감정과 속도 자동 조절\n• 실시간 대화 가능한 97ms 초저지연 구현\n• 간소화된 구조로 음성 품질과 효율성 극대화",
+          "translated_title": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,6 +226,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Comfy-Org/z_image",
+          "link": "https://huggingface.co/Comfy-Org/z_image",
+          "date": "2026-02-04",
+          "source": "HuggingFace",
+          "description": "• z_image AI 모델 공개\n• HuggingFace에서 트렌딩 중\n• 다운로드 및 상세 정보는 링크에서\n• 최신 오픈소스 AI 기술",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• z_image AI 모델 공개\n• HuggingFace에서 트렌딩 중\n• 다운로드 및 상세 정보는 링크에서\n• 최신 오픈소스 AI 기술",
+          "translated_title": "Comfy-Org/z_image",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "arcee-ai/Trinity-Large-Preview",
           "link": "https://huggingface.co/arcee-ai/Trinity-Large-Preview",
           "date": "2026-02-04",
@@ -252,15 +252,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Phr00t/LTX2-Rapid-Merges",
-          "link": "https://huggingface.co/Phr00t/LTX2-Rapid-Merges",
+          "title": "Qwen/Qwen3-Coder-Next",
+          "link": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
           "date": "2026-02-04",
           "source": "HuggingFace",
-          "description": "• LTX2 동영상 모델 FP8 버전 공개\n• 고성능 워크플로우 파일 업로드\n• 이미지 및 텍스트 생성 영상 지원\n• 다양한 버전 기능 업데이트 완료",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
+          "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Coder-Next/benchmarks.png",
           "is_english": true,
-          "summary": "• LTX2 동영상 모델 FP8 버전 공개\n• 고성능 워크플로우 파일 업로드\n• 이미지 및 텍스트 생성 영상 지원\n• 다양한 버전 기능 업데이트 완료",
-          "translated_title": "Phr00t/LTX2-Rapid-Merges",
+          "summary": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
+          "translated_title": "Qwen/Qwen3-Coder-Next",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -268,8 +268,78 @@
     },
     {
       "date": "2026-02-03",
-      "update_time": "2026-02-03 15:40:50",
+      "update_time": "2026-02-03 18:43:08",
       "news": [
+        {
+          "title": "소라 피드(Sora Feed)의 철학",
+          "link": "https://openai.com/index/sora-feed-philosophy",
+          "date": "2026-02-03",
+          "source": "OpenAI",
+          "description": "Discover the Sora feed philosophy—built to spark creativity, foster connections, and keep experiences safe with personalized recommendations, parental controls, and strong guardrails.",
+          "image": null,
+          "is_english": true,
+          "original_title": "The Sora feed philosophy",
+          "original_summary": "Discover the Sora feed philosophy—built to spark creativity, foster connections, and keep experiences safe with personalized recommendations, parental controls, and strong guardrails.",
+          "summary": "• 창의성을 자극하고 연결을 촉진함\n• 개인화된 추천 기능 제공\n• 부모 통제 기능 지원\n• 강력한 안전장치 마련",
+          "translated_title": "소라 피드(Sora Feed)의 철학",
+          "category_keyword": "소라"
+        },
+        {
+          "title": "애플 Xcode, 앤스로픽과 오픈AI 에이전트로 에이전트 코딩 지원",
+          "link": "https://techcrunch.com/2026/02/03/agentic-coding-comes-to-apples-xcode-26-3-with-agents-from-anthropic-and-openai/",
+          "date": "2026-02-03",
+          "source": "TechCrunch",
+          "description": "Xcode 26.3 offers agentic coding capabilities with Anthropic's Claude Agent and OpenAI's Codex.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/Apple-Xcode-agentic-coding-hero.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Agentic coding comes to Apple’s Xcode with agents from Anthropic and OpenAI",
+          "original_summary": "Xcode 26.3 offers agentic coding capabilities with Anthropic's Claude Agent and OpenAI's Codex.",
+          "summary": "• Xcode 26.3에서 에이전트 코딩 지원\n• 앤스로픽의 클로드 에이전트 탑재\n• 오픈AI의 코덱스(CodeX) 활용\n• AI 기반 코딩 보조 기능 강화",
+          "translated_title": "애플 Xcode, 앤스로픽과 오픈AI 에이전트로 에이전트 코딩 지원",
+          "category_keyword": "Xcode"
+        },
+        {
+          "title": "로터스 헬스, 무료 진료하는 AI 의사로 3,500만 달러 투자 유치",
+          "link": "https://techcrunch.com/2026/02/03/lotus-health-nabs-35m-for-ai-doctor-that-sees-patients-for-free/",
+          "date": "2026-02-03",
+          "source": "TechCrunch",
+          "description": "This AI doctor is licensed in all 50 states, the startup says. The deal was led by CRV and Kleiner Perkins. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/investor_CRV_01.jpg?resize=1200,1069",
+          "is_english": true,
+          "original_title": "Lotus Health nabs $35M for AI doctor that sees patients for free",
+          "original_summary": "This AI doctor is licensed in all 50 states, the startup says. The deal was led by CRV and Kleiner Perkins. ",
+          "summary": "• AI 의사가 무료로 진료 제공\n• 미국 50개주 면허 취득\n• CRV와 클라이너 퍼킨스 주도\n• 3,500만 달러 투자 유치 성공",
+          "translated_title": "로터스 헬스, 무료 진료하는 AI 의사로 3,500만 달러 투자 유치",
+          "category_keyword": "AI 의사"
+        },
+        {
+          "title": "핏빗 창업자들, 가족 건강 모니터링 AI 플랫폼 런치",
+          "link": "https://techcrunch.com/2026/02/03/fitbit-founders-launch-ai-platform-to-help-families-monitor-their-health/",
+          "date": "2026-02-03",
+          "source": "TechCrunch",
+          "description": "Luffu uses AI in the background to gather and organize family information, learn day-to-day patterns, and flag notable changes so families can stay aligned and address potential well-being issues. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/Luffu_Family_Morning_Land.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "Fitbit founders launch AI platform to help families monitor their health",
+          "original_summary": "Luffu uses AI in the background to gather and organize family information, learn day-to-day patterns, and flag notable changes so families can stay aligned and address potential well-being issues. ",
+          "summary": "• 가족 정보를 백그라운드로 수집\n• 일상 패턴을 학습하고 분석\n• 건강 변화 사항을 자동 감지\n• 잠재적 문제에 대응 지원",
+          "translated_title": "핏빗 창업자들, 가족 건강 모니터링 AI 플랫폼 런치",
+          "category_keyword": "러푸(Luffu)"
+        },
+        {
+          "title": "스마트, 노인 케어 혁신 위한 웨어러블 이미징 연구단 출범",
+          "link": "https://news.mit.edu/2026/smart-launches-wearable-imaging-transforming-elderly-care-research-group-0203",
+          "date": "2026-02-03",
+          "source": "MIT News",
+          "description": "WITEC is working to develop the first wearable ultrasound imaging system to monitor chronic conditions in real-time, with the goal of enabling earlier detection and timely intervention.",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/smart-witec-patch-prototype-00_0.jpeg?itok=EHlc_92n",
+          "is_english": true,
+          "original_title": "SMART launches new Wearable Imaging for Transforming Elderly Care research group",
+          "original_summary": "WITEC is working to develop the first wearable ultrasound imaging system to monitor chronic conditions in real-time, with the goal of enabling earlier detection and timely intervention.",
+          "summary": "• 웨어러블 초음파 영상 시스템 개발\n• 만성질환 실시간 모니터링 목표\n• 조기 발견 및 적시 대응 추구\n• 노인 돌봄 혁신 연구 추진",
+          "translated_title": "스마트, 노인 케어 혁신 위한 웨어러블 이미징 연구단 출범",
+          "category_keyword": "WITEC"
+        },
         {
           "title": "Peak XV, 인공지능 집중과 함께 파트너 이탈은 내부 의견 차이로 설명",
           "link": "https://techcrunch.com/2026/02/03/peak-xv-says-internal-disagreement-led-to-partner-exits-as-it-doubles-down-on-ai/",
