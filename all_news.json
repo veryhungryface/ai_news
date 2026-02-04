@@ -2,8 +2,106 @@
   "dates": [
     {
       "date": "2026-02-04",
-      "update_time": "2026-02-04 09:35:23",
+      "update_time": "2026-02-04 12:36:55",
       "news": [
+        {
+          "title": "MS, '오픈클로' 집중 테스트 후 보안 경고...\"신뢰할 수 있는 제품 아니야\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=206396",
+          "date": "2026-02-04",
+          "source": "AI타임스",
+          "description": "사티아 나델라 CEO를 비롯한 마이크로소프트 임직원들이 화제의 AI 에이전트 \\'오픈클로(OpenClaw)\\'를 집중적으로 테스트한 것으로 알려졌다. 내부적으로는 보안 문제로 인해 소비자용 제품은 아니라는 결론을 내린 것으로 밝혀졌다.3일(현지시간) 디 인포메이션에 따르면, 나델라 CEO는 최근 내부 임원들에게 보낸 메시지를 통해 오픈클로를 테스트하기 시작했다고 밝혔다.이는 입소문이 퍼지기 시작한 지난달 말부터로 알려졌다. 나델라 CEO는 자신이 어떻게 활용했는지 직접 설명했으며, 직원들에게도 이 제품을 사용해 보고 기술을 어떻게 적용",
+          "image": "https://cdn.aitimes.com/news/photo/202602/206396_208356_3742.jpg",
+          "is_english": false,
+          "original_title": "MS, '오픈클로' 집중 테스트 후 보안 경고...\"신뢰할 수 있는 제품 아니야\"",
+          "original_summary": "사티아 나델라 CEO를 비롯한 마이크로소프트 임직원들이 화제의 AI 에이전트 \\'오픈클로(OpenClaw)\\'를 집중적으로 테스트한 것으로 알려졌다. 내부적으로는 보안 문제로 인해 소비자용 제품은 아니라는 결론을 내린 것으로 밝혀졌다.3일(현지시간) 디 인포메이션에 따르면, 나델라 CEO는 최근 내부 임원들에게 보낸 메시지를 통해 오픈클로를 테스트하기 시작했다고 밝혔다.이는 입소문이 퍼지기 시작한 지난달 말부터로 알려졌다. 나델라 CEO는 자신이 어떻게 활용했는지 직접 설명했으며, 직원들에게도 이 제품을 사용해 보고 기술을 어떻게 ",
+          "summary": "• MS 임직원, AI 에이전트 오픈클로 테스트\n• 내부 보안 문제로 소비자용 제외 결론\n• 나델라 CEO, 직원들에 사용 직접 권유\n• 입소문 확산된 지난달 말부터 시작",
+          "translated_title": "MS, '오픈클로' 집중 테스트 후 보안 경고...\"신뢰할 수 있는 제품 아니야\"",
+          "category_keyword": "오픈클로"
+        },
+        {
+          "title": "MS, 에이전트 문맥 강화로 코딩 벤치마크 신기록 달성한 ‘RPG-인코더’ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=206391",
+          "date": "2026-02-04",
+          "source": "AI타임스",
+          "description": "코딩 에이전트가 대규모 코드베이스를 제대로 이해하는 시대가 성큼 다가왔다. 마이크로소프트(MS)가 코드의 의미와 구조를 하나로 묶는 새로운 인코딩 프레임워크를 공개하며, 저장소(repository) 단위 개발 자동화의 정확도와 효율을 동시에 끌어올렸다.MS는 3일(현지시간) 코딩 에이전트의 \\'문맥 파악\\' 능력을 극대화한 인코딩 프레임워크 ‘RPG-인코더(RPG-Encoder)’를 온라인 아카이브를 통해 공개했다.RPG-인코더는 기존 코딩 에이전트들이 자주 겪던 ‘문맥을 제대로 이해하지 못하는 문제’를 해결하기 위해 나왔다. 그동안",
+          "image": "https://cdn.aitimes.com/news/photo/202602/206391_208351_2328.png",
+          "is_english": false,
+          "original_title": "MS, 에이전트 문맥 강화로 코딩 벤치마크 신기록 달성한 ‘RPG-인코더’ 공개",
+          "original_summary": "코딩 에이전트가 대규모 코드베이스를 제대로 이해하는 시대가 성큼 다가왔다. 마이크로소프트(MS)가 코드의 의미와 구조를 하나로 묶는 새로운 인코딩 프레임워크를 공개하며, 저장소(repository) 단위 개발 자동화의 정확도와 효율을 동시에 끌어올렸다.MS는 3일(현지시간) 코딩 에이전트의 \\'문맥 파악\\' 능력을 극대화한 인코딩 프레임워크 ‘RPG-인코더(RPG-Encoder)’를 온라인 아카이브를 통해 공개했다.RPG-인코더는 기존 코딩 에이전트들이 자주 겪던 ‘문맥을 제대로 이해하지 못하는 문제’를 해결하기 위해 나왔다. 그동",
+          "summary": "• MS, 대규모 코드베이스 이해 프레임워크 공개\n• RPG-인코더로 문맥 파악 능력 극대화\n• 저장소 단위 개발 자동화 정확도 향상\n• 기존 코딩 에이전트의 문맥 오해 문제 해결",
+          "translated_title": "MS, 에이전트 문맥 강화로 코딩 벤치마크 신기록 달성한 ‘RPG-인코더’ 공개",
+          "category_keyword": "RPG-인코더"
+        },
+        {
+          "title": "알리바바, 80B 로컬 코딩 에이전트 모델 ‘큐원3-코더-넥스트’ 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=206380",
+          "date": "2026-02-04",
+          "source": "AI타임스",
+          "description": "알리바바가 코딩 에이전트와 로컬 개발 환경을 동시에 겨냥한 오픈 웨이트 코딩 모델을 공개했다. 알리바바는 3일(현지시간) 코딩 에이전트 및 로컬 개발에 특화된 오픈 웨이트 언어 모델 ‘큐원3-코더-넥스트(Qwen3-Coder-Next)’를 공개했다. 모델은 상업적 이용이 가능한 아파치 2.0 라이선스로 공개됐으며, 허깅페이스를 통해 여러 변형 버전과 기술 보고서가 배포됐다.800억개 매개변수를 갖춘 언어모델이지만, 희소(sparse) 전문가 혼합(MoE) 구조를 적용해 실제 추론 시에는 약 30억개 매개변수만 활성화된다. 이를 통해",
+          "image": "https://cdn.aitimes.com/news/photo/202602/206380_208344_4217.jpg",
+          "is_english": false,
+          "original_title": "알리바바, 80B 로컬 코딩 에이전트 모델 ‘큐원3-코더-넥스트’ 출시",
+          "original_summary": "알리바바가 코딩 에이전트와 로컬 개발 환경을 동시에 겨냥한 오픈 웨이트 코딩 모델을 공개했다. 알리바바는 3일(현지시간) 코딩 에이전트 및 로컬 개발에 특화된 오픈 웨이트 언어 모델 ‘큐원3-코더-넥스트(Qwen3-Coder-Next)’를 공개했다. 모델은 상업적 이용이 가능한 아파치 2.0 라이선스로 공개됐으며, 허깅페이스를 통해 여러 변형 버전과 기술 보고서가 배포됐다.800억개 매개변수를 갖춘 언어모델이지만, 희소(sparse) 전문가 혼합(MoE) 구조를 적용해 실제 추론 시에는 약 30억개 매개변수만 활성화된다. 이를 통해",
+          "summary": "• 알리바바, 오픈 웨이트 코딩 모델 공개\n• 상업적 이용 가능한 아파치 2.0 라이선스\n• 희소 MoE 구조로 추론 효율성 극대화\n• 실제 활성화 매개변수는 30억개 수준",
+          "translated_title": "알리바바, 80B 로컬 코딩 에이전트 모델 ‘큐원3-코더-넥스트’ 출시",
+          "category_keyword": "큐원3-코더"
+        },
+        {
+          "title": "오픈AI 퇴사한 수석 연구원, '지속 학습' 모델 스타트업 설립...\"오픈AI는 LLM 경쟁에 집중\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=206379",
+          "date": "2026-02-04",
+          "source": "AI타임스",
+          "description": "오픈AI의 핵심 연구원이 회사의 연구 방침에 반발, 스타트업 창립을 위해 떠난 것으로 밝혀졌다. 그는 새롭게 떠오르는 \\'지속 학습(Continual Learning)\\'을 연구할 생각이었지만, 실험적인 프로젝트에 컴퓨팅 리소스를 내줄 수 없다는 내부의 반대에 부딪힌 것으로 알려졌다.디 인포메이션과 파이낸셜 타임스는 제리 트워렉 부사장 겸 수석 연구원이 지난달 오픈AI를 떠나 코어 오토메이션(Core Automation)을 설립했다고 보도했다.트워렉 부사장은 지난달 6일 X(트위터)를 통해 \\\"오픈AI에서 하기 어려운 연구 유형을 탐구하",
+          "image": "https://cdn.aitimes.com/news/photo/202602/206379_208341_639.png",
+          "is_english": false,
+          "original_title": "오픈AI 퇴사한 수석 연구원, '지속 학습' 모델 스타트업 설립...\"오픈AI는 LLM 경쟁에 집중\"",
+          "original_summary": "오픈AI의 핵심 연구원이 회사의 연구 방침에 반발, 스타트업 창립을 위해 떠난 것으로 밝혀졌다. 그는 새롭게 떠오르는 \\'지속 학습(Continual Learning)\\'을 연구할 생각이었지만, 실험적인 프로젝트에 컴퓨팅 리소스를 내줄 수 없다는 내부의 반대에 부딪힌 것으로 알려졌다.디 인포메이션과 파이낸셜 타임스는 제리 트워렉 부사장 겸 수석 연구원이 지난달 오픈AI를 떠나 코어 오토메이션(Core Automation)을 설립했다고 보도했다.트워렉 부사장은 지난달 6일 X(트위터)를 통해 \\\"오픈AI에서 하기 어려운 연구 유형을 ",
+          "summary": "• 오픈AI 수석 연구원, 지속 학습 스타트업 창업\n• 실험적 프로젝트 지원 미달로 퇴사 결정\n• LLM 경쟁에 집중하는 오픈AI 방침 이탈\n• 컴퓨팅 리소스 확보 문제로 내부 반대",
+          "translated_title": "오픈AI 퇴사한 수석 연구원, '지속 학습' 모델 스타트업 설립...\"오픈AI는 LLM 경쟁에 집중\"",
+          "category_keyword": "지속 학습"
+        },
+        {
+          "title": "스텝펀, 1960억 매개변수 고성능 추론 모델 ‘스텝 3.5 플래시’ 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=206375",
+          "date": "2026-02-04",
+          "source": "AI타임스",
+          "description": "중국의 스텝펀이 상대적으로 작은 규모에도 불구하고 추론과 에이전트 능력에서 대형 모델들을 앞선다는 경량 AI 모델을 공개했다.스텝펀은 3일(현지시간) 고급 추론과 에이전트형 기능을 강화한 신규 오픈소스 AI 모델 ‘스텝 3.5 플래시(Step 3.5 Flash)’를 공개했다.이 모델은 성능 대비 효율과 응답 속도를 동시에 끌어올린 것이 강점으로, 깃허브를 통해 자유롭게 사용할 수 있다.스텝 3.5 플래시는 약 1960억 매개변수를 갖춘 모델로, 1조 매개변수 규모의 문샷 AI ‘키미 K2.5’, 6710억 매개변수의 \\'딥시크-V3.",
+          "image": "https://cdn.aitimes.com/news/photo/202602/206375_208338_555.png",
+          "is_english": false,
+          "original_title": "스텝펀, 1960억 매개변수 고성능 추론 모델 ‘스텝 3.5 플래시’ 출시",
+          "original_summary": "중국의 스텝펀이 상대적으로 작은 규모에도 불구하고 추론과 에이전트 능력에서 대형 모델들을 앞선다는 경량 AI 모델을 공개했다.스텝펀은 3일(현지시간) 고급 추론과 에이전트형 기능을 강화한 신규 오픈소스 AI 모델 ‘스텝 3.5 플래시(Step 3.5 Flash)’를 공개했다.이 모델은 성능 대비 효율과 응답 속도를 동시에 끌어올린 것이 강점으로, 깃허브를 통해 자유롭게 사용할 수 있다.스텝 3.5 플래시는 약 1960억 매개변수를 갖춘 모델로, 1조 매개변수 규모의 문샷 AI ‘키미 K2.5’, 6710억 매개변수의 \\'딥시크-V3",
+          "summary": "• 스텝펀, 경량 AI 모델 스텝 3.5 플래시 공개\n• 대형 모델 제치고 추론 능력 입증\n• 1960억 매개변수로 효율성 강조\n• 깃허브 통해 오픈소스로 자유 사용 가능",
+          "translated_title": "스텝펀, 1960억 매개변수 고성능 추론 모델 ‘스텝 3.5 플래시’ 출시",
+          "category_keyword": "스텝 3.5 플래시"
+        },
+        {
+          "title": "알트먼 “몰트북, 유행에 그칠 수도...하지만 자율 AI 에이전트는 미래”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=206374",
+          "date": "2026-02-04",
+          "source": "AI타임스",
+          "description": "AI 에이전트만 활동하는 소셜 네트워크 ‘몰트북(Moltbook)’이 화제를 모으는 가운데, 이를 바라보는 빅테크 수장들은 엇갈린 평가를 내놓고 있다. 일부는 자율형 AI 에이전트의 미래를 엿볼 수 있는 실험으로 평가했지만, 다른 한편에서는 인간의 과도한 의미 부여가 만들어낸 착시에 불과하다며 경계의 목소리를 냈다.샘 알트먼 오픈AI CEO는 3일(현지시간) 미국 샌프란시스코에서 열린 ‘시스코 AI 서밋’에서 몰트북을 두고 “일시적인 유행일 수 있다”라고 평가하면서도, 그 배경에 깔린 기술적 의미는 작지 않다고 강조했다.레딧과 유사",
+          "image": "https://cdn.aitimes.com/news/photo/202602/206374_208335_103.png",
+          "is_english": false,
+          "original_title": "알트먼 “몰트북, 유행에 그칠 수도...하지만 자율 AI 에이전트는 미래”",
+          "original_summary": "AI 에이전트만 활동하는 소셜 네트워크 ‘몰트북(Moltbook)’이 화제를 모으는 가운데, 이를 바라보는 빅테크 수장들은 엇갈린 평가를 내놓고 있다. 일부는 자율형 AI 에이전트의 미래를 엿볼 수 있는 실험으로 평가했지만, 다른 한편에서는 인간의 과도한 의미 부여가 만들어낸 착시에 불과하다며 경계의 목소리를 냈다.샘 알트먼 오픈AI CEO는 3일(현지시간) 미국 샌프란시스코에서 열린 ‘시스코 AI 서밋’에서 몰트북을 두고 “일시적인 유행일 수 있다”라고 평가하면서도, 그 배경에 깔린 기술적 의미는 작지 않다고 강조했다.레딧과 유사",
+          "summary": "• 몰트북, 자율 AI 에이전트 소셜 네트워크\n• 빅테크 수장들, 엇갈린 평가 내놓아\n• 알트먼 CEO, 유행 가능성 인정하나 기술 강조\n• AI 에이전트 상호작용의 미래 의미 부여",
+          "translated_title": "알트먼 “몰트북, 유행에 그칠 수도...하지만 자율 AI 에이전트는 미래”",
+          "category_keyword": "몰트북"
+        },
+        {
+          "title": "﻿[게시판] 에이딘로보틱스, 로봇용 센서 ‘IR52 장영실상’ 수상 등 단신",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=206401",
+          "date": "2026-02-04",
+          "source": "AI타임스",
+          "description": "■ 로봇용 센서 전문 에이딘로보틱스(대표 최혁렬, 이윤행)는 ‘초소형 6축 힘∙토크 센서’가 한국산업기술진흥협회에서 주관하는 IR52 장영실상을 수상했다고 밝혔다. 전 세계에서 가장 작은 사이즈로 제작됐으며 휴머노이드 로봇을 비롯해 그리퍼 등 세밀한 부위에 장착해 사람의 감각처럼 물리적인 힘과 토크를 감지하도록 설계됐다. 특히 특허 기술인 \\'프린지 이펙트\\'를 결합해 센서의 민감도와 강성을 극대화한 것이 특징이다.■ AI 데이터 전문 유클릭(대표 김철)은 \\'오라클 AI 서밋 2026\\'에 골드 스폰서로 참가해 엔터프라이즈 AI 전략을",
+          "image": "https://cdn.aitimes.com/news/photo/202602/206401_208361_3812.jpg",
+          "is_english": false,
+          "original_title": "﻿[게시판] 에이딘로보틱스, 로봇용 센서 ‘IR52 장영실상’ 수상 등 단신",
+          "original_summary": "■ 로봇용 센서 전문 에이딘로보틱스(대표 최혁렬, 이윤행)는 ‘초소형 6축 힘∙토크 센서’가 한국산업기술진흥협회에서 주관하는 IR52 장영실상을 수상했다고 밝혔다. 전 세계에서 가장 작은 사이즈로 제작됐으며 휴머노이드 로봇을 비롯해 그리퍼 등 세밀한 부위에 장착해 사람의 감각처럼 물리적인 힘과 토크를 감지하도록 설계됐다. 특히 특허 기술인 \\'프린지 이펙트\\'를 결합해 센서의 민감도와 강성을 극대화한 것이 특징이다.■ AI 데이터 전문 유클릭(대표 김철)은 \\'오라클 AI 서밋 2026\\'에 골드 스폰서로 참가해 엔터프라이즈 AI ",
+          "summary": "• 에이딘로보틱스, 로봇용 센서로 장영실상 수상\n• 세계 최소 사이즈 초소형 6축 힘 센서\n• 휴머노이드 로봇 등 사람 감각 구현\n• 프린지 이펙트 기술로 센서 성능 강화",
+          "translated_title": "﻿[게시판] 에이딘로보틱스, 로봇용 센서 ‘IR52 장영실상’ 수상 등 단신",
+          "category_keyword": "로봇 센서"
+        },
         {
           "title": "전문대 '지역 AI·디지털 교육 거점'으로 육성…교육부, 240억 원 투입",
           "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148959079&call_from=rsslink",
@@ -839,6 +937,19 @@
           "category": "AI Model"
         },
         {
+          "title": "PaddlePaddle/PaddleOCR-VL-1.5",
+          "link": "https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.5",
+          "date": "2026-02-04",
+          "source": "HuggingFace",
+          "description": "• 바이두, 문서 분석 AI 모델 공개\n• 9억 파라미터로 다양한 OCR 수행\n• 표·수식·도장 등 정밀 해석 지원\n• 복잡한 문서 레이아웃 이해 가능",
+          "image": "https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?color=ccf",
+          "is_english": true,
+          "summary": "• 바이두, 문서 분석 AI 모델 공개\n• 9억 파라미터로 다양한 OCR 수행\n• 표·수식·도장 등 정밀 해석 지원\n• 복잡한 문서 레이아웃 이해 가능",
+          "translated_title": "PaddlePaddle/PaddleOCR-VL-1.5",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Tongyi-MAI/Z-Image",
           "link": "https://huggingface.co/Tongyi-MAI/Z-Image",
           "date": "2026-02-04",
@@ -865,19 +976,6 @@
           "category": "AI Model"
         },
         {
-          "title": "PaddlePaddle/PaddleOCR-VL-1.5",
-          "link": "https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.5",
-          "date": "2026-02-04",
-          "source": "HuggingFace",
-          "description": "• 바이두, 문서 분석 AI 모델 공개\n• 9억 파라미터로 다양한 OCR 수행\n• 표·수식·도장 등 정밀 해석 지원\n• 복잡한 문서 레이아웃 이해 가능",
-          "image": "https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?color=ccf",
-          "is_english": true,
-          "summary": "• 바이두, 문서 분석 AI 모델 공개\n• 9억 파라미터로 다양한 OCR 수행\n• 표·수식·도장 등 정밀 해석 지원\n• 복잡한 문서 레이아웃 이해 가능",
-          "translated_title": "PaddlePaddle/PaddleOCR-VL-1.5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3-Coder-Next",
           "link": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
           "date": "2026-02-04",
@@ -887,6 +985,19 @@
           "is_english": true,
           "summary": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
           "translated_title": "Qwen/Qwen3-Coder-Next",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "robbyant/lingbot-world-base-cam",
+          "link": "https://huggingface.co/robbyant/lingbot-world-base-cam",
+          "date": "2026-02-04",
+          "source": "HuggingFace",
+          "description": "• 로비안트 팀, '링봇-월드' 공개\n• 현실부터 카툰까지 고품질 구현\n• 일 분 이상 장면 기억 유지\n• 초당 16프레임 실시간 생성 지원",
+          "image": "https://img.shields.io/badge/%F0%9F%8C%90%20Project%20Page-Demo-00bfff",
+          "is_english": true,
+          "summary": "• 로비안트 팀, '링봇-월드' 공개\n• 현실부터 카툰까지 고품질 구현\n• 일 분 이상 장면 기억 유지\n• 초당 16프레임 실시간 생성 지원",
+          "translated_title": "robbyant/lingbot-world-base-cam",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -904,15 +1015,15 @@
           "category": "AI Model"
         },
         {
-          "title": "robbyant/lingbot-world-base-cam",
-          "link": "https://huggingface.co/robbyant/lingbot-world-base-cam",
+          "title": "openbmb/MiniCPM-o-4_5",
+          "link": "https://huggingface.co/openbmb/MiniCPM-o-4_5",
           "date": "2026-02-04",
           "source": "HuggingFace",
-          "description": "• 로비안트 팀, '링봇-월드' 공개\n• 현실부터 카툰까지 고품질 구현\n• 일 분 이상 장면 기억 유지\n• 초당 16프레임 실시간 생성 지원",
-          "image": "https://img.shields.io/badge/%F0%9F%8C%90%20Project%20Page-Demo-00bfff",
+          "description": "• 구글 Gemini 수준의 온디바이스 AI 공개\n• 시각과 언어 능력에서 GPT-4o 능가\n• 중영어 실시간 음성 대화 지원\n• 멀티모달 실시간 스트리밍 구현",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• 로비안트 팀, '링봇-월드' 공개\n• 현실부터 카툰까지 고품질 구현\n• 일 분 이상 장면 기억 유지\n• 초당 16프레임 실시간 생성 지원",
-          "translated_title": "robbyant/lingbot-world-base-cam",
+          "summary": "• 구글 Gemini 수준의 온디바이스 AI 공개\n• 시각과 언어 능력에서 GPT-4o 능가\n• 중영어 실시간 음성 대화 지원\n• 멀티모달 실시간 스트리밍 구현",
+          "translated_title": "openbmb/MiniCPM-o-4_5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -1004,19 +1115,6 @@
           "is_english": true,
           "summary": "• MS, 60분 장음성 한 번에 변환하는 AI 공개\n• 화자 식별과 타임스탬프 동시에 제공\n• 특정 단어 인식률 높이는 커스텀 기능 지원\n• 긴 맥락 잃지 않고 전체 통합 처리 가능",
           "translated_title": "microsoft/VibeVoice-ASR",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "openbmb/MiniCPM-o-4_5",
-          "link": "https://huggingface.co/openbmb/MiniCPM-o-4_5",
-          "date": "2026-02-04",
-          "source": "HuggingFace",
-          "description": "• 구글 Gemini 수준의 온디바이스 AI 공개\n• 시각과 언어 능력에서 GPT-4o 능가\n• 중영어 실시간 음성 대화 지원\n• 멀티모달 실시간 스트리밍 구현",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• 구글 Gemini 수준의 온디바이스 AI 공개\n• 시각과 언어 능력에서 GPT-4o 능가\n• 중영어 실시간 음성 대화 지원\n• 멀티모달 실시간 스트리밍 구현",
-          "translated_title": "openbmb/MiniCPM-o-4_5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
