@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-02-05",
-      "update_time": "2026-02-04 15:33:36",
+      "update_time": "2026-02-04 18:36:10",
       "news": [
         {
           "title": "moonshotai/Kimi-K2.5",
@@ -14,19 +14,6 @@
           "is_english": true,
           "summary": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
           "translated_title": "moonshotai/Kimi-K2.5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "tencent/HunyuanImage-3.0-Instruct",
-          "link": "https://huggingface.co/tencent/HunyuanImage-3.0-Instruct",
-          "date": "2026-02-05",
-          "source": "HuggingFace",
-          "description": "• 텐센트, 최신 멀티모달 이미지 모델 공개\n• 뛰어난 이미지 생성 성능 구현함\n• 가벼운 디스틸 버전 동시 출시\n• 공식 웹사이트에서 체험 가능",
-          "image": "https://huggingface.co/tencent/HunyuanImage-3.0-Instruct/resolve/main/./assets/logo.png",
-          "is_english": true,
-          "summary": "• 텐센트, 최신 멀티모달 이미지 모델 공개\n• 뛰어난 이미지 생성 성능 구현함\n• 가벼운 디스틸 버전 동시 출시\n• 공식 웹사이트에서 체험 가능",
-          "translated_title": "tencent/HunyuanImage-3.0-Instruct",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -57,19 +44,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3-ASR-1.7B",
-          "link": "https://huggingface.co/Qwen/Qwen3-ASR-1.7B",
-          "date": "2026-02-05",
-          "source": "HuggingFace",
-          "description": "• 52개 언어 식별 및 음성 인식 지원\n• 최고 수준의 오픈소스 성능 입증\n• 스트리밍 통합 추론 기능 제공\n• 강력한 성능의 추론 툴킷 공개",
-          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-ASR-Repo/qwen3_asr_introduction.png",
-          "is_english": true,
-          "summary": "• 52개 언어 식별 및 음성 인식 지원\n• 최고 수준의 오픈소스 성능 입증\n• 스트리밍 통합 추론 기능 제공\n• 강력한 성능의 추론 툴킷 공개",
-          "translated_title": "Qwen/Qwen3-ASR-1.7B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "circlestone-labs/Anima",
           "link": "https://huggingface.co/circlestone-labs/Anima",
           "date": "2026-02-05",
@@ -83,15 +57,15 @@
           "category": "AI Model"
         },
         {
-          "title": "PaddlePaddle/PaddleOCR-VL-1.5",
-          "link": "https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.5",
+          "title": "Qwen/Qwen3-ASR-1.7B",
+          "link": "https://huggingface.co/Qwen/Qwen3-ASR-1.7B",
           "date": "2026-02-05",
           "source": "HuggingFace",
-          "description": "• 바이두, 문서 분석 AI 모델 공개\n• 9억 파라미터로 다양한 OCR 수행\n• 표·수식·도장 등 정밀 해석 지원\n• 복잡한 문서 레이아웃 이해 가능",
-          "image": "https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?color=ccf",
+          "description": "• 52개 언어 식별 및 음성 인식 지원\n• 최고 수준의 오픈소스 성능 입증\n• 스트리밍 통합 추론 기능 제공\n• 강력한 성능의 추론 툴킷 공개",
+          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-ASR-Repo/qwen3_asr_introduction.png",
           "is_english": true,
-          "summary": "• 바이두, 문서 분석 AI 모델 공개\n• 9억 파라미터로 다양한 OCR 수행\n• 표·수식·도장 등 정밀 해석 지원\n• 복잡한 문서 레이아웃 이해 가능",
-          "translated_title": "PaddlePaddle/PaddleOCR-VL-1.5",
+          "summary": "• 52개 언어 식별 및 음성 인식 지원\n• 최고 수준의 오픈소스 성능 입증\n• 스트리밍 통합 추론 기능 제공\n• 강력한 성능의 추론 툴킷 공개",
+          "translated_title": "Qwen/Qwen3-ASR-1.7B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -109,15 +83,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Tongyi-MAI/Z-Image",
-          "link": "https://huggingface.co/Tongyi-MAI/Z-Image",
+          "title": "PaddlePaddle/PaddleOCR-VL-1.5",
+          "link": "https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.5",
           "date": "2026-02-05",
           "source": "HuggingFace",
-          "description": "• 통이MAI, 고품질 이미지 생성 모델 Z-Image 공개\n• 단일 스트림 디퓨전 트랜스포머 기술 탑재\n• 다양한 스타일과 정교한 프롬프트 준수 지원\n• HuggingFace에서 모델 체크포인트 다운로드 제공",
-          "image": "https://img.shields.io/badge/Official%20Site-333399.svg?logo=homepage",
+          "description": "• 바이두, 문서 분석 AI 모델 공개\n• 9억 파라미터로 다양한 OCR 수행\n• 표·수식·도장 등 정밀 해석 지원\n• 복잡한 문서 레이아웃 이해 가능",
+          "image": "https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?color=ccf",
           "is_english": true,
-          "summary": "• 통이MAI, 고품질 이미지 생성 모델 Z-Image 공개\n• 단일 스트림 디퓨전 트랜스포머 기술 탑재\n• 다양한 스타일과 정교한 프롬프트 준수 지원\n• HuggingFace에서 모델 체크포인트 다운로드 제공",
-          "translated_title": "Tongyi-MAI/Z-Image",
+          "summary": "• 바이두, 문서 분석 AI 모델 공개\n• 9억 파라미터로 다양한 OCR 수행\n• 표·수식·도장 등 정밀 해석 지원\n• 복잡한 문서 레이아웃 이해 가능",
+          "translated_title": "PaddlePaddle/PaddleOCR-VL-1.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -135,6 +109,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Tongyi-MAI/Z-Image",
+          "link": "https://huggingface.co/Tongyi-MAI/Z-Image",
+          "date": "2026-02-05",
+          "source": "HuggingFace",
+          "description": "• 통이MAI, 고품질 이미지 생성 모델 Z-Image 공개\n• 단일 스트림 디퓨전 트랜스포머 기술 탑재\n• 다양한 스타일과 정교한 프롬프트 준수 지원\n• HuggingFace에서 모델 체크포인트 다운로드 제공",
+          "image": "https://img.shields.io/badge/Official%20Site-333399.svg?logo=homepage",
+          "is_english": true,
+          "summary": "• 통이MAI, 고품질 이미지 생성 모델 Z-Image 공개\n• 단일 스트림 디퓨전 트랜스포머 기술 탑재\n• 다양한 스타일과 정교한 프롬프트 준수 지원\n• HuggingFace에서 모델 체크포인트 다운로드 제공",
+          "translated_title": "Tongyi-MAI/Z-Image",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "robbyant/lingbot-world-base-cam",
           "link": "https://huggingface.co/robbyant/lingbot-world-base-cam",
           "date": "2026-02-05",
@@ -144,19 +131,6 @@
           "is_english": true,
           "summary": "• 로비안트 팀, '링봇-월드' 공개\n• 현실부터 카툰까지 고품질 구현\n• 일 분 이상 장면 기억 유지\n• 초당 16프레임 실시간 생성 지원",
           "translated_title": "robbyant/lingbot-world-base-cam",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "openbmb/MiniCPM-o-4_5",
-          "link": "https://huggingface.co/openbmb/MiniCPM-o-4_5",
-          "date": "2026-02-05",
-          "source": "HuggingFace",
-          "description": "• 구글 Gemini 수준의 온디바이스 AI 공개\n• 시각과 언어 능력에서 GPT-4o 능가\n• 중영어 실시간 음성 대화 지원\n• 멀티모달 실시간 스트리밍 구현",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• 구글 Gemini 수준의 온디바이스 AI 공개\n• 시각과 언어 능력에서 GPT-4o 능가\n• 중영어 실시간 음성 대화 지원\n• 멀티모달 실시간 스트리밍 구현",
-          "translated_title": "openbmb/MiniCPM-o-4_5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -200,15 +174,15 @@
           "category": "AI Model"
         },
         {
-          "title": "zai-org/GLM-4.7-Flash",
-          "link": "https://huggingface.co/zai-org/GLM-4.7-Flash",
+          "title": "openbmb/MiniCPM-o-4_5",
+          "link": "https://huggingface.co/openbmb/MiniCPM-o-4_5",
           "date": "2026-02-05",
           "source": "HuggingFace",
-          "description": "• Z.ai, 고성능 300억 모델 공개\n• 경량화로 성능과 효율성 균형\n• 다양한 벤치마크서 최고 성능\n• vLLM 등 로컬 배포 환경 지원",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "description": "• 구글 Gemini 수준의 온디바이스 AI 공개\n• 시각과 언어 능력에서 GPT-4o 능가\n• 중영어 실시간 음성 대화 지원\n• 멀티모달 실시간 스트리밍 구현",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• Z.ai, 고성능 300억 모델 공개\n• 경량화로 성능과 효율성 균형\n• 다양한 벤치마크서 최고 성능\n• vLLM 등 로컬 배포 환경 지원",
-          "translated_title": "zai-org/GLM-4.7-Flash",
+          "summary": "• 구글 Gemini 수준의 온디바이스 AI 공개\n• 시각과 언어 능력에서 GPT-4o 능가\n• 중영어 실시간 음성 대화 지원\n• 멀티모달 실시간 스트리밍 구현",
+          "translated_title": "openbmb/MiniCPM-o-4_5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -226,15 +200,15 @@
           "category": "AI Model"
         },
         {
-          "title": "meituan-longcat/LongCat-Flash-Lite",
-          "link": "https://huggingface.co/meituan-longcat/LongCat-Flash-Lite",
+          "title": "zai-org/GLM-4.7-Flash",
+          "link": "https://huggingface.co/zai-org/GLM-4.7-Flash",
           "date": "2026-02-05",
           "source": "HuggingFace",
-          "description": "• 메이투안, 대규모 AI 모델 롱캣 공개\n• 전문가 혼합 기반 685억 개 파라미터\n• 실제 활용 파라미터는 약 30억 개\n• 최대 26만 토큰 컨텍스트 지원",
-          "image": "https://raw.githubusercontent.com/meituan-longcat/LongCat-Flash-Chat/main/figures/longcat_logo.svg",
+          "description": "• Z.ai, 고성능 300억 모델 공개\n• 경량화로 성능과 효율성 균형\n• 다양한 벤치마크서 최고 성능\n• vLLM 등 로컬 배포 환경 지원",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
           "is_english": true,
-          "summary": "• 메이투안, 대규모 AI 모델 롱캣 공개\n• 전문가 혼합 기반 685억 개 파라미터\n• 실제 활용 파라미터는 약 30억 개\n• 최대 26만 토큰 컨텍스트 지원",
-          "translated_title": "meituan-longcat/LongCat-Flash-Lite",
+          "summary": "• Z.ai, 고성능 300억 모델 공개\n• 경량화로 성능과 효율성 균형\n• 다양한 벤치마크서 최고 성능\n• vLLM 등 로컬 배포 환경 지원",
+          "translated_title": "zai-org/GLM-4.7-Flash",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -252,6 +226,19 @@
           "category": "AI Model"
         },
         {
+          "title": "meituan-longcat/LongCat-Flash-Lite",
+          "link": "https://huggingface.co/meituan-longcat/LongCat-Flash-Lite",
+          "date": "2026-02-05",
+          "source": "HuggingFace",
+          "description": "• 메이투안, 대규모 AI 모델 롱캣 공개\n• 전문가 혼합 기반 685억 개 파라미터\n• 실제 활용 파라미터는 약 30억 개\n• 최대 26만 토큰 컨텍스트 지원",
+          "image": "https://raw.githubusercontent.com/meituan-longcat/LongCat-Flash-Chat/main/figures/longcat_logo.svg",
+          "is_english": true,
+          "summary": "• 메이투안, 대규모 AI 모델 롱캣 공개\n• 전문가 혼합 기반 685억 개 파라미터\n• 실제 활용 파라미터는 약 30억 개\n• 최대 26만 토큰 컨텍스트 지원",
+          "translated_title": "meituan-longcat/LongCat-Flash-Lite",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "unsloth/Qwen3-Coder-Next-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3-Coder-Next-GGUF",
           "date": "2026-02-05",
@@ -263,13 +250,124 @@
           "translated_title": "unsloth/Qwen3-Coder-Next-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "microsoft/VibeVoice-ASR",
+          "link": "https://huggingface.co/microsoft/VibeVoice-ASR",
+          "date": "2026-02-05",
+          "source": "HuggingFace",
+          "description": "• MS, 60분 장음성 한 번에 변환하는 AI 공개\n• 화자 식별과 타임스탬프 동시에 제공\n• 특정 단어 인식률 높이는 커스텀 기능 지원\n• 긴 맥락 잃지 않고 전체 통합 처리 가능",
+          "image": "https://img.shields.io/badge/GitHub-Repo-black?logo=github",
+          "is_english": true,
+          "summary": "• MS, 60분 장음성 한 번에 변환하는 AI 공개\n• 화자 식별과 타임스탬프 동시에 제공\n• 특정 단어 인식률 높이는 커스텀 기능 지원\n• 긴 맥락 잃지 않고 전체 통합 처리 가능",
+          "translated_title": "microsoft/VibeVoice-ASR",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-02-04",
-      "update_time": "2026-02-04 15:33:31",
+      "update_time": "2026-02-04 18:36:10",
       "news": [
+        {
+          "title": "틴더, '스와이프 피로'와 데이팅 앱 번아웃 해소에 AI 활용 나서",
+          "link": "https://techcrunch.com/2026/02/04/tinder-looks-to-ai-to-help-fight-swipe-fatigue-and-dating-app-burnout/",
+          "date": "2026-02-04",
+          "source": "TechCrunch",
+          "description": "Tinder is testing AI recommendations and insight from your Camera Roll for better matches. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/05/tinder-featured.png?resize=1200,675",
+          "is_english": true,
+          "original_title": "Tinder looks to AI to help fight ‘swipe fatigue’ and dating app burnout",
+          "original_summary": "Tinder is testing AI recommendations and insight from your Camera Roll for better matches. ",
+          "summary": "• 틴더가 매칭 개선 위해 AI 테스트 중\n• 스와이프 피로 해소가 주된 목적\n• 카메라 롤 정보 활용 기능 검토\n• 데이팅 앱 번아웃 줄이는 기대",
+          "translated_title": "틴더, '스와이프 피로'와 데이팅 앱 번아웃 해소에 AI 활용 나서",
+          "category_keyword": "틴더"
+        },
+        {
+          "title": "롤박스, 기대했던 4D 창작 기능 오픈 베타로 공개",
+          "link": "https://techcrunch.com/2026/02/04/robloxs-4d-creation-feature-is-now-available-in-open-beta/",
+          "date": "2026-02-04",
+          "source": "TechCrunch",
+          "description": "Roblox's highly anticipated 4D creation feature has officially arrived in open beta. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/Roblox4d.png?w=1200",
+          "is_english": true,
+          "original_title": "Roblox’s 4D creation feature is now available in open beta",
+          "original_summary": "Roblox's highly anticipated 4D creation feature has officially arrived in open beta. ",
+          "summary": "• 롤박스 4D 창작 기능 공개됨\n• 기대를 모으던 신규 기능임\n• 현재 오픈 베타로 제공 중\n• 사용자 4D 콘텐츠 제작 가능",
+          "translated_title": "롤박스, 기대했던 4D 창작 기능 오픈 베타로 공개",
+          "category_keyword": "롤박스"
+        },
+        {
+          "title": "이레븐랩스, 시퀴오아 투자 유치로 110억 달러 가치 평가",
+          "link": "https://techcrunch.com/2026/02/04/elevenlabs-raises-500m-from-sequioia-at-a-11-billion-valuation/",
+          "date": "2026-02-04",
+          "source": "TechCrunch",
+          "description": "ElevenLabs' valuation has raised more than three times in the last 12 months. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669",
+          "is_english": true,
+          "original_title": "ElevenLabs raises $500M from Sequoia at an $11 billion valuation",
+          "original_summary": "ElevenLabs' valuation has raised more than three times in the last 12 months. ",
+          "summary": "• 이레븐랩스 5억 달러 투자 유치\n• 기업 가치 110억 달러 도달\n• 시퀴오아가 투자에 참여함\n• 지난 12개월간 가치 3배 상승",
+          "translated_title": "이레븐랩스, 시퀴오아 투자 유치로 110억 달러 가치 평가",
+          "category_keyword": "이레븐랩스"
+        },
+        {
+          "title": "브라이언 헤든, 컴퓨팅 사회윤리 책임 부학장으로 임명",
+          "link": "https://news.mit.edu/2026/brian-hedden-named-co-associate-dean-serc-0204",
+          "date": "2026-02-04",
+          "source": "MIT News",
+          "description": "He joins Nikos Trichakis in guiding the cross-cutting initiative of the MIT Schwarzman College of Computing.",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/brian-hedden-mit-00.png?itok=2WboLoHT",
+          "is_english": true,
+          "original_title": "Brian Hedden named co-associate dean of Social and Ethical Responsibilities of Computing",
+          "original_summary": "He joins Nikos Trichakis in guiding the cross-cutting initiative of the MIT Schwarzman College of Computing.",
+          "summary": "• 브라이언 헤든 신규 부학장 임명\n• 컴퓨팅 사회윤리 책임 담당\n• MIT 슈워츠먼 칼리지 소속\n• 니코스 트리차키스와 공동 지도",
+          "translated_title": "브라이언 헤든, 컴퓨팅 사회윤리 책임 부학장으로 임명",
+          "category_keyword": "MIT"
+        },
+        {
+          "title": "안토니오 토랄바 포함 MIT 동문 4명, 2025년 ACM 펠로우 선정",
+          "link": "https://news.mit.edu/2026/antonio-torralba-three-mit-alumni-named-acm-fellows-0204",
+          "date": "2026-02-04",
+          "source": "MIT News",
+          "description": "Torralba’s research focuses on computer vision, machine learning, and human visual perception. ",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202601/mit-eecs-Torralba-Antonio.jpg?itok=ck8ixbVg",
+          "is_english": true,
+          "original_title": "Antonio Torralba, three MIT alumni named 2025 ACM fellows",
+          "original_summary": "Torralba’s research focuses on computer vision, machine learning, and human visual perception. ",
+          "summary": "• 토랄바 교수 2025년 ACM 펠로위\n• MIT 동문 3명 동시에 선정됨\n• 연구는 컴퓨터 비전 중심\n• 기계 학습 및 인식 분야 포함",
+          "translated_title": "안토니오 토랄바 포함 MIT 동문 4명, 2025년 ACM 펠로우 선정",
+          "category_keyword": "ACM"
+        },
+        {
+          "title": "3가지 질문: 치료제 발견 및 설계 가속하는 AI 활용법",
+          "link": "https://news.mit.edu/2026/3-questions-using-ai-to-accelerate-discovery-design-therapeutic-drugs-0204",
+          "date": "2026-02-04",
+          "source": "MIT News",
+          "description": "Professor James Collins discusses how collaboration has been central to his research into combining computational predictions with new experimental platforms. ",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/jim-collins-mit-00.jpg?itok=JTgq5F3D",
+          "is_english": true,
+          "original_title": "3 Questions: Using AI to accelerate the discovery and design of therapeutic drugs",
+          "original_summary": "Professor James Collins discusses how collaboration has been central to his research into combining computational predictions with new experimental platforms. ",
+          "summary": "• AI로 신약 발견 속도 높인다\n• 제임스 콜린스 교수 인터뷰\n• 계산 예측과 실험 플랫폼 결합\n• 협력이 연구의 핵심이었다",
+          "translated_title": "3가지 질문: 치료제 발견 및 설계 가속하는 AI 활용법",
+          "category_keyword": "신약개발"
+        },
+        {
+          "title": "구글, 1월에 발표한 최신 AI 소식 모음",
+          "link": "https://blog.google/innovation-and-ai/products/google-ai-updates-january-2026/",
+          "date": "2026-02-04",
+          "source": "Google AI",
+          "description": "Google AI announcements from January",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/LatestAI_v5.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "The latest AI news we announced in January",
+          "original_summary": "Google AI announcements from January",
+          "summary": "• 구글 1월 AI 소식을 정리\n• 다양한 AI 기능이 공개됨\n• 새로운 발표 사항 포함\n• AI 관련 최신 업데이트",
+          "translated_title": "구글, 1월에 발표한 최신 AI 소식 모음",
+          "category_keyword": "구글"
+        },
         {
           "title": "아마존 AI 어시스턴트 'Alexa+', 미국 전체 출시",
           "link": "https://techcrunch.com/2026/02/04/alexa-amazons-ai-assistant-is-now-available-to-everyone-in-the-u-s/",
@@ -8847,7 +8945,7 @@
         {
           "title": "microsoft/VibeVoice-ASR",
           "link": "https://huggingface.co/microsoft/VibeVoice-ASR",
-          "date": "2026-02-04",
+          "date": "2026-02-05",
           "source": "HuggingFace",
           "description": "• MS, 60분 장음성 한 번에 변환하는 AI 공개\n• 화자 식별과 타임스탬프 동시에 제공\n• 특정 단어 인식률 높이는 커스텀 기능 지원\n• 긴 맥락 잃지 않고 전체 통합 처리 가능",
           "image": "https://img.shields.io/badge/GitHub-Repo-black?logo=github",
