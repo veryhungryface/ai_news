@@ -2,8 +2,22 @@
   "dates": [
     {
       "date": "2026-02-05",
-      "update_time": "2026-02-04 18:36:10",
+      "update_time": "2026-02-04 21:24:43",
       "news": [
+        {
+          "title": "앤스로픽 AI 플러그인에 법률계 패닉 확산",
+          "link": "https://aibusiness.com/agentic-ai/panic-rises-in-legal-industry-due-to-anthropic-s-ai-plugins",
+          "date": "2026-02-05",
+          "source": "AI Business",
+          "description": "The concern arises as plugins demonstrate how a general-purpose AI model provider can compete with domain-specific tech vendors and raise questions about the technology's potential impact on workers.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt84ff25a321f65654/6983b43f7189dabddbd74683/Law2.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Panic Rises in Legal Industry Due to Anthropic’s AI Plugins",
+          "original_summary": "The concern arises as plugins demonstrate how a general-purpose AI model provider can compete with domain-specific tech vendors and raise questions about the technology's potential impact on workers.",
+          "summary": "• 법률계 우려 급증 현상\n• 범용 AI의 특화 시장 잠식\n• 특정 기술 공급자와 경쟁\n• 노동 시장 영향 논의 촉발",
+          "translated_title": "앤스로픽 AI 플러그인에 법률계 패닉 확산",
+          "category_keyword": "AI 플러그인"
+        },
         {
           "title": "moonshotai/Kimi-K2.5",
           "link": "https://huggingface.co/moonshotai/Kimi-K2.5",
@@ -122,19 +136,6 @@
           "category": "AI Model"
         },
         {
-          "title": "robbyant/lingbot-world-base-cam",
-          "link": "https://huggingface.co/robbyant/lingbot-world-base-cam",
-          "date": "2026-02-05",
-          "source": "HuggingFace",
-          "description": "• 로비안트 팀, '링봇-월드' 공개\n• 현실부터 카툰까지 고품질 구현\n• 일 분 이상 장면 기억 유지\n• 초당 16프레임 실시간 생성 지원",
-          "image": "https://img.shields.io/badge/%F0%9F%8C%90%20Project%20Page-Demo-00bfff",
-          "is_english": true,
-          "summary": "• 로비안트 팀, '링봇-월드' 공개\n• 현실부터 카툰까지 고품질 구현\n• 일 분 이상 장면 기억 유지\n• 초당 16프레임 실시간 생성 지원",
-          "translated_title": "robbyant/lingbot-world-base-cam",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "ACE-Step/Ace-Step1.5",
           "link": "https://huggingface.co/ACE-Step/Ace-Step1.5",
           "date": "2026-02-05",
@@ -144,6 +145,19 @@
           "is_english": true,
           "summary": "• 상업적 이용 가능한 오픈소스 음악 생성 모델 공개\n• 합법적 데이터로 학습된 안전한 생성 기능 제공\n• 고성능 GPU 기반 2초 만에 곡 생성 구현\n• 일반 PC에서도 구동 가능한 저용량 요구사항 확보",
           "translated_title": "ACE-Step/Ace-Step1.5",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "robbyant/lingbot-world-base-cam",
+          "link": "https://huggingface.co/robbyant/lingbot-world-base-cam",
+          "date": "2026-02-05",
+          "source": "HuggingFace",
+          "description": "• 로비안트 팀, '링봇-월드' 공개\n• 현실부터 카툰까지 고품질 구현\n• 일 분 이상 장면 기억 유지\n• 초당 16프레임 실시간 생성 지원",
+          "image": "https://img.shields.io/badge/%F0%9F%8C%90%20Project%20Page-Demo-00bfff",
+          "is_english": true,
+          "summary": "• 로비안트 팀, '링봇-월드' 공개\n• 현실부터 카툰까지 고품질 구현\n• 일 분 이상 장면 기억 유지\n• 초당 16프레임 실시간 생성 지원",
+          "translated_title": "robbyant/lingbot-world-base-cam",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -200,6 +214,19 @@
           "category": "AI Model"
         },
         {
+          "title": "unsloth/Qwen3-Coder-Next-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3-Coder-Next-GGUF",
+          "date": "2026-02-05",
+          "source": "HuggingFace",
+          "description": "• HuggingFace, 신규 코딩 모델 공개\n• 로컬 개발 특화 성능 강화\n• 고효율 양자화 기술 탑재\n• 사용 가이드라인 상세 제공",
+          "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Coder-Next/benchmarks.png",
+          "is_english": true,
+          "summary": "• HuggingFace, 신규 코딩 모델 공개\n• 로컬 개발 특화 성능 강화\n• 고효율 양자화 기술 탑재\n• 사용 가이드라인 상세 제공",
+          "translated_title": "unsloth/Qwen3-Coder-Next-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "zai-org/GLM-4.7-Flash",
           "link": "https://huggingface.co/zai-org/GLM-4.7-Flash",
           "date": "2026-02-05",
@@ -209,19 +236,6 @@
           "is_english": true,
           "summary": "• Z.ai, 고성능 300억 모델 공개\n• 경량화로 성능과 효율성 균형\n• 다양한 벤치마크서 최고 성능\n• vLLM 등 로컬 배포 환경 지원",
           "translated_title": "zai-org/GLM-4.7-Flash",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "unsloth/Kimi-K2.5-GGUF",
-          "link": "https://huggingface.co/unsloth/Kimi-K2.5-GGUF",
-          "date": "2026-02-05",
-          "source": "HuggingFace",
-          "description": "• 언슬로스, 김-K2.5 모델 공개\n• GGUF 포맷으로 로컬 실행 지원\n• 최소 240GB 메모리 권장\n• 현재 비전 기능은 미지원",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
-          "is_english": true,
-          "summary": "• 언슬로스, 김-K2.5 모델 공개\n• GGUF 포맷으로 로컬 실행 지원\n• 최소 240GB 메모리 권장\n• 현재 비전 기능은 미지원",
-          "translated_title": "unsloth/Kimi-K2.5-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,15 +253,15 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3-Coder-Next-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3-Coder-Next-GGUF",
+          "title": "unsloth/Kimi-K2.5-GGUF",
+          "link": "https://huggingface.co/unsloth/Kimi-K2.5-GGUF",
           "date": "2026-02-05",
           "source": "HuggingFace",
-          "description": "• HuggingFace, 신규 코딩 모델 공개\n• 로컬 개발 특화 성능 강화\n• 고효율 양자화 기술 탑재\n• 사용 가이드라인 상세 제공",
-          "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Coder-Next/benchmarks.png",
+          "description": "• 언슬로스, 김-K2.5 모델 공개\n• GGUF 포맷으로 로컬 실행 지원\n• 최소 240GB 메모리 권장\n• 현재 비전 기능은 미지원",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
           "is_english": true,
-          "summary": "• HuggingFace, 신규 코딩 모델 공개\n• 로컬 개발 특화 성능 강화\n• 고효율 양자화 기술 탑재\n• 사용 가이드라인 상세 제공",
-          "translated_title": "unsloth/Qwen3-Coder-Next-GGUF",
+          "summary": "• 언슬로스, 김-K2.5 모델 공개\n• GGUF 포맷으로 로컬 실행 지원\n• 최소 240GB 메모리 권장\n• 현재 비전 기능은 미지원",
+          "translated_title": "unsloth/Kimi-K2.5-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +282,50 @@
     },
     {
       "date": "2026-02-04",
-      "update_time": "2026-02-04 18:36:10",
+      "update_time": "2026-02-04 21:24:43",
       "news": [
+        {
+          "title": "Codex 하네스 해제: 앱 서버 구축 방법",
+          "link": "https://openai.com/index/unlocking-the-codex-harness",
+          "date": "2026-02-04",
+          "source": "OpenAI",
+          "description": "Learn how to embed the Codex agent using the Codex App Server, a bidirectional JSON-RPC API powering streaming progress, tool use, approvals, and diffs.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Unlocking the Codex harness: how we built the App Server",
+          "original_summary": "Learn how to embed the Codex agent using the Codex App Server, a bidirectional JSON-RPC API powering streaming progress, tool use, approvals, and diffs.",
+          "summary": "• Codex 앱 서버 소개 및 목적\n• 양방향 JSON-RPC API 기반\n• 스트리밍 진행 상황 지원\n• 도구 사용 및 승인 기능 관리",
+          "translated_title": "Codex 하네스 해제: 앱 서버 구축 방법",
+          "category_keyword": "앱 서버"
+        },
+        {
+          "title": "A16z, AI 인프라에 17억 달러 조성. 자금은 어디로?",
+          "link": "https://techcrunch.com/video/a16z-just-raised-1-7b-for-ai-infrastructure-heres-where-its-going/",
+          "date": "2026-02-04",
+          "source": "TechCrunch",
+          "description": "Andreessen Horowitz just raised&#160;a whopping&#160;⁠new&#160;$15 billion&#160;in funding⁠.&#160;And a&#160;$1.7 billion&#160;chunk&#160;of that is going to&#160;its&#160;⁠infrastructure&#160;team⁠,&#160;the one responsible for some of its biggest, most prominent&#160;AI investments including&#160;Black Forrest Labs, Cursor, OpenAI,&#160;⁠ElevenLabs⁠, Ideogram,&#160;⁠Fal⁠&#160;and dozens of others.&#160;&#160; A16z&#160;⁠general partner&#160;with the infra team Jennifer Li⁠&#160;(who oversees s",
+          "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+          "is_english": true,
+          "original_title": "A16z just raised $1.7B for AI infrastructure. Here’s where it’s going.",
+          "original_summary": "Andreessen Horowitz just raised&#160;a whopping&#160;⁠new&#160;$15 billion&#160;in funding⁠.&#160;And a&#160;$1.7 billion&#160;chunk&#160;of that is going to&#160;its&#160;⁠infrastructure&#160;team⁠,&#160;the one responsible for some of its biggest, most prominent&#160;AI investments including&#160;",
+          "summary": "• A16z, 총 150억 달러 모금\n• AI 인프라 팀에 17억 할당\n• 대규모 AI 투자에 대한 계획\n• 주요 AI 프로젝트 지원 예정",
+          "translated_title": "A16z, AI 인프라에 17억 달러 조성. 자금은 어디로?",
+          "category_keyword": "AI 투자"
+        },
+        {
+          "title": "A16z가 AI 인프라 분야에서 실제로 투자하고 무시하는 것",
+          "link": "https://techcrunch.com/podcast/what-a16z-is-actually-funding-and-what-its-ignoring-when-it-comes-to-ai-infra/",
+          "date": "2026-02-04",
+          "source": "TechCrunch",
+          "description": "Andreessen Horowitz just raised&#160;a whopping&#160;new&#160;$15 billion&#160;in funding.&#160;And a&#160;$1.7 billion&#160;chunk&#160;of that is going to&#160;its&#160;infrastructure&#160;team,&#160;the one responsible for some of its biggest, most prominent&#160;AI investments including&#160;Black Forrest Labs, Cursor, OpenAI,&#160;ElevenLabs, Ideogram,&#160;Fal&#160;and dozens of others.&#160;&#160; A16z&#160;general partner&#160;with the infra team Jennifer Li&#160;(who oversees such&#160;i",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/a16z-Andreessen-Horowitz.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "What a16z is actually funding (and what it’s ignoring) when it comes to AI infra",
+          "original_summary": "Andreessen Horowitz just raised&#160;a whopping&#160;new&#160;$15 billion&#160;in funding.&#160;And a&#160;$1.7 billion&#160;chunk&#160;of that is going to&#160;its&#160;infrastructure&#160;team,&#160;the one responsible for some of its biggest, most prominent&#160;AI investments including&#160;Blac",
+          "summary": "• AI 인프라 투자 전략 분석\n• 17억 달러 자금의 활용처\n• 주요 AI 기업 포트폴리오\n• 투자 회피 분야 명시",
+          "translated_title": "A16z가 AI 인프라 분야에서 실제로 투자하고 무시하는 것",
+          "category_keyword": "인프라"
+        },
         {
           "title": "틴더, '스와이프 피로'와 데이팅 앱 번아웃 해소에 AI 활용 나서",
           "link": "https://techcrunch.com/2026/02/04/tinder-looks-to-ai-to-help-fight-swipe-fatigue-and-dating-app-burnout/",
