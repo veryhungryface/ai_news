@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-02-06",
-      "update_time": "2026-02-06 09:34:33",
+      "update_time": "2026-02-06 12:36:08",
       "news": [
         {
           "title": "수도권서 먼 첨단전략산업단지 투자 기업에 국비 지원 2배 확대",
@@ -563,19 +563,6 @@
           "category": "AI Model"
         },
         {
-          "title": "openbmb/MiniCPM-o-4_5",
-          "link": "https://huggingface.co/openbmb/MiniCPM-o-4_5",
-          "date": "2026-02-06",
-          "source": "HuggingFace",
-          "description": "• 구글 Gemini 수준의 온디바이스 AI 공개\n• 시각과 언어 능력에서 GPT-4o 능가\n• 중영어 실시간 음성 대화 지원\n• 멀티모달 실시간 스트리밍 구현",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• 구글 Gemini 수준의 온디바이스 AI 공개\n• 시각과 언어 능력에서 GPT-4o 능가\n• 중영어 실시간 음성 대화 지원\n• 멀티모달 실시간 스트리밍 구현",
-          "translated_title": "openbmb/MiniCPM-o-4_5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3-Coder-Next",
           "link": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
           "date": "2026-02-06",
@@ -611,6 +598,19 @@
           "is_english": true,
           "summary": "• 애니메이션 전문 고품질 이미지 모델 공개\n• 최대 20억 파라미터 규모의 경량화 설계\n• ComfyUI 기반으로 쉽고 빠른 생성 지원\n• 현재 사전 공개 버전으로 지속 업데이트 예정",
           "translated_title": "circlestone-labs/Anima",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "openbmb/MiniCPM-o-4_5",
+          "link": "https://huggingface.co/openbmb/MiniCPM-o-4_5",
+          "date": "2026-02-06",
+          "source": "HuggingFace",
+          "description": "• 구글 Gemini 수준의 온디바이스 AI 공개\n• 시각과 언어 능력에서 GPT-4o 능가\n• 중영어 실시간 음성 대화 지원\n• 멀티모달 실시간 스트리밍 구현",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• 구글 Gemini 수준의 온디바이스 AI 공개\n• 시각과 언어 능력에서 GPT-4o 능가\n• 중영어 실시간 음성 대화 지원\n• 멀티모달 실시간 스트리밍 구현",
+          "translated_title": "openbmb/MiniCPM-o-4_5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -680,6 +680,19 @@
           "category": "AI Model"
         },
         {
+          "title": "unsloth/Qwen3-Coder-Next-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3-Coder-Next-GGUF",
+          "date": "2026-02-06",
+          "source": "HuggingFace",
+          "description": "• 허깅페이스, 신규 코딩 모델 공개\n• 로컬 실행 최적화 기술 지원\n• 출력 품질 개선 업데이트 완료\n• 고용량 메모리 환경 권장 안내",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "is_english": true,
+          "summary": "• 허깅페이스, 신규 코딩 모델 공개\n• 로컬 실행 최적화 기술 지원\n• 출력 품질 개선 업데이트 완료\n• 고용량 메모리 환경 권장 안내",
+          "translated_title": "unsloth/Qwen3-Coder-Next-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Tongyi-MAI/Z-Image",
           "link": "https://huggingface.co/Tongyi-MAI/Z-Image",
           "date": "2026-02-06",
@@ -706,15 +719,15 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3-Coder-Next-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3-Coder-Next-GGUF",
+          "title": "internlm/Intern-S1-Pro",
+          "link": "https://huggingface.co/internlm/Intern-S1-Pro",
           "date": "2026-02-06",
           "source": "HuggingFace",
-          "description": "• 허깅페이스, 신규 코딩 모델 공개\n• 로컬 실행 최적화 기술 지원\n• 출력 품질 개선 업데이트 완료\n• 고용량 메모리 환경 권장 안내",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "description": "• 1조 파라미터 규모 MoE 과학 추론 모델 공개\n• 화학·생명과학 등 AI4Science 분야 최고 성과\n• 일반 멀티모달 태스크에서도 강력한 성능 제공\n• 복잡한 물리 신호 처리 기술 적용으로 효율화",
+          "image": "https://huggingface.co/internlm/Intern-S1-Pro/resolve/main/./figs/performance.jpeg",
           "is_english": true,
-          "summary": "• 허깅페이스, 신규 코딩 모델 공개\n• 로컬 실행 최적화 기술 지원\n• 출력 품질 개선 업데이트 완료\n• 고용량 메모리 환경 권장 안내",
-          "translated_title": "unsloth/Qwen3-Coder-Next-GGUF",
+          "summary": "• 1조 파라미터 규모 MoE 과학 추론 모델 공개\n• 화학·생명과학 등 AI4Science 분야 최고 성과\n• 일반 멀티모달 태스크에서도 강력한 성능 제공\n• 복잡한 물리 신호 처리 기술 적용으로 효율화",
+          "translated_title": "internlm/Intern-S1-Pro",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -732,19 +745,6 @@
           "category": "AI Model"
         },
         {
-          "title": "internlm/Intern-S1-Pro",
-          "link": "https://huggingface.co/internlm/Intern-S1-Pro",
-          "date": "2026-02-06",
-          "source": "HuggingFace",
-          "description": "• 1조 파라미터 규모 MoE 과학 추론 모델 공개\n• 화학·생명과학 등 AI4Science 분야 최고 성과\n• 일반 멀티모달 태스크에서도 강력한 성능 제공\n• 복잡한 물리 신호 처리 기술 적용으로 효율화",
-          "image": "https://huggingface.co/internlm/Intern-S1-Pro/resolve/main/./figs/performance.jpeg",
-          "is_english": true,
-          "summary": "• 1조 파라미터 규모 MoE 과학 추론 모델 공개\n• 화학·생명과학 등 AI4Science 분야 최고 성과\n• 일반 멀티모달 태스크에서도 강력한 성능 제공\n• 복잡한 물리 신호 처리 기술 적용으로 효율화",
-          "translated_title": "internlm/Intern-S1-Pro",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "TeichAI/GLM-4.7-Flash-Claude-Opus-4.5-High-Reasoning-Distill-GGUF",
           "link": "https://huggingface.co/TeichAI/GLM-4.7-Flash-Claude-Opus-4.5-High-Reasoning-Distill-GGUF",
           "date": "2026-02-06",
@@ -758,19 +758,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
-          "link": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
-          "date": "2026-02-06",
-          "source": "HuggingFace",
-          "description": "• 10개 언어를 지원하는 차세대 AI 음성 모델 공개\n• 텍스트 의미에 따라 감정과 속도 자동 조절\n• 실시간 대화 가능한 97ms 초저지연 구현\n• 간소화된 구조로 음성 품질과 효율성 극대화",
-          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-TTS-Repo/qwen3_tts_introduction.png",
-          "is_english": true,
-          "summary": "• 10개 언어를 지원하는 차세대 AI 음성 모델 공개\n• 텍스트 의미에 따라 감정과 속도 자동 조절\n• 실시간 대화 가능한 97ms 초저지연 구현\n• 간소화된 구조로 음성 품질과 효율성 극대화",
-          "translated_title": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3-ASR-0.6B",
           "link": "https://huggingface.co/Qwen/Qwen3-ASR-0.6B",
           "date": "2026-02-06",
@@ -780,6 +767,19 @@
           "is_english": true,
           "summary": "• 52개 언어 지원 ASR 모델 공개\n• 상용 수준 성능과 고속 처리 구현\n• 긴 오디오 및 스트리밍 인식 지원\n• 정밀 타임스탬프 정렬 기능 제공",
           "translated_title": "Qwen/Qwen3-ASR-0.6B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+          "link": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+          "date": "2026-02-06",
+          "source": "HuggingFace",
+          "description": "• 10개 언어를 지원하는 차세대 AI 음성 모델 공개\n• 텍스트 의미에 따라 감정과 속도 자동 조절\n• 실시간 대화 가능한 97ms 초저지연 구현\n• 간소화된 구조로 음성 품질과 효율성 극대화",
+          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-TTS-Repo/qwen3_tts_introduction.png",
+          "is_english": true,
+          "summary": "• 10개 언어를 지원하는 차세대 AI 음성 모델 공개\n• 텍스트 의미에 따라 감정과 속도 자동 조절\n• 실시간 대화 가능한 97ms 초저지연 구현\n• 간소화된 구조로 음성 품질과 효율성 극대화",
+          "translated_title": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
