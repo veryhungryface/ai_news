@@ -2,8 +2,22 @@
   "dates": [
     {
       "date": "2026-02-07",
-      "update_time": "2026-02-06 18:35:10",
+      "update_time": "2026-02-06 21:22:22",
       "news": [
+        {
+          "title": "[사이테크+] \"AI가 수 초 만에 뇌 MRI 판독…신경질환 진단 정확도 97%\"",
+          "link": "https://www.yna.co.kr/view/AKR20260206122500017",
+          "date": "2026-02-07",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 이주영 기자 = 뇌 자기공명영상(MRI)을 수 초 만에 판독해 신경질환을 정확하게 진단하고 환자가 얼마나 긴급하게 치료받아야 ...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/02/06/AKR20260206122500017_02_i_P2.jpg",
+          "is_english": true,
+          "original_title": "[사이테크+] \"AI가 수 초 만에 뇌 MRI 판독…신경질환 진단 정확도 97%\"",
+          "original_summary": "(서울=연합뉴스) 이주영 기자 = 뇌 자기공명영상(MRI)을 수 초 만에 판독해 신경질환을 정확하게 진단하고 환자가 얼마나 긴급하게 치료받아야 ...",
+          "summary": "• AI가 수 초 내 뇌 MRI 판독\n• 신경질환 진단 정확도 97%\n• 환자 치료 긴급도 판단 가능\n• 의료 현장의 효율성 향상 기대",
+          "translated_title": "[사이테크+] \"AI가 수 초 만에 뇌 MRI 판독…신경질환 진단 정확도 97%\"",
+          "category_keyword": "AI 진단"
+        },
         {
           "title": "기업들은 앤스로픽의 슈퍼볼 광고에 관심이 없다",
           "link": "https://aibusiness.com/generative-ai/enterprises-don-t-care-about-super-bowl-ad",
@@ -188,19 +202,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Tongyi-MAI/Z-Image",
-          "link": "https://huggingface.co/Tongyi-MAI/Z-Image",
-          "date": "2026-02-07",
-          "source": "HuggingFace",
-          "description": "• 통이MAI, 고품질 이미지 생성 모델 Z-Image 공개\n• 단일 스트림 디퓨전 트랜스포머 기술 탑재\n• 다양한 스타일과 정교한 프롬프트 준수 지원\n• HuggingFace에서 모델 체크포인트 다운로드 제공",
-          "image": "https://img.shields.io/badge/Official%20Site-333399.svg?logo=homepage",
-          "is_english": true,
-          "summary": "• 통이MAI, 고품질 이미지 생성 모델 Z-Image 공개\n• 단일 스트림 디퓨전 트랜스포머 기술 탑재\n• 다양한 스타일과 정교한 프롬프트 준수 지원\n• HuggingFace에서 모델 체크포인트 다운로드 제공",
-          "translated_title": "Tongyi-MAI/Z-Image",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "TeichAI/GLM-4.7-Flash-Claude-Opus-4.5-High-Reasoning-Distill-GGUF",
           "link": "https://huggingface.co/TeichAI/GLM-4.7-Flash-Claude-Opus-4.5-High-Reasoning-Distill-GGUF",
           "date": "2026-02-07",
@@ -210,6 +211,19 @@
           "is_english": true,
           "summary": "• 글로벌 고성능 추론 모델 공개\n• 코딩 및 과학 분야 최적화\n• 클로드 데이터 기반 학습 완료\n• 저사양 디바이스 배포 지원",
           "translated_title": "TeichAI/GLM-4.7-Flash-Claude-Opus-4.5-High-Reasoning-Distill-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Tongyi-MAI/Z-Image",
+          "link": "https://huggingface.co/Tongyi-MAI/Z-Image",
+          "date": "2026-02-07",
+          "source": "HuggingFace",
+          "description": "• 통이MAI, 고품질 이미지 생성 모델 Z-Image 공개\n• 단일 스트림 디퓨전 트랜스포머 기술 탑재\n• 다양한 스타일과 정교한 프롬프트 준수 지원\n• HuggingFace에서 모델 체크포인트 다운로드 제공",
+          "image": "https://img.shields.io/badge/Official%20Site-333399.svg?logo=homepage",
+          "is_english": true,
+          "summary": "• 통이MAI, 고품질 이미지 생성 모델 Z-Image 공개\n• 단일 스트림 디퓨전 트랜스포머 기술 탑재\n• 다양한 스타일과 정교한 프롬프트 준수 지원\n• HuggingFace에서 모델 체크포인트 다운로드 제공",
+          "translated_title": "Tongyi-MAI/Z-Image",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -240,19 +254,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3-ASR-0.6B",
-          "link": "https://huggingface.co/Qwen/Qwen3-ASR-0.6B",
-          "date": "2026-02-07",
-          "source": "HuggingFace",
-          "description": "• 52개 언어 지원 ASR 모델 공개\n• 상용 수준 성능과 고속 처리 구현\n• 긴 오디오 및 스트리밍 인식 지원\n• 정밀 타임스탬프 정렬 기능 제공",
-          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-ASR-Repo/qwen3_asr_introduction.png",
-          "is_english": true,
-          "summary": "• 52개 언어 지원 ASR 모델 공개\n• 상용 수준 성능과 고속 처리 구현\n• 긴 오디오 및 스트리밍 인식 지원\n• 정밀 타임스탬프 정렬 기능 제공",
-          "translated_title": "Qwen/Qwen3-ASR-0.6B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "zai-org/GLM-4.7-Flash",
           "link": "https://huggingface.co/zai-org/GLM-4.7-Flash",
           "date": "2026-02-07",
@@ -262,6 +263,19 @@
           "is_english": true,
           "summary": "• Z.ai, 고성능 300억 모델 공개\n• 경량화로 성능과 효율성 균형\n• 다양한 벤치마크서 최고 성능\n• vLLM 등 로컬 배포 환경 지원",
           "translated_title": "zai-org/GLM-4.7-Flash",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3-ASR-0.6B",
+          "link": "https://huggingface.co/Qwen/Qwen3-ASR-0.6B",
+          "date": "2026-02-07",
+          "source": "HuggingFace",
+          "description": "• 52개 언어 지원 ASR 모델 공개\n• 상용 수준 성능과 고속 처리 구현\n• 긴 오디오 및 스트리밍 인식 지원\n• 정밀 타임스탬프 정렬 기능 제공",
+          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-ASR-Repo/qwen3_asr_introduction.png",
+          "is_english": true,
+          "summary": "• 52개 언어 지원 ASR 모델 공개\n• 상용 수준 성능과 고속 처리 구현\n• 긴 오디오 및 스트리밍 인식 지원\n• 정밀 타임스탬프 정렬 기능 제공",
+          "translated_title": "Qwen/Qwen3-ASR-0.6B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -282,8 +296,64 @@
     },
     {
       "date": "2026-02-06",
-      "update_time": "2026-02-06 18:35:06",
+      "update_time": "2026-02-06 21:22:22",
       "news": [
+        {
+          "title": "모두를 위한 AI 실현: 현지화에 대한 우리의 접근 방식",
+          "link": "https://openai.com/index/our-approach-to-localization",
+          "date": "2026-02-06",
+          "source": "OpenAI",
+          "description": "OpenAI shares its approach to AI localization, showing how globally shared frontier models can be adapted to local languages, laws, and cultures without compromising safety.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Making AI work for everyone, everywhere: our approach to localization",
+          "original_summary": "OpenAI shares its approach to AI localization, showing how globally shared frontier models can be adapted to local languages, laws, and cultures without compromising safety.",
+          "summary": "• OpenAI의 현지화 접근 방식 공개\n• 글로벌 모델의 현지 언어 적응\n• 각국 법률과 문화에 맞춰 수정\n• 안전성을 타협하지 않는 원칙",
+          "translated_title": "모두를 위한 AI 실현: 현지화에 대한 우리의 접근 방식",
+          "category_keyword": "현지화"
+        },
+        {
+          "title": "어쩌면 AI 에이전트도 변호사가 될 수 있을지도 모른다",
+          "link": "https://techcrunch.com/2026/02/06/maybe-ai-agents-can-be-lawyers-after-all/",
+          "date": "2026-02-06",
+          "source": "TechCrunch",
+          "description": "This week's release of Opus 4.6 shook up the agentic AI leaderboards.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/10/54888410931_c37fed4674_k.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Maybe AI agents can be lawyers after all",
+          "original_summary": "This week's release of Opus 4.6 shook up the agentic AI leaderboards.",
+          "summary": "• 'Opus 4.6'이 이번 주 공개됨\n• 에이전트 AI 리더보드 흔들어\n• AI의 법률 분야 활용 가능성 제시\n• 고성능 AI 모델의 등장",
+          "translated_title": "어쩌면 AI 에이전트도 변호사가 될 수 있을지도 모른다",
+          "category_keyword": "Opus 4.6"
+        },
+        {
+          "title": "일론 머스크, 창업자 권력 규칙을 새로 쓰다",
+          "link": "https://techcrunch.com/video/how-elon-musk-is-rewriting-the-rules-on-founder-power/",
+          "date": "2026-02-06",
+          "source": "TechCrunch",
+          "description": "Elon Musk&#160;has&#160;merged&#160;SpaceX and xAI,&#160;creating&#160;what might be the blueprint for a new Silicon Valley power structure. With his&#160;$800 billion&#160;net worth already rivaling historic conglomerate GE&#8217;s peak market cap,&#160;and Musk being vocal about his view that &#8220;tech victory is decided by velocity of innovation,&#8221; the question&#160;isn&#8217;t&#160;whether a&#160;personal conglomerate&#160;can be built, but rather how far Musk himself is [&#8230;]",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/Screen-Shot-2026-02-05-at-10.07.05-AM.jpg?resize=1200,924",
+          "is_english": true,
+          "original_title": "How Elon Musk is rewriting the rules on founder power",
+          "original_summary": "Elon Musk&#160;has&#160;merged&#160;SpaceX and xAI,&#160;creating&#160;what might be the blueprint for a new Silicon Valley power structure. With his&#160;$800 billion&#160;net worth already rivaling historic conglomerate GE&#8217;s peak market cap,&#160;and Musk being vocal about his view that &#82",
+          "summary": "• 머스크, SpaceX와 xAI 통합\n• 새로운 실리콘밸리 권력 구조 제시\n• 순자산 8,000억 달러 달성\n• 과거 거대 기업 GE와 필적",
+          "translated_title": "일론 머스크, 창업자 권력 규칙을 새로 쓰다",
+          "category_keyword": "기업 통합"
+        },
+        {
+          "title": "\"이것이 과학입니다!\" – MIT 총장, 미국 연구 기업의 중요성 논의",
+          "link": "https://news.mit.edu/2026/science-mit-president-talks-about-importance-americas-research-enterprise-gbhs-boston-public",
+          "date": "2026-02-06",
+          "source": "MIT News",
+          "description": "MIT faculty join The Curiosity Desk to discuss football, math, Olympic figure skating, AI and the quest to cure ovarian cancer.",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/Sally%20Kornbluth%20GBH_0.png?itok=ijERDelJ",
+          "is_english": true,
+          "original_title": "“This is science!” – MIT president talks about the importance of America’s research enterprise on GBH’s Boston Public Radio",
+          "original_summary": "MIT faculty join The Curiosity Desk to discuss football, math, Olympic figure skating, AI and the quest to cure ovarian cancer.",
+          "summary": "• MIT 총장, 연구 기업 중요성 강조\n• 미식축구와 수학을 연계해 설명\n• AI 및 난소암 치료 논의\n• 올림픽 피겨 스케이팀 언급",
+          "translated_title": "\"이것이 과학입니다!\" – MIT 총장, 미국 연구 기업의 중요성 논의",
+          "category_keyword": "MIT 총장"
+        },
         {
           "title": "한국 개인정보 보호 정책",
           "link": "https://openai.com/policies/kr-privacy-policy",
