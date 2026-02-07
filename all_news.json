@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-02-08",
-      "update_time": "2026-02-07 18:21:37",
+      "update_time": "2026-02-07 21:17:23",
       "news": [
         {
           "title": "zai-org/GLM-OCR",
@@ -226,19 +226,6 @@
           "category": "AI Model"
         },
         {
-          "title": "PaddlePaddle/PaddleOCR-VL-1.5",
-          "link": "https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.5",
-          "date": "2026-02-08",
-          "source": "HuggingFace",
-          "description": "• 바이두, 문서 분석 AI 모델 공개\n• 9억 파라미터로 다양한 OCR 수행\n• 표·수식·도장 등 정밀 해석 지원\n• 복잡한 문서 레이아웃 이해 가능",
-          "image": "https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?color=ccf",
-          "is_english": true,
-          "summary": "• 바이두, 문서 분석 AI 모델 공개\n• 9억 파라미터로 다양한 OCR 수행\n• 표·수식·도장 등 정밀 해석 지원\n• 복잡한 문서 레이아웃 이해 가능",
-          "translated_title": "PaddlePaddle/PaddleOCR-VL-1.5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "DavidAU/GLM-4.7-Flash-Uncensored-Heretic-NEO-CODE-Imatrix-MAX-GGUF",
           "link": "https://huggingface.co/DavidAU/GLM-4.7-Flash-Uncensored-Heretic-NEO-CODE-Imatrix-MAX-GGUF",
           "date": "2026-02-08",
@@ -248,6 +235,19 @@
           "is_english": true,
           "summary": "• 검열 없는 GLM-4.7 플래시 모델 공개\n• 고성능 사고 추론 기능 탑재\n• CPU/GPU 병행 사용 환경 지원\n• 창작 및 소설 작성에 최적화",
           "translated_title": "DavidAU/GLM-4.7-Flash-Uncensored-Heretic-NEO-CODE-Imatrix-MAX-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "PaddlePaddle/PaddleOCR-VL-1.5",
+          "link": "https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.5",
+          "date": "2026-02-08",
+          "source": "HuggingFace",
+          "description": "• 바이두, 문서 분석 AI 모델 공개\n• 9억 파라미터로 다양한 OCR 수행\n• 표·수식·도장 등 정밀 해석 지원\n• 복잡한 문서 레이아웃 이해 가능",
+          "image": "https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?color=ccf",
+          "is_english": true,
+          "summary": "• 바이두, 문서 분석 AI 모델 공개\n• 9억 파라미터로 다양한 OCR 수행\n• 표·수식·도장 등 정밀 해석 지원\n• 복잡한 문서 레이아웃 이해 가능",
+          "translated_title": "PaddlePaddle/PaddleOCR-VL-1.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +268,22 @@
     },
     {
       "date": "2026-02-07",
-      "update_time": "2026-02-07 15:16:31",
+      "update_time": "2026-02-07 21:17:23",
       "news": [
+        {
+          "title": "뉴욕 의회, 새 데이터 센터 3년 유치 법안 제안",
+          "link": "https://techcrunch.com/2026/02/07/new-york-lawmakers-propose-a-three-year-pause-on-new-data-centers/",
+          "date": "2026-02-07",
+          "source": "TechCrunch",
+          "description": "Although the bill’s prospects are uncertain, New York is at least the sixth state to consider pausing construction of new data centers.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
+          "is_english": true,
+          "original_title": "New York lawmakers propose a three-year pause on new data centers",
+          "original_summary": "Although the bill’s prospects are uncertain, New York is at least the sixth state to consider pausing construction of new data centers.",
+          "summary": "• 뉴욕, 신규 데이터 센터 3년 유치 검토\n• 최소 여섯 번째로 유치 논의하는 주\n• 법안 통과 여부는 불확실한 상태\n• 데이터 센터 확산에 대한 우려 반영",
+          "translated_title": "뉴욕 의회, 새 데이터 센터 3년 유치 법안 제안",
+          "category_keyword": "뉴욕"
+        },
         {
           "title": "알트먼 \"우리는 스타트업에 불과...지나친 공격에 당혹스러워\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=206548",
