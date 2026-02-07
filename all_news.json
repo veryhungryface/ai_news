@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-02-08",
-      "update_time": "2026-02-07 15:16:31",
+      "update_time": "2026-02-07 18:21:37",
       "news": [
         {
           "title": "zai-org/GLM-OCR",
@@ -9307,7 +9307,7 @@
         {
           "title": "moonshotai/Kimi-K2.5",
           "link": "https://huggingface.co/moonshotai/Kimi-K2.5",
-          "date": "2026-01-30",
+          "date": "2026-02-08",
           "source": "HuggingFace",
           "description": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
           "image": "https://huggingface.co/moonshotai/Kimi-K2.5/resolve/main/figures/kimi-logo.png",
@@ -9320,7 +9320,7 @@
         {
           "title": "nvidia/personaplex-7b-v1",
           "link": "https://huggingface.co/nvidia/personaplex-7b-v1",
-          "date": "2026-01-30",
+          "date": "2026-02-08",
           "source": "HuggingFace",
           "description": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -9333,7 +9333,7 @@
         {
           "title": "Tongyi-MAI/Z-Image",
           "link": "https://huggingface.co/Tongyi-MAI/Z-Image",
-          "date": "2026-01-30",
+          "date": "2026-02-08",
           "source": "HuggingFace",
           "description": "• 통이MAI, 고품질 이미지 생성 모델 Z-Image 공개\n• 단일 스트림 디퓨전 트랜스포머 기술 탑재\n• 다양한 스타일과 정교한 프롬프트 준수 지원\n• HuggingFace에서 모델 체크포인트 다운로드 제공",
           "image": "https://img.shields.io/badge/Official%20Site-333399.svg?logo=homepage",
@@ -9359,7 +9359,7 @@
         {
           "title": "deepseek-ai/DeepSeek-OCR-2",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-OCR-2",
-          "date": "2026-01-30",
+          "date": "2026-02-08",
           "source": "HuggingFace",
           "description": "• 딥시크 차세대 OCR 모델 'DeepSeek-OCR 2' 공개\n• 인간처럼 이해하는 시각 인코딩 기술 탑재\n• 허깅페이스 통해 모델 무료 다운로드 지원\n• 그래픽카드 기반 추론 환경에서 사용 가능",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
