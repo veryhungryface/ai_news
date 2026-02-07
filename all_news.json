@@ -2,8 +2,36 @@
   "dates": [
     {
       "date": "2026-02-07",
-      "update_time": "2026-02-07 04:25:06",
+      "update_time": "2026-02-07 06:30:33",
       "news": [
+        {
+          "title": "[AI 이슈트렌드] 김선호 탈세·제미나이 오작동 등 연예·AI 이슈에 관심 집중",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=206542",
+          "date": "2026-02-07",
+          "source": "AI타임스",
+          "description": "연예인들의 탈세 의혹이 잇달아 AI타임스와 이스트에이드의 이슈 키워드 상위권을 차지했다. 2월 첫째 주(1월30일~2월5일) 순위에서는 ‘김선호 탈세 의혹(9.15%)’이 1위를 차지했다.배우 김선호는 같은 소속사인 차은우와 유사한 방식으로 1인 법인을 설립해 부모에게 급여를 지급하는 등 탈세 의혹에 휩싸였다.논란이 커지자 김선호 측은 즉각 사과와 함께 해당 법인은 폐업 절차를 밟고 있다고 전했다. 가족 급여와 법인 차량을 반납하고 개인소득세까지 추가 납부를 마쳤다고 해명했으나 주요 브랜드 광고 영상이 비공개로 전환되는 등 손절 움",
+          "image": "https://cdn.aitimes.com/news/photo/202602/206542_208499_4346.jpg",
+          "is_english": false,
+          "original_title": "﻿[AI 이슈트렌드] 김선호 탈세·제미나이 오작동 등 연예·AI 이슈에 관심 집중",
+          "original_summary": "연예인들의 탈세 의혹이 잇달아 AI타임스와 이스트에이드의 이슈 키워드 상위권을 차지했다. 2월 첫째 주(1월30일~2월5일) 순위에서는 ‘김선호 탈세 의혹(9.15%)’이 1위를 차지했다.배우 김선호는 같은 소속사인 차은우와 유사한 방식으로 1인 법인을 설립해 부모에게 급여를 지급하는 등 탈세 의혹에 휩싸였다.논란이 커지자 김선호 측은 즉각 사과와 함께 해당 법인은 폐업 절차를 밟고 있다고 전했다. 가족 급여와 법인 차량을 반납하고 개인소득세까지 추가 납부를 마쳤다고 해명했으나 주요 브랜드 광고 영상이 비공개로 전환되는 등 손절 움",
+          "summary": "• 연예인 탈세 의혹, 상위권 점유\n• 김선호, 1위 차지하며 논란\n• 1인 법인 통한 부동 혐의\n• 사과와 법인 폐업으로 해명",
+          "translated_title": "[AI 이슈트렌드] 김선호 탈세·제미나이 오작동 등 연예·AI 이슈에 관심 집중",
+          "category_keyword": "탈세 의혹"
+        },
+        {
+          "title": "벤치마크, 2억2500만 달러 특별 펀드 조성으로 세레브러스 추가 투자",
+          "link": "https://techcrunch.com/2026/02/06/benchmark-raises-225m-in-special-funds-to-double-down-on-cerebras/",
+          "date": "2026-02-07",
+          "source": "TechCrunch",
+          "description": "Benchmark Capital has been an investor in the Nvidia rival since 2016. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1251294592.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Benchmark raises $225M in special funds to double down on Cerebras",
+          "original_summary": "Benchmark Capital has been an investor in the Nvidia rival since 2016. ",
+          "summary": "• 엔비디아 경쟁사 투자 확대\n• 2억2500만 달러 조성\n• 2016년부터 투자자 참여\n• AI 칩 분주 집중 의지",
+          "translated_title": "벤치마크, 2억2500만 달러 특별 펀드 조성으로 세레브러스 추가 투자",
+          "category_keyword": "세레브러스"
+        },
         {
           "title": "봉화 산란계 농장서 고병원성 조류인플루엔자 의심 사례",
           "link": "https://www.yna.co.kr/view/AKR20260207028000053",
@@ -249,19 +277,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3-ASR-1.7B",
-          "link": "https://huggingface.co/Qwen/Qwen3-ASR-1.7B",
-          "date": "2026-02-07",
-          "source": "HuggingFace",
-          "description": "• 52개 언어 식별 및 음성 인식 지원\n• 최고 수준의 오픈소스 성능 입증\n• 스트리밍 통합 추론 기능 제공\n• 강력한 성능의 추론 툴킷 공개",
-          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-ASR-Repo/qwen3_asr_introduction.png",
-          "is_english": true,
-          "summary": "• 52개 언어 식별 및 음성 인식 지원\n• 최고 수준의 오픈소스 성능 입증\n• 스트리밍 통합 추론 기능 제공\n• 강력한 성능의 추론 툴킷 공개",
-          "translated_title": "Qwen/Qwen3-ASR-1.7B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Qwen3-Coder-Next-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3-Coder-Next-GGUF",
           "date": "2026-02-07",
@@ -271,6 +286,19 @@
           "is_english": true,
           "summary": "• 허깅페이스, 신규 코딩 모델 공개\n• 로컬 실행 최적화 기술 지원\n• 출력 품질 개선 업데이트 완료\n• 고용량 메모리 환경 권장 안내",
           "translated_title": "unsloth/Qwen3-Coder-Next-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3-ASR-1.7B",
+          "link": "https://huggingface.co/Qwen/Qwen3-ASR-1.7B",
+          "date": "2026-02-07",
+          "source": "HuggingFace",
+          "description": "• 52개 언어 식별 및 음성 인식 지원\n• 최고 수준의 오픈소스 성능 입증\n• 스트리밍 통합 추론 기능 제공\n• 강력한 성능의 추론 툴킷 공개",
+          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-ASR-Repo/qwen3_asr_introduction.png",
+          "is_english": true,
+          "summary": "• 52개 언어 식별 및 음성 인식 지원\n• 최고 수준의 오픈소스 성능 입증\n• 스트리밍 통합 추론 기능 제공\n• 강력한 성능의 추론 툴킷 공개",
+          "translated_title": "Qwen/Qwen3-ASR-1.7B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -301,19 +329,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/personaplex-7b-v1",
-          "link": "https://huggingface.co/nvidia/personaplex-7b-v1",
-          "date": "2026-02-07",
-          "source": "HuggingFace",
-          "description": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
-          "translated_title": "nvidia/personaplex-7b-v1",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "TeichAI/GLM-4.7-Flash-Claude-Opus-4.5-High-Reasoning-Distill-GGUF",
           "link": "https://huggingface.co/TeichAI/GLM-4.7-Flash-Claude-Opus-4.5-High-Reasoning-Distill-GGUF",
           "date": "2026-02-07",
@@ -323,6 +338,19 @@
           "is_english": true,
           "summary": "• 글로벌 고성능 추론 모델 공개\n• 코딩 및 과학 분야 최적화\n• 클로드 데이터 기반 학습 완료\n• 저사양 디바이스 배포 지원",
           "translated_title": "TeichAI/GLM-4.7-Flash-Claude-Opus-4.5-High-Reasoning-Distill-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/personaplex-7b-v1",
+          "link": "https://huggingface.co/nvidia/personaplex-7b-v1",
+          "date": "2026-02-07",
+          "source": "HuggingFace",
+          "description": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
+          "translated_title": "nvidia/personaplex-7b-v1",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
