@@ -2,8 +2,36 @@
   "dates": [
     {
       "date": "2026-02-07",
-      "update_time": "2026-02-07 01:07:28",
+      "update_time": "2026-02-07 04:25:06",
       "news": [
+        {
+          "title": "봉화 산란계 농장서 고병원성 조류인플루엔자 의심 사례",
+          "link": "https://www.yna.co.kr/view/AKR20260207028000053",
+          "date": "2026-02-07",
+          "source": "연합뉴스",
+          "description": "(봉화=연합뉴스) 김선형 기자 = 경북도는 봉화군 산란계 농장에서 지난 6일 H5형 조류인플루엔자(AI) 항원이 검출됐다고 7일 밝혔다.",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/02/07/AKR20260207028000053_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "봉화 산란계 농장서 고병원성 조류인플루엔자 의심 사례",
+          "original_summary": "(봉화=연합뉴스) 김선형 기자 = 경북도는 봉화군 산란계 농장에서 지난 6일 H5형 조류인플루엔자(AI) 항원이 검출됐다고 7일 밝혔다.",
+          "summary": "• 경북 봉화군 산란계 농장에서 AI 의심\n• 지난 6일 H5형 항원 검출됨\n• 경북도가 7일 관련 사실을 밝힘\n• 추가 확산 방지에 총력 대응 예정",
+          "translated_title": "봉화 산란계 농장서 고병원성 조류인플루엔자 의심 사례",
+          "category_keyword": "조류인플루엔자"
+        },
+        {
+          "title": "빅테크, AI에 967조 투입 계획...젠슨 황 \"적절하고 지속 가능한 투자\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=206543",
+          "date": "2026-02-07",
+          "source": "AI타임스",
+          "description": "미국의 대형 기술 기업들이 올해 AI에 6600억달러(약 967조원)를 투자하겠다는 계획을 발표한 뒤, 주가가 크게 하락했다. 그러나 젠슨 황 엔비디아 CEO는 급증하는 자본 지출은 적절하며 지속 가능하다고 옹호했다.아마존과 구글, 마이크로소프트(MS), 메타 등은 이번 주 마무리된 실적 발표를 통해 일제히 올해 자본 지출액(CAPEX)을 지난해 보다 대폭 확대하겠다고 예고했다.아마존은 5일(현지시간) 올해 2000억달러(약 293조원)를 투자할 계획이라고 밝혔다. 이는 지난해 1318억달러보다 50% 증가한 수치다. 앞서 구글은",
+          "image": "https://cdn.aitimes.com/news/photo/202602/206543_208500_5533.jpg",
+          "is_english": false,
+          "original_title": "빅테크, AI에 967조 투입 계획...젠슨 황 \"적절하고 지속 가능한 투자\"",
+          "original_summary": "미국의 대형 기술 기업들이 올해 AI에 6600억달러(약 967조원)를 투자하겠다는 계획을 발표한 뒤, 주가가 크게 하락했다. 그러나 젠슨 황 엔비디아 CEO는 급증하는 자본 지출은 적절하며 지속 가능하다고 옹호했다.아마존과 구글, 마이크로소프트(MS), 메타 등은 이번 주 마무리된 실적 발표를 통해 일제히 올해 자본 지출액(CAPEX)을 지난해 보다 대폭 확대하겠다고 예고했다.아마존은 5일(현지시간) 올해 2000억달러(약 293조원)를 투자할 계획이라고 밝혔다. 이는 지난해 1318억달러보다 50% 증가한 수치다. 앞서 구글은",
+          "summary": "• 빅테크, AI에 올해 967조원 투자\n• 투자 발표 후 주가는 크게 하락\n• 젠슨 황, 투자 규모는 적절하다 주장\n• 아마존 등 4개사 CAPEX 대폭 확대",
+          "translated_title": "빅테크, AI에 967조 투입 계획...젠슨 황 \"적절하고 지속 가능한 투자\"",
+          "category_keyword": "빅테크 투자"
+        },
         {
           "title": "[AI웹툰] 사랑하면그사람이된다 : 휴재공지",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=206538",
@@ -351,19 +379,6 @@
           "category": "AI Model"
         },
         {
-          "title": "zai-org/GLM-4.7-Flash",
-          "link": "https://huggingface.co/zai-org/GLM-4.7-Flash",
-          "date": "2026-02-07",
-          "source": "HuggingFace",
-          "description": "• Z.ai, 고성능 300억 모델 공개\n• 경량화로 성능과 효율성 균형\n• 다양한 벤치마크서 최고 성능\n• vLLM 등 로컬 배포 환경 지원",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Z.ai, 고성능 300억 모델 공개\n• 경량화로 성능과 효율성 균형\n• 다양한 벤치마크서 최고 성능\n• vLLM 등 로컬 배포 환경 지원",
-          "translated_title": "zai-org/GLM-4.7-Flash",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "stepfun-ai/Step-3.5-Flash-Int4",
           "link": "https://huggingface.co/stepfun-ai/Step-3.5-Flash-Int4",
           "date": "2026-02-07",
@@ -375,13 +390,40 @@
           "translated_title": "stepfun-ai/Step-3.5-Flash-Int4",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "zai-org/GLM-4.7-Flash",
+          "link": "https://huggingface.co/zai-org/GLM-4.7-Flash",
+          "date": "2026-02-07",
+          "source": "HuggingFace",
+          "description": "• Z.ai, 고성능 300억 모델 공개\n• 경량화로 성능과 효율성 균형\n• 다양한 벤치마크서 최고 성능\n• vLLM 등 로컬 배포 환경 지원",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Z.ai, 고성능 300억 모델 공개\n• 경량화로 성능과 효율성 균형\n• 다양한 벤치마크서 최고 성능\n• vLLM 등 로컬 배포 환경 지원",
+          "translated_title": "zai-org/GLM-4.7-Flash",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-02-06",
-      "update_time": "2026-02-07 01:07:07",
+      "update_time": "2026-02-07 04:25:06",
       "news": [
+        {
+          "title": "스베다에서 앤스로픽까지, 슈퍼볼 광고 속 기업들의 AI 대담한 도전",
+          "link": "https://techcrunch.com/2026/02/06/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
+          "date": "2026-02-06",
+          "source": "TechCrunch",
+          "description": "From the first AI-generated Big Game ad courtesy of Svedka to Anthropic's beef with OpenAI, here are the biggest ads from Super Bowl LX.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/svedkasuperbowl2026.png?w=1200",
+          "is_english": true,
+          "original_title": "From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads",
+          "original_summary": "From the first AI-generated Big Game ad courtesy of Svedka to Anthropic's beef with OpenAI, here are the biggest ads from Super Bowl LX.",
+          "summary": "• 슈베다, AI 생성 첫 빅게임 광고\n• 앤스로픽, 오픈AI 겨냥 광고 선보여\n• 슈퍼볼 광고에서 AI가 중요한 소재\n• 주요 기업들의 AI 관련 광고 경쟁",
+          "translated_title": "스베다에서 앤스로픽까지, 슈퍼볼 광고 속 기업들의 AI 대담한 도전",
+          "category_keyword": "슈퍼볼 광고"
+        },
         {
           "title": "Claude, 워드프레스 사이트 확인 기능 강화",
           "link": "https://techcrunch.com/2026/02/06/it-just-got-easier-for-claude-to-check-in-on-your-wordpress-site/",
