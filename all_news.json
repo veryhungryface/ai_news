@@ -2,8 +2,22 @@
   "dates": [
     {
       "date": "2026-02-07",
-      "update_time": "2026-02-07 06:30:33",
+      "update_time": "2026-02-07 09:21:58",
       "news": [
+        {
+          "title": "트럼프, 오바마의 인종차별적 영상 논란 후 삭제...사과는 없어",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=206545",
+          "date": "2026-02-07",
+          "source": "AI타임스",
+          "description": "도널드 트럼프 미국 대통령이 버락 오바마 전 대통령 부부를 원숭이로 묘사한 인종차별적 영상 클립을 자신의 소셜미디어에 게시했다가 거센 반발 속에 삭제했다. 그러나 사과는 내놓지 않아, 정치권과 사회 전반에 파장이 커지고 있다.6일(현지시간) 뉴욕타임스(NYT)에 따르면, 문제가 된 영상은 트럼프 대통령이 지난 5일 밤 트루스소셜에 연이어 올린 게시물 가운데 하나다. 2020년 대선 부정 음모론을 홍보하는 62초 분량 영상 말미에 삽입돼 있었다.영상에는 ‘라이온 슬립스 투나잇(The Lion Sleeps Tonight)’을 배경 음악",
+          "image": "https://cdn.aitimes.com/news/photo/202602/206545_208504_217.jpg",
+          "is_english": false,
+          "original_title": "트럼프, 오바마의 인종차별적 영상 논란 후 삭제...사과는 없어",
+          "original_summary": "도널드 트럼프 미국 대통령이 버락 오바마 전 대통령 부부를 원숭이로 묘사한 인종차별적 영상 클립을 자신의 소셜미디어에 게시했다가 거센 반발 속에 삭제했다. 그러나 사과는 내놓지 않아, 정치권과 사회 전반에 파장이 커지고 있다.6일(현지시간) 뉴욕타임스(NYT)에 따르면, 문제가 된 영상은 트럼프 대통령이 지난 5일 밤 트루스소셜에 연이어 올린 게시물 가운데 하나다. 2020년 대선 부정 음모론을 홍보하는 62초 분량 영상 말미에 삽입돼 있었다.영상에는 ‘라이온 슬립스 투나잇(The Lion Sleeps Tonight)’을 배경 음악",
+          "summary": "• 트럼프, 오바마 부부 원숭이 묘사 영상 게시\n• 거센 비판 속 해당 게시물 삭제 처리\n• 정파적 갈등 심화와 사회적 파장 확산\n• 2020 대선 부정 선동 영상에 포함된 형태",
+          "translated_title": "트럼프, 오바마의 인종차별적 영상 논란 후 삭제...사과는 없어",
+          "category_keyword": "인종차별"
+        },
         {
           "title": "[AI 이슈트렌드] 김선호 탈세·제미나이 오작동 등 연예·AI 이슈에 관심 집중",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=206542",
@@ -316,19 +330,6 @@
           "category": "AI Model"
         },
         {
-          "title": "robbyant/lingbot-world-base-cam",
-          "link": "https://huggingface.co/robbyant/lingbot-world-base-cam",
-          "date": "2026-02-07",
-          "source": "HuggingFace",
-          "description": "• 로비안트 팀, '링봇-월드' 공개\n• 현실부터 카툰까지 고품질 구현\n• 일 분 이상 장면 기억 유지\n• 초당 16프레임 실시간 생성 지원",
-          "image": "https://img.shields.io/badge/%F0%9F%8C%90%20Project%20Page-Demo-00bfff",
-          "is_english": true,
-          "summary": "• 로비안트 팀, '링봇-월드' 공개\n• 현실부터 카툰까지 고품질 구현\n• 일 분 이상 장면 기억 유지\n• 초당 16프레임 실시간 생성 지원",
-          "translated_title": "robbyant/lingbot-world-base-cam",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "TeichAI/GLM-4.7-Flash-Claude-Opus-4.5-High-Reasoning-Distill-GGUF",
           "link": "https://huggingface.co/TeichAI/GLM-4.7-Flash-Claude-Opus-4.5-High-Reasoning-Distill-GGUF",
           "date": "2026-02-07",
@@ -338,6 +339,19 @@
           "is_english": true,
           "summary": "• 글로벌 고성능 추론 모델 공개\n• 코딩 및 과학 분야 최적화\n• 클로드 데이터 기반 학습 완료\n• 저사양 디바이스 배포 지원",
           "translated_title": "TeichAI/GLM-4.7-Flash-Claude-Opus-4.5-High-Reasoning-Distill-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "robbyant/lingbot-world-base-cam",
+          "link": "https://huggingface.co/robbyant/lingbot-world-base-cam",
+          "date": "2026-02-07",
+          "source": "HuggingFace",
+          "description": "• 로비안트 팀, '링봇-월드' 공개\n• 현실부터 카툰까지 고품질 구현\n• 일 분 이상 장면 기억 유지\n• 초당 16프레임 실시간 생성 지원",
+          "image": "https://img.shields.io/badge/%F0%9F%8C%90%20Project%20Page-Demo-00bfff",
+          "is_english": true,
+          "summary": "• 로비안트 팀, '링봇-월드' 공개\n• 현실부터 카툰까지 고품질 구현\n• 일 분 이상 장면 기억 유지\n• 초당 16프레임 실시간 생성 지원",
+          "translated_title": "robbyant/lingbot-world-base-cam",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
