@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-02-09",
-      "update_time": "2026-02-08 18:23:13",
+      "update_time": "2026-02-08 21:17:53",
       "news": [
         {
           "title": "zai-org/GLM-OCR",
@@ -200,19 +200,6 @@
           "category": "AI Model"
         },
         {
-          "title": "robbyant/lingbot-world-base-cam",
-          "link": "https://huggingface.co/robbyant/lingbot-world-base-cam",
-          "date": "2026-02-09",
-          "source": "HuggingFace",
-          "description": "• 로비안트 팀, '링봇-월드' 공개\n• 현실부터 카툰까지 고품질 구현\n• 일 분 이상 장면 기억 유지\n• 초당 16프레임 실시간 생성 지원",
-          "image": "https://img.shields.io/badge/%F0%9F%8C%90%20Project%20Page-Demo-00bfff",
-          "is_english": true,
-          "summary": "• 로비안트 팀, '링봇-월드' 공개\n• 현실부터 카툰까지 고품질 구현\n• 일 분 이상 장면 기억 유지\n• 초당 16프레임 실시간 생성 지원",
-          "translated_title": "robbyant/lingbot-world-base-cam",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "stepfun-ai/Step-3.5-Flash-Int4",
           "link": "https://huggingface.co/stepfun-ai/Step-3.5-Flash-Int4",
           "date": "2026-02-09",
@@ -252,6 +239,19 @@
           "category": "AI Model"
         },
         {
+          "title": "robbyant/lingbot-world-base-cam",
+          "link": "https://huggingface.co/robbyant/lingbot-world-base-cam",
+          "date": "2026-02-09",
+          "source": "HuggingFace",
+          "description": "• 로비안트 팀, '링봇-월드' 공개\n• 현실부터 카툰까지 고품질 구현\n• 일 분 이상 장면 기억 유지\n• 초당 16프레임 실시간 생성 지원",
+          "image": "https://img.shields.io/badge/%F0%9F%8C%90%20Project%20Page-Demo-00bfff",
+          "is_english": true,
+          "summary": "• 로비안트 팀, '링봇-월드' 공개\n• 현실부터 카툰까지 고품질 구현\n• 일 분 이상 장면 기억 유지\n• 초당 16프레임 실시간 생성 지원",
+          "translated_title": "robbyant/lingbot-world-base-cam",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "deepseek-ai/DeepSeek-OCR-2",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-OCR-2",
           "date": "2026-02-09",
@@ -268,8 +268,36 @@
     },
     {
       "date": "2026-02-08",
-      "update_time": "2026-02-08 18:23:12",
+      "update_time": "2026-02-08 21:17:53",
       "news": [
+        {
+          "title": "크립토닷컴, 슈퍼볼 앞두고 AI.com 도메인에 7,000만 달러 투자",
+          "link": "https://techcrunch.com/2026/02/08/crypto-com-places-70m-bet-on-ai-com-domain-ahead-of-super-bowl/",
+          "date": "2026-02-08",
+          "source": "TechCrunch",
+          "description": "The purchase rewrites the domain record books -- not that the crypto industry has ever been accused of restraint when it comes to spending.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/Screenshot-2026-02-08-at-12.27.26-PM.png?resize=1200,671",
+          "is_english": true,
+          "original_title": "Crypto.com places $70M bet on AI.com domain ahead of Super Bowl",
+          "original_summary": "The purchase rewrites the domain record books -- not that the crypto industry has ever been accused of restraint when it comes to spending.",
+          "summary": "• 크립토닷컴이 AI.com 도메인을 매입\n • 7,000만 달러(약 930억 원) 투자\n • 슈퍼볼 시즌을 앞두고 공격적 행보\n • 도메인 역대 최고가 갱신 기록",
+          "translated_title": "크립토닷컴, 슈퍼볼 앞두고 AI.com 도메인에 7,000만 달러 투자",
+          "category_keyword": "AI.com"
+        },
+        {
+          "title": "'위대한 앰버슨가' AI 프로젝트에 대해 화는 덜 났지만, 여전히 나쁜 생각이다",
+          "link": "https://techcrunch.com/2026/02/08/okay-im-slightly-less-mad-about-that-magnificent-ambersons-ai-project/",
+          "date": "2026-02-08",
+          "source": "TechCrunch",
+          "description": "But this is still a bad idea.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-3348882.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Okay, I’m slightly less mad about that ‘Magnificent Ambersons’ AI project",
+          "original_summary": "But this is still a bad idea.",
+          "summary": "• AI 활용 영화 프로젝트 논란\n • 기존 우려보다는 화가 덜함\n • 여전히 부정적인 입장 변화 없음\n • 창작 윤리적 문제 제기",
+          "translated_title": "'위대한 앰버슨가' AI 프로젝트에 대해 화는 덜 났지만, 여전히 나쁜 생각이다",
+          "category_keyword": "AI영화"
+        },
         {
           "title": "스베다에서 앤스로픽까지, 슈퍼볼 광고에서 브랜드들의 AI 대담한 승부수",
           "link": "https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
