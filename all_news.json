@@ -2,8 +2,22 @@
   "dates": [
     {
       "date": "2026-02-08",
-      "update_time": "2026-02-08 06:38:55",
+      "update_time": "2026-02-08 09:22:06",
       "news": [
+        {
+          "title": "중국, '전기차 성공 공식' 휴머노이드 로봇에도 적용…미국과 격차 벌려",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=206552",
+          "date": "2026-02-08",
+          "source": "AI타임스",
+          "description": "중국이 전기차 산업에서 성공을 거둔 ‘정부 주도 속도전’을 휴머노이드 로봇 분야에도 적용, 미국과의 기술 패권 경쟁에서 앞서가고 있다는 분석이다. 월스트리트저널(WSJ)은 6일(현지시간) 중국이 막대한 정부 자금과 강력한 제조 생태계를 기반으로 휴머노이드 로봇 시장을 빠르게 장악하자, 일론 머스크 CEO가 이에 대해 공개적으로 우려를 표명했으며 미국 정부는 뒤늦게 대응 전략을 모색하고 있다고 전했다.이에 따르면, 중국에는 현재 140개가 넘는 기업이 휴머노이드 로봇을 개발·제조하고 있으며, 이들 기업은 주로 선전과 쑤저우에 밀집해",
+          "image": "https://cdn.aitimes.com/news/photo/202602/206552_208514_4758.png",
+          "is_english": false,
+          "original_title": "중국, '전기차 성공 공식' 휴머노이드 로봇에도 적용…미국과 격차 벌려",
+          "original_summary": "중국이 전기차 산업에서 성공을 거둔 ‘정부 주도 속도전’을 휴머노이드 로봇 분야에도 적용, 미국과의 기술 패권 경쟁에서 앞서가고 있다는 분석이다. 월스트리트저널(WSJ)은 6일(현지시간) 중국이 막대한 정부 자금과 강력한 제조 생태계를 기반으로 휴머노이드 로봇 시장을 빠르게 장악하자, 일론 머스크 CEO가 이에 대해 공개적으로 우려를 표명했으며 미국 정부는 뒤늦게 대응 전략을 모색하고 있다고 전했다.이에 따르면, 중국에는 현재 140개가 넘는 기업이 휴머노이드 로봇을 개발·제조하고 있으며, 이들 기업은 주로 선전과 쑤저우에 밀집해",
+          "summary": "• 중국, 전기차 성공 공식 로봇에 적용\n• 정부 주도와 속도전으로 기술 우위\n• 일론 머스크 CEO, 중국의 성장 우려\n• 미 정부, 뒤늦게 대응 전략 모색",
+          "translated_title": "중국, '전기차 성공 공식' 휴머노이드 로봇에도 적용…미국과 격차 벌려",
+          "category_keyword": "휴머노이드"
+        },
         {
           "title": "'AI 민원서비스 혁신 시나리오·개발방법' 공모전…3월 6일까지",
           "link": "https://www.yna.co.kr/view/AKR20260208012200530",
@@ -284,19 +298,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Tongyi-MAI/Z-Image",
-          "link": "https://huggingface.co/Tongyi-MAI/Z-Image",
-          "date": "2026-02-08",
-          "source": "HuggingFace",
-          "description": "• 통이MAI, 고품질 이미지 생성 모델 Z-Image 공개\n• 단일 스트림 디퓨전 트랜스포머 기술 탑재\n• 다양한 스타일과 정교한 프롬프트 준수 지원\n• HuggingFace에서 모델 체크포인트 다운로드 제공",
-          "image": "https://img.shields.io/badge/Official%20Site-333399.svg?logo=homepage",
-          "is_english": true,
-          "summary": "• 통이MAI, 고품질 이미지 생성 모델 Z-Image 공개\n• 단일 스트림 디퓨전 트랜스포머 기술 탑재\n• 다양한 스타일과 정교한 프롬프트 준수 지원\n• HuggingFace에서 모델 체크포인트 다운로드 제공",
-          "translated_title": "Tongyi-MAI/Z-Image",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "DavidAU/GLM-4.7-Flash-Uncensored-Heretic-NEO-CODE-Imatrix-MAX-GGUF",
           "link": "https://huggingface.co/DavidAU/GLM-4.7-Flash-Uncensored-Heretic-NEO-CODE-Imatrix-MAX-GGUF",
           "date": "2026-02-08",
@@ -306,6 +307,19 @@
           "is_english": true,
           "summary": "• 검열 없는 GLM-4.7 플래시 모델 공개\n• 고성능 사고 추론 기능 탑재\n• CPU/GPU 병행 사용 환경 지원\n• 창작 및 소설 작성에 최적화",
           "translated_title": "DavidAU/GLM-4.7-Flash-Uncensored-Heretic-NEO-CODE-Imatrix-MAX-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Tongyi-MAI/Z-Image",
+          "link": "https://huggingface.co/Tongyi-MAI/Z-Image",
+          "date": "2026-02-08",
+          "source": "HuggingFace",
+          "description": "• 통이MAI, 고품질 이미지 생성 모델 Z-Image 공개\n• 단일 스트림 디퓨전 트랜스포머 기술 탑재\n• 다양한 스타일과 정교한 프롬프트 준수 지원\n• HuggingFace에서 모델 체크포인트 다운로드 제공",
+          "image": "https://img.shields.io/badge/Official%20Site-333399.svg?logo=homepage",
+          "is_english": true,
+          "summary": "• 통이MAI, 고품질 이미지 생성 모델 Z-Image 공개\n• 단일 스트림 디퓨전 트랜스포머 기술 탑재\n• 다양한 스타일과 정교한 프롬프트 준수 지원\n• HuggingFace에서 모델 체크포인트 다운로드 제공",
+          "translated_title": "Tongyi-MAI/Z-Image",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -323,19 +337,6 @@
           "category": "AI Model"
         },
         {
-          "title": "PaddlePaddle/PaddleOCR-VL-1.5",
-          "link": "https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.5",
-          "date": "2026-02-08",
-          "source": "HuggingFace",
-          "description": "• 바이두, 문서 분석 AI 모델 공개\n• 9억 파라미터로 다양한 OCR 수행\n• 표·수식·도장 등 정밀 해석 지원\n• 복잡한 문서 레이아웃 이해 가능",
-          "image": "https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?color=ccf",
-          "is_english": true,
-          "summary": "• 바이두, 문서 분석 AI 모델 공개\n• 9억 파라미터로 다양한 OCR 수행\n• 표·수식·도장 등 정밀 해석 지원\n• 복잡한 문서 레이아웃 이해 가능",
-          "translated_title": "PaddlePaddle/PaddleOCR-VL-1.5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "stepfun-ai/Step-3.5-Flash-Int4",
           "link": "https://huggingface.co/stepfun-ai/Step-3.5-Flash-Int4",
           "date": "2026-02-08",
@@ -345,6 +346,19 @@
           "is_english": true,
           "summary": "• 스텝푸, 최신 오픈소스 모델 공개\n• 고성능 추론 능력 갖춘 기반 모델\n• 전문가 혼합 아키텍처로 효율성 극대화\n• 일반인도 모델 체험 가능",
           "translated_title": "stepfun-ai/Step-3.5-Flash-Int4",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "PaddlePaddle/PaddleOCR-VL-1.5",
+          "link": "https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.5",
+          "date": "2026-02-08",
+          "source": "HuggingFace",
+          "description": "• 바이두, 문서 분석 AI 모델 공개\n• 9억 파라미터로 다양한 OCR 수행\n• 표·수식·도장 등 정밀 해석 지원\n• 복잡한 문서 레이아웃 이해 가능",
+          "image": "https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?color=ccf",
+          "is_english": true,
+          "summary": "• 바이두, 문서 분석 AI 모델 공개\n• 9억 파라미터로 다양한 OCR 수행\n• 표·수식·도장 등 정밀 해석 지원\n• 복잡한 문서 레이아웃 이해 가능",
+          "translated_title": "PaddlePaddle/PaddleOCR-VL-1.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
