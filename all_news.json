@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-02-09",
-      "update_time": "2026-02-08 15:17:20",
+      "update_time": "2026-02-08 18:23:13",
       "news": [
         {
           "title": "zai-org/GLM-OCR",
@@ -187,19 +187,6 @@
           "category": "AI Model"
         },
         {
-          "title": "robbyant/lingbot-world-base-cam",
-          "link": "https://huggingface.co/robbyant/lingbot-world-base-cam",
-          "date": "2026-02-09",
-          "source": "HuggingFace",
-          "description": "• 로비안트 팀, '링봇-월드' 공개\n• 현실부터 카툰까지 고품질 구현\n• 일 분 이상 장면 기억 유지\n• 초당 16프레임 실시간 생성 지원",
-          "image": "https://img.shields.io/badge/%F0%9F%8C%90%20Project%20Page-Demo-00bfff",
-          "is_english": true,
-          "summary": "• 로비안트 팀, '링봇-월드' 공개\n• 현실부터 카툰까지 고품질 구현\n• 일 분 이상 장면 기억 유지\n• 초당 16프레임 실시간 생성 지원",
-          "translated_title": "robbyant/lingbot-world-base-cam",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "DavidAU/GLM-4.7-Flash-Uncensored-Heretic-NEO-CODE-Imatrix-MAX-GGUF",
           "link": "https://huggingface.co/DavidAU/GLM-4.7-Flash-Uncensored-Heretic-NEO-CODE-Imatrix-MAX-GGUF",
           "date": "2026-02-09",
@@ -209,6 +196,19 @@
           "is_english": true,
           "summary": "• 검열 없는 GLM-4.7 플래시 모델 공개\n• 고성능 사고 추론 기능 탑재\n• CPU/GPU 병행 사용 환경 지원\n• 창작 및 소설 작성에 최적화",
           "translated_title": "DavidAU/GLM-4.7-Flash-Uncensored-Heretic-NEO-CODE-Imatrix-MAX-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "robbyant/lingbot-world-base-cam",
+          "link": "https://huggingface.co/robbyant/lingbot-world-base-cam",
+          "date": "2026-02-09",
+          "source": "HuggingFace",
+          "description": "• 로비안트 팀, '링봇-월드' 공개\n• 현실부터 카툰까지 고품질 구현\n• 일 분 이상 장면 기억 유지\n• 초당 16프레임 실시간 생성 지원",
+          "image": "https://img.shields.io/badge/%F0%9F%8C%90%20Project%20Page-Demo-00bfff",
+          "is_english": true,
+          "summary": "• 로비안트 팀, '링봇-월드' 공개\n• 현실부터 카툰까지 고품질 구현\n• 일 분 이상 장면 기억 유지\n• 초당 16프레임 실시간 생성 지원",
+          "translated_title": "robbyant/lingbot-world-base-cam",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +268,22 @@
     },
     {
       "date": "2026-02-08",
-      "update_time": "2026-02-08 15:17:20",
+      "update_time": "2026-02-08 18:23:12",
       "news": [
+        {
+          "title": "스베다에서 앤스로픽까지, 슈퍼볼 광고에서 브랜드들의 AI 대담한 승부수",
+          "link": "https://techcrunch.com/2026/02/08/super-bowl-60-ai-ads-svedka-anthropic-brands-commercials/",
+          "date": "2026-02-08",
+          "source": "TechCrunch",
+          "description": "From the first AI-generated Big Game ad courtesy of Svedka to Anthropic's beef with OpenAI, here are the biggest ads from Super Bowl LX.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/svedkasuperbowl2026.png?w=1200",
+          "is_english": true,
+          "original_title": "From Svedka to Anthropic, brands make bold plays with AI in Super Bowl ads",
+          "original_summary": "From the first AI-generated Big Game ad courtesy of Svedka to Anthropic's beef with OpenAI, here are the biggest ads from Super Bowl LX.",
+          "summary": "• 스베다, 최초 AI 생성 광고 선봬\n • 앤스로픽, 오픈AI 겨냥한 공격적 광고\n • 슈퍼볼 광고계 AI 전쟁 시작\n • 글로벌 브랜드, AI 마케팅 가속화",
+          "translated_title": "스베다에서 앤스로픽까지, 슈퍼볼 광고에서 브랜드들의 AI 대담한 승부수",
+          "category_keyword": "AI 광고"
+        },
         {
           "title": "이동주 모두싸인 CTO “전자계약에 AI 결합으로 국내 1위 지킬 것”",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=206558",
@@ -8565,7 +8579,7 @@
         {
           "title": "moonshotai/Kimi-K2.5",
           "link": "https://huggingface.co/moonshotai/Kimi-K2.5",
-          "date": "2026-01-31",
+          "date": "2026-02-09",
           "source": "HuggingFace",
           "description": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
           "image": "https://huggingface.co/moonshotai/Kimi-K2.5/resolve/main/figures/kimi-logo.png",
@@ -8578,7 +8592,7 @@
         {
           "title": "nvidia/personaplex-7b-v1",
           "link": "https://huggingface.co/nvidia/personaplex-7b-v1",
-          "date": "2026-01-31",
+          "date": "2026-02-09",
           "source": "HuggingFace",
           "description": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -8604,7 +8618,7 @@
         {
           "title": "deepseek-ai/DeepSeek-OCR-2",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-OCR-2",
-          "date": "2026-01-31",
+          "date": "2026-02-09",
           "source": "HuggingFace",
           "description": "• 딥시크 차세대 OCR 모델 'DeepSeek-OCR 2' 공개\n• 인간처럼 이해하는 시각 인코딩 기술 탑재\n• 허깅페이스 통해 모델 무료 다운로드 지원\n• 그래픽카드 기반 추론 환경에서 사용 가능",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
@@ -8682,7 +8696,7 @@
         {
           "title": "Qwen/Qwen3-ASR-1.7B",
           "link": "https://huggingface.co/Qwen/Qwen3-ASR-1.7B",
-          "date": "2026-01-31",
+          "date": "2026-02-09",
           "source": "HuggingFace",
           "description": "• 52개 언어 식별 및 음성 인식 지원\n• 최고 수준의 오픈소스 성능 입증\n• 스트리밍 통합 추론 기능 제공\n• 강력한 성능의 추론 툴킷 공개",
           "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-ASR-Repo/qwen3_asr_introduction.png",
