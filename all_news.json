@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-02-08",
-      "update_time": "2026-02-08 04:56:57",
+      "update_time": "2026-02-08 06:38:55",
       "news": [
         {
           "title": "'AI 민원서비스 혁신 시나리오·개발방법' 공모전…3월 6일까지",
@@ -154,19 +154,6 @@
           "category": "AI Model"
         },
         {
-          "title": "circlestone-labs/Anima",
-          "link": "https://huggingface.co/circlestone-labs/Anima",
-          "date": "2026-02-08",
-          "source": "HuggingFace",
-          "description": "• 애니메이션 전문 고품질 이미지 모델 공개\n• 최대 20억 파라미터 규모의 경량화 설계\n• ComfyUI 기반으로 쉽고 빠른 생성 지원\n• 현재 사전 공개 버전으로 지속 업데이트 예정",
-          "image": "https://huggingface.co/circlestone-labs/Anima/resolve/main/example.png",
-          "is_english": true,
-          "summary": "• 애니메이션 전문 고품질 이미지 모델 공개\n• 최대 20억 파라미터 규모의 경량화 설계\n• ComfyUI 기반으로 쉽고 빠른 생성 지원\n• 현재 사전 공개 버전으로 지속 업데이트 예정",
-          "translated_title": "circlestone-labs/Anima",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "ACE-Step/Ace-Step1.5",
           "link": "https://huggingface.co/ACE-Step/Ace-Step1.5",
           "date": "2026-02-08",
@@ -176,6 +163,19 @@
           "is_english": true,
           "summary": "• 상업적 이용 가능한 오픈소스 음악 생성 모델 공개\n• 합법적 데이터로 학습된 안전한 생성 기능 제공\n• 고성능 GPU 기반 2초 만에 곡 생성 구현\n• 일반 PC에서도 구동 가능한 저용량 요구사항 확보",
           "translated_title": "ACE-Step/Ace-Step1.5",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "circlestone-labs/Anima",
+          "link": "https://huggingface.co/circlestone-labs/Anima",
+          "date": "2026-02-08",
+          "source": "HuggingFace",
+          "description": "• 애니메이션 전문 고품질 이미지 모델 공개\n• 최대 20억 파라미터 규모의 경량화 설계\n• ComfyUI 기반으로 쉽고 빠른 생성 지원\n• 현재 사전 공개 버전으로 지속 업데이트 예정",
+          "image": "https://huggingface.co/circlestone-labs/Anima/resolve/main/example.png",
+          "is_english": true,
+          "summary": "• 애니메이션 전문 고품질 이미지 모델 공개\n• 최대 20억 파라미터 규모의 경량화 설계\n• ComfyUI 기반으로 쉽고 빠른 생성 지원\n• 현재 사전 공개 버전으로 지속 업데이트 예정",
+          "translated_title": "circlestone-labs/Anima",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -245,19 +245,6 @@
           "category": "AI Model"
         },
         {
-          "title": "robbyant/lingbot-world-base-cam",
-          "link": "https://huggingface.co/robbyant/lingbot-world-base-cam",
-          "date": "2026-02-08",
-          "source": "HuggingFace",
-          "description": "• 로비안트 팀, '링봇-월드' 공개\n• 현실부터 카툰까지 고품질 구현\n• 일 분 이상 장면 기억 유지\n• 초당 16프레임 실시간 생성 지원",
-          "image": "https://img.shields.io/badge/%F0%9F%8C%90%20Project%20Page-Demo-00bfff",
-          "is_english": true,
-          "summary": "• 로비안트 팀, '링봇-월드' 공개\n• 현실부터 카툰까지 고품질 구현\n• 일 분 이상 장면 기억 유지\n• 초당 16프레임 실시간 생성 지원",
-          "translated_title": "robbyant/lingbot-world-base-cam",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nvidia/personaplex-7b-v1",
           "link": "https://huggingface.co/nvidia/personaplex-7b-v1",
           "date": "2026-02-08",
@@ -284,6 +271,19 @@
           "category": "AI Model"
         },
         {
+          "title": "robbyant/lingbot-world-base-cam",
+          "link": "https://huggingface.co/robbyant/lingbot-world-base-cam",
+          "date": "2026-02-08",
+          "source": "HuggingFace",
+          "description": "• 로비안트 팀, '링봇-월드' 공개\n• 현실부터 카툰까지 고품질 구현\n• 일 분 이상 장면 기억 유지\n• 초당 16프레임 실시간 생성 지원",
+          "image": "https://img.shields.io/badge/%F0%9F%8C%90%20Project%20Page-Demo-00bfff",
+          "is_english": true,
+          "summary": "• 로비안트 팀, '링봇-월드' 공개\n• 현실부터 카툰까지 고품질 구현\n• 일 분 이상 장면 기억 유지\n• 초당 16프레임 실시간 생성 지원",
+          "translated_title": "robbyant/lingbot-world-base-cam",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Tongyi-MAI/Z-Image",
           "link": "https://huggingface.co/Tongyi-MAI/Z-Image",
           "date": "2026-02-08",
@@ -297,19 +297,6 @@
           "category": "AI Model"
         },
         {
-          "title": "deepseek-ai/DeepSeek-OCR-2",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-OCR-2",
-          "date": "2026-02-08",
-          "source": "HuggingFace",
-          "description": "• 딥시크 차세대 OCR 모델 'DeepSeek-OCR 2' 공개\n• 인간처럼 이해하는 시각 인코딩 기술 탑재\n• 허깅페이스 통해 모델 무료 다운로드 지원\n• 그래픽카드 기반 추론 환경에서 사용 가능",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
-          "is_english": true,
-          "summary": "• 딥시크 차세대 OCR 모델 'DeepSeek-OCR 2' 공개\n• 인간처럼 이해하는 시각 인코딩 기술 탑재\n• 허깅페이스 통해 모델 무료 다운로드 지원\n• 그래픽카드 기반 추론 환경에서 사용 가능",
-          "translated_title": "deepseek-ai/DeepSeek-OCR-2",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "DavidAU/GLM-4.7-Flash-Uncensored-Heretic-NEO-CODE-Imatrix-MAX-GGUF",
           "link": "https://huggingface.co/DavidAU/GLM-4.7-Flash-Uncensored-Heretic-NEO-CODE-Imatrix-MAX-GGUF",
           "date": "2026-02-08",
@@ -319,6 +306,19 @@
           "is_english": true,
           "summary": "• 검열 없는 GLM-4.7 플래시 모델 공개\n• 고성능 사고 추론 기능 탑재\n• CPU/GPU 병행 사용 환경 지원\n• 창작 및 소설 작성에 최적화",
           "translated_title": "DavidAU/GLM-4.7-Flash-Uncensored-Heretic-NEO-CODE-Imatrix-MAX-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-OCR-2",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-OCR-2",
+          "date": "2026-02-08",
+          "source": "HuggingFace",
+          "description": "• 딥시크 차세대 OCR 모델 'DeepSeek-OCR 2' 공개\n• 인간처럼 이해하는 시각 인코딩 기술 탑재\n• 허깅페이스 통해 모델 무료 다운로드 지원\n• 그래픽카드 기반 추론 환경에서 사용 가능",
+          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
+          "is_english": true,
+          "summary": "• 딥시크 차세대 OCR 모델 'DeepSeek-OCR 2' 공개\n• 인간처럼 이해하는 시각 인코딩 기술 탑재\n• 허깅페이스 통해 모델 무료 다운로드 지원\n• 그래픽카드 기반 추론 환경에서 사용 가능",
+          "translated_title": "deepseek-ai/DeepSeek-OCR-2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
