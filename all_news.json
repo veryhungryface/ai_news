@@ -2,8 +2,50 @@
   "dates": [
     {
       "date": "2026-02-10",
-      "update_time": "2026-02-09 18:44:24",
+      "update_time": "2026-02-09 21:30:57",
       "news": [
+        {
+          "title": "서·논술형 평가 확대·AI 채점 지원…서울 '미래형 평가체제'",
+          "link": "https://www.yna.co.kr/view/AKR20260209127900530",
+          "date": "2026-02-10",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 오보람 기자 = 서울시교육청은 &apos;정답 찾기&apos; 평가에서 벗어나 학생의 사고력과 성장을 진단하기 위해 &apos;2026학년도 중등 학생평...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/02/09/AKR20260209127900530_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "서·논술형 평가 확대·AI 채점 지원…서울 '미래형 평가체제'",
+          "original_summary": "(서울=연합뉴스) 오보람 기자 = 서울시교육청은 &apos;정답 찾기&apos; 평가에서 벗어나 학생의 사고력과 성장을 진단하기 위해 &apos;2026학년도 중등 학생평...",
+          "summary": "• 정답 찾기식 평가 탈피 추구\n• 학생 사고력과 성장 진단\n• 서·논술형 평가 대폭 확대\n• AI 활용 채점 시스템 지원",
+          "translated_title": "서·논술형 평가 확대·AI 채점 지원…서울 '미래형 평가체제'",
+          "category_keyword": "미래형평가"
+        },
+        {
+          "title": "의료 AI 데이터 활용 지원 참여 기업 내달 16일까지 모집",
+          "link": "https://www.yna.co.kr/view/AKR20260209152100530",
+          "date": "2026-02-10",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 권지현 기자 = 보건복지부는 내달 16일까지 의료 인공지능(AI) 데이터 바우처 지원사업에 참여할 기업을 모집한다고 10일 밝...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/02/09/AKR20260209152100530_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "의료 AI 데이터 활용 지원 참여 기업 내달 16일까지 모집",
+          "original_summary": "(서울=연합뉴스) 권지현 기자 = 보건복지부는 내달 16일까지 의료 인공지능(AI) 데이터 바우처 지원사업에 참여할 기업을 모집한다고 10일 밝...",
+          "summary": "• 보건복지부 지원사업 시행\n• 의료 AI 데이터 바우처 지원\n• 참여 기업 모집 시작\n• 오는 16일까지 신청 가능",
+          "translated_title": "의료 AI 데이터 활용 지원 참여 기업 내달 16일까지 모집",
+          "category_keyword": "의료AI"
+        },
+        {
+          "title": "스타트업, 스프레드시트 데이터 위한 '대형 표 모델' 도입",
+          "link": "https://aibusiness.com/foundation-models/startup-large-tabular-model-spreadsheet-data",
+          "date": "2026-02-10",
+          "source": "AI Business",
+          "description": "The company's AI tool was built to make sense of structured data, an area where large language models struggle.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltf8b5940598acc419/698a44659683f4809bd0b960/spreadsheet.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Startup Introduces 'Large Tabular Model' for Spreadsheet Data",
+          "original_summary": "The company's AI tool was built to make sense of structured data, an area where large language models struggle.",
+          "summary": "• 구조화된 데이터 분석 AI\n• 대형 언어 모델 약점 보완\n• 엑셀 등 스프레드시트 활용\n• 표 형태 데이터 의미 파악",
+          "translated_title": "스타트업, 스프레드시트 데이터 위한 '대형 표 모델' 도입",
+          "category_keyword": "표 데이터AI"
+        },
         {
           "title": "2026년 AI 소송 전망: 합의와 라이선싱, 소송 공방",
           "link": "https://aibusiness.com/generative-ai/ai-lawsuits-in-2026-settlements-licensing-deals-litigation",
@@ -240,19 +282,6 @@
           "category": "AI Model"
         },
         {
-          "title": "zai-org/GLM-4.7-Flash",
-          "link": "https://huggingface.co/zai-org/GLM-4.7-Flash",
-          "date": "2026-02-10",
-          "source": "HuggingFace",
-          "description": "• Z.ai, 고성능 300억 모델 공개\n• 경량화로 성능과 효율성 균형\n• 다양한 벤치마크서 최고 성능\n• vLLM 등 로컬 배포 환경 지원",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Z.ai, 고성능 300억 모델 공개\n• 경량화로 성능과 효율성 균형\n• 다양한 벤치마크서 최고 성능\n• vLLM 등 로컬 배포 환경 지원",
-          "translated_title": "zai-org/GLM-4.7-Flash",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "deepseek-ai/DeepSeek-OCR-2",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-OCR-2",
           "date": "2026-02-10",
@@ -262,6 +291,19 @@
           "is_english": true,
           "summary": "• 딥시크 차세대 OCR 모델 'DeepSeek-OCR 2' 공개\n• 인간처럼 이해하는 시각 인코딩 기술 탑재\n• 허깅페이스 통해 모델 무료 다운로드 지원\n• 그래픽카드 기반 추론 환경에서 사용 가능",
           "translated_title": "deepseek-ai/DeepSeek-OCR-2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "zai-org/GLM-4.7-Flash",
+          "link": "https://huggingface.co/zai-org/GLM-4.7-Flash",
+          "date": "2026-02-10",
+          "source": "HuggingFace",
+          "description": "• Z.ai, 고성능 300억 모델 공개\n• 경량화로 성능과 효율성 균형\n• 다양한 벤치마크서 최고 성능\n• vLLM 등 로컬 배포 환경 지원",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Z.ai, 고성능 300억 모델 공개\n• 경량화로 성능과 효율성 균형\n• 다양한 벤치마크서 최고 성능\n• vLLM 등 로컬 배포 환경 지원",
+          "translated_title": "zai-org/GLM-4.7-Flash",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -282,8 +324,64 @@
     },
     {
       "date": "2026-02-09",
-      "update_time": "2026-02-09 18:44:24",
+      "update_time": "2026-02-09 21:30:57",
       "news": [
+        {
+          "title": "챗GPT, 광고 도입 테스트 나선다",
+          "link": "https://openai.com/index/testing-ads-in-chatgpt",
+          "date": "2026-02-09",
+          "source": "OpenAI",
+          "description": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Testing ads in ChatGPT",
+          "original_summary": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
+          "summary": "• 챗GPT 무료 접속 지원 목적\n• 광고 테스트 단계 진입\n• 명확한 광고 표시 의무\n• 강력한 프라이버시 보호",
+          "translated_title": "챗GPT, 광고 도입 테스트 나선다",
+          "category_keyword": "챗GPT광고"
+        },
+        {
+          "title": "데이터브릭스 CEO \"SaaS 죽지 않지만, AI로 무의미해질 것\"",
+          "link": "https://techcrunch.com/2026/02/09/databricks-ceo-says-saas-isnt-dead-but-ai-will-soon-make-it-irrelevant/",
+          "date": "2026-02-09",
+          "source": "TechCrunch",
+          "description": "AI isn't going to replace major SaaS apps with vibe-coded versions, Databricks Ali Ghodsi believes. But it could give rise to competitors.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/01/Databricks_042221_Ali_Ghodsi_236.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Databricks CEO says SaaS isn’t dead, but AI will soon make it irrelevant",
+          "original_summary": "AI isn't going to replace major SaaS apps with vibe-coded versions, Databricks Ali Ghodsi believes. But it could give rise to competitors.",
+          "summary": "• SaaS가 즉시 사라지는 아님\n• AI가 SaaS와 무관하게 만듦\n• 기존 앱 대체 아니지만 경쟁 초래\n• 새로운 경쟁자 등장 가능성",
+          "translated_title": "데이터브릭스 CEO \"SaaS 죽지 않지만, AI로 무의미해질 것\"",
+          "category_keyword": "SaaS와AI"
+        },
+        {
+          "title": "앤스로픽, 인도 시장 진출 시 현지 기업과 상표권 분쟁",
+          "link": "https://techcrunch.com/2026/02/09/anthropics-india-expansion-collides-with-a-local-company-that-already-had-the-name/",
+          "date": "2026-02-09",
+          "source": "TechCrunch",
+          "description": "India's Anthropic Software has taken the U.S. AI giant to court over a name dispute.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/anthropic-image-jagmeet-singh-techcrunch.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Anthropic’s India expansion collides with a local company that already had the name",
+          "original_summary": "India's Anthropic Software has taken the U.S. AI giant to court over a name dispute.",
+          "summary": "• 인도 시장 확장 추진 중\n• 동명 현지 소프트웨어 기업 존재\n• 미 AI 기업 법정 소송 제기\n• 상표권 분쟁 발생",
+          "translated_title": "앤스로픽, 인도 시장 진출 시 현지 기업과 상표권 분쟁",
+          "category_keyword": "상표권분쟁"
+        },
+        {
+          "title": "챗GPT, 광고 기능 출시",
+          "link": "https://techcrunch.com/2026/02/09/chatgpt-rolls-out-ads/",
+          "date": "2026-02-09",
+          "source": "TechCrunch",
+          "description": "OpenAI faced a backlash late last year when it tested app suggestions that looked like unwanted ads. Still, the AI company needs to generate revenue from its popular chatbot to cover the costs of developing its technology and growing the business.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/chatgpt-ads.webp?resize=1200,675",
+          "is_english": true,
+          "original_title": "ChatGPT rolls out ads",
+          "original_summary": "OpenAI faced a backlash late last year when it tested app suggestions that looked like unwanted ads. Still, the AI company needs to generate revenue from its popular chatbot to cover the costs of developing its technology and growing the business.",
+          "summary": "• 작년 앱 제안 논란 있었음\n• 인기 챗봇 수익 모델 필요\n• 기술 개발 비용 충당 목표\n• 비즈니스 성장 위한 수익화",
+          "translated_title": "챗GPT, 광고 기능 출시",
+          "category_keyword": "수익화"
+        },
         {
           "title": "워크데이 이센바흐 CEO 퇴임, 공동창업자 부스리 복귀",
           "link": "https://techcrunch.com/2026/02/09/workday-ceo-eschenbach-departs-with-co-founder-aneel-bhusri-returning-as-ceo/",
