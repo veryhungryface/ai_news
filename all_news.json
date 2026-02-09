@@ -2,8 +2,36 @@
   "dates": [
     {
       "date": "2026-02-09",
-      "update_time": "2026-02-08 21:17:53",
+      "update_time": "2026-02-09 01:14:36",
       "news": [
+        {
+          "title": "소리는 더 크고 범위는 더 넓게…에어태그 2세대 리뷰",
+          "link": "https://www.itworld.co.kr/article/4128452/%ec%86%8c%eb%a6%ac%eb%8a%94-%eb%8d%94-%ed%81%ac%ea%b3%a0-%eb%b2%94%ec%9c%84%eb%8a%94-%eb%8d%94-%eb%84%93%ea%b2%8c%ec%97%90%ec%96%b4%ed%83%9c%ea%b7%b8-2%ec%84%b8%eb%8c%80-%eb%a6%ac%eb%b7%b0.html",
+          "date": "2026-02-09",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n애플이 5년 만에 에어태그 2세대를 출시했다. 외형은 전 세대와 거의 같지만, 2가지 성능이 크게 개선된 점이 눈에 띈다. 태그를 실은 짐이 근처에 있을 때 더 빨리 인식하도록 알림음이 커졌고, 정밀 탐색 범위가 1.5배 넓어졌다.\n\n\n\n그 핵심에는 전 세계 규모의 사용자를 기반으로 한 ‘나의 찾기’ 추적 기술이 있다. 기존 모델과 마찬가지로 새 에어태그도 익명화되고 암호화된 블루투스 신호를 송출하며, 애플의 나의 찾기 네트워크에 연결된 주변 기기가 신호를 감지한다.\n\n\n\n전 세계에 활성화된 아이폰과 기타 애플 기기 수를 고려하면, 에어태그가 포착될 수 있는 기회는 10억 회 이상에 달한다. 요약하면 핵심 기능은 동일하지만, 추적 성능은 더 향상됐다는 평가다.\n\n\n오른쪽이 에어태그 2세대다. 외형상 차이는 가장자리의 대문자 각인뿐이다.Apple\n\n\n\n디자인은 거의 동일\n\n\n\n디자인은 여전히 하단이 크롬으로 마감된 화이트 색상 한 종류다. 그래",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/02/4128452-0-13803900-1770599343-AirTag-2-Review-2026-4.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "소리는 더 크고 범위는 더 넓게…에어태그 2세대 리뷰",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n애플이 5년 만에 에어태그 2세대를 출시했다. 외형은 전 세대와 거의 같지만, 2가지 성능이 크게 개선된 점이 눈에 띈다. 태그를 실은 짐이 근처에 있을 때 더 빨리 인식하도록 알림음이 커졌고, 정밀 탐색 범위가 1.5배 넓어졌다.\n\n\n\n그 핵심에는 전 세계 규모의 사용자를 기반으로 한 ‘나의 찾기’ 추적 기술이 있다. 기존 모델과 마찬가지로 새 에어태그도 익명화되고 암호화된 블루투스 신호를 송출하며, 애플의 나의 찾기 네트워크에 연결된 주변 기기가 신호를 감지한다.\n\n\n\n전 세계에 활성화된",
+          "summary": "• 애플, 5년 만에 에어태그 2세대 출시\n• 외형은 기존과 동일, 성능 개선\n• 알림음 커지고 탐색 범위 확대\n• 나의 찾기 네트워크 기반 추적",
+          "translated_title": "소리는 더 크고 범위는 더 넓게…에어태그 2세대 리뷰",
+          "category_keyword": "에어태그"
+        },
+        {
+          "title": "구글, 개발자 문서 활용 위한 API와 MCP 서버 공개",
+          "link": "https://www.itworld.co.kr/article/4129126/%ea%b5%ac%ea%b8%80-%ea%b0%9c%eb%b0%9c%ec%9e%90-%eb%ac%b8%ec%84%9c-%ed%99%9c%ec%9a%a9-%ec%9c%84%ed%95%9c-api%ec%99%80-mcp-%ec%84%9c%eb%b2%84-%ea%b3%b5%ea%b0%9c.html",
+          "date": "2026-02-09",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n구글은 공식 개발자 문서를 기계가 읽을 수 있는 형태로 제공하는 개발자 지식 API(Developer Knowledge API)와 이에 연동된 모델 컨텍스트 프로토콜(Model Context Protocol, MCP) 서버를 프리뷰로 공개했다.\n\n\n\n최근 발표된 개발자 지식 API는 구글의 공개 개발자 문서를 위한 프로그래밍 방식의 기준 소스로 설계됐다. 개발자는 firebase.google.com, developer.android.com, docs.cloud.google.com 등 다양한 사이트에 있는 문서에 접근할 수 있다. 또한 해당 문서를 마크다운 형식으로 검색하고 가져올 수 있다.\n\n\n\n함께 제공되는 MCP 서버는 AI 기반 개발 도구가 구글 개발자 문서를 직접 읽을 수 있도록 지원한다. 이를 통해 구현 가이드 제공, 문제 해결, 기능 비교 분석 등 보다 신뢰도 높은 기능을 구현할 수 있다. 개발자 지식 MCP 서버는 사용자의 IDE",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/02/4129126-0-99681400-1770597674-shutterstock_2401223205.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "구글, 개발자 문서 활용 위한 API와 MCP 서버 공개",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n구글은 공식 개발자 문서를 기계가 읽을 수 있는 형태로 제공하는 개발자 지식 API(Developer Knowledge API)와 이에 연동된 모델 컨텍스트 프로토콜(Model Context Protocol, MCP) 서버를 프리뷰로 공개했다.\n\n\n\n최근 발표된 개발자 지식 API는 구글의 공개 개발자 문서를 위한 프로그래밍 방식의 기준 소스로 설계됐다. 개발자는 firebase.google.com, developer.android.com, docs.cloud.google.com 등 다양한 ",
+          "summary": "• 구글, 개발자 지식 API 프리뷰 공개\n• 문서 기계 판독 가능 형태 제공\n• MCP 서버 연동 지원\n• 개발자 문서 프로그래밍 방식 활용",
+          "translated_title": "구글, 개발자 문서 활용 위한 API와 MCP 서버 공개",
+          "category_keyword": "구글 API"
+        },
         {
           "title": "zai-org/GLM-OCR",
           "link": "https://huggingface.co/zai-org/GLM-OCR",
@@ -44,19 +72,6 @@
           "category": "AI Model"
         },
         {
-          "title": "moonshotai/Kimi-K2.5",
-          "link": "https://huggingface.co/moonshotai/Kimi-K2.5",
-          "date": "2026-02-09",
-          "source": "HuggingFace",
-          "description": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
-          "image": "https://huggingface.co/moonshotai/Kimi-K2.5/resolve/main/figures/kimi-logo.png",
-          "is_english": true,
-          "summary": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
-          "translated_title": "moonshotai/Kimi-K2.5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "openbmb/MiniCPM-o-4_5",
           "link": "https://huggingface.co/openbmb/MiniCPM-o-4_5",
           "date": "2026-02-09",
@@ -66,6 +81,19 @@
           "is_english": true,
           "summary": "• 구글 Gemini 수준의 온디바이스 AI 공개\n• 시각과 언어 능력에서 GPT-4o 능가\n• 중영어 실시간 음성 대화 지원\n• 멀티모달 실시간 스트리밍 구현",
           "translated_title": "openbmb/MiniCPM-o-4_5",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "moonshotai/Kimi-K2.5",
+          "link": "https://huggingface.co/moonshotai/Kimi-K2.5",
+          "date": "2026-02-09",
+          "source": "HuggingFace",
+          "description": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
+          "image": "https://huggingface.co/moonshotai/Kimi-K2.5/resolve/main/figures/kimi-logo.png",
+          "is_english": true,
+          "summary": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
+          "translated_title": "moonshotai/Kimi-K2.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -174,19 +202,6 @@
           "category": "AI Model"
         },
         {
-          "title": "tencent/HunyuanImage-3.0-Instruct",
-          "link": "https://huggingface.co/tencent/HunyuanImage-3.0-Instruct",
-          "date": "2026-02-09",
-          "source": "HuggingFace",
-          "description": "• 텐센트, 최신 멀티모달 이미지 모델 공개\n• 뛰어난 이미지 생성 성능 구현함\n• 가벼운 디스틸 버전 동시 출시\n• 공식 웹사이트에서 체험 가능",
-          "image": "https://huggingface.co/tencent/HunyuanImage-3.0-Instruct/resolve/main/./assets/logo.png",
-          "is_english": true,
-          "summary": "• 텐센트, 최신 멀티모달 이미지 모델 공개\n• 뛰어난 이미지 생성 성능 구현함\n• 가벼운 디스틸 버전 동시 출시\n• 공식 웹사이트에서 체험 가능",
-          "translated_title": "tencent/HunyuanImage-3.0-Instruct",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "DavidAU/GLM-4.7-Flash-Uncensored-Heretic-NEO-CODE-Imatrix-MAX-GGUF",
           "link": "https://huggingface.co/DavidAU/GLM-4.7-Flash-Uncensored-Heretic-NEO-CODE-Imatrix-MAX-GGUF",
           "date": "2026-02-09",
@@ -200,28 +215,15 @@
           "category": "AI Model"
         },
         {
-          "title": "stepfun-ai/Step-3.5-Flash-Int4",
-          "link": "https://huggingface.co/stepfun-ai/Step-3.5-Flash-Int4",
+          "title": "tencent/HunyuanImage-3.0-Instruct",
+          "link": "https://huggingface.co/tencent/HunyuanImage-3.0-Instruct",
           "date": "2026-02-09",
           "source": "HuggingFace",
-          "description": "• 스텝푸, 최신 오픈소스 모델 공개\n• 고성능 추론 능력 갖춘 기반 모델\n• 전문가 혼합 아키텍처로 효율성 극대화\n• 일반인도 모델 체험 가능",
-          "image": "https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white",
+          "description": "• 텐센트, 최신 멀티모달 이미지 모델 공개\n• 뛰어난 이미지 생성 성능 구현함\n• 가벼운 디스틸 버전 동시 출시\n• 공식 웹사이트에서 체험 가능",
+          "image": "https://huggingface.co/tencent/HunyuanImage-3.0-Instruct/resolve/main/./assets/logo.png",
           "is_english": true,
-          "summary": "• 스텝푸, 최신 오픈소스 모델 공개\n• 고성능 추론 능력 갖춘 기반 모델\n• 전문가 혼합 아키텍처로 효율성 극대화\n• 일반인도 모델 체험 가능",
-          "translated_title": "stepfun-ai/Step-3.5-Flash-Int4",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "Qwen/Qwen3-Coder-Next-GGUF",
-          "link": "https://huggingface.co/Qwen/Qwen3-Coder-Next-GGUF",
-          "date": "2026-02-09",
-          "source": "HuggingFace",
-          "description": "• Qwen3-Coder-Next 코딩 에이전트 공개\n• 3B 활용 파라미터로 고성능 구현\n• 복잡한 도구 사용 및 장기 추론 지원\n• 실제 IDE 통합 가능한 256k 컨텍스트 제공",
-          "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Coder-Next/benchmarks.png",
-          "is_english": true,
-          "summary": "• Qwen3-Coder-Next 코딩 에이전트 공개\n• 3B 활용 파라미터로 고성능 구현\n• 복잡한 도구 사용 및 장기 추론 지원\n• 실제 IDE 통합 가능한 256k 컨텍스트 제공",
-          "translated_title": "Qwen/Qwen3-Coder-Next-GGUF",
+          "summary": "• 텐센트, 최신 멀티모달 이미지 모델 공개\n• 뛰어난 이미지 생성 성능 구현함\n• 가벼운 디스틸 버전 동시 출시\n• 공식 웹사이트에서 체험 가능",
+          "translated_title": "tencent/HunyuanImage-3.0-Instruct",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,15 +241,28 @@
           "category": "AI Model"
         },
         {
-          "title": "robbyant/lingbot-world-base-cam",
-          "link": "https://huggingface.co/robbyant/lingbot-world-base-cam",
+          "title": "Qwen/Qwen3-Coder-Next-GGUF",
+          "link": "https://huggingface.co/Qwen/Qwen3-Coder-Next-GGUF",
           "date": "2026-02-09",
           "source": "HuggingFace",
-          "description": "• 로비안트 팀, '링봇-월드' 공개\n• 현실부터 카툰까지 고품질 구현\n• 일 분 이상 장면 기억 유지\n• 초당 16프레임 실시간 생성 지원",
-          "image": "https://img.shields.io/badge/%F0%9F%8C%90%20Project%20Page-Demo-00bfff",
+          "description": "• Qwen3-Coder-Next 코딩 에이전트 공개\n• 3B 활용 파라미터로 고성능 구현\n• 복잡한 도구 사용 및 장기 추론 지원\n• 실제 IDE 통합 가능한 256k 컨텍스트 제공",
+          "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Coder-Next/benchmarks.png",
           "is_english": true,
-          "summary": "• 로비안트 팀, '링봇-월드' 공개\n• 현실부터 카툰까지 고품질 구현\n• 일 분 이상 장면 기억 유지\n• 초당 16프레임 실시간 생성 지원",
-          "translated_title": "robbyant/lingbot-world-base-cam",
+          "summary": "• Qwen3-Coder-Next 코딩 에이전트 공개\n• 3B 활용 파라미터로 고성능 구현\n• 복잡한 도구 사용 및 장기 추론 지원\n• 실제 IDE 통합 가능한 256k 컨텍스트 제공",
+          "translated_title": "Qwen/Qwen3-Coder-Next-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "stepfun-ai/Step-3.5-Flash-Int4",
+          "link": "https://huggingface.co/stepfun-ai/Step-3.5-Flash-Int4",
+          "date": "2026-02-09",
+          "source": "HuggingFace",
+          "description": "• 스텝푸, 최신 오픈소스 모델 공개\n• 고성능 추론 능력 갖춘 기반 모델\n• 전문가 혼합 아키텍처로 효율성 극대화\n• 일반인도 모델 체험 가능",
+          "image": "https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white",
+          "is_english": true,
+          "summary": "• 스텝푸, 최신 오픈소스 모델 공개\n• 고성능 추론 능력 갖춘 기반 모델\n• 전문가 혼합 아키텍처로 효율성 극대화\n• 일반인도 모델 체험 가능",
+          "translated_title": "stepfun-ai/Step-3.5-Flash-Int4",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -261,6 +276,19 @@
           "is_english": true,
           "summary": "• 딥시크 차세대 OCR 모델 'DeepSeek-OCR 2' 공개\n• 인간처럼 이해하는 시각 인코딩 기술 탑재\n• 허깅페이스 통해 모델 무료 다운로드 지원\n• 그래픽카드 기반 추론 환경에서 사용 가능",
           "translated_title": "deepseek-ai/DeepSeek-OCR-2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "robbyant/lingbot-world-base-cam",
+          "link": "https://huggingface.co/robbyant/lingbot-world-base-cam",
+          "date": "2026-02-09",
+          "source": "HuggingFace",
+          "description": "• 로비안트 팀, '링봇-월드' 공개\n• 현실부터 카툰까지 고품질 구현\n• 일 분 이상 장면 기억 유지\n• 초당 16프레임 실시간 생성 지원",
+          "image": "https://img.shields.io/badge/%F0%9F%8C%90%20Project%20Page-Demo-00bfff",
+          "is_english": true,
+          "summary": "• 로비안트 팀, '링봇-월드' 공개\n• 현실부터 카툰까지 고품질 구현\n• 일 분 이상 장면 기억 유지\n• 초당 16프레임 실시간 생성 지원",
+          "translated_title": "robbyant/lingbot-world-base-cam",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
