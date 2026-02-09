@@ -2,8 +2,22 @@
   "dates": [
     {
       "date": "2026-02-10",
-      "update_time": "2026-02-09 15:45:18",
+      "update_time": "2026-02-09 18:44:24",
       "news": [
+        {
+          "title": "2026년 AI 소송 전망: 합의와 라이선싱, 소송 공방",
+          "link": "https://aibusiness.com/generative-ai/ai-lawsuits-in-2026-settlements-licensing-deals-litigation",
+          "date": "2026-02-10",
+          "source": "AI Business",
+          "description": "The outlook for AI lawsuits in 2026 is still unclear. While there could be more settlements, the debate over fair use and copyright infringement will likely remain unresolved.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltbf23fb44785b1393/698a170c3dfe3e51a5750c38/Legal2.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "AI Lawsuits in 2026: Settlements, Licensing Deals, Litigation",
+          "original_summary": "The outlook for AI lawsuits in 2026 is still unclear. While there could be more settlements, the debate over fair use and copyright infringement will likely remain unresolved.",
+          "summary": "• 2026년 AI 소송 전망 불확실\n• 합의 안건 증가 가능성 존재\n• 공정 사용 논쟁 지속 예상\n• 저작권 침해 분쟁 해결 난항",
+          "translated_title": "2026년 AI 소송 전망: 합의와 라이선싱, 소송 공방",
+          "category_keyword": "AI소송"
+        },
         {
           "title": "zai-org/GLM-OCR",
           "link": "https://huggingface.co/zai-org/GLM-OCR",
@@ -44,19 +58,6 @@
           "category": "AI Model"
         },
         {
-          "title": "moonshotai/Kimi-K2.5",
-          "link": "https://huggingface.co/moonshotai/Kimi-K2.5",
-          "date": "2026-02-10",
-          "source": "HuggingFace",
-          "description": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
-          "image": "https://huggingface.co/moonshotai/Kimi-K2.5/resolve/main/figures/kimi-logo.png",
-          "is_english": true,
-          "summary": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
-          "translated_title": "moonshotai/Kimi-K2.5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "ACE-Step/Ace-Step1.5",
           "link": "https://huggingface.co/ACE-Step/Ace-Step1.5",
           "date": "2026-02-10",
@@ -66,6 +67,19 @@
           "is_english": true,
           "summary": "• 상업적 이용 가능한 오픈소스 음악 생성 모델 공개\n• 합법적 데이터로 학습된 안전한 생성 기능 제공\n• 고성능 GPU 기반 2초 만에 곡 생성 구현\n• 일반 PC에서도 구동 가능한 저용량 요구사항 확보",
           "translated_title": "ACE-Step/Ace-Step1.5",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "moonshotai/Kimi-K2.5",
+          "link": "https://huggingface.co/moonshotai/Kimi-K2.5",
+          "date": "2026-02-10",
+          "source": "HuggingFace",
+          "description": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
+          "image": "https://huggingface.co/moonshotai/Kimi-K2.5/resolve/main/figures/kimi-logo.png",
+          "is_english": true,
+          "summary": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
+          "translated_title": "moonshotai/Kimi-K2.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -174,19 +188,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3-ASR-1.7B",
-          "link": "https://huggingface.co/Qwen/Qwen3-ASR-1.7B",
-          "date": "2026-02-10",
-          "source": "HuggingFace",
-          "description": "• 52개 언어 식별 및 음성 인식 지원\n• 최고 수준의 오픈소스 성능 입증\n• 스트리밍 통합 추론 기능 제공\n• 강력한 성능의 추론 툴킷 공개",
-          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-ASR-Repo/qwen3_asr_introduction.png",
-          "is_english": true,
-          "summary": "• 52개 언어 식별 및 음성 인식 지원\n• 최고 수준의 오픈소스 성능 입증\n• 스트리밍 통합 추론 기능 제공\n• 강력한 성능의 추론 툴킷 공개",
-          "translated_title": "Qwen/Qwen3-ASR-1.7B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "DavidAU/GLM-4.7-Flash-Uncensored-Heretic-NEO-CODE-Imatrix-MAX-GGUF",
           "link": "https://huggingface.co/DavidAU/GLM-4.7-Flash-Uncensored-Heretic-NEO-CODE-Imatrix-MAX-GGUF",
           "date": "2026-02-10",
@@ -213,6 +214,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Qwen/Qwen3-ASR-1.7B",
+          "link": "https://huggingface.co/Qwen/Qwen3-ASR-1.7B",
+          "date": "2026-02-10",
+          "source": "HuggingFace",
+          "description": "• 52개 언어 식별 및 음성 인식 지원\n• 최고 수준의 오픈소스 성능 입증\n• 스트리밍 통합 추론 기능 제공\n• 강력한 성능의 추론 툴킷 공개",
+          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-ASR-Repo/qwen3_asr_introduction.png",
+          "is_english": true,
+          "summary": "• 52개 언어 식별 및 음성 인식 지원\n• 최고 수준의 오픈소스 성능 입증\n• 스트리밍 통합 추론 기능 제공\n• 강력한 성능의 추론 툴킷 공개",
+          "translated_title": "Qwen/Qwen3-ASR-1.7B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "tencent/HunyuanImage-3.0-Instruct",
           "link": "https://huggingface.co/tencent/HunyuanImage-3.0-Instruct",
           "date": "2026-02-10",
@@ -222,19 +236,6 @@
           "is_english": true,
           "summary": "• 텐센트, 최신 멀티모달 이미지 모델 공개\n• 뛰어난 이미지 생성 성능 구현함\n• 가벼운 디스틸 버전 동시 출시\n• 공식 웹사이트에서 체험 가능",
           "translated_title": "tencent/HunyuanImage-3.0-Instruct",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "deepseek-ai/DeepSeek-OCR-2",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-OCR-2",
-          "date": "2026-02-10",
-          "source": "HuggingFace",
-          "description": "• 딥시크 차세대 OCR 모델 'DeepSeek-OCR 2' 공개\n• 인간처럼 이해하는 시각 인코딩 기술 탑재\n• 허깅페이스 통해 모델 무료 다운로드 지원\n• 그래픽카드 기반 추론 환경에서 사용 가능",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
-          "is_english": true,
-          "summary": "• 딥시크 차세대 OCR 모델 'DeepSeek-OCR 2' 공개\n• 인간처럼 이해하는 시각 인코딩 기술 탑재\n• 허깅페이스 통해 모델 무료 다운로드 지원\n• 그래픽카드 기반 추론 환경에서 사용 가능",
-          "translated_title": "deepseek-ai/DeepSeek-OCR-2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -252,15 +253,28 @@
           "category": "AI Model"
         },
         {
-          "title": "stepfun-ai/Step-3.5-Flash-GGUF-Q4_K_S",
-          "link": "https://huggingface.co/stepfun-ai/Step-3.5-Flash-GGUF-Q4_K_S",
+          "title": "deepseek-ai/DeepSeek-OCR-2",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-OCR-2",
           "date": "2026-02-10",
           "source": "HuggingFace",
-          "description": "• StepFun AI 최신 오픈소스 모델 공개\n• 고성능 추론 및 에이전트 기능 제공\n• 희소 MoE 아키텍처로 효율성 극대화\n• HuggingFace에서 무료 체험 가능",
-          "image": "https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white",
+          "description": "• 딥시크 차세대 OCR 모델 'DeepSeek-OCR 2' 공개\n• 인간처럼 이해하는 시각 인코딩 기술 탑재\n• 허깅페이스 통해 모델 무료 다운로드 지원\n• 그래픽카드 기반 추론 환경에서 사용 가능",
+          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
           "is_english": true,
-          "summary": "• StepFun AI 최신 오픈소스 모델 공개\n• 고성능 추론 및 에이전트 기능 제공\n• 희소 MoE 아키텍처로 효율성 극대화\n• HuggingFace에서 무료 체험 가능",
-          "translated_title": "stepfun-ai/Step-3.5-Flash-GGUF-Q4_K_S",
+          "summary": "• 딥시크 차세대 OCR 모델 'DeepSeek-OCR 2' 공개\n• 인간처럼 이해하는 시각 인코딩 기술 탑재\n• 허깅페이스 통해 모델 무료 다운로드 지원\n• 그래픽카드 기반 추론 환경에서 사용 가능",
+          "translated_title": "deepseek-ai/DeepSeek-OCR-2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "PaddlePaddle/PaddleOCR-VL-1.5",
+          "link": "https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.5",
+          "date": "2026-02-10",
+          "source": "HuggingFace",
+          "description": "• 바이두, 문서 분석 AI 모델 공개\n• 9억 파라미터로 다양한 OCR 수행\n• 표·수식·도장 등 정밀 해석 지원\n• 복잡한 문서 레이아웃 이해 가능",
+          "image": "https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?color=ccf",
+          "is_english": true,
+          "summary": "• 바이두, 문서 분석 AI 모델 공개\n• 9억 파라미터로 다양한 OCR 수행\n• 표·수식·도장 등 정밀 해석 지원\n• 복잡한 문서 레이아웃 이해 가능",
+          "translated_title": "PaddlePaddle/PaddleOCR-VL-1.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -268,8 +282,50 @@
     },
     {
       "date": "2026-02-09",
-      "update_time": "2026-02-09 15:45:11",
+      "update_time": "2026-02-09 18:44:24",
       "news": [
+        {
+          "title": "워크데이 이센바흐 CEO 퇴임, 공동창업자 부스리 복귀",
+          "link": "https://techcrunch.com/2026/02/09/workday-ceo-eschenbach-departs-with-co-founder-aneel-bhusri-returning-as-ceo/",
+          "date": "2026-02-09",
+          "source": "TechCrunch",
+          "description": "Bhusri said in a statement that the company's next chapter would be focused on AI.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/08/workday-larger-959933114.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Workday CEO Eschenbach departs, with co-founder Aneel Bhusri returning as CEO",
+          "original_summary": "Bhusri said in a statement that the company's next chapter would be focused on AI.",
+          "summary": "• 칼 이센바흐 CEO 사임 발표\n• 공동창업자 아닐 부스리 복귀\n• AI 집중을 통한 차기 성장 도모\n• 경영진 교체를 통한 변화 선언",
+          "translated_title": "워크데이 이센바흐 CEO 퇴임, 공동창업자 부스리 복귀",
+          "category_keyword": "경영진교체"
+        },
+        {
+          "title": "앤스로픽, 200억 달러 규모 투자 유치 임박",
+          "link": "https://techcrunch.com/2026/02/09/anthropic-closes-in-on-20b-round/",
+          "date": "2026-02-09",
+          "source": "TechCrunch",
+          "description": "The company raised $13 billion in equity funding just five months ago, but intense competition between frontier labs and the ongoing cost of compute have made them eager to raise as quickly as possible.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Anthropic closes in on $20B round",
+          "original_summary": "The company raised $13 billion in equity funding just five months ago, but intense competition between frontier labs and the ongoing cost of compute have made them eager to raise as quickly as possible.",
+          "summary": "• 200억 달러 추가 투자 유치\n• 5개월 전 130억 달러 모집\n• 경쟁 심화로 자금 확보 서둘러\n• 막대한 컴퓨팅 비용 부담 가중",
+          "translated_title": "앤스로픽, 200억 달러 규모 투자 유치 임박",
+          "category_keyword": "투자유치"
+        },
+        {
+          "title": "전 구글러, 기업용 영상 데이터 분석 인프라 구축",
+          "link": "https://techcrunch.com/2026/02/09/ex-googlers-are-building-infrastructure-to-help-companies-understand-their-video-data/",
+          "date": "2026-02-09",
+          "source": "TechCrunch",
+          "description": "Founded by former Google Japan leaders, InfiniMind is building enterprise AI to turn vast, unused video archives into searchable, actionable business intelligence.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/office-3.jpg?w=870",
+          "is_english": true,
+          "original_title": "Ex-Googlers are building infrastructure to help companies understand their video data",
+          "original_summary": "Founded by former Google Japan leaders, InfiniMind is building enterprise AI to turn vast, unused video archives into searchable, actionable business intelligence.",
+          "summary": "• 전 구글 임원들이 스타트업 창업\n• 기업용 영상 데이터 분석 솔루션\n• 방치된 영상 자산을 활용 가능\n• 검색 및 분석 가능한 지능화 추진",
+          "translated_title": "전 구글러, 기업용 영상 데이터 분석 인프라 구축",
+          "category_keyword": "영상분석"
+        },
         {
           "title": "테크크런치 파운더 서밋 2026 연사 모집",
           "link": "https://techcrunch.com/2026/02/09/call-for-speakers-techcrunch-founder-summit-2026/",
@@ -9153,7 +9209,7 @@
         {
           "title": "moonshotai/Kimi-K2.5",
           "link": "https://huggingface.co/moonshotai/Kimi-K2.5",
-          "date": "2026-02-01",
+          "date": "2026-02-10",
           "source": "HuggingFace",
           "description": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
           "image": "https://huggingface.co/moonshotai/Kimi-K2.5/resolve/main/figures/kimi-logo.png",
@@ -9179,7 +9235,7 @@
         {
           "title": "tencent/HunyuanImage-3.0-Instruct",
           "link": "https://huggingface.co/tencent/HunyuanImage-3.0-Instruct",
-          "date": "2026-02-01",
+          "date": "2026-02-10",
           "source": "HuggingFace",
           "description": "• 텐센트, 최신 멀티모달 이미지 모델 공개\n• 뛰어난 이미지 생성 성능 구현함\n• 가벼운 디스틸 버전 동시 출시\n• 공식 웹사이트에서 체험 가능",
           "image": "https://huggingface.co/tencent/HunyuanImage-3.0-Instruct/resolve/main/./assets/logo.png",
@@ -9192,7 +9248,7 @@
         {
           "title": "nvidia/personaplex-7b-v1",
           "link": "https://huggingface.co/nvidia/personaplex-7b-v1",
-          "date": "2026-02-01",
+          "date": "2026-02-10",
           "source": "HuggingFace",
           "description": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -9205,7 +9261,7 @@
         {
           "title": "deepseek-ai/DeepSeek-OCR-2",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-OCR-2",
-          "date": "2026-02-01",
+          "date": "2026-02-10",
           "source": "HuggingFace",
           "description": "• 딥시크 차세대 OCR 모델 'DeepSeek-OCR 2' 공개\n• 인간처럼 이해하는 시각 인코딩 기술 탑재\n• 허깅페이스 통해 모델 무료 다운로드 지원\n• 그래픽카드 기반 추론 환경에서 사용 가능",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
@@ -9231,7 +9287,7 @@
         {
           "title": "Qwen/Qwen3-ASR-1.7B",
           "link": "https://huggingface.co/Qwen/Qwen3-ASR-1.7B",
-          "date": "2026-02-01",
+          "date": "2026-02-10",
           "source": "HuggingFace",
           "description": "• 52개 언어 식별 및 음성 인식 지원\n• 최고 수준의 오픈소스 성능 입증\n• 스트리밍 통합 추론 기능 제공\n• 강력한 성능의 추론 툴킷 공개",
           "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-ASR-Repo/qwen3_asr_introduction.png",
@@ -9257,7 +9313,7 @@
         {
           "title": "PaddlePaddle/PaddleOCR-VL-1.5",
           "link": "https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.5",
-          "date": "2026-02-01",
+          "date": "2026-02-10",
           "source": "HuggingFace",
           "description": "• 바이두, 문서 분석 AI 모델 공개\n• 9억 파라미터로 다양한 OCR 수행\n• 표·수식·도장 등 정밀 해석 지원\n• 복잡한 문서 레이아웃 이해 가능",
           "image": "https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?color=ccf",
@@ -9270,7 +9326,7 @@
         {
           "title": "zai-org/GLM-4.7-Flash",
           "link": "https://huggingface.co/zai-org/GLM-4.7-Flash",
-          "date": "2026-02-01",
+          "date": "2026-02-10",
           "source": "HuggingFace",
           "description": "• Z.ai, 고성능 300억 모델 공개\n• 경량화로 성능과 효율성 균형\n• 다양한 벤치마크서 최고 성능\n• vLLM 등 로컬 배포 환경 지원",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
