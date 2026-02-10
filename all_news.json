@@ -2,8 +2,36 @@
   "dates": [
     {
       "date": "2026-02-11",
-      "update_time": "2026-02-10 15:57:39",
+      "update_time": "2026-02-10 18:53:52",
       "news": [
+        {
+          "title": "EU, 페이스북 자회사에 경쟁 AI 봇 차단 금지 경고",
+          "link": "https://aibusiness.com/ai-policy/eu-warns-meta-not-to-block-rival-ai-bots",
+          "date": "2026-02-11",
+          "source": "AI Business",
+          "description": "The social media giant responded that the EU should not intervene, and consumers have many other options for third-party chatbots.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt1387b967704a1aed/698b749981e304159f98f7c1/Meta.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "EU warns Meta not to block rival AI bots from WhatsApp",
+          "original_summary": "The social media giant responded that the EU should not intervene, and consumers have many other options for third-party chatbots.",
+          "summary": "• EU가 메타에 경쟁 AI 봇 차단 경고\n• 메타는 EU 개입 반대 입장 표명\n• 소비자 선택지는 충분하다고 주장\n• 제3자 챗봇 대안이 존재함을 강조",
+          "translated_title": "EU, 페이스북 자회사에 경쟁 AI 봇 차단 금지 경고",
+          "category_keyword": "EU"
+        },
+        {
+          "title": "미스트랄, 새로운 음성-텍스트 AI 모델 공개",
+          "link": "https://aibusiness.com/generative-ai/mistral-drops-new-speech-to-text-ai-models",
+          "date": "2026-02-11",
+          "source": "AI Business",
+          "description": "The generative AI vendor’s models can be used on device.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blta9e06107a47ae30e/698b65167ee83b0f793b746b/Mistral.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Mistral drops new speech-to-text AI models",
+          "original_summary": "The generative AI vendor’s models can be used on device.",
+          "summary": "• 미스트랄이 신규 STT 모델 발표\n• 생성형 AI 공급업체의 신제품\n• 기기 내부에서 모델 사용 가능\n• 온디바이스 환경 지원이 특징",
+          "translated_title": "미스트랄, 새로운 음성-텍스트 AI 모델 공개",
+          "category_keyword": "미스트랄"
+        },
         {
           "title": "Qwen/Qwen3-Coder-Next",
           "link": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
@@ -268,8 +296,36 @@
     },
     {
       "date": "2026-02-10",
-      "update_time": "2026-02-10 15:57:35",
+      "update_time": "2026-02-10 18:53:52",
       "news": [
+        {
+          "title": "베가, 기업의 사이버 위협 탐지 방식을 혁신하며 시리즈 B 1,200만 달러 유치",
+          "link": "https://techcrunch.com/2026/02/10/vega-raises-120m-series-b-to-rethink-how-enterprises-detect-cyber-threats/",
+          "date": "2026-02-10",
+          "source": "TechCrunch",
+          "description": "Vega Security raised $120 million, bringing its valuation to $700 million, in a round led by Accel. The company aims to rethink how enterprises detect cybersecurity threats.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/Shay-Sandler-Eli-Rosen.-Credit-Ohad-Kab.jpeg?resize=1200,802",
+          "is_english": true,
+          "original_title": "Vega raises $120M Series B to rethink how enterprises detect cyber threats",
+          "original_summary": "Vega Security raised $120 million, bringing its valuation to $700 million, in a round led by Accel. The company aims to rethink how enterprises detect cybersecurity threats.",
+          "summary": "• 베가 시큐리티가 시리즈 B 투자 유치\n• 액셀 주도로 1,200만 달러 조성\n• 기업 가치는 7억 달러로 평가\n• 기업 사이버 위협 탐지 재정립 목표",
+          "translated_title": "베가, 기업의 사이버 위협 탐지 방식을 혁신하며 시리즈 B 1,200만 달러 유치",
+          "category_keyword": "베가"
+        },
+        {
+          "title": "구글 포토에서 시도해 볼 만한 재미있는 질문 9가지",
+          "link": "https://blog.google/products-and-platforms/products/photos/ask-button-ask-photos-tips/",
+          "date": "2026-02-10",
+          "source": "Google AI",
+          "description": "Learn more about Google Photos’ new Ask button as well as other functions of its Ask Photos feature.",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/2025-Travel-Trends_hero.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "9 fun questions to try asking Google Photos",
+          "original_summary": "Learn more about Google Photos’ new Ask button as well as other functions of its Ask Photos feature.",
+          "summary": "• 구글 포토의 새로운 '물어보기' 기능\n• Ask 버튼 사용법 소개\n• 다양한 기능 활용 팁 제공\n• 재미있는 질문 예시 9가지 공개",
+          "translated_title": "구글 포토에서 시도해 볼 만한 재미있는 질문 9가지",
+          "category_keyword": "구글"
+        },
         {
           "title": "Hauler Hero, AI 폐기물 관리 소프트웨어로 1,600만 달러 투자 유치",
           "link": "https://techcrunch.com/2026/02/10/hauler-hero-collects-16m-for-its-ai-waste-management-software/",
@@ -10079,7 +10135,7 @@
         {
           "title": "moonshotai/Kimi-K2.5",
           "link": "https://huggingface.co/moonshotai/Kimi-K2.5",
-          "date": "2026-02-02",
+          "date": "2026-02-11",
           "source": "HuggingFace",
           "description": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
           "image": "https://huggingface.co/moonshotai/Kimi-K2.5/resolve/main/figures/kimi-logo.png",
@@ -10105,7 +10161,7 @@
         {
           "title": "tencent/HunyuanImage-3.0-Instruct",
           "link": "https://huggingface.co/tencent/HunyuanImage-3.0-Instruct",
-          "date": "2026-02-02",
+          "date": "2026-02-11",
           "source": "HuggingFace",
           "description": "• 텐센트, 최신 멀티모달 이미지 모델 공개\n• 뛰어난 이미지 생성 성능 구현함\n• 가벼운 디스틸 버전 동시 출시\n• 공식 웹사이트에서 체험 가능",
           "image": "https://huggingface.co/tencent/HunyuanImage-3.0-Instruct/resolve/main/./assets/logo.png",
@@ -10118,7 +10174,7 @@
         {
           "title": "deepseek-ai/DeepSeek-OCR-2",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-OCR-2",
-          "date": "2026-02-02",
+          "date": "2026-02-11",
           "source": "HuggingFace",
           "description": "• 딥시크 차세대 OCR 모델 'DeepSeek-OCR 2' 공개\n• 인간처럼 이해하는 시각 인코딩 기술 탑재\n• 허깅페이스 통해 모델 무료 다운로드 지원\n• 그래픽카드 기반 추론 환경에서 사용 가능",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
@@ -10131,7 +10187,7 @@
         {
           "title": "nvidia/personaplex-7b-v1",
           "link": "https://huggingface.co/nvidia/personaplex-7b-v1",
-          "date": "2026-02-02",
+          "date": "2026-02-11",
           "source": "HuggingFace",
           "description": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -10144,7 +10200,7 @@
         {
           "title": "Qwen/Qwen3-ASR-1.7B",
           "link": "https://huggingface.co/Qwen/Qwen3-ASR-1.7B",
-          "date": "2026-02-02",
+          "date": "2026-02-11",
           "source": "HuggingFace",
           "description": "• 52개 언어 식별 및 음성 인식 지원\n• 최고 수준의 오픈소스 성능 입증\n• 스트리밍 통합 추론 기능 제공\n• 강력한 성능의 추론 툴킷 공개",
           "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-ASR-Repo/qwen3_asr_introduction.png",
@@ -10183,7 +10239,7 @@
         {
           "title": "circlestone-labs/Anima",
           "link": "https://huggingface.co/circlestone-labs/Anima",
-          "date": "2026-02-02",
+          "date": "2026-02-11",
           "source": "HuggingFace",
           "description": "• 애니메이션 전문 고품질 이미지 모델 공개\n• 최대 20억 파라미터 규모의 경량화 설계\n• ComfyUI 기반으로 쉽고 빠른 생성 지원\n• 현재 사전 공개 버전으로 지속 업데이트 예정",
           "image": "https://huggingface.co/circlestone-labs/Anima/resolve/main/example.png",
@@ -10222,7 +10278,7 @@
         {
           "title": "zai-org/GLM-4.7-Flash",
           "link": "https://huggingface.co/zai-org/GLM-4.7-Flash",
-          "date": "2026-02-02",
+          "date": "2026-02-11",
           "source": "HuggingFace",
           "description": "• Z.ai, 고성능 300억 모델 공개\n• 경량화로 성능과 효율성 균형\n• 다양한 벤치마크서 최고 성능\n• vLLM 등 로컬 배포 환경 지원",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
