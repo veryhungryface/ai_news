@@ -2,8 +2,22 @@
   "dates": [
     {
       "date": "2026-02-12",
-      "update_time": "2026-02-11 15:51:29",
+      "update_time": "2026-02-11 18:50:33",
       "news": [
+        {
+          "title": "알리바바, 로봇 구동하는 '린브레인' AI 모델 공개",
+          "link": "https://aibusiness.com/generative-ai/alibaba-unveils-rynnbrain-ai-model-for-robots",
+          "date": "2026-02-12",
+          "source": "AI Business",
+          "description": "The release marks a significant step in AI robotics for the Chinese tech giant.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt157c2e5a5cf2da64/698ca7fcad0c53e11763f19b/Alibaba.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Alibaba unveils RynnBrain AI model to power robots",
+          "original_summary": "The release marks a significant step in AI robotics for the Chinese tech giant.",
+          "summary": "• 알리바바, 린브레인 공개\n • 로봇용 AI 모델 탑재\n • 중국 기술사의 도전\n • AI 로봇 분야 발전상",
+          "translated_title": "알리바바, 로봇 구동하는 '린브레인' AI 모델 공개",
+          "category_keyword": "로봇AI"
+        },
         {
           "title": "zai-org/GLM-OCR",
           "link": "https://huggingface.co/zai-org/GLM-OCR",
@@ -213,6 +227,19 @@
           "category": "AI Model"
         },
         {
+          "title": "zai-org/GLM-5",
+          "link": "https://huggingface.co/zai-org/GLM-5",
+          "date": "2026-02-12",
+          "source": "HuggingFace",
+          "description": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
+          "translated_title": "zai-org/GLM-5",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "tencent/HunyuanImage-3.0-Instruct",
           "link": "https://huggingface.co/tencent/HunyuanImage-3.0-Instruct",
           "date": "2026-02-12",
@@ -250,26 +277,111 @@
           "translated_title": "FutureMa/Eva-4B-V2",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "deepseek-ai/DeepSeek-OCR-2",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-OCR-2",
-          "date": "2026-02-12",
-          "source": "HuggingFace",
-          "description": "• 딥시크 차세대 OCR 모델 'DeepSeek-OCR 2' 공개\n• 인간처럼 이해하는 시각 인코딩 기술 탑재\n• 허깅페이스 통해 모델 무료 다운로드 지원\n• 그래픽카드 기반 추론 환경에서 사용 가능",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
-          "is_english": true,
-          "summary": "• 딥시크 차세대 OCR 모델 'DeepSeek-OCR 2' 공개\n• 인간처럼 이해하는 시각 인코딩 기술 탑재\n• 허깅페이스 통해 모델 무료 다운로드 지원\n• 그래픽카드 기반 추론 환경에서 사용 가능",
-          "translated_title": "deepseek-ai/DeepSeek-OCR-2",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-02-11",
-      "update_time": "2026-02-11 15:51:29",
+      "update_time": "2026-02-11 18:50:30",
       "news": [
+        {
+          "title": "에이전트 우선 세계에서 Codex 활용하기",
+          "link": "https://openai.com/index/harness-engineering",
+          "date": "2026-02-11",
+          "source": "OpenAI",
+          "description": "By Ryan Lopopolo, Member of the Technical Staff",
+          "image": null,
+          "is_english": true,
+          "original_title": "Harness engineering: leveraging Codex in an agent-first world",
+          "original_summary": "By Ryan Lopopolo, Member of the Technical Staff",
+          "summary": "• 에이전트 중심 환경 전환\n • 코덱 활용 전략 소개\n • 하니스 엔지니어링 관점\n • 기술 스태프의 인사이트",
+          "translated_title": "에이전트 우선 세계에서 Codex 활용하기",
+          "category_keyword": "Codex"
+        },
+        {
+          "title": "우주 궤도 AI의 경제학이 왜如此 가혹한가",
+          "link": "https://techcrunch.com/2026/02/11/why-the-economics-of-orbital-ai-are-so-brutal/",
+          "date": "2026-02-11",
+          "source": "TechCrunch",
+          "description": "A 1 Gw orbital data center would cost roughly $42.4B—almost three times its ground-bound equivalent.",
+          "image": "https://techcrunch.com/wp-content/uploads/2021/03/starlink-satellites-on-orbit.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "Why the economics of orbital AI are so brutal",
+          "original_summary": "A 1 Gw orbital data center would cost roughly $42.4B—almost three times its ground-bound equivalent.",
+          "summary": "• 궤도 AI 비용 분석\n • 1GW 데이터센터 가격\n • 지상 시설의 3배 비용\n • 약 424억 달러 소요",
+          "translated_title": "우주 궤도 AI의 경제학이 왜如此 가혹한가",
+          "category_keyword": "우주AI"
+        },
+        {
+          "title": "스레즈의 새 '디어 알고' 기능으로 피드 맞춤 설정",
+          "link": "https://techcrunch.com/2026/02/11/threads-new-dear-algo-ai-feature-lets-you-personalize-your-feed/",
+          "date": "2026-02-11",
+          "source": "TechCrunch",
+          "description": "The platform's new feature lets users tell Threads what they temporarily want to see more or less of in their feed.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/12/instagram-threads-GettyImages-2159215889.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Threads’ new ‘Dear Algo’ AI feature lets you personalize your feed",
+          "original_summary": "The platform's new feature lets users tell Threads what they temporarily want to see more or less of in their feed.",
+          "summary": "• 피드 맞춤형 기능 출시\n • 원하는 콘텐츠 조절 가능\n • '디어 알고' AI 적용\n • 일시적 선호 설정 기능",
+          "translated_title": "스레즈의 새 '디어 알고' 기능으로 피드 맞춤 설정",
+          "category_keyword": "스레즈"
+        },
+        {
+          "title": "MS VP, 스타트업 수학 변화시키는 AI",
+          "link": "https://techcrunch.com/2026/02/11/how-ai-changes-the-math-for-startups-according-to-a-microsoft-vp/",
+          "date": "2026-02-11",
+          "source": "TechCrunch",
+          "description": "Amanda Silver is a corporate vice president at Microsoft’s CoreAI division, where she works on tools for deploying apps and agentic systems within enterprises.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/Amanda.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "How AI changes the math for startups, according to a Microsoft VP",
+          "original_summary": "Amanda Silver is a corporate vice president at Microsoft’s CoreAI division, where she works on tools for deploying apps and agentic systems within enterprises.",
+          "summary": "• MS 부사장 인터뷰\n • 스타트업 성장 방정식\n • 에이전트 시스템 도구\n • 기업 배포 환경 변화",
+          "translated_title": "MS VP, 스타트업 수학 변화시키는 AI",
+          "category_keyword": "MS전략"
+        },
+        {
+          "title": "공동창업자 포함 수석 엔지니어들, xAI 퇴사",
+          "link": "https://techcrunch.com/2026/02/11/senior-engineers-including-co-founders-exit-xai-amid-controversy/",
+          "date": "2026-02-11",
+          "source": "TechCrunch",
+          "description": "At least nine engineers, including two co-founders, have announced their exits from xAI in the past week, fueling online speculation and raising questions about stability at Musk’s AI company amid mounting controversy.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2199701496.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Senior engineers, including co-founders, exit xAI amid controversy",
+          "original_summary": "At least nine engineers, including two co-founders, have announced their exits from xAI in the past week, fueling online speculation and raising questions about stability at Musk’s AI company amid mounting controversy.",
+          "summary": "• 최근 1주일간 잇단 퇴사\n • 9명 이상 엔지니어 이탈\n • 공동창업자 2명 포함\n • 머스크 AI 안정성 우려",
+          "translated_title": "공동창업자 포함 수석 엔지니어들, xAI 퇴사",
+          "category_keyword": "xAI"
+        },
+        {
+          "title": "전직 파운더스 펀드 VC, 세일즈포스 뒤엎을 AI 스타트트 런칭",
+          "link": "https://techcrunch.com/2026/02/11/former-founders-fund-vc-sam-blond-launches-ai-sales-startup-to-upend-salesforce/",
+          "date": "2026-02-11",
+          "source": "TechCrunch",
+          "description": "The startup, Monaco, has come out of stealth as an AI-native all-in-one CRM plus more system backed by names like the Collison brothers and Garry Tan. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/Monaco-Founder-Photo.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Former Founders Fund VC Sam Blond launches AI sales startup to upend Salesforce",
+          "original_summary": "The startup, Monaco, has come out of stealth as an AI-native all-in-one CRM plus more system backed by names like the Collison brothers and Garry Tan. ",
+          "summary": "• AI 네이티브 CRM '모나코'\n • 세일즈포스 대항마 도전\n • 유명 투자자들 백업\n • 올인원 시스템 출시",
+          "translated_title": "전직 파운더스 펀드 VC, 세일즈포스 뒤엎을 AI 스타트트 런칭",
+          "category_keyword": "CRM"
+        },
+        {
+          "title": "xAI 창립 팀, 이제 정확히 절반이 회사를 떠났다",
+          "link": "https://techcrunch.com/2026/02/10/okay-now-exactly-half-of-xais-founding-team-has-left-the-company/",
+          "date": "2026-02-11",
+          "source": "TechCrunch",
+          "description": "Whatever the cause of the departures, the cumulative impact is alarming. There is a lot of work left to do at xAI, and an IPO will bring more scrutiny than the lab has ever faced before. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2223576505.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Okay, now exactly half of xAI’s founding team has left the company",
+          "original_summary": "Whatever the cause of the departures, the cumulative impact is alarming. There is a lot of work left to do at xAI, and an IPO will bring more scrutiny than the lab has ever faced before. ",
+          "summary": "• 창립 멤버 절반 이탈\n • 누적된 퇴사의 충격\n • 남은 과제 산적해 있음\n • 기업 공개 후 검증 예고",
+          "translated_title": "xAI 창립 팀, 이제 정확히 절반이 회사를 떠났다",
+          "category_keyword": "인력이탈"
+        },
         {
           "title": "테크크런치 디스럽트 2026 전시 부스로 파이프라인 구축 및 딜 성사",
           "link": "https://techcrunch.com/2026/02/11/build-a-pipeline-and-close-deals-with-an-exhibit-table-at-techcrunch-disrupt-2026/",
@@ -10235,7 +10347,7 @@
         {
           "title": "moonshotai/Kimi-K2.5",
           "link": "https://huggingface.co/moonshotai/Kimi-K2.5",
-          "date": "2026-02-03",
+          "date": "2026-02-12",
           "source": "HuggingFace",
           "description": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
           "image": "https://huggingface.co/moonshotai/Kimi-K2.5/resolve/main/figures/kimi-logo.png",
@@ -10261,7 +10373,7 @@
         {
           "title": "tencent/HunyuanImage-3.0-Instruct",
           "link": "https://huggingface.co/tencent/HunyuanImage-3.0-Instruct",
-          "date": "2026-02-03",
+          "date": "2026-02-12",
           "source": "HuggingFace",
           "description": "• 텐센트, 최신 멀티모달 이미지 모델 공개\n• 뛰어난 이미지 생성 성능 구현함\n• 가벼운 디스틸 버전 동시 출시\n• 공식 웹사이트에서 체험 가능",
           "image": "https://huggingface.co/tencent/HunyuanImage-3.0-Instruct/resolve/main/./assets/logo.png",
@@ -10287,7 +10399,7 @@
         {
           "title": "nvidia/personaplex-7b-v1",
           "link": "https://huggingface.co/nvidia/personaplex-7b-v1",
-          "date": "2026-02-03",
+          "date": "2026-02-12",
           "source": "HuggingFace",
           "description": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -10300,7 +10412,7 @@
         {
           "title": "Qwen/Qwen3-ASR-1.7B",
           "link": "https://huggingface.co/Qwen/Qwen3-ASR-1.7B",
-          "date": "2026-02-03",
+          "date": "2026-02-12",
           "source": "HuggingFace",
           "description": "• 52개 언어 식별 및 음성 인식 지원\n• 최고 수준의 오픈소스 성능 입증\n• 스트리밍 통합 추론 기능 제공\n• 강력한 성능의 추론 툴킷 공개",
           "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-ASR-Repo/qwen3_asr_introduction.png",
@@ -10313,7 +10425,7 @@
         {
           "title": "stepfun-ai/Step-3.5-Flash",
           "link": "https://huggingface.co/stepfun-ai/Step-3.5-Flash",
-          "date": "2026-02-03",
+          "date": "2026-02-12",
           "source": "HuggingFace",
           "description": "• 스텝퍼AI, 최신 오픈소스 모델 공개\n• 속도와 추론 능력 겸비한 성능\n• 초고속 토큰 생성으로 실시간 처리\n• 에이전트 및 코딩 작업에 최적화",
           "image": "https://img.shields.io/badge/%F0%9F%A4%97%20HF-StepFun/STEP3p5-preview",
@@ -10339,7 +10451,7 @@
         {
           "title": "circlestone-labs/Anima",
           "link": "https://huggingface.co/circlestone-labs/Anima",
-          "date": "2026-02-03",
+          "date": "2026-02-12",
           "source": "HuggingFace",
           "description": "• 애니메이션 전문 고품질 이미지 모델 공개\n• 최대 20억 파라미터 규모의 경량화 설계\n• ComfyUI 기반으로 쉽고 빠른 생성 지원\n• 현재 사전 공개 버전으로 지속 업데이트 예정",
           "image": "https://huggingface.co/circlestone-labs/Anima/resolve/main/example.png",
@@ -10404,7 +10516,7 @@
         {
           "title": "zai-org/GLM-4.7-Flash",
           "link": "https://huggingface.co/zai-org/GLM-4.7-Flash",
-          "date": "2026-02-03",
+          "date": "2026-02-12",
           "source": "HuggingFace",
           "description": "• Z.ai, 고성능 300억 모델 공개\n• 경량화로 성능과 효율성 균형\n• 다양한 벤치마크서 최고 성능\n• vLLM 등 로컬 배포 환경 지원",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
