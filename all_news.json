@@ -2,8 +2,22 @@
   "dates": [
     {
       "date": "2026-02-12",
-      "update_time": "2026-02-11 18:50:33",
+      "update_time": "2026-02-11 21:26:32",
       "news": [
+        {
+          "title": "미스트랄, 유럽형 비전 제시하며 스웨덴 AI 데이터센터에 14억 달러 투자",
+          "link": "https://aibusiness.com/generative-ai/mistral-cites-euro-vision-with-1-4b-for-swedish-ai",
+          "date": "2026-02-12",
+          "source": "AI Business",
+          "description": "The cash commitment is a move toward sovereign AI in Europe.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt0ac399838cd4e7eb/698cda16c186456e19041ab5/Europe.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Mistral Cites Euro Vision With $1.4B for Swedish AI Data Center",
+          "original_summary": "The cash commitment is a move toward sovereign AI in Europe.",
+          "summary": "• 14억 달러 규모 현금 투자 약속\n• 스웨덴 AI 데이터센터에 자금 공급\n• 유럽의 주권 AI 실현을 위한 움직임\n• 유럽 내 AI 인프라 자립 의지 표명",
+          "translated_title": "미스트랄, 유럽형 비전 제시하며 스웨덴 AI 데이터센터에 14억 달러 투자",
+          "category_keyword": "주권 AI"
+        },
         {
           "title": "알리바바, 로봇 구동하는 '린브레인' AI 모델 공개",
           "link": "https://aibusiness.com/generative-ai/alibaba-unveils-rynnbrain-ai-model-for-robots",
@@ -162,6 +176,19 @@
           "category": "AI Model"
         },
         {
+          "title": "zai-org/GLM-5",
+          "link": "https://huggingface.co/zai-org/GLM-5",
+          "date": "2026-02-12",
+          "source": "HuggingFace",
+          "description": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
+          "translated_title": "zai-org/GLM-5",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "inference-net/Schematron-3B",
           "link": "https://huggingface.co/inference-net/Schematron-3B",
           "date": "2026-02-12",
@@ -227,19 +254,6 @@
           "category": "AI Model"
         },
         {
-          "title": "zai-org/GLM-5",
-          "link": "https://huggingface.co/zai-org/GLM-5",
-          "date": "2026-02-12",
-          "source": "HuggingFace",
-          "description": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
-          "translated_title": "zai-org/GLM-5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "tencent/HunyuanImage-3.0-Instruct",
           "link": "https://huggingface.co/tencent/HunyuanImage-3.0-Instruct",
           "date": "2026-02-12",
@@ -266,15 +280,15 @@
           "category": "AI Model"
         },
         {
-          "title": "FutureMa/Eva-4B-V2",
-          "link": "https://huggingface.co/FutureMa/Eva-4B-V2",
+          "title": "UCSB-SURFI/VulnLLM-R-7B",
+          "link": "https://huggingface.co/UCSB-SURFI/VulnLLM-R-7B",
           "date": "2026-02-12",
           "source": "HuggingFace",
-          "description": "• 후킹페이스, 회사 실적 관련 AI 모델 공개\n• 궁색한 답변 판별에 특화된 40억 파라미터\n• 기존 최신 모델들보다 정확도 앞섬\n• 금융 분석과 질의응답 감시에 활용 기대",
-          "image": "https://img.shields.io/badge/🤗-Model-yellow?style=for-the-badge",
+          "description": "• UCSB, 취약점 탐지 전용 AI 모델 공개\n• 단계별 추론으로 논리적 허점 찾아냄\n• 경쟁 모델 제치고 정확도 최고치 달성\n• 적은 파라미터로 높은 효율성 실현",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• 후킹페이스, 회사 실적 관련 AI 모델 공개\n• 궁색한 답변 판별에 특화된 40억 파라미터\n• 기존 최신 모델들보다 정확도 앞섬\n• 금융 분석과 질의응답 감시에 활용 기대",
-          "translated_title": "FutureMa/Eva-4B-V2",
+          "summary": "• UCSB, 취약점 탐지 전용 AI 모델 공개\n• 단계별 추론으로 논리적 허점 찾아냄\n• 경쟁 모델 제치고 정확도 최고치 달성\n• 적은 파라미터로 높은 효율성 실현",
+          "translated_title": "UCSB-SURFI/VulnLLM-R-7B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -282,8 +296,64 @@
     },
     {
       "date": "2026-02-11",
-      "update_time": "2026-02-11 18:50:30",
+      "update_time": "2026-02-11 21:26:32",
       "news": [
+        {
+          "title": "보고서에 따르면 애플의 시리 개편, 또다시 지연",
+          "link": "https://techcrunch.com/2026/02/11/apples-siri-revamp-reportedly-delayed-again/",
+          "date": "2026-02-11",
+          "source": "TechCrunch",
+          "description": "Apple has been promising a new-and-improved, cutting-edge, AI-powered Siri since it first unveiled Apple Intelligence in 2024.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/tim-cook-glowing-apple-logo-GettyImages-2234517515.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Apple’s Siri revamp reportedly delayed… again",
+          "original_summary": "Apple has been promising a new-and-improved, cutting-edge, AI-powered Siri since it first unveiled Apple Intelligence in 2024.",
+          "summary": "• 2024년 애플 인텔리전스 공개 이후\n• AI 기반 시리 개선 약속 지속\n• 최신형 시리 출시가 또다시 늦어짐\n• 출시 일정 구체적으로 언급 안 함",
+          "translated_title": "보고서에 따르면 애플의 시리 개편, 또다시 지연",
+          "category_keyword": "시리 개편"
+        },
+        {
+          "title": "우버 이츠, 식료품 장바구니 구성 도와주는 AI 어시스턴트 출시",
+          "link": "https://techcrunch.com/2026/02/11/uber-eats-launches-ai-assistant-to-help-with-grocery-cart-creation/",
+          "date": "2026-02-11",
+          "source": "TechCrunch",
+          "description": "Uber Eats launched a new AI feature, “Cart Assistant,” that can automatically add items to your cart based on text or image prompts.",
+          "image": "https://techcrunch.com/wp-content/uploads/2019/04/uber-eats-icon-ios.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "Uber Eats launches AI assistant to help with grocery cart creation",
+          "original_summary": "Uber Eats launched a new AI feature, “Cart Assistant,” that can automatically add items to your cart based on text or image prompts.",
+          "summary": "• ‘카트 어시스턴트’라는 신기능 출시\n• 텍스트나 이미지 프롬프트 기반 작동\n• 장바구니에 항목을 자동으로 추가\n• 식료품 쇼핑 편의성 크게 향상",
+          "translated_title": "우버 이츠, 식료품 장바구니 구성 도와주는 AI 어시스턴트 출시",
+          "category_keyword": "AI 어시스턴트"
+        },
+        {
+          "title": "기업 내 AI 레이어 장악을 위한 글리린의 도전",
+          "link": "https://techcrunch.com/podcast/glean-arvind-jain-equity-podcast-own-the-ai-layer-inside-every-company/",
+          "date": "2026-02-11",
+          "source": "TechCrunch",
+          "description": "Enterprise AI is shifting fast from chatbots that answer questions to systems that actually do the work across an organization. But who will own the AI layer that powers all of it?&#160; Glean, which started as an enterprise search product, has evolved into what it calls an “AI work assistant,” aiming to sit beneath other AI [&#8230;]",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/Arvind-Jain-headshot.jpg?resize=1200,900",
+          "is_english": true,
+          "original_title": "Glean’s fight to own the AI layer inside every company",
+          "original_summary": "Enterprise AI is shifting fast from chatbots that answer questions to systems that actually do the work across an organization. But who will own the AI layer that powers all of it?&#160; Glean, which started as an enterprise search product, has evolved into what it calls an “AI work assistant,” aimi",
+          "summary": "• 기업 AI는 질의응답에서 실무 실행으로 변화\n• 모든 시스템을 통제할 AI 레이어 중요\n• 글리린은 검색 엔진에서 시작됨\n• ‘AI 업무 어시스턴트’로 진화 추진",
+          "translated_title": "기업 내 AI 레이어 장악을 위한 글리린의 도전",
+          "category_keyword": "기업 AI"
+        },
+        {
+          "title": "기업의 AI 레이어 소유권은 누구에게? 글리린 CEO 설명",
+          "link": "https://techcrunch.com/video/who-will-own-your-companys-ai-layer-gleans-ceo-explains/",
+          "date": "2026-02-11",
+          "source": "TechCrunch",
+          "description": "Enterprise AI is shifting fast from chatbots that answer questions to systems that actually do the work across an organization. But who will own the AI layer that powers all of it?&#160; Glean, which started as an enterprise search product, has evolved into what it calls an “AI work assistant,” aiming to sit underneath other AI [&#8230;]",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2259183614.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Who will own your company’s AI layer? Glean’s CEO explains",
+          "original_summary": "Enterprise AI is shifting fast from chatbots that answer questions to systems that actually do the work across an organization. But who will own the AI layer that powers all of it?&#160; Glean, which started as an enterprise search product, has evolved into what it calls an “AI work assistant,” aimi",
+          "summary": "• 기업 AI의 역할이 실무 수행으로 확장\n• 핵심 인프라인 AI 레이어 소유권 이슈\n• 글리린, 기업 검색 서비스 기반\n• AI 업무 어시스턴트로 비전 선포",
+          "translated_title": "기업의 AI 레이어 소유권은 누구에게? 글리린 CEO 설명",
+          "category_keyword": "AI 레이어"
+        },
         {
           "title": "에이전트 우선 세계에서 Codex 활용하기",
           "link": "https://openai.com/index/harness-engineering",
@@ -1570,7 +1640,7 @@
         {
           "title": "UCSB-SURFI/VulnLLM-R-7B",
           "link": "https://huggingface.co/UCSB-SURFI/VulnLLM-R-7B",
-          "date": "2026-02-11",
+          "date": "2026-02-12",
           "source": "HuggingFace",
           "description": "• UCSB, 취약점 탐지 전용 AI 모델 공개\n• 단계별 추론으로 논리적 허점 찾아냄\n• 경쟁 모델 제치고 정확도 최고치 달성\n• 적은 파라미터로 높은 효율성 실현",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
