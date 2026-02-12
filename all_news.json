@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-02-13",
-      "update_time": "2026-02-12 15:42:13",
+      "update_time": "2026-02-12 18:47:18",
       "news": [
         {
           "title": "zai-org/GLM-5",
@@ -96,19 +96,6 @@
           "category": "AI Model"
         },
         {
-          "title": "ACE-Step/Ace-Step1.5",
-          "link": "https://huggingface.co/ACE-Step/Ace-Step1.5",
-          "date": "2026-02-13",
-          "source": "HuggingFace",
-          "description": "• 상업적 이용 가능한 오픈소스 음악 생성 모델 공개\n• 합법적 데이터로 학습된 안전한 생성 기능 제공\n• 고성능 GPU 기반 2초 만에 곡 생성 구현\n• 일반 PC에서도 구동 가능한 저용량 요구사항 확보",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/62dfaf90c42558bcbd0a4f6f/b84r7t0viIw7rKSr_ja9_.png",
-          "is_english": true,
-          "summary": "• 상업적 이용 가능한 오픈소스 음악 생성 모델 공개\n• 합법적 데이터로 학습된 안전한 생성 기능 제공\n• 고성능 GPU 기반 2초 만에 곡 생성 구현\n• 일반 PC에서도 구동 가능한 저용량 요구사항 확보",
-          "translated_title": "ACE-Step/Ace-Step1.5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Nanbeige/Nanbeige4.1-3B",
           "link": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
           "date": "2026-02-13",
@@ -118,6 +105,19 @@
           "is_english": true,
           "summary": "• 소형 규모로도 강력한 추론 능력 구현\n• 대형 모델 뛰어넘는 선호 정렬 성과\n• 도구 호출 등 에이전트 기능 고도화\n• 복잡한 문제 해결 지원하는 신모델 공개",
           "translated_title": "Nanbeige/Nanbeige4.1-3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "ACE-Step/Ace-Step1.5",
+          "link": "https://huggingface.co/ACE-Step/Ace-Step1.5",
+          "date": "2026-02-13",
+          "source": "HuggingFace",
+          "description": "• 상업적 이용 가능한 오픈소스 음악 생성 모델 공개\n• 합법적 데이터로 학습된 안전한 생성 기능 제공\n• 고성능 GPU 기반 2초 만에 곡 생성 구현\n• 일반 PC에서도 구동 가능한 저용량 요구사항 확보",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/62dfaf90c42558bcbd0a4f6f/b84r7t0viIw7rKSr_ja9_.png",
+          "is_english": true,
+          "summary": "• 상업적 이용 가능한 오픈소스 음악 생성 모델 공개\n• 합법적 데이터로 학습된 안전한 생성 기능 제공\n• 고성능 GPU 기반 2초 만에 곡 생성 구현\n• 일반 PC에서도 구동 가능한 저용량 요구사항 확보",
+          "translated_title": "ACE-Step/Ace-Step1.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -161,6 +161,19 @@
           "category": "AI Model"
         },
         {
+          "title": "inclusionAI/Ming-flash-omni-2.0",
+          "link": "https://huggingface.co/inclusionAI/Ming-flash-omni-2.0",
+          "date": "2026-02-13",
+          "source": "HuggingFace",
+          "description": "• 전문가 혼합 기반 100B 파라미터 모델 공개\n• 오픈소스 최고 성능 멀티모달 모델 달성\n• 시각 지식 및 음성 합성 기능 고도화\n• 동적 이미지 생성 및 조작 기능 제공",
+          "image": "https://mdn.alipayobjects.com/huamei_drbxn1/afts/img/YLAgT5MSnLwAAAAAQXAAAAgADkliAQFr/original",
+          "is_english": true,
+          "summary": "• 전문가 혼합 기반 100B 파라미터 모델 공개\n• 오픈소스 최고 성능 멀티모달 모델 달성\n• 시각 지식 및 음성 합성 기능 고도화\n• 동적 이미지 생성 및 조작 기능 제공",
+          "translated_title": "inclusionAI/Ming-flash-omni-2.0",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "inference-net/Schematron-3B",
           "link": "https://huggingface.co/inference-net/Schematron-3B",
           "date": "2026-02-13",
@@ -183,19 +196,6 @@
           "is_english": true,
           "summary": "• 글로벌 고성능 추론 모델 공개\n• 코딩 및 과학 분야 최적화\n• 클로드 데이터 기반 학습 완료\n• 저사양 디바이스 배포 지원",
           "translated_title": "TeichAI/GLM-4.7-Flash-Claude-Opus-4.5-High-Reasoning-Distill-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "inclusionAI/Ming-flash-omni-2.0",
-          "link": "https://huggingface.co/inclusionAI/Ming-flash-omni-2.0",
-          "date": "2026-02-13",
-          "source": "HuggingFace",
-          "description": "• 전문가 혼합 기반 100B 파라미터 모델 공개\n• 오픈소스 최고 성능 멀티모달 모델 달성\n• 시각 지식 및 음성 합성 기능 고도화\n• 동적 이미지 생성 및 조작 기능 제공",
-          "image": "https://mdn.alipayobjects.com/huamei_drbxn1/afts/img/YLAgT5MSnLwAAAAAQXAAAAgADkliAQFr/original",
-          "is_english": true,
-          "summary": "• 전문가 혼합 기반 100B 파라미터 모델 공개\n• 오픈소스 최고 성능 멀티모달 모델 달성\n• 시각 지식 및 음성 합성 기능 고도화\n• 동적 이미지 생성 및 조작 기능 제공",
-          "translated_title": "inclusionAI/Ming-flash-omni-2.0",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,15 +239,15 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/personaplex-7b-v1",
-          "link": "https://huggingface.co/nvidia/personaplex-7b-v1",
+          "title": "DavidAU/GLM-4.7-Flash-Uncensored-Heretic-NEO-CODE-Imatrix-MAX-GGUF",
+          "link": "https://huggingface.co/DavidAU/GLM-4.7-Flash-Uncensored-Heretic-NEO-CODE-Imatrix-MAX-GGUF",
           "date": "2026-02-13",
           "source": "HuggingFace",
-          "description": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "description": "• 검열 없는 GLM-4.7 플래시 모델 공개\n• 고성능 사고 추론 기능 탑재\n• CPU/GPU 병행 사용 환경 지원\n• 창작 및 소설 작성에 최적화",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
-          "translated_title": "nvidia/personaplex-7b-v1",
+          "summary": "• 검열 없는 GLM-4.7 플래시 모델 공개\n• 고성능 사고 추론 기능 탑재\n• CPU/GPU 병행 사용 환경 지원\n• 창작 및 소설 작성에 최적화",
+          "translated_title": "DavidAU/GLM-4.7-Flash-Uncensored-Heretic-NEO-CODE-Imatrix-MAX-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +268,64 @@
     },
     {
       "date": "2026-02-12",
-      "update_time": "2026-02-12 15:42:13",
+      "update_time": "2026-02-12 18:47:18",
       "news": [
+        {
+          "title": "GPT-5.3-Codex-Spark 소개",
+          "link": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
+          "date": "2026-02-12",
+          "source": "OpenAI",
+          "description": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Introducing GPT-5.3-Codex-Spark",
+          "original_summary": "Introducing GPT-5.3-Codex-Spark—our first real-time coding model. 15x faster generation, 128k context, now in research preview for ChatGPT Pro users.",
+          "summary": "• 실시간 코딩 모델 최초 공개\n• 생성 속도 기존 대비 15배 향상\n• 128k 컨텍스트 창 지원\n• ChatGPT Pro 연구용 프리뷰",
+          "translated_title": "GPT-5.3-Codex-Spark 소개",
+          "category_keyword": "실시간코딩"
+        },
+        {
+          "title": "스포티파이, AI 덕분에 최고 개발자들은 12월 이후 단 한 줄의 코드도 작성 안 해",
+          "link": "https://techcrunch.com/2026/02/12/spotify-says-its-best-developers-havent-written-a-line-of-code-since-december-thanks-to-ai/",
+          "date": "2026-02-12",
+          "source": "TechCrunch",
+          "description": "Spotify credits Claude Code and its internal AI system Honk with speeding up development. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/11/blog-header.jpg?resize=1200,683",
+          "is_english": true,
+          "original_title": "Spotify says its best developers haven’t written a line of code since December, thanks to AI",
+          "original_summary": "Spotify credits Claude Code and its internal AI system Honk with speeding up development. ",
+          "summary": "• AI로 코딩 필요성 획기적 감소\n• Claude Code로 개발 속도 증가\n• 내부 AI 시스템 'Honk' 활용\n• 우수 개발자 생산성 입증",
+          "translated_title": "스포티파이, AI 덕분에 최고 개발자들은 12월 이후 단 한 줄의 코드도 작성 안 해",
+          "category_keyword": "무코드개발"
+        },
+        {
+          "title": "새로운 전용 칩이 탑재된 오픈AI의 차세대 Codex",
+          "link": "https://techcrunch.com/2026/02/12/a-new-version-of-openais-codex-is-powered-by-a-new-dedicated-chip/",
+          "date": "2026-02-12",
+          "source": "TechCrunch",
+          "description": "OpenAI calls the new coding tool the \"first milestone\" in its relationship with the chipmaker. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
+          "is_english": true,
+          "original_title": "A new version of OpenAI’s Codex is powered by a new dedicated chip",
+          "original_summary": "OpenAI calls the new coding tool the \"first milestone\" in its relationship with the chipmaker. ",
+          "summary": "• 전용 칩 기반 새 Codex 출시\n• 칩 제조사와 협력의 첫 이정표\n• 새로운 코딩 도구 성능 강화\n• 전문 하드웨어 활용 극대화",
+          "translated_title": "새로운 전용 칩이 탑재된 오픈AI의 차세대 Codex",
+          "category_keyword": "전용칩"
+        },
+        {
+          "title": "Gemini 3 Deep Think: 과학, 연구 및 엔지니어링 발전",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-deep-think/",
+          "date": "2026-02-12",
+          "source": "Google AI",
+          "description": "We’re releasing a major upgrade to Gemini 3 Deep Think, our specialized reasoning mode.",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3_deep-think_keyword_hea.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+          "original_summary": "We’re releasing a major upgrade to Gemini 3 Deep Think, our specialized reasoning mode.",
+          "summary": "• Gemini 3 Deep Think 대규모 업그레이드\n• 전문화된 추론 모드 개선\n• 과학 및 연구 분야 고도화\n• 엔지니어링 문제 해결 능력 향상",
+          "translated_title": "Gemini 3 Deep Think: 과학, 연구 및 엔지니어링 발전",
+          "category_keyword": "추론모드"
+        },
         {
           "title": "모티프·트릴리온랩스, 국가대표 AI 경합에 추가 응모",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=206825",
@@ -6514,7 +6570,7 @@
         {
           "title": "DavidAU/GLM-4.7-Flash-Uncensored-Heretic-NEO-CODE-Imatrix-MAX-GGUF",
           "link": "https://huggingface.co/DavidAU/GLM-4.7-Flash-Uncensored-Heretic-NEO-CODE-Imatrix-MAX-GGUF",
-          "date": "2026-02-12",
+          "date": "2026-02-13",
           "source": "HuggingFace",
           "description": "• 검열 없는 GLM-4.7 플래시 모델 공개\n• 고성능 사고 추론 기능 탑재\n• CPU/GPU 병행 사용 환경 지원\n• 창작 및 소설 작성에 최적화",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -10207,7 +10263,7 @@
         {
           "title": "moonshotai/Kimi-K2.5",
           "link": "https://huggingface.co/moonshotai/Kimi-K2.5",
-          "date": "2026-02-04",
+          "date": "2026-02-13",
           "source": "HuggingFace",
           "description": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
           "image": "https://huggingface.co/moonshotai/Kimi-K2.5/resolve/main/figures/kimi-logo.png",
@@ -10220,7 +10276,7 @@
         {
           "title": "tencent/HunyuanImage-3.0-Instruct",
           "link": "https://huggingface.co/tencent/HunyuanImage-3.0-Instruct",
-          "date": "2026-02-04",
+          "date": "2026-02-13",
           "source": "HuggingFace",
           "description": "• 텐센트, 최신 멀티모달 이미지 모델 공개\n• 뛰어난 이미지 생성 성능 구현함\n• 가벼운 디스틸 버전 동시 출시\n• 공식 웹사이트에서 체험 가능",
           "image": "https://huggingface.co/tencent/HunyuanImage-3.0-Instruct/resolve/main/./assets/logo.png",
@@ -10233,7 +10289,7 @@
         {
           "title": "zai-org/GLM-OCR",
           "link": "https://huggingface.co/zai-org/GLM-OCR",
-          "date": "2026-02-04",
+          "date": "2026-02-13",
           "source": "HuggingFace",
           "description": "• 훼이스, 차세대 OCR 모델 GLM-OCR 공개\n• 복잡한 문서 이해 및 레이아웃 분석 지원\n• 글로벌 벤치마크에서 1위 차지함\n• 가벼운 모델로 빠른 추론 속도 제공",
           "image": "https://raw.githubusercontent.com/zai-org/GLM-OCR/refs/heads/main/resources/docparse.png",
@@ -10246,7 +10302,7 @@
         {
           "title": "stepfun-ai/Step-3.5-Flash",
           "link": "https://huggingface.co/stepfun-ai/Step-3.5-Flash",
-          "date": "2026-02-04",
+          "date": "2026-02-13",
           "source": "HuggingFace",
           "description": "• 스텝퍼AI, 최신 오픈소스 모델 공개\n• 속도와 추론 능력 겸비한 성능\n• 초고속 토큰 생성으로 실시간 처리\n• 에이전트 및 코딩 작업에 최적화",
           "image": "https://img.shields.io/badge/%F0%9F%A4%97%20HF-StepFun/STEP3p5-preview",
@@ -10272,7 +10328,7 @@
         {
           "title": "circlestone-labs/Anima",
           "link": "https://huggingface.co/circlestone-labs/Anima",
-          "date": "2026-02-04",
+          "date": "2026-02-13",
           "source": "HuggingFace",
           "description": "• 애니메이션 전문 고품질 이미지 모델 공개\n• 최대 20억 파라미터 규모의 경량화 설계\n• ComfyUI 기반으로 쉽고 빠른 생성 지원\n• 현재 사전 공개 버전으로 지속 업데이트 예정",
           "image": "https://huggingface.co/circlestone-labs/Anima/resolve/main/example.png",
