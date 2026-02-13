@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-02-14",
-      "update_time": "2026-02-13 18:33:29",
+      "update_time": "2026-02-13 21:26:57",
       "news": [
         {
           "title": "OpenAI GPT-5.3-Codex-Spark, 세브라스와 협업 가능성 보여",
@@ -216,6 +216,19 @@
           "category": "AI Model"
         },
         {
+          "title": "OpenMOSS-Team/MOSS-TTS",
+          "link": "https://huggingface.co/OpenMOSS-Team/MOSS-TTS",
+          "date": "2026-02-14",
+          "source": "HuggingFace",
+          "description": "• 고성능 오픈소스 음성 생성 모델 공개\n• 다국어 지원 및 높은 표현력 구현\n• 대화 및 효과음 등 복합 상황 대응\n• 실시간 스트리밍 TTS 기능 제공",
+          "image": "https://speech-demo.oss-cn-shanghai.aliyuncs.com/moss_tts_demo/tts_readme_imgaes_demo/openmoss_x_mosi",
+          "is_english": true,
+          "summary": "• 고성능 오픈소스 음성 생성 모델 공개\n• 다국어 지원 및 높은 표현력 구현\n• 대화 및 효과음 등 복합 상황 대응\n• 실시간 스트리밍 TTS 기능 제공",
+          "translated_title": "OpenMOSS-Team/MOSS-TTS",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "circlestone-labs/Anima",
           "link": "https://huggingface.co/circlestone-labs/Anima",
           "date": "2026-02-14",
@@ -255,19 +268,6 @@
           "category": "AI Model"
         },
         {
-          "title": "OpenMOSS-Team/MOSS-TTS",
-          "link": "https://huggingface.co/OpenMOSS-Team/MOSS-TTS",
-          "date": "2026-02-14",
-          "source": "HuggingFace",
-          "description": "• 고성능 오픈소스 음성 생성 모델 공개\n• 다국어 지원 및 높은 표현력 구현\n• 대화 및 효과음 등 복합 상황 대응\n• 실시간 스트리밍 TTS 기능 제공",
-          "image": "https://speech-demo.oss-cn-shanghai.aliyuncs.com/moss_tts_demo/tts_readme_imgaes_demo/openmoss_x_mosi",
-          "is_english": true,
-          "summary": "• 고성능 오픈소스 음성 생성 모델 공개\n• 다국어 지원 및 높은 표현력 구현\n• 대화 및 효과음 등 복합 상황 대응\n• 실시간 스트리밍 TTS 기능 제공",
-          "translated_title": "OpenMOSS-Team/MOSS-TTS",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "inference-net/Schematron-3B",
           "link": "https://huggingface.co/inference-net/Schematron-3B",
           "date": "2026-02-14",
@@ -294,15 +294,15 @@
           "category": "AI Model"
         },
         {
-          "title": "TeichAI/GLM-4.7-Flash-Claude-Opus-4.5-High-Reasoning-Distill-GGUF",
-          "link": "https://huggingface.co/TeichAI/GLM-4.7-Flash-Claude-Opus-4.5-High-Reasoning-Distill-GGUF",
+          "title": "OpenMOSS-Team/MOVA-360p",
+          "link": "https://huggingface.co/OpenMOSS-Team/MOVA-360p",
           "date": "2026-02-14",
           "source": "HuggingFace",
-          "description": "• 글로벌 고성능 추론 모델 공개\n• 코딩 및 과학 분야 최적화\n• 클로드 데이터 기반 학습 완료\n• 저사양 디바이스 배포 지원",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "description": "• 휴깅페이스, 오픈소스 생성형 AI 모델 MOVA 공개\n• 영상과 오디오를 동시 생성해 완벽한 싱크 구현\n• 비대칭 듀얼 타워 구조로 고품질 싱스 구현\n• 모델 가중치와 학습 코드 등 전면 오픈소스화",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/64817b8550b759c75d5d1eeb/Jr7I1qaSWK3x_Tfsxn9nP.png",
           "is_english": true,
-          "summary": "• 글로벌 고성능 추론 모델 공개\n• 코딩 및 과학 분야 최적화\n• 클로드 데이터 기반 학습 완료\n• 저사양 디바이스 배포 지원",
-          "translated_title": "TeichAI/GLM-4.7-Flash-Claude-Opus-4.5-High-Reasoning-Distill-GGUF",
+          "summary": "• 휴깅페이스, 오픈소스 생성형 AI 모델 MOVA 공개\n• 영상과 오디오를 동시 생성해 완벽한 싱크 구현\n• 비대칭 듀얼 타워 구조로 고품질 싱스 구현\n• 모델 가중치와 학습 코드 등 전면 오픈소스화",
+          "translated_title": "OpenMOSS-Team/MOVA-360p",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -310,8 +310,50 @@
     },
     {
       "date": "2026-02-13",
-      "update_time": "2026-02-13 18:33:29",
+      "update_time": "2026-02-13 21:26:54",
       "news": [
+        {
+          "title": "GPT-5.2, 이론물리학 새로운 결과 도출",
+          "link": "https://openai.com/index/new-result-theoretical-physics",
+          "date": "2026-02-13",
+          "source": "OpenAI",
+          "description": "A new preprint shows GPT-5.2 proposing a new formula for a gluon amplitude, later formally proved and verified by OpenAI and academic collaborators.",
+          "image": null,
+          "is_english": true,
+          "original_title": "GPT-5.2 derives a new result in theoretical physics",
+          "original_summary": "A new preprint shows GPT-5.2 proposing a new formula for a gluon amplitude, later formally proved and verified by OpenAI and academic collaborators.",
+          "summary": "• GPT-5.2가 새로운 글루온 진폭 공식 제안\n• 사전 논문을 통해 관련 성과 최초 공개\n• 오픈AI와 학계 협력으로 정식 검증 완료\n• AI가 이론 물리학 정리 증명에 기여",
+          "translated_title": "GPT-5.2, 이론물리학 새로운 결과 도출",
+          "category_keyword": "이론물리"
+        },
+        {
+          "title": "사회과학 연구의 규모 확장",
+          "link": "https://openai.com/index/scaling-social-science-research",
+          "date": "2026-02-13",
+          "source": "OpenAI",
+          "description": "GABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitative text and images into quantitative data, helping social scientists analyze research at scale.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Scaling social science research",
+          "original_summary": "GABRIEL is a new open-source toolkit from OpenAI that uses GPT to turn qualitative text and images into quantitative data, helping social scientists analyze research at scale.",
+          "summary": "• 오픈AI, 오픈소스 툴킷 'GABRIEL' 공개\n• 정성적 텍스트와 이미지를 정량 데이터 변환\n• GPT를 활용한 대규모 분석 지원\n• 사회과학자들의 연구 효율성 향상 기대",
+          "translated_title": "사회과학 연구의 규모 확장",
+          "category_keyword": "GABRIEL"
+        },
+        {
+          "title": "OpenAI와 xAI, 핵심 인재 대량 이탈",
+          "link": "https://techcrunch.com/video/why-top-talent-is-walking-away-from-openai-and-xai/",
+          "date": "2026-02-13",
+          "source": "TechCrunch",
+          "description": "AI companies have been hemorrhaging&#160;talent&#160;the past few weeks. Half of&#160;xAI’s&#160;founding team&#160;has left the company — some on their own, others through “restructuring” — while OpenAI is facing its own shakeups, from the&#160;disbanding of its&#160;mission alignment team&#160;to the firing of a policy exec who opposed its “adult mode” feature.&#160; Watch as TechCrunch’s Equity podcast hosts Kirsten Korosec, Anthony [&#8230;]",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Why top talent is walking away from OpenAI and xAI",
+          "original_summary": "AI companies have been hemorrhaging&#160;talent&#160;the past few weeks. Half of&#160;xAI’s&#160;founding team&#160;has left the company — some on their own, others through “restructuring” — while OpenAI is facing its own shakeups, from the&#160;disbanding of its&#160;mission alignment team&#160;to ",
+          "summary": "• 최근 AI 기업들의 인재 대량 유출 심화\n• xAI 창업팀 절반, 구조조정 등으로 떠나\n• OpenAI 미션 정렬 팀 해체 등 변화\n• 양사 조직 개편과 인력 안정성 우려",
+          "translated_title": "OpenAI와 xAI, 핵심 인재 대량 이탈",
+          "category_keyword": "인재 이탈"
+        },
         {
           "title": "ChatGPT에 '락다운 모드' 및 '고위험 라벨' 도입",
           "link": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
