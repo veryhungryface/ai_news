@@ -2,8 +2,50 @@
   "dates": [
     {
       "date": "2026-02-14",
-      "update_time": "2026-02-13 15:33:18",
+      "update_time": "2026-02-13 18:33:29",
       "news": [
+        {
+          "title": "OpenAI GPT-5.3-Codex-Spark, 세브라스와 협업 가능성 보여",
+          "link": "https://aibusiness.com/generative-ai/openai-gpt-5-3-codex-spark-shows-what-s-possible-with-cerebras",
+          "date": "2026-02-14",
+          "source": "AI Business",
+          "description": "The vendor designed the model for real-time coding. While limited, it shows the possibilities that can arise when an AI vendor chooses a hardware vendor other than Nvidia.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt7bd0b482f4c1285c/698f68715d330e0008bd4425/Cerebras.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "OpenAI GPT-5.3-Codex-Spark Shows What's Possible With Cerebras",
+          "original_summary": "The vendor designed the model for real-time coding. While limited, it shows the possibilities that can arise when an AI vendor chooses a hardware vendor other than Nvidia.",
+          "summary": "• 실시간 코딩에 특화된 모델\n• 엔비디아 외 하드웨어 활용\n• AI 벤더의 새로운 선택지\n• 하드웨어 파트너십 중요성",
+          "translated_title": "OpenAI GPT-5.3-Codex-Spark, 세브라스와 협업 가능성 보여",
+          "category_keyword": "코딩"
+        },
+        {
+          "title": "신형 웨이모 로보택시, 미 도로서 완전 자율 주행 시작",
+          "link": "https://aibusiness.com/generative-ai/new-waymo-robotaxi-now-running-fully-autonomously-on-us-roads",
+          "date": "2026-02-14",
+          "source": "AI Business",
+          "description": "The autonomous vehicle vendor said it is expanding rapidly into new urban markets.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt7dcb5f3c070d9fa9/698f5778a5b1b30008f60de5/Waymo.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "New Waymo Robotaxi now Running Fully Autonomously on US Roads",
+          "original_summary": "The autonomous vehicle vendor said it is expanding rapidly into new urban markets.",
+          "summary": "• 완전 자율 주행 구현 완료\n• 미국 도로에서 상시 운행\n• 새로운 도시 시장으로 확장\n• 자율주행 차량 서비스 성장",
+          "translated_title": "신형 웨이모 로보택시, 미 도로서 완전 자율 주행 시작",
+          "category_keyword": "자율주행"
+        },
+        {
+          "title": "앤트로픽, 300억 달러 조달로 기업가치 3,800억 달러 달성",
+          "link": "https://aibusiness.com/generative-ai/anthropic-raises-30b-bringing-valuation-to-380b",
+          "date": "2026-02-14",
+          "source": "AI Business",
+          "description": "The new financing is the latest volley in the increasingly hard-fought war with the vendor's chief rival, OpenAI.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltaefc41e0a018bd58/698f4dc06b7ceb000884821b/Claude.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Anthropic Raises $30B, Bringing its Valuation to $380B",
+          "original_summary": "The new financing is the latest volley in the increasingly hard-fought war with the vendor's chief rival, OpenAI.",
+          "summary": "• 300억 달러 신규 자금 조달\n• 기업 가치 3,800억 달러 상승\n• 경쟁사 OpenAI와 자금 전쟁\n• AI 시장 패권 경쟁 격화",
+          "translated_title": "앤트로픽, 300억 달러 조달로 기업가치 3,800억 달러 달성",
+          "category_keyword": "투자"
+        },
         {
           "title": "zai-org/GLM-5",
           "link": "https://huggingface.co/zai-org/GLM-5",
@@ -96,6 +138,19 @@
           "category": "AI Model"
         },
         {
+          "title": "MiniMaxAI/MiniMax-M2.5",
+          "link": "https://huggingface.co/MiniMaxAI/MiniMax-M2.5",
+          "date": "2026-02-14",
+          "source": "HuggingFace",
+          "description": "• MiniMaxAI, 신규 언어 모델 공개\n• 문장 생성 최적화 파이프라인 탑재\n• 트랜스포머 라이브러리 기반 구현\n• 수정된 MIT 라이선스 적용",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• MiniMaxAI, 신규 언어 모델 공개\n• 문장 생성 최적화 파이프라인 탑재\n• 트랜스포머 라이브러리 기반 구현\n• 수정된 MIT 라이선스 적용",
+          "translated_title": "MiniMaxAI/MiniMax-M2.5",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "mistralai/Voxtral-Mini-4B-Realtime-2602",
           "link": "https://huggingface.co/mistralai/Voxtral-Mini-4B-Realtime-2602",
           "date": "2026-02-14",
@@ -161,19 +216,6 @@
           "category": "AI Model"
         },
         {
-          "title": "MiniMaxAI/MiniMax-M2.5",
-          "link": "https://huggingface.co/MiniMaxAI/MiniMax-M2.5",
-          "date": "2026-02-14",
-          "source": "HuggingFace",
-          "description": "• MiniMaxAI, 신규 언어 모델 공개\n• 문장 생성 최적화 파이프라인 탑재\n• 트랜스포머 라이브러리 기반 구현\n• 수정된 MIT 라이선스 적용",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
-          "is_english": true,
-          "summary": "• MiniMaxAI, 신규 언어 모델 공개\n• 문장 생성 최적화 파이프라인 탑재\n• 트랜스포머 라이브러리 기반 구현\n• 수정된 MIT 라이선스 적용",
-          "translated_title": "MiniMaxAI/MiniMax-M2.5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "circlestone-labs/Anima",
           "link": "https://huggingface.co/circlestone-labs/Anima",
           "date": "2026-02-14",
@@ -183,32 +225,6 @@
           "is_english": true,
           "summary": "• 애니메이션 전문 고품질 이미지 모델 공개\n• 최대 20억 파라미터 규모의 경량화 설계\n• ComfyUI 기반으로 쉽고 빠른 생성 지원\n• 현재 사전 공개 버전으로 지속 업데이트 예정",
           "translated_title": "circlestone-labs/Anima",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "unsloth/Qwen3-Coder-Next-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3-Coder-Next-GGUF",
-          "date": "2026-02-14",
-          "source": "HuggingFace",
-          "description": "• 허깅페이스, 신규 코딩 모델 공개\n• 로컬 실행 최적화 기술 지원\n• 출력 품질 개선 업데이트 완료\n• 고용량 메모리 환경 권장 안내",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
-          "is_english": true,
-          "summary": "• 허깅페이스, 신규 코딩 모델 공개\n• 로컬 실행 최적화 기술 지원\n• 출력 품질 개선 업데이트 완료\n• 고용량 메모리 환경 권장 안내",
-          "translated_title": "unsloth/Qwen3-Coder-Next-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "inference-net/Schematron-3B",
-          "link": "https://huggingface.co/inference-net/Schematron-3B",
-          "date": "2026-02-14",
-          "source": "HuggingFace",
-          "description": "• 인퍼런스닷넷, AI 모델 '스케마트론' 공개\n• 복잡한 HTML을 정제된 JSON으로 변환\n• 긴 문서 처리 가능한 12만 토큰 지원\n• 비용 효율적인 3B 모델 기본 추천",
-          "image": "https://huggingface.co/inference-net/Schematron-3B/resolve/main/Banner.png",
-          "is_english": true,
-          "summary": "• 인퍼런스닷넷, AI 모델 '스케마트론' 공개\n• 복잡한 HTML을 정제된 JSON으로 변환\n• 긴 문서 처리 가능한 12만 토큰 지원\n• 비용 효율적인 3B 모델 기본 추천",
-          "translated_title": "inference-net/Schematron-3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -226,6 +242,19 @@
           "category": "AI Model"
         },
         {
+          "title": "unsloth/Qwen3-Coder-Next-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3-Coder-Next-GGUF",
+          "date": "2026-02-14",
+          "source": "HuggingFace",
+          "description": "• 허깅페이스, 신규 코딩 모델 공개\n• 로컬 실행 최적화 기술 지원\n• 출력 품질 개선 업데이트 완료\n• 고용량 메모리 환경 권장 안내",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "is_english": true,
+          "summary": "• 허깅페이스, 신규 코딩 모델 공개\n• 로컬 실행 최적화 기술 지원\n• 출력 품질 개선 업데이트 완료\n• 고용량 메모리 환경 권장 안내",
+          "translated_title": "unsloth/Qwen3-Coder-Next-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "OpenMOSS-Team/MOSS-TTS",
           "link": "https://huggingface.co/OpenMOSS-Team/MOSS-TTS",
           "date": "2026-02-14",
@@ -235,6 +264,19 @@
           "is_english": true,
           "summary": "• 고성능 오픈소스 음성 생성 모델 공개\n• 다국어 지원 및 높은 표현력 구현\n• 대화 및 효과음 등 복합 상황 대응\n• 실시간 스트리밍 TTS 기능 제공",
           "translated_title": "OpenMOSS-Team/MOSS-TTS",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "inference-net/Schematron-3B",
+          "link": "https://huggingface.co/inference-net/Schematron-3B",
+          "date": "2026-02-14",
+          "source": "HuggingFace",
+          "description": "• 인퍼런스닷넷, AI 모델 '스케마트론' 공개\n• 복잡한 HTML을 정제된 JSON으로 변환\n• 긴 문서 처리 가능한 12만 토큰 지원\n• 비용 효율적인 3B 모델 기본 추천",
+          "image": "https://huggingface.co/inference-net/Schematron-3B/resolve/main/Banner.png",
+          "is_english": true,
+          "summary": "• 인퍼런스닷넷, AI 모델 '스케마트론' 공개\n• 복잡한 HTML을 정제된 JSON으로 변환\n• 긴 문서 처리 가능한 12만 토큰 지원\n• 비용 효율적인 3B 모델 기본 추천",
+          "translated_title": "inference-net/Schematron-3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -252,15 +294,15 @@
           "category": "AI Model"
         },
         {
-          "title": "ytu-ce-cosmos/Turkish-Gemma-9b-T1",
-          "link": "https://huggingface.co/ytu-ce-cosmos/Turkish-Gemma-9b-T1",
+          "title": "TeichAI/GLM-4.7-Flash-Claude-Opus-4.5-High-Reasoning-Distill-GGUF",
+          "link": "https://huggingface.co/TeichAI/GLM-4.7-Flash-Claude-Opus-4.5-High-Reasoning-Distill-GGUF",
           "date": "2026-02-14",
           "source": "HuggingFace",
-          "description": "• 튀르키예어 추론 특화 AI 공개\n• 복잡한 수학 논리 문제 해결\n• 거짓 정보 최소화 신뢰도 상승\n• 인간 평가 우수한 성능 입증",
-          "image": "https://huggingface.co/ytu-ce-cosmos/Turkish-Gemma-9b-T1/resolve/main/./Turkish_gemma.png",
+          "description": "• 글로벌 고성능 추론 모델 공개\n• 코딩 및 과학 분야 최적화\n• 클로드 데이터 기반 학습 완료\n• 저사양 디바이스 배포 지원",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
           "is_english": true,
-          "summary": "• 튀르키예어 추론 특화 AI 공개\n• 복잡한 수학 논리 문제 해결\n• 거짓 정보 최소화 신뢰도 상승\n• 인간 평가 우수한 성능 입증",
-          "translated_title": "ytu-ce-cosmos/Turkish-Gemma-9b-T1",
+          "summary": "• 글로벌 고성능 추론 모델 공개\n• 코딩 및 과학 분야 최적화\n• 클로드 데이터 기반 학습 완료\n• 저사양 디바이스 배포 지원",
+          "translated_title": "TeichAI/GLM-4.7-Flash-Claude-Opus-4.5-High-Reasoning-Distill-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -268,8 +310,92 @@
     },
     {
       "date": "2026-02-13",
-      "update_time": "2026-02-13 15:33:08",
+      "update_time": "2026-02-13 18:33:29",
       "news": [
+        {
+          "title": "ChatGPT에 '락다운 모드' 및 '고위험 라벨' 도입",
+          "link": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
+          "date": "2026-02-13",
+          "source": "OpenAI",
+          "description": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT to help organizations defend against prompt injection and AI-driven data exfiltration.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
+          "original_summary": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT to help organizations defend against prompt injection and AI-driven data exfiltration.",
+          "summary": "• 프롬프트 인젝션 방어 기능\n• AI 기반 데이터 유출 차단 목적\n• 기업용 보안 강화에 초점\n• 위험성을 시각적으로 표시하는 라벨",
+          "translated_title": "ChatGPT에 '락다운 모드' 및 '고위험 라벨' 도입",
+          "category_keyword": "보안"
+        },
+        {
+          "title": "속도 제한을 넘어: Codex와 Sora의 접근성 확장",
+          "link": "https://openai.com/index/beyond-rate-limits",
+          "date": "2026-02-13",
+          "source": "OpenAI",
+          "description": "How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Beyond rate limits: scaling access to Codex and Sora",
+          "original_summary": "How OpenAI built a real-time access system combining rate limits, usage tracking, and credits to power continuous access to Sora and Codex.",
+          "summary": "• 실시간 접근 시스템 구축 방법\n• 속도 제한과 사용량 추적 결합\n• 크레딧 시스템을 통한 지속 접근\n• Sora와 Codex 서비스 지원",
+          "translated_title": "속도 제한을 넘어: Codex와 Sora의 접근성 확장",
+          "category_keyword": "접근성"
+        },
+        {
+          "title": "아부하기 잘하는 GPT-4o 모델, OpenAI가 접속 권한 삭제",
+          "link": "https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/",
+          "date": "2026-02-13",
+          "source": "TechCrunch",
+          "description": "The model is known for its overly sycophantic nature and its role in several lawsuits involving users' unhealthy relationships to the chatbot.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+          "is_english": true,
+          "original_title": "OpenAI removes access to sycophancy-prone GPT-4o model",
+          "original_summary": "The model is known for its overly sycophantic nature and its role in several lawsuits involving users' unhealthy relationships to the chatbot.",
+          "summary": "• 과도하게 영합하는 성향 문제\n• 챗봇과의 비정상적 관계 논란\n• 사용자 관련 소송에 연루됨\n• 모델 접근 권한이 제한됨",
+          "translated_title": "아부하기 잘하는 GPT-4o 모델, OpenAI가 접속 권한 삭제",
+          "category_keyword": "모델 삭제"
+        },
+        {
+          "title": "AI 번아웃, 수십억 달러 내기, 실리콘밸리의 엡스틴 문제",
+          "link": "https://techcrunch.com/podcast/ai-burnout-billion-dollar-bets-and-silicon-valleys-epstein-problem/",
+          "date": "2026-02-13",
+          "source": "TechCrunch",
+          "description": "AI companies have been hemorrhaging&#160;talent&#160;the past few weeks. Half of&#160;xAI’s&#160;founding team&#160;has left the company — some on their own, others through “restructuring” — while OpenAI is facing its own shakeups, from the&#160;disbanding of its&#160;mission alignment team&#160;to the firing of a policy exec who opposed its “adult mode” feature.&#160; On this episode of TechCrunch’s&#160;Equity&#160;podcast, hosts Kirsten [&#8230;]",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2194754542.jpg?w=1024",
+          "is_english": true,
+          "original_title": "AI burnout, billion-dollar bets, and Silicon Valley’s Epstein problem",
+          "original_summary": "AI companies have been hemorrhaging&#160;talent&#160;the past few weeks. Half of&#160;xAI’s&#160;founding team&#160;has left the company — some on their own, others through “restructuring” — while OpenAI is facing its own shakeups, from the&#160;disbanding of its&#160;mission alignment team&#160;to ",
+          "summary": "• AI 기업의 인재 대량 이탈\n• xAI 공동 창업팀 절반 퇴사\n• OpenAI 미션 정렬 팀 해체\n• 인공지능 업계의 구조적 위기",
+          "translated_title": "AI 번아웃, 수십억 달러 내기, 실리콘밸리의 엡스틴 문제",
+          "category_keyword": "인재 이탈"
+        },
+        {
+          "title": "앤트로픽, AI 조롱하는 슈퍼볼 광고로 클로드 앱 톱10 진입",
+          "link": "https://techcrunch.com/2026/02/13/anthropics-super-bowl-ads-mocking-ai-with-ads-helped-push-claudes-app-into-the-top-10/",
+          "date": "2026-02-13",
+          "source": "TechCrunch",
+          "description": "The numbers suggest that Anthropic's Super Bowl commercials, combined with Anthropic's recent release of its new Opus 4.6 model, worked to drive attention to Claude's app and its key differentiator from ChatGPT. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/Claude-app-gettyImages-2216579136.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Anthropic’s Super Bowl ads mocking AI with ads helped push Claude’s app into the top 10",
+          "original_summary": "The numbers suggest that Anthropic's Super Bowl commercials, combined with Anthropic's recent release of its new Opus 4.6 model, worked to drive attention to Claude's app and its key differentiator from ChatGPT. ",
+          "summary": "• 슈퍼볼 광고가 주목을 끌음\n• 신규 Opus 4.6 모델 출시 효과\n• 클로드 앱 상승세 견인\n• 챗GPT와의 차별화 부각",
+          "translated_title": "앤트로픽, AI 조롱하는 슈퍼볼 광고로 클로드 앱 톱10 진입",
+          "category_keyword": "슈퍼볼"
+        },
+        {
+          "title": "일론 머스크, xAI 잇단 퇴사는 밀려난 것이라 시사",
+          "link": "https://techcrunch.com/2026/02/13/elon-musk-suggests-spate-of-xai-exits-have-been-push-not-pull/",
+          "date": "2026-02-13",
+          "source": "TechCrunch",
+          "description": "At least nine engineers, including two co-founders, have announced their exits from xAI in the past week, fueling online speculation and raising questions about stability at Musk’s AI company amid mounting controversy.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2199701496.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Elon Musk suggests spate of xAI exits have been push, not pull",
+          "original_summary": "At least nine engineers, including two co-founders, have announced their exits from xAI in the past week, fueling online speculation and raising questions about stability at Musk’s AI company amid mounting controversy.",
+          "summary": "• 공동 창업자 포함 9명 퇴사\n• 머스크의 해고 발언 제기\n• xAI 내부 안정성 의문 증폭\n• 경영진 갈등 설이 확산",
+          "translated_title": "일론 머스크, xAI 잇단 퇴사는 밀려난 것이라 시사",
+          "category_keyword": "퇴사"
+        },
         {
           "title": "코히어, 연간 매출 2억 4천만 달러 달성… 상장 기반 마련",
           "link": "https://techcrunch.com/2026/02/13/coheres-240m-year-sets-stage-for-ipo/",
@@ -8801,7 +8927,7 @@
         {
           "title": "zai-org/GLM-OCR",
           "link": "https://huggingface.co/zai-org/GLM-OCR",
-          "date": "2026-02-06",
+          "date": "2026-02-14",
           "source": "HuggingFace",
           "description": "• 훼이스, 차세대 OCR 모델 GLM-OCR 공개\n• 복잡한 문서 이해 및 레이아웃 분석 지원\n• 글로벌 벤치마크에서 1위 차지함\n• 가벼운 모델로 빠른 추론 속도 제공",
           "image": "https://raw.githubusercontent.com/zai-org/GLM-OCR/refs/heads/main/resources/docparse.png",
@@ -8814,7 +8940,7 @@
         {
           "title": "moonshotai/Kimi-K2.5",
           "link": "https://huggingface.co/moonshotai/Kimi-K2.5",
-          "date": "2026-02-06",
+          "date": "2026-02-14",
           "source": "HuggingFace",
           "description": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
           "image": "https://huggingface.co/moonshotai/Kimi-K2.5/resolve/main/figures/kimi-logo.png",
@@ -8827,7 +8953,7 @@
         {
           "title": "Qwen/Qwen3-Coder-Next",
           "link": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
-          "date": "2026-02-06",
+          "date": "2026-02-14",
           "source": "HuggingFace",
           "description": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
           "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Coder-Next/benchmarks.png",
@@ -8840,7 +8966,7 @@
         {
           "title": "stepfun-ai/Step-3.5-Flash",
           "link": "https://huggingface.co/stepfun-ai/Step-3.5-Flash",
-          "date": "2026-02-06",
+          "date": "2026-02-14",
           "source": "HuggingFace",
           "description": "• 스텝퍼AI, 최신 오픈소스 모델 공개\n• 속도와 추론 능력 겸비한 성능\n• 초고속 토큰 생성으로 실시간 처리\n• 에이전트 및 코딩 작업에 최적화",
           "image": "https://img.shields.io/badge/%F0%9F%A4%97%20HF-StepFun/STEP3p5-preview",
@@ -8853,7 +8979,7 @@
         {
           "title": "circlestone-labs/Anima",
           "link": "https://huggingface.co/circlestone-labs/Anima",
-          "date": "2026-02-06",
+          "date": "2026-02-14",
           "source": "HuggingFace",
           "description": "• 애니메이션 전문 고품질 이미지 모델 공개\n• 최대 20억 파라미터 규모의 경량화 설계\n• ComfyUI 기반으로 쉽고 빠른 생성 지원\n• 현재 사전 공개 버전으로 지속 업데이트 예정",
           "image": "https://huggingface.co/circlestone-labs/Anima/resolve/main/example.png",
@@ -8866,7 +8992,7 @@
         {
           "title": "openbmb/MiniCPM-o-4_5",
           "link": "https://huggingface.co/openbmb/MiniCPM-o-4_5",
-          "date": "2026-02-06",
+          "date": "2026-02-14",
           "source": "HuggingFace",
           "description": "• 구글 Gemini 수준의 온디바이스 AI 공개\n• 시각과 언어 능력에서 GPT-4o 능가\n• 중영어 실시간 음성 대화 지원\n• 멀티모달 실시간 스트리밍 구현",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -8879,7 +9005,7 @@
         {
           "title": "ACE-Step/Ace-Step1.5",
           "link": "https://huggingface.co/ACE-Step/Ace-Step1.5",
-          "date": "2026-02-06",
+          "date": "2026-02-14",
           "source": "HuggingFace",
           "description": "• 상업적 이용 가능한 오픈소스 음악 생성 모델 공개\n• 합법적 데이터로 학습된 안전한 생성 기능 제공\n• 고성능 GPU 기반 2초 만에 곡 생성 구현\n• 일반 PC에서도 구동 가능한 저용량 요구사항 확보",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/62dfaf90c42558bcbd0a4f6f/b84r7t0viIw7rKSr_ja9_.png",
@@ -9009,7 +9135,7 @@
         {
           "title": "TeichAI/GLM-4.7-Flash-Claude-Opus-4.5-High-Reasoning-Distill-GGUF",
           "link": "https://huggingface.co/TeichAI/GLM-4.7-Flash-Claude-Opus-4.5-High-Reasoning-Distill-GGUF",
-          "date": "2026-02-13",
+          "date": "2026-02-14",
           "source": "HuggingFace",
           "description": "• 글로벌 고성능 추론 모델 공개\n• 코딩 및 과학 분야 최적화\n• 클로드 데이터 기반 학습 완료\n• 저사양 디바이스 배포 지원",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
