@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-02-14",
-      "update_time": "2026-02-14 06:33:02",
+      "update_time": "2026-02-14 09:22:08",
       "news": [
         {
           "title": "[AI 이슈트렌드] 동계올림픽 화제 속 정은우 사망·황희찬 갑질 등 눈길",
@@ -223,19 +223,6 @@
           "category": "AI Model"
         },
         {
-          "title": "openbmb/MiniCPM-o-4_5",
-          "link": "https://huggingface.co/openbmb/MiniCPM-o-4_5",
-          "date": "2026-02-14",
-          "source": "HuggingFace",
-          "description": "• 구글 Gemini 수준의 온디바이스 AI 공개\n• 시각과 언어 능력에서 GPT-4o 능가\n• 중영어 실시간 음성 대화 지원\n• 멀티모달 실시간 스트리밍 구현",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• 구글 Gemini 수준의 온디바이스 AI 공개\n• 시각과 언어 능력에서 GPT-4o 능가\n• 중영어 실시간 음성 대화 지원\n• 멀티모달 실시간 스트리밍 구현",
-          "translated_title": "openbmb/MiniCPM-o-4_5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Nanbeige/Nanbeige4.1-3B",
           "link": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
           "date": "2026-02-14",
@@ -245,6 +232,19 @@
           "is_english": true,
           "summary": "• 소형 규모로도 강력한 추론 능력 구현\n• 대형 모델 뛰어넘는 선호 정렬 성과\n• 도구 호출 등 에이전트 기능 고도화\n• 복잡한 문제 해결 지원하는 신모델 공개",
           "translated_title": "Nanbeige/Nanbeige4.1-3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "openbmb/MiniCPM-o-4_5",
+          "link": "https://huggingface.co/openbmb/MiniCPM-o-4_5",
+          "date": "2026-02-14",
+          "source": "HuggingFace",
+          "description": "• 구글 Gemini 수준의 온디바이스 AI 공개\n• 시각과 언어 능력에서 GPT-4o 능가\n• 중영어 실시간 음성 대화 지원\n• 멀티모달 실시간 스트리밍 구현",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• 구글 Gemini 수준의 온디바이스 AI 공개\n• 시각과 언어 능력에서 GPT-4o 능가\n• 중영어 실시간 음성 대화 지원\n• 멀티모달 실시간 스트리밍 구현",
+          "translated_title": "openbmb/MiniCPM-o-4_5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -275,19 +275,6 @@
           "category": "AI Model"
         },
         {
-          "title": "ACE-Step/Ace-Step1.5",
-          "link": "https://huggingface.co/ACE-Step/Ace-Step1.5",
-          "date": "2026-02-14",
-          "source": "HuggingFace",
-          "description": "• 상업적 이용 가능한 오픈소스 음악 생성 모델 공개\n• 합법적 데이터로 학습된 안전한 생성 기능 제공\n• 고성능 GPU 기반 2초 만에 곡 생성 구현\n• 일반 PC에서도 구동 가능한 저용량 요구사항 확보",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/62dfaf90c42558bcbd0a4f6f/b84r7t0viIw7rKSr_ja9_.png",
-          "is_english": true,
-          "summary": "• 상업적 이용 가능한 오픈소스 음악 생성 모델 공개\n• 합법적 데이터로 학습된 안전한 생성 기능 제공\n• 고성능 GPU 기반 2초 만에 곡 생성 구현\n• 일반 PC에서도 구동 가능한 저용량 요구사항 확보",
-          "translated_title": "ACE-Step/Ace-Step1.5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "inclusionAI/Ring-2.5-1T",
           "link": "https://huggingface.co/inclusionAI/Ring-2.5-1T",
           "date": "2026-02-14",
@@ -297,6 +284,19 @@
           "is_english": true,
           "summary": "• 세계 최초 1조 파라미터 오픈소스 모델 공개\n• 혼형 선형 어텐션 기반 생성 효율 3배 개선\n• 깊은 사고 구현해 수학 올림피아드 금메달 달성\n• 장기 과제 자율 수행 능력 대폭 강화",
           "translated_title": "inclusionAI/Ring-2.5-1T",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "ACE-Step/Ace-Step1.5",
+          "link": "https://huggingface.co/ACE-Step/Ace-Step1.5",
+          "date": "2026-02-14",
+          "source": "HuggingFace",
+          "description": "• 상업적 이용 가능한 오픈소스 음악 생성 모델 공개\n• 합법적 데이터로 학습된 안전한 생성 기능 제공\n• 고성능 GPU 기반 2초 만에 곡 생성 구현\n• 일반 PC에서도 구동 가능한 저용량 요구사항 확보",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/62dfaf90c42558bcbd0a4f6f/b84r7t0viIw7rKSr_ja9_.png",
+          "is_english": true,
+          "summary": "• 상업적 이용 가능한 오픈소스 음악 생성 모델 공개\n• 합법적 데이터로 학습된 안전한 생성 기능 제공\n• 고성능 GPU 기반 2초 만에 곡 생성 구현\n• 일반 PC에서도 구동 가능한 저용량 요구사항 확보",
+          "translated_title": "ACE-Step/Ace-Step1.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
