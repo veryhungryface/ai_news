@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-02-15",
-      "update_time": "2026-02-14 15:16:52",
+      "update_time": "2026-02-14 18:20:30",
       "news": [
         {
           "title": "zai-org/GLM-5",
@@ -70,19 +70,6 @@
           "category": "AI Model"
         },
         {
-          "title": "zai-org/GLM-OCR",
-          "link": "https://huggingface.co/zai-org/GLM-OCR",
-          "date": "2026-02-15",
-          "source": "HuggingFace",
-          "description": "• 훼이스, 차세대 OCR 모델 GLM-OCR 공개\n• 복잡한 문서 이해 및 레이아웃 분석 지원\n• 글로벌 벤치마크에서 1위 차지함\n• 가벼운 모델로 빠른 추론 속도 제공",
-          "image": "https://raw.githubusercontent.com/zai-org/GLM-OCR/refs/heads/main/resources/docparse.png",
-          "is_english": true,
-          "summary": "• 훼이스, 차세대 OCR 모델 GLM-OCR 공개\n• 복잡한 문서 이해 및 레이아웃 분석 지원\n• 글로벌 벤치마크에서 1위 차지함\n• 가벼운 모델로 빠른 추론 속도 제공",
-          "translated_title": "zai-org/GLM-OCR",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Nanbeige/Nanbeige4.1-3B",
           "link": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
           "date": "2026-02-15",
@@ -92,6 +79,19 @@
           "is_english": true,
           "summary": "• 소형 규모로도 강력한 추론 능력 구현\n• 대형 모델 뛰어넘는 선호 정렬 성과\n• 도구 호출 등 에이전트 기능 고도화\n• 복잡한 문제 해결 지원하는 신모델 공개",
           "translated_title": "Nanbeige/Nanbeige4.1-3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "zai-org/GLM-OCR",
+          "link": "https://huggingface.co/zai-org/GLM-OCR",
+          "date": "2026-02-15",
+          "source": "HuggingFace",
+          "description": "• 훼이스, 차세대 OCR 모델 GLM-OCR 공개\n• 복잡한 문서 이해 및 레이아웃 분석 지원\n• 글로벌 벤치마크에서 1위 차지함\n• 가벼운 모델로 빠른 추론 속도 제공",
+          "image": "https://raw.githubusercontent.com/zai-org/GLM-OCR/refs/heads/main/resources/docparse.png",
+          "is_english": true,
+          "summary": "• 훼이스, 차세대 OCR 모델 GLM-OCR 공개\n• 복잡한 문서 이해 및 레이아웃 분석 지원\n• 글로벌 벤치마크에서 1위 차지함\n• 가벼운 모델로 빠른 추론 속도 제공",
+          "translated_title": "zai-org/GLM-OCR",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +268,22 @@
     },
     {
       "date": "2026-02-14",
-      "update_time": "2026-02-14 15:16:52",
+      "update_time": "2026-02-14 18:20:30",
       "news": [
+        {
+          "title": "인도, 국가 주도 벤처캐피털 강화… 11억 달러 펀드 승인",
+          "link": "https://techcrunch.com/2026/02/14/india-doubles-down-on-state-backed-venture-capital-approving-1-1b-fund/",
+          "date": "2026-02-14",
+          "source": "TechCrunch",
+          "description": "India’s $1.1B fund-of-funds will invest through private VCs to support deep-tech and manufacturing startups.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/09/india-flag.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "India doubles down on state-backed venture capital, approving $1.1B fund",
+          "original_summary": "India’s $1.1B fund-of-funds will invest through private VCs to support deep-tech and manufacturing startups.",
+          "summary": "• 인도 정부가 11억 달러 규모 펀드 승인\n• 민간 VC를 통해 투자를 집행할 계획\n• 딥테크 스타트업 지원이 주요 목적\n• 제조 분야 스타트업도 지원 대상",
+          "translated_title": "인도, 국가 주도 벤처캐피털 강화… 11억 달러 펀드 승인",
+          "category_keyword": "인도 펀드"
+        },
         {
           "title": "'8000만 뷰' 화제의 글 \"AI 변곡점 맞이...거대한 변화 다가와\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=206890",
