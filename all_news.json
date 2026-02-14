@@ -2,8 +2,36 @@
   "dates": [
     {
       "date": "2026-02-14",
-      "update_time": "2026-02-13 21:26:57",
+      "update_time": "2026-02-14 01:09:39",
       "news": [
+        {
+          "title": "[2월 13일] 설 연휴 앞둔 중국 AI의 물량 공세...남은 것은 딥시크와 'GPT-5.3'",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=206846",
+          "date": "2026-02-14",
+          "source": "AI타임스",
+          "description": "설을 앞두고 이번 주에는 중국에서 AI 모델이 쏟아졌습니다. 바이트댄스의 동영상 모델 \\'시댄스 2.0\\'을 시작으로, 지푸 AI의 \\'GLM-5\\'과 미니맥스의 플래그십 모델 M2.5, 알리바바의 이미지 모델 ‘큐원-이미지-2.0’과 바이트댄스의 ‘시드림 5.0’ 앤트 그룹의 멀티모달 모델 \\'밍플래시옴니 2.0(Ming-Flash-Omni 2.0)\\' 등이 일제히 공개됐습니다. 여기에 문샷 AI는 지난달 27일 ‘키미 K2.5’를, 스텝펀은 지난 3일 ‘스텝 3.5 플래시(Step 3.5 Flash)’를, 콰이쇼우가 지난 4일 \\'클링 3.",
+          "image": "https://cdn.aitimes.com/news/photo/202602/206846_208825_220.png",
+          "is_english": true,
+          "original_title": "[2월13일] 설 연휴 앞둔 중국 AI의 물량 공세...남은 것은 딥시크와 'GPT-5.3'",
+          "original_summary": "설을 앞두고 이번 주에는 중국에서 AI 모델이 쏟아졌습니다. 바이트댄스의 동영상 모델 \\'시댄스 2.0\\'을 시작으로, 지푸 AI의 \\'GLM-5\\'과 미니맥스의 플래그십 모델 M2.5, 알리바바의 이미지 모델 ‘큐원-이미지-2.0’과 바이트댄스의 ‘시드림 5.0’ 앤트 그룹의 멀티모달 모델 \\'밍플래시옴니 2.0(Ming-Flash-Omni 2.0)\\' 등이 일제히 공개됐습니다. 여기에 문샷 AI는 지난달 27일 ‘키미 K2.5’를, 스텝펀은 지난 3일 ‘스텝 3.5 플래시(Step 3.5 Flash)’를, 콰이쇼우가 지난 4일 ",
+          "summary": "• 설 연휴 앞두고 중국 AI 모델 대거 공개\n • 바이트댄스, 지푸 AI 등 주요 기사 참여\n • 문샷 AI, 스텝펀 등 속속 발표\n • 중국 AI 기업들의 공세 본격화",
+          "translated_title": "[2월 13일] 설 연휴 앞둔 중국 AI의 물량 공세...남은 것은 딥시크와 'GPT-5.3'",
+          "category_keyword": "중국AI"
+        },
+        {
+          "title": "‘검색부터 결제’까지… 구글 AI 모드에 도입되는 광고",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=206867",
+          "date": "2026-02-14",
+          "source": "AI타임스",
+          "description": "AI타임스 조예주 기자 joyejuoffice@aitimes.com",
+          "image": "https://cdn.aitimes.com/news/photo/202602/206867_208852_2925.jpg",
+          "is_english": false,
+          "original_title": "‘검색부터 결제’까지… 구글 AI 모드에 도입되는 광고",
+          "original_summary": "AI타임스 조예주 기자 joyejuoffice@aitimes.com",
+          "summary": "• 구글 AI 모드에 신규 광고 도입\n • 검색에서 결제까지 연계 지원\n • 사용자 경험에 맞춘 광고 노출\n • AI 시대 광고 비즈니스 확장",
+          "translated_title": "‘검색부터 결제’까지… 구글 AI 모드에 도입되는 광고",
+          "category_keyword": "구글AI"
+        },
         {
           "title": "OpenAI GPT-5.3-Codex-Spark, 세브라스와 협업 가능성 보여",
           "link": "https://aibusiness.com/generative-ai/openai-gpt-5-3-codex-spark-shows-what-s-possible-with-cerebras",
@@ -151,19 +179,6 @@
           "category": "AI Model"
         },
         {
-          "title": "mistralai/Voxtral-Mini-4B-Realtime-2602",
-          "link": "https://huggingface.co/mistralai/Voxtral-Mini-4B-Realtime-2602",
-          "date": "2026-02-14",
-          "source": "HuggingFace",
-          "description": "• 500ms 이하 실시간 음성 모델 공개\n• 13개 언어 고성능 변환 지원\n• 저사양 기기 온디바이스 배포 최적화\n• 라이선스 상업적 활용 가능",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
-          "is_english": true,
-          "summary": "• 500ms 이하 실시간 음성 모델 공개\n• 13개 언어 고성능 변환 지원\n• 저사양 기기 온디바이스 배포 최적화\n• 라이선스 상업적 활용 가능",
-          "translated_title": "mistralai/Voxtral-Mini-4B-Realtime-2602",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "inclusionAI/Ming-flash-omni-2.0",
           "link": "https://huggingface.co/inclusionAI/Ming-flash-omni-2.0",
           "date": "2026-02-14",
@@ -173,6 +188,19 @@
           "is_english": true,
           "summary": "• 전문가 혼합 기반 100B 파라미터 모델 공개\n• 오픈소스 최고 성능 멀티모달 모델 달성\n• 시각 지식 및 음성 합성 기능 고도화\n• 동적 이미지 생성 및 조작 기능 제공",
           "translated_title": "inclusionAI/Ming-flash-omni-2.0",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "mistralai/Voxtral-Mini-4B-Realtime-2602",
+          "link": "https://huggingface.co/mistralai/Voxtral-Mini-4B-Realtime-2602",
+          "date": "2026-02-14",
+          "source": "HuggingFace",
+          "description": "• 500ms 이하 실시간 음성 모델 공개\n• 13개 언어 고성능 변환 지원\n• 저사양 기기 온디바이스 배포 최적화\n• 라이선스 상업적 활용 가능",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "is_english": true,
+          "summary": "• 500ms 이하 실시간 음성 모델 공개\n• 13개 언어 고성능 변환 지원\n• 저사양 기기 온디바이스 배포 최적화\n• 라이선스 상업적 활용 가능",
+          "translated_title": "mistralai/Voxtral-Mini-4B-Realtime-2602",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -310,8 +338,22 @@
     },
     {
       "date": "2026-02-13",
-      "update_time": "2026-02-13 21:26:54",
+      "update_time": "2026-02-14 01:09:38",
       "news": [
+        {
+          "title": "에어비앤비, \"북미 고객 지원의 3분의 1을 AI가 처리\"",
+          "link": "https://techcrunch.com/2026/02/13/airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-u-s-and-canada/",
+          "date": "2026-02-13",
+          "source": "TechCrunch",
+          "description": "Airbnb was poised to introduce an app that doesn't just search for you, but one that \"knows you.\" CEO Brian Chesky said, \"It will help guests plan their entire trip, help hosts better run their businesses, and help the company operate more efficiently at scale.\"",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/05/Airbnb-Summer-feat.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "Airbnb says a third of its customer support is now handled by AI in the US and Canada",
+          "original_summary": "Airbnb was poised to introduce an app that doesn't just search for you, but one that \"knows you.\" CEO Brian Chesky said, \"It will help guests plan their entire trip, help hosts better run their businesses, and help the company operate more efficiently at scale.\"",
+          "summary": "• 북미 지원 업무의 3분의 1 AI 처리\n • 사용자을 '아는' 앱 도입 예정\n • 여행 계획부터 호스트 사업 지원\n • 효율적인 운영과 확장성 확보",
+          "translated_title": "에어비앤비, \"북미 고객 지원의 3분의 1을 AI가 처리\"",
+          "category_keyword": "에어비앤비"
+        },
         {
           "title": "GPT-5.2, 이론물리학 새로운 결과 도출",
           "link": "https://openai.com/index/new-result-theoretical-physics",
