@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-02-15",
-      "update_time": "2026-02-14 18:20:30",
+      "update_time": "2026-02-14 21:16:37",
       "news": [
         {
           "title": "zai-org/GLM-5",
@@ -135,19 +135,6 @@
           "category": "AI Model"
         },
         {
-          "title": "inclusionAI/Ring-2.5-1T",
-          "link": "https://huggingface.co/inclusionAI/Ring-2.5-1T",
-          "date": "2026-02-15",
-          "source": "HuggingFace",
-          "description": "• 세계 최초 1조 파라미터 오픈소스 모델 공개\n• 혼형 선형 어텐션 기반 생성 효율 3배 개선\n• 깊은 사고 구현해 수학 올림피아드 금메달 달성\n• 장기 과제 자율 수행 능력 대폭 강화",
-          "image": "https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*4QxcQrBlTiAAAAAAQXAAAAgAemJ7AQ/original",
-          "is_english": true,
-          "summary": "• 세계 최초 1조 파라미터 오픈소스 모델 공개\n• 혼형 선형 어텐션 기반 생성 효율 3배 개선\n• 깊은 사고 구현해 수학 올림피아드 금메달 달성\n• 장기 과제 자율 수행 능력 대폭 강화",
-          "translated_title": "inclusionAI/Ring-2.5-1T",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "OpenMOSS-Team/MOSS-TTS",
           "link": "https://huggingface.co/OpenMOSS-Team/MOSS-TTS",
           "date": "2026-02-15",
@@ -157,6 +144,19 @@
           "is_english": true,
           "summary": "• 고성능 오픈소스 음성 생성 모델 공개\n• 다국어 지원 및 높은 표현력 구현\n• 대화 및 효과음 등 복합 상황 대응\n• 실시간 스트리밍 TTS 기능 제공",
           "translated_title": "OpenMOSS-Team/MOSS-TTS",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "inclusionAI/Ring-2.5-1T",
+          "link": "https://huggingface.co/inclusionAI/Ring-2.5-1T",
+          "date": "2026-02-15",
+          "source": "HuggingFace",
+          "description": "• 세계 최초 1조 파라미터 오픈소스 모델 공개\n• 혼형 선형 어텐션 기반 생성 효율 3배 개선\n• 깊은 사고 구현해 수학 올림피아드 금메달 달성\n• 장기 과제 자율 수행 능력 대폭 강화",
+          "image": "https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*4QxcQrBlTiAAAAAAQXAAAAgAemJ7AQ/original",
+          "is_english": true,
+          "summary": "• 세계 최초 1조 파라미터 오픈소스 모델 공개\n• 혼형 선형 어텐션 기반 생성 효율 3배 개선\n• 깊은 사고 구현해 수학 올림피아드 금메달 달성\n• 장기 과제 자율 수행 능력 대폭 강화",
+          "translated_title": "inclusionAI/Ring-2.5-1T",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +268,22 @@
     },
     {
       "date": "2026-02-14",
-      "update_time": "2026-02-14 18:20:30",
+      "update_time": "2026-02-14 21:16:37",
       "news": [
+        {
+          "title": "할리우드, 새로운 AI 비디오 생성기 'Seedance 2.0'에 우려 섞인 반응",
+          "link": "https://techcrunch.com/2026/02/14/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/",
+          "date": "2026-02-14",
+          "source": "TechCrunch",
+          "description": "Hollywood organizations are pushing back against a new AI video model called Seedance 2.0, which they say has quickly become a tool for “blatant” copyright infringement.",
+          "image": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1263876301.jpeg?w=1024",
+          "is_english": true,
+          "original_title": "Hollywood isn’t happy about the new Seedance 2.0 video generator",
+          "original_summary": "Hollywood organizations are pushing back against a new AI video model called Seedance 2.0, which they say has quickly become a tool for “blatant” copyright infringement.",
+          "summary": "• 할리우드, Seedance 2.0 반발\n• 새 AI 모델 저작권 침해 지적\n• 공개적 저작권 침해 도구 전락\n• 미디어 업계 강력 대응 예고",
+          "translated_title": "할리우드, 새로운 AI 비디오 생성기 'Seedance 2.0'에 우려 섞인 반응",
+          "category_keyword": "Seedance"
+        },
         {
           "title": "인도, 국가 주도 벤처캐피털 강화… 11억 달러 펀드 승인",
           "link": "https://techcrunch.com/2026/02/14/india-doubles-down-on-state-backed-venture-capital-approving-1-1b-fund/",
