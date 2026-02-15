@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-02-16",
-      "update_time": "2026-02-15 15:16:51",
+      "update_time": "2026-02-15 18:22:28",
       "news": [
         {
           "title": "zai-org/GLM-5",
@@ -174,19 +174,6 @@
           "category": "AI Model"
         },
         {
-          "title": "stepfun-ai/Step-3.5-Flash",
-          "link": "https://huggingface.co/stepfun-ai/Step-3.5-Flash",
-          "date": "2026-02-16",
-          "source": "HuggingFace",
-          "description": "• 스텝퍼AI, 최신 오픈소스 모델 공개\n• 속도와 추론 능력 겸비한 성능\n• 초고속 토큰 생성으로 실시간 처리\n• 에이전트 및 코딩 작업에 최적화",
-          "image": "https://img.shields.io/badge/%F0%9F%A4%97%20HF-StepFun/STEP3p5-preview",
-          "is_english": true,
-          "summary": "• 스텝퍼AI, 최신 오픈소스 모델 공개\n• 속도와 추론 능력 겸비한 성능\n• 초고속 토큰 생성으로 실시간 처리\n• 에이전트 및 코딩 작업에 최적화",
-          "translated_title": "stepfun-ai/Step-3.5-Flash",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/GLM-5-GGUF",
           "link": "https://huggingface.co/unsloth/GLM-5-GGUF",
           "date": "2026-02-16",
@@ -196,6 +183,19 @@
           "is_english": true,
           "summary": "• 언슬로스, 최신 GLM-5 모델 공개\n• 로컬 실행 위한 가이드 제공\n• 다이나믹 2.0, 양자화 성능 우위\n• 공식 문서 및 커뮤니티 안내",
           "translated_title": "unsloth/GLM-5-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "stepfun-ai/Step-3.5-Flash",
+          "link": "https://huggingface.co/stepfun-ai/Step-3.5-Flash",
+          "date": "2026-02-16",
+          "source": "HuggingFace",
+          "description": "• 스텝퍼AI, 최신 오픈소스 모델 공개\n• 속도와 추론 능력 겸비한 성능\n• 초고속 토큰 생성으로 실시간 처리\n• 에이전트 및 코딩 작업에 최적화",
+          "image": "https://img.shields.io/badge/%F0%9F%A4%97%20HF-StepFun/STEP3p5-preview",
+          "is_english": true,
+          "summary": "• 스텝퍼AI, 최신 오픈소스 모델 공개\n• 속도와 추론 능력 겸비한 성능\n• 초고속 토큰 생성으로 실시간 처리\n• 에이전트 및 코딩 작업에 최적화",
+          "translated_title": "stepfun-ai/Step-3.5-Flash",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,6 +239,19 @@
           "category": "AI Model"
         },
         {
+          "title": "nvidia/personaplex-7b-v1",
+          "link": "https://huggingface.co/nvidia/personaplex-7b-v1",
+          "date": "2026-02-16",
+          "source": "HuggingFace",
+          "description": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
+          "translated_title": "nvidia/personaplex-7b-v1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "UCSB-SURFI/VulnLLM-R-7B",
           "link": "https://huggingface.co/UCSB-SURFI/VulnLLM-R-7B",
           "date": "2026-02-16",
@@ -250,26 +263,55 @@
           "translated_title": "UCSB-SURFI/VulnLLM-R-7B",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "OpenMOSS-Team/MOVA-360p",
-          "link": "https://huggingface.co/OpenMOSS-Team/MOVA-360p",
-          "date": "2026-02-16",
-          "source": "HuggingFace",
-          "description": "• 휴깅페이스, 오픈소스 생성형 AI 모델 MOVA 공개\n• 영상과 오디오를 동시 생성해 완벽한 싱크 구현\n• 비대칭 듀얼 타워 구조로 고품질 싱스 구현\n• 모델 가중치와 학습 코드 등 전면 오픈소스화",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/64817b8550b759c75d5d1eeb/Jr7I1qaSWK3x_Tfsxn9nP.png",
-          "is_english": true,
-          "summary": "• 휴깅페이스, 오픈소스 생성형 AI 모델 MOVA 공개\n• 영상과 오디오를 동시 생성해 완벽한 싱크 구현\n• 비대칭 듀얼 타워 구조로 고품질 싱스 구현\n• 모델 가중치와 학습 코드 등 전면 오픈소스화",
-          "translated_title": "OpenMOSS-Team/MOVA-360p",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-02-15",
-      "update_time": "2026-02-15 15:16:51",
+      "update_time": "2026-02-15 18:22:27",
       "news": [
+        {
+          "title": "샘 알트먼 \"인도, 주간 활성 ChatGPT 사용자 1억 명 돌파\"",
+          "link": "https://techcrunch.com/2026/02/15/india-has-100m-weekly-active-chatgpt-users-sam-altman-says/",
+          "date": "2026-02-15",
+          "source": "TechCrunch",
+          "description": "OpenAI CEO Sam Altman says India has the largest number of student users of ChatGPT worldwide.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/04/chatgpt-india.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "India has 100M weekly active ChatGPT users, Sam Altman says",
+          "original_summary": "OpenAI CEO Sam Altman says India has the largest number of student users of ChatGPT worldwide.",
+          "summary": "• 인도, 주간 1억명 사용\n• 전체 학생 사용자 1위\n• 샘 알트먼 CEO 발언\n• 글로벌 최대 규모 성장",
+          "translated_title": "샘 알트먼 \"인도, 주간 활성 ChatGPT 사용자 1억 명 돌파\"",
+          "category_keyword": "인도"
+        },
+        {
+          "title": "기업용 AI 전쟁 시작, 글린은 인터페이스 하부 계층 구축 나서",
+          "link": "https://techcrunch.com/2026/02/15/the-enterprise-ai-land-grab-is-on-glean-is-building-the-layer-beneath-the-interface/",
+          "date": "2026-02-15",
+          "source": "TechCrunch",
+          "description": "In this week's episode of the Equity podcast, Glean CEO Arvind Jain explains the company's shift from enterprise search tool to middleware layer for enterprise AI. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2259183688.jpg?w=1024",
+          "is_english": true,
+          "original_title": "The enterprise AI land grab is on. Glean is building the layer beneath the interface.",
+          "original_summary": "In this week's episode of the Equity podcast, Glean CEO Arvind Jain explains the company's shift from enterprise search tool to middleware layer for enterprise AI. ",
+          "summary": "• 기업용 AI 경쟁 격화\n• 검색에서 미들웨어 전환\n• 글린 CEO 설명 인터뷰\n• 인터페이스 하층 구축",
+          "translated_title": "기업용 AI 전쟁 시작, 글린은 인터페이스 하부 계층 구축 나서",
+          "category_keyword": "글린"
+        },
+        {
+          "title": "할리우드, 신규 영상 생성 AI '시던스 2.0'에 강력 반발",
+          "link": "https://techcrunch.com/2026/02/15/hollywood-isnt-happy-about-the-new-seedance-2-0-video-generator/",
+          "date": "2026-02-15",
+          "source": "TechCrunch",
+          "description": "Hollywood organizations are pushing back against a new AI video model called Seedance 2.0, which they say has quickly become a tool for “blatant” copyright infringement.",
+          "image": "https://techcrunch.com/wp-content/uploads/2020/08/GettyImages-1263876301.jpeg?w=1024",
+          "is_english": true,
+          "original_title": "Hollywood isn’t happy about the new Seedance 2.0 video generator",
+          "original_summary": "Hollywood organizations are pushing back against a new AI video model called Seedance 2.0, which they say has quickly become a tool for “blatant” copyright infringement.",
+          "summary": "• 할리우드 반발 움직임\n• 저작권 침해 우려 제기\n• 시던스 2.0 등장\n• AI 영상 모델 논란",
+          "translated_title": "할리우드, 신규 영상 생성 AI '시던스 2.0'에 강력 반발",
+          "category_keyword": "저작권"
+        },
         {
           "title": "\"로봇이 로봇 제작\"...유니트리, 새 AI로 생산 라인에 'G1' 투입",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=206898",
@@ -8645,7 +8687,7 @@
         {
           "title": "zai-org/GLM-OCR",
           "link": "https://huggingface.co/zai-org/GLM-OCR",
-          "date": "2026-02-07",
+          "date": "2026-02-16",
           "source": "HuggingFace",
           "description": "• 훼이스, 차세대 OCR 모델 GLM-OCR 공개\n• 복잡한 문서 이해 및 레이아웃 분석 지원\n• 글로벌 벤치마크에서 1위 차지함\n• 가벼운 모델로 빠른 추론 속도 제공",
           "image": "https://raw.githubusercontent.com/zai-org/GLM-OCR/refs/heads/main/resources/docparse.png",
@@ -8658,7 +8700,7 @@
         {
           "title": "Qwen/Qwen3-Coder-Next",
           "link": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
-          "date": "2026-02-07",
+          "date": "2026-02-16",
           "source": "HuggingFace",
           "description": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
           "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Coder-Next/benchmarks.png",
@@ -8671,7 +8713,7 @@
         {
           "title": "moonshotai/Kimi-K2.5",
           "link": "https://huggingface.co/moonshotai/Kimi-K2.5",
-          "date": "2026-02-07",
+          "date": "2026-02-16",
           "source": "HuggingFace",
           "description": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
           "image": "https://huggingface.co/moonshotai/Kimi-K2.5/resolve/main/figures/kimi-logo.png",
@@ -8684,7 +8726,7 @@
         {
           "title": "stepfun-ai/Step-3.5-Flash",
           "link": "https://huggingface.co/stepfun-ai/Step-3.5-Flash",
-          "date": "2026-02-07",
+          "date": "2026-02-16",
           "source": "HuggingFace",
           "description": "• 스텝퍼AI, 최신 오픈소스 모델 공개\n• 속도와 추론 능력 겸비한 성능\n• 초고속 토큰 생성으로 실시간 처리\n• 에이전트 및 코딩 작업에 최적화",
           "image": "https://img.shields.io/badge/%F0%9F%A4%97%20HF-StepFun/STEP3p5-preview",
@@ -8697,7 +8739,7 @@
         {
           "title": "circlestone-labs/Anima",
           "link": "https://huggingface.co/circlestone-labs/Anima",
-          "date": "2026-02-07",
+          "date": "2026-02-16",
           "source": "HuggingFace",
           "description": "• 애니메이션 전문 고품질 이미지 모델 공개\n• 최대 20억 파라미터 규모의 경량화 설계\n• ComfyUI 기반으로 쉽고 빠른 생성 지원\n• 현재 사전 공개 버전으로 지속 업데이트 예정",
           "image": "https://huggingface.co/circlestone-labs/Anima/resolve/main/example.png",
@@ -8710,7 +8752,7 @@
         {
           "title": "openbmb/MiniCPM-o-4_5",
           "link": "https://huggingface.co/openbmb/MiniCPM-o-4_5",
-          "date": "2026-02-07",
+          "date": "2026-02-16",
           "source": "HuggingFace",
           "description": "• 구글 Gemini 수준의 온디바이스 AI 공개\n• 시각과 언어 능력에서 GPT-4o 능가\n• 중영어 실시간 음성 대화 지원\n• 멀티모달 실시간 스트리밍 구현",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -8723,7 +8765,7 @@
         {
           "title": "ACE-Step/Ace-Step1.5",
           "link": "https://huggingface.co/ACE-Step/Ace-Step1.5",
-          "date": "2026-02-07",
+          "date": "2026-02-16",
           "source": "HuggingFace",
           "description": "• 상업적 이용 가능한 오픈소스 음악 생성 모델 공개\n• 합법적 데이터로 학습된 안전한 생성 기능 제공\n• 고성능 GPU 기반 2초 만에 곡 생성 구현\n• 일반 PC에서도 구동 가능한 저용량 요구사항 확보",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/62dfaf90c42558bcbd0a4f6f/b84r7t0viIw7rKSr_ja9_.png",
@@ -8736,7 +8778,7 @@
         {
           "title": "mistralai/Voxtral-Mini-4B-Realtime-2602",
           "link": "https://huggingface.co/mistralai/Voxtral-Mini-4B-Realtime-2602",
-          "date": "2026-02-07",
+          "date": "2026-02-16",
           "source": "HuggingFace",
           "description": "• 500ms 이하 실시간 음성 모델 공개\n• 13개 언어 고성능 변환 지원\n• 저사양 기기 온디바이스 배포 최적화\n• 라이선스 상업적 활용 가능",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -8749,7 +8791,7 @@
         {
           "title": "unsloth/Qwen3-Coder-Next-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3-Coder-Next-GGUF",
-          "date": "2026-02-07",
+          "date": "2026-02-16",
           "source": "HuggingFace",
           "description": "• 허깅페이스, 신규 코딩 모델 공개\n• 로컬 실행 최적화 기술 지원\n• 출력 품질 개선 업데이트 완료\n• 고용량 메모리 환경 권장 안내",
           "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
@@ -8814,7 +8856,7 @@
         {
           "title": "nvidia/personaplex-7b-v1",
           "link": "https://huggingface.co/nvidia/personaplex-7b-v1",
-          "date": "2026-02-07",
+          "date": "2026-02-16",
           "source": "HuggingFace",
           "description": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
