@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-02-16",
-      "update_time": "2026-02-15 18:22:28",
+      "update_time": "2026-02-15 21:15:39",
       "news": [
         {
           "title": "zai-org/GLM-5",
@@ -122,19 +122,6 @@
           "category": "AI Model"
         },
         {
-          "title": "mistralai/Voxtral-Mini-4B-Realtime-2602",
-          "link": "https://huggingface.co/mistralai/Voxtral-Mini-4B-Realtime-2602",
-          "date": "2026-02-16",
-          "source": "HuggingFace",
-          "description": "• 500ms 이하 실시간 음성 모델 공개\n• 13개 언어 고성능 변환 지원\n• 저사양 기기 온디바이스 배포 최적화\n• 라이선스 상업적 활용 가능",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
-          "is_english": true,
-          "summary": "• 500ms 이하 실시간 음성 모델 공개\n• 13개 언어 고성능 변환 지원\n• 저사양 기기 온디바이스 배포 최적화\n• 라이선스 상업적 활용 가능",
-          "translated_title": "mistralai/Voxtral-Mini-4B-Realtime-2602",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "OpenMOSS-Team/MOSS-TTS",
           "link": "https://huggingface.co/OpenMOSS-Team/MOSS-TTS",
           "date": "2026-02-16",
@@ -174,15 +161,15 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/GLM-5-GGUF",
-          "link": "https://huggingface.co/unsloth/GLM-5-GGUF",
+          "title": "mistralai/Voxtral-Mini-4B-Realtime-2602",
+          "link": "https://huggingface.co/mistralai/Voxtral-Mini-4B-Realtime-2602",
           "date": "2026-02-16",
           "source": "HuggingFace",
-          "description": "• 언슬로스, 최신 GLM-5 모델 공개\n• 로컬 실행 위한 가이드 제공\n• 다이나믹 2.0, 양자화 성능 우위\n• 공식 문서 및 커뮤니티 안내",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "description": "• 500ms 이하 실시간 음성 모델 공개\n• 13개 언어 고성능 변환 지원\n• 저사양 기기 온디바이스 배포 최적화\n• 라이선스 상업적 활용 가능",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
           "is_english": true,
-          "summary": "• 언슬로스, 최신 GLM-5 모델 공개\n• 로컬 실행 위한 가이드 제공\n• 다이나믹 2.0, 양자화 성능 우위\n• 공식 문서 및 커뮤니티 안내",
-          "translated_title": "unsloth/GLM-5-GGUF",
+          "summary": "• 500ms 이하 실시간 음성 모델 공개\n• 13개 언어 고성능 변환 지원\n• 저사양 기기 온디바이스 배포 최적화\n• 라이선스 상업적 활용 가능",
+          "translated_title": "mistralai/Voxtral-Mini-4B-Realtime-2602",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -196,6 +183,19 @@
           "is_english": true,
           "summary": "• 스텝퍼AI, 최신 오픈소스 모델 공개\n• 속도와 추론 능력 겸비한 성능\n• 초고속 토큰 생성으로 실시간 처리\n• 에이전트 및 코딩 작업에 최적화",
           "translated_title": "stepfun-ai/Step-3.5-Flash",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/GLM-5-GGUF",
+          "link": "https://huggingface.co/unsloth/GLM-5-GGUF",
+          "date": "2026-02-16",
+          "source": "HuggingFace",
+          "description": "• 언슬로스, 최신 GLM-5 모델 공개\n• 로컬 실행 위한 가이드 제공\n• 다이나믹 2.0, 양자화 성능 우위\n• 공식 문서 및 커뮤니티 안내",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "is_english": true,
+          "summary": "• 언슬로스, 최신 GLM-5 모델 공개\n• 로컬 실행 위한 가이드 제공\n• 다이나믹 2.0, 양자화 성능 우위\n• 공식 문서 및 커뮤니티 안내",
+          "translated_title": "unsloth/GLM-5-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,19 +239,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/personaplex-7b-v1",
-          "link": "https://huggingface.co/nvidia/personaplex-7b-v1",
-          "date": "2026-02-16",
-          "source": "HuggingFace",
-          "description": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
-          "translated_title": "nvidia/personaplex-7b-v1",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "UCSB-SURFI/VulnLLM-R-7B",
           "link": "https://huggingface.co/UCSB-SURFI/VulnLLM-R-7B",
           "date": "2026-02-16",
@@ -263,13 +250,40 @@
           "translated_title": "UCSB-SURFI/VulnLLM-R-7B",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "OpenMOSS-Team/MOVA-360p",
+          "link": "https://huggingface.co/OpenMOSS-Team/MOVA-360p",
+          "date": "2026-02-16",
+          "source": "HuggingFace",
+          "description": "• 휴깅페이스, 오픈소스 생성형 AI 모델 MOVA 공개\n• 영상과 오디오를 동시 생성해 완벽한 싱크 구현\n• 비대칭 듀얼 타워 구조로 고품질 싱스 구현\n• 모델 가중치와 학습 코드 등 전면 오픈소스화",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/64817b8550b759c75d5d1eeb/Jr7I1qaSWK3x_Tfsxn9nP.png",
+          "is_english": true,
+          "summary": "• 휴깅페이스, 오픈소스 생성형 AI 모델 MOVA 공개\n• 영상과 오디오를 동시 생성해 완벽한 싱크 구현\n• 비대칭 듀얼 타워 구조로 고품질 싱스 구현\n• 모델 가중치와 학습 코드 등 전면 오픈소스화",
+          "translated_title": "OpenMOSS-Team/MOVA-360p",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-02-15",
-      "update_time": "2026-02-15 18:22:27",
+      "update_time": "2026-02-15 21:15:39",
       "news": [
+        {
+          "title": "안스로픽과 미 국방부, 클로드 사용을 두고 갈등 조성",
+          "link": "https://techcrunch.com/2026/02/15/anthropic-and-the-pentagon-are-reportedly-arguing-over-claude-usage/",
+          "date": "2026-02-15",
+          "source": "TechCrunch",
+          "description": "The Pentagon is pushing AI companies to allow the U.S. military to use their technology for “all lawful purposes,” but Anthropic is pushing back, according to a new report in Axios. The government is reportedly making the same demand to OpenAI, Google, and xAI. An anonymous Trump administration official told Axios that one of those [&#8230;]",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1252170580.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Anthropic and the Pentagon are reportedly arguing over Claude usage",
+          "original_summary": "The Pentagon is pushing AI companies to allow the U.S. military to use their technology for “all lawful purposes,” but Anthropic is pushing back, according to a new report in Axios. The government is reportedly making the same demand to OpenAI, Google, and xAI. An anonymous Trump administration offi",
+          "summary": "• 미 국방부, AI 기업에 군사 기술 활용 요구\n • '모든 합법적 목적' 사용 허용 주장\n • 안스로픽, 이 요구에 반발하며 맞서\n • 오픈AI 등 타 기업에도 동일 요청",
+          "translated_title": "안스로픽과 미 국방부, 클로드 사용을 두고 갈등 조성",
+          "category_keyword": "AI군사용"
+        },
         {
           "title": "샘 알트먼 \"인도, 주간 활성 ChatGPT 사용자 1억 명 돌파\"",
           "link": "https://techcrunch.com/2026/02/15/india-has-100m-weekly-active-chatgpt-users-sam-altman-says/",
