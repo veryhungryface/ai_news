@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-02-17",
-      "update_time": "2026-02-16 18:30:37",
+      "update_time": "2026-02-16 21:22:38",
       "news": [
         {
           "title": "zai-org/GLM-5",
@@ -148,19 +148,6 @@
           "category": "AI Model"
         },
         {
-          "title": "zai-org/GLM-OCR",
-          "link": "https://huggingface.co/zai-org/GLM-OCR",
-          "date": "2026-02-17",
-          "source": "HuggingFace",
-          "description": "• 훼이스, 차세대 OCR 모델 GLM-OCR 공개\n• 복잡한 문서 이해 및 레이아웃 분석 지원\n• 글로벌 벤치마크에서 1위 차지함\n• 가벼운 모델로 빠른 추론 속도 제공",
-          "image": "https://raw.githubusercontent.com/zai-org/GLM-OCR/refs/heads/main/resources/docparse.png",
-          "is_english": true,
-          "summary": "• 훼이스, 차세대 OCR 모델 GLM-OCR 공개\n• 복잡한 문서 이해 및 레이아웃 분석 지원\n• 글로벌 벤치마크에서 1위 차지함\n• 가벼운 모델로 빠른 추론 속도 제공",
-          "translated_title": "zai-org/GLM-OCR",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nvidia/personaplex-7b-v1",
           "link": "https://huggingface.co/nvidia/personaplex-7b-v1",
           "date": "2026-02-17",
@@ -170,6 +157,19 @@
           "is_english": true,
           "summary": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
           "translated_title": "nvidia/personaplex-7b-v1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "zai-org/GLM-OCR",
+          "link": "https://huggingface.co/zai-org/GLM-OCR",
+          "date": "2026-02-17",
+          "source": "HuggingFace",
+          "description": "• 훼이스, 차세대 OCR 모델 GLM-OCR 공개\n• 복잡한 문서 이해 및 레이아웃 분석 지원\n• 글로벌 벤치마크에서 1위 차지함\n• 가벼운 모델로 빠른 추론 속도 제공",
+          "image": "https://raw.githubusercontent.com/zai-org/GLM-OCR/refs/heads/main/resources/docparse.png",
+          "is_english": true,
+          "summary": "• 훼이스, 차세대 OCR 모델 GLM-OCR 공개\n• 복잡한 문서 이해 및 레이아웃 분석 지원\n• 글로벌 벤치마크에서 1위 차지함\n• 가벼운 모델로 빠른 추론 속도 제공",
+          "translated_title": "zai-org/GLM-OCR",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -252,15 +252,15 @@
           "category": "AI Model"
         },
         {
-          "title": "ACE-Step/Ace-Step1.5",
-          "link": "https://huggingface.co/ACE-Step/Ace-Step1.5",
+          "title": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+          "link": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
           "date": "2026-02-17",
           "source": "HuggingFace",
-          "description": "• 상업적 이용 가능한 오픈소스 음악 생성 모델 공개\n• 합법적 데이터로 학습된 안전한 생성 기능 제공\n• 고성능 GPU 기반 2초 만에 곡 생성 구현\n• 일반 PC에서도 구동 가능한 저용량 요구사항 확보",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/62dfaf90c42558bcbd0a4f6f/b84r7t0viIw7rKSr_ja9_.png",
+          "description": "• Qwen3-TTS-12Hz-1.7B-CustomVoice 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-TTS-Repo/qwen3_tts_introduction.png",
           "is_english": true,
-          "summary": "• 상업적 이용 가능한 오픈소스 음악 생성 모델 공개\n• 합법적 데이터로 학습된 안전한 생성 기능 제공\n• 고성능 GPU 기반 2초 만에 곡 생성 구현\n• 일반 PC에서도 구동 가능한 저용량 요구사항 확보",
-          "translated_title": "ACE-Step/Ace-Step1.5",
+          "summary": "• Qwen3-TTS-12Hz-1.7B-CustomVoice 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -268,8 +268,22 @@
     },
     {
       "date": "2026-02-16",
-      "update_time": "2026-02-16 18:30:37",
+      "update_time": "2026-02-16 21:22:34",
       "news": [
+        {
+          "title": "돈과 여행 준비 완료: a16z의 유럽 유니콘 찾기",
+          "link": "https://techcrunch.com/2026/02/16/have-money-will-travel-a16zs-hunt-for-the-next-european-unicorn/",
+          "date": "2026-02-16",
+          "source": "TechCrunch",
+          "description": "According to a16z, it has eyes around the world in order to spot companies as early as local funds might.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-157503102.jpg?resize=1200,776",
+          "is_english": true,
+          "original_title": "Have money, will travel: a16z’s hunt for the next European unicorn",
+          "original_summary": "According to a16z, it has eyes around the world in order to spot companies as early as local funds might.",
+          "summary": "• a16z, 세계 곳곳에 눈을 둬\n• 로컬 펀드 못지않게 조기 발견\n• 유망 기업 발굴에 총력\n• 유럽 시장 공격적 투자 예고",
+          "translated_title": "돈과 여행 준비 완료: a16z의 유럽 유니콘 찾기",
+          "category_keyword": "a16z"
+        },
         {
           "title": "리컬시브 인텔리전스, 4개월 만에 40억 달러 가치로 3억 3,500만 달러 투자 유치",
           "link": "https://techcrunch.com/2026/02/16/how-ricursive-intelligence-raised-335m-at-a-4b-valuation-in-4-months/",
