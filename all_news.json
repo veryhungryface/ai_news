@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-02-16",
-      "update_time": "2026-02-16 04:53:45",
+      "update_time": "2026-02-16 06:52:56",
       "news": [
         {
           "title": "일본 정부, 바이트댄스 '총리 영상'에 조사 착수…“저작권 침해 시 좌시 못해”",
@@ -315,19 +315,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/GLM-5-GGUF",
-          "link": "https://huggingface.co/unsloth/GLM-5-GGUF",
-          "date": "2026-02-16",
-          "source": "HuggingFace",
-          "description": "• 언슬로스, 최신 GLM-5 모델 공개\n• 로컬 실행 위한 가이드 제공\n• 다이나믹 2.0, 양자화 성능 우위\n• 공식 문서 및 커뮤니티 안내",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
-          "is_english": true,
-          "summary": "• 언슬로스, 최신 GLM-5 모델 공개\n• 로컬 실행 위한 가이드 제공\n• 다이나믹 2.0, 양자화 성능 우위\n• 공식 문서 및 커뮤니티 안내",
-          "translated_title": "unsloth/GLM-5-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "mistralai/Voxtral-Mini-4B-Realtime-2602",
           "link": "https://huggingface.co/mistralai/Voxtral-Mini-4B-Realtime-2602",
           "date": "2026-02-16",
@@ -337,6 +324,19 @@
           "is_english": true,
           "summary": "• 500ms 이하 실시간 음성 모델 공개\n• 13개 언어 고성능 변환 지원\n• 저사양 기기 온디바이스 배포 최적화\n• 라이선스 상업적 활용 가능",
           "translated_title": "mistralai/Voxtral-Mini-4B-Realtime-2602",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/GLM-5-GGUF",
+          "link": "https://huggingface.co/unsloth/GLM-5-GGUF",
+          "date": "2026-02-16",
+          "source": "HuggingFace",
+          "description": "• 언슬로스, 최신 GLM-5 모델 공개\n• 로컬 실행 위한 가이드 제공\n• 다이나믹 2.0, 양자화 성능 우위\n• 공식 문서 및 커뮤니티 안내",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "is_english": true,
+          "summary": "• 언슬로스, 최신 GLM-5 모델 공개\n• 로컬 실행 위한 가이드 제공\n• 다이나믹 2.0, 양자화 성능 우위\n• 공식 문서 및 커뮤니티 안내",
+          "translated_title": "unsloth/GLM-5-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
