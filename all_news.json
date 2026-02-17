@@ -2,8 +2,22 @@
   "dates": [
     {
       "date": "2026-02-17",
-      "update_time": "2026-02-17 06:45:30",
+      "update_time": "2026-02-17 09:38:03",
       "news": [
+        {
+          "title": "코히어, 오픈 소스 다국어 모델 패밀리 출시",
+          "link": "https://techcrunch.com/2026/02/17/cohere-launches-a-family-of-open-multilingual-models/",
+          "date": "2026-02-17",
+          "source": "TechCrunch",
+          "description": "Cohere's Tiny Aya models support over 70 langauges",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1757707025.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Cohere launches a family of open multilingual models",
+          "original_summary": "Cohere's Tiny Aya models support over 70 langauges",
+          "summary": "• 코히어가 오픈 모델을 공개했다\n• 'Tiny Aya' 모델군을 지원한다\n• 70개 이상 언어를 다룬다\n• 다국어 AI 접근성을 높인다",
+          "translated_title": "코히어, 오픈 소스 다국어 모델 패밀리 출시",
+          "category_keyword": "코히어"
+        },
         {
           "title": "아모데이 \"현재는 인간·AI 결합한 '켄타우로스 시대'...하지만 몇년 내 끝날 것\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=206909",
@@ -59,19 +73,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Nanbeige/Nanbeige4.1-3B",
-          "link": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
-          "date": "2026-02-17",
-          "source": "HuggingFace",
-          "description": "• 소형 규모로도 강력한 추론 능력 구현\n• 대형 모델 뛰어넘는 선호 정렬 성과\n• 도구 호출 등 에이전트 기능 고도화\n• 복잡한 문제 해결 지원하는 신모델 공개",
-          "image": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B/resolve/main/figures/nbg.png",
-          "is_english": true,
-          "summary": "• 소형 규모로도 강력한 추론 능력 구현\n• 대형 모델 뛰어넘는 선호 정렬 성과\n• 도구 호출 등 에이전트 기능 고도화\n• 복잡한 문제 해결 지원하는 신모델 공개",
-          "translated_title": "Nanbeige/Nanbeige4.1-3B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.5-397B-A17B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-397B-A17B",
           "date": "2026-02-17",
@@ -81,6 +82,19 @@
           "is_english": true,
           "summary": "• 알리바바, 차세대 거대 AI 모델 공개\n• 멀티모달 기능으로 성능 대폭 개선\n• 다양한 개발 도구와 호환성 지원\n• 클라우드 기반 API 서비스 제공",
           "translated_title": "Qwen/Qwen3.5-397B-A17B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Nanbeige/Nanbeige4.1-3B",
+          "link": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
+          "date": "2026-02-17",
+          "source": "HuggingFace",
+          "description": "• 소형 규모로도 강력한 추론 능력 구현\n• 대형 모델 뛰어넘는 선호 정렬 성과\n• 도구 호출 등 에이전트 기능 고도화\n• 복잡한 문제 해결 지원하는 신모델 공개",
+          "image": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B/resolve/main/figures/nbg.png",
+          "is_english": true,
+          "summary": "• 소형 규모로도 강력한 추론 능력 구현\n• 대형 모델 뛰어넘는 선호 정렬 성과\n• 도구 호출 등 에이전트 기능 고도화\n• 복잡한 문제 해결 지원하는 신모델 공개",
+          "translated_title": "Nanbeige/Nanbeige4.1-3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -124,19 +138,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3-Coder-Next",
-          "link": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
-          "date": "2026-02-17",
-          "source": "HuggingFace",
-          "description": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
-          "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Coder-Next/benchmarks.png",
-          "is_english": true,
-          "summary": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
-          "translated_title": "Qwen/Qwen3-Coder-Next",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nvidia/personaplex-7b-v1",
           "link": "https://huggingface.co/nvidia/personaplex-7b-v1",
           "date": "2026-02-17",
@@ -146,6 +147,19 @@
           "is_english": true,
           "summary": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
           "translated_title": "nvidia/personaplex-7b-v1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3-Coder-Next",
+          "link": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
+          "date": "2026-02-17",
+          "source": "HuggingFace",
+          "description": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
+          "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Coder-Next/benchmarks.png",
+          "is_english": true,
+          "summary": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
+          "translated_title": "Qwen/Qwen3-Coder-Next",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
