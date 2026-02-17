@@ -2,8 +2,22 @@
   "dates": [
     {
       "date": "2026-02-18",
-      "update_time": "2026-02-17 18:43:05",
+      "update_time": "2026-02-17 21:26:12",
       "news": [
+        {
+          "title": "인도 AI 영향 정상회의, 대규모 투자 계약으로 시작",
+          "link": "https://aibusiness.com/generative-ai/major-funding-deals-kick-off-india-ai-summit",
+          "date": "2026-02-18",
+          "source": "AI Business",
+          "description": "The sovereign AI wave gains momentum in the world's most populous country.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltc1d2a0acffc43b9c/6994d23a7c06d30008b7f316/Inda_Summit.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Major Funding Deals Kick off India AI Impact Summit",
+          "original_summary": "The sovereign AI wave gains momentum in the world's most populous country.",
+          "summary": "• 주요 투자 유치가 성사되었다.\n• 인도 AI 영향 정상회의가 개최됐다.\n• 인도는 세계 최대 인구 국가다.\n• 주권 AI 웨이브가 힘을 얻고 있다.",
+          "translated_title": "인도 AI 영향 정상회의, 대규모 투자 계약으로 시작",
+          "category_keyword": "인도 AI"
+        },
         {
           "title": "zai-org/GLM-5",
           "link": "https://huggingface.co/zai-org/GLM-5",
@@ -200,19 +214,6 @@
           "category": "AI Model"
         },
         {
-          "title": "OpenMOSS-Team/MOVA-360p",
-          "link": "https://huggingface.co/OpenMOSS-Team/MOVA-360p",
-          "date": "2026-02-18",
-          "source": "HuggingFace",
-          "description": "• 휴깅페이스, 오픈소스 생성형 AI 모델 MOVA 공개\n• 영상과 오디오를 동시 생성해 완벽한 싱크 구현\n• 비대칭 듀얼 타워 구조로 고품질 싱스 구현\n• 모델 가중치와 학습 코드 등 전면 오픈소스화",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/64817b8550b759c75d5d1eeb/Jr7I1qaSWK3x_Tfsxn9nP.png",
-          "is_english": true,
-          "summary": "• 휴깅페이스, 오픈소스 생성형 AI 모델 MOVA 공개\n• 영상과 오디오를 동시 생성해 완벽한 싱크 구현\n• 비대칭 듀얼 타워 구조로 고품질 싱스 구현\n• 모델 가중치와 학습 코드 등 전면 오픈소스화",
-          "translated_title": "OpenMOSS-Team/MOVA-360p",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
           "link": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
           "date": "2026-02-18",
@@ -222,6 +223,19 @@
           "is_english": true,
           "summary": "• Qwen3-TTS-12Hz-1.7B-CustomVoice 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "OpenMOSS-Team/MOVA-360p",
+          "link": "https://huggingface.co/OpenMOSS-Team/MOVA-360p",
+          "date": "2026-02-18",
+          "source": "HuggingFace",
+          "description": "• 휴깅페이스, 오픈소스 생성형 AI 모델 MOVA 공개\n• 영상과 오디오를 동시 생성해 완벽한 싱크 구현\n• 비대칭 듀얼 타워 구조로 고품질 싱스 구현\n• 모델 가중치와 학습 코드 등 전면 오픈소스화",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/64817b8550b759c75d5d1eeb/Jr7I1qaSWK3x_Tfsxn9nP.png",
+          "is_english": true,
+          "summary": "• 휴깅페이스, 오픈소스 생성형 AI 모델 MOVA 공개\n• 영상과 오디오를 동시 생성해 완벽한 싱크 구현\n• 비대칭 듀얼 타워 구조로 고품질 싱스 구현\n• 모델 가중치와 학습 코드 등 전면 오픈소스화",
+          "translated_title": "OpenMOSS-Team/MOVA-360p",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,19 +253,6 @@
           "category": "AI Model"
         },
         {
-          "title": "AIDC-AI/Ovis2.6-30B-A3B",
-          "link": "https://huggingface.co/AIDC-AI/Ovis2.6-30B-A3B",
-          "date": "2026-02-18",
-          "source": "HuggingFace",
-          "description": "• HuggingFace, 최신 멀티모달 모델 Ovis2.6 공개\n• MoE 아키텍처로 비용 절감과 고성능 실현\n• 최대 64K 토큰 및 고해상도 이미지 처리 지원\n• 능동적 이미지 분석으로 시각적 추론 강화",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/658a8a837959448ef5500ce5/rZUzeRVCLg0GPaMOZj3KZ.png",
-          "is_english": true,
-          "summary": "• HuggingFace, 최신 멀티모달 모델 Ovis2.6 공개\n• MoE 아키텍처로 비용 절감과 고성능 실현\n• 최대 64K 토큰 및 고해상도 이미지 처리 지원\n• 능동적 이미지 분석으로 시각적 추론 강화",
-          "translated_title": "AIDC-AI/Ovis2.6-30B-A3B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nineninesix/kani-tts-2-en",
           "link": "https://huggingface.co/nineninesix/kani-tts-2-en",
           "date": "2026-02-18",
@@ -263,13 +264,40 @@
           "translated_title": "nineninesix/kani-tts-2-en",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "AIDC-AI/Ovis2.6-30B-A3B",
+          "link": "https://huggingface.co/AIDC-AI/Ovis2.6-30B-A3B",
+          "date": "2026-02-18",
+          "source": "HuggingFace",
+          "description": "• HuggingFace, 최신 멀티모달 모델 Ovis2.6 공개\n• MoE 아키텍처로 비용 절감과 고성능 실현\n• 최대 64K 토큰 및 고해상도 이미지 처리 지원\n• 능동적 이미지 분석으로 시각적 추론 강화",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/658a8a837959448ef5500ce5/rZUzeRVCLg0GPaMOZj3KZ.png",
+          "is_english": true,
+          "summary": "• HuggingFace, 최신 멀티모달 모델 Ovis2.6 공개\n• MoE 아키텍처로 비용 절감과 고성능 실현\n• 최대 64K 토큰 및 고해상도 이미지 처리 지원\n• 능동적 이미지 분석으로 시각적 추론 강화",
+          "translated_title": "AIDC-AI/Ovis2.6-30B-A3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-02-17",
-      "update_time": "2026-02-17 18:43:05",
+      "update_time": "2026-02-17 21:26:11",
       "news": [
+        {
+          "title": "애플, AI 웨어러블 3종 개발 중인 것으로 전해",
+          "link": "https://techcrunch.com/2026/02/17/apple-is-reportedly-cooking-up-a-trio-of-ai-wearables/",
+          "date": "2026-02-17",
+          "source": "TechCrunch",
+          "description": "As the AI hardware space heats up, the iPhone maker has multiple smart products in development. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/tim-cook-speaking-GettyImages-2234517834.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Apple is reportedly cooking up a trio of AI wearables",
+          "original_summary": "As the AI hardware space heats up, the iPhone maker has multiple smart products in development. ",
+          "summary": "• AI 하드웨어 경쟁이 과열되고 있다.\n• 아이폰 제조사인 애플이 나섰다.\n• 복수의 스마트 제품을 개발 중이다.\n• AI 웨어러블 기기 3종이 포함된다.",
+          "translated_title": "애플, AI 웨어러블 3종 개발 중인 것으로 전해",
+          "category_keyword": "AI 웨어러블"
+        },
         {
           "title": "앤스로픽, '소네트 4.6' 출시",
           "link": "https://techcrunch.com/2026/02/17/anthropic-releases-sonnet-4-6/",
