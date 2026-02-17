@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-02-17",
-      "update_time": "2026-02-17 04:46:58",
+      "update_time": "2026-02-17 06:45:30",
       "news": [
         {
           "title": "아모데이 \"현재는 인간·AI 결합한 '켄타우로스 시대'...하지만 몇년 내 끝날 것\"",
@@ -137,6 +137,19 @@
           "category": "AI Model"
         },
         {
+          "title": "nvidia/personaplex-7b-v1",
+          "link": "https://huggingface.co/nvidia/personaplex-7b-v1",
+          "date": "2026-02-17",
+          "source": "HuggingFace",
+          "description": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
+          "translated_title": "nvidia/personaplex-7b-v1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "OpenMOSS-Team/MOSS-TTS",
           "link": "https://huggingface.co/OpenMOSS-Team/MOSS-TTS",
           "date": "2026-02-17",
@@ -163,19 +176,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/personaplex-7b-v1",
-          "link": "https://huggingface.co/nvidia/personaplex-7b-v1",
-          "date": "2026-02-17",
-          "source": "HuggingFace",
-          "description": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
-          "translated_title": "nvidia/personaplex-7b-v1",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "inclusionAI/Ring-2.5-1T",
           "link": "https://huggingface.co/inclusionAI/Ring-2.5-1T",
           "date": "2026-02-17",
@@ -189,19 +189,6 @@
           "category": "AI Model"
         },
         {
-          "title": "zai-org/GLM-OCR",
-          "link": "https://huggingface.co/zai-org/GLM-OCR",
-          "date": "2026-02-17",
-          "source": "HuggingFace",
-          "description": "• 훼이스, 차세대 OCR 모델 GLM-OCR 공개\n• 복잡한 문서 이해 및 레이아웃 분석 지원\n• 글로벌 벤치마크에서 1위 차지함\n• 가벼운 모델로 빠른 추론 속도 제공",
-          "image": "https://raw.githubusercontent.com/zai-org/GLM-OCR/refs/heads/main/resources/docparse.png",
-          "is_english": true,
-          "summary": "• 훼이스, 차세대 OCR 모델 GLM-OCR 공개\n• 복잡한 문서 이해 및 레이아웃 분석 지원\n• 글로벌 벤치마크에서 1위 차지함\n• 가벼운 모델로 빠른 추론 속도 제공",
-          "translated_title": "zai-org/GLM-OCR",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/GLM-5-GGUF",
           "link": "https://huggingface.co/unsloth/GLM-5-GGUF",
           "date": "2026-02-17",
@@ -211,6 +198,19 @@
           "is_english": true,
           "summary": "• 언슬로스, 최신 GLM-5 모델 공개\n• 로컬 실행 위한 가이드 제공\n• 다이나믹 2.0, 양자화 성능 우위\n• 공식 문서 및 커뮤니티 안내",
           "translated_title": "unsloth/GLM-5-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "zai-org/GLM-OCR",
+          "link": "https://huggingface.co/zai-org/GLM-OCR",
+          "date": "2026-02-17",
+          "source": "HuggingFace",
+          "description": "• 훼이스, 차세대 OCR 모델 GLM-OCR 공개\n• 복잡한 문서 이해 및 레이아웃 분석 지원\n• 글로벌 벤치마크에서 1위 차지함\n• 가벼운 모델로 빠른 추론 속도 제공",
+          "image": "https://raw.githubusercontent.com/zai-org/GLM-OCR/refs/heads/main/resources/docparse.png",
+          "is_english": true,
+          "summary": "• 훼이스, 차세대 OCR 모델 GLM-OCR 공개\n• 복잡한 문서 이해 및 레이아웃 분석 지원\n• 글로벌 벤치마크에서 1위 차지함\n• 가벼운 모델로 빠른 추론 속도 제공",
+          "translated_title": "zai-org/GLM-OCR",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
