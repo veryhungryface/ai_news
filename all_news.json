@@ -2,8 +2,50 @@
   "dates": [
     {
       "date": "2026-02-18",
-      "update_time": "2026-02-18 09:37:23",
+      "update_time": "2026-02-18 12:38:20",
       "news": [
+        {
+          "title": "이석중 라온피플 대표 “16년 노하우·올인원 솔루션...차별화된 비전 AI”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=206935",
+          "date": "2026-02-18",
+          "source": "AI타임스",
+          "description": "“라온피플은 지난 16년간 축적한 머신비전 기술력을 기반으로, 이제 생성 AI 시대를 앞서 이끌고 있습니다. 우리의 핵심은 이론이 아닌 현장에서 즉각적인 성과를 증명하는 \\'실전형 풀스택 통합 기술력\\'입니다.라온피플(대표 이석중)은 다양한 분야에서 비전 AI 솔루션을 제공하고 있다. ▲노코드 AI 에이전트 구축 플랫폼 ‘하이펜’ ▲AI 영상 관제 ‘오딘AI’ ▲산업 현장 AI 비전 검사 개발 ‘나비(NAVI) AI 프로’ ▲AI 개발 전 주기 지원 플랫폼 ‘이지플래닛’ ▲AI 골프 셀프 트레이닝 솔루션 ‘스윙 이지(EZ)’ 등이 대표",
+          "image": "https://cdn.aitimes.com/news/photo/202602/206935_208961_4655.png",
+          "is_english": false,
+          "original_title": "이석중 라온피플 대표 “16년 노하우·올인원 솔루션...차별화된 비전 AI”",
+          "original_summary": "“라온피플은 지난 16년간 축적한 머신비전 기술력을 기반으로, 이제 생성 AI 시대를 앞서 이끌고 있습니다. 우리의 핵심은 이론이 아닌 현장에서 즉각적인 성과를 증명하는 \\'실전형 풀스택 통합 기술력\\'입니다.라온피플(대표 이석중)은 다양한 분야에서 비전 AI 솔루션을 제공하고 있다. ▲노코드 AI 에이전트 구축 플랫폼 ‘하이펜’ ▲AI 영상 관제 ‘오딘AI’ ▲산업 현장 AI 비전 검사 개발 ‘나비(NAVI) AI 프로’ ▲AI 개발 전 주기 지원 플랫폼 ‘이지플래닛’ ▲AI 골프 셀프 트레이닝 솔루션 ‘스윙 이지(EZ)’ 등이 ",
+          "summary": "• 16년 축적된 머신비전 기술력 보유\n• 현장 즉각 성과의 실전형 기술력\n• 다양한 분야 비전 AI 솔루션 공급\n• 하이펜, 오딘AI 등 주요 서비스 운영",
+          "translated_title": "이석중 라온피플 대표 “16년 노하우·올인원 솔루션...차별화된 비전 AI”",
+          "category_keyword": "라온피플"
+        },
+        {
+          "title": "AI 임팩트 서밋 2026: 모두를 위한 AI 실현을 위한 파트너십",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-india/",
+          "date": "2026-02-18",
+          "source": "Google AI",
+          "description": "An overview of Google’s new global partnerships and funding announcements at the AI Impact Summit in India.",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Collection_Hero-1.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "AI Impact Summit 2026: How we’re partnering to make AI work for everyone",
+          "original_summary": "An overview of Google’s new global partnerships and funding announcements at the AI Impact Summit in India.",
+          "summary": "• AI 임팩트 서밋 개최 소식 전달\n• 구글의 글로벌 파트너십 소개\n• 모두를 위한 AI 활용 방안 논의\n• 새로운 투자 및 지원 계획 발표",
+          "translated_title": "AI 임팩트 서밋 2026: 모두를 위한 AI 실현을 위한 파트너십",
+          "category_keyword": "구글"
+        },
+        {
+          "title": "AI 임팩트 서밋 2026",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-collection/",
+          "date": "2026-02-18",
+          "source": "Google AI",
+          "description": "A look at the partnerships and investments Google announced at the AI Impact Summit 2026.",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Collection_Hero-2.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "AI Impact Summit 2026",
+          "original_summary": "A look at the partnerships and investments Google announced at the AI Impact Summit 2026.",
+          "summary": "• AI 임팩트 서밋 2026 개최\n• 구글 발표 파트너십 살펴봄\n• 주요 투자 계획 공개 내용\n• 글로벌 AI 협력 생태계 구축",
+          "translated_title": "AI 임팩트 서밋 2026",
+          "category_keyword": "AI 서밋"
+        },
         {
           "title": "구글, 5월19~20일 I/O 개발자 컨퍼런스 개최...\"스마트 안경이 하이라이트\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=206930",
@@ -327,19 +369,6 @@
           "category": "AI Model"
         },
         {
-          "title": "zai-org/GLM-OCR",
-          "link": "https://huggingface.co/zai-org/GLM-OCR",
-          "date": "2026-02-18",
-          "source": "HuggingFace",
-          "description": "• 훼이스, 차세대 OCR 모델 GLM-OCR 공개\n• 복잡한 문서 이해 및 레이아웃 분석 지원\n• 글로벌 벤치마크에서 1위 차지함\n• 가벼운 모델로 빠른 추론 속도 제공",
-          "image": "https://raw.githubusercontent.com/zai-org/GLM-OCR/refs/heads/main/resources/docparse.png",
-          "is_english": true,
-          "summary": "• 훼이스, 차세대 OCR 모델 GLM-OCR 공개\n• 복잡한 문서 이해 및 레이아웃 분석 지원\n• 글로벌 벤치마크에서 1위 차지함\n• 가벼운 모델로 빠른 추론 속도 제공",
-          "translated_title": "zai-org/GLM-OCR",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
           "link": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
           "date": "2026-02-18",
@@ -362,6 +391,19 @@
           "is_english": true,
           "summary": "• 휴깅페이스, 오픈소스 생성형 AI 모델 MOVA 공개\n• 영상과 오디오를 동시 생성해 완벽한 싱크 구현\n• 비대칭 듀얼 타워 구조로 고품질 싱스 구현\n• 모델 가중치와 학습 코드 등 전면 오픈소스화",
           "translated_title": "OpenMOSS-Team/MOVA-360p",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "zai-org/GLM-OCR",
+          "link": "https://huggingface.co/zai-org/GLM-OCR",
+          "date": "2026-02-18",
+          "source": "HuggingFace",
+          "description": "• 훼이스, 차세대 OCR 모델 GLM-OCR 공개\n• 복잡한 문서 이해 및 레이아웃 분석 지원\n• 글로벌 벤치마크에서 1위 차지함\n• 가벼운 모델로 빠른 추론 속도 제공",
+          "image": "https://raw.githubusercontent.com/zai-org/GLM-OCR/refs/heads/main/resources/docparse.png",
+          "is_english": true,
+          "summary": "• 훼이스, 차세대 OCR 모델 GLM-OCR 공개\n• 복잡한 문서 이해 및 레이아웃 분석 지원\n• 글로벌 벤치마크에서 1위 차지함\n• 가벼운 모델로 빠른 추론 속도 제공",
+          "translated_title": "zai-org/GLM-OCR",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
