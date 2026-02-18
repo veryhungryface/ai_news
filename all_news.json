@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-02-19",
-      "update_time": "2026-02-18 18:39:08",
+      "update_time": "2026-02-18 21:27:44",
       "news": [
         {
           "title": "엔비디아-메타, 포괄적인 신규 AI 칩 협력 계약 체결",
@@ -188,19 +188,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3-Coder-Next",
-          "link": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
-          "date": "2026-02-19",
-          "source": "HuggingFace",
-          "description": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
-          "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Coder-Next/benchmarks.png",
-          "is_english": true,
-          "summary": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
-          "translated_title": "Qwen/Qwen3-Coder-Next",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
           "link": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
           "date": "2026-02-19",
@@ -210,6 +197,19 @@
           "is_english": true,
           "summary": "• Qwen3-TTS-12Hz-1.7B-CustomVoice 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3-Coder-Next",
+          "link": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
+          "date": "2026-02-19",
+          "source": "HuggingFace",
+          "description": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
+          "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Coder-Next/benchmarks.png",
+          "is_english": true,
+          "summary": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
+          "translated_title": "Qwen/Qwen3-Coder-Next",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -282,8 +282,36 @@
     },
     {
       "date": "2026-02-18",
-      "update_time": "2026-02-18 18:39:08",
+      "update_time": "2026-02-18 21:27:44",
       "news": [
+        {
+          "title": "스타트업의 '체크 엔진' 경고가 켜졌나요? 구글 클라우드 VP가 대처법을 설명합니다",
+          "link": "https://techcrunch.com/video/is-your-startups-check-engine-light-on-google-clouds-vp-explains-what-to-do/",
+          "date": "2026-02-18",
+          "source": "TechCrunch",
+          "description": "Startup founders are being pushed to move faster than ever, using AI while facing tighter funding, rising infrastructure costs, and more pressure to show real traction early. Cloud credits, access to GPUs, and foundation models have made it easier to get started, but those early infrastructure choices can have unforeseen consequences once startups move beyond [&#8230;]",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/54885194602_44d8e5385f_o.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Is your startup’s check engine light on? Google Cloud’s VP explains what to do",
+          "original_summary": "Startup founders are being pushed to move faster than ever, using AI while facing tighter funding, rising infrastructure costs, and more pressure to show real traction early. Cloud credits, access to GPUs, and foundation models have made it easier to get started, but those early infrastructure choic",
+          "summary": "• 스타트업, 자금난과 비용 상승으로 고전\n • AI 도입과 속도 압박 증가\n • 초기 인프라 선택 중요성 부각\n • 구글, 스타트업 지원 전략 강조",
+          "translated_title": "스타트업의 '체크 엔진' 경고가 켜졌나요? 구글 클라우드 VP가 대처법을 설명합니다",
+          "category_keyword": "스타트업"
+        },
+        {
+          "title": "구글 클라우드 스타트업 담당 VP, 너무 늦기 전에 '체크 엔진' 경고를 읽는 법",
+          "link": "https://techcrunch.com/podcast/google-clouds-vp-for-startups-on-reading-your-check-engine-light-before-its-too-late/",
+          "date": "2026-02-18",
+          "source": "TechCrunch",
+          "description": "Startup founders are being pushed to move faster than ever, using AI while facing tighter funding, rising infrastructure costs, and more pressure to show real traction early. Cloud credits, access to GPUs, and foundation models have made it easier to get started, but those early infrastructure choices can have unforeseen consequences once startups move beyond [&#8230;]",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/Darren-Mowry-headshot.png?resize=1200,960",
+          "is_english": true,
+          "original_title": "Google Cloud’s VP for startups on reading your ‘check engine light’ before it’s too late",
+          "original_summary": "Startup founders are being pushed to move faster than ever, using AI while facing tighter funding, rising infrastructure costs, and more pressure to show real traction early. Cloud credits, access to GPUs, and foundation models have made it easier to get started, but those early infrastructure choic",
+          "summary": "• 창업자, 더 빠른 성장과 AI 도입 강요\n • 투자 여건 악화와 인프라 비용 상승\n • 크레딧과 GPU 접근성 확대\n • 초기 인프라 선택의 중요성 강조",
+          "translated_title": "구글 클라우드 스타트업 담당 VP, 너무 늦기 전에 '체크 엔진' 경고를 읽는 법",
+          "category_keyword": "인프라"
+        },
         {
           "title": "아마존, 6개월도 안 돼 '블루 제이' 로봇 프로젝트 중단",
           "link": "https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/",
