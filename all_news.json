@@ -2,8 +2,22 @@
   "dates": [
     {
       "date": "2026-02-18",
-      "update_time": "2026-02-17 21:26:12",
+      "update_time": "2026-02-18 01:14:53",
       "news": [
+        {
+          "title": "Cohere, 다국어 경량 오픈 가중치 모델 출시",
+          "link": "https://aibusiness.com/generative-ai/cohere-launches-tiny-multilingual-open-model",
+          "date": "2026-02-18",
+          "source": "AI Business",
+          "description": "The new family of models fills a gap in a market that favors English and Chinese; however, it's unclear which applications the models are best suited for.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt01611bfb929109b3/6994ea4ab3108100089cfe28/Languages.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Cohere Launches Tiny Multilingual Open Weight Model",
+          "original_summary": "The new family of models fills a gap in a market that favors English and Chinese; however, it's unclear which applications the models are best suited for.",
+          "summary": "• 영어·중국어 중심 시장 격차 해소\n • 소형 다국어 모델 가족 출시\n • 다양한 언어 지원 확대 기대\n • 최적 활용 분야는 아직 불확실",
+          "translated_title": "Cohere, 다국어 경량 오픈 가중치 모델 출시",
+          "category_keyword": "다국어 모델"
+        },
         {
           "title": "인도 AI 영향 정상회의, 대규모 투자 계약으로 시작",
           "link": "https://aibusiness.com/generative-ai/major-funding-deals-kick-off-india-ai-summit",
@@ -136,19 +150,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3-Coder-Next",
-          "link": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
-          "date": "2026-02-18",
-          "source": "HuggingFace",
-          "description": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
-          "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Coder-Next/benchmarks.png",
-          "is_english": true,
-          "summary": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
-          "translated_title": "Qwen/Qwen3-Coder-Next",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "inclusionAI/Ring-2.5-1T",
           "link": "https://huggingface.co/inclusionAI/Ring-2.5-1T",
           "date": "2026-02-18",
@@ -158,6 +159,19 @@
           "is_english": true,
           "summary": "• 세계 최초 1조 파라미터 오픈소스 모델 공개\n• 혼형 선형 어텐션 기반 생성 효율 3배 개선\n• 깊은 사고 구현해 수학 올림피아드 금메달 달성\n• 장기 과제 자율 수행 능력 대폭 강화",
           "translated_title": "inclusionAI/Ring-2.5-1T",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3-Coder-Next",
+          "link": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
+          "date": "2026-02-18",
+          "source": "HuggingFace",
+          "description": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
+          "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Coder-Next/benchmarks.png",
+          "is_english": true,
+          "summary": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
+          "translated_title": "Qwen/Qwen3-Coder-Next",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -282,8 +296,22 @@
     },
     {
       "date": "2026-02-17",
-      "update_time": "2026-02-17 21:26:11",
+      "update_time": "2026-02-18 01:14:53",
       "news": [
+        {
+          "title": "2026년 책임감 있는 AI 진전 보고서",
+          "link": "https://blog.google/innovation-and-ai/products/responsible-ai-2026-report-ongoing-work/",
+          "date": "2026-02-17",
+          "source": "Google AI",
+          "description": "A look at our 2026 Responsible AI Progress Report.",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Stocksy_7137793.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "Our 2026 Responsible AI Progress Report",
+          "original_summary": "A look at our 2026 Responsible AI Progress Report.",
+          "summary": "• 2026년 진전 보고서 공개\n • AI 책임성 강화 노력 점검\n • 윤리적 가이드라인 준수 현황\n • 향후 개선 방향 및 계획 제시",
+          "translated_title": "2026년 책임감 있는 AI 진전 보고서",
+          "category_keyword": "책임 AI"
+        },
         {
           "title": "애플, AI 웨어러블 3종 개발 중인 것으로 전해",
           "link": "https://techcrunch.com/2026/02/17/apple-is-reportedly-cooking-up-a-trio-of-ai-wearables/",
