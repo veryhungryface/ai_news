@@ -2,8 +2,22 @@
   "dates": [
     {
       "date": "2026-02-18",
-      "update_time": "2026-02-18 06:50:36",
+      "update_time": "2026-02-18 09:37:23",
       "news": [
+        {
+          "title": "구글, 5월19~20일 I/O 개발자 컨퍼런스 개최...\"스마트 안경이 하이라이트\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=206930",
+          "date": "2026-02-18",
+          "source": "AI타임스",
+          "description": "구글의 \\'I/O\\' 개발자 컨퍼런스가 5월19~20일 열린다. 이번에는 스마트 안경과 안드로이드 XR 등 AI 웨어러블이 하이라이트가 될 것으로 예상됐다.순다르 피차이 구글 CEO는 18일 X(트위터)를 통해 올해 I/O 일정을 발표했다. 컨퍼런스는 미국 캘리포니아주 마운틴뷰의 구글 본사에서 열리며, 주요 이벤트는 유튜브로 생중계된다. 현재 홈페이지에서 세션 참여 등록이 진행 중이다.이번 행사에서 발표될 내용이 무엇인지는 언급되지 않았다. 그러나 전문가들은 지난해 데모 형식으로 선보였던 스마트 안경과 안드로이드 XR이 본격 공개될 것",
+          "image": "https://cdn.aitimes.com/news/photo/202602/206930_208953_352.jpg",
+          "is_english": false,
+          "original_title": "구글, 5월19~20일 I/O 개발자 컨퍼런스 개최...\"스마트 안경이 하이라이트\"",
+          "original_summary": "구글의 \\'I/O\\' 개발자 컨퍼런스가 5월19~20일 열린다. 이번에는 스마트 안경과 안드로이드 XR 등 AI 웨어러블이 하이라이트가 될 것으로 예상됐다.순다르 피차이 구글 CEO는 18일 X(트위터)를 통해 올해 I/O 일정을 발표했다. 컨퍼런스는 미국 캘리포니아주 마운틴뷰의 구글 본사에서 열리며, 주요 이벤트는 유튜브로 생중계된다. 현재 홈페이지에서 세션 참여 등록이 진행 중이다.이번 행사에서 발표될 내용이 무엇인지는 언급되지 않았다. 그러나 전문가들은 지난해 데모 형식으로 선보였던 스마트 안경과 안드로이드 XR이 본격 공개될",
+          "summary": "• 구글, 5월 19~20일 I/O 개최\n• AI 웨어러블 기대감 상승\n• 스마트 안경 본격 공개 예상\n• 유튜브 통해 생중계 진행",
+          "translated_title": "구글, 5월19~20일 I/O 개발자 컨퍼런스 개최...\"스마트 안경이 하이라이트\"",
+          "category_keyword": "구글 I/O"
+        },
         {
           "title": "애플, 카메라 탑재된 AI 기기 3종 개발 박차...\"올해 에어팟부터 출시\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=206926",
@@ -209,19 +223,6 @@
           "category": "AI Model"
         },
         {
-          "title": "moonshotai/Kimi-K2.5",
-          "link": "https://huggingface.co/moonshotai/Kimi-K2.5",
-          "date": "2026-02-18",
-          "source": "HuggingFace",
-          "description": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
-          "image": "https://huggingface.co/moonshotai/Kimi-K2.5/resolve/main/figures/kimi-logo.png",
-          "is_english": true,
-          "summary": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
-          "translated_title": "moonshotai/Kimi-K2.5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "OpenMOSS-Team/MOSS-TTS",
           "link": "https://huggingface.co/OpenMOSS-Team/MOSS-TTS",
           "date": "2026-02-18",
@@ -231,6 +232,19 @@
           "is_english": true,
           "summary": "• 고성능 오픈소스 음성 생성 모델 공개\n• 다국어 지원 및 높은 표현력 구현\n• 대화 및 효과음 등 복합 상황 대응\n• 실시간 스트리밍 TTS 기능 제공",
           "translated_title": "OpenMOSS-Team/MOSS-TTS",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "moonshotai/Kimi-K2.5",
+          "link": "https://huggingface.co/moonshotai/Kimi-K2.5",
+          "date": "2026-02-18",
+          "source": "HuggingFace",
+          "description": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
+          "image": "https://huggingface.co/moonshotai/Kimi-K2.5/resolve/main/figures/kimi-logo.png",
+          "is_english": true,
+          "summary": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
+          "translated_title": "moonshotai/Kimi-K2.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -261,6 +275,32 @@
           "category": "AI Model"
         },
         {
+          "title": "FireRedTeam/FireRed-Image-Edit-1.0",
+          "link": "https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0",
+          "date": "2026-02-18",
+          "source": "HuggingFace",
+          "description": "• 파이어레드 이미지 에디트 모델 공개\n• 고해상도 이미지 편집 성능 제공\n• 텍스트 스타일 정밀 보존 지원\n• 오픈소스 최고 수준 편집 가능",
+          "image": "https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0/resolve/main/./assets/logo.png",
+          "is_english": true,
+          "summary": "• 파이어레드 이미지 에디트 모델 공개\n• 고해상도 이미지 편집 성능 제공\n• 텍스트 스타일 정밀 보존 지원\n• 오픈소스 최고 수준 편집 가능",
+          "translated_title": "FireRedTeam/FireRed-Image-Edit-1.0",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/GLM-5-GGUF",
+          "link": "https://huggingface.co/unsloth/GLM-5-GGUF",
+          "date": "2026-02-18",
+          "source": "HuggingFace",
+          "description": "• 언슬로스, 최신 GLM-5 모델 공개\n• 로컬 실행 위한 가이드 제공\n• 다이나믹 2.0, 양자화 성능 우위\n• 공식 문서 및 커뮤니티 안내",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "is_english": true,
+          "summary": "• 언슬로스, 최신 GLM-5 모델 공개\n• 로컬 실행 위한 가이드 제공\n• 다이나믹 2.0, 양자화 성능 우위\n• 공식 문서 및 커뮤니티 안내",
+          "translated_title": "unsloth/GLM-5-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "openbmb/MiniCPM-o-4_5",
           "link": "https://huggingface.co/openbmb/MiniCPM-o-4_5",
           "date": "2026-02-18",
@@ -283,32 +323,6 @@
           "is_english": true,
           "summary": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
           "translated_title": "Qwen/Qwen3-Coder-Next",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "unsloth/GLM-5-GGUF",
-          "link": "https://huggingface.co/unsloth/GLM-5-GGUF",
-          "date": "2026-02-18",
-          "source": "HuggingFace",
-          "description": "• 언슬로스, 최신 GLM-5 모델 공개\n• 로컬 실행 위한 가이드 제공\n• 다이나믹 2.0, 양자화 성능 우위\n• 공식 문서 및 커뮤니티 안내",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
-          "is_english": true,
-          "summary": "• 언슬로스, 최신 GLM-5 모델 공개\n• 로컬 실행 위한 가이드 제공\n• 다이나믹 2.0, 양자화 성능 우위\n• 공식 문서 및 커뮤니티 안내",
-          "translated_title": "unsloth/GLM-5-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "FireRedTeam/FireRed-Image-Edit-1.0",
-          "link": "https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0",
-          "date": "2026-02-18",
-          "source": "HuggingFace",
-          "description": "• 파이어레드 이미지 에디트 모델 공개\n• 고해상도 이미지 편집 성능 제공\n• 텍스트 스타일 정밀 보존 지원\n• 오픈소스 최고 수준 편집 가능",
-          "image": "https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0/resolve/main/./assets/logo.png",
-          "is_english": true,
-          "summary": "• 파이어레드 이미지 에디트 모델 공개\n• 고해상도 이미지 편집 성능 제공\n• 텍스트 스타일 정밀 보존 지원\n• 오픈소스 최고 수준 편집 가능",
-          "translated_title": "FireRedTeam/FireRed-Image-Edit-1.0",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
