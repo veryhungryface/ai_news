@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-02-20",
-      "update_time": "2026-02-19 15:39:21",
+      "update_time": "2026-02-19 18:39:44",
       "news": [
         {
           "title": "MiniMaxAI/MiniMax-M2.5",
@@ -83,19 +83,6 @@
           "category": "AI Model"
         },
         {
-          "title": "inclusionAI/Ring-2.5-1T",
-          "link": "https://huggingface.co/inclusionAI/Ring-2.5-1T",
-          "date": "2026-02-20",
-          "source": "HuggingFace",
-          "description": "• 세계 최초 1조 파라미터 오픈소스 모델 공개\n• 혼형 선형 어텐션 기반 생성 효율 3배 개선\n• 깊은 사고 구현해 수학 올림피아드 금메달 달성\n• 장기 과제 자율 수행 능력 대폭 강화",
-          "image": "https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*4QxcQrBlTiAAAAAAQXAAAAgAemJ7AQ/original",
-          "is_english": true,
-          "summary": "• 세계 최초 1조 파라미터 오픈소스 모델 공개\n• 혼형 선형 어텐션 기반 생성 효율 3배 개선\n• 깊은 사고 구현해 수학 올림피아드 금메달 달성\n• 장기 과제 자율 수행 능력 대폭 강화",
-          "translated_title": "inclusionAI/Ring-2.5-1T",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "FireRedTeam/FireRed-Image-Edit-1.0",
           "link": "https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0",
           "date": "2026-02-20",
@@ -122,6 +109,19 @@
           "category": "AI Model"
         },
         {
+          "title": "inclusionAI/Ring-2.5-1T",
+          "link": "https://huggingface.co/inclusionAI/Ring-2.5-1T",
+          "date": "2026-02-20",
+          "source": "HuggingFace",
+          "description": "• 세계 최초 1조 파라미터 오픈소스 모델 공개\n• 혼형 선형 어텐션 기반 생성 효율 3배 개선\n• 깊은 사고 구현해 수학 올림피아드 금메달 달성\n• 장기 과제 자율 수행 능력 대폭 강화",
+          "image": "https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*4QxcQrBlTiAAAAAAQXAAAAgAemJ7AQ/original",
+          "is_english": true,
+          "summary": "• 세계 최초 1조 파라미터 오픈소스 모델 공개\n• 혼형 선형 어텐션 기반 생성 효율 3배 개선\n• 깊은 사고 구현해 수학 올림피아드 금메달 달성\n• 장기 과제 자율 수행 능력 대폭 강화",
+          "translated_title": "inclusionAI/Ring-2.5-1T",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
           "link": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
           "date": "2026-02-20",
@@ -131,19 +131,6 @@
           "is_english": true,
           "summary": "• Qwen3-TTS-12Hz-1.7B-CustomVoice 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "openbmb/MiniCPM-SALA",
-          "link": "https://huggingface.co/openbmb/MiniCPM-SALA",
-          "date": "2026-02-20",
-          "source": "HuggingFace",
-          "description": "• 희소 및 선형 어텐션 결합 모델 공개\n• 백만 토큰 처리 가능한 혁신 구조\n• 엔비디아와 추진 경연 대회 개최\n• 기술 리포트 및 소스코드 제공",
-          "image": "https://github.com/OpenBMB/MiniCPM/blob/main/assets/minicpm_logo.png?raw=true",
-          "is_english": true,
-          "summary": "• 희소 및 선형 어텐션 결합 모델 공개\n• 백만 토큰 처리 가능한 혁신 구조\n• 엔비디아와 추진 경연 대회 개최\n• 기술 리포트 및 소스코드 제공",
-          "translated_title": "openbmb/MiniCPM-SALA",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -200,19 +187,6 @@
           "category": "AI Model"
         },
         {
-          "title": "inclusionAI/Ming-flash-omni-2.0",
-          "link": "https://huggingface.co/inclusionAI/Ming-flash-omni-2.0",
-          "date": "2026-02-20",
-          "source": "HuggingFace",
-          "description": "• 전문가 혼합 기반 100B 파라미터 모델 공개\n• 오픈소스 최고 성능 멀티모달 모델 달성\n• 시각 지식 및 음성 합성 기능 고도화\n• 동적 이미지 생성 및 조작 기능 제공",
-          "image": "https://mdn.alipayobjects.com/huamei_drbxn1/afts/img/YLAgT5MSnLwAAAAAQXAAAAgADkliAQFr/original",
-          "is_english": true,
-          "summary": "• 전문가 혼합 기반 100B 파라미터 모델 공개\n• 오픈소스 최고 성능 멀티모달 모델 달성\n• 시각 지식 및 음성 합성 기능 고도화\n• 동적 이미지 생성 및 조작 기능 제공",
-          "translated_title": "inclusionAI/Ming-flash-omni-2.0",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/MiniMax-M2.5-GGUF",
           "link": "https://huggingface.co/unsloth/MiniMax-M2.5-GGUF",
           "date": "2026-02-20",
@@ -222,6 +196,32 @@
           "is_english": true,
           "summary": "• 언스로스, 미니맥스 M2.5 모델 공개\n• 로컬 환경에서 실행 가이드 제공\n• 다이나믹 2.0 기술로 정확도 강화\n• 타사 양자화 모델 성능 능가",
           "translated_title": "unsloth/MiniMax-M2.5-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "openbmb/MiniCPM-SALA",
+          "link": "https://huggingface.co/openbmb/MiniCPM-SALA",
+          "date": "2026-02-20",
+          "source": "HuggingFace",
+          "description": "• 희소 및 선형 어텐션 결합 모델 공개\n• 백만 토큰 처리 가능한 혁신 구조\n• 엔비디아와 추진 경연 대회 개최\n• 기술 리포트 및 소스코드 제공",
+          "image": "https://github.com/OpenBMB/MiniCPM/blob/main/assets/minicpm_logo.png?raw=true",
+          "is_english": true,
+          "summary": "• 희소 및 선형 어텐션 결합 모델 공개\n• 백만 토큰 처리 가능한 혁신 구조\n• 엔비디아와 추진 경연 대회 개최\n• 기술 리포트 및 소스코드 제공",
+          "translated_title": "openbmb/MiniCPM-SALA",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "inclusionAI/Ming-flash-omni-2.0",
+          "link": "https://huggingface.co/inclusionAI/Ming-flash-omni-2.0",
+          "date": "2026-02-20",
+          "source": "HuggingFace",
+          "description": "• 전문가 혼합 기반 100B 파라미터 모델 공개\n• 오픈소스 최고 성능 멀티모달 모델 달성\n• 시각 지식 및 음성 합성 기능 고도화\n• 동적 이미지 생성 및 조작 기능 제공",
+          "image": "https://mdn.alipayobjects.com/huamei_drbxn1/afts/img/YLAgT5MSnLwAAAAAQXAAAAgADkliAQFr/original",
+          "is_english": true,
+          "summary": "• 전문가 혼합 기반 100B 파라미터 모델 공개\n• 오픈소스 최고 성능 멀티모달 모델 달성\n• 시각 지식 및 음성 합성 기능 고도화\n• 동적 이미지 생성 및 조작 기능 제공",
+          "translated_title": "inclusionAI/Ming-flash-omni-2.0",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -252,15 +252,15 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/GLM-5-GGUF",
-          "link": "https://huggingface.co/unsloth/GLM-5-GGUF",
+          "title": "deepgenteam/DeepGen-1.0",
+          "link": "https://huggingface.co/deepgenteam/DeepGen-1.0",
           "date": "2026-02-20",
           "source": "HuggingFace",
-          "description": "• 언슬로스, 최신 GLM-5 모델 공개\n• 로컬 실행 위한 가이드 제공\n• 다이나믹 2.0, 양자화 성능 우위\n• 공식 문서 및 커뮤니티 안내",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "description": "• 경량화된 통합 멀티모달 모델 'DeepGen 1.0' 공개\n• 5B 파라미터로 이미지 생성과 편집 기능 통합 구현\n• 대형 모델 제치는 우수한 성능 벤치마크 입증\n• 거대 모델 의존 없이 고효율 생성 가능성 확인",
+          "image": "https://img.shields.io/badge/DeepGen 1.0-Paper-red?logo=arxiv&logoColor=red",
           "is_english": true,
-          "summary": "• 언슬로스, 최신 GLM-5 모델 공개\n• 로컬 실행 위한 가이드 제공\n• 다이나믹 2.0, 양자화 성능 우위\n• 공식 문서 및 커뮤니티 안내",
-          "translated_title": "unsloth/GLM-5-GGUF",
+          "summary": "• 경량화된 통합 멀티모달 모델 'DeepGen 1.0' 공개\n• 5B 파라미터로 이미지 생성과 편집 기능 통합 구현\n• 대형 모델 제치는 우수한 성능 벤치마크 입증\n• 거대 모델 의존 없이 고효율 생성 가능성 확인",
+          "translated_title": "deepgenteam/DeepGen-1.0",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -268,8 +268,50 @@
     },
     {
       "date": "2026-02-19",
-      "update_time": "2026-02-19 15:39:21",
+      "update_time": "2026-02-19 18:39:41",
       "news": [
+        {
+          "title": "AI 정렬 연구의 독립적 진행을 위한 지원",
+          "link": "https://openai.com/index/advancing-independent-research-ai-alignment",
+          "date": "2026-02-19",
+          "source": "OpenAI",
+          "description": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Advancing independent research on AI alignment",
+          "original_summary": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks.",
+          "summary": "• OpenAI, The Alignment Project에 투자\n• 독립적 AI 정렬 연구 자금 지원\n• 750만 달러(약 100억 원) 규모\n• AGI 안보 리스크 해결에 기여",
+          "translated_title": "AI 정렬 연구의 독립적 진행을 위한 지원",
+          "category_keyword": "AI 정렬"
+        },
+        {
+          "title": "레딧, 쇼핑을 위한 새 AI 검색 기능 테스트",
+          "link": "https://techcrunch.com/2026/02/19/reddit-is-testing-a-new-ai-search-feature-for-shopping/",
+          "date": "2026-02-19",
+          "source": "TechCrunch",
+          "description": "A small group of users in the U.S. will start to see search results that include interactive product carousels with pricing, images, and direct where-to-buy links. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/02/reddit-ipo-v2.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "Reddit is testing a new AI search feature for shopping",
+          "original_summary": "A small group of users in the U.S. will start to see search results that include interactive product carousels with pricing, images, and direct where-to-buy links. ",
+          "summary": "• 미국 소수 사용자 대상 테스트 시작\n• 상품 가격 및 이미지 제공 기능\n• 구매처 바로가기 링크 포함\n• 인터랙티브 제품 캐러셀 적용",
+          "translated_title": "레딧, 쇼핑을 위한 새 AI 검색 기능 테스트",
+          "category_keyword": "AI 검색"
+        },
+        {
+          "title": "Reload, AI 에이전트에 공유 메모리 제공",
+          "link": "https://techcrunch.com/2026/02/19/reload-an-ai-employee-agent-management-platform-raises-2-275m-and-launches-an-ai-employee/",
+          "date": "2026-02-19",
+          "source": "TechCrunch",
+          "description": "Reload announces a $2.275 million raise in a round led by Anthemis and the launch of its first AI employee, Epic. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/Reload-Co-Founders-Headshot.png?w=1056",
+          "is_english": true,
+          "original_title": "Reload wants to give your AI agents a shared memory",
+          "original_summary": "Reload announces a $2.275 million raise in a round led by Anthemis and the launch of its first AI employee, Epic. ",
+          "summary": "• 시리즈 A 라운드 227만 5천 달러 확보\n• 앤섬미스(Anthemis) 주도로 투자 유치\n• 첫 번째 AI 직원 '에픽(Epic)' 출시\n• AI 에이전트 간 공유 메모리 구현",
+          "translated_title": "Reload, AI 에이전트에 공유 메모리 제공",
+          "category_keyword": "공유 메모리"
+        },
         {
           "title": "오픈AI, 850억 달러 이상 가치 평가로 100억 달러 펀딩 마무리 단계",
           "link": "https://techcrunch.com/2026/02/19/openai-reportedly-finalizing-100b-deal-at-more-than-850b-valuation/",
@@ -7833,7 +7875,7 @@
         {
           "title": "Qwen/Qwen3-Coder-Next",
           "link": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
-          "date": "2026-02-11",
+          "date": "2026-02-20",
           "source": "HuggingFace",
           "description": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
           "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Coder-Next/benchmarks.png",
@@ -7859,7 +7901,7 @@
         {
           "title": "moonshotai/Kimi-K2.5",
           "link": "https://huggingface.co/moonshotai/Kimi-K2.5",
-          "date": "2026-02-11",
+          "date": "2026-02-20",
           "source": "HuggingFace",
           "description": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
           "image": "https://huggingface.co/moonshotai/Kimi-K2.5/resolve/main/figures/kimi-logo.png",
@@ -7989,7 +8031,7 @@
         {
           "title": "nvidia/personaplex-7b-v1",
           "link": "https://huggingface.co/nvidia/personaplex-7b-v1",
-          "date": "2026-02-11",
+          "date": "2026-02-20",
           "source": "HuggingFace",
           "description": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
