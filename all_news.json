@@ -2,8 +2,36 @@
   "dates": [
     {
       "date": "2026-02-21",
-      "update_time": "2026-02-20 15:30:36",
+      "update_time": "2026-02-20 18:33:38",
       "news": [
+        {
+          "title": "공간 지능 스타트업, 10억 달러 투자 유치",
+          "link": "https://aibusiness.com/generative-ai/-1-billion-funding-for-spatial-intelligence-startup",
+          "date": "2026-02-21",
+          "source": "AI Business",
+          "description": "The company has generated substantial buzz and sizeable expectations.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltc26f0a41f4d442a6/699893020837c40008e7995c/Li.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "$1B Funding for Spatial Intelligence Startup",
+          "original_summary": "The company has generated substantial buzz and sizeable expectations.",
+          "summary": "• 공간 지능(Spatial Intelligence) 분야의 스타트업이 10억 달러 규모의 거대 투자를 유치\n• 이 회사는 기술력과 비전을 바탕으로 업계 내 상당한 기대감과 주목을 모음\n• 투자 시장의 뜨거운 관심은 공간 지능 분야의 성장 가능성을 보여주는 단적인 예\n• 막대한 자금 유입에도 불구하고 시장의 기대치를 충족시킬 수 있을지 귀추가 주목됨",
+          "translated_title": "공간 지능 스타트업, 10억 달러 투자 유치",
+          "category_keyword": "공간지능"
+        },
+        {
+          "title": "OpenAI, 인도 시장 공략 위해 데이터 센터 계약 체결",
+          "link": "https://aibusiness.com/generative-ai/openai-seals-data-center-deal-in-india",
+          "date": "2026-02-21",
+          "source": "AI Business",
+          "description": "The vendor envisions a major AI footprint in the Indian economy.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt5daa62c1386f267f/69987f94db2f360008f7ca83/AI_Impact.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "OpenAI Seals Data Center Deal as it Targets India",
+          "original_summary": "The vendor envisions a major AI footprint in the Indian economy.",
+          "summary": "• OpenAI가 인도 경제 내에서 거대한 AI 입지를 구축한다는 비전을 제시\n• 이를 위해 현지 벤더와 데이터 센터 구축과 관련된 중요한 계약을 체결\n• 글로벌 확장 전략의 일환으로 인도 시장을 핵심 거점으로 삼겠다는 의도 분석\n• 인도 내 AI 인프라 확충은 동남아 시장에서의 OpenAI의 영향력 강화로 이어질 것으로 기대",
+          "translated_title": "OpenAI, 인도 시장 공략 위해 데이터 센터 계약 체결",
+          "category_keyword": "인도진출"
+        },
         {
           "title": "Qwen/Qwen3.5-397B-A17B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-397B-A17B",
@@ -96,19 +124,6 @@
           "category": "AI Model"
         },
         {
-          "title": "moonshotai/Kimi-K2.5",
-          "link": "https://huggingface.co/moonshotai/Kimi-K2.5",
-          "date": "2026-02-21",
-          "source": "HuggingFace",
-          "description": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
-          "image": "https://huggingface.co/moonshotai/Kimi-K2.5/resolve/main/figures/kimi-logo.png",
-          "is_english": true,
-          "summary": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
-          "translated_title": "moonshotai/Kimi-K2.5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "OpenMOSS-Team/MOSS-TTS",
           "link": "https://huggingface.co/OpenMOSS-Team/MOSS-TTS",
           "date": "2026-02-21",
@@ -148,15 +163,15 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/MiniMax-M2.5-GGUF",
-          "link": "https://huggingface.co/unsloth/MiniMax-M2.5-GGUF",
+          "title": "moonshotai/Kimi-K2.5",
+          "link": "https://huggingface.co/moonshotai/Kimi-K2.5",
           "date": "2026-02-21",
           "source": "HuggingFace",
-          "description": "• 언스로스, 미니맥스 M2.5 모델 공개\n• 로컬 환경에서 실행 가이드 제공\n• 다이나믹 2.0 기술로 정확도 강화\n• 타사 양자화 모델 성능 능가",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "description": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
+          "image": "https://huggingface.co/moonshotai/Kimi-K2.5/resolve/main/figures/kimi-logo.png",
           "is_english": true,
-          "summary": "• 언스로스, 미니맥스 M2.5 모델 공개\n• 로컬 환경에서 실행 가이드 제공\n• 다이나믹 2.0 기술로 정확도 강화\n• 타사 양자화 모델 성능 능가",
-          "translated_title": "unsloth/MiniMax-M2.5-GGUF",
+          "summary": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
+          "translated_title": "moonshotai/Kimi-K2.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -170,6 +185,19 @@
           "is_english": true,
           "summary": "• 통합형 비주얼 창작 모델 카피바라 공개\n• 텍스트 및 이미지 기반 영상 생성 지원\n• 디퓨전 및 트랜스포머 기술 활용\n• 정교한 영상 편집 및 제어 기능 제공",
           "translated_title": "xgen-universe/Capybara",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/MiniMax-M2.5-GGUF",
+          "link": "https://huggingface.co/unsloth/MiniMax-M2.5-GGUF",
+          "date": "2026-02-21",
+          "source": "HuggingFace",
+          "description": "• 언스로스, 미니맥스 M2.5 모델 공개\n• 로컬 환경에서 실행 가이드 제공\n• 다이나믹 2.0 기술로 정확도 강화\n• 타사 양자화 모델 성능 능가",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "is_english": true,
+          "summary": "• 언스로스, 미니맥스 M2.5 모델 공개\n• 로컬 환경에서 실행 가이드 제공\n• 다이나믹 2.0 기술로 정확도 강화\n• 타사 양자화 모델 성능 능가",
+          "translated_title": "unsloth/MiniMax-M2.5-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -226,28 +254,15 @@
           "category": "AI Model"
         },
         {
-          "title": "DMindAI/DMind-3",
-          "link": "https://huggingface.co/DMindAI/DMind-3",
+          "title": "nvidia/NVIDIA-Nemotron-Nano-9B-v2-Japanese",
+          "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2-Japanese",
           "date": "2026-02-21",
           "source": "HuggingFace",
-          "description": "• 글로벌 시장 선점 위한 AI 공개\n• 웹3 거시 분석 엔진 탑재\n• 시스템 전체 통합 예측 수행\n• 금융 위험 대응 선제적 방어 제공",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• 엔비디아, 일본어 최적화 9B 모델 공개\n• Mamba-2 기반 하이브리드 아키텍처 탑재\n• 추론 과정 visible 기능 지원\n• 도구 호출 등 다양한 작업 수행 가능",
+          "image": "https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2-Japanese/resolve/main/./accuracy.png",
           "is_english": true,
-          "summary": "• 글로벌 시장 선점 위한 AI 공개\n• 웹3 거시 분석 엔진 탑재\n• 시스템 전체 통합 예측 수행\n• 금융 위험 대응 선제적 방어 제공",
-          "translated_title": "DMindAI/DMind-3",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "inclusionAI/Ring-2.5-1T",
-          "link": "https://huggingface.co/inclusionAI/Ring-2.5-1T",
-          "date": "2026-02-21",
-          "source": "HuggingFace",
-          "description": "• 세계 최초 1조 파라미터 오픈소스 모델 공개\n• 혼형 선형 어텐션 기반 생성 효율 3배 개선\n• 깊은 사고 구현해 수학 올림피아드 금메달 달성\n• 장기 과제 자율 수행 능력 대폭 강화",
-          "image": "https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*4QxcQrBlTiAAAAAAQXAAAAgAemJ7AQ/original",
-          "is_english": true,
-          "summary": "• 세계 최초 1조 파라미터 오픈소스 모델 공개\n• 혼형 선형 어텐션 기반 생성 효율 3배 개선\n• 깊은 사고 구현해 수학 올림피아드 금메달 달성\n• 장기 과제 자율 수행 능력 대폭 강화",
-          "translated_title": "inclusionAI/Ring-2.5-1T",
+          "summary": "• 엔비디아, 일본어 최적화 9B 모델 공개\n• Mamba-2 기반 하이브리드 아키텍처 탑재\n• 추론 과정 visible 기능 지원\n• 도구 호출 등 다양한 작업 수행 가능",
+          "translated_title": "nvidia/NVIDIA-Nemotron-Nano-9B-v2-Japanese",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -263,13 +278,68 @@
           "translated_title": "Fortytwo-Network/Strand-Rust-Coder-14B-v1",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "DMindAI/DMind-3",
+          "link": "https://huggingface.co/DMindAI/DMind-3",
+          "date": "2026-02-21",
+          "source": "HuggingFace",
+          "description": "• 글로벌 시장 선점 위한 AI 공개\n• 웹3 거시 분석 엔진 탑재\n• 시스템 전체 통합 예측 수행\n• 금융 위험 대응 선제적 방어 제공",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• 글로벌 시장 선점 위한 AI 공개\n• 웹3 거시 분석 엔진 탑재\n• 시스템 전체 통합 예측 수행\n• 금융 위험 대응 선제적 방어 제공",
+          "translated_title": "DMindAI/DMind-3",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-02-20",
-      "update_time": "2026-02-20 15:30:33",
+      "update_time": "2026-02-20 18:33:34",
       "news": [
+        {
+          "title": "xAI에 호재: 그록, '발더스 게이트' 질의 응답 능력 대폭 개선",
+          "link": "https://techcrunch.com/2026/02/20/great-news-for-xai-grok-is-now-pretty-good-at-answering-questions-about-baldurs-gate/",
+          "date": "2026-02-20",
+          "source": "TechCrunch",
+          "description": "A new report from Business Insider reveals that high-level engineers at xAI were pulled off other projects to make sure Grok could answer detailed questions about the video game \"Baldur's Gate.\"",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2087343879.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Great news for xAI: Grok is now pretty good at answering questions about Baldur’s Gate",
+          "original_summary": "A new report from Business Insider reveals that high-level engineers at xAI were pulled off other projects to make sure Grok could answer detailed questions about the video game \"Baldur's Gate.\"",
+          "summary": "• 비즈니스 인사이더 보도에 따르면 xAI가 발더스 게이트 관련 질의 응답 능력 강화에 주력\n• 고위 엔지니어들을 타 프로젝트에서 차출해 그록 성능 향상 작업 진행\n• xAI는 발더스 게이트라는 특정 게임에 대한 그록의 이해도를 높이는 데 총력\n• 이는 특정 도메인에 대한 AI 모델의 정교화를 위한 전략적 움직임으로 해석",
+          "translated_title": "xAI에 호재: 그록, '발더스 게이트' 질의 응답 능력 대폭 개선",
+          "category_keyword": "그록"
+        },
+        {
+          "title": "'토이 스토리 5', 기괴한 AI 장난감을 풍자하다: \"나는 항상 듣고 있어\"",
+          "link": "https://techcrunch.com/2026/02/20/toy-story-5-takes-aim-at-creepy-ai-toys-im-always-listening/",
+          "date": "2026-02-20",
+          "source": "TechCrunch",
+          "description": "Addictive, AI-enabled tablets are taking over, and also, Woody is balding in the new Toy Story movie, out June 19.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/Screenshot-2026-02-20-at-10.56.47-AM.png?resize=1200,645",
+          "is_english": true,
+          "original_title": "Toy Story 5 takes aim at creepy AI toys: ‘I’m always listening’",
+          "original_summary": "Addictive, AI-enabled tablets are taking over, and also, Woody is balding in the new Toy Story movie, out June 19.",
+          "summary": "• 올해 6월 19일 개봉하는 새로운 토이 스토리 영화에서 우디가 대머리가 된 모습 공개\n• 영화는 중독성 강한 AI 태블릿과 함께 '나는 항상 듣고 있어'라는 AI 장난감을 풍자\n• 최근 AI 기술이 탑재된 장난감들이 아이들 사이에서 빠르게 확산되는 현상 비판\n• 기술 발전이 가져오는 윤리적 문제를 유머러스하면서도 날카롭게 지적할 예정",
+          "translated_title": "'토이 스토리 5', 기괴한 AI 장난감을 풍자하다: \"나는 항상 듣고 있어\"",
+          "category_keyword": "AI장난감"
+        },
+        {
+          "title": "인디 영화 제작자들에게 AI가 주는 약속: 더 빠르고, 더 저렴하지만 더 외로워진다",
+          "link": "https://techcrunch.com/2026/02/20/ais-promise-to-indie-filmmakers-faster-cheaper-lonelier/",
+          "date": "2026-02-20",
+          "source": "TechCrunch",
+          "description": "AI expands access to filmmaking for resource-constrained creators. But as efficiency becomes the industry’s north star, creativity risks being overwhelmed by a deluge of low-effort, AI-generated content.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/Murmuray_FinalCut_04.2.00_01_09_13.Still028.png?resize=1200,675",
+          "is_english": true,
+          "original_title": "AI’s promise to indie filmmakers: Faster, cheaper, lonelier",
+          "original_summary": "AI expands access to filmmaking for resource-constrained creators. But as efficiency becomes the industry’s north star, creativity risks being overwhelmed by a deluge of low-effort, AI-generated content.",
+          "summary": "• 자원이 부족한 제작자들에게 AI는 영화 제작의 접근성을 획기적으로 확대해 주는 도구\n• 제작 효율성이 업계의 최우선 가치가 되면서 AI 활용은 필연적인 추세로 자리 잡음\n• 하지만 저품질의 AI 생성 콘텐츠가 범람하면서 창의성이 위협받을 우려가 제기됨\n• 결국 기술의 편리함을 즐기는 동안 제작자들은 예전보다 더 고립될 가능성이 지적됨",
+          "translated_title": "인디 영화 제작자들에게 AI가 주는 약속: 더 빠르고, 더 저렴하지만 더 외로워진다",
+          "category_keyword": "인디영화"
+        },
         {
           "title": "Peak XV, 13억 달러 조성… 인도 VC 경쟁 격화 속 AI 총력",
           "link": "https://techcrunch.com/2026/02/20/peak-xv-raises-1-3b-doubles-down-on-ai-as-global-vc-rivalry-in-india-heats-up/",
@@ -7858,7 +7928,7 @@
         {
           "title": "Qwen/Qwen3-Coder-Next",
           "link": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
-          "date": "2026-02-12",
+          "date": "2026-02-21",
           "source": "HuggingFace",
           "description": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
           "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Coder-Next/benchmarks.png",
@@ -7871,7 +7941,7 @@
         {
           "title": "moonshotai/Kimi-K2.5",
           "link": "https://huggingface.co/moonshotai/Kimi-K2.5",
-          "date": "2026-02-12",
+          "date": "2026-02-21",
           "source": "HuggingFace",
           "description": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
           "image": "https://huggingface.co/moonshotai/Kimi-K2.5/resolve/main/figures/kimi-logo.png",
@@ -7897,7 +7967,7 @@
         {
           "title": "mistralai/Voxtral-Mini-4B-Realtime-2602",
           "link": "https://huggingface.co/mistralai/Voxtral-Mini-4B-Realtime-2602",
-          "date": "2026-02-12",
+          "date": "2026-02-21",
           "source": "HuggingFace",
           "description": "• 500ms 이하 실시간 음성 모델 공개\n• 13개 언어 고성능 변환 지원\n• 저사양 기기 온디바이스 배포 최적화\n• 라이선스 상업적 활용 가능",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -8053,7 +8123,7 @@
         {
           "title": "nvidia/personaplex-7b-v1",
           "link": "https://huggingface.co/nvidia/personaplex-7b-v1",
-          "date": "2026-02-12",
+          "date": "2026-02-21",
           "source": "HuggingFace",
           "description": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
