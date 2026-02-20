@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-02-21",
-      "update_time": "2026-02-20 18:33:38",
+      "update_time": "2026-02-20 21:15:32",
       "news": [
         {
           "title": "공간 지능 스타트업, 10억 달러 투자 유치",
@@ -124,19 +124,6 @@
           "category": "AI Model"
         },
         {
-          "title": "OpenMOSS-Team/MOSS-TTS",
-          "link": "https://huggingface.co/OpenMOSS-Team/MOSS-TTS",
-          "date": "2026-02-21",
-          "source": "HuggingFace",
-          "description": "• 고성능 오픈소스 음성 생성 모델 공개\n• 다국어 지원 및 높은 표현력 구현\n• 대화 및 효과음 등 복합 상황 대응\n• 실시간 스트리밍 TTS 기능 제공",
-          "image": "https://speech-demo.oss-cn-shanghai.aliyuncs.com/moss_tts_demo/tts_readme_imgaes_demo/openmoss_x_mosi",
-          "is_english": true,
-          "summary": "• 고성능 오픈소스 음성 생성 모델 공개\n• 다국어 지원 및 높은 표현력 구현\n• 대화 및 효과음 등 복합 상황 대응\n• 실시간 스트리밍 TTS 기능 제공",
-          "translated_title": "OpenMOSS-Team/MOSS-TTS",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Qwen3.5-397B-A17B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.5-397B-A17B-GGUF",
           "date": "2026-02-21",
@@ -146,6 +133,19 @@
           "is_english": true,
           "summary": "• Unsloth, 거대 Qwen3.5 모델 최적화 버전 공개\n• 로컬 환경에서 고품질 추론 성능 지원\n• 동적 양자화 기술로 정확도와 속도 개선\n• 주요 AI 프레임워크와 호환성 확보",
           "translated_title": "unsloth/Qwen3.5-397B-A17B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "OpenMOSS-Team/MOSS-TTS",
+          "link": "https://huggingface.co/OpenMOSS-Team/MOSS-TTS",
+          "date": "2026-02-21",
+          "source": "HuggingFace",
+          "description": "• 고성능 오픈소스 음성 생성 모델 공개\n• 다국어 지원 및 높은 표현력 구현\n• 대화 및 효과음 등 복합 상황 대응\n• 실시간 스트리밍 TTS 기능 제공",
+          "image": "https://speech-demo.oss-cn-shanghai.aliyuncs.com/moss_tts_demo/tts_readme_imgaes_demo/openmoss_x_mosi",
+          "is_english": true,
+          "summary": "• 고성능 오픈소스 음성 생성 모델 공개\n• 다국어 지원 및 높은 표현력 구현\n• 대화 및 효과음 등 복합 상황 대응\n• 실시간 스트리밍 TTS 기능 제공",
+          "translated_title": "OpenMOSS-Team/MOSS-TTS",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -296,8 +296,36 @@
     },
     {
       "date": "2026-02-20",
-      "update_time": "2026-02-20 18:33:34",
+      "update_time": "2026-02-20 21:15:32",
       "news": [
+        {
+          "title": "앤스로픽 지원 단체, 경쟁 AI 슈퍼 PAC의 공격 대상인 후원자 지지",
+          "link": "https://techcrunch.com/2026/02/20/anthropic-funded-group-backs-candidate-attacked-by-rival-ai-super-pac/",
+          "date": "2026-02-20",
+          "source": "TechCrunch",
+          "description": "Dueling pro-AI PACs have centered around backing or targeting one New York congressional bid: Alex Bores, whose RAISE Act requires AI developers to disclose safety protocols and report serious system misuse. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2259873774.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Anthropic-funded group backs candidate attacked by rival AI super PAC",
+          "original_summary": "Dueling pro-AI PACs have centered around backing or targeting one New York congressional bid: Alex Bores, whose RAISE Act requires AI developers to disclose safety protocols and report serious system misuse. ",
+          "summary": "• AI를 둘러싼 두 PAC의 대결\n• 뉴욕 하원의원 선거 초점\n• 알렉스 보어스 후보 지지\n• AI 안전 규정 법안 추진",
+          "translated_title": "앤스로픽 지원 단체, 경쟁 AI 슈퍼 PAC의 공격 대상인 후원자 지지",
+          "category_keyword": "AI PAC"
+        },
+        {
+          "title": "InScope, 재무 보고의 어려움 해결 위해 1,450만 달러 유치",
+          "link": "https://techcrunch.com/2026/02/20/inscope-nabs-14-5m-to-solve-the-pain-of-financial-reporting/",
+          "date": "2026-02-20",
+          "source": "TechCrunch",
+          "description": "The startup, founded by accountants who worked at Flexport, Miro, Hopin and Thrive Global, automates the difficulties of prepping financial statements.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/In-scope.jpg?resize=1200,1012",
+          "is_english": true,
+          "original_title": "InScope nabs $14.5M to solve the pain of financial reporting",
+          "original_summary": "The startup, founded by accountants who worked at Flexport, Miro, Hopin and Thrive Global, automates the difficulties of prepping financial statements.",
+          "summary": "• 유니콘 기업 출신 창업\n• 재무제표 작성 자동화\n• 1,450만 달러 투자 유치\n• 복잡한 재무 보고 해결",
+          "translated_title": "InScope, 재무 보고의 어려움 해결 위해 1,450만 달러 유치",
+          "category_keyword": "재무 자동화"
+        },
         {
           "title": "xAI에 호재: 그록, '발더스 게이트' 질의 응답 능력 대폭 개선",
           "link": "https://techcrunch.com/2026/02/20/great-news-for-xai-grok-is-now-pretty-good-at-answering-questions-about-baldurs-gate/",
