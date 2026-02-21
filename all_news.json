@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-02-21",
-      "update_time": "2026-02-21 04:23:39",
+      "update_time": "2026-02-21 06:30:18",
       "news": [
         {
           "title": "[AI 이슈트렌드] 충주맨 사직·윤석열 무기징역 등 파장 확산",
@@ -130,19 +130,6 @@
           "category": "AI Model"
         },
         {
-          "title": "MiniMaxAI/MiniMax-M2.5",
-          "link": "https://huggingface.co/MiniMaxAI/MiniMax-M2.5",
-          "date": "2026-02-21",
-          "source": "HuggingFace",
-          "description": "• MiniMaxAI, 신규 언어 모델 공개\n• 문장 생성 최적화 파이프라인 탑재\n• 트랜스포머 라이브러리 기반 구현\n• 수정된 MIT 라이선스 적용",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
-          "is_english": true,
-          "summary": "• MiniMaxAI, 신규 언어 모델 공개\n• 문장 생성 최적화 파이프라인 탑재\n• 트랜스포머 라이브러리 기반 구현\n• 수정된 MIT 라이선스 적용",
-          "translated_title": "MiniMaxAI/MiniMax-M2.5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "zai-org/GLM-5",
           "link": "https://huggingface.co/zai-org/GLM-5",
           "date": "2026-02-21",
@@ -152,6 +139,19 @@
           "is_english": true,
           "summary": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
           "translated_title": "zai-org/GLM-5",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-M2.5",
+          "link": "https://huggingface.co/MiniMaxAI/MiniMax-M2.5",
+          "date": "2026-02-21",
+          "source": "HuggingFace",
+          "description": "• MiniMaxAI, 신규 언어 모델 공개\n• 문장 생성 최적화 파이프라인 탑재\n• 트랜스포머 라이브러리 기반 구현\n• 수정된 MIT 라이선스 적용",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• MiniMaxAI, 신규 언어 모델 공개\n• 문장 생성 최적화 파이프라인 탑재\n• 트랜스포머 라이브러리 기반 구현\n• 수정된 MIT 라이선스 적용",
+          "translated_title": "MiniMaxAI/MiniMax-M2.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -299,19 +299,6 @@
           "category": "AI Model"
         },
         {
-          "title": "deepgenteam/DeepGen-1.0",
-          "link": "https://huggingface.co/deepgenteam/DeepGen-1.0",
-          "date": "2026-02-21",
-          "source": "HuggingFace",
-          "description": "• 경량화된 통합 멀티모달 모델 'DeepGen 1.0' 공개\n• 5B 파라미터로 이미지 생성과 편집 기능 통합 구현\n• 대형 모델 제치는 우수한 성능 벤치마크 입증\n• 거대 모델 의존 없이 고효율 생성 가능성 확인",
-          "image": "https://img.shields.io/badge/DeepGen 1.0-Paper-red?logo=arxiv&logoColor=red",
-          "is_english": true,
-          "summary": "• 경량화된 통합 멀티모달 모델 'DeepGen 1.0' 공개\n• 5B 파라미터로 이미지 생성과 편집 기능 통합 구현\n• 대형 모델 제치는 우수한 성능 벤치마크 입증\n• 거대 모델 의존 없이 고효율 생성 가능성 확인",
-          "translated_title": "deepgenteam/DeepGen-1.0",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3-Coder-Next",
           "link": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
           "date": "2026-02-21",
@@ -321,6 +308,19 @@
           "is_english": true,
           "summary": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
           "translated_title": "Qwen/Qwen3-Coder-Next",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "deepgenteam/DeepGen-1.0",
+          "link": "https://huggingface.co/deepgenteam/DeepGen-1.0",
+          "date": "2026-02-21",
+          "source": "HuggingFace",
+          "description": "• 경량화된 통합 멀티모달 모델 'DeepGen 1.0' 공개\n• 5B 파라미터로 이미지 생성과 편집 기능 통합 구현\n• 대형 모델 제치는 우수한 성능 벤치마크 입증\n• 거대 모델 의존 없이 고효율 생성 가능성 확인",
+          "image": "https://img.shields.io/badge/DeepGen 1.0-Paper-red?logo=arxiv&logoColor=red",
+          "is_english": true,
+          "summary": "• 경량화된 통합 멀티모달 모델 'DeepGen 1.0' 공개\n• 5B 파라미터로 이미지 생성과 편집 기능 통합 구현\n• 대형 모델 제치는 우수한 성능 벤치마크 입증\n• 거대 모델 의존 없이 고효율 생성 가능성 확인",
+          "translated_title": "deepgenteam/DeepGen-1.0",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
