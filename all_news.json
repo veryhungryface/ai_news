@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-02-22",
-      "update_time": "2026-02-21 15:16:21",
+      "update_time": "2026-02-21 18:21:30",
       "news": [
         {
           "title": "Qwen/Qwen3.5-397B-A17B",
@@ -70,19 +70,6 @@
           "category": "AI Model"
         },
         {
-          "title": "FireRedTeam/FireRed-Image-Edit-1.0",
-          "link": "https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0",
-          "date": "2026-02-22",
-          "source": "HuggingFace",
-          "description": "• 파이어레드 이미지 에디트 모델 공개\n• 고해상도 이미지 편집 성능 제공\n• 텍스트 스타일 정밀 보존 지원\n• 오픈소스 최고 수준 편집 가능",
-          "image": "https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0/resolve/main/./assets/logo.png",
-          "is_english": true,
-          "summary": "• 파이어레드 이미지 에디트 모델 공개\n• 고해상도 이미지 편집 성능 제공\n• 텍스트 스타일 정밀 보존 지원\n• 오픈소스 최고 수준 편집 가능",
-          "translated_title": "FireRedTeam/FireRed-Image-Edit-1.0",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
           "link": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
           "date": "2026-02-22",
@@ -92,6 +79,19 @@
           "is_english": true,
           "summary": "• Qwen3-TTS-12Hz-1.7B-CustomVoice 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "FireRedTeam/FireRed-Image-Edit-1.0",
+          "link": "https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0",
+          "date": "2026-02-22",
+          "source": "HuggingFace",
+          "description": "• 파이어레드 이미지 에디트 모델 공개\n• 고해상도 이미지 편집 성능 제공\n• 텍스트 스타일 정밀 보존 지원\n• 오픈소스 최고 수준 편집 가능",
+          "image": "https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0/resolve/main/./assets/logo.png",
+          "is_english": true,
+          "summary": "• 파이어레드 이미지 에디트 모델 공개\n• 고해상도 이미지 편집 성능 제공\n• 텍스트 스타일 정밀 보존 지원\n• 오픈소스 최고 수준 편집 가능",
+          "translated_title": "FireRedTeam/FireRed-Image-Edit-1.0",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -148,19 +148,6 @@
           "category": "AI Model"
         },
         {
-          "title": "OpenMOSS-Team/MOSS-TTS",
-          "link": "https://huggingface.co/OpenMOSS-Team/MOSS-TTS",
-          "date": "2026-02-22",
-          "source": "HuggingFace",
-          "description": "• 고성능 오픈소스 음성 생성 모델 공개\n• 다국어 지원 및 높은 표현력 구현\n• 대화 및 효과음 등 복합 상황 대응\n• 실시간 스트리밍 TTS 기능 제공",
-          "image": "https://speech-demo.oss-cn-shanghai.aliyuncs.com/moss_tts_demo/tts_readme_imgaes_demo/openmoss_x_mosi",
-          "is_english": true,
-          "summary": "• 고성능 오픈소스 음성 생성 모델 공개\n• 다국어 지원 및 높은 표현력 구현\n• 대화 및 효과음 등 복합 상황 대응\n• 실시간 스트리밍 TTS 기능 제공",
-          "translated_title": "OpenMOSS-Team/MOSS-TTS",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "jdopensource/JoyAI-LLM-Flash",
           "link": "https://huggingface.co/jdopensource/JoyAI-LLM-Flash",
           "date": "2026-02-22",
@@ -170,6 +157,19 @@
           "is_english": true,
           "summary": "• JD, 3B 파라미터 모델 공개\n• Muon 최적화 기법으로 학습\n• 파이버 번들 RL 적용해 성능 개선\n• 툴 활용 및 자율 문제 해결 지원",
           "translated_title": "jdopensource/JoyAI-LLM-Flash",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "OpenMOSS-Team/MOSS-TTS",
+          "link": "https://huggingface.co/OpenMOSS-Team/MOSS-TTS",
+          "date": "2026-02-22",
+          "source": "HuggingFace",
+          "description": "• 고성능 오픈소스 음성 생성 모델 공개\n• 다국어 지원 및 높은 표현력 구현\n• 대화 및 효과음 등 복합 상황 대응\n• 실시간 스트리밍 TTS 기능 제공",
+          "image": "https://speech-demo.oss-cn-shanghai.aliyuncs.com/moss_tts_demo/tts_readme_imgaes_demo/openmoss_x_mosi",
+          "is_english": true,
+          "summary": "• 고성능 오픈소스 음성 생성 모델 공개\n• 다국어 지원 및 높은 표현력 구현\n• 대화 및 효과음 등 복합 상황 대응\n• 실시간 스트리밍 TTS 기능 제공",
+          "translated_title": "OpenMOSS-Team/MOSS-TTS",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -200,19 +200,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3-Coder-Next",
-          "link": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
-          "date": "2026-02-22",
-          "source": "HuggingFace",
-          "description": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
-          "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Coder-Next/benchmarks.png",
-          "is_english": true,
-          "summary": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
-          "translated_title": "Qwen/Qwen3-Coder-Next",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nvidia/NVIDIA-Nemotron-Nano-9B-v2-Japanese",
           "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2-Japanese",
           "date": "2026-02-22",
@@ -239,6 +226,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Qwen/Qwen3-Coder-Next",
+          "link": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
+          "date": "2026-02-22",
+          "source": "HuggingFace",
+          "description": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
+          "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Coder-Next/benchmarks.png",
+          "is_english": true,
+          "summary": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
+          "translated_title": "Qwen/Qwen3-Coder-Next",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Zyphra/ZUNA",
           "link": "https://huggingface.co/Zyphra/ZUNA",
           "date": "2026-02-22",
@@ -252,15 +252,15 @@
           "category": "AI Model"
         },
         {
-          "title": "mistralai/Voxtral-Mini-4B-Realtime-2602",
-          "link": "https://huggingface.co/mistralai/Voxtral-Mini-4B-Realtime-2602",
+          "title": "TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF",
+          "link": "https://huggingface.co/TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF",
           "date": "2026-02-22",
           "source": "HuggingFace",
-          "description": "• 500ms 이하 실시간 음성 모델 공개\n• 13개 언어 고성능 변환 지원\n• 저사양 기기 온디바이스 배포 최적화\n• 라이선스 상업적 활용 가능",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "description": "• 클로드 데이터 기반 고성능 모델 공개\n• 복잡한 추론 능력 강화해 개발 완료\n• 다양한 분야 활용 가능성 제시\n• 저렴한 비용으로 효율적 학습 진행",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• 500ms 이하 실시간 음성 모델 공개\n• 13개 언어 고성능 변환 지원\n• 저사양 기기 온디바이스 배포 최적화\n• 라이선스 상업적 활용 가능",
-          "translated_title": "mistralai/Voxtral-Mini-4B-Realtime-2602",
+          "summary": "• 클로드 데이터 기반 고성능 모델 공개\n• 복잡한 추론 능력 강화해 개발 완료\n• 다양한 분야 활용 가능성 제시\n• 저렴한 비용으로 효율적 학습 진행",
+          "translated_title": "TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -268,8 +268,50 @@
     },
     {
       "date": "2026-02-21",
-      "update_time": "2026-02-21 15:16:21",
+      "update_time": "2026-02-21 18:21:24",
       "news": [
+        {
+          "title": "MS 신임 게임 CEO \"저품질 AI 콘텐츠로 생태계 범람 안 할 것\"",
+          "link": "https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop/",
+          "date": "2026-02-21",
+          "source": "TechCrunch",
+          "description": "Is Microsoft's gaming division doubling down on AI?",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2174641784.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Microsoft’s new gaming CEO vows not to flood the ecosystem with ‘endless AI slop’",
+          "original_summary": "Is Microsoft's gaming division doubling down on AI?",
+          "summary": "• MS 신임 게임 총괄 CEO 임명\n• 저품질 AI 콘텐츠 범람 경계\n• 품질 중심의 게임 생태계 지향\n• AI 활용에 대한 신중한 접근",
+          "translated_title": "MS 신임 게임 CEO \"저품질 AI 콘텐츠로 생태계 범람 안 할 것\"",
+          "category_keyword": "MS게임"
+        },
+        {
+          "title": "구글 VP, \"생존 위기 맞은 두 유형의 AI 스타트업\"",
+          "link": "https://techcrunch.com/2026/02/21/google-vp-warns-that-two-types-of-ai-startups-may-not-survive/",
+          "date": "2026-02-21",
+          "source": "TechCrunch",
+          "description": "As generative AI evolves, a Google VP warns that LLM wrappers and AI aggregators face mounting pressure, with shrinking margins and limited differentiation threatening their long-term viability.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/Darren-Mowry-headshot.png?resize=1200,960",
+          "is_english": true,
+          "original_title": "Google VP warns that two types of AI startups may not survive",
+          "original_summary": "As generative AI evolves, a Google VP warns that LLM wrappers and AI aggregators face mounting pressure, with shrinking margins and limited differentiation threatening their long-term viability.",
+          "summary": "• 생성형 AI 진화 속 생존 경고\n• LLM 래퍼 모델 위험성 지적\n• AI 집계 업체 수익성 악화\n• 차별화 부족이 장기적 위협",
+          "translated_title": "구글 VP, \"생존 위기 맞은 두 유형의 AI 스타트업\"",
+          "category_keyword": "AI스타트업"
+        },
+        {
+          "title": "캐나다 총격 용의자 채팅, OpenAI 경찰 신고 논의",
+          "link": "https://techcrunch.com/2026/02/21/openai-debated-calling-police-about-suspected-canadian-shooters-chats/",
+          "date": "2026-02-21",
+          "source": "TechCrunch",
+          "description": "Jesse Van Rootselaar's descriptions of gun violence were flagged by tools that monitor ChatGPT for misuse.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+          "is_english": true,
+          "original_title": "OpenAI debated calling police about suspected Canadian shooter’s chats",
+          "original_summary": "Jesse Van Rootselaar's descriptions of gun violence were flagged by tools that monitor ChatGPT for misuse.",
+          "summary": "• 총격 용의자 채팅 적발\n• 오용 감지 도구가 경고\n• 경찰 신고 여부 내부 논의\n• AI 윤리적 사용 이슈 대두",
+          "translated_title": "캐나다 총격 용의자 채팅, OpenAI 경찰 신고 논의",
+          "category_keyword": "OpenAI"
+        },
         {
           "title": "\"AI 못 쓰면 2~3년 내 하위 계층 전락\"...'AI 양극화' 주장에 찬반 엇갈려",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=207041",
@@ -5035,7 +5077,7 @@
         {
           "title": "nvidia/personaplex-7b-v1",
           "link": "https://huggingface.co/nvidia/personaplex-7b-v1",
-          "date": "2026-02-16",
+          "date": "2026-02-22",
           "source": "HuggingFace",
           "description": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -7133,7 +7175,7 @@
         {
           "title": "zai-org/GLM-5",
           "link": "https://huggingface.co/zai-org/GLM-5",
-          "date": "2026-02-13",
+          "date": "2026-02-22",
           "source": "HuggingFace",
           "description": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -7159,7 +7201,7 @@
         {
           "title": "moonshotai/Kimi-K2.5",
           "link": "https://huggingface.co/moonshotai/Kimi-K2.5",
-          "date": "2026-02-13",
+          "date": "2026-02-22",
           "source": "HuggingFace",
           "description": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
           "image": "https://huggingface.co/moonshotai/Kimi-K2.5/resolve/main/figures/kimi-logo.png",
@@ -7172,7 +7214,7 @@
         {
           "title": "Qwen/Qwen3-Coder-Next",
           "link": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
-          "date": "2026-02-13",
+          "date": "2026-02-22",
           "source": "HuggingFace",
           "description": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
           "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Coder-Next/benchmarks.png",
@@ -7211,7 +7253,7 @@
         {
           "title": "Nanbeige/Nanbeige4.1-3B",
           "link": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
-          "date": "2026-02-13",
+          "date": "2026-02-22",
           "source": "HuggingFace",
           "description": "• 소형 규모로도 강력한 추론 능력 구현\n• 대형 모델 뛰어넘는 선호 정렬 성과\n• 도구 호출 등 에이전트 기능 고도화\n• 복잡한 문제 해결 지원하는 신모델 공개",
           "image": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B/resolve/main/figures/nbg.png",
