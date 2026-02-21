@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-02-22",
-      "update_time": "2026-02-21 18:21:30",
+      "update_time": "2026-02-21 21:14:17",
       "news": [
         {
           "title": "Qwen/Qwen3.5-397B-A17B",
@@ -187,6 +187,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Qwen/Qwen3-Coder-Next",
+          "link": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
+          "date": "2026-02-22",
+          "source": "HuggingFace",
+          "description": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
+          "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Coder-Next/benchmarks.png",
+          "is_english": true,
+          "summary": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
+          "translated_title": "Qwen/Qwen3-Coder-Next",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "deepgenteam/DeepGen-1.0",
           "link": "https://huggingface.co/deepgenteam/DeepGen-1.0",
           "date": "2026-02-22",
@@ -213,6 +226,19 @@
           "category": "AI Model"
         },
         {
+          "title": "TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF",
+          "link": "https://huggingface.co/TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF",
+          "date": "2026-02-22",
+          "source": "HuggingFace",
+          "description": "• 클로드 데이터 기반 고성능 모델 공개\n• 복잡한 추론 능력 강화해 개발 완료\n• 다양한 분야 활용 가능성 제시\n• 저렴한 비용으로 효율적 학습 진행",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• 클로드 데이터 기반 고성능 모델 공개\n• 복잡한 추론 능력 강화해 개발 완료\n• 다양한 분야 활용 가능성 제시\n• 저렴한 비용으로 효율적 학습 진행",
+          "translated_title": "TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Fortytwo-Network/Strand-Rust-Coder-14B-v1",
           "link": "https://huggingface.co/Fortytwo-Network/Strand-Rust-Coder-14B-v1",
           "date": "2026-02-22",
@@ -226,19 +252,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3-Coder-Next",
-          "link": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
-          "date": "2026-02-22",
-          "source": "HuggingFace",
-          "description": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
-          "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Coder-Next/benchmarks.png",
-          "is_english": true,
-          "summary": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
-          "translated_title": "Qwen/Qwen3-Coder-Next",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Zyphra/ZUNA",
           "link": "https://huggingface.co/Zyphra/ZUNA",
           "date": "2026-02-22",
@@ -248,19 +261,6 @@
           "is_english": true,
           "summary": "• Zyphra, 뇌파 기반 파운데이션 모델 ZUNA 공개\n• 200만 시간 데이터 학습으로 노이즈 제거 구현\n• 소비자 GPU에서도 가동 가능한 가벼운 모델\n• 기존 방식 대신 뛰어난 정확도 입증 및 업스케일링 지원",
           "translated_title": "Zyphra/ZUNA",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF",
-          "link": "https://huggingface.co/TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF",
-          "date": "2026-02-22",
-          "source": "HuggingFace",
-          "description": "• 클로드 데이터 기반 고성능 모델 공개\n• 복잡한 추론 능력 강화해 개발 완료\n• 다양한 분야 활용 가능성 제시\n• 저렴한 비용으로 효율적 학습 진행",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• 클로드 데이터 기반 고성능 모델 공개\n• 복잡한 추론 능력 강화해 개발 완료\n• 다양한 분야 활용 가능성 제시\n• 저렴한 비용으로 효율적 학습 진행",
-          "translated_title": "TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
