@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-02-22",
-      "update_time": "2026-02-21 21:14:17",
+      "update_time": "2026-02-22 01:12:50",
       "news": [
         {
           "title": "Qwen/Qwen3.5-397B-A17B",
@@ -44,19 +44,6 @@
           "category": "AI Model"
         },
         {
-          "title": "zai-org/GLM-5",
-          "link": "https://huggingface.co/zai-org/GLM-5",
-          "date": "2026-02-22",
-          "source": "HuggingFace",
-          "description": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
-          "translated_title": "zai-org/GLM-5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Nanbeige/Nanbeige4.1-3B",
           "link": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
           "date": "2026-02-22",
@@ -66,6 +53,19 @@
           "is_english": true,
           "summary": "• 소형 규모로도 강력한 추론 능력 구현\n• 대형 모델 뛰어넘는 선호 정렬 성과\n• 도구 호출 등 에이전트 기능 고도화\n• 복잡한 문제 해결 지원하는 신모델 공개",
           "translated_title": "Nanbeige/Nanbeige4.1-3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "zai-org/GLM-5",
+          "link": "https://huggingface.co/zai-org/GLM-5",
+          "date": "2026-02-22",
+          "source": "HuggingFace",
+          "description": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
+          "translated_title": "zai-org/GLM-5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -83,19 +83,6 @@
           "category": "AI Model"
         },
         {
-          "title": "FireRedTeam/FireRed-Image-Edit-1.0",
-          "link": "https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0",
-          "date": "2026-02-22",
-          "source": "HuggingFace",
-          "description": "• 파이어레드 이미지 에디트 모델 공개\n• 고해상도 이미지 편집 성능 제공\n• 텍스트 스타일 정밀 보존 지원\n• 오픈소스 최고 수준 편집 가능",
-          "image": "https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0/resolve/main/./assets/logo.png",
-          "is_english": true,
-          "summary": "• 파이어레드 이미지 에디트 모델 공개\n• 고해상도 이미지 편집 성능 제공\n• 텍스트 스타일 정밀 보존 지원\n• 오픈소스 최고 수준 편집 가능",
-          "translated_title": "FireRedTeam/FireRed-Image-Edit-1.0",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Qwen3.5-397B-A17B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.5-397B-A17B-GGUF",
           "date": "2026-02-22",
@@ -109,15 +96,15 @@
           "category": "AI Model"
         },
         {
-          "title": "nineninesix/kani-tts-2-en",
-          "link": "https://huggingface.co/nineninesix/kani-tts-2-en",
+          "title": "FireRedTeam/FireRed-Image-Edit-1.0",
+          "link": "https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0",
           "date": "2026-02-22",
           "source": "HuggingFace",
-          "description": "• 허깅페이스, 실시간 대형 언어 모델 TTS 공개\n• 영어 지원 4억 파라미터 경량 모델 탑재\n• LLM과 코덱 결합, 고품질 음성 생성 구현\n• 다양한 화자 억양 자연스럽게 재현 가능",
-          "image": "https://dcbadge.limes.pink/api/server/https://discord.gg/NzP3rjB4SB?style=flat",
+          "description": "• 파이어레드 이미지 에디트 모델 공개\n• 고해상도 이미지 편집 성능 제공\n• 텍스트 스타일 정밀 보존 지원\n• 오픈소스 최고 수준 편집 가능",
+          "image": "https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0/resolve/main/./assets/logo.png",
           "is_english": true,
-          "summary": "• 허깅페이스, 실시간 대형 언어 모델 TTS 공개\n• 영어 지원 4억 파라미터 경량 모델 탑재\n• LLM과 코덱 결합, 고품질 음성 생성 구현\n• 다양한 화자 억양 자연스럽게 재현 가능",
-          "translated_title": "nineninesix/kani-tts-2-en",
+          "summary": "• 파이어레드 이미지 에디트 모델 공개\n• 고해상도 이미지 편집 성능 제공\n• 텍스트 스타일 정밀 보존 지원\n• 오픈소스 최고 수준 편집 가능",
+          "translated_title": "FireRedTeam/FireRed-Image-Edit-1.0",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -161,6 +148,19 @@
           "category": "AI Model"
         },
         {
+          "title": "nineninesix/kani-tts-2-en",
+          "link": "https://huggingface.co/nineninesix/kani-tts-2-en",
+          "date": "2026-02-22",
+          "source": "HuggingFace",
+          "description": "• 허깅페이스, 실시간 대형 언어 모델 TTS 공개\n• 영어 지원 4억 파라미터 경량 모델 탑재\n• LLM과 코덱 결합, 고품질 음성 생성 구현\n• 다양한 화자 억양 자연스럽게 재현 가능",
+          "image": "https://dcbadge.limes.pink/api/server/https://discord.gg/NzP3rjB4SB?style=flat",
+          "is_english": true,
+          "summary": "• 허깅페이스, 실시간 대형 언어 모델 TTS 공개\n• 영어 지원 4억 파라미터 경량 모델 탑재\n• LLM과 코덱 결합, 고품질 음성 생성 구현\n• 다양한 화자 억양 자연스럽게 재현 가능",
+          "translated_title": "nineninesix/kani-tts-2-en",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "OpenMOSS-Team/MOSS-TTS",
           "link": "https://huggingface.co/OpenMOSS-Team/MOSS-TTS",
           "date": "2026-02-22",
@@ -187,6 +187,32 @@
           "category": "AI Model"
         },
         {
+          "title": "TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF",
+          "link": "https://huggingface.co/TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF",
+          "date": "2026-02-22",
+          "source": "HuggingFace",
+          "description": "• 클로드 데이터 기반 고성능 모델 공개\n• 복잡한 추론 능력 강화해 개발 완료\n• 다양한 분야 활용 가능성 제시\n• 저렴한 비용으로 효율적 학습 진행",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• 클로드 데이터 기반 고성능 모델 공개\n• 복잡한 추론 능력 강화해 개발 완료\n• 다양한 분야 활용 가능성 제시\n• 저렴한 비용으로 효율적 학습 진행",
+          "translated_title": "TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/NVIDIA-Nemotron-Nano-9B-v2-Japanese",
+          "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2-Japanese",
+          "date": "2026-02-22",
+          "source": "HuggingFace",
+          "description": "• 엔비디아, 일본어 최적화 9B 모델 공개\n• Mamba-2 기반 하이브리드 아키텍처 탑재\n• 추론 과정 visible 기능 지원\n• 도구 호출 등 다양한 작업 수행 가능",
+          "image": "https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2-Japanese/resolve/main/./accuracy.png",
+          "is_english": true,
+          "summary": "• 엔비디아, 일본어 최적화 9B 모델 공개\n• Mamba-2 기반 하이브리드 아키텍처 탑재\n• 추론 과정 visible 기능 지원\n• 도구 호출 등 다양한 작업 수행 가능",
+          "translated_title": "nvidia/NVIDIA-Nemotron-Nano-9B-v2-Japanese",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Qwen/Qwen3-Coder-Next",
           "link": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
           "date": "2026-02-22",
@@ -209,32 +235,6 @@
           "is_english": true,
           "summary": "• 경량화된 통합 멀티모달 모델 'DeepGen 1.0' 공개\n• 5B 파라미터로 이미지 생성과 편집 기능 통합 구현\n• 대형 모델 제치는 우수한 성능 벤치마크 입증\n• 거대 모델 의존 없이 고효율 생성 가능성 확인",
           "translated_title": "deepgenteam/DeepGen-1.0",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "nvidia/NVIDIA-Nemotron-Nano-9B-v2-Japanese",
-          "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2-Japanese",
-          "date": "2026-02-22",
-          "source": "HuggingFace",
-          "description": "• 엔비디아, 일본어 최적화 9B 모델 공개\n• Mamba-2 기반 하이브리드 아키텍처 탑재\n• 추론 과정 visible 기능 지원\n• 도구 호출 등 다양한 작업 수행 가능",
-          "image": "https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2-Japanese/resolve/main/./accuracy.png",
-          "is_english": true,
-          "summary": "• 엔비디아, 일본어 최적화 9B 모델 공개\n• Mamba-2 기반 하이브리드 아키텍처 탑재\n• 추론 과정 visible 기능 지원\n• 도구 호출 등 다양한 작업 수행 가능",
-          "translated_title": "nvidia/NVIDIA-Nemotron-Nano-9B-v2-Japanese",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF",
-          "link": "https://huggingface.co/TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF",
-          "date": "2026-02-22",
-          "source": "HuggingFace",
-          "description": "• 클로드 데이터 기반 고성능 모델 공개\n• 복잡한 추론 능력 강화해 개발 완료\n• 다양한 분야 활용 가능성 제시\n• 저렴한 비용으로 효율적 학습 진행",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• 클로드 데이터 기반 고성능 모델 공개\n• 복잡한 추론 능력 강화해 개발 완료\n• 다양한 분야 활용 가능성 제시\n• 저렴한 비용으로 효율적 학습 진행",
-          "translated_title": "TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +268,22 @@
     },
     {
       "date": "2026-02-21",
-      "update_time": "2026-02-21 18:21:24",
+      "update_time": "2026-02-22 01:12:50",
       "news": [
+        {
+          "title": "샘 알트먼, 인간도 많은 에너지를 쓴다는 점 상기시켜",
+          "link": "https://techcrunch.com/2026/02/21/sam-altman-would-like-remind-you-that-humans-use-a-lot-of-energy-too/",
+          "date": "2026-02-21",
+          "source": "TechCrunch",
+          "description": "\"It also takes a lot of energy to train a human.\"",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2198353376.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Sam Altman would like remind you that humans use a lot of energy, too",
+          "original_summary": "\"It also takes a lot of energy to train a human.\"",
+          "summary": "• 샘 알트먼이 인간의 에너지 소비 언급\n • 인간을 훈련시키는 데도 에너지 필요\n • AI 소비 문제에 대한 방어적 입장\n • 인간과 AI의 에너지 효율 비교 시사",
+          "translated_title": "샘 알트먼, 인간도 많은 에너지를 쓴다는 점 상기시켜",
+          "category_keyword": "에너지"
+        },
         {
           "title": "MS 신임 게임 CEO \"저품질 AI 콘텐츠로 생태계 범람 안 할 것\"",
           "link": "https://techcrunch.com/2026/02/21/microsofts-new-gaming-ceo-vows-not-to-flood-the-ecosystem-with-endless-ai-slop/",
