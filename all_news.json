@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-02-23",
-      "update_time": "2026-02-22 18:21:34",
+      "update_time": "2026-02-22 21:15:35",
       "news": [
         {
           "title": "Qwen/Qwen3.5-397B-A17B",
@@ -122,19 +122,6 @@
           "category": "AI Model"
         },
         {
-          "title": "moonshotai/Kimi-K2.5",
-          "link": "https://huggingface.co/moonshotai/Kimi-K2.5",
-          "date": "2026-02-23",
-          "source": "HuggingFace",
-          "description": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
-          "image": "https://huggingface.co/moonshotai/Kimi-K2.5/resolve/main/figures/kimi-logo.png",
-          "is_english": true,
-          "summary": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
-          "translated_title": "moonshotai/Kimi-K2.5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF",
           "link": "https://huggingface.co/TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF",
           "date": "2026-02-23",
@@ -144,6 +131,19 @@
           "is_english": true,
           "summary": "• 클로드 데이터 기반 고성능 모델 공개\n• 복잡한 추론 능력 강화해 개발 완료\n• 다양한 분야 활용 가능성 제시\n• 저렴한 비용으로 효율적 학습 진행",
           "translated_title": "TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "moonshotai/Kimi-K2.5",
+          "link": "https://huggingface.co/moonshotai/Kimi-K2.5",
+          "date": "2026-02-23",
+          "source": "HuggingFace",
+          "description": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
+          "image": "https://huggingface.co/moonshotai/Kimi-K2.5/resolve/main/figures/kimi-logo.png",
+          "is_english": true,
+          "summary": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
+          "translated_title": "moonshotai/Kimi-K2.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -226,19 +226,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/MiniMax-M2.5-GGUF",
-          "link": "https://huggingface.co/unsloth/MiniMax-M2.5-GGUF",
-          "date": "2026-02-23",
-          "source": "HuggingFace",
-          "description": "• 언스로스, 미니맥스 M2.5 모델 공개\n• 로컬 환경에서 실행 가이드 제공\n• 다이나믹 2.0 기술로 정확도 강화\n• 타사 양자화 모델 성능 능가",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
-          "is_english": true,
-          "summary": "• 언스로스, 미니맥스 M2.5 모델 공개\n• 로컬 환경에서 실행 가이드 제공\n• 다이나믹 2.0 기술로 정확도 강화\n• 타사 양자화 모델 성능 능가",
-          "translated_title": "unsloth/MiniMax-M2.5-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "inclusionAI/Ling-2.5-1T",
           "link": "https://huggingface.co/inclusionAI/Ling-2.5-1T",
           "date": "2026-02-23",
@@ -252,15 +239,28 @@
           "category": "AI Model"
         },
         {
-          "title": "jdopensource/JoyAI-LLM-Flash",
-          "link": "https://huggingface.co/jdopensource/JoyAI-LLM-Flash",
+          "title": "unsloth/MiniMax-M2.5-GGUF",
+          "link": "https://huggingface.co/unsloth/MiniMax-M2.5-GGUF",
           "date": "2026-02-23",
           "source": "HuggingFace",
-          "description": "• JD, 3B 파라미터 모델 공개\n• Muon 최적화 기법으로 학습\n• 파이버 번들 RL 적용해 성능 개선\n• 툴 활용 및 자율 문제 해결 지원",
-          "image": "https://huggingface.co/jdopensource/JoyAI-LLM-Flash/resolve/main/figures/joyai-logo.png",
+          "description": "• 언스로스, 미니맥스 M2.5 모델 공개\n• 로컬 환경에서 실행 가이드 제공\n• 다이나믹 2.0 기술로 정확도 강화\n• 타사 양자화 모델 성능 능가",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
           "is_english": true,
-          "summary": "• JD, 3B 파라미터 모델 공개\n• Muon 최적화 기법으로 학습\n• 파이버 번들 RL 적용해 성능 개선\n• 툴 활용 및 자율 문제 해결 지원",
-          "translated_title": "jdopensource/JoyAI-LLM-Flash",
+          "summary": "• 언스로스, 미니맥스 M2.5 모델 공개\n• 로컬 환경에서 실행 가이드 제공\n• 다이나믹 2.0 기술로 정확도 강화\n• 타사 양자화 모델 성능 능가",
+          "translated_title": "unsloth/MiniMax-M2.5-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "deepgenteam/DeepGen-1.0",
+          "link": "https://huggingface.co/deepgenteam/DeepGen-1.0",
+          "date": "2026-02-23",
+          "source": "HuggingFace",
+          "description": "• 경량화된 통합 멀티모달 모델 'DeepGen 1.0' 공개\n• 5B 파라미터로 이미지 생성과 편집 기능 통합 구현\n• 대형 모델 제치는 우수한 성능 벤치마크 입증\n• 거대 모델 의존 없이 고효율 생성 가능성 확인",
+          "image": "https://img.shields.io/badge/DeepGen 1.0-Paper-red?logo=arxiv&logoColor=red",
+          "is_english": true,
+          "summary": "• 경량화된 통합 멀티모달 모델 'DeepGen 1.0' 공개\n• 5B 파라미터로 이미지 생성과 편집 기능 통합 구현\n• 대형 모델 제치는 우수한 성능 벤치마크 입증\n• 거대 모델 의존 없이 고효율 생성 가능성 확인",
+          "translated_title": "deepgenteam/DeepGen-1.0",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -268,8 +268,22 @@
     },
     {
       "date": "2026-02-22",
-      "update_time": "2026-02-22 15:16:35",
+      "update_time": "2026-02-22 21:15:35",
       "news": [
+        {
+          "title": "GIST, 2025학년도 학위수여식 개최...AI 전환기 이끌 졸업생 308명 배출",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207051",
+          "date": "2026-02-22",
+          "source": "AI타임스",
+          "description": "광주과학기술원(GIST, 총장 임기철)은 20일 오후 2시 오룡관 대강당에서 2025학년도 학위수여식을 개최했다고 밝혔다.이날 박사 70명을 비롯해 석사 130명, 학사 108명 등 총 308명이 학위를 받았다. 이로써 GIST는 1993년 설립 이래 박사 2165명, 석사 5401명, 학사 1600명 등 총 9166명의 과학기술 핵심 인재를 배출했다.학위수여식에서는 과학기술정보통신부 박인규 과학기술혁신본부장, GIST 김우승 이사장, 뉴로핏 김동현 공동대표이사(CEO) 겸 최고기술책임자(CTO)가 단상에 올라 졸업생들을 축하하고",
+          "image": "https://cdn.aitimes.com/news/photo/202602/207051_209115_2747.png",
+          "is_english": true,
+          "original_title": "GIST, 2025학년도 학위수여식 개최...AI 전환기 이끌 졸업생 308명 배출",
+          "original_summary": "광주과학기술원(GIST, 총장 임기철)은 20일 오후 2시 오룡관 대강당에서 2025학년도 학위수여식을 개최했다고 밝혔다.이날 박사 70명을 비롯해 석사 130명, 학사 108명 등 총 308명이 학위를 받았다. 이로써 GIST는 1993년 설립 이래 박사 2165명, 석사 5401명, 학사 1600명 등 총 9166명의 과학기술 핵심 인재를 배출했다.학위수여식에서는 과학기술정보통신부 박인규 과학기술혁신본부장, GIST 김우승 이사장, 뉴로핏 김동현 공동대표이사(CEO) 겸 최고기술책임자(CTO)가 단상에 올라 졸업생들을 축하하고",
+          "summary": "• GIST, 2025학년도 학위수여식 개최\n• 박사 70명 등 308명 졸업 배출\n• 누적 과학기술 인재 9166명 달성\n• 행사서 기관장 및 기업 CEO 축사",
+          "translated_title": "GIST, 2025학년도 학위수여식 개최...AI 전환기 이끌 졸업생 308명 배출",
+          "category_keyword": "GIST 졸업식"
+        },
         {
           "title": "테크크런치 디스럽트 2026 최저가 확보, 6일 남았습니다",
           "link": "https://techcrunch.com/2026/02/22/6-days-left-to-lock-in-the-lowest-techcrunch-disrupt-2026-rates/",
@@ -2680,7 +2694,7 @@
         {
           "title": "deepgenteam/DeepGen-1.0",
           "link": "https://huggingface.co/deepgenteam/DeepGen-1.0",
-          "date": "2026-02-22",
+          "date": "2026-02-23",
           "source": "HuggingFace",
           "description": "• 경량화된 통합 멀티모달 모델 'DeepGen 1.0' 공개\n• 5B 파라미터로 이미지 생성과 편집 기능 통합 구현\n• 대형 모델 제치는 우수한 성능 벤치마크 입증\n• 거대 모델 의존 없이 고효율 생성 가능성 확인",
           "image": "https://img.shields.io/badge/DeepGen 1.0-Paper-red?logo=arxiv&logoColor=red",
