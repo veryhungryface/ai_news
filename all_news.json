@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-02-23",
-      "update_time": "2026-02-22 15:16:39",
+      "update_time": "2026-02-22 18:21:34",
       "news": [
         {
           "title": "Qwen/Qwen3.5-397B-A17B",
@@ -174,19 +174,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/NVIDIA-Nemotron-Nano-9B-v2-Japanese",
-          "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2-Japanese",
-          "date": "2026-02-23",
-          "source": "HuggingFace",
-          "description": "• 엔비디아, 일본어 최적화 9B 모델 공개\n• Mamba-2 기반 하이브리드 아키텍처 탑재\n• 추론 과정 visible 기능 지원\n• 도구 호출 등 다양한 작업 수행 가능",
-          "image": "https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2-Japanese/resolve/main/./accuracy.png",
-          "is_english": true,
-          "summary": "• 엔비디아, 일본어 최적화 9B 모델 공개\n• Mamba-2 기반 하이브리드 아키텍처 탑재\n• 추론 과정 visible 기능 지원\n• 도구 호출 등 다양한 작업 수행 가능",
-          "translated_title": "nvidia/NVIDIA-Nemotron-Nano-9B-v2-Japanese",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Fortytwo-Network/Strand-Rust-Coder-14B-v1",
           "link": "https://huggingface.co/Fortytwo-Network/Strand-Rust-Coder-14B-v1",
           "date": "2026-02-23",
@@ -200,15 +187,15 @@
           "category": "AI Model"
         },
         {
-          "title": "jdopensource/JoyAI-LLM-Flash",
-          "link": "https://huggingface.co/jdopensource/JoyAI-LLM-Flash",
+          "title": "nvidia/NVIDIA-Nemotron-Nano-9B-v2-Japanese",
+          "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2-Japanese",
           "date": "2026-02-23",
           "source": "HuggingFace",
-          "description": "• JD, 3B 파라미터 모델 공개\n• Muon 최적화 기법으로 학습\n• 파이버 번들 RL 적용해 성능 개선\n• 툴 활용 및 자율 문제 해결 지원",
-          "image": "https://huggingface.co/jdopensource/JoyAI-LLM-Flash/resolve/main/figures/joyai-logo.png",
+          "description": "• 엔비디아, 일본어 최적화 9B 모델 공개\n• Mamba-2 기반 하이브리드 아키텍처 탑재\n• 추론 과정 visible 기능 지원\n• 도구 호출 등 다양한 작업 수행 가능",
+          "image": "https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2-Japanese/resolve/main/./accuracy.png",
           "is_english": true,
-          "summary": "• JD, 3B 파라미터 모델 공개\n• Muon 최적화 기법으로 학습\n• 파이버 번들 RL 적용해 성능 개선\n• 툴 활용 및 자율 문제 해결 지원",
-          "translated_title": "jdopensource/JoyAI-LLM-Flash",
+          "summary": "• 엔비디아, 일본어 최적화 9B 모델 공개\n• Mamba-2 기반 하이브리드 아키텍처 탑재\n• 추론 과정 visible 기능 지원\n• 도구 호출 등 다양한 작업 수행 가능",
+          "translated_title": "nvidia/NVIDIA-Nemotron-Nano-9B-v2-Japanese",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -261,6 +248,19 @@
           "is_english": true,
           "summary": "• 1조 파라미터 언어모델 링 공개\n• 최대 100만 토큰 컨텍스트 지원\n• 빠른 추론과 높은 성능 겸비\n• 누구나 접근 가능한 AI 실현",
           "translated_title": "inclusionAI/Ling-2.5-1T",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "jdopensource/JoyAI-LLM-Flash",
+          "link": "https://huggingface.co/jdopensource/JoyAI-LLM-Flash",
+          "date": "2026-02-23",
+          "source": "HuggingFace",
+          "description": "• JD, 3B 파라미터 모델 공개\n• Muon 최적화 기법으로 학습\n• 파이버 번들 RL 적용해 성능 개선\n• 툴 활용 및 자율 문제 해결 지원",
+          "image": "https://huggingface.co/jdopensource/JoyAI-LLM-Flash/resolve/main/figures/joyai-logo.png",
+          "is_english": true,
+          "summary": "• JD, 3B 파라미터 모델 공개\n• Muon 최적화 기법으로 학습\n• 파이버 번들 RL 적용해 성능 개선\n• 툴 활용 및 자율 문제 해결 지원",
+          "translated_title": "jdopensource/JoyAI-LLM-Flash",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -6475,7 +6475,7 @@
         {
           "title": "zai-org/GLM-5",
           "link": "https://huggingface.co/zai-org/GLM-5",
-          "date": "2026-02-14",
+          "date": "2026-02-23",
           "source": "HuggingFace",
           "description": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -6514,7 +6514,7 @@
         {
           "title": "moonshotai/Kimi-K2.5",
           "link": "https://huggingface.co/moonshotai/Kimi-K2.5",
-          "date": "2026-02-14",
+          "date": "2026-02-23",
           "source": "HuggingFace",
           "description": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
           "image": "https://huggingface.co/moonshotai/Kimi-K2.5/resolve/main/figures/kimi-logo.png",
@@ -6527,7 +6527,7 @@
         {
           "title": "Qwen/Qwen3-Coder-Next",
           "link": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
-          "date": "2026-02-14",
+          "date": "2026-02-23",
           "source": "HuggingFace",
           "description": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
           "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Coder-Next/benchmarks.png",
@@ -6553,7 +6553,7 @@
         {
           "title": "Nanbeige/Nanbeige4.1-3B",
           "link": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
-          "date": "2026-02-14",
+          "date": "2026-02-23",
           "source": "HuggingFace",
           "description": "• 소형 규모로도 강력한 추론 능력 구현\n• 대형 모델 뛰어넘는 선호 정렬 성과\n• 도구 호출 등 에이전트 기능 고도화\n• 복잡한 문제 해결 지원하는 신모델 공개",
           "image": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B/resolve/main/figures/nbg.png",
@@ -6618,7 +6618,7 @@
         {
           "title": "OpenMOSS-Team/MOSS-TTS",
           "link": "https://huggingface.co/OpenMOSS-Team/MOSS-TTS",
-          "date": "2026-02-14",
+          "date": "2026-02-23",
           "source": "HuggingFace",
           "description": "• 고성능 오픈소스 음성 생성 모델 공개\n• 다국어 지원 및 높은 표현력 구현\n• 대화 및 효과음 등 복합 상황 대응\n• 실시간 스트리밍 TTS 기능 제공",
           "image": "https://speech-demo.oss-cn-shanghai.aliyuncs.com/moss_tts_demo/tts_readme_imgaes_demo/openmoss_x_mosi",
