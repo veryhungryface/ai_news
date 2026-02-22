@@ -2,8 +2,22 @@
   "dates": [
     {
       "date": "2026-02-22",
-      "update_time": "2026-02-22 04:44:21",
+      "update_time": "2026-02-22 06:35:31",
       "news": [
+        {
+          "title": "무라티의 싱킹 머신스 랩, 또 인재 이탈...오픈AI 복귀 이어져",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207043",
+          "date": "2026-02-22",
+          "source": "AI타임스",
+          "description": "싱킹 머신스 랩(TML)의 핵심 인재 이탈이 이어지고 있다. 최근 또 한명의 직원이 회사를 떠나 오픈AI로 복귀한 것으로 확인됐다.20일(현지시간) 비즈니스 인사이더에 따르면, 지난해 4월 TML에 합류한 졸린 패리시가 최근 링크드인 프로필을 통해 오픈AI로 복귀했다고 밝혔다.그는 3년간 오픈AI에서 근무했으며, 그전에는 애플에서 10년간 보안 분야 업무를 맡았던 경력을 보유하고 있다.이번 복귀는 최근 몇달간 이어진 연쇄 이탈 흐름의 연장선이다. 지난달에는 공동 창립자이자 CTO였던 배럿 조프와 공동 창립자 루크 메츠, 연구원 샘",
+          "image": "https://cdn.aitimes.com/news/photo/202602/207043_209104_2738.jpg",
+          "is_english": false,
+          "original_title": "무라티의 싱킹 머신스 랩, 또 인재 이탈...오픈AI 복귀 이어져",
+          "original_summary": "싱킹 머신스 랩(TML)의 핵심 인재 이탈이 이어지고 있다. 최근 또 한명의 직원이 회사를 떠나 오픈AI로 복귀한 것으로 확인됐다.20일(현지시간) 비즈니스 인사이더에 따르면, 지난해 4월 TML에 합류한 졸린 패리시가 최근 링크드인 프로필을 통해 오픈AI로 복귀했다고 밝혔다.그는 3년간 오픈AI에서 근무했으며, 그전에는 애플에서 10년간 보안 분야 업무를 맡았던 경력을 보유하고 있다.이번 복귀는 최근 몇달간 이어진 연쇄 이탈 흐름의 연장선이다. 지난달에는 공동 창립자이자 CTO였던 배럿 조프와 공동 창립자 루크 메츠, 연구원 샘",
+          "summary": "• TML 핵심 인재의 연쇄 이탈\n • 졸린 패리시, 오픈AI로 복귀\n • 애플·오픈AI 경력 보유\n • 최근 몇 달간 잇단 퇴사",
+          "translated_title": "무라티의 싱킹 머신스 랩, 또 인재 이탈...오픈AI 복귀 이어져",
+          "category_keyword": "싱킹머신스"
+        },
         {
           "title": "포모사바이오 회장 \"큰 사랑엔 국경 없어…KAIST와 난치병 협력\"",
           "link": "https://www.yna.co.kr/view/AKR20260220110400017",
@@ -156,19 +170,6 @@
           "category": "AI Model"
         },
         {
-          "title": "zai-org/GLM-5",
-          "link": "https://huggingface.co/zai-org/GLM-5",
-          "date": "2026-02-22",
-          "source": "HuggingFace",
-          "description": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
-          "translated_title": "zai-org/GLM-5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "MiniMaxAI/MiniMax-M2.5",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-M2.5",
           "date": "2026-02-22",
@@ -178,6 +179,19 @@
           "is_english": true,
           "summary": "• MiniMaxAI, 신규 언어 모델 공개\n• 문장 생성 최적화 파이프라인 탑재\n• 트랜스포머 라이브러리 기반 구현\n• 수정된 MIT 라이선스 적용",
           "translated_title": "MiniMaxAI/MiniMax-M2.5",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "zai-org/GLM-5",
+          "link": "https://huggingface.co/zai-org/GLM-5",
+          "date": "2026-02-22",
+          "source": "HuggingFace",
+          "description": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
+          "translated_title": "zai-org/GLM-5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -312,6 +326,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Qwen/Qwen3-Coder-Next",
+          "link": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
+          "date": "2026-02-22",
+          "source": "HuggingFace",
+          "description": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
+          "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Coder-Next/benchmarks.png",
+          "is_english": true,
+          "summary": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
+          "translated_title": "Qwen/Qwen3-Coder-Next",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "nvidia/NVIDIA-Nemotron-Nano-9B-v2-Japanese",
           "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-Nano-9B-v2-Japanese",
           "date": "2026-02-22",
@@ -338,15 +365,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3-Coder-Next",
-          "link": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
+          "title": "Zyphra/ZUNA",
+          "link": "https://huggingface.co/Zyphra/ZUNA",
           "date": "2026-02-22",
           "source": "HuggingFace",
-          "description": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
-          "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Coder-Next/benchmarks.png",
+          "description": "• Zyphra, 뇌파 기반 파운데이션 모델 ZUNA 공개\n• 200만 시간 데이터 학습으로 노이즈 제거 구현\n• 소비자 GPU에서도 가동 가능한 가벼운 모델\n• 기존 방식 대신 뛰어난 정확도 입증 및 업스케일링 지원",
+          "image": "https://img.shields.io/badge/GitHub-Zyphra%2Fzuna-blue?logo=github",
           "is_english": true,
-          "summary": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
-          "translated_title": "Qwen/Qwen3-Coder-Next",
+          "summary": "• Zyphra, 뇌파 기반 파운데이션 모델 ZUNA 공개\n• 200만 시간 데이터 학습으로 노이즈 제거 구현\n• 소비자 GPU에서도 가동 가능한 가벼운 모델\n• 기존 방식 대신 뛰어난 정확도 입증 및 업스케일링 지원",
+          "translated_title": "Zyphra/ZUNA",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -360,19 +387,6 @@
           "is_english": true,
           "summary": "• 경량화된 통합 멀티모달 모델 'DeepGen 1.0' 공개\n• 5B 파라미터로 이미지 생성과 편집 기능 통합 구현\n• 대형 모델 제치는 우수한 성능 벤치마크 입증\n• 거대 모델 의존 없이 고효율 생성 가능성 확인",
           "translated_title": "deepgenteam/DeepGen-1.0",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "Zyphra/ZUNA",
-          "link": "https://huggingface.co/Zyphra/ZUNA",
-          "date": "2026-02-22",
-          "source": "HuggingFace",
-          "description": "• Zyphra, 뇌파 기반 파운데이션 모델 ZUNA 공개\n• 200만 시간 데이터 학습으로 노이즈 제거 구현\n• 소비자 GPU에서도 가동 가능한 가벼운 모델\n• 기존 방식 대신 뛰어난 정확도 입증 및 업스케일링 지원",
-          "image": "https://img.shields.io/badge/GitHub-Zyphra%2Fzuna-blue?logo=github",
-          "is_english": true,
-          "summary": "• Zyphra, 뇌파 기반 파운데이션 모델 ZUNA 공개\n• 200만 시간 데이터 학습으로 노이즈 제거 구현\n• 소비자 GPU에서도 가동 가능한 가벼운 모델\n• 기존 방식 대신 뛰어난 정확도 입증 및 업스케일링 지원",
-          "translated_title": "Zyphra/ZUNA",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
