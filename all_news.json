@@ -2,8 +2,22 @@
   "dates": [
     {
       "date": "2026-02-24",
-      "update_time": "2026-02-23 15:38:03",
+      "update_time": "2026-02-23 18:49:25",
       "news": [
+        {
+          "title": "OpenAI, EVMbench로 스테이블코인 시장 진입",
+          "link": "https://aibusiness.com/agentic-ai/openai-aims-for-stablecoin-market",
+          "date": "2026-02-24",
+          "source": "AI Business",
+          "description": "The new benchmark highlights the growth of the stablecoin market and presents an opportunity for the AI vendor to increase revenue.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt0f993406f0fdb48b/699c7512bc8ce20008263991/Blockchain.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "OpenAI Aims for Stablecoin Market with New EVMbench",
+          "original_summary": "The new benchmark highlights the growth of the stablecoin market and presents an opportunity for the AI vendor to increase revenue.",
+          "summary": "• EVMbench 새 벤치마크 출시\n• 스테이블코인 시장 공략\n• 새로운 수익 기회 창출\n• AI 사업 다각화",
+          "translated_title": "OpenAI, EVMbench로 스테이블코인 시장 진입",
+          "category_keyword": "스테이블코인"
+        },
         {
           "title": "Qwen/Qwen3.5-397B-A17B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-397B-A17B",
@@ -109,19 +123,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.5-397B-A17B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.5-397B-A17B-GGUF",
-          "date": "2026-02-24",
-          "source": "HuggingFace",
-          "description": "• Unsloth, 거대 Qwen3.5 모델 최적화 버전 공개\n• 로컬 환경에서 고품질 추론 성능 지원\n• 동적 양자화 기술로 정확도와 속도 개선\n• 주요 AI 프레임워크와 호환성 확보",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Unsloth, 거대 Qwen3.5 모델 최적화 버전 공개\n• 로컬 환경에서 고품질 추론 성능 지원\n• 동적 양자화 기술로 정확도와 속도 개선\n• 주요 AI 프레임워크와 호환성 확보",
-          "translated_title": "unsloth/Qwen3.5-397B-A17B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "FireRedTeam/FireRed-Image-Edit-1.0",
           "link": "https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0",
           "date": "2026-02-24",
@@ -148,6 +149,19 @@
           "category": "AI Model"
         },
         {
+          "title": "unsloth/Qwen3.5-397B-A17B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.5-397B-A17B-GGUF",
+          "date": "2026-02-24",
+          "source": "HuggingFace",
+          "description": "• Unsloth, 거대 Qwen3.5 모델 최적화 버전 공개\n• 로컬 환경에서 고품질 추론 성능 지원\n• 동적 양자화 기술로 정확도와 속도 개선\n• 주요 AI 프레임워크와 호환성 확보",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• Unsloth, 거대 Qwen3.5 모델 최적화 버전 공개\n• 로컬 환경에서 고품질 추론 성능 지원\n• 동적 양자화 기술로 정확도와 속도 개선\n• 주요 AI 프레임워크와 호환성 확보",
+          "translated_title": "unsloth/Qwen3.5-397B-A17B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Fortytwo-Network/Strand-Rust-Coder-14B-v1",
           "link": "https://huggingface.co/Fortytwo-Network/Strand-Rust-Coder-14B-v1",
           "date": "2026-02-24",
@@ -161,19 +175,6 @@
           "category": "AI Model"
         },
         {
-          "title": "OpenMOSS-Team/MOSS-TTS",
-          "link": "https://huggingface.co/OpenMOSS-Team/MOSS-TTS",
-          "date": "2026-02-24",
-          "source": "HuggingFace",
-          "description": "• 고성능 오픈소스 음성 생성 모델 공개\n• 다국어 지원 및 높은 표현력 구현\n• 대화 및 효과음 등 복합 상황 대응\n• 실시간 스트리밍 TTS 기능 제공",
-          "image": "https://speech-demo.oss-cn-shanghai.aliyuncs.com/moss_tts_demo/tts_readme_imgaes_demo/openmoss_x_mosi",
-          "is_english": true,
-          "summary": "• 고성능 오픈소스 음성 생성 모델 공개\n• 다국어 지원 및 높은 표현력 구현\n• 대화 및 효과음 등 복합 상황 대응\n• 실시간 스트리밍 TTS 기능 제공",
-          "translated_title": "OpenMOSS-Team/MOSS-TTS",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Zyphra/ZUNA",
           "link": "https://huggingface.co/Zyphra/ZUNA",
           "date": "2026-02-24",
@@ -183,6 +184,19 @@
           "is_english": true,
           "summary": "• Zyphra, 뇌파 기반 파운데이션 모델 ZUNA 공개\n• 200만 시간 데이터 학습으로 노이즈 제거 구현\n• 소비자 GPU에서도 가동 가능한 가벼운 모델\n• 기존 방식 대신 뛰어난 정확도 입증 및 업스케일링 지원",
           "translated_title": "Zyphra/ZUNA",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "OpenMOSS-Team/MOSS-TTS",
+          "link": "https://huggingface.co/OpenMOSS-Team/MOSS-TTS",
+          "date": "2026-02-24",
+          "source": "HuggingFace",
+          "description": "• 고성능 오픈소스 음성 생성 모델 공개\n• 다국어 지원 및 높은 표현력 구현\n• 대화 및 효과음 등 복합 상황 대응\n• 실시간 스트리밍 TTS 기능 제공",
+          "image": "https://speech-demo.oss-cn-shanghai.aliyuncs.com/moss_tts_demo/tts_readme_imgaes_demo/openmoss_x_mosi",
+          "is_english": true,
+          "summary": "• 고성능 오픈소스 음성 생성 모델 공개\n• 다국어 지원 및 높은 표현력 구현\n• 대화 및 효과음 등 복합 상황 대응\n• 실시간 스트리밍 TTS 기능 제공",
+          "translated_title": "OpenMOSS-Team/MOSS-TTS",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +282,78 @@
     },
     {
       "date": "2026-02-23",
-      "update_time": "2026-02-23 15:38:03",
+      "update_time": "2026-02-23 18:49:25",
       "news": [
+        {
+          "title": "더 이상 SWE-bench Verified를 평가하지 않는 이유",
+          "link": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
+          "date": "2026-02-23",
+          "source": "OpenAI",
+          "description": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Why we no longer evaluate SWE-bench Verified",
+          "original_summary": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.",
+          "summary": "• SWE-bench Verified 오염 심각\n• 프론티어 코딩 진도 왜곡\n• 결함 있는 테스트 분석\n• SWE-bench Pro 추천",
+          "translated_title": "더 이상 SWE-bench Verified를 평가하지 않는 이유",
+          "category_keyword": "SWE-bench"
+        },
+        {
+          "title": "OpenAI, 기업 확장을 위해 컨설팅 협력",
+          "link": "https://techcrunch.com/2026/02/23/openai-calls-in-the-consultants-for-its-enterprise-push/",
+          "date": "2026-02-23",
+          "source": "TechCrunch",
+          "description": "OpenAI is partnering with four consulting giants in an effort to see more adoption of its OpenAI Frontier AI agent platform. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2206295463.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "OpenAI calls in the consultants for its enterprise push",
+          "original_summary": "OpenAI is partnering with four consulting giants in an effort to see more adoption of its OpenAI Frontier AI agent platform. ",
+          "summary": "• 컨설팅 4곳과 파트너십\n• OpenAI 플랫폼 도입 목표\n• 기업용 에이전트 확대\n• 전략적 협력 강화",
+          "translated_title": "OpenAI, 기업 확장을 위해 컨설팅 협력",
+          "category_keyword": "기업 확장"
+        },
+        {
+          "title": "Guide Labs, 해석 가능한 신규 LLM 공개",
+          "link": "https://techcrunch.com/2026/02/23/guide-labs-debuts-a-new-kind-of-interpretable-llm/",
+          "date": "2026-02-23",
+          "source": "TechCrunch",
+          "description": "The company open-sourced an 8 billion parameter LLM, Steerling-8B, trained with a new architecture designed to make its actions easily interpretable.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/Screenshot-2026-02-23-at-9.31.05-AM.png?resize=1200,639",
+          "is_english": true,
+          "original_title": "Guide Labs debuts a new kind of interpretable LLM",
+          "original_summary": "The company open-sourced an 8 billion parameter LLM, Steerling-8B, trained with a new architecture designed to make its actions easily interpretable.",
+          "summary": "• 80억 파라미터 모델 공개\n• 새로운 아키텍처 적용\n• 행동 해석 용이 설계\n• 오픈소스로 제공",
+          "translated_title": "Guide Labs, 해석 가능한 신규 LLM 공개",
+          "category_keyword": "해석 가능"
+        },
+        {
+          "title": "파티클 AI, 팟캐스트 하이라이트 추출 기능 지원",
+          "link": "https://techcrunch.com/2026/02/23/particles-ai-news-app-listens-to-podcasts-for-interesting-clips-so-you-you-dont-have-to/",
+          "date": "2026-02-23",
+          "source": "TechCrunch",
+          "description": "AI news app Particle can now pull in key moments from podcasts, letting readers instantly play short, relevant clips alongside related stories.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/share_6305813549552173171.png?resize=540,1200",
+          "is_english": true,
+          "original_title": "Particle’s AI news app listens to podcasts for interesting clips so you you don’t have to",
+          "original_summary": "AI news app Particle can now pull in key moments from podcasts, letting readers instantly play short, relevant clips alongside related stories.",
+          "summary": "• 팟캐스트 하이라이트 추출\n• 관련 기사와 함께 제공\n• 흥미로운 순간 자동 감지\n• 청취 시간 효율화",
+          "translated_title": "파티클 AI, 팟캐스트 하이라이트 추출 기능 지원",
+          "category_keyword": "팟캐스트"
+        },
+        {
+          "title": "스포티파이, AI 프롬프트 플레이리스트 확대",
+          "link": "https://techcrunch.com/2026/02/23/spotify-ai-prompted-playlists-uk-markets/",
+          "date": "2026-02-23",
+          "source": "TechCrunch",
+          "description": "Spotify continues to test its AI-powered “Prompted Playlists” feature, now rolling out the tool to Premium subscribers in the U.K., Ireland, Australia, and Sweden.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/Prompted-Playlist-Header-UK-.jpg?w=1200",
+          "is_english": true,
+          "original_title": "Spotify rolls out AI-powered  Prompted Playlists to the U.K. and other markets",
+          "original_summary": "Spotify continues to test its AI-powered “Prompted Playlists” feature, now rolling out the tool to Premium subscribers in the U.K., Ireland, Australia, and Sweden.",
+          "summary": "• AI 기반 플레이리스트 출시\n• 영국 등 4개국 시범 운영\n• 프리미엄 구독자 대상\n• 음악 추천 고도화",
+          "translated_title": "스포티파이, AI 프롬프트 플레이리스트 확대",
+          "category_keyword": "플레이리스트"
+        },
         {
           "title": "OpenAI, '프론티어 얼라이언스' 파트너 발표",
           "link": "https://openai.com/index/frontier-alliance-partners",
@@ -7301,7 +7385,7 @@
         {
           "title": "zai-org/GLM-5",
           "link": "https://huggingface.co/zai-org/GLM-5",
-          "date": "2026-02-15",
+          "date": "2026-02-24",
           "source": "HuggingFace",
           "description": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -7314,7 +7398,7 @@
         {
           "title": "MiniMaxAI/MiniMax-M2.5",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-M2.5",
-          "date": "2026-02-15",
+          "date": "2026-02-24",
           "source": "HuggingFace",
           "description": "• MiniMaxAI, 신규 언어 모델 공개\n• 문장 생성 최적화 파이프라인 탑재\n• 트랜스포머 라이브러리 기반 구현\n• 수정된 MIT 라이선스 적용",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
@@ -7340,7 +7424,7 @@
         {
           "title": "moonshotai/Kimi-K2.5",
           "link": "https://huggingface.co/moonshotai/Kimi-K2.5",
-          "date": "2026-02-15",
+          "date": "2026-02-24",
           "source": "HuggingFace",
           "description": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
           "image": "https://huggingface.co/moonshotai/Kimi-K2.5/resolve/main/figures/kimi-logo.png",
@@ -7353,7 +7437,7 @@
         {
           "title": "Nanbeige/Nanbeige4.1-3B",
           "link": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
-          "date": "2026-02-15",
+          "date": "2026-02-24",
           "source": "HuggingFace",
           "description": "• 소형 규모로도 강력한 추론 능력 구현\n• 대형 모델 뛰어넘는 선호 정렬 성과\n• 도구 호출 등 에이전트 기능 고도화\n• 복잡한 문제 해결 지원하는 신모델 공개",
           "image": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B/resolve/main/figures/nbg.png",
@@ -7392,7 +7476,7 @@
         {
           "title": "Qwen/Qwen3-Coder-Next",
           "link": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
-          "date": "2026-02-15",
+          "date": "2026-02-24",
           "source": "HuggingFace",
           "description": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
           "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Coder-Next/benchmarks.png",
@@ -7431,7 +7515,7 @@
         {
           "title": "OpenMOSS-Team/MOSS-TTS",
           "link": "https://huggingface.co/OpenMOSS-Team/MOSS-TTS",
-          "date": "2026-02-15",
+          "date": "2026-02-24",
           "source": "HuggingFace",
           "description": "• 고성능 오픈소스 음성 생성 모델 공개\n• 다국어 지원 및 높은 표현력 구현\n• 대화 및 효과음 등 복합 상황 대응\n• 실시간 스트리밍 TTS 기능 제공",
           "image": "https://speech-demo.oss-cn-shanghai.aliyuncs.com/moss_tts_demo/tts_readme_imgaes_demo/openmoss_x_mosi",
