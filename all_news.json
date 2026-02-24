@@ -2,8 +2,36 @@
   "dates": [
     {
       "date": "2026-02-25",
-      "update_time": "2026-02-24 15:46:29",
+      "update_time": "2026-02-24 18:47:16",
       "news": [
+        {
+          "title": "아마존, 루이지애나주 데이터 센터에 투자",
+          "link": "https://aibusiness.com/generative-ai/amazon-to-invest-in-louisiana-data-centers",
+          "date": "2026-02-25",
+          "source": "AI Business",
+          "description": "The project marks the vendor's first large-scale data center footprint in the state.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltadb3c063af3fe88e/699de6605f1e55000895c8f8/Amazon_logo.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Amazon to Invest in Louisiana Data Centers",
+          "original_summary": "The project marks the vendor's first large-scale data center footprint in the state.",
+          "summary": "• 아마존, 루이지애나주에 투자 계획\n• 해당 주 최초의 대규모 프로젝트\n• 아마존의 첫 대형 데이터 센터 진출\n• 지역 내 인프라 확장 의미",
+          "translated_title": "아마존, 루이지애나주 데이터 센터에 투자",
+          "category_keyword": "데이터 센터"
+        },
+        {
+          "title": "앤스로픽 vs 중국 업체: 증류 기법의 문제점",
+          "link": "https://aibusiness.com/generative-ai/anthropic-vs-chinese-ai-vendors",
+          "date": "2026-02-25",
+          "source": "AI Business",
+          "description": "While distillation is common in AI, the scale at which Chinese vendors allegedly did so is problematic and could pose risks to enterprises.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt59dba7983b5f4dc7/699ddc362e9b350008e4a63c/DeepSeek3.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Anthropic vs. Chinese Vendors: The Problem With Distillation",
+          "original_summary": "While distillation is common in AI, the scale at which Chinese vendors allegedly did so is problematic and could pose risks to enterprises.",
+          "summary": "• 앤스로픽, 중국 업체의 기술 유용 문제 제기\n• 증류 기법은 AI 분야에서 흔히 사용\n• 중국 업체의 규모가 문제로 지적\n• 기업에 잠재적 위험 요소로 작용",
+          "translated_title": "앤스로픽 vs 중국 업체: 증류 기법의 문제점",
+          "category_keyword": "기술 유용"
+        },
         {
           "title": "Qwen/Qwen3.5-397B-A17B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-397B-A17B",
@@ -148,15 +176,15 @@
           "category": "AI Model"
         },
         {
-          "title": "FireRedTeam/FireRed-Image-Edit-1.0",
-          "link": "https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0",
+          "title": "LocoreMind/LocoOperator-4B",
+          "link": "https://huggingface.co/LocoreMind/LocoOperator-4B",
           "date": "2026-02-25",
           "source": "HuggingFace",
-          "description": "• 파이어레드 이미지 에디트 모델 공개\n• 고해상도 이미지 편집 성능 제공\n• 텍스트 스타일 정밀 보존 지원\n• 오픈소스 최고 수준 편집 가능",
-          "image": "https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0/resolve/main/./assets/logo.png",
+          "description": "• 코딩 에이전트 전용 LLM 'LocoOperator' 공개\n• 4B 파라미터 작은 사이즈로 로컬 실행 지원\n• 코드 탐색 및 도구 호출 전문 기능 탑재\n• 추론 비용 절감 위한 지도 학습 기반 학습",
+          "image": "https://img.shields.io/badge/Model-FFB300?style=for-the-badge&logo=huggingface&logoColor=white",
           "is_english": true,
-          "summary": "• 파이어레드 이미지 에디트 모델 공개\n• 고해상도 이미지 편집 성능 제공\n• 텍스트 스타일 정밀 보존 지원\n• 오픈소스 최고 수준 편집 가능",
-          "translated_title": "FireRedTeam/FireRed-Image-Edit-1.0",
+          "summary": "• 코딩 에이전트 전용 LLM 'LocoOperator' 공개\n• 4B 파라미터 작은 사이즈로 로컬 실행 지원\n• 코드 탐색 및 도구 호출 전문 기능 탑재\n• 추론 비용 절감 위한 지도 학습 기반 학습",
+          "translated_title": "LocoreMind/LocoOperator-4B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -174,28 +202,15 @@
           "category": "AI Model"
         },
         {
-          "title": "LocoreMind/LocoOperator-4B",
-          "link": "https://huggingface.co/LocoreMind/LocoOperator-4B",
+          "title": "FireRedTeam/FireRed-Image-Edit-1.0",
+          "link": "https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0",
           "date": "2026-02-25",
           "source": "HuggingFace",
-          "description": "• 코딩 에이전트 전용 LLM 'LocoOperator' 공개\n• 4B 파라미터 작은 사이즈로 로컬 실행 지원\n• 코드 탐색 및 도구 호출 전문 기능 탑재\n• 추론 비용 절감 위한 지도 학습 기반 학습",
-          "image": "https://img.shields.io/badge/Model-FFB300?style=for-the-badge&logo=huggingface&logoColor=white",
+          "description": "• 파이어레드 이미지 에디트 모델 공개\n• 고해상도 이미지 편집 성능 제공\n• 텍스트 스타일 정밀 보존 지원\n• 오픈소스 최고 수준 편집 가능",
+          "image": "https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0/resolve/main/./assets/logo.png",
           "is_english": true,
-          "summary": "• 코딩 에이전트 전용 LLM 'LocoOperator' 공개\n• 4B 파라미터 작은 사이즈로 로컬 실행 지원\n• 코드 탐색 및 도구 호출 전문 기능 탑재\n• 추론 비용 절감 위한 지도 학습 기반 학습",
-          "translated_title": "LocoreMind/LocoOperator-4B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "OpenMOSS-Team/MOSS-TTS",
-          "link": "https://huggingface.co/OpenMOSS-Team/MOSS-TTS",
-          "date": "2026-02-25",
-          "source": "HuggingFace",
-          "description": "• 고성능 오픈소스 음성 생성 모델 공개\n• 다국어 지원 및 높은 표현력 구현\n• 대화 및 효과음 등 복합 상황 대응\n• 실시간 스트리밍 TTS 기능 제공",
-          "image": "https://speech-demo.oss-cn-shanghai.aliyuncs.com/moss_tts_demo/tts_readme_imgaes_demo/openmoss_x_mosi",
-          "is_english": true,
-          "summary": "• 고성능 오픈소스 음성 생성 모델 공개\n• 다국어 지원 및 높은 표현력 구현\n• 대화 및 효과음 등 복합 상황 대응\n• 실시간 스트리밍 TTS 기능 제공",
-          "translated_title": "OpenMOSS-Team/MOSS-TTS",
+          "summary": "• 파이어레드 이미지 에디트 모델 공개\n• 고해상도 이미지 편집 성능 제공\n• 텍스트 스타일 정밀 보존 지원\n• 오픈소스 최고 수준 편집 가능",
+          "translated_title": "FireRedTeam/FireRed-Image-Edit-1.0",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -213,15 +228,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3-Coder-Next",
-          "link": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
+          "title": "OpenMOSS-Team/MOSS-TTS",
+          "link": "https://huggingface.co/OpenMOSS-Team/MOSS-TTS",
           "date": "2026-02-25",
           "source": "HuggingFace",
-          "description": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
-          "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Coder-Next/benchmarks.png",
+          "description": "• 고성능 오픈소스 음성 생성 모델 공개\n• 다국어 지원 및 높은 표현력 구현\n• 대화 및 효과음 등 복합 상황 대응\n• 실시간 스트리밍 TTS 기능 제공",
+          "image": "https://speech-demo.oss-cn-shanghai.aliyuncs.com/moss_tts_demo/tts_readme_imgaes_demo/openmoss_x_mosi",
           "is_english": true,
-          "summary": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
-          "translated_title": "Qwen/Qwen3-Coder-Next",
+          "summary": "• 고성능 오픈소스 음성 생성 모델 공개\n• 다국어 지원 및 높은 표현력 구현\n• 대화 및 효과음 등 복합 상황 대응\n• 실시간 스트리밍 TTS 기능 제공",
+          "translated_title": "OpenMOSS-Team/MOSS-TTS",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,6 +254,32 @@
           "category": "AI Model"
         },
         {
+          "title": "Qwen/Qwen3-Coder-Next",
+          "link": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
+          "date": "2026-02-25",
+          "source": "HuggingFace",
+          "description": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
+          "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Coder-Next/benchmarks.png",
+          "is_english": true,
+          "summary": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
+          "translated_title": "Qwen/Qwen3-Coder-Next",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.5-35B-A3B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
+          "date": "2026-02-25",
+          "source": "HuggingFace",
+          "description": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
+          "translated_title": "Qwen/Qwen3.5-35B-A3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "CohereLabs/tiny-aya-global",
           "link": "https://huggingface.co/CohereLabs/tiny-aya-global",
           "date": "2026-02-25",
@@ -250,26 +291,41 @@
           "translated_title": "CohereLabs/tiny-aya-global",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "unsloth/Qwen3.5-397B-A17B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.5-397B-A17B-GGUF",
-          "date": "2026-02-25",
-          "source": "HuggingFace",
-          "description": "• Unsloth, 거대 Qwen3.5 모델 최적화 버전 공개\n• 로컬 환경에서 고품질 추론 성능 지원\n• 동적 양자화 기술로 정확도와 속도 개선\n• 주요 AI 프레임워크와 호환성 확보",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Unsloth, 거대 Qwen3.5 모델 최적화 버전 공개\n• 로컬 환경에서 고품질 추론 성능 지원\n• 동적 양자화 기술로 정확도와 속도 개선\n• 주요 AI 프레임워크와 호환성 확보",
-          "translated_title": "unsloth/Qwen3.5-397B-A17B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-02-24",
-      "update_time": "2026-02-24 15:46:29",
+      "update_time": "2026-02-24 18:47:12",
       "news": [
+        {
+          "title": "OpenAI COO \"아직 기업 업무에 AI가 본격적으로 침투하지 못했다\"",
+          "link": "https://techcrunch.com/2026/02/24/openai-coo-says-we-have-not-yet-really-seen-ai-penetrate-enterprise-business-processes/",
+          "date": "2026-02-24",
+          "source": "TechCrunch",
+          "description": "Earlier this month, OpenAI launched a new platform called OpenAI Frontier for enterprises to build and manage agents, but OpenAI COO Brad Lightcap said that businesses haven&#8217;t yet seen AI adoption at scale. &#8220;One of the interesting things and some of the inspiration for the work we&#8217;ve been doing lately around OpenAI Frontier is we [&#8230;]",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/brad-lightcap-GettyImages-2147824375-1.jpg?w=1024",
+          "is_english": true,
+          "original_title": "OpenAI COO says ‘we have not yet really seen AI penetrate enterprise business processes’",
+          "original_summary": "Earlier this month, OpenAI launched a new platform called OpenAI Frontier for enterprises to build and manage agents, but OpenAI COO Brad Lightcap said that businesses haven&#8217;t yet seen AI adoption at scale. &#8220;One of the interesting things and some of the inspiration for the work we&#8217;",
+          "summary": "• OpenAI, 기업용 에이전트 관리 플랫폼 출시\n• COO, 대규모 AI 도입은 아직 이르다고 언급\n• 기업 내 AI 확산 속도가 더디다는 현실 지적\n• 새로운 플랫폼 구축의 영감이 됨",
+          "translated_title": "OpenAI COO \"아직 기업 업무에 AI가 본격적으로 침투하지 못했다\"",
+          "category_keyword": "기업 도입"
+        },
+        {
+          "title": "음악 생성기 ProducerAI, 구글 랩스에 합류",
+          "link": "https://techcrunch.com/2026/02/24/music-generator-producerai-joins-google-labs/",
+          "date": "2026-02-24",
+          "source": "TechCrunch",
+          "description": "Wyclef Jean used Google's AI music tools on his new song \"Back in Abu Dhabi.\"",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-1393049411.jpg?resize=1200,600",
+          "is_english": true,
+          "original_title": "Music generator ProducerAI joins Google Labs",
+          "original_summary": "Wyclef Jean used Google's AI music tools on his new song \"Back in Abu Dhabi.\"",
+          "summary": "• AI 음악 생성 도구 ProducerAI 소식\n• 구글 랩스(Google Labs)에 합류\n• 와이클리프 장, 신곡 제작에 구글 AI 활용\n• 'Back in Abu Dhabi'곡에 AI 툴 적용",
+          "translated_title": "음악 생성기 ProducerAI, 구글 랩스에 합류",
+          "category_keyword": "AI 음악"
+        },
         {
           "title": "Meta, '개인용 슈퍼인텔리전스' 추구하며 최대 100억 달러 AMD 칩 계약 체결",
           "link": "https://techcrunch.com/2026/02/24/meta-strikes-up-to-100b-amd-chip-deal-as-it-chases-personal-superintelligence/",
@@ -8197,7 +8253,7 @@
         {
           "title": "zai-org/GLM-5",
           "link": "https://huggingface.co/zai-org/GLM-5",
-          "date": "2026-02-16",
+          "date": "2026-02-25",
           "source": "HuggingFace",
           "description": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -8210,7 +8266,7 @@
         {
           "title": "MiniMaxAI/MiniMax-M2.5",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-M2.5",
-          "date": "2026-02-16",
+          "date": "2026-02-25",
           "source": "HuggingFace",
           "description": "• MiniMaxAI, 신규 언어 모델 공개\n• 문장 생성 최적화 파이프라인 탑재\n• 트랜스포머 라이브러리 기반 구현\n• 수정된 MIT 라이선스 적용",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
@@ -8236,7 +8292,7 @@
         {
           "title": "Nanbeige/Nanbeige4.1-3B",
           "link": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
-          "date": "2026-02-16",
+          "date": "2026-02-25",
           "source": "HuggingFace",
           "description": "• 소형 규모로도 강력한 추론 능력 구현\n• 대형 모델 뛰어넘는 선호 정렬 성과\n• 도구 호출 등 에이전트 기능 고도화\n• 복잡한 문제 해결 지원하는 신모델 공개",
           "image": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B/resolve/main/figures/nbg.png",
@@ -8249,7 +8305,7 @@
         {
           "title": "moonshotai/Kimi-K2.5",
           "link": "https://huggingface.co/moonshotai/Kimi-K2.5",
-          "date": "2026-02-16",
+          "date": "2026-02-25",
           "source": "HuggingFace",
           "description": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
           "image": "https://huggingface.co/moonshotai/Kimi-K2.5/resolve/main/figures/kimi-logo.png",
@@ -8275,7 +8331,7 @@
         {
           "title": "Qwen/Qwen3-Coder-Next",
           "link": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
-          "date": "2026-02-16",
+          "date": "2026-02-25",
           "source": "HuggingFace",
           "description": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
           "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Coder-Next/benchmarks.png",
@@ -8327,7 +8383,7 @@
         {
           "title": "OpenMOSS-Team/MOSS-TTS",
           "link": "https://huggingface.co/OpenMOSS-Team/MOSS-TTS",
-          "date": "2026-02-16",
+          "date": "2026-02-25",
           "source": "HuggingFace",
           "description": "• 고성능 오픈소스 음성 생성 모델 공개\n• 다국어 지원 및 높은 표현력 구현\n• 대화 및 효과음 등 복합 상황 대응\n• 실시간 스트리밍 TTS 기능 제공",
           "image": "https://speech-demo.oss-cn-shanghai.aliyuncs.com/moss_tts_demo/tts_readme_imgaes_demo/openmoss_x_mosi",
