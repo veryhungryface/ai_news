@@ -2,8 +2,64 @@
   "dates": [
     {
       "date": "2026-02-25",
-      "update_time": "2026-02-24 18:47:16",
+      "update_time": "2026-02-24 21:26:00",
       "news": [
+        {
+          "title": "초등 수업자료 손안에…서울교육청 '핸디 엘리' 운영",
+          "link": "https://www.yna.co.kr/view/AKR20260224128500530",
+          "date": "2026-02-25",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 오보람 기자 = 서울시교육청은 서책과 공문 중심이던 초등 장학 자료를 디지털 방식으로 전환하고, 디지털 도서관 &apos;서울 핸디 엘...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/02/24/AKR20260224128500530_02_i_P2.jpg",
+          "is_english": false,
+          "original_title": "초등 수업자료 손안에…서울교육청 '핸디 엘리' 운영",
+          "original_summary": "(서울=연합뉴스) 오보람 기자 = 서울시교육청은 서책과 공문 중심이던 초등 장학 자료를 디지털 방식으로 전환하고, 디지털 도서관 &apos;서울 핸디 엘...",
+          "summary": "• 서울교육청, 장학 자료 디지털 전환\n• '서울 핸디 엘리' 도서관 운영\n• 서책 중심 자료 모바일 제공\n• 초등 교육 디지털 혁신 가속",
+          "translated_title": "초등 수업자료 손안에…서울교육청 '핸디 엘리' 운영",
+          "category_keyword": "핸디 엘리"
+        },
+        {
+          "title": "교육부, 4단계 BK21 우수 참여인력 시상식 개최",
+          "link": "https://www.yna.co.kr/view/AKR20260224139000530",
+          "date": "2026-02-25",
+          "source": "연합뉴스",
+          "description": "(세종=연합뉴스) 고상민 기자 = 교육부와 한국연구재단은 25일 오후 서울 강남구 역삼동 아모리스에서 &apos;2025년 4단계 두뇌한국21(Brain...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/02/24/AKR20260224139000530_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "교육부, 4단계 BK21 우수 참여인력 시상식 개최",
+          "original_summary": "(세종=연합뉴스) 고상민 기자 = 교육부와 한국연구재단은 25일 오후 서울 강남구 역삼동 아모리스에서 &apos;2025년 4단계 두뇌한국21(Brain...",
+          "summary": "• 교육부와 한국연구재단 주최\n• 4단계 두뇌한국21(BK21) 시상\n• 우수 참여 인력 포상 행사\n• 25일 서울 강남구에서 개최",
+          "translated_title": "교육부, 4단계 BK21 우수 참여인력 시상식 개최",
+          "category_keyword": "BK21"
+        },
+        {
+          "title": "앤트로픽, 클로드 '코워크' 플러그인으로 산업 확대",
+          "link": "https://aibusiness.com/agentic-ai/anthropic-targets-more-industries-with-plugins",
+          "date": "2026-02-25",
+          "source": "AI Business",
+          "description": "The features are a testament to the AI vendor's opportunity in the professional services sectors.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltbb885a20254d4fc2/699e0422f518ea0008d25571/AI_agents.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Anthropic Targets More Industries With Claude Cowork Plugins",
+          "original_summary": "The features are a testament to the AI vendor's opportunity in the professional services sectors.",
+          "summary": "• 클로드 코워크 플러그인 출시\n• 다양한 산업군 타겟팅\n• 전문 서비스 분야 진출 강화\n• AI 공급업체 사업 영역 확장",
+          "translated_title": "앤트로픽, 클로드 '코워크' 플러그인으로 산업 확대",
+          "category_keyword": "클로드"
+        },
+        {
+          "title": "메타, AMD와 100조원 규모 AI 칩 계약 체결",
+          "link": "https://aibusiness.com/generative-ai/meta-signs-100b-ai-chip-deal-with-amd",
+          "date": "2026-02-25",
+          "source": "AI Business",
+          "description": "The deal comes a week after Meta said it will use millions of Nvidia chips to power its AI expansion.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltf75e9f83e2d5fffb/699df2cd17999700088c64a1/MetaAI.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Meta Signs $100B AI Chip Deal With AMD",
+          "original_summary": "The deal comes a week after Meta said it will use millions of Nvidia chips to power its AI expansion.",
+          "summary": "• AMD와 100억불 계약 체결\n• AI 확장을 위한 칩 공급\n• 엔비디아 칩 사용 선언 이후\n• AI 반도체 공급망 다변화",
+          "translated_title": "메타, AMD와 100조원 규모 AI 칩 계약 체결",
+          "category_keyword": "메타"
+        },
         {
           "title": "아마존, 루이지애나주 데이터 센터에 투자",
           "link": "https://aibusiness.com/generative-ai/amazon-to-invest-in-louisiana-data-centers",
@@ -137,6 +193,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Fortytwo-Network/Strand-Rust-Coder-14B-v1",
+          "link": "https://huggingface.co/Fortytwo-Network/Strand-Rust-Coder-14B-v1",
+          "date": "2026-02-25",
+          "source": "HuggingFace",
+          "description": "• 휴깅페이스, 러스트 전문 코딩 모델 공개\n• 분산형 아키텍처 통해 성능 극대화 달성\n• 타 상용 모델 제치고 벤치마크 1위\n• 94% 컴파일 성공율로 코드 품질 보장",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/63aeda3a2314b93f9e706a68/I6WwY8U7I5V8lc138UmGt.jpeg",
+          "is_english": true,
+          "summary": "• 휴깅페이스, 러스트 전문 코딩 모델 공개\n• 분산형 아키텍처 통해 성능 극대화 달성\n• 타 상용 모델 제치고 벤치마크 1위\n• 94% 컴파일 성공율로 코드 품질 보장",
+          "translated_title": "Fortytwo-Network/Strand-Rust-Coder-14B-v1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "moonshotai/Kimi-K2.5",
           "link": "https://huggingface.co/moonshotai/Kimi-K2.5",
           "date": "2026-02-25",
@@ -163,15 +232,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Fortytwo-Network/Strand-Rust-Coder-14B-v1",
-          "link": "https://huggingface.co/Fortytwo-Network/Strand-Rust-Coder-14B-v1",
+          "title": "Qwen/Qwen3.5-35B-A3B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
           "date": "2026-02-25",
           "source": "HuggingFace",
-          "description": "• 휴깅페이스, 러스트 전문 코딩 모델 공개\n• 분산형 아키텍처 통해 성능 극대화 달성\n• 타 상용 모델 제치고 벤치마크 1위\n• 94% 컴파일 성공율로 코드 품질 보장",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/63aeda3a2314b93f9e706a68/I6WwY8U7I5V8lc138UmGt.jpeg",
+          "description": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
           "is_english": true,
-          "summary": "• 휴깅페이스, 러스트 전문 코딩 모델 공개\n• 분산형 아키텍처 통해 성능 극대화 달성\n• 타 상용 모델 제치고 벤치마크 1위\n• 94% 컴파일 성공율로 코드 품질 보장",
-          "translated_title": "Fortytwo-Network/Strand-Rust-Coder-14B-v1",
+          "summary": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
+          "translated_title": "Qwen/Qwen3.5-35B-A3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -228,6 +297,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Qwen/Qwen3.5-122B-A10B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-122B-A10B",
+          "date": "2026-02-25",
+          "source": "HuggingFace",
+          "description": "• 차세대 멀티모달 기능으로 성능 향상\n• 효율적 하이브리드 아키텍처 탑재\n• 확장된 강화학습으로 적응력 강화\n• 201개 언어 및 방언 지원 공개",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• 차세대 멀티모달 기능으로 성능 향상\n• 효율적 하이브리드 아키텍처 탑재\n• 확장된 강화학습으로 적응력 강화\n• 201개 언어 및 방언 지원 공개",
+          "translated_title": "Qwen/Qwen3.5-122B-A10B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "OpenMOSS-Team/MOSS-TTS",
           "link": "https://huggingface.co/OpenMOSS-Team/MOSS-TTS",
           "date": "2026-02-25",
@@ -265,39 +347,55 @@
           "translated_title": "Qwen/Qwen3-Coder-Next",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "Qwen/Qwen3.5-35B-A3B",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
-          "date": "2026-02-25",
-          "source": "HuggingFace",
-          "description": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
-          "translated_title": "Qwen/Qwen3.5-35B-A3B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "CohereLabs/tiny-aya-global",
-          "link": "https://huggingface.co/CohereLabs/tiny-aya-global",
-          "date": "2026-02-25",
-          "source": "HuggingFace",
-          "description": "• CohereLabs, 새로운 AI 모델 공개\n• tiny-aya-global, 텍스트 생성 지원\n• 경량화 설계으로 효율성 향상\n• 다국어 대화 기능 탑재 예상",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• CohereLabs, 새로운 AI 모델 공개\n• tiny-aya-global, 텍스트 생성 지원\n• 경량화 설계으로 효율성 향상\n• 다국어 대화 기능 탑재 예상",
-          "translated_title": "CohereLabs/tiny-aya-global",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-02-24",
-      "update_time": "2026-02-24 18:47:12",
+      "update_time": "2026-02-24 21:25:55",
       "news": [
+        {
+          "title": "광양경자청, 2026 입주기업 지원시책 합동 설명회 개최",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207191",
+          "date": "2026-02-24",
+          "source": "AI타임스",
+          "description": "광양만권경제자유구역청(청장 구충곤)은 24일 전남테크노파크 대강당에서 ‘2026년 입주기업 지원시책 합동 설명회’를 개최하고, 광양만권 입주기업을 대상으로 한 분야별 지원정책을 종합 안내했다고 밝혔다. 이번 설명회는 급변하는 글로벌 통상환경 속에서 기업의 대응 역량을 높이기 위해 마련됐으며, 입주기업 대표와 관계기관 담당자 등 150여명이 참석했다. 행사에는 전남테크노파크, 고용노동부 여수지청, 중소벤처기업부 전남동부사무소, 한국산업인력공단 전남지사 등 15개 유관기관이 참여해 2026년 주요 사업과 지원제도를 공유했다.특히 전남테",
+          "image": "https://cdn.aitimes.com/news/photo/202602/207191_209253_2338.jpg",
+          "is_english": false,
+          "original_title": "광양경자청, 2026 입주기업 지원시책 합동 설명회 개최",
+          "original_summary": "광양만권경제자유구역청(청장 구충곤)은 24일 전남테크노파크 대강당에서 ‘2026년 입주기업 지원시책 합동 설명회’를 개최하고, 광양만권 입주기업을 대상으로 한 분야별 지원정책을 종합 안내했다고 밝혔다. 이번 설명회는 급변하는 글로벌 통상환경 속에서 기업의 대응 역량을 높이기 위해 마련됐으며, 입주기업 대표와 관계기관 담당자 등 150여명이 참석했다. 행사에는 전남테크노파크, 고용노동부 여수지청, 중소벤처기업부 전남동부사무소, 한국산업인력공단 전남지사 등 15개 유관기관이 참여해 2026년 주요 사업과 지원제도를 공유했다.특히 전남테",
+          "summary": "• 2026년 입주기업 지원 안내\n• 15개 유관기관 참여 협력\n• 글로벌 통상 환경 대응 지원\n• 150여 명 관계자 참석",
+          "translated_title": "광양경자청, 2026 입주기업 지원시책 합동 설명회 개최",
+          "category_keyword": "입주기업"
+        },
+        {
+          "title": "펜타곤, AI 갈등 격화에도 앤트로픽 태도 유지",
+          "link": "https://techcrunch.com/2026/02/24/anthropic-wont-budge-as-pentagon-escalates-ai-dispute/",
+          "date": "2026-02-24",
+          "source": "TechCrunch",
+          "description": "The Pentagon has given Anthropic until Friday to loosen AI guardrails or face potential penalties, escalating a high-stakes dispute that raises questions about government leverage, vendor dependence, and investor confidence in defense tech.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2194795244.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Anthropic won’t budge as Pentagon escalates AI dispute",
+          "original_summary": "The Pentagon has given Anthropic until Friday to loosen AI guardrails or face potential penalties, escalating a high-stakes dispute that raises questions about government leverage, vendor dependence, and investor confidence in defense tech.",
+          "summary": "• 펜타곤, AI 제약 완화 최후통첩\n• 금요일까지 완화 요구 전달\n• 위반 시 제재 가능성 제시\n• 정부와 AI 공급업체 갈등",
+          "translated_title": "펜타곤, AI 갈등 격화에도 앤트로픽 태도 유지",
+          "category_keyword": "앤트로픽"
+        },
+        {
+          "title": "구글, 오팔에 자동화 워크플로우 생성 기능 추가",
+          "link": "https://techcrunch.com/2026/02/24/google-adds-a-way-to-create-automated-workflows-to-opal/",
+          "date": "2026-02-24",
+          "source": "TechCrunch",
+          "description": "The company said that a new agent being introduced in Opal will allow users to create mini-apps that can let them plan and execute tasks using text prompts.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/Agent-Banner-hero.jpeg?resize=1200,677",
+          "is_english": true,
+          "original_title": "Google adds a way to create automated workflows to Opal",
+          "original_summary": "The company said that a new agent being introduced in Opal will allow users to create mini-apps that can let them plan and execute tasks using text prompts.",
+          "summary": "• 오팔에 새로운 AI 에이전트 도입\n• 텍스트 프롬프트로 작업 실행\n• 미니 앱 자동 생성 지원\n• 사용자 작업 효율성 향상",
+          "translated_title": "구글, 오팔에 자동화 워크플로우 생성 기능 추가",
+          "category_keyword": "오팔"
+        },
         {
           "title": "OpenAI COO \"아직 기업 업무에 AI가 본격적으로 침투하지 못했다\"",
           "link": "https://techcrunch.com/2026/02/24/openai-coo-says-we-have-not-yet-really-seen-ai-penetrate-enterprise-business-processes/",
