@@ -2,8 +2,50 @@
   "dates": [
     {
       "date": "2026-02-24",
-      "update_time": "2026-02-24 09:45:19",
+      "update_time": "2026-02-24 12:40:25",
       "news": [
+        {
+          "title": "오픈AI, 'gpt-리얼타임-1.5' API 공개...\"실시간 음성 AI 차원 바꿔\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207146",
+          "date": "2026-02-24",
+          "source": "AI타임스",
+          "description": "오픈AI가 성능이 크게 개선된 실시간 음성 애플리케이션용 최신 모델 ‘gpt-리얼타임-1.5(gpt-realtime-1.5)’를 공개했다. 초기 사용자들은 \\\"차원이 다르다\\\"라는 반응을 내놓았다.오픈AI는 23일(현지시간) gpt-리얼타임-1.5를 리얼타임(Realtime) API를 통해 제공한다고 발표했다.지시문 이행 능력과 도구 호출, 다국어 정확도에서 향상된 성능을 보인다고 강조했다.추론 능력을 측정하는 ‘빅 벤치 오디오(Big Bench Audio)’에서 기존 대비 5%의 지능 향상을 기록했다. 내부 평가에서도 영숫자 전사 정",
+          "image": "https://cdn.aitimes.com/news/photo/202602/207146_209212_036.png",
+          "is_english": true,
+          "original_title": "오픈AI, ‘gpt-리얼타임-1.5’ API 공개...\"실시간 음성 AI 차원 바꿔\"",
+          "original_summary": "오픈AI가 성능이 크게 개선된 실시간 음성 애플리케이션용 최신 모델 ‘gpt-리얼타임-1.5(gpt-realtime-1.5)’를 공개했다. 초기 사용자들은 \\\"차원이 다르다\\\"라는 반응을 내놓았다.오픈AI는 23일(현지시간) gpt-리얼타임-1.5를 리얼타임(Realtime) API를 통해 제공한다고 발표했다.지시문 이행 능력과 도구 호출, 다국어 정확도에서 향상된 성능을 보인다고 강조했다.추론 능력을 측정하는 ‘빅 벤치 오디오(Big Bench Audio)’에서 기존 대비 5%의 지능 향상을 기록했다. 내부 평가에서도 영숫자 전사",
+          "summary": "• 실시간 음성 AI 신규 모델 공개\n• 지시 이행 및 다국어 성능 향상\n• 지능 측정 지서 5% 개선 기록\n• 초기 사용자들 극찬 쏟아져",
+          "translated_title": "오픈AI, 'gpt-리얼타임-1.5' API 공개...\"실시간 음성 AI 차원 바꿔\"",
+          "category_keyword": "실시간 AI"
+        },
+        {
+          "title": "탈라스, 칩에다 모델 새겨 넣어 추론 속도 10배 향상한 기술 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207148",
+          "date": "2026-02-24",
+          "source": "AI타임스",
+          "description": "AI 모델을 전용 실리콘 칩으로 구현하는 플랫폼이 등장했다. 대형언어모델(LLM)과 같은 컴퓨팅 집약적인 애플리케이션의 처리 속도를 높이기 위해 최적화한 그로크의 추론 엔진 ‘언어 처리 장치(LPU)’와 유사하다.스타트업 탈라스는 최근 새로운 모델을 전달받으면 약 두달 만에 이를 맞춤형 반도체(ASIC)로 구현할 수 있는 플랫폼을 개발했다. 이렇게 탄생한 결과물은 ‘하드코어 모델(Hardcore Models)’로 불린다.탈라스의 핵심 전략은 ‘완전한 특화(Total Specialization)’다. 범용 GPU 위에서 다양한 모델을",
+          "image": "https://cdn.aitimes.com/news/photo/202602/207148_209218_5138.png",
+          "is_english": false,
+          "original_title": "탈라스, 칩에다 모델 새겨 넣어 추론 속도 10배 향상한 기술 공개",
+          "original_summary": "AI 모델을 전용 실리콘 칩으로 구현하는 플랫폼이 등장했다. 대형언어모델(LLM)과 같은 컴퓨팅 집약적인 애플리케이션의 처리 속도를 높이기 위해 최적화한 그로크의 추론 엔진 ‘언어 처리 장치(LPU)’와 유사하다.스타트업 탈라스는 최근 새로운 모델을 전달받으면 약 두달 만에 이를 맞춤형 반도체(ASIC)로 구현할 수 있는 플랫폼을 개발했다. 이렇게 탄생한 결과물은 ‘하드코어 모델(Hardcore Models)’로 불린다.탈라스의 핵심 전략은 ‘완전한 특화(Total Specialization)’다. 범용 GPU 위에서 다양한 모델을",
+          "summary": "• AI 모델 전용 실리콘 칩 구현\n• 맞춤형 반도체 2달 만에 개발\n• 완전 특화 전략으로 속도 혁신\n• LPU와 유사한 추론 엔진 적용",
+          "translated_title": "탈라스, 칩에다 모델 새겨 넣어 추론 속도 10배 향상한 기술 공개",
+          "category_keyword": "추론 속도"
+        },
+        {
+          "title": "[게시판] 일레븐랩스, '맥가이버' AI 목소리 구현하는 개념검증 진행 등 단신",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207189",
+          "date": "2026-02-24",
+          "source": "AI타임스",
+          "description": "■ 오디오 AI 전문 일레븐랩스는 IP 라이선싱 전문 위츠와 맥가이버 목소리로 유명한 국내 대표 성우 배한성의 음성을 AI로 학습 및 활용하는 개념검증(PoC)을 진행한다고 밝혔다. 일레븐랩스의 AI TTS(Text-to-Speech, 음성합성) 기술을 기반으로 유명인 음성 IP의 합법적 활용과 AI 기술의 결합 가능성을 검증한다. ■ 한컴위드(대표 송상엽)는 2025년 연결 기준 매출액 7712억원, 영업이익 61.4억 원을 기록했다고 밝혔다. 이는 전년 대비 매출은 72%, 영업이익은 380% 상승한 수치로 역대 최대 실적이다.",
+          "image": "https://cdn.aitimes.com/news/photo/202602/207189_209251_5833.png",
+          "is_english": false,
+          "original_title": "[게시판] 일레븐랩스, '맥가이버' AI 목소리 구현하는 개념검증 진행 등 단신",
+          "original_summary": "■ 오디오 AI 전문 일레븐랩스는 IP 라이선싱 전문 위츠와 맥가이버 목소리로 유명한 국내 대표 성우 배한성의 음성을 AI로 학습 및 활용하는 개념검증(PoC)을 진행한다고 밝혔다. 일레븐랩스의 AI TTS(Text-to-Speech, 음성합성) 기술을 기반으로 유명인 음성 IP의 합법적 활용과 AI 기술의 결합 가능성을 검증한다. ■ 한컴위드(대표 송상엽)는 2025년 연결 기준 매출액 7712억원, 영업이익 61.4억 원을 기록했다고 밝혔다. 이는 전년 대비 매출은 72%, 영업이익은 380% 상승한 수치로 역대 최대 실적이다.",
+          "summary": "• 맥가이버 성우 목소리 AI 학습\n• 오디오 IP 합법적 활용 검증\n• 한컴위드 매출·영업이익 급증\n• 작년 대비 최대 실적 달성",
+          "translated_title": "[게시판] 일레븐랩스, '맥가이버' AI 목소리 구현하는 개념검증 진행 등 단신",
+          "category_keyword": "오디오 AI"
+        },
         {
           "title": "제1호 과학기술혁신펀드 출범…7632억 원 '자펀드' 결성",
           "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148959894&call_from=rsslink",
@@ -976,19 +1018,6 @@
           "category": "AI Model"
         },
         {
-          "title": "FireRedTeam/FireRed-Image-Edit-1.0",
-          "link": "https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0",
-          "date": "2026-02-24",
-          "source": "HuggingFace",
-          "description": "• 파이어레드 이미지 에디트 모델 공개\n• 고해상도 이미지 편집 성능 제공\n• 텍스트 스타일 정밀 보존 지원\n• 오픈소스 최고 수준 편집 가능",
-          "image": "https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0/resolve/main/./assets/logo.png",
-          "is_english": true,
-          "summary": "• 파이어레드 이미지 에디트 모델 공개\n• 고해상도 이미지 편집 성능 제공\n• 텍스트 스타일 정밀 보존 지원\n• 오픈소스 최고 수준 편집 가능",
-          "translated_title": "FireRedTeam/FireRed-Image-Edit-1.0",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Zyphra/ZUNA",
           "link": "https://huggingface.co/Zyphra/ZUNA",
           "date": "2026-02-24",
@@ -1015,15 +1044,15 @@
           "category": "AI Model"
         },
         {
-          "title": "OpenMOSS-Team/MOSS-TTS",
-          "link": "https://huggingface.co/OpenMOSS-Team/MOSS-TTS",
+          "title": "FireRedTeam/FireRed-Image-Edit-1.0",
+          "link": "https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0",
           "date": "2026-02-24",
           "source": "HuggingFace",
-          "description": "• 고성능 오픈소스 음성 생성 모델 공개\n• 다국어 지원 및 높은 표현력 구현\n• 대화 및 효과음 등 복합 상황 대응\n• 실시간 스트리밍 TTS 기능 제공",
-          "image": "https://speech-demo.oss-cn-shanghai.aliyuncs.com/moss_tts_demo/tts_readme_imgaes_demo/openmoss_x_mosi",
+          "description": "• 파이어레드 이미지 에디트 모델 공개\n• 고해상도 이미지 편집 성능 제공\n• 텍스트 스타일 정밀 보존 지원\n• 오픈소스 최고 수준 편집 가능",
+          "image": "https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0/resolve/main/./assets/logo.png",
           "is_english": true,
-          "summary": "• 고성능 오픈소스 음성 생성 모델 공개\n• 다국어 지원 및 높은 표현력 구현\n• 대화 및 효과음 등 복합 상황 대응\n• 실시간 스트리밍 TTS 기능 제공",
-          "translated_title": "OpenMOSS-Team/MOSS-TTS",
+          "summary": "• 파이어레드 이미지 에디트 모델 공개\n• 고해상도 이미지 편집 성능 제공\n• 텍스트 스타일 정밀 보존 지원\n• 오픈소스 최고 수준 편집 가능",
+          "translated_title": "FireRedTeam/FireRed-Image-Edit-1.0",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -1041,6 +1070,32 @@
           "category": "AI Model"
         },
         {
+          "title": "OpenMOSS-Team/MOSS-TTS",
+          "link": "https://huggingface.co/OpenMOSS-Team/MOSS-TTS",
+          "date": "2026-02-24",
+          "source": "HuggingFace",
+          "description": "• 고성능 오픈소스 음성 생성 모델 공개\n• 다국어 지원 및 높은 표현력 구현\n• 대화 및 효과음 등 복합 상황 대응\n• 실시간 스트리밍 TTS 기능 제공",
+          "image": "https://speech-demo.oss-cn-shanghai.aliyuncs.com/moss_tts_demo/tts_readme_imgaes_demo/openmoss_x_mosi",
+          "is_english": true,
+          "summary": "• 고성능 오픈소스 음성 생성 모델 공개\n• 다국어 지원 및 높은 표현력 구현\n• 대화 및 효과음 등 복합 상황 대응\n• 실시간 스트리밍 TTS 기능 제공",
+          "translated_title": "OpenMOSS-Team/MOSS-TTS",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "LocoreMind/LocoOperator-4B",
+          "link": "https://huggingface.co/LocoreMind/LocoOperator-4B",
+          "date": "2026-02-24",
+          "source": "HuggingFace",
+          "description": "• 코딩 에이전트 전용 LLM 'LocoOperator' 공개\n• 4B 파라미터 작은 사이즈로 로컬 실행 지원\n• 코드 탐색 및 도구 호출 전문 기능 탑재\n• 추론 비용 절감 위한 지도 학습 기반 학습",
+          "image": "https://img.shields.io/badge/Model-FFB300?style=for-the-badge&logo=huggingface&logoColor=white",
+          "is_english": true,
+          "summary": "• 코딩 에이전트 전용 LLM 'LocoOperator' 공개\n• 4B 파라미터 작은 사이즈로 로컬 실행 지원\n• 코드 탐색 및 도구 호출 전문 기능 탑재\n• 추론 비용 절감 위한 지도 학습 기반 학습",
+          "translated_title": "LocoreMind/LocoOperator-4B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "KittenML/kitten-tts-mini-0.8",
           "link": "https://huggingface.co/KittenML/kitten-tts-mini-0.8",
           "date": "2026-02-24",
@@ -1050,19 +1105,6 @@
           "is_english": true,
           "summary": "• 오픈소스 고품질 TTS 모델 공개\n• 80MB 용량의 가벼운 모델 구조\n• 8가지 목소리 지원 기능 제공\n• GPU 없이도 빠른 음성 생성",
           "translated_title": "KittenML/kitten-tts-mini-0.8",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "unsloth/Qwen3.5-397B-A17B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.5-397B-A17B-GGUF",
-          "date": "2026-02-24",
-          "source": "HuggingFace",
-          "description": "• Unsloth, 거대 Qwen3.5 모델 최적화 버전 공개\n• 로컬 환경에서 고품질 추론 성능 지원\n• 동적 양자화 기술로 정확도와 속도 개선\n• 주요 AI 프레임워크와 호환성 확보",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Unsloth, 거대 Qwen3.5 모델 최적화 버전 공개\n• 로컬 환경에서 고품질 추론 성능 지원\n• 동적 양자화 기술로 정확도와 속도 개선\n• 주요 AI 프레임워크와 호환성 확보",
-          "translated_title": "unsloth/Qwen3.5-397B-A17B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -1080,15 +1122,15 @@
           "category": "AI Model"
         },
         {
-          "title": "CohereLabs/tiny-aya-global",
-          "link": "https://huggingface.co/CohereLabs/tiny-aya-global",
+          "title": "unsloth/Qwen3.5-397B-A17B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.5-397B-A17B-GGUF",
           "date": "2026-02-24",
           "source": "HuggingFace",
-          "description": "• CohereLabs, 새로운 AI 모델 공개\n• tiny-aya-global, 텍스트 생성 지원\n• 경량화 설계으로 효율성 향상\n• 다국어 대화 기능 탑재 예상",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• Unsloth, 거대 Qwen3.5 모델 최적화 버전 공개\n• 로컬 환경에서 고품질 추론 성능 지원\n• 동적 양자화 기술로 정확도와 속도 개선\n• 주요 AI 프레임워크와 호환성 확보",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
           "is_english": true,
-          "summary": "• CohereLabs, 새로운 AI 모델 공개\n• tiny-aya-global, 텍스트 생성 지원\n• 경량화 설계으로 효율성 향상\n• 다국어 대화 기능 탑재 예상",
-          "translated_title": "CohereLabs/tiny-aya-global",
+          "summary": "• Unsloth, 거대 Qwen3.5 모델 최적화 버전 공개\n• 로컬 환경에서 고품질 추론 성능 지원\n• 동적 양자화 기술로 정확도와 속도 개선\n• 주요 AI 프레임워크와 호환성 확보",
+          "translated_title": "unsloth/Qwen3.5-397B-A17B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -1106,15 +1148,15 @@
           "category": "AI Model"
         },
         {
-          "title": "deepgenteam/DeepGen-1.0",
-          "link": "https://huggingface.co/deepgenteam/DeepGen-1.0",
+          "title": "CohereLabs/tiny-aya-global",
+          "link": "https://huggingface.co/CohereLabs/tiny-aya-global",
           "date": "2026-02-24",
           "source": "HuggingFace",
-          "description": "• 경량화된 통합 멀티모달 모델 'DeepGen 1.0' 공개\n• 5B 파라미터로 이미지 생성과 편집 기능 통합 구현\n• 대형 모델 제치는 우수한 성능 벤치마크 입증\n• 거대 모델 의존 없이 고효율 생성 가능성 확인",
-          "image": "https://img.shields.io/badge/DeepGen 1.0-Paper-red?logo=arxiv&logoColor=red",
+          "description": "• CohereLabs, 새로운 AI 모델 공개\n• tiny-aya-global, 텍스트 생성 지원\n• 경량화 설계으로 효율성 향상\n• 다국어 대화 기능 탑재 예상",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• 경량화된 통합 멀티모달 모델 'DeepGen 1.0' 공개\n• 5B 파라미터로 이미지 생성과 편집 기능 통합 구현\n• 대형 모델 제치는 우수한 성능 벤치마크 입증\n• 거대 모델 의존 없이 고효율 생성 가능성 확인",
-          "translated_title": "deepgenteam/DeepGen-1.0",
+          "summary": "• CohereLabs, 새로운 AI 모델 공개\n• tiny-aya-global, 텍스트 생성 지원\n• 경량화 설계으로 효율성 향상\n• 다국어 대화 기능 탑재 예상",
+          "translated_title": "CohereLabs/tiny-aya-global",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
