@@ -2,8 +2,22 @@
   "dates": [
     {
       "date": "2026-02-26",
-      "update_time": "2026-02-25 15:52:38",
+      "update_time": "2026-02-25 18:53:07",
       "news": [
+        {
+          "title": "Google Labs, Opal에 에이전트형 AI 기능 추가",
+          "link": "https://aibusiness.com/agentic-ai/google-labs-adds-agentic-ai-to-opal",
+          "date": "2026-02-26",
+          "source": "AI Business",
+          "description": "The interactive agent enables goal-driven task planning and execution.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt1c76703f937ee8e0/699f20679a717f00082347bc/Google_Labs.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Google Labs adds Agentic AI Capabilities to Opal",
+          "original_summary": "The interactive agent enables goal-driven task planning and execution.",
+          "summary": "• 구글 랩스 새 기능 추가\n • 오팔(Opal)에 적용\n • 목표 지향형 작업 계획\n • 인터랙티브 에이전트 실행",
+          "translated_title": "Google Labs, Opal에 에이전트형 AI 기능 추가",
+          "category_keyword": "Opal"
+        },
         {
           "title": "Qwen/Qwen3.5-397B-A17B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-397B-A17B",
@@ -31,19 +45,6 @@
           "category": "AI Model"
         },
         {
-          "title": "zai-org/GLM-5",
-          "link": "https://huggingface.co/zai-org/GLM-5",
-          "date": "2026-02-26",
-          "source": "HuggingFace",
-          "description": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
-          "translated_title": "zai-org/GLM-5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.5-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-27B",
           "date": "2026-02-26",
@@ -53,6 +54,19 @@
           "is_english": true,
           "summary": "• 후지연 모델 'Qwen3.5-27B' 공개\n• 텍스트와 이미지 통합 이해 능력 제공\n• 201개 언어 다국어 지원 강화\n• 고성능 고효율 추론 아키텍처 탑재",
           "translated_title": "Qwen/Qwen3.5-27B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "zai-org/GLM-5",
+          "link": "https://huggingface.co/zai-org/GLM-5",
+          "date": "2026-02-26",
+          "source": "HuggingFace",
+          "description": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
+          "translated_title": "zai-org/GLM-5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -148,15 +162,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Zyphra/ZUNA",
-          "link": "https://huggingface.co/Zyphra/ZUNA",
+          "title": "LiquidAI/LFM2-24B-A2B",
+          "link": "https://huggingface.co/LiquidAI/LFM2-24B-A2B",
           "date": "2026-02-26",
           "source": "HuggingFace",
-          "description": "• Zyphra, 뇌파 기반 파운데이션 모델 ZUNA 공개\n• 200만 시간 데이터 학습으로 노이즈 제거 구현\n• 소비자 GPU에서도 가동 가능한 가벼운 모델\n• 기존 방식 대신 뛰어난 정확도 입증 및 업스케일링 지원",
-          "image": "https://img.shields.io/badge/GitHub-Zyphra%2Fzuna-blue?logo=github",
+          "description": "• 리퀴드AI, 온디바이스 특화 LFM2 공개\n• 24억 파라미터 모델 효율성 최고화\n• 소비자용 노트북 탑재 가능 설계\n• CPU·H100에서 초고속 추론 지원",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/VhdjtAT5zWTWdVYgW69O0.png",
           "is_english": true,
-          "summary": "• Zyphra, 뇌파 기반 파운데이션 모델 ZUNA 공개\n• 200만 시간 데이터 학습으로 노이즈 제거 구현\n• 소비자 GPU에서도 가동 가능한 가벼운 모델\n• 기존 방식 대신 뛰어난 정확도 입증 및 업스케일링 지원",
-          "translated_title": "Zyphra/ZUNA",
+          "summary": "• 리퀴드AI, 온디바이스 특화 LFM2 공개\n• 24억 파라미터 모델 효율성 최고화\n• 소비자용 노트북 탑재 가능 설계\n• CPU·H100에서 초고속 추론 지원",
+          "translated_title": "LiquidAI/LFM2-24B-A2B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -174,19 +188,6 @@
           "category": "AI Model"
         },
         {
-          "title": "LiquidAI/LFM2-24B-A2B",
-          "link": "https://huggingface.co/LiquidAI/LFM2-24B-A2B",
-          "date": "2026-02-26",
-          "source": "HuggingFace",
-          "description": "• 리퀴드AI, 온디바이스 특화 LFM2 공개\n• 24억 파라미터 모델 효율성 최고화\n• 소비자용 노트북 탑재 가능 설계\n• CPU·H100에서 초고속 추론 지원",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/VhdjtAT5zWTWdVYgW69O0.png",
-          "is_english": true,
-          "summary": "• 리퀴드AI, 온디바이스 특화 LFM2 공개\n• 24억 파라미터 모델 효율성 최고화\n• 소비자용 노트북 탑재 가능 설계\n• CPU·H100에서 초고속 추론 지원",
-          "translated_title": "LiquidAI/LFM2-24B-A2B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "moonshotai/Kimi-K2.5",
           "link": "https://huggingface.co/moonshotai/Kimi-K2.5",
           "date": "2026-02-26",
@@ -196,6 +197,19 @@
           "is_english": true,
           "summary": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
           "translated_title": "moonshotai/Kimi-K2.5",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Zyphra/ZUNA",
+          "link": "https://huggingface.co/Zyphra/ZUNA",
+          "date": "2026-02-26",
+          "source": "HuggingFace",
+          "description": "• Zyphra, 뇌파 기반 파운데이션 모델 ZUNA 공개\n• 200만 시간 데이터 학습으로 노이즈 제거 구현\n• 소비자 GPU에서도 가동 가능한 가벼운 모델\n• 기존 방식 대신 뛰어난 정확도 입증 및 업스케일링 지원",
+          "image": "https://img.shields.io/badge/GitHub-Zyphra%2Fzuna-blue?logo=github",
+          "is_english": true,
+          "summary": "• Zyphra, 뇌파 기반 파운데이션 모델 ZUNA 공개\n• 200만 시간 데이터 학습으로 노이즈 제거 구현\n• 소비자 GPU에서도 가동 가능한 가벼운 모델\n• 기존 방식 대신 뛰어난 정확도 입증 및 업스케일링 지원",
+          "translated_title": "Zyphra/ZUNA",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -213,15 +227,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.5-397B-A17B-FP8",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-397B-A17B-FP8",
+          "title": "FireRedTeam/FireRed-Image-Edit-1.0",
+          "link": "https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0",
           "date": "2026-02-26",
           "source": "HuggingFace",
-          "description": "• 알리바바, 초대규모 멀티모달 모델 '큐원3.5' 공개\n• 이미지와 텍스트 동시 처리, 성능 대폭 향상\n• 효율적 아키텍처로 고속 추론 성능 구현\n• 알리바바클라우드, 관리형 API 서비스 제공",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "description": "• 파이어레드 이미지 에디트 모델 공개\n• 고해상도 이미지 편집 성능 제공\n• 텍스트 스타일 정밀 보존 지원\n• 오픈소스 최고 수준 편집 가능",
+          "image": "https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0/resolve/main/./assets/logo.png",
           "is_english": true,
-          "summary": "• 알리바바, 초대규모 멀티모달 모델 '큐원3.5' 공개\n• 이미지와 텍스트 동시 처리, 성능 대폭 향상\n• 효율적 아키텍처로 고속 추론 성능 구현\n• 알리바바클라우드, 관리형 API 서비스 제공",
-          "translated_title": "Qwen/Qwen3.5-397B-A17B-FP8",
+          "summary": "• 파이어레드 이미지 에디트 모델 공개\n• 고해상도 이미지 편집 성능 제공\n• 텍스트 스타일 정밀 보존 지원\n• 오픈소스 최고 수준 편집 가능",
+          "translated_title": "FireRedTeam/FireRed-Image-Edit-1.0",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,19 +253,6 @@
           "category": "AI Model"
         },
         {
-          "title": "FireRedTeam/FireRed-Image-Edit-1.0",
-          "link": "https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0",
-          "date": "2026-02-26",
-          "source": "HuggingFace",
-          "description": "• 파이어레드 이미지 에디트 모델 공개\n• 고해상도 이미지 편집 성능 제공\n• 텍스트 스타일 정밀 보존 지원\n• 오픈소스 최고 수준 편집 가능",
-          "image": "https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0/resolve/main/./assets/logo.png",
-          "is_english": true,
-          "summary": "• 파이어레드 이미지 에디트 모델 공개\n• 고해상도 이미지 편집 성능 제공\n• 텍스트 스타일 정밀 보존 지원\n• 오픈소스 최고 수준 편집 가능",
-          "translated_title": "FireRedTeam/FireRed-Image-Edit-1.0",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Fortytwo-Network/Strand-Rust-Coder-14B-v1",
           "link": "https://huggingface.co/Fortytwo-Network/Strand-Rust-Coder-14B-v1",
           "date": "2026-02-26",
@@ -263,13 +264,124 @@
           "translated_title": "Fortytwo-Network/Strand-Rust-Coder-14B-v1",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.5-397B-A17B-FP8",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-397B-A17B-FP8",
+          "date": "2026-02-26",
+          "source": "HuggingFace",
+          "description": "• 알리바바, 초대규모 멀티모달 모델 '큐원3.5' 공개\n• 이미지와 텍스트 동시 처리, 성능 대폭 향상\n• 효율적 아키텍처로 고속 추론 성능 구현\n• 알리바바클라우드, 관리형 API 서비스 제공",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• 알리바바, 초대규모 멀티모달 모델 '큐원3.5' 공개\n• 이미지와 텍스트 동시 처리, 성능 대폭 향상\n• 효율적 아키텍처로 고속 추론 성능 구현\n• 알리바바클라우드, 관리형 API 서비스 제공",
+          "translated_title": "Qwen/Qwen3.5-397B-A17B-FP8",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-02-25",
-      "update_time": "2026-02-25 15:52:38",
+      "update_time": "2026-02-25 18:53:07",
       "news": [
+        {
+          "title": "Gemini, 이제 Android에서 다단계 작업 자동화 지원",
+          "link": "https://techcrunch.com/2026/02/25/gemini-can-now-automate-some-multi-step-tasks-on-android/",
+          "date": "2026-02-25",
+          "source": "TechCrunch",
+          "description": "Gemini on Android will be able to automate tasks involving rideshare requests, or grocery or food delivery, says Google. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/0.-Header-2.png?resize=1200,677",
+          "is_english": true,
+          "original_title": "Gemini can now automate some multi-step tasks on Android",
+          "original_summary": "Gemini on Android will be able to automate tasks involving rideshare requests, or grocery or food delivery, says Google. ",
+          "summary": "• 안드로이드용 제미니 업데이트\n • 라이드 공유 요청 자동화\n • 식료품 및 음식 배달 지원\n • 구글의 복합 작업 자동화",
+          "translated_title": "Gemini, 이제 Android에서 다단계 작업 자동화 지원",
+          "category_keyword": "제미니"
+        },
+        {
+          "title": "OpenAI COO \"광고 도입은 점진적 과정이 될 것\"",
+          "link": "https://techcrunch.com/2026/02/25/openai-coo-says-ads-will-be-an-iterative-process/",
+          "date": "2026-02-25",
+          "source": "TechCrunch",
+          "description": "COO Brad Lightcap noted that ads can add to the product experience of users if they are done right. He urged to give OpenAI a few months to see how the company fares in rolling out the product.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+          "is_english": true,
+          "original_title": "OpenAI COO says ads will be ‘an iterative process’",
+          "original_summary": "COO Brad Lightcap noted that ads can add to the product experience of users if they are done right. He urged to give OpenAI a few months to see how the company fares in rolling out the product.",
+          "summary": "• 브래드 라이트캡 COO 발언\n • 적절한 광고는 경험 향상\n • 제품 출시 결과 기다려달라\n • 몇 달 내에 방향 확인 예정",
+          "translated_title": "OpenAI COO \"광고 도입은 점진적 과정이 될 것\"",
+          "category_keyword": "광고 도입"
+        },
+        {
+          "title": "OpenClaw 개발자 \"AI 개발자들은 더 장난기 있어야 한다\"",
+          "link": "https://techcrunch.com/2026/02/25/openclaw-creators-advice-to-ai-builders-is-to-be-more-playful-and-allow-yourself-time-to-improve/",
+          "date": "2026-02-25",
+          "source": "TechCrunch",
+          "description": "Peter Steinberger talks about the creation of his viral AI agent OpenClaw and how being more \"playful\" makes for a better way to learn AI coding. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/openclaw-creator-Peter-Steinberger.jpg?resize=1200,564",
+          "is_english": true,
+          "original_title": "OpenClaw creator’s advice to AI builders is to be more playful and allow yourself time to improve",
+          "original_summary": "Peter Steinberger talks about the creation of his viral AI agent OpenClaw and how being more \"playful\" makes for a better way to learn AI coding. ",
+          "summary": "• OpenClaw 창시자의 조언\n • AI 코딩 학습법 제시\n • '장난스러움'이 중요하다\n • 스스로 발전할 시간 확보 필요",
+          "translated_title": "OpenClaw 개발자 \"AI 개발자들은 더 장난기 있어야 한다\"",
+          "category_keyword": "OpenClaw"
+        },
+        {
+          "title": "귀중한 스케일링 노하우가 있다면 TechCrunch Founder Summit 2026 무대로",
+          "link": "https://techcrunch.com/2026/02/25/have-hard-won-scaling-lessons-to-share-take-the-stage-at-techcrunch-founder-summit/",
+          "date": "2026-02-25",
+          "source": "TechCrunch",
+          "description": "Apply to speak at TechCrunch Founder Summit 2026 by April 17 for a chance to lead a roundtable or breakout session for 1,000 founders and investors. If you’ve built, backed, or operated inside high-growth startups, your experience could shape how the next wave of founders scales. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/12/TC-All-Stage-2025-roundtable.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Have hard-won scaling lessons to share? Take the stage at TechCrunch Founder Summit 2026",
+          "original_summary": "Apply to speak at TechCrunch Founder Summit 2026 by April 17 for a chance to lead a roundtable or breakout session for 1,000 founders and investors. If you’ve built, backed, or operated inside high-growth startups, your experience could shape how the next wave of founders scales. ",
+          "summary": "• 2026년 서미트 연사 모집\n • 4월 17일까지 신청 가능\n • 1,000명의 창업자와 투자자 참여\n • 고성장 스타트업 경험 공유",
+          "translated_title": "귀중한 스케일링 노하우가 있다면 TechCrunch Founder Summit 2026 무대로",
+          "category_keyword": "서미트"
+        },
+        {
+          "title": "미국 청소년 약 12%, 정서적 지원에 AI 활용",
+          "link": "https://techcrunch.com/2026/02/25/about-12-of-u-s-teens-turn-to-ai-for-emotional-support-or-advice/",
+          "date": "2026-02-25",
+          "source": "TechCrunch",
+          "description": "General-purpose tools like ChatGPT, Claude, and Grok are not designed for this use, making mental health professionals wary.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/06/GettyImages-1499457607.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "About 12% of US teens turn to AI for emotional support or advice",
+          "original_summary": "General-purpose tools like ChatGPT, Claude, and Grok are not designed for this use, making mental health professionals wary.",
+          "summary": "• 미국 청소년 12% 활용\n • 정서적 지원이나 조언 목적\n • 챗GPT 등 범용 도구 사용\n • 정신 건강 전문가 우려 표명",
+          "translated_title": "미국 청소년 약 12%, 정서적 지원에 AI 활용",
+          "category_keyword": "AI 상담"
+        },
+        {
+          "title": "Circle to Search로 전체 그림 보고 스타일 찾기",
+          "link": "https://blog.google/products-and-platforms/products/search/circle-to-search-february-2026/",
+          "date": "2026-02-25",
+          "source": "Google AI",
+          "description": "We’ve updated Circle to Search so you can now explore multiple items in a single image.",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/FTL__Try_On_Blog_header.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "See the whole picture and find the look with Circle to Search",
+          "original_summary": "We’ve updated Circle to Search so you can now explore multiple items in a single image.",
+          "summary": "• 서치 투 서치 업데이트\n • 단일 이미지 내 탐색 확장\n • 여러 항목 동시에 분석\n • 원하는 룩을 쉽게 찾기",
+          "translated_title": "Circle to Search로 전체 그림 보고 스타일 찾기",
+          "category_keyword": "서치 투 서치"
+        },
+        {
+          "title": "더욱 스마트해진 삼성 갤럭시 S26의 안드로이드",
+          "link": "https://blog.google/products-and-platforms/platforms/android/samsung-unpacked-2026/",
+          "date": "2026-02-25",
+          "source": "Google AI",
+          "description": "At Samsung Unpacked 2026, we showcased how Samsung Galaxy S26 devices are getting the latest in Android’s AI features.",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2096x1182_withoutte.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "A more intelligent Android on Samsung Galaxy S26",
+          "original_summary": "At Samsung Unpacked 2026, we showcased how Samsung Galaxy S26 devices are getting the latest in Android’s AI features.",
+          "summary": "• 삼성 언팩 2026 공개\n • 갤럭시 S26 신기능 소개\n • 최신 안드로이드 AI 탑재\n • 스마트폰 지능 기능 고도화",
+          "translated_title": "더욱 스마트해진 삼성 갤럭시 S26의 안드로이드",
+          "category_keyword": "갤럭시S26"
+        },
         {
           "title": "AI의 악의적 사용 방해 | 2026년 2월",
           "link": "https://openai.com/index/disrupting-malicious-ai-uses",
@@ -9261,7 +9373,7 @@
         {
           "title": "zai-org/GLM-5",
           "link": "https://huggingface.co/zai-org/GLM-5",
-          "date": "2026-02-17",
+          "date": "2026-02-26",
           "source": "HuggingFace",
           "description": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -9274,7 +9386,7 @@
         {
           "title": "MiniMaxAI/MiniMax-M2.5",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-M2.5",
-          "date": "2026-02-17",
+          "date": "2026-02-26",
           "source": "HuggingFace",
           "description": "• MiniMaxAI, 신규 언어 모델 공개\n• 문장 생성 최적화 파이프라인 탑재\n• 트랜스포머 라이브러리 기반 구현\n• 수정된 MIT 라이선스 적용",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
@@ -9287,7 +9399,7 @@
         {
           "title": "Qwen/Qwen3.5-397B-A17B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-397B-A17B",
-          "date": "2026-02-17",
+          "date": "2026-02-26",
           "source": "HuggingFace",
           "description": "• 알리바바, 차세대 거대 AI 모델 공개\n• 멀티모달 기능으로 성능 대폭 개선\n• 다양한 개발 도구와 호환성 지원\n• 클라우드 기반 API 서비스 제공",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -9300,7 +9412,7 @@
         {
           "title": "Nanbeige/Nanbeige4.1-3B",
           "link": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
-          "date": "2026-02-17",
+          "date": "2026-02-26",
           "source": "HuggingFace",
           "description": "• 소형 규모로도 강력한 추론 능력 구현\n• 대형 모델 뛰어넘는 선호 정렬 성과\n• 도구 호출 등 에이전트 기능 고도화\n• 복잡한 문제 해결 지원하는 신모델 공개",
           "image": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B/resolve/main/figures/nbg.png",
@@ -9326,7 +9438,7 @@
         {
           "title": "moonshotai/Kimi-K2.5",
           "link": "https://huggingface.co/moonshotai/Kimi-K2.5",
-          "date": "2026-02-17",
+          "date": "2026-02-26",
           "source": "HuggingFace",
           "description": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
           "image": "https://huggingface.co/moonshotai/Kimi-K2.5/resolve/main/figures/kimi-logo.png",
@@ -9339,7 +9451,7 @@
         {
           "title": "nvidia/personaplex-7b-v1",
           "link": "https://huggingface.co/nvidia/personaplex-7b-v1",
-          "date": "2026-02-17",
+          "date": "2026-02-26",
           "source": "HuggingFace",
           "description": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
