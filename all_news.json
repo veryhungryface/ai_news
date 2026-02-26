@@ -2,8 +2,50 @@
   "dates": [
     {
       "date": "2026-02-27",
-      "update_time": "2026-02-26 18:39:01",
+      "update_time": "2026-02-26 21:27:45",
       "news": [
+        {
+          "title": "교육부-대교협 간담회…'대학 AI 활용 가이드라인' 논의",
+          "link": "https://www.yna.co.kr/view/AKR20260226164400530",
+          "date": "2026-02-27",
+          "source": "연합뉴스",
+          "description": "(세종=연합뉴스) 고상민 기자 = 교육부와 한국대학교육협의회는 27일 서울역 삼경교육센터에서 &apos;대학 인공지능(AI) 활용 윤리 지침(가이드라인)...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/02/26/AKR20260226164400530_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "교육부-대교협 간담회…'대학 AI 활용 가이드라인' 논의",
+          "original_summary": "(세종=연합뉴스) 고상민 기자 = 교육부와 한국대학교육협의회는 27일 서울역 삼경교육센터에서 &apos;대학 인공지능(AI) 활용 윤리 지침(가이드라인)...",
+          "summary": "• 교육부와 대교협 간담회 개최\n• 대학 AI 활용 가이드라인 논의\n• AI 윤리 지침 마련 목적\n• 서울역 삼경교육센터 진행",
+          "translated_title": "교육부-대교협 간담회…'대학 AI 활용 가이드라인' 논의",
+          "category_keyword": "가이드라인"
+        },
+        {
+          "title": "'유관순 조롱' 공분에도…경찰, AI 모독영상 수사 못하나",
+          "link": "https://www.yna.co.kr/view/AKR20260226189000004",
+          "date": "2026-02-27",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 이의진 기자 = 3·1절을 앞두고 유관순 열사를 조롱하는 생성형 인공지능(AI) 영상이 공분을 사고 있지만, 정작 현행법으로는...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/02/26/AKR20260226189000004_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "'유관순 조롱' 공분에도…경찰, AI 모독영상 수사 못하나",
+          "original_summary": "(서울=연합뉴스) 이의진 기자 = 3·1절을 앞두고 유관순 열사를 조롱하는 생성형 인공지능(AI) 영상이 공분을 사고 있지만, 정작 현행법으로는...",
+          "summary": "• 유관순 조롱 AI 영상 유포\n• 현행법상 수사 근거 부족\n• 3·1절 맞아 공분 사고 중\n• 법적 제도 개선 필요성 제기",
+          "translated_title": "'유관순 조롱' 공분에도…경찰, AI 모독영상 수사 못하나",
+          "category_keyword": "수사난"
+        },
+        {
+          "title": "삼바노바, AI 시장에서의 전략적 움직임",
+          "link": "https://aibusiness.com/agentic-ai/sambanova-s-strategic-move-in-ai-market",
+          "date": "2026-02-27",
+          "source": "AI Business",
+          "description": "Partnering with Intel, SambaNova aims to deliver cost-effective AI inference systems as the market shifts toward more complex, multi-step reasoning.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt7406f684ce731366/69a0abdd7b888e000862d42f/AI_chip_pic.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "SambaNova's Strategic Move in the AI Market",
+          "original_summary": "Partnering with Intel, SambaNova aims to deliver cost-effective AI inference systems as the market shifts toward more complex, multi-step reasoning.",
+          "summary": "• 인텔과 전략적 파트너십\n• 비용 효율적 AI 시스템 목표\n• 복잡한 추론 시장 대응\n• AI 추론 솔루션 공급 계획",
+          "translated_title": "삼바노바, AI 시장에서의 전략적 움직임",
+          "category_keyword": "인텔"
+        },
         {
           "title": "인트린직, 구글에 합류하여 물리적 AI 가속화 나선다",
           "link": "https://aibusiness.com/robotics/intrinsic-joins-google-for-physical-ai",
@@ -99,19 +141,6 @@
           "category": "AI Model"
         },
         {
-          "title": "zai-org/GLM-5",
-          "link": "https://huggingface.co/zai-org/GLM-5",
-          "date": "2026-02-27",
-          "source": "HuggingFace",
-          "description": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
-          "translated_title": "zai-org/GLM-5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Qwen3.5-35B-A3B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.5-35B-A3B-GGUF",
           "date": "2026-02-27",
@@ -121,6 +150,19 @@
           "is_english": true,
           "summary": "• 후깅페이스에 Qwen3.5 신규 모델 공개\n• 로컬 환경에서 고성능 추론 지원\n• 이미지와 텍스트 복합 처리 가능\n• 최적화된 정밀도 구현 성능 입증",
           "translated_title": "unsloth/Qwen3.5-35B-A3B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "zai-org/GLM-5",
+          "link": "https://huggingface.co/zai-org/GLM-5",
+          "date": "2026-02-27",
+          "source": "HuggingFace",
+          "description": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
+          "translated_title": "zai-org/GLM-5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -151,19 +193,6 @@
           "category": "AI Model"
         },
         {
-          "title": "MiniMaxAI/MiniMax-M2.5",
-          "link": "https://huggingface.co/MiniMaxAI/MiniMax-M2.5",
-          "date": "2026-02-27",
-          "source": "HuggingFace",
-          "description": "• MiniMaxAI, 신규 언어 모델 공개\n• 문장 생성 최적화 파이프라인 탑재\n• 트랜스포머 라이브러리 기반 구현\n• 수정된 MIT 라이선스 적용",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
-          "is_english": true,
-          "summary": "• MiniMaxAI, 신규 언어 모델 공개\n• 문장 생성 최적화 파이프라인 탑재\n• 트랜스포머 라이브러리 기반 구현\n• 수정된 MIT 라이선스 적용",
-          "translated_title": "MiniMaxAI/MiniMax-M2.5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "LocoreMind/LocoOperator-4B",
           "link": "https://huggingface.co/LocoreMind/LocoOperator-4B",
           "date": "2026-02-27",
@@ -173,6 +202,19 @@
           "is_english": true,
           "summary": "• 코딩 에이전트 전용 LLM 'LocoOperator' 공개\n• 4B 파라미터 작은 사이즈로 로컬 실행 지원\n• 코드 탐색 및 도구 호출 전문 기능 탑재\n• 추론 비용 절감 위한 지도 학습 기반 학습",
           "translated_title": "LocoreMind/LocoOperator-4B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-M2.5",
+          "link": "https://huggingface.co/MiniMaxAI/MiniMax-M2.5",
+          "date": "2026-02-27",
+          "source": "HuggingFace",
+          "description": "• MiniMaxAI, 신규 언어 모델 공개\n• 문장 생성 최적화 파이프라인 탑재\n• 트랜스포머 라이브러리 기반 구현\n• 수정된 MIT 라이선스 적용",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• MiniMaxAI, 신규 언어 모델 공개\n• 문장 생성 최적화 파이프라인 탑재\n• 트랜스포머 라이브러리 기반 구현\n• 수정된 MIT 라이선스 적용",
+          "translated_title": "MiniMaxAI/MiniMax-M2.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -242,19 +284,6 @@
           "category": "AI Model"
         },
         {
-          "title": "KittenML/kitten-tts-mini-0.8",
-          "link": "https://huggingface.co/KittenML/kitten-tts-mini-0.8",
-          "date": "2026-02-27",
-          "source": "HuggingFace",
-          "description": "• 오픈소스 고품질 TTS 모델 공개\n• 80MB 용량의 가벼운 모델 구조\n• 8가지 목소리 지원 기능 제공\n• GPU 없이도 빠른 음성 생성",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• 오픈소스 고품질 TTS 모델 공개\n• 80MB 용량의 가벼운 모델 구조\n• 8가지 목소리 지원 기능 제공\n• GPU 없이도 빠른 음성 생성",
-          "translated_title": "KittenML/kitten-tts-mini-0.8",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Qwen3.5-27B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.5-27B-GGUF",
           "date": "2026-02-27",
@@ -264,6 +293,19 @@
           "is_english": true,
           "summary": "• 언슬로스, Qwen3.5 모델 로컬 구동 가이드 공개\n• GGUF 포맷, 고성능 양자화 기술 탑재\n• 이미지와 텍스트 처리 멀티모달 기능 지원\n• 주요 프레임워크 호환성 확보 및 제공",
           "translated_title": "unsloth/Qwen3.5-27B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "KittenML/kitten-tts-mini-0.8",
+          "link": "https://huggingface.co/KittenML/kitten-tts-mini-0.8",
+          "date": "2026-02-27",
+          "source": "HuggingFace",
+          "description": "• 오픈소스 고품질 TTS 모델 공개\n• 80MB 용량의 가벼운 모델 구조\n• 8가지 목소리 지원 기능 제공\n• GPU 없이도 빠른 음성 생성",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• 오픈소스 고품질 TTS 모델 공개\n• 80MB 용량의 가벼운 모델 구조\n• 8가지 목소리 지원 기능 제공\n• GPU 없이도 빠른 음성 생성",
+          "translated_title": "KittenML/kitten-tts-mini-0.8",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -310,8 +352,78 @@
     },
     {
       "date": "2026-02-26",
-      "update_time": "2026-02-26 18:39:01",
+      "update_time": "2026-02-26 21:27:45",
       "news": [
+        {
+          "title": "광주, AI·미래차 인재양성 국비 356억 확보",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207328",
+          "date": "2026-02-26",
+          "source": "AI타임스",
+          "description": "광주시가 AI와 미래차 등 첨단산업 인재양성을 위한 국비 356억원을 확보했다. 광주지역 4개 대학에서 5년간 3550여명의 지역산업 맞춤형 우수인재 양성을 목표로, 청년 취업난 해소와 산업 경쟁력 제고에 기여한다.광주시(시장 강기정)는 대학과 기업이 공동으로 취업희망자 대상으로 단기 집중교육 프로그램을 개발·운영하고 취업과 연계 지원을 위해 교육부가 추진하는 ‘2026년 첨단산업 인재양성 부트캠프 사업’ 공모에서 AI와 미래차 분야가 최종 선정돼 국비를 지원받게 됐다고 26일 밝혔다. 광주지역 대학 중 AI 부트캠프에는 광주대·전",
+          "image": "https://cdn.aitimes.com/news/photo/202602/207328_209410_1425.jpg",
+          "is_english": false,
+          "original_title": "광주, AI·미래차 인재양성 국비 356억 확보",
+          "original_summary": "광주시가 AI와 미래차 등 첨단산업 인재양성을 위한 국비 356억원을 확보했다. 광주지역 4개 대학에서 5년간 3550여명의 지역산업 맞춤형 우수인재 양성을 목표로, 청년 취업난 해소와 산업 경쟁력 제고에 기여한다.광주시(시장 강기정)는 대학과 기업이 공동으로 취업희망자 대상으로 단기 집중교육 프로그램을 개발·운영하고 취업과 연계 지원을 위해 교육부가 추진하는 ‘2026년 첨단산업 인재양성 부트캠프 사업’ 공모에서 AI와 미래차 분야가 최종 선정돼 국비를 지원받게 됐다고 26일 밝혔다. 광주지역 대학 중 AI 부트캠프에는 광주대·전",
+          "summary": "• 광주시 국비 356억 확보\n• AI·미래차 인재 양성 추진\n• 5년간 3550여 명 교육 목표\n• 지역 청년 취업난 해소 기대",
+          "translated_title": "광주, AI·미래차 인재양성 국비 356억 확보",
+          "category_keyword": "인재양성"
+        },
+        {
+          "title": "프라다 브랜드의 메타 AI 안경, 나올까?",
+          "link": "https://techcrunch.com/2026/02/26/so-were-getting-prada-meta-ai-glasses-right/",
+          "date": "2026-02-26",
+          "source": "TechCrunch",
+          "description": "Mark Zuckerberg was at Prada's fashion week event in Milan, leaving everyone to wonder if we're getting Meta AI glasses under the Prada brand.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/09/zuck-meta.png?w=1200",
+          "is_english": true,
+          "original_title": "So, we’re getting Prada Meta AI glasses, right?",
+          "original_summary": "Mark Zuckerberg was at Prada's fashion week event in Milan, leaving everyone to wonder if we're getting Meta AI glasses under the Prada brand.",
+          "summary": "• 마크 저커버그 밀라노 방문\n• 프라다 패션위크 행사 참석\n• 메타-프라다 협업 추측\n• AI 안경 출시 기대감 고조",
+          "translated_title": "프라다 브랜드의 메타 AI 안경, 나올까?",
+          "category_keyword": "협업"
+        },
+        {
+          "title": "소피아 스페이스, 신형 우주 컴퓨터 시연에 1천만 달러 시드 투자 유치",
+          "link": "https://techcrunch.com/2026/02/26/sophia-space-raises-10m-seed-to-demo-novel-space-computers/",
+          "date": "2026-02-26",
+          "source": "TechCrunch",
+          "description": "The company's modular computer tiles offer a new vision for space data centers. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/Sophia-TCS40.jpeg?resize=1200,676",
+          "is_english": true,
+          "original_title": "Sophia Space raises $10M seed to demo novel space computers",
+          "original_summary": "The company's modular computer tiles offer a new vision for space data centers. ",
+          "summary": "• 시드 투자 1천만 달러 확보\n• 모듈형 컴퓨터 타일 개발\n• 우주 데이터센터 비전 제시\n• 신규 우주 컴퓨팅 기술 시연",
+          "translated_title": "소피아 스페이스, 신형 우주 컴퓨터 시연에 1천만 달러 시드 투자 유치",
+          "category_keyword": "투자"
+        },
+        {
+          "title": "미스트랄 AI, 글로벌 컨설팅 거인 액센추어와 파트너십 체결",
+          "link": "https://techcrunch.com/2026/02/26/mistral-ai-inks-a-deal-with-global-consulting-giant-accenture/",
+          "date": "2026-02-26",
+          "source": "TechCrunch",
+          "description": "Mistral AI lands a partnership with Accenture, the consultant that has also recently announced partnerships with rivals OpenAI and Anthropic. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2147859992-e1713960898378.jpg?resize=1200,676",
+          "is_english": true,
+          "original_title": "Mistral AI inks a deal with global consulting giant Accenture",
+          "original_summary": "Mistral AI lands a partnership with Accenture, the consultant that has also recently announced partnerships with rivals OpenAI and Anthropic. ",
+          "summary": "• 액센추어와 파트너십 체결\n• 경쟁사들과도 협력 비교\n• 글로벌 시장 확보 전략\n• AI 기술 컨설팅 사업 강화",
+          "translated_title": "미스트랄 AI, 글로벌 컨설팅 거인 액센추어와 파트너십 체결",
+          "category_keyword": "파트너십"
+        },
+        {
+          "title": "구글, 매사추세츠 AI 허브와 새로운 AI 교육 이니셔티브.launch",
+          "link": "https://blog.google/company-news/outreach-and-initiatives/grow-with-google/google-ai-training-massachusetts-residents/",
+          "date": "2026-02-26",
+          "source": "Google AI",
+          "description": "Google is partnering with the Massachusetts AI Hub to provide every Baystater with no-cost access to Google’s AI training.",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/691A1377_1920x1080.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "Google and the Massachusetts AI Hub are launching a new AI training initiative for the Commonwealth.",
+          "original_summary": "Google is partnering with the Massachusetts AI Hub to provide every Baystater with no-cost access to Google’s AI training.",
+          "summary": "• 매사추세츠 AI 허브와 협력\n• 새로운 AI 교육 이니셔티브\n• 무료 AI 교육 제공 예정\n• 주민 대상 디지털 격차 해소",
+          "translated_title": "구글, 매사추세츠 AI 허브와 새로운 AI 교육 이니셔티브.launch",
+          "category_keyword": "교육"
+        },
         {
           "title": "태평양 북서부 국립연구소, 연방 허가 절차 가속화 위해 OpenAI와 파트너십 체결",
           "link": "https://openai.com/index/pacific-northwest-national-laboratory",
