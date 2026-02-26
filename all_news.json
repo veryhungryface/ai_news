@@ -2,8 +2,50 @@
   "dates": [
     {
       "date": "2026-02-27",
-      "update_time": "2026-02-26 15:43:51",
+      "update_time": "2026-02-26 18:39:01",
       "news": [
+        {
+          "title": "인트린직, 구글에 합류하여 물리적 AI 가속화 나선다",
+          "link": "https://aibusiness.com/robotics/intrinsic-joins-google-for-physical-ai",
+          "date": "2026-02-27",
+          "source": "AI Business",
+          "description": "The Alphabet robotics unit will integrate more closely with Google DeepMind, Gemini and Google Cloud to bring AI-powered automation into manufacturing.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltb114ee70ee16e47b/69a07f34197ba700087f3cb8/INtrinsic_logo.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Intrinsic Joins Google to Accelerate Physical AI",
+          "original_summary": "The Alphabet robotics unit will integrate more closely with Google DeepMind, Gemini and Google Cloud to bring AI-powered automation into manufacturing.",
+          "summary": "• 알파벳의 로보틱스 부문 인트린직이 구글과 통합\n• 딥마인드, 젬니, 구글 클라우드와 긴밀히 협력 예정\n• 제조 분야에 AI 기반 자동화 솔루션을 도입 목표\n• 로보틱스와 생성형 AI 기술의 융합을 가속화",
+          "translated_title": "인트린직, 구글에 합류하여 물리적 AI 가속화 나선다",
+          "category_keyword": "로보틱스"
+        },
+        {
+          "title": "서비스나우, 자율 근무 인력(Autonomous Workforce) 출시",
+          "link": "https://aibusiness.com/agentic-ai/servicenow-launches-autonomous-workforce",
+          "date": "2026-02-27",
+          "source": "AI Business",
+          "description": "The vendor said the specialists are more than AI agents. They perform entire job functions. While appealing, implementing these specialists could be challenging.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt78d6b659b7c8284e/69a07a9c9372de000896c27f/ServiceNow_logo.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "ServiceNow Launches Autonomous Workforce",
+          "original_summary": "The vendor said the specialists are more than AI agents. They perform entire job functions. While appealing, implementing these specialists could be challenging.",
+          "summary": "• 서비스나우가 단순 AI 에이전트를 넘어선 솔루션 공개\n• 전 직무 기능을 수행하는 전문가 스페셜리스트 도입\n• 업무 자동화 수준을 한 단계 더 끌어올린 기능\n• 실제 구현 과정에서의 기술적 난이도는 여전함",
+          "translated_title": "서비스나우, 자율 근무 인력(Autonomous Workforce) 출시",
+          "category_keyword": "자동화"
+        },
+        {
+          "title": "자율주행 AI 기업 웨이브, 12억 달러 투자 유치",
+          "link": "https://aibusiness.com/intelligent-automation/self-driving-ai-vendor-wayve-raises-1-2-billion",
+          "date": "2026-02-27",
+          "source": "AI Business",
+          "description": "The new funding comes as the vendor looks to launch commercial trials this year.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt2193d16954a46905/69a06be7f06d300008dbf324/Autocar.jpeg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Self-Driving AI Vendor Wayve Raises $1.2 billion",
+          "original_summary": "The new funding comes as the vendor looks to launch commercial trials this year.",
+          "summary": "• 영국 자율주행 스타트업 웨이브가 대규모 투자 유치\n• 총 투자금액이 12억 달러에 달하는 메가 라운드\n• 올해 상용화 시범 운행을 시작할 계획을 밝힘\n• 자율주행 기술 상용화를 위한 개발 가속에 자금 활용",
+          "translated_title": "자율주행 AI 기업 웨이브, 12억 달러 투자 유치",
+          "category_keyword": "자율주행"
+        },
         {
           "title": "Qwen/Qwen3.5-35B-A3B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
@@ -135,19 +177,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/personaplex-7b-v1",
-          "link": "https://huggingface.co/nvidia/personaplex-7b-v1",
-          "date": "2026-02-27",
-          "source": "HuggingFace",
-          "description": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
-          "translated_title": "nvidia/personaplex-7b-v1",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "LiquidAI/LFM2-24B-A2B",
           "link": "https://huggingface.co/LiquidAI/LFM2-24B-A2B",
           "date": "2026-02-27",
@@ -157,6 +186,19 @@
           "is_english": true,
           "summary": "• 리퀴드AI, 온디바이스 특화 LFM2 공개\n• 24억 파라미터 모델 효율성 최고화\n• 소비자용 노트북 탑재 가능 설계\n• CPU·H100에서 초고속 추론 지원",
           "translated_title": "LiquidAI/LFM2-24B-A2B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/personaplex-7b-v1",
+          "link": "https://huggingface.co/nvidia/personaplex-7b-v1",
+          "date": "2026-02-27",
+          "source": "HuggingFace",
+          "description": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
+          "translated_title": "nvidia/personaplex-7b-v1",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -187,19 +229,6 @@
           "category": "AI Model"
         },
         {
-          "title": "KittenML/kitten-tts-mini-0.8",
-          "link": "https://huggingface.co/KittenML/kitten-tts-mini-0.8",
-          "date": "2026-02-27",
-          "source": "HuggingFace",
-          "description": "• 오픈소스 고품질 TTS 모델 공개\n• 80MB 용량의 가벼운 모델 구조\n• 8가지 목소리 지원 기능 제공\n• GPU 없이도 빠른 음성 생성",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• 오픈소스 고품질 TTS 모델 공개\n• 80MB 용량의 가벼운 모델 구조\n• 8가지 목소리 지원 기능 제공\n• GPU 없이도 빠른 음성 생성",
-          "translated_title": "KittenML/kitten-tts-mini-0.8",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Qwen3.5-122B-A10B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.5-122B-A10B-GGUF",
           "date": "2026-02-27",
@@ -213,15 +242,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Zyphra/ZUNA",
-          "link": "https://huggingface.co/Zyphra/ZUNA",
+          "title": "KittenML/kitten-tts-mini-0.8",
+          "link": "https://huggingface.co/KittenML/kitten-tts-mini-0.8",
           "date": "2026-02-27",
           "source": "HuggingFace",
-          "description": "• Zyphra, 뇌파 기반 파운데이션 모델 ZUNA 공개\n• 200만 시간 데이터 학습으로 노이즈 제거 구현\n• 소비자 GPU에서도 가동 가능한 가벼운 모델\n• 기존 방식 대신 뛰어난 정확도 입증 및 업스케일링 지원",
-          "image": "https://img.shields.io/badge/GitHub-Zyphra%2Fzuna-blue?logo=github",
+          "description": "• 오픈소스 고품질 TTS 모델 공개\n• 80MB 용량의 가벼운 모델 구조\n• 8가지 목소리 지원 기능 제공\n• GPU 없이도 빠른 음성 생성",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• Zyphra, 뇌파 기반 파운데이션 모델 ZUNA 공개\n• 200만 시간 데이터 학습으로 노이즈 제거 구현\n• 소비자 GPU에서도 가동 가능한 가벼운 모델\n• 기존 방식 대신 뛰어난 정확도 입증 및 업스케일링 지원",
-          "translated_title": "Zyphra/ZUNA",
+          "summary": "• 오픈소스 고품질 TTS 모델 공개\n• 80MB 용량의 가벼운 모델 구조\n• 8가지 목소리 지원 기능 제공\n• GPU 없이도 빠른 음성 생성",
+          "translated_title": "KittenML/kitten-tts-mini-0.8",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -252,6 +281,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Zyphra/ZUNA",
+          "link": "https://huggingface.co/Zyphra/ZUNA",
+          "date": "2026-02-27",
+          "source": "HuggingFace",
+          "description": "• Zyphra, 뇌파 기반 파운데이션 모델 ZUNA 공개\n• 200만 시간 데이터 학습으로 노이즈 제거 구현\n• 소비자 GPU에서도 가동 가능한 가벼운 모델\n• 기존 방식 대신 뛰어난 정확도 입증 및 업스케일링 지원",
+          "image": "https://img.shields.io/badge/GitHub-Zyphra%2Fzuna-blue?logo=github",
+          "is_english": true,
+          "summary": "• Zyphra, 뇌파 기반 파운데이션 모델 ZUNA 공개\n• 200만 시간 데이터 학습으로 노이즈 제거 구현\n• 소비자 GPU에서도 가동 가능한 가벼운 모델\n• 기존 방식 대신 뛰어난 정확도 입증 및 업스케일링 지원",
+          "translated_title": "Zyphra/ZUNA",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "FireRedTeam/FireRed-Image-Edit-1.0",
           "link": "https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0",
           "date": "2026-02-27",
@@ -268,8 +310,106 @@
     },
     {
       "date": "2026-02-26",
-      "update_time": "2026-02-26 15:43:51",
+      "update_time": "2026-02-26 18:39:01",
       "news": [
+        {
+          "title": "태평양 북서부 국립연구소, 연방 허가 절차 가속화 위해 OpenAI와 파트너십 체결",
+          "link": "https://openai.com/index/pacific-northwest-national-laboratory",
+          "date": "2026-02-26",
+          "source": "OpenAI",
+          "description": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting",
+          "original_summary": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA drafting time by up to 15% and modernize infrastructure reviews.",
+          "summary": "• OpenAI와 PNNL이 협력하여 AI 코딩 에이전트 성능 평가\n• 연방 허가 절차 가속화 위한 'DraftNEPABench' 공개\n• NEPA 문서 작성 시간 최대 15% 단축 효과 기대\n• 인프라 검토 절차의 현대화와 효율성 도모",
+          "translated_title": "태평양 북서부 국립연구소, 연방 허가 절차 가속화 위해 OpenAI와 파트너십 체결",
+          "category_keyword": "허가절차"
+        },
+        {
+          "title": "Read AI, 일정 관리 및 답변 지원하는 이메일 기반 '디지털 트윈' 출시",
+          "link": "https://techcrunch.com/2026/02/26/read-ai-launches-an-email-based-digital-twin-to-help-you-with-schedules-and-answers/",
+          "date": "2026-02-26",
+          "source": "TechCrunch",
+          "description": "Read AI is launching Ada, which can reply with your availability and extract answers from the company knowledge base and the web.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/Read-AI-Digital-Twin.jpg?w=1200",
+          "is_english": true,
+          "original_title": "Read AI launches an email-based ‘digital twin’ to help you with schedules and answers",
+          "original_summary": "Read AI is launching Ada, which can reply with your availability and extract answers from the company knowledge base and the web.",
+          "summary": "• Read AI가 개인 비서 역할을 하는 'Ada'를 출시\n• 사용자 대신 일정 가용 여부를 자동으로 답변\n• 회사 지식 베이스와 웹에서 정보 추출 가능\n• 이메일을 통해 업무 효율성을 크게 개선하는 기능 제공",
+          "translated_title": "Read AI, 일정 관리 및 답변 지원하는 이메일 기반 '디지털 트윈' 출시",
+          "category_keyword": "디지털트윈"
+        },
+        {
+          "title": "범블, AI 기반 사진 피드백 및 프로필 가이드 도구 추가",
+          "link": "https://techcrunch.com/2026/02/26/bumble-adds-ai-powered-photo-feedback-and-profile-guidance-tools/",
+          "date": "2026-02-26",
+          "source": "TechCrunch",
+          "description": "Bumble and other popular dating apps, like Match Group's Tinder and Hinge, have all embraced AI-powered features.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/07/bumble-app.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Bumble adds AI-powered photo feedback and profile guidance tools",
+          "original_summary": "Bumble and other popular dating apps, like Match Group's Tinder and Hinge, have all embraced AI-powered features.",
+          "summary": "• 데이팅 앱 범블이 AI 기반 신규 기능을 도입\n• 사용자 사진에 대한 AI 피드백 기능 제공\n• 매력적인 프로필 작성을 돕는 가이드 도구 포함\n• 틴더, 힌지 등 경쟁사 역시 AI 기능 확장 추세",
+          "translated_title": "범블, AI 기반 사진 피드백 및 프로필 가이드 도구 추가",
+          "category_keyword": "범블"
+        },
+        {
+          "title": "구글, 더 빠른 이미지 생성 탑재 '나노 바나나 2' 모델 출시",
+          "link": "https://techcrunch.com/2026/02/26/google-launches-nano-banana-2-model-with-faster-image-generation/",
+          "date": "2026-02-26",
+          "source": "TechCrunch",
+          "description": "Google is making Nano Banana 2 a default model in Gemini app and in AI mode.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/Landscape.jpeg?resize=1200,670",
+          "is_english": true,
+          "original_title": "Google launches Nano Banana 2 model with faster image generation",
+          "original_summary": "Google is making Nano Banana 2 a default model in Gemini app and in AI mode.",
+          "summary": "• 구글이 최신 이미지 생성 모델 '나노 바나나 2'를 공개\n• 젬니 앱과 AI 모드에서 해당 모델을 기본값으로 적용\n• 기존 대비 이미지 생성 속도를 획기적으로 개선\n• 고화질 이미지를 더욱 빠르게 생성할 수 있는 기대",
+          "translated_title": "구글, 더 빠른 이미지 생성 탑재 '나노 바나나 2' 모델 출시",
+          "category_keyword": "구글"
+        },
+        {
+          "title": "구글 번역, AI 신규 업데이트로 번역 문맥 및 이해도 강화",
+          "link": "https://blog.google/products-and-platforms/products/translate/translation-context-ai-update/",
+          "date": "2026-02-26",
+          "source": "Google AI",
+          "description": "New alternatives, “understand” and “ask” buttons in Google Translate help you navigate the complexities of natural language.",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Translate_TextTranslate_1920x10.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "Get more context and understand translations more deeply with new AI-powered updates in Translate.",
+          "original_summary": "New alternatives, “understand” and “ask” buttons in Google Translate help you navigate the complexities of natural language.",
+          "summary": "• 구글 번역에 AI를 활용한 새로운 기능이 추가됨\n• 번역의 문맥을 더 깊이 이해할 수 있는 기능 제공\n• '대체안', '이해하기', '질문하기' 버튼 신설\n• 자연어의 복잡성을 사용자가 쉽게 파악하도록 지원",
+          "translated_title": "구글 번역, AI 신규 업데이트로 번역 문맥 및 이해도 강화",
+          "category_keyword": "번역"
+        },
+        {
+          "title": "최고의 이미지 생성과 편집 모델 '나노 바나나 2'로 빌드하세요",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-nano-banana-2/",
+          "date": "2026-02-26",
+          "source": "Google AI",
+          "description": "Nano Banana 2 (Gemini 3.1 Flash Image) delivers Pro-level intelligence and fidelity for all image applications.",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BuildWith_Hero.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "Build with Nano Banana 2, our best image generation and editing model",
+          "original_summary": "Nano Banana 2 (Gemini 3.1 Flash Image) delivers Pro-level intelligence and fidelity for all image applications.",
+          "summary": "• 나노 바나나 2(Gemini 3.1 Flash Image) 모델 공개\n• 모든 이미지 애플리케이션에 프로급 지능 적용\n• 높은 충실도와 디테일을 구현하는 성능 제공\n• 이미지 생성과 편집 작업의 품질을 혁신적으로 개선",
+          "translated_title": "최고의 이미지 생성과 편집 모델 '나노 바나나 2'로 빌드하세요",
+          "category_keyword": "이미지"
+        },
+        {
+          "title": "나노 바나나 2: 프로급 기능에 번개 같은 속도를 더하다",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+          "date": "2026-02-26",
+          "source": "Google AI",
+          "description": "Our latest image generation model offers advanced world knowledge, production-ready specs, subject consistency and more, all at Flash speed.",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/NB2_Hero.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+          "original_summary": "Our latest image generation model offers advanced world knowledge, production-ready specs, subject consistency and more, all at Flash speed.",
+          "summary": "• 나노 바나나 2가 최신 이미지 생성 모델로 화제\n• 고급 월드 지식과 프로덕션 레벨 사양을 갖춰\n• 주제의 일관성을 유지하며 플래시 속도로 생성\n• 고성능 이미지 모델의 속도와 퀄리티를 동시에 해결",
+          "translated_title": "나노 바나나 2: 프로급 기능에 번개 같은 속도를 더하다",
+          "category_keyword": "생성모델"
+        },
         {
           "title": "OpenAI Codex와 피그마, 코드와 디자인의 완벽한 연동 경험 출시",
           "link": "https://openai.com/index/figma-partnership",
@@ -10199,7 +10339,7 @@
         {
           "title": "zai-org/GLM-5",
           "link": "https://huggingface.co/zai-org/GLM-5",
-          "date": "2026-02-18",
+          "date": "2026-02-27",
           "source": "HuggingFace",
           "description": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -10212,7 +10352,7 @@
         {
           "title": "MiniMaxAI/MiniMax-M2.5",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-M2.5",
-          "date": "2026-02-18",
+          "date": "2026-02-27",
           "source": "HuggingFace",
           "description": "• MiniMaxAI, 신규 언어 모델 공개\n• 문장 생성 최적화 파이프라인 탑재\n• 트랜스포머 라이브러리 기반 구현\n• 수정된 MIT 라이선스 적용",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
@@ -10225,7 +10365,7 @@
         {
           "title": "Qwen/Qwen3.5-397B-A17B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-397B-A17B",
-          "date": "2026-02-18",
+          "date": "2026-02-27",
           "source": "HuggingFace",
           "description": "• 알리바바, 차세대 거대 AI 모델 공개\n• 멀티모달 기능으로 성능 대폭 개선\n• 다양한 개발 도구와 호환성 지원\n• 클라우드 기반 API 서비스 제공",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -10238,7 +10378,7 @@
         {
           "title": "Nanbeige/Nanbeige4.1-3B",
           "link": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
-          "date": "2026-02-18",
+          "date": "2026-02-27",
           "source": "HuggingFace",
           "description": "• 소형 규모로도 강력한 추론 능력 구현\n• 대형 모델 뛰어넘는 선호 정렬 성과\n• 도구 호출 등 에이전트 기능 고도화\n• 복잡한 문제 해결 지원하는 신모델 공개",
           "image": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B/resolve/main/figures/nbg.png",
@@ -10264,7 +10404,7 @@
         {
           "title": "nvidia/personaplex-7b-v1",
           "link": "https://huggingface.co/nvidia/personaplex-7b-v1",
-          "date": "2026-02-18",
+          "date": "2026-02-27",
           "source": "HuggingFace",
           "description": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -10290,7 +10430,7 @@
         {
           "title": "moonshotai/Kimi-K2.5",
           "link": "https://huggingface.co/moonshotai/Kimi-K2.5",
-          "date": "2026-02-18",
+          "date": "2026-02-27",
           "source": "HuggingFace",
           "description": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
           "image": "https://huggingface.co/moonshotai/Kimi-K2.5/resolve/main/figures/kimi-logo.png",
@@ -10329,7 +10469,7 @@
         {
           "title": "FireRedTeam/FireRed-Image-Edit-1.0",
           "link": "https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0",
-          "date": "2026-02-18",
+          "date": "2026-02-27",
           "source": "HuggingFace",
           "description": "• 파이어레드 이미지 에디트 모델 공개\n• 고해상도 이미지 편집 성능 제공\n• 텍스트 스타일 정밀 보존 지원\n• 오픈소스 최고 수준 편집 가능",
           "image": "https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.0/resolve/main/./assets/logo.png",
@@ -10368,7 +10508,7 @@
         {
           "title": "Qwen/Qwen3-Coder-Next",
           "link": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
-          "date": "2026-02-18",
+          "date": "2026-02-27",
           "source": "HuggingFace",
           "description": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
           "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Coder-Next/benchmarks.png",
@@ -10381,7 +10521,7 @@
         {
           "title": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
           "link": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
-          "date": "2026-02-18",
+          "date": "2026-02-27",
           "source": "HuggingFace",
           "description": "• Qwen3-TTS-12Hz-1.7B-CustomVoice 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-TTS-Repo/qwen3_tts_introduction.png",
