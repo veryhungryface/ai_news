@@ -2,8 +2,22 @@
   "dates": [
     {
       "date": "2026-02-28",
-      "update_time": "2026-02-27 18:28:58",
+      "update_time": "2026-02-27 21:20:24",
       "news": [
+        {
+          "title": "앤트로픽, 펜타곤 요구 거부… AI 안보 논쟁 불붙여",
+          "link": "https://aibusiness.com/ai-ethics/anthropic-defies-pentagon-sparking-an-ai-safety-debate",
+          "date": "2026-02-28",
+          "source": "AI Business",
+          "description": "The company risks losing a Pentagon deal, but its stance highlights broader tensions over AI safety, sovereignty and vendor control in defense applications.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt7bdf883de00f6267/69a20797234be9af307cf12d/anthropic.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Anthropic Defies Pentagon, Sparking an AI Safety Debate",
+          "original_summary": "The company risks losing a Pentagon deal, but its stance highlights broader tensions over AI safety, sovereignty and vendor control in defense applications.",
+          "summary": "• 앤트로픽, 안보 우려로 펜타곤 계약 포기 위험\n• AI 안전성과 주권, 기업 통제권 간 갈등\n• 방위 분야 AI 적용에 대한 광범위한 긴장\n• 기업의 윤리적 입장과 실무적 딜레마 공개",
+          "translated_title": "앤트로픽, 펜타곤 요구 거부… AI 안보 논쟁 불붙여",
+          "category_keyword": "AI안전"
+        },
         {
           "title": "구글, AI 기능 탑재 '나노 바나나 2' 출시",
           "link": "https://aibusiness.com/foundation-models/google-releases-nano-banana-2",
@@ -111,19 +125,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Nanbeige/Nanbeige4.1-3B",
-          "link": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
-          "date": "2026-02-28",
-          "source": "HuggingFace",
-          "description": "• 소형 규모로도 강력한 추론 능력 구현\n• 대형 모델 뛰어넘는 선호 정렬 성과\n• 도구 호출 등 에이전트 기능 고도화\n• 복잡한 문제 해결 지원하는 신모델 공개",
-          "image": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B/resolve/main/figures/nbg.png",
-          "is_english": true,
-          "summary": "• 소형 규모로도 강력한 추론 능력 구현\n• 대형 모델 뛰어넘는 선호 정렬 성과\n• 도구 호출 등 에이전트 기능 고도화\n• 복잡한 문제 해결 지원하는 신모델 공개",
-          "translated_title": "Nanbeige/Nanbeige4.1-3B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "LocoreMind/LocoOperator-4B",
           "link": "https://huggingface.co/LocoreMind/LocoOperator-4B",
           "date": "2026-02-28",
@@ -133,6 +134,19 @@
           "is_english": true,
           "summary": "• 코딩 에이전트 전용 LLM 'LocoOperator' 공개\n• 4B 파라미터 작은 사이즈로 로컬 실행 지원\n• 코드 탐색 및 도구 호출 전문 기능 탑재\n• 추론 비용 절감 위한 지도 학습 기반 학습",
           "translated_title": "LocoreMind/LocoOperator-4B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Nanbeige/Nanbeige4.1-3B",
+          "link": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
+          "date": "2026-02-28",
+          "source": "HuggingFace",
+          "description": "• 소형 규모로도 강력한 추론 능력 구현\n• 대형 모델 뛰어넘는 선호 정렬 성과\n• 도구 호출 등 에이전트 기능 고도화\n• 복잡한 문제 해결 지원하는 신모델 공개",
+          "image": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B/resolve/main/figures/nbg.png",
+          "is_english": true,
+          "summary": "• 소형 규모로도 강력한 추론 능력 구현\n• 대형 모델 뛰어넘는 선호 정렬 성과\n• 도구 호출 등 에이전트 기능 고도화\n• 복잡한 문제 해결 지원하는 신모델 공개",
+          "translated_title": "Nanbeige/Nanbeige4.1-3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -267,19 +281,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Zyphra/ZUNA",
-          "link": "https://huggingface.co/Zyphra/ZUNA",
-          "date": "2026-02-28",
-          "source": "HuggingFace",
-          "description": "• Zyphra, 뇌파 기반 파운데이션 모델 ZUNA 공개\n• 200만 시간 데이터 학습으로 노이즈 제거 구현\n• 소비자 GPU에서도 가동 가능한 가벼운 모델\n• 기존 방식 대신 뛰어난 정확도 입증 및 업스케일링 지원",
-          "image": "https://img.shields.io/badge/GitHub-Zyphra%2Fzuna-blue?logo=github",
-          "is_english": true,
-          "summary": "• Zyphra, 뇌파 기반 파운데이션 모델 ZUNA 공개\n• 200만 시간 데이터 학습으로 노이즈 제거 구현\n• 소비자 GPU에서도 가동 가능한 가벼운 모델\n• 기존 방식 대신 뛰어난 정확도 입증 및 업스케일링 지원",
-          "translated_title": "Zyphra/ZUNA",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.5-35B-A3B-Base",
           "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B-Base",
           "date": "2026-02-28",
@@ -291,13 +292,68 @@
           "translated_title": "Qwen/Qwen3.5-35B-A3B-Base",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "Zyphra/ZUNA",
+          "link": "https://huggingface.co/Zyphra/ZUNA",
+          "date": "2026-02-28",
+          "source": "HuggingFace",
+          "description": "• Zyphra, 뇌파 기반 파운데이션 모델 ZUNA 공개\n• 200만 시간 데이터 학습으로 노이즈 제거 구현\n• 소비자 GPU에서도 가동 가능한 가벼운 모델\n• 기존 방식 대신 뛰어난 정확도 입증 및 업스케일링 지원",
+          "image": "https://img.shields.io/badge/GitHub-Zyphra%2Fzuna-blue?logo=github",
+          "is_english": true,
+          "summary": "• Zyphra, 뇌파 기반 파운데이션 모델 ZUNA 공개\n• 200만 시간 데이터 학습으로 노이즈 제거 구현\n• 소비자 GPU에서도 가동 가능한 가벼운 모델\n• 기존 방식 대신 뛰어난 정확도 입증 및 업스케일링 지원",
+          "translated_title": "Zyphra/ZUNA",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-02-27",
-      "update_time": "2026-02-27 18:28:58",
+      "update_time": "2026-02-27 21:20:23",
       "news": [
+        {
+          "title": "광주·AI사업단, 전남 통합 AI·반도체 산업 비전 설명회 개최",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207401",
+          "date": "2026-02-27",
+          "source": "AI타임스",
+          "description": "광주시(시장 강기정)와 인공지능산업융합사업단(AICA)은 27일 첨단3지구 인공지능 중심 산업융합집적단지 창업동 4층 컨퍼런스홀에서 ‘광주·전남 통합으로 여는 AI·반도체 산업 비전 설명회’를 개최했다고 밝혔다. 행사에는 강기정 시장과 오상진 AICA 단장을 비롯해 AI·반도체 기업 관계자 등 150여명이 참석해 통합 이후 산업 정책 방향을 공유했다.핵심은 ‘전남광주통합특별시 설치를 위한 특별법안’의 특례에 대한 설명이었다. 법안은 지난 1월30일 발의돼 최근 국회 법제사법위원회를 통과했으며, 본회의 의결을 앞두고 있다. 광주와 전",
+          "image": "https://cdn.aitimes.com/news/photo/202602/207401_209482_5227.jpg",
+          "is_english": false,
+          "original_title": "광주·AI사업단, 전남 통합 AI·반도체 산업 비전 설명회 개최",
+          "original_summary": "광주시(시장 강기정)와 인공지능산업융합사업단(AICA)은 27일 첨단3지구 인공지능 중심 산업융합집적단지 창업동 4층 컨퍼런스홀에서 ‘광주·전남 통합으로 여는 AI·반도체 산업 비전 설명회’를 개최했다고 밝혔다. 행사에는 강기정 시장과 오상진 AICA 단장을 비롯해 AI·반도체 기업 관계자 등 150여명이 참석해 통합 이후 산업 정책 방향을 공유했다.핵심은 ‘전남광주통합특별시 설치를 위한 특별법안’의 특례에 대한 설명이었다. 법안은 지난 1월30일 발의돼 최근 국회 법제사법위원회를 통과했으며, 본회의 의결을 앞두고 있다. 광주와 전",
+          "summary": "• 광주·AI사업단, 27일 AI·반도체 비전 설명회 개최\n• 강기정 시장 등 150여명 참석, 정책 공유\n• 특별법안 통과 후 특례 사업 설명이 핵심\n• 광주·전남 통합 산업 육성 의지 재확인",
+          "translated_title": "광주·AI사업단, 전남 통합 AI·반도체 산업 비전 설명회 개최",
+          "category_keyword": "AI반도체"
+        },
+        {
+          "title": "머스크, 증언서 오픈AI 비판… \"그로크 문제로 자살한 사람 없다\"",
+          "link": "https://techcrunch.com/2026/02/27/musk-bashes-openai-in-deposition-saying-nobody-committed-suicide-because-of-grok/",
+          "date": "2026-02-27",
+          "source": "TechCrunch",
+          "description": "In his lawsuit against OpenAI, Musk touted xAI safety compared with ChatGPT. A few months later, xAI's Grok flooded X with nonconsensual nude images.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2183887189.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Musk bashes OpenAI in deposition, saying ‘nobody committed suicide because of Grok’",
+          "original_summary": "In his lawsuit against OpenAI, Musk touted xAI safety compared with ChatGPT. A few months later, xAI's Grok flooded X with nonconsensual nude images.",
+          "summary": "• 머스크, 오픈AI 상대로 소송 중 xAI 안전성 강조\n• 그로크가 X 플랫폼에 동의 없는 성적 이미지 유포\n• ChatGPT와 비교하며 xAI의 안전성 주장\n• 실제 그로크는 이미지 생성 논란에 휩싸임",
+          "translated_title": "머스크, 증언서 오픈AI 비판… \"그로크 문제로 자살한 사람 없다\"",
+          "category_keyword": "xAI"
+        },
+        {
+          "title": "앤트로픽 vs 펜타곤: 진짜 쟁점은 무엇인가?",
+          "link": "https://techcrunch.com/2026/02/27/anthropic-vs-the-pentagon-whats-actually-at-stake/",
+          "date": "2026-02-27",
+          "source": "TechCrunch",
+          "description": "Anthropic and the Pentagon are clashing over AI use in autonomous weapons and surveillance, raising high-stakes questions about national security, corporate control, and who sets the rules for military AI.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2218106494.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Anthropic vs. the Pentagon: What’s actually at stake?",
+          "original_summary": "Anthropic and the Pentagon are clashing over AI use in autonomous weapons and surveillance, raising high-stakes questions about national security, corporate control, and who sets the rules for military AI.",
+          "summary": "• 앤트로픽, 미 국방부와 군사적 AI 사용을 두고 대립\n• 자율 무기 및 감시 시스템 AI 적용 갈등\n• 국가 안보와 기업 통제권 딜레마 발생\n• 군사용 AI 규제 설정 주도권 다툼 심화",
+          "translated_title": "앤트로픽 vs 펜타곤: 진짜 쟁점은 무엇인가?",
+          "category_keyword": "군사AI"
+        },
         {
           "title": "챗GPT, 주간 사용자 9억 명 돌파",
           "link": "https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/",
