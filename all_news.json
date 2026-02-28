@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-03-01",
-      "update_time": "2026-02-28 15:13:34",
+      "update_time": "2026-02-28 18:19:40",
       "news": [
         {
           "title": "Qwen/Qwen3.5-35B-A3B",
@@ -200,6 +200,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Qwen/Qwen3.5-35B-A3B-Base",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B-Base",
+          "date": "2026-03-01",
+          "source": "HuggingFace",
+          "description": "• 허깅페이스 Qwen3.5 모델 공개\n• 차세대 멀티모달 성능 구현\n• 효율적 아키텍처로 비용 절감\n• 연구 및 개발 목적 최적화",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• 허깅페이스 Qwen3.5 모델 공개\n• 차세대 멀티모달 성능 구현\n• 효율적 아키텍처로 비용 절감\n• 연구 및 개발 목적 최적화",
+          "translated_title": "Qwen/Qwen3.5-35B-A3B-Base",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
           "link": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
           "date": "2026-03-01",
@@ -222,19 +235,6 @@
           "is_english": true,
           "summary": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
           "translated_title": "Qwen/Qwen3-Coder-Next",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "Qwen/Qwen3.5-35B-A3B-Base",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B-Base",
-          "date": "2026-03-01",
-          "source": "HuggingFace",
-          "description": "• 허깅페이스 Qwen3.5 모델 공개\n• 차세대 멀티모달 성능 구현\n• 효율적 아키텍처로 비용 절감\n• 연구 및 개발 목적 최적화",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• 허깅페이스 Qwen3.5 모델 공개\n• 차세대 멀티모달 성능 구현\n• 효율적 아키텍처로 비용 절감\n• 연구 및 개발 목적 최적화",
-          "translated_title": "Qwen/Qwen3.5-35B-A3B-Base",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +268,22 @@
     },
     {
       "date": "2026-02-28",
-      "update_time": "2026-02-28 15:13:34",
+      "update_time": "2026-02-28 18:19:40",
       "news": [
+        {
+          "title": "오픈AI 샘 알트먼, \"기술적 안전장치 포함\" 미 국방부 계약 발표",
+          "link": "https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/",
+          "date": "2026-02-28",
+          "source": "TechCrunch",
+          "description": "OpenAI's CEO claims its new defense contract includes protections addressing the same issues that became a flashpoint for Anthropic.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’",
+          "original_summary": "OpenAI's CEO claims its new defense contract includes protections addressing the same issues that became a flashpoint for Anthropic.",
+          "summary": "• 오픈AI 샘 알트먼 CEO 발표\n• 미 국방부와 신규 계약 체결\n• 기술적 안전장치 포함됨\n• 앤스로픽 쟁점 이슈 해결",
+          "translated_title": "오픈AI 샘 알트먼, \"기술적 안전장치 포함\" 미 국방부 계약 발표",
+          "category_keyword": "오픈AI"
+        },
         {
           "title": "오픈AI, 캐나다 총기 사건에 ‘시스템 결함’ 시인… “신고 체계 전면 강화”",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=207408",
@@ -10717,7 +10731,7 @@
         {
           "title": "MiniMaxAI/MiniMax-M2.5",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-M2.5",
-          "date": "2026-02-20",
+          "date": "2026-03-01",
           "source": "HuggingFace",
           "description": "• MiniMaxAI, 신규 언어 모델 공개\n• 문장 생성 최적화 파이프라인 탑재\n• 트랜스포머 라이브러리 기반 구현\n• 수정된 MIT 라이선스 적용",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
@@ -10730,7 +10744,7 @@
         {
           "title": "Qwen/Qwen3.5-397B-A17B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-397B-A17B",
-          "date": "2026-02-20",
+          "date": "2026-03-01",
           "source": "HuggingFace",
           "description": "• 알리바바, 차세대 거대 AI 모델 공개\n• 멀티모달 기능으로 성능 대폭 개선\n• 다양한 개발 도구와 호환성 지원\n• 클라우드 기반 API 서비스 제공",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -10743,7 +10757,7 @@
         {
           "title": "zai-org/GLM-5",
           "link": "https://huggingface.co/zai-org/GLM-5",
-          "date": "2026-02-20",
+          "date": "2026-03-01",
           "source": "HuggingFace",
           "description": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -10756,7 +10770,7 @@
         {
           "title": "Nanbeige/Nanbeige4.1-3B",
           "link": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
-          "date": "2026-02-20",
+          "date": "2026-03-01",
           "source": "HuggingFace",
           "description": "• 소형 규모로도 강력한 추론 능력 구현\n• 대형 모델 뛰어넘는 선호 정렬 성과\n• 도구 호출 등 에이전트 기능 고도화\n• 복잡한 문제 해결 지원하는 신모델 공개",
           "image": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B/resolve/main/figures/nbg.png",
@@ -10769,7 +10783,7 @@
         {
           "title": "nvidia/personaplex-7b-v1",
           "link": "https://huggingface.co/nvidia/personaplex-7b-v1",
-          "date": "2026-02-20",
+          "date": "2026-03-01",
           "source": "HuggingFace",
           "description": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -10808,7 +10822,7 @@
         {
           "title": "moonshotai/Kimi-K2.5",
           "link": "https://huggingface.co/moonshotai/Kimi-K2.5",
-          "date": "2026-02-20",
+          "date": "2026-03-01",
           "source": "HuggingFace",
           "description": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
           "image": "https://huggingface.co/moonshotai/Kimi-K2.5/resolve/main/figures/kimi-logo.png",
@@ -10821,7 +10835,7 @@
         {
           "title": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
           "link": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
-          "date": "2026-02-20",
+          "date": "2026-03-01",
           "source": "HuggingFace",
           "description": "• Qwen3-TTS-12Hz-1.7B-CustomVoice 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-TTS-Repo/qwen3_tts_introduction.png",
@@ -10899,7 +10913,7 @@
         {
           "title": "Qwen/Qwen3-Coder-Next",
           "link": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
-          "date": "2026-02-20",
+          "date": "2026-03-01",
           "source": "HuggingFace",
           "description": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
           "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Coder-Next/benchmarks.png",
