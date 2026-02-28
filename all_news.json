@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-03-01",
-      "update_time": "2026-02-28 18:19:40",
+      "update_time": "2026-02-28 21:12:40",
       "news": [
         {
           "title": "Qwen/Qwen3.5-35B-A3B",
@@ -135,19 +135,6 @@
           "category": "AI Model"
         },
         {
-          "title": "TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF",
-          "link": "https://huggingface.co/TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF",
-          "date": "2026-03-01",
-          "source": "HuggingFace",
-          "description": "• 클로드 데이터 기반 고성능 모델 공개\n• 복잡한 추론 능력 강화해 개발 완료\n• 다양한 분야 활용 가능성 제시\n• 저렴한 비용으로 효율적 학습 진행",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• 클로드 데이터 기반 고성능 모델 공개\n• 복잡한 추론 능력 강화해 개발 완료\n• 다양한 분야 활용 가능성 제시\n• 저렴한 비용으로 효율적 학습 진행",
-          "translated_title": "TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Qwen3.5-27B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.5-27B-GGUF",
           "date": "2026-03-01",
@@ -161,15 +148,15 @@
           "category": "AI Model"
         },
         {
-          "title": "moonshotai/Kimi-K2.5",
-          "link": "https://huggingface.co/moonshotai/Kimi-K2.5",
+          "title": "TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF",
+          "link": "https://huggingface.co/TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF",
           "date": "2026-03-01",
           "source": "HuggingFace",
-          "description": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
-          "image": "https://huggingface.co/moonshotai/Kimi-K2.5/resolve/main/figures/kimi-logo.png",
+          "description": "• 클로드 데이터 기반 고성능 모델 공개\n• 복잡한 추론 능력 강화해 개발 완료\n• 다양한 분야 활용 가능성 제시\n• 저렴한 비용으로 효율적 학습 진행",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
-          "translated_title": "moonshotai/Kimi-K2.5",
+          "summary": "• 클로드 데이터 기반 고성능 모델 공개\n• 복잡한 추론 능력 강화해 개발 완료\n• 다양한 분야 활용 가능성 제시\n• 저렴한 비용으로 효율적 학습 진행",
+          "translated_title": "TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -183,6 +170,19 @@
           "is_english": true,
           "summary": "• 언슬로스, 차웬 3.5 거대 언어 모델 공개\n• 1220억 파라미터와 고성능 이미지 처리 지원\n• 로컬 실행 및 효율적 양자화 기술 제공\n• 다양한 AI 프레임워크와 호환 가능",
           "translated_title": "unsloth/Qwen3.5-122B-A10B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "moonshotai/Kimi-K2.5",
+          "link": "https://huggingface.co/moonshotai/Kimi-K2.5",
+          "date": "2026-03-01",
+          "source": "HuggingFace",
+          "description": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
+          "image": "https://huggingface.co/moonshotai/Kimi-K2.5/resolve/main/figures/kimi-logo.png",
+          "is_english": true,
+          "summary": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
+          "translated_title": "moonshotai/Kimi-K2.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +268,50 @@
     },
     {
       "date": "2026-02-28",
-      "update_time": "2026-02-28 18:19:40",
+      "update_time": "2026-02-28 21:12:40",
       "news": [
+        {
+          "title": "전쟁부와의 계약 내용",
+          "link": "https://openai.com/index/our-agreement-with-the-department-of-war",
+          "date": "2026-02-28",
+          "source": "OpenAI",
+          "description": "Details on OpenAI’s contract with the Department of War, outlining safety redlines, legal protections, and how AI systems will be deployed in classified environments.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Our agreement with the Department of War",
+          "original_summary": "Details on OpenAI’s contract with the Department of War, outlining safety redlines, legal protections, and how AI systems will be deployed in classified environments.",
+          "summary": "• OpenAI, 전쟁부와 계약 체결\n• 안전상 빨간선 규정 포함\n• 법적 보호장치 명시\n• 기밀 환경 AI 배포 방안",
+          "translated_title": "전쟁부와의 계약 내용",
+          "category_keyword": "전쟁부"
+        },
+        {
+          "title": "펜타곤 분쟁 뒤 앱스토어 2위 차지한 앤스로픽의 클로드",
+          "link": "https://techcrunch.com/2026/02/28/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
+          "date": "2026-02-28",
+          "source": "TechCrunch",
+          "description": "Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/12/Claude-ad-e1733259907871.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Anthropic’s Claude rises to No. 2 in the App Store following Pentagon dispute",
+          "original_summary": "Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon.",
+          "summary": "• 클로드, 앱스토어 2위 등극\n• 펜타곤 협상 이슈 수혜\n• 논란 속 협상 관련 주목\n• 안정적인 사용자 증가세",
+          "translated_title": "펜타곤 분쟁 뒤 앱스토어 2위 차지한 앤스로픽의 클로드",
+          "category_keyword": "클로드"
+        },
+        {
+          "title": "AI 붐을 견인하는 10억 달러 규모 인프라 계약",
+          "link": "https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/",
+          "date": "2026-02-28",
+          "source": "TechCrunch",
+          "description": "Here's everything we know about the biggest AI infrastructure projects, including major spending from Meta, Oracle, Microsoft, Google, and OpenAI.",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1297856112.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "The billion-dollar infrastructure deals powering the AI boom",
+          "original_summary": "Here's everything we know about the biggest AI infrastructure projects, including major spending from Meta, Oracle, Microsoft, Google, and OpenAI.",
+          "summary": "• AI 붐 이끄는 대규모 투자\n• 빅테크들 인프라 프로젝트\n• 메타, 오라클 등 대규모 지출\n• 주요 AI 인프라 현황 파악",
+          "translated_title": "AI 붐을 견인하는 10억 달러 규모 인프라 계약",
+          "category_keyword": "인프라"
+        },
         {
           "title": "오픈AI 샘 알트먼, \"기술적 안전장치 포함\" 미 국방부 계약 발표",
           "link": "https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/",
