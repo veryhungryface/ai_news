@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-02-28",
-      "update_time": "2026-02-28 04:12:26",
+      "update_time": "2026-02-28 06:25:26",
       "news": [
         {
           "title": "[AI 이슈트렌드] 김동완 성매매·은마아파트 화재 등 사회적 파장",
@@ -342,19 +342,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/personaplex-7b-v1",
-          "link": "https://huggingface.co/nvidia/personaplex-7b-v1",
-          "date": "2026-02-28",
-          "source": "HuggingFace",
-          "description": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
-          "translated_title": "nvidia/personaplex-7b-v1",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Qwen3.5-122B-A10B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.5-122B-A10B-GGUF",
           "date": "2026-02-28",
@@ -364,6 +351,19 @@
           "is_english": true,
           "summary": "• 언슬로스, 차웬 3.5 거대 언어 모델 공개\n• 1220억 파라미터와 고성능 이미지 처리 지원\n• 로컬 실행 및 효율적 양자화 기술 제공\n• 다양한 AI 프레임워크와 호환 가능",
           "translated_title": "unsloth/Qwen3.5-122B-A10B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/personaplex-7b-v1",
+          "link": "https://huggingface.co/nvidia/personaplex-7b-v1",
+          "date": "2026-02-28",
+          "source": "HuggingFace",
+          "description": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
+          "translated_title": "nvidia/personaplex-7b-v1",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
