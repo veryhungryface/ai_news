@@ -2,8 +2,140 @@
   "dates": [
     {
       "date": "2026-03-01",
-      "update_time": "2026-03-01 01:18:40",
+      "update_time": "2026-03-01 04:49:20",
       "news": [
+        {
+          "title": "KAIST, '뇌를 닮은 AI' 개발…예측이 틀려도 한번 더 생각",
+          "link": "https://www.yna.co.kr/view/AKR20260227111800063",
+          "date": "2026-03-01",
+          "source": "연합뉴스",
+          "description": "(대전＝연합뉴스) 김준호 기자 = 한국과학기술원(KAIST)은 뇌인지과학과 이상완 교수 연구팀이 인간 뇌의 학습 원리를 딥러닝에 적용해 인공지능...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/02/27/AKR20260227111800063_02_i_P2.jpg",
+          "is_english": false,
+          "original_title": "KAIST, '뇌를 닮은 AI' 개발…예측이 틀려도 한번 더 생각",
+          "original_summary": "(대전＝연합뉴스) 김준호 기자 = 한국과학기술원(KAIST)은 뇌인지과학과 이상완 교수 연구팀이 인간 뇌의 학습 원리를 딥러닝에 적용해 인공지능...",
+          "summary": "(대전＝연합뉴스) 김준호 기자 = 한국과학기술원(KAIST)은 뇌인지과학과 이상완 교수 연구팀이 인간 뇌의 학습 원리를 딥러닝에 적용해 인공지능..."
+        },
+        {
+          "title": "알리바바, MWC서 스마트 안경 선보인다...아너는 첫 휴머노이드 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207421",
+          "date": "2026-03-01",
+          "source": "AI타임스",
+          "description": "중국 빅테크 기업들이 스페인 바르셀로나에서 열리는 이동통신 전시회 \\'MWC\\'에서 AI 기반 신제품을 대거 선보이며 차세대 디바이스 경쟁에 나선다. 알리바바는 AI 어시스턴트 ‘큐원(Qwen)’을 탑재한 스마트 안경을 공개하고, 아너(Honor)는 첫 휴머노이드 로봇을 선보인다.28일(현지시간) 사우스차이나모닝포스트에 따르면, 알리바바는 큐원 기반의 신규 스마트 안경을 MWC 개막과 동시에 공개하고, 온오프라인 사전 판매에 돌입할 계획이다. 이번 제품은 알리바바가 스마트 웨어러블 시장에 내놓는 두번째 주요 안경 제품이다.앞서 알리바바",
+          "image": "https://cdn.aitimes.com/news/photo/202603/207421_209515_2624.jpg",
+          "is_english": false,
+          "original_title": "알리바바, MWC서 스마트 안경 선보인다...아너는 첫 휴머노이드 공개",
+          "original_summary": "중국 빅테크 기업들이 스페인 바르셀로나에서 열리는 이동통신 전시회 \\'MWC\\'에서 AI 기반 신제품을 대거 선보이며 차세대 디바이스 경쟁에 나선다. 알리바바는 AI 어시스턴트 ‘큐원(Qwen)’을 탑재한 스마트 안경을 공개하고, 아너(Honor)는 첫 휴머노이드 로봇을 선보인다.28일(현지시간) 사우스차이나모닝포스트에 따르면, 알리바바는 큐원 기반의 신규 스마트 안경을 MWC 개막과 동시에 공개하고, 온오프라인 사전 판매에 돌입할 계획이다. 이번 제품은 알리바바가 스마트 웨어러블 시장에 내놓는 두번째 주요 안경 제품이다.앞서 알리",
+          "summary": "중국 빅테크 기업들이 스페인 바르셀로나에서 열리는 이동통신 전시회 \\'MWC\\'에서 AI 기반 신제품을 대거 선보이며 차세대 디바이스 경쟁에 나선다. 알리바바는 AI 어시스턴트 ‘큐원(Qwen)’을 탑재한 스마트 안경을 공개하고, 아너(Honor)는 첫 휴머노이드 로봇을 선보인다.28일(현지시간) 사우스차이나모닝포스트에 따르면, 알리바바는 큐원 기반의 신규 스마트 안경을 MWC 개막과 동시에 공개하고, 온오프라인 사전 판매에 돌입할 계획이다. 이번 제품은 알리바바가 스마트 웨어러블 시장에 내놓는 두번째 주요 안경 제품이다.앞서 알리"
+        },
+        {
+          "title": "[기고] “그래프 RAG 열풍, 기업 AI 대부분은 아직 자동화에 실패하고 있다”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207411",
+          "date": "2026-03-01",
+          "source": "AI타임스",
+          "description": "■ AI, ‘검색’을 버려야 ‘자동화’가 된다생성 AI가 기업의 모든 업무를 혁신할 듯한 기세입니다. \\'코파일럿\\'과 \\'제미나이\\'가 대기업 IT 인프라에 도입되고, 내부 데이터를 연결한 검색증강생성(RAG) 시스템 구축은 이제 진부하게 느껴질 정도입니다.하지만, 현장에서 기술을 총괄하는 입장에서 이 화려한 도입 성적표를 바라보는 시각은 조금 다릅니다. 최근 가트너 조사에 따르면, IT 리더의 70% 이상이 업무 통합에 실패했다고 답변한 것으로 나타났습니다. 그 이유는 AI 모델이 부족해서가 아니라, 우리가 AI의 역할을 정보의 ‘검색",
+          "image": "https://cdn.aitimes.com/news/photo/202603/207411_209516_3723.png",
+          "is_english": false,
+          "original_title": "[기고] “그래프 RAG 열풍, 기업 AI 대부분은 아직 자동화에 실패하고 있다”",
+          "original_summary": "■ AI, ‘검색’을 버려야 ‘자동화’가 된다생성 AI가 기업의 모든 업무를 혁신할 듯한 기세입니다. \\'코파일럿\\'과 \\'제미나이\\'가 대기업 IT 인프라에 도입되고, 내부 데이터를 연결한 검색증강생성(RAG) 시스템 구축은 이제 진부하게 느껴질 정도입니다.하지만, 현장에서 기술을 총괄하는 입장에서 이 화려한 도입 성적표를 바라보는 시각은 조금 다릅니다. 최근 가트너 조사에 따르면, IT 리더의 70% 이상이 업무 통합에 실패했다고 답변한 것으로 나타났습니다. 그 이유는 AI 모델이 부족해서가 아니라, 우리가 AI의 역할을 정보의",
+          "summary": "■ AI, ‘검색’을 버려야 ‘자동화’가 된다생성 AI가 기업의 모든 업무를 혁신할 듯한 기세입니다. \\'코파일럿\\'과 \\'제미나이\\'가 대기업 IT 인프라에 도입되고, 내부 데이터를 연결한 검색증강생성(RAG) 시스템 구축은 이제 진부하게 느껴질 정도입니다.하지만, 현장에서 기술을 총괄하는 입장에서 이 화려한 도입 성적표를 바라보는 시각은 조금 다릅니다. 최근 가트너 조사에 따르면, IT 리더의 70% 이상이 업무 통합에 실패했다고 답변한 것으로 나타났습니다. 그 이유는 AI 모델이 부족해서가 아니라, 우리가 AI의 역할을 정보의"
+        },
+        {
+          "title": "엔비디아, 'GTC'서 추론 전용 신형 칩 공개...오픈AI '코덱스'에 적용",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207418",
+          "date": "2026-03-01",
+          "source": "AI타임스",
+          "description": "엔비디아가 AI 산업의 무게중심이 ‘학습’에서 ‘추론(inference)’으로 이동하는 흐름에 맞춰 새로운 추론 전용 프로세서를 공개한다. 최근 영입한 그로크(Groq)의 인재를 중심으로, 급변하는 AI 칩 경쟁 구도에 전략적으로 대응하려는 의도다.월스트리트 저널(WSJ)은 27일(현지시간) 정통한 소식통들을 인용, 엔비디아가 3월16~19일 미국 캘리포니아주 새너제이에서 열리는 \\'GTC\\' 개발자 컨퍼런스에서 새로운 ‘추론 컴퓨팅’ 시스템을 공개할 예정이라고 보도했다.이 플랫폼에는 스타트업 그로크가 설계한 칩이 통합될 것으로 전해졌",
+          "image": "https://cdn.aitimes.com/news/photo/202603/207418_209512_552.jpg",
+          "is_english": false,
+          "original_title": "엔비디아, 'GTC'서 추론 전용 신형 칩 공개...오픈AI '코덱스'에 적용",
+          "original_summary": "엔비디아가 AI 산업의 무게중심이 ‘학습’에서 ‘추론(inference)’으로 이동하는 흐름에 맞춰 새로운 추론 전용 프로세서를 공개한다. 최근 영입한 그로크(Groq)의 인재를 중심으로, 급변하는 AI 칩 경쟁 구도에 전략적으로 대응하려는 의도다.월스트리트 저널(WSJ)은 27일(현지시간) 정통한 소식통들을 인용, 엔비디아가 3월16~19일 미국 캘리포니아주 새너제이에서 열리는 \\'GTC\\' 개발자 컨퍼런스에서 새로운 ‘추론 컴퓨팅’ 시스템을 공개할 예정이라고 보도했다.이 플랫폼에는 스타트업 그로크가 설계한 칩이 통합될 것으로 전",
+          "summary": "엔비디아가 AI 산업의 무게중심이 ‘학습’에서 ‘추론(inference)’으로 이동하는 흐름에 맞춰 새로운 추론 전용 프로세서를 공개한다. 최근 영입한 그로크(Groq)의 인재를 중심으로, 급변하는 AI 칩 경쟁 구도에 전략적으로 대응하려는 의도다.월스트리트 저널(WSJ)은 27일(현지시간) 정통한 소식통들을 인용, 엔비디아가 3월16~19일 미국 캘리포니아주 새너제이에서 열리는 \\'GTC\\' 개발자 컨퍼런스에서 새로운 ‘추론 컴퓨팅’ 시스템을 공개할 예정이라고 보도했다.이 플랫폼에는 스타트업 그로크가 설계한 칩이 통합될 것으로 전"
+        },
+        {
+          "title": "KAIST,‘뇌를 닮은 AI’개발.. 예측이 틀려도 한번 더 생각한다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207400",
+          "date": "2026-03-01",
+          "source": "AI타임스",
+          "description": "KAIST(총장 이광형)는 뇌인지과학과 이상완 교수 연구팀이 인간 뇌의 학습 원리를 딥러닝에 적용해, 깊은 인공지능 모델도 안정적으로 학습시키는 새로운 기술을 개발했다고 1일 밝혔다.AI와 인간의 뇌는 결정적인 차이가 있다. AI는 훨씬 많은 전기를 써야 작동한다는 점이다. 또 뇌는 현재 벌어지는 일을 단순히 인식하는데서 그치지 않고 ‘다음에 무슨 일이 일어날까’를 예측하고, 결과가 다르면 그 차이를 줄이는 방향으로 스스로를 수정한다. 이 같은 정보처리 방식을 ‘예측 부호화(Predictive Coding)’라고 한다.과학자들은 이",
+          "image": "https://cdn.aitimes.com/news/photo/202602/207400_209480_2537.png",
+          "is_english": false,
+          "original_title": "KAIST,‘뇌를 닮은 AI’개발.. 예측이 틀려도 한번 더 생각한다",
+          "original_summary": "KAIST(총장 이광형)는 뇌인지과학과 이상완 교수 연구팀이 인간 뇌의 학습 원리를 딥러닝에 적용해, 깊은 인공지능 모델도 안정적으로 학습시키는 새로운 기술을 개발했다고 1일 밝혔다.AI와 인간의 뇌는 결정적인 차이가 있다. AI는 훨씬 많은 전기를 써야 작동한다는 점이다. 또 뇌는 현재 벌어지는 일을 단순히 인식하는데서 그치지 않고 ‘다음에 무슨 일이 일어날까’를 예측하고, 결과가 다르면 그 차이를 줄이는 방향으로 스스로를 수정한다. 이 같은 정보처리 방식을 ‘예측 부호화(Predictive Coding)’라고 한다.과학자들은 이",
+          "summary": "KAIST(총장 이광형)는 뇌인지과학과 이상완 교수 연구팀이 인간 뇌의 학습 원리를 딥러닝에 적용해, 깊은 인공지능 모델도 안정적으로 학습시키는 새로운 기술을 개발했다고 1일 밝혔다.AI와 인간의 뇌는 결정적인 차이가 있다. AI는 훨씬 많은 전기를 써야 작동한다는 점이다. 또 뇌는 현재 벌어지는 일을 단순히 인식하는데서 그치지 않고 ‘다음에 무슨 일이 일어날까’를 예측하고, 결과가 다르면 그 차이를 줄이는 방향으로 스스로를 수정한다. 이 같은 정보처리 방식을 ‘예측 부호화(Predictive Coding)’라고 한다.과학자들은 이"
+        },
+        {
+          "title": "오픈AI, 미 국방부 계약 내용 공개...\"앤트로픽 계약보다 더 안전\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207420",
+          "date": "2026-03-01",
+          "source": "AI타임스",
+          "description": "오픈AI가 전날 미 국방부의 기밀 네트워크에 AI 모델을 배포하는 계약을 맺으며 합의한 내용을 공개했다. 핵심은 앤트로픽이 이전에 국방부와 맺은 계약보다 더 강력하고 안전하다는 것인데, 앤트로픽이 왜 거절당했는지에 대해서는 \\\"모르겠다\\\"라고 밝혔다.오픈AI는 28일(현지시간) 공식 블로그를 통해 국방부와 맺은 협정(agreement)이 앤트로픽의 계약을 포함해 기밀 AI와 관련된 이전의 어떤 계약보다 더 많은 안전장치를 갖췄다며, 다른 AI 기업에도 같은 시스템을 적용할 것을 요청했다고 주장했다.\\\"우리는 국방부의 협업을 이끌어가는 세",
+          "image": "https://cdn.aitimes.com/news/photo/202603/207420_209513_4739.jpg",
+          "is_english": false,
+          "original_title": "오픈AI, 미 국방부 계약 내용 공개...\"앤트로픽 계약보다 더 안전\"",
+          "original_summary": "오픈AI가 전날 미 국방부의 기밀 네트워크에 AI 모델을 배포하는 계약을 맺으며 합의한 내용을 공개했다. 핵심은 앤트로픽이 이전에 국방부와 맺은 계약보다 더 강력하고 안전하다는 것인데, 앤트로픽이 왜 거절당했는지에 대해서는 \\\"모르겠다\\\"라고 밝혔다.오픈AI는 28일(현지시간) 공식 블로그를 통해 국방부와 맺은 협정(agreement)이 앤트로픽의 계약을 포함해 기밀 AI와 관련된 이전의 어떤 계약보다 더 많은 안전장치를 갖췄다며, 다른 AI 기업에도 같은 시스템을 적용할 것을 요청했다고 주장했다.\\\"우리는 국방부의 협업을 이끌어가",
+          "summary": "오픈AI가 전날 미 국방부의 기밀 네트워크에 AI 모델을 배포하는 계약을 맺으며 합의한 내용을 공개했다. 핵심은 앤트로픽이 이전에 국방부와 맺은 계약보다 더 강력하고 안전하다는 것인데, 앤트로픽이 왜 거절당했는지에 대해서는 \\\"모르겠다\\\"라고 밝혔다.오픈AI는 28일(현지시간) 공식 블로그를 통해 국방부와 맺은 협정(agreement)이 앤트로픽의 계약을 포함해 기밀 AI와 관련된 이전의 어떤 계약보다 더 많은 안전장치를 갖췄다며, 다른 AI 기업에도 같은 시스템을 적용할 것을 요청했다고 주장했다.\\\"우리는 국방부의 협업을 이끌어가"
+        },
+        {
+          "title": "서강대 미래교육원–인공지능게임협, 게임 인재 양성 산학협력 MOU",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207416",
+          "date": "2026-03-01",
+          "source": "AI타임스",
+          "description": "사단법인 한국인공지능게임협회와 서강대학교 미래교육원은 지난 26일 서강대학교 미래교육원에서 게임 분야 발전을 위한 산학협력 협약식을 진행했다고 밝혔다.이번 협약은 교육기관과 산업계 간 협력 체계를 구축하고, 실무 중심의 교육과 연구 협력을 강화하기 위해 추진됐다. 게임 산업의 기술 발전과 교육 경쟁력 강화를 위한 다양한 공동 활동을 진행할 예정이다.▲게임 산업 분야 신기술 교육 및 개발 ▲게임 산업 및 학술 정보 교류 ▲연구개발 및 교육 관련 시설의 공동 활용 ▲협회의 게임 개발 및 QA 업무 관련 학생 인력 지원 ▲교육원 프로젝트",
+          "image": "https://cdn.aitimes.com/news/photo/202603/207416_209509_1955.png",
+          "is_english": false,
+          "original_title": "서강대 미래교육원–인공지능게임협, 게임 인재 양성 산학협력 MOU",
+          "original_summary": "사단법인 한국인공지능게임협회와 서강대학교 미래교육원은 지난 26일 서강대학교 미래교육원에서 게임 분야 발전을 위한 산학협력 협약식을 진행했다고 밝혔다.이번 협약은 교육기관과 산업계 간 협력 체계를 구축하고, 실무 중심의 교육과 연구 협력을 강화하기 위해 추진됐다. 게임 산업의 기술 발전과 교육 경쟁력 강화를 위한 다양한 공동 활동을 진행할 예정이다.▲게임 산업 분야 신기술 교육 및 개발 ▲게임 산업 및 학술 정보 교류 ▲연구개발 및 교육 관련 시설의 공동 활용 ▲협회의 게임 개발 및 QA 업무 관련 학생 인력 지원 ▲교육원 프로젝트",
+          "summary": "사단법인 한국인공지능게임협회와 서강대학교 미래교육원은 지난 26일 서강대학교 미래교육원에서 게임 분야 발전을 위한 산학협력 협약식을 진행했다고 밝혔다.이번 협약은 교육기관과 산업계 간 협력 체계를 구축하고, 실무 중심의 교육과 연구 협력을 강화하기 위해 추진됐다. 게임 산업의 기술 발전과 교육 경쟁력 강화를 위한 다양한 공동 활동을 진행할 예정이다.▲게임 산업 분야 신기술 교육 및 개발 ▲게임 산업 및 학술 정보 교류 ▲연구개발 및 교육 관련 시설의 공동 활용 ▲협회의 게임 개발 및 QA 업무 관련 학생 인력 지원 ▲교육원 프로젝트"
+        },
+        {
+          "title": "'클로드' 사상 첫 앱 스토어 1위 등극...케이티 페리는 '프로' 구독 인증",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207417",
+          "date": "2026-03-01",
+          "source": "AI타임스",
+          "description": "미국 정부로부터 퇴출당한 앤트로픽의 \\'클로드\\' 앱이 미국 무료 앱 순위 1위에 올랐다. 클로드가 이 분야 정상을 차지한 것은 사상 처음으로, 최근 사태가 인지도에 큰 도움이 됐음을 보여준다.iOS용 클로드 앱은 28일(현지시간) 오후 미국 앱스토어 무료 다운로드 1위에 올랐다. 이는 트럼프 행정부가 앤트로픽을 퇴출한 지 몇시간 만이다.최근 미 국방부와의 안전 정책에 대한 충돌로 뉴스, 헤드라인에 자주 등장한 덕으로 해석됐다. 특히 이날에는 도널드 트럼프 대통령이 직접 소셜 트루스에 ″앤트로픽의 좌파 광신도들이 국방부를 강압적으로 압",
+          "image": "https://cdn.aitimes.com/news/photo/202603/207417_209510_4036.jpg",
+          "is_english": false,
+          "original_title": "'클로드' 사상 첫 앱 스토어 1위 등극...케이티 페리는 '프로' 구독 인증",
+          "original_summary": "미국 정부로부터 퇴출당한 앤트로픽의 \\'클로드\\' 앱이 미국 무료 앱 순위 1위에 올랐다. 클로드가 이 분야 정상을 차지한 것은 사상 처음으로, 최근 사태가 인지도에 큰 도움이 됐음을 보여준다.iOS용 클로드 앱은 28일(현지시간) 오후 미국 앱스토어 무료 다운로드 1위에 올랐다. 이는 트럼프 행정부가 앤트로픽을 퇴출한 지 몇시간 만이다.최근 미 국방부와의 안전 정책에 대한 충돌로 뉴스, 헤드라인에 자주 등장한 덕으로 해석됐다. 특히 이날에는 도널드 트럼프 대통령이 직접 소셜 트루스에 ″앤트로픽의 좌파 광신도들이 국방부를 강압적으로",
+          "summary": "미국 정부로부터 퇴출당한 앤트로픽의 \\'클로드\\' 앱이 미국 무료 앱 순위 1위에 올랐다. 클로드가 이 분야 정상을 차지한 것은 사상 처음으로, 최근 사태가 인지도에 큰 도움이 됐음을 보여준다.iOS용 클로드 앱은 28일(현지시간) 오후 미국 앱스토어 무료 다운로드 1위에 올랐다. 이는 트럼프 행정부가 앤트로픽을 퇴출한 지 몇시간 만이다.최근 미 국방부와의 안전 정책에 대한 충돌로 뉴스, 헤드라인에 자주 등장한 덕으로 해석됐다. 특히 이날에는 도널드 트럼프 대통령이 직접 소셜 트루스에 ″앤트로픽의 좌파 광신도들이 국방부를 강압적으로"
+        },
+        {
+          "title": "영국 지열 발전소, 전력·리튬 복합 자원 생산 모델로 주목",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207339",
+          "date": "2026-03-01",
+          "source": "AI타임스",
+          "description": "영국에서 첫 상업용 지열 발전소가 전기를 생산하면서 동시에 리튬 생산도 진행되고 있다.26일(현지시간)부터 가동된 영국 콘월주의 \\'유나이티드 다운스(United Downs)\\' 지열 발전소는 심부 지열 자원을 활용해 클린 전력을 전력망으로 공급하며, 지열수에서 리튬을 추출하는 공정을 통합했다. 이를 통해 재생에너지 생산과 배터리용 핵심 광물 확보를 동시에 추진한다는 점이 특징이다.지열 발전은 심층 지열수를 이용해 터빈을 돌려 전력을 생산하며, 전통적 화석연료 발전소 대비 탄소배출이 극히 낮다. 영국 지열 프로젝트는 지열자원 개발과정에",
+          "image": "https://cdn.aitimes.com/news/photo/202602/207339_209422_4331.png",
+          "is_english": false,
+          "original_title": "영국 지열 발전소, 전력·리튬 복합 자원 생산 모델로 주목",
+          "original_summary": "영국에서 첫 상업용 지열 발전소가 전기를 생산하면서 동시에 리튬 생산도 진행되고 있다.26일(현지시간)부터 가동된 영국 콘월주의 \\'유나이티드 다운스(United Downs)\\' 지열 발전소는 심부 지열 자원을 활용해 클린 전력을 전력망으로 공급하며, 지열수에서 리튬을 추출하는 공정을 통합했다. 이를 통해 재생에너지 생산과 배터리용 핵심 광물 확보를 동시에 추진한다는 점이 특징이다.지열 발전은 심층 지열수를 이용해 터빈을 돌려 전력을 생산하며, 전통적 화석연료 발전소 대비 탄소배출이 극히 낮다. 영국 지열 프로젝트는 지열자원 개발과",
+          "summary": "영국에서 첫 상업용 지열 발전소가 전기를 생산하면서 동시에 리튬 생산도 진행되고 있다.26일(현지시간)부터 가동된 영국 콘월주의 \\'유나이티드 다운스(United Downs)\\' 지열 발전소는 심부 지열 자원을 활용해 클린 전력을 전력망으로 공급하며, 지열수에서 리튬을 추출하는 공정을 통합했다. 이를 통해 재생에너지 생산과 배터리용 핵심 광물 확보를 동시에 추진한다는 점이 특징이다.지열 발전은 심층 지열수를 이용해 터빈을 돌려 전력을 생산하며, 전통적 화석연료 발전소 대비 탄소배출이 극히 낮다. 영국 지열 프로젝트는 지열자원 개발과"
+        },
+        {
+          "title": "여수, 청년지원 정보 한곳에 모은다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207378",
+          "date": "2026-03-01",
+          "source": "AI타임스",
+          "description": "여수는 2026년 본격 운영을 목표로 청년정책 통합 플랫폼을 구축해 모바일 기반 접속과 온라인 신청까지 한 번에 제공한다고 밝혔다.해당 플랫폼은 결혼·주거·일자리·육아 정보를 묶어 맞춤 화면으로 제공하며, 이용자는 회원 인증 후 지원 자격 확인과 신청 접수를 같은 화면에서 처리하도록 설계됐다. 사업 추진 주체는 전남 여수이며, 구축 대상은 지역 거주 청년과 여수로 유입을 고려하는 청년층으로 설정돼 있다.전남 여수는 통합 플랫폼을 모바일 최적화 웹사이트로 구성하고, 이용자가 연령·소득·가구 형태를 입력하면 맞춤형 제도 목록을 자동 정",
+          "image": "https://cdn.aitimes.com/news/photo/202602/207378_209455_2942.jpg",
+          "is_english": false,
+          "original_title": "여수, 청년지원 정보 한곳에 모은다",
+          "original_summary": "여수는 2026년 본격 운영을 목표로 청년정책 통합 플랫폼을 구축해 모바일 기반 접속과 온라인 신청까지 한 번에 제공한다고 밝혔다.해당 플랫폼은 결혼·주거·일자리·육아 정보를 묶어 맞춤 화면으로 제공하며, 이용자는 회원 인증 후 지원 자격 확인과 신청 접수를 같은 화면에서 처리하도록 설계됐다. 사업 추진 주체는 전남 여수이며, 구축 대상은 지역 거주 청년과 여수로 유입을 고려하는 청년층으로 설정돼 있다.전남 여수는 통합 플랫폼을 모바일 최적화 웹사이트로 구성하고, 이용자가 연령·소득·가구 형태를 입력하면 맞춤형 제도 목록을 자동 정",
+          "summary": "여수는 2026년 본격 운영을 목표로 청년정책 통합 플랫폼을 구축해 모바일 기반 접속과 온라인 신청까지 한 번에 제공한다고 밝혔다.해당 플랫폼은 결혼·주거·일자리·육아 정보를 묶어 맞춤 화면으로 제공하며, 이용자는 회원 인증 후 지원 자격 확인과 신청 접수를 같은 화면에서 처리하도록 설계됐다. 사업 추진 주체는 전남 여수이며, 구축 대상은 지역 거주 청년과 여수로 유입을 고려하는 청년층으로 설정돼 있다.전남 여수는 통합 플랫폼을 모바일 최적화 웹사이트로 구성하고, 이용자가 연령·소득·가구 형태를 입력하면 맞춤형 제도 목록을 자동 정"
+        },
+        {
+          "title": "여수 카드형 지역화폐, 60억 발행과 전용 링크로 혼잡 완화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207376",
+          "date": "2026-03-01",
+          "source": "AI타임스",
+          "description": "여수는 카드형 여수사랑상품권 60억원 발행과 함께 온라인 충전 절차를 단축하는 ‘빠른 충전 바로가기’를 운영한다고 4일 밝혔다.경제일자리과는 접속 지연과 시스템 부하를 줄여 이용자 대기 시간을 낮추기 위한 조치라고 설명했다.이번 조정은 카드형 상품권 충전 이용자가 몰리는 월별 판매 시점에 집중 적용되며, 서버 분산과 단순화된 경로로 연결되는 방식이라고 안내했다.여수는 60억원 규모를 카드형으로 공급하고, 판매 개시와 동시에 전용 진입 링크를 제공해 초기 트래픽을 분리한다고 공지했다. 행정은 기존 앱 내 복수 화면 전환을 단일 경로로",
+          "image": "https://cdn.aitimes.com/news/photo/202602/207376_209453_1526.jpg",
+          "is_english": false,
+          "original_title": "여수 카드형 지역화폐, 60억 발행과 전용 링크로 혼잡 완화",
+          "original_summary": "여수는 카드형 여수사랑상품권 60억원 발행과 함께 온라인 충전 절차를 단축하는 ‘빠른 충전 바로가기’를 운영한다고 4일 밝혔다.경제일자리과는 접속 지연과 시스템 부하를 줄여 이용자 대기 시간을 낮추기 위한 조치라고 설명했다.이번 조정은 카드형 상품권 충전 이용자가 몰리는 월별 판매 시점에 집중 적용되며, 서버 분산과 단순화된 경로로 연결되는 방식이라고 안내했다.여수는 60억원 규모를 카드형으로 공급하고, 판매 개시와 동시에 전용 진입 링크를 제공해 초기 트래픽을 분리한다고 공지했다. 행정은 기존 앱 내 복수 화면 전환을 단일 경로로",
+          "summary": "여수는 카드형 여수사랑상품권 60억원 발행과 함께 온라인 충전 절차를 단축하는 ‘빠른 충전 바로가기’를 운영한다고 4일 밝혔다.경제일자리과는 접속 지연과 시스템 부하를 줄여 이용자 대기 시간을 낮추기 위한 조치라고 설명했다.이번 조정은 카드형 상품권 충전 이용자가 몰리는 월별 판매 시점에 집중 적용되며, 서버 분산과 단순화된 경로로 연결되는 방식이라고 안내했다.여수는 60억원 규모를 카드형으로 공급하고, 판매 개시와 동시에 전용 진입 링크를 제공해 초기 트래픽을 분리한다고 공지했다. 행정은 기존 앱 내 복수 화면 전환을 단일 경로로"
+        },
         {
           "title": "부산시, '15분 도시' 창안자 소속 프랑스 연구소와 업무협약",
           "link": "https://www.yna.co.kr/view/AKR20260301017100051",
@@ -118,19 +250,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Nanbeige/Nanbeige4.1-3B",
-          "link": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
-          "date": "2026-03-01",
-          "source": "HuggingFace",
-          "description": "• 소형 규모로도 강력한 추론 능력 구현\n• 대형 모델 뛰어넘는 선호 정렬 성과\n• 도구 호출 등 에이전트 기능 고도화\n• 복잡한 문제 해결 지원하는 신모델 공개",
-          "image": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B/resolve/main/figures/nbg.png",
-          "is_english": true,
-          "summary": "• 소형 규모로도 강력한 추론 능력 구현\n• 대형 모델 뛰어넘는 선호 정렬 성과\n• 도구 호출 등 에이전트 기능 고도화\n• 복잡한 문제 해결 지원하는 신모델 공개",
-          "translated_title": "Nanbeige/Nanbeige4.1-3B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "zai-org/GLM-5",
           "link": "https://huggingface.co/zai-org/GLM-5",
           "date": "2026-03-01",
@@ -140,6 +259,19 @@
           "is_english": true,
           "summary": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
           "translated_title": "zai-org/GLM-5",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Nanbeige/Nanbeige4.1-3B",
+          "link": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
+          "date": "2026-03-01",
+          "source": "HuggingFace",
+          "description": "• 소형 규모로도 강력한 추론 능력 구현\n• 대형 모델 뛰어넘는 선호 정렬 성과\n• 도구 호출 등 에이전트 기능 고도화\n• 복잡한 문제 해결 지원하는 신모델 공개",
+          "image": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B/resolve/main/figures/nbg.png",
+          "is_english": true,
+          "summary": "• 소형 규모로도 강력한 추론 능력 구현\n• 대형 모델 뛰어넘는 선호 정렬 성과\n• 도구 호출 등 에이전트 기능 고도화\n• 복잡한 문제 해결 지원하는 신모델 공개",
+          "translated_title": "Nanbeige/Nanbeige4.1-3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -196,19 +328,6 @@
           "category": "AI Model"
         },
         {
-          "title": "TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF",
-          "link": "https://huggingface.co/TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF",
-          "date": "2026-03-01",
-          "source": "HuggingFace",
-          "description": "• 클로드 데이터 기반 고성능 모델 공개\n• 복잡한 추론 능력 강화해 개발 완료\n• 다양한 분야 활용 가능성 제시\n• 저렴한 비용으로 효율적 학습 진행",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• 클로드 데이터 기반 고성능 모델 공개\n• 복잡한 추론 능력 강화해 개발 완료\n• 다양한 분야 활용 가능성 제시\n• 저렴한 비용으로 효율적 학습 진행",
-          "translated_title": "TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Qwen3.5-122B-A10B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.5-122B-A10B-GGUF",
           "date": "2026-03-01",
@@ -218,6 +337,19 @@
           "is_english": true,
           "summary": "• 언슬로스, 차웬 3.5 거대 언어 모델 공개\n• 1220억 파라미터와 고성능 이미지 처리 지원\n• 로컬 실행 및 효율적 양자화 기술 제공\n• 다양한 AI 프레임워크와 호환 가능",
           "translated_title": "unsloth/Qwen3.5-122B-A10B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF",
+          "link": "https://huggingface.co/TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF",
+          "date": "2026-03-01",
+          "source": "HuggingFace",
+          "description": "• 클로드 데이터 기반 고성능 모델 공개\n• 복잡한 추론 능력 강화해 개발 완료\n• 다양한 분야 활용 가능성 제시\n• 저렴한 비용으로 효율적 학습 진행",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• 클로드 데이터 기반 고성능 모델 공개\n• 복잡한 추론 능력 강화해 개발 완료\n• 다양한 분야 활용 가능성 제시\n• 저렴한 비용으로 효율적 학습 진행",
+          "translated_title": "TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -261,19 +393,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
-          "link": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
-          "date": "2026-03-01",
-          "source": "HuggingFace",
-          "description": "• Qwen3-TTS-12Hz-1.7B-CustomVoice 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-TTS-Repo/qwen3_tts_introduction.png",
-          "is_english": true,
-          "summary": "• Qwen3-TTS-12Hz-1.7B-CustomVoice 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "deepseek-ai/DeepSeek-R1",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
           "date": "2026-03-01",
@@ -287,6 +406,32 @@
           "category": "AI Model"
         },
         {
+          "title": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+          "link": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+          "date": "2026-03-01",
+          "source": "HuggingFace",
+          "description": "• Qwen3-TTS-12Hz-1.7B-CustomVoice 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen3-TTS-Repo/qwen3_tts_introduction.png",
+          "is_english": true,
+          "summary": "• Qwen3-TTS-12Hz-1.7B-CustomVoice 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "LiquidAI/LFM2-24B-A2B-GGUF",
+          "link": "https://huggingface.co/LiquidAI/LFM2-24B-A2B-GGUF",
+          "date": "2026-03-01",
+          "source": "HuggingFace",
+          "description": "• LFM2-24B-A2B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/VhdjtAT5zWTWdVYgW69O0.png",
+          "is_english": true,
+          "summary": "• LFM2-24B-A2B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "LiquidAI/LFM2-24B-A2B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Qwen/Qwen3-Coder-Next",
           "link": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
           "date": "2026-03-01",
@@ -296,19 +441,6 @@
           "is_english": true,
           "summary": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
           "translated_title": "Qwen/Qwen3-Coder-Next",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "KittenML/kitten-tts-mini-0.8",
-          "link": "https://huggingface.co/KittenML/kitten-tts-mini-0.8",
-          "date": "2026-03-01",
-          "source": "HuggingFace",
-          "description": "• 오픈소스 고품질 TTS 모델 공개\n• 80MB 용량의 가벼운 모델 구조\n• 8가지 목소리 지원 기능 제공\n• GPU 없이도 빠른 음성 생성",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• 오픈소스 고품질 TTS 모델 공개\n• 80MB 용량의 가벼운 모델 구조\n• 8가지 목소리 지원 기능 제공\n• GPU 없이도 빠른 음성 생성",
-          "translated_title": "KittenML/kitten-tts-mini-0.8",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
