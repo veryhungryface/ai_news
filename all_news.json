@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-03-02",
-      "update_time": "2026-03-01 18:20:25",
+      "update_time": "2026-03-01 21:14:13",
       "news": [
         {
           "title": "Qwen/Qwen3.5-35B-A3B",
@@ -187,19 +187,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.5-35B-A3B-Base",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B-Base",
-          "date": "2026-03-02",
-          "source": "HuggingFace",
-          "description": "• 허깅페이스 Qwen3.5 모델 공개\n• 차세대 멀티모달 성능 구현\n• 효율적 아키텍처로 비용 절감\n• 연구 및 개발 목적 최적화",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• 허깅페이스 Qwen3.5 모델 공개\n• 차세대 멀티모달 성능 구현\n• 효율적 아키텍처로 비용 절감\n• 연구 및 개발 목적 최적화",
-          "translated_title": "Qwen/Qwen3.5-35B-A3B-Base",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "huihui-ai/Huihui-Qwen3.5-35B-A3B-abliterated",
           "link": "https://huggingface.co/huihui-ai/Huihui-Qwen3.5-35B-A3B-abliterated",
           "date": "2026-03-02",
@@ -209,6 +196,19 @@
           "is_english": true,
           "summary": "• Huihui-Qwen3.5-35B-A3B-abliterated 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "huihui-ai/Huihui-Qwen3.5-35B-A3B-abliterated",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.5-35B-A3B-Base",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B-Base",
+          "date": "2026-03-02",
+          "source": "HuggingFace",
+          "description": "• 허깅페이스 Qwen3.5 모델 공개\n• 차세대 멀티모달 성능 구현\n• 효율적 아키텍처로 비용 절감\n• 연구 및 개발 목적 최적화",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• 허깅페이스 Qwen3.5 모델 공개\n• 차세대 멀티모달 성능 구현\n• 효율적 아키텍처로 비용 절감\n• 연구 및 개발 목적 최적화",
+          "translated_title": "Qwen/Qwen3.5-35B-A3B-Base",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -252,15 +252,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3-Coder-Next",
-          "link": "https://huggingface.co/Qwen/Qwen3-Coder-Next",
+          "title": "guidelabs/steerling-8b",
+          "link": "https://huggingface.co/guidelabs/steerling-8b",
           "date": "2026-03-02",
           "source": "HuggingFace",
-          "description": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
-          "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen3-Coder-Next/benchmarks.png",
+          "description": "• steerling-8b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• 코드 전용 오픈 모델 공개\n• 최소 파라미터로 고성능 구현\n• 복잡한 툴 사용 및 오류 복구 지원\n• 다양한 IDE와 호환 가능",
-          "translated_title": "Qwen/Qwen3-Coder-Next",
+          "summary": "• steerling-8b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "guidelabs/steerling-8b",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
