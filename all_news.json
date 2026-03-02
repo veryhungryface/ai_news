@@ -2,8 +2,56 @@
   "dates": [
     {
       "date": "2026-03-02",
-      "update_time": "2026-03-02 01:11:11",
+      "update_time": "2026-03-02 04:43:46",
       "news": [
+        {
+          "title": "서울시, 독자개발 '디지털 성범죄 AI 삭제지원' 기술 무상보급",
+          "link": "https://www.yna.co.kr/view/AKR20260228032200004",
+          "date": "2026-03-02",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 황재하 기자 = 서울시는 2023년 전국 최초로 독자적으로 개발한 &apos;디지털 성범죄 인공지능(AI) 삭제지원&apos; 기술을 무상으로 ...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/02/28/AKR20260228032200004_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "서울시, 독자개발 '디지털 성범죄 AI 삭제지원' 기술 무상보급",
+          "original_summary": "(서울=연합뉴스) 황재하 기자 = 서울시는 2023년 전국 최초로 독자적으로 개발한 &apos;디지털 성범죄 인공지능(AI) 삭제지원&apos; 기술을 무상으로 ...",
+          "summary": "(서울=연합뉴스) 황재하 기자 = 서울시는 2023년 전국 최초로 독자적으로 개발한 &apos;디지털 성범죄 인공지능(AI) 삭제지원&apos; 기술을 무상으로 ..."
+        },
+        {
+          "title": "서울시, AI·콘텐츠·바이오 등 청년일자리 기업 200곳 모집",
+          "link": "https://www.yna.co.kr/view/AKR20260301063500004",
+          "date": "2026-03-02",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 정수연 기자 = 서울시는 &apos;청년 일자리 사업&apos;에 참여할 인공지능(AI), 문화·콘텐츠, 바이오·헬스케어, 제로웨이스트, 소셜벤...",
+          "image": "https://img.yna.co.kr/photo/cms/2024/06/05/64/PCM20240605000164990_P2.jpg",
+          "is_english": false,
+          "original_title": "서울시, AI·콘텐츠·바이오 등 청년일자리 기업 200곳 모집",
+          "original_summary": "(서울=연합뉴스) 정수연 기자 = 서울시는 &apos;청년 일자리 사업&apos;에 참여할 인공지능(AI), 문화·콘텐츠, 바이오·헬스케어, 제로웨이스트, 소셜벤...",
+          "summary": "(서울=연합뉴스) 정수연 기자 = 서울시는 &apos;청년 일자리 사업&apos;에 참여할 인공지능(AI), 문화·콘텐츠, 바이오·헬스케어, 제로웨이스트, 소셜벤..."
+        },
+        {
+          "title": "MS, '시스템 프롬프트'를 매개변수에 내재화하는 프레임워크 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207405",
+          "date": "2026-03-02",
+          "source": "AI타임스",
+          "description": "기업들이 대형언어모델(LLM)을 실제 서비스에 적용하는 과정에서 가장 큰 부담 중 하나는 ‘길고 복잡한 시스템 프롬프트’다. 사내 정책, 안전 규칙, 전문 지식 등을 매번 입력해야 하다 보니 응답 지연과 비용이 급증하는 문제가 발생한다. 마이크로소프트(MS) 연구진은 26일(현지시간) 시스템 프롬프트 반복에 따른 성능 저하를 방지하는 새로운 학습 프레임워크 ‘온-폴리시 컨텍스트 증류(OPCD·On-Policy Context Distillation)’를 온라인 아카이브를 통해 공개했다.기업들은 도메인 지식과 고객 정책, 유해 콘텐츠",
+          "image": "https://cdn.aitimes.com/news/photo/202602/207405_209489_440.png",
+          "is_english": false,
+          "original_title": "MS, '시스템 프롬프트'를 매개변수에 내재화하는 프레임워크 공개",
+          "original_summary": "기업들이 대형언어모델(LLM)을 실제 서비스에 적용하는 과정에서 가장 큰 부담 중 하나는 ‘길고 복잡한 시스템 프롬프트’다. 사내 정책, 안전 규칙, 전문 지식 등을 매번 입력해야 하다 보니 응답 지연과 비용이 급증하는 문제가 발생한다. 마이크로소프트(MS) 연구진은 26일(현지시간) 시스템 프롬프트 반복에 따른 성능 저하를 방지하는 새로운 학습 프레임워크 ‘온-폴리시 컨텍스트 증류(OPCD·On-Policy Context Distillation)’를 온라인 아카이브를 통해 공개했다.기업들은 도메인 지식과 고객 정책, 유해 콘텐츠",
+          "summary": "기업들이 대형언어모델(LLM)을 실제 서비스에 적용하는 과정에서 가장 큰 부담 중 하나는 ‘길고 복잡한 시스템 프롬프트’다. 사내 정책, 안전 규칙, 전문 지식 등을 매번 입력해야 하다 보니 응답 지연과 비용이 급증하는 문제가 발생한다. 마이크로소프트(MS) 연구진은 26일(현지시간) 시스템 프롬프트 반복에 따른 성능 저하를 방지하는 새로운 학습 프레임워크 ‘온-폴리시 컨텍스트 증류(OPCD·On-Policy Context Distillation)’를 온라인 아카이브를 통해 공개했다.기업들은 도메인 지식과 고객 정책, 유해 콘텐츠"
+        },
+        {
+          "title": "미국, 앤트로픽 금지 직후 이란 공격에 '클로드' 활용",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207431",
+          "date": "2026-03-02",
+          "source": "AI타임스",
+          "description": "미 국방부가 앤트로픽과의 관계 단절을 선언했음에도 불구, 이란 공격 계획을 수립하는 데 \\'클로드\\'를 활용한 것으로 알려졌다.월스트리트 저널(WSJ)과 악시오스는 소식통을 인용, 28일(현지시간) 시작된 대규모 미·이스라엘 이란 합동 폭격에서 클로드 기반 드론 기술이 실제 작전에 투입됐다고 보도했다.이에 따르면, 미군은 정보 수집 목적뿐 아니라 목표물 선정 및 전장 시뮬레이션 수행에도 클로드를 사용했다.이는 이미 작전에 깊숙이 투입된 AI 도구를 철수하는 것이 얼마나 복잡한 문제인지를 보여준다는 평이다.도널드 트럼프 대통령은 이란 공",
+          "image": "https://cdn.aitimes.com/news/photo/202603/207431_209531_2218.jpg",
+          "is_english": false,
+          "original_title": "미국, 앤트로픽 금지 직후 이란 공격에 '클로드' 활용",
+          "original_summary": "미 국방부가 앤트로픽과의 관계 단절을 선언했음에도 불구, 이란 공격 계획을 수립하는 데 \\'클로드\\'를 활용한 것으로 알려졌다.월스트리트 저널(WSJ)과 악시오스는 소식통을 인용, 28일(현지시간) 시작된 대규모 미·이스라엘 이란 합동 폭격에서 클로드 기반 드론 기술이 실제 작전에 투입됐다고 보도했다.이에 따르면, 미군은 정보 수집 목적뿐 아니라 목표물 선정 및 전장 시뮬레이션 수행에도 클로드를 사용했다.이는 이미 작전에 깊숙이 투입된 AI 도구를 철수하는 것이 얼마나 복잡한 문제인지를 보여준다는 평이다.도널드 트럼프 대통령은 이란",
+          "summary": "미 국방부가 앤트로픽과의 관계 단절을 선언했음에도 불구, 이란 공격 계획을 수립하는 데 \\'클로드\\'를 활용한 것으로 알려졌다.월스트리트 저널(WSJ)과 악시오스는 소식통을 인용, 28일(현지시간) 시작된 대규모 미·이스라엘 이란 합동 폭격에서 클로드 기반 드론 기술이 실제 작전에 투입됐다고 보도했다.이에 따르면, 미군은 정보 수집 목적뿐 아니라 목표물 선정 및 전장 시뮬레이션 수행에도 클로드를 사용했다.이는 이미 작전에 깊숙이 투입된 AI 도구를 철수하는 것이 얼마나 복잡한 문제인지를 보여준다는 평이다.도널드 트럼프 대통령은 이란"
+        },
         {
           "title": "경남교육청, AI 딥페이크·온라인 그루밍 예방한다…맞춤형 교육",
           "link": "https://www.yna.co.kr/view/AKR20260227154400052",
@@ -222,19 +270,6 @@
           "category": "AI Model"
         },
         {
-          "title": "TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF",
-          "link": "https://huggingface.co/TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF",
-          "date": "2026-03-02",
-          "source": "HuggingFace",
-          "description": "• 클로드 데이터 기반 고성능 모델 공개\n• 복잡한 추론 능력 강화해 개발 완료\n• 다양한 분야 활용 가능성 제시\n• 저렴한 비용으로 효율적 학습 진행",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• 클로드 데이터 기반 고성능 모델 공개\n• 복잡한 추론 능력 강화해 개발 완료\n• 다양한 분야 활용 가능성 제시\n• 저렴한 비용으로 효율적 학습 진행",
-          "translated_title": "TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "huihui-ai/Huihui-Qwen3.5-35B-A3B-abliterated",
           "link": "https://huggingface.co/huihui-ai/Huihui-Qwen3.5-35B-A3B-abliterated",
           "date": "2026-03-02",
@@ -244,6 +279,19 @@
           "is_english": true,
           "summary": "• Huihui-Qwen3.5-35B-A3B-abliterated 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "huihui-ai/Huihui-Qwen3.5-35B-A3B-abliterated",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF",
+          "link": "https://huggingface.co/TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF",
+          "date": "2026-03-02",
+          "source": "HuggingFace",
+          "description": "• 클로드 데이터 기반 고성능 모델 공개\n• 복잡한 추론 능력 강화해 개발 완료\n• 다양한 분야 활용 가능성 제시\n• 저렴한 비용으로 효율적 학습 진행",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• 클로드 데이터 기반 고성능 모델 공개\n• 복잡한 추론 능력 강화해 개발 완료\n• 다양한 분야 활용 가능성 제시\n• 저렴한 비용으로 효율적 학습 진행",
+          "translated_title": "TeichAI/Qwen3-14B-Claude-4.5-Opus-High-Reasoning-Distill-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -274,15 +322,15 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/personaplex-7b-v1",
-          "link": "https://huggingface.co/nvidia/personaplex-7b-v1",
+          "title": "LiquidAI/LFM2-24B-A2B-GGUF",
+          "link": "https://huggingface.co/LiquidAI/LFM2-24B-A2B-GGUF",
           "date": "2026-03-02",
           "source": "HuggingFace",
-          "description": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "description": "• LFM2-24B-A2B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/VhdjtAT5zWTWdVYgW69O0.png",
           "is_english": true,
-          "summary": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
-          "translated_title": "nvidia/personaplex-7b-v1",
+          "summary": "• LFM2-24B-A2B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "LiquidAI/LFM2-24B-A2B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -300,15 +348,15 @@
           "category": "AI Model"
         },
         {
-          "title": "LiquidAI/LFM2-24B-A2B-GGUF",
-          "link": "https://huggingface.co/LiquidAI/LFM2-24B-A2B-GGUF",
+          "title": "nvidia/personaplex-7b-v1",
+          "link": "https://huggingface.co/nvidia/personaplex-7b-v1",
           "date": "2026-03-02",
           "source": "HuggingFace",
-          "description": "• LFM2-24B-A2B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/VhdjtAT5zWTWdVYgW69O0.png",
+          "description": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
           "is_english": true,
-          "summary": "• LFM2-24B-A2B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "LiquidAI/LFM2-24B-A2B-GGUF",
+          "summary": "• 엔비디아, 새로운 AI 모델 공개\n• 모시 기반 기술 탑재로 주목\n• 7B 파라미터의 경량화 설계\n• 안전한 모델 서빙 지원 제공",
+          "translated_title": "nvidia/personaplex-7b-v1",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
