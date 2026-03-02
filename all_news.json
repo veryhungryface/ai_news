@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-03-03",
-      "update_time": "2026-03-02 15:32:46",
+      "update_time": "2026-03-02 18:33:39",
       "news": [
+        {
+          "title": "Nvidia to Invest $4B in Companies to Scale AI Infrastructure",
+          "link": "https://aibusiness.com/data-centers/nvidia-to-invest-4b-in-companies-to-scale-ai-infrastructure",
+          "date": "2026-03-03",
+          "source": "AI Business",
+          "description": "The new partnerships with Lumentum and Coherent signal growing demand for faster, more energy efficient technologies to power next-generation data centers.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt950fb59aace6702e/69a5d4cc6bd1c5d2d825c149/nvidia.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Nvidia to Invest $4B in Companies to Scale AI Infrastructure",
+          "original_summary": "The new partnerships with Lumentum and Coherent signal growing demand for faster, more energy efficient technologies to power next-generation data centers.",
+          "summary": "The new partnerships with Lumentum and Coherent signal growing demand for faster, more energy efficient technologies to power next-generation data centers."
+        },
+        {
+          "title": "OpenAI Unveils $110B in Funding, Expands AWS Partnership",
+          "link": "https://aibusiness.com/foundation-models/openai-unveils-110billion-funding-expands-aws-partnership",
+          "date": "2026-03-03",
+          "source": "AI Business",
+          "description": "The deal is one of the largest private financing rounds in history, coming amidst a rapid spike in AI investment.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltd496784d5fb3ec23/69a5cd62d9c36c0e50a2f0a1/openAI.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "OpenAI Unveils $110B in Funding, Expands AWS Partnership",
+          "original_summary": "The deal is one of the largest private financing rounds in history, coming amidst a rapid spike in AI investment.",
+          "summary": "The deal is one of the largest private financing rounds in history, coming amidst a rapid spike in AI investment."
+        },
         {
           "title": "Qwen/Qwen3.5-35B-A3B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
@@ -161,6 +185,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Qwen/Qwen3.5-9B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-9B",
+          "date": "2026-03-03",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.5-9B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "huihui-ai/Huihui-Qwen3.5-35B-A3B-abliterated",
           "link": "https://huggingface.co/huihui-ai/Huihui-Qwen3.5-35B-A3B-abliterated",
           "date": "2026-03-03",
@@ -183,19 +220,6 @@
           "is_english": true,
           "summary": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
           "translated_title": "moonshotai/Kimi-K2.5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "Qwen/Qwen3.5-9B",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-9B",
-          "date": "2026-03-03",
-          "source": "HuggingFace",
-          "description": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.5-9B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -226,15 +250,28 @@
           "category": "AI Model"
         },
         {
-          "title": "deepseek-ai/DeepSeek-R1",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-R1",
+          "title": "perplexity-ai/pplx-embed-v1-0.6b",
+          "link": "https://huggingface.co/perplexity-ai/pplx-embed-v1-0.6b",
           "date": "2026-03-03",
           "source": "HuggingFace",
-          "description": "• 딥시크, 최신 AI 모델 R1 공개\n• 오픈소스 라이선스 MIT 적용\n• 허깅페이스를 통해 무료 제공\n• 웹 및 모바일 채팅 서비스 지원",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
+          "description": "• pplx-embed-v1-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/perplexity-ai/pplx-embed-v1-0.6b/resolve/main/assets/diag.png",
           "is_english": true,
-          "summary": "• 딥시크, 최신 AI 모델 R1 공개\n• 오픈소스 라이선스 MIT 적용\n• 허깅페이스를 통해 무료 제공\n• 웹 및 모바일 채팅 서비스 지원",
-          "translated_title": "deepseek-ai/DeepSeek-R1",
+          "summary": "• pplx-embed-v1-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "perplexity-ai/pplx-embed-v1-0.6b",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.5-4B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-4B",
+          "date": "2026-03-03",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• Qwen3.5-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.5-4B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -250,26 +287,25 @@
           "translated_title": "LiquidAI/LFM2-24B-A2B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "guidelabs/steerling-8b",
-          "link": "https://huggingface.co/guidelabs/steerling-8b",
-          "date": "2026-03-03",
-          "source": "HuggingFace",
-          "description": "• steerling-8b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• steerling-8b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "guidelabs/steerling-8b",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-03-02",
-      "update_time": "2026-03-02 15:32:44",
+      "update_time": "2026-03-02 18:33:36",
       "news": [
+        {
+          "title": "Tech workers urge DOD, Congress to withdraw Anthropic label as a supply chain risk",
+          "link": "https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/",
+          "date": "2026-03-02",
+          "source": "TechCrunch",
+          "description": "Tech workers have signed an open letter urging the Department of War to withdraw its designation of Anthropic as a \"supply chain risk\" and instead to settle the matter quietly.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/07/golden-dome-missile-GettyImages.jpg?resize=1200,822",
+          "is_english": true,
+          "original_title": "Tech workers urge DOD, Congress to withdraw Anthropic label as a supply chain risk",
+          "original_summary": "Tech workers have signed an open letter urging the Department of War to withdraw its designation of Anthropic as a \"supply chain risk\" and instead to settle the matter quietly.",
+          "summary": "Tech workers have signed an open letter urging the Department of War to withdraw its designation of Anthropic as a \"supply chain risk\" and instead to settle the matter quietly."
+        },
         {
           "title": "A married founder duo’s company, 14.ai, is replacing customer support teams at startups",
           "link": "https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/",
@@ -748,7 +784,7 @@
         {
           "title": "perplexity-ai/pplx-embed-v1-0.6b",
           "link": "https://huggingface.co/perplexity-ai/pplx-embed-v1-0.6b",
-          "date": "2026-03-02",
+          "date": "2026-03-03",
           "source": "HuggingFace",
           "description": "• pplx-embed-v1-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/perplexity-ai/pplx-embed-v1-0.6b/resolve/main/assets/diag.png",
@@ -9891,7 +9927,7 @@
         {
           "title": "Qwen/Qwen3.5-397B-A17B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-397B-A17B",
-          "date": "2026-02-22",
+          "date": "2026-03-03",
           "source": "HuggingFace",
           "description": "• 알리바바, 차세대 거대 AI 모델 공개\n• 멀티모달 기능으로 성능 대폭 개선\n• 다양한 개발 도구와 호환성 지원\n• 클라우드 기반 API 서비스 제공",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -9917,7 +9953,7 @@
         {
           "title": "Nanbeige/Nanbeige4.1-3B",
           "link": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
-          "date": "2026-02-22",
+          "date": "2026-03-03",
           "source": "HuggingFace",
           "description": "• 소형 규모로도 강력한 추론 능력 구현\n• 대형 모델 뛰어넘는 선호 정렬 성과\n• 도구 호출 등 에이전트 기능 고도화\n• 복잡한 문제 해결 지원하는 신모델 공개",
           "image": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B/resolve/main/figures/nbg.png",
@@ -9930,7 +9966,7 @@
         {
           "title": "zai-org/GLM-5",
           "link": "https://huggingface.co/zai-org/GLM-5",
-          "date": "2026-02-22",
+          "date": "2026-03-03",
           "source": "HuggingFace",
           "description": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -9943,7 +9979,7 @@
         {
           "title": "MiniMaxAI/MiniMax-M2.5",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-M2.5",
-          "date": "2026-02-22",
+          "date": "2026-03-03",
           "source": "HuggingFace",
           "description": "• MiniMaxAI, 신규 언어 모델 공개\n• 문장 생성 최적화 파이프라인 탑재\n• 트랜스포머 라이브러리 기반 구현\n• 수정된 MIT 라이선스 적용",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
@@ -10008,7 +10044,7 @@
         {
           "title": "moonshotai/Kimi-K2.5",
           "link": "https://huggingface.co/moonshotai/Kimi-K2.5",
-          "date": "2026-02-22",
+          "date": "2026-03-03",
           "source": "HuggingFace",
           "description": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
           "image": "https://huggingface.co/moonshotai/Kimi-K2.5/resolve/main/figures/kimi-logo.png",
