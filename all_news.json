@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-03-03",
-      "update_time": "2026-03-03 09:33:48",
+      "update_time": "2026-03-03 12:34:08",
       "news": [
         {
           "title": "AI 기반 행정혁신 나선 관악구…\"주민체감형 스마트서비스 확충\"",
@@ -676,32 +676,6 @@
           "category": "AI Model"
         },
         {
-          "title": "LocoreMind/LocoOperator-4B",
-          "link": "https://huggingface.co/LocoreMind/LocoOperator-4B",
-          "date": "2026-03-03",
-          "source": "HuggingFace",
-          "description": "• 코딩 에이전트 전용 LLM 'LocoOperator' 공개\n• 4B 파라미터 작은 사이즈로 로컬 실행 지원\n• 코드 탐색 및 도구 호출 전문 기능 탑재\n• 추론 비용 절감 위한 지도 학습 기반 학습",
-          "image": "https://img.shields.io/badge/Model-FFB300?style=for-the-badge&logo=huggingface&logoColor=white",
-          "is_english": true,
-          "summary": "• 코딩 에이전트 전용 LLM 'LocoOperator' 공개\n• 4B 파라미터 작은 사이즈로 로컬 실행 지원\n• 코드 탐색 및 도구 호출 전문 기능 탑재\n• 추론 비용 절감 위한 지도 학습 기반 학습",
-          "translated_title": "LocoreMind/LocoOperator-4B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "unsloth/Qwen3.5-122B-A10B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.5-122B-A10B-GGUF",
-          "date": "2026-03-03",
-          "source": "HuggingFace",
-          "description": "• 언슬로스, 차웬 3.5 거대 언어 모델 공개\n• 1220억 파라미터와 고성능 이미지 처리 지원\n• 로컬 실행 및 효율적 양자화 기술 제공\n• 다양한 AI 프레임워크와 호환 가능",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• 언슬로스, 차웬 3.5 거대 언어 모델 공개\n• 1220억 파라미터와 고성능 이미지 처리 지원\n• 로컬 실행 및 효율적 양자화 기술 제공\n• 다양한 AI 프레임워크와 호환 가능",
-          "translated_title": "unsloth/Qwen3.5-122B-A10B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.5-4B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-4B",
           "date": "2026-03-03",
@@ -715,6 +689,19 @@
           "category": "AI Model"
         },
         {
+          "title": "LocoreMind/LocoOperator-4B",
+          "link": "https://huggingface.co/LocoreMind/LocoOperator-4B",
+          "date": "2026-03-03",
+          "source": "HuggingFace",
+          "description": "• 코딩 에이전트 전용 LLM 'LocoOperator' 공개\n• 4B 파라미터 작은 사이즈로 로컬 실행 지원\n• 코드 탐색 및 도구 호출 전문 기능 탑재\n• 추론 비용 절감 위한 지도 학습 기반 학습",
+          "image": "https://img.shields.io/badge/Model-FFB300?style=for-the-badge&logo=huggingface&logoColor=white",
+          "is_english": true,
+          "summary": "• 코딩 에이전트 전용 LLM 'LocoOperator' 공개\n• 4B 파라미터 작은 사이즈로 로컬 실행 지원\n• 코드 탐색 및 도구 호출 전문 기능 탑재\n• 추론 비용 절감 위한 지도 학습 기반 학습",
+          "translated_title": "LocoreMind/LocoOperator-4B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Qwen/Qwen3.5-0.8B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-0.8B",
           "date": "2026-03-03",
@@ -724,6 +711,19 @@
           "is_english": true,
           "summary": "• Qwen3.5-0.8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.5-0.8B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/Qwen3.5-122B-A10B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.5-122B-A10B-GGUF",
+          "date": "2026-03-03",
+          "source": "HuggingFace",
+          "description": "• 언슬로스, 차웬 3.5 거대 언어 모델 공개\n• 1220억 파라미터와 고성능 이미지 처리 지원\n• 로컬 실행 및 효율적 양자화 기술 제공\n• 다양한 AI 프레임워크와 호환 가능",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• 언슬로스, 차웬 3.5 거대 언어 모델 공개\n• 1220억 파라미터와 고성능 이미지 처리 지원\n• 로컬 실행 및 효율적 양자화 기술 제공\n• 다양한 AI 프레임워크와 호환 가능",
+          "translated_title": "unsloth/Qwen3.5-122B-A10B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
