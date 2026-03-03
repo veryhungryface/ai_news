@@ -2,8 +2,44 @@
   "dates": [
     {
       "date": "2026-03-04",
-      "update_time": "2026-03-03 18:35:17",
+      "update_time": "2026-03-03 21:25:10",
       "news": [
+        {
+          "title": "국내 최초 사내대학원 '엘지 AI대학원' 출범",
+          "link": "https://www.yna.co.kr/view/AKR20260303135100530",
+          "date": "2026-03-04",
+          "source": "연합뉴스",
+          "description": "(세종=연합뉴스) 고상민 기자 = 국내 최초 사내대학원인 &apos;엘지(LG) AI대학원&apos;이 4일 개원식을 열고 석박사 학위과정 운영에 들어간다.",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/03/03/AKR20260303135100530_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "국내 최초 사내대학원 '엘지 AI대학원' 출범",
+          "original_summary": "(세종=연합뉴스) 고상민 기자 = 국내 최초 사내대학원인 &apos;엘지(LG) AI대학원&apos;이 4일 개원식을 열고 석박사 학위과정 운영에 들어간다.",
+          "summary": "(세종=연합뉴스) 고상민 기자 = 국내 최초 사내대학원인 &apos;엘지(LG) AI대학원&apos;이 4일 개원식을 열고 석박사 학위과정 운영에 들어간다."
+        },
+        {
+          "title": "서울시민 86% \"AI 사용 경험 있어\"…60세 이상도 68%",
+          "link": "https://www.yna.co.kr/view/AKR20260303145300004",
+          "date": "2026-03-04",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 황재하 기자 = 서울시민 10명 중 8명 이상은 인공지능(AI) 서비스를 사용한 경험이 있고 60대 이상도 70% 가까이 사용...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/03/03/AKR20260303145300004_01_i_P2.jpg",
+          "is_english": true,
+          "original_title": "서울시민 86% \"AI 사용 경험 있어\"…60세 이상도 68%",
+          "original_summary": "(서울=연합뉴스) 황재하 기자 = 서울시민 10명 중 8명 이상은 인공지능(AI) 서비스를 사용한 경험이 있고 60대 이상도 70% 가까이 사용...",
+          "summary": "(서울=연합뉴스) 황재하 기자 = 서울시민 10명 중 8명 이상은 인공지능(AI) 서비스를 사용한 경험이 있고 60대 이상도 70% 가까이 사용..."
+        },
+        {
+          "title": "Vibe Coding Was Just the Beginning",
+          "link": "https://aibusiness.com/generative-ai/vibe-coding-was-just-the-beginning",
+          "date": "2026-03-04",
+          "source": "AI Business",
+          "description": "Employees who use AI to tackle tasks previously beyond their scope will have a competitive advantage over employees who don't.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltd42a2f17feb3f613/69a73300114d8e3bd0160b17/vibe_coding.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Vibe Coding Was Just the Beginning",
+          "original_summary": "Employees who use AI to tackle tasks previously beyond their scope will have a competitive advantage over employees who don't.",
+          "summary": "Employees who use AI to tackle tasks previously beyond their scope will have a competitive advantage over employees who don't."
+        },
         {
           "title": "Qwen/Qwen3.5-35B-A3B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
@@ -44,19 +80,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.5-122B-A10B",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-122B-A10B",
-          "date": "2026-03-04",
-          "source": "HuggingFace",
-          "description": "• 차세대 멀티모달 기능으로 성능 향상\n• 효율적 하이브리드 아키텍처 탑재\n• 확장된 강화학습으로 적응력 강화\n• 201개 언어 및 방언 지원 공개",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• 차세대 멀티모달 기능으로 성능 향상\n• 효율적 하이브리드 아키텍처 탑재\n• 확장된 강화학습으로 적응력 강화\n• 201개 언어 및 방언 지원 공개",
-          "translated_title": "Qwen/Qwen3.5-122B-A10B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.5-9B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-9B",
           "date": "2026-03-04",
@@ -66,6 +89,19 @@
           "is_english": true,
           "summary": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.5-9B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.5-122B-A10B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-122B-A10B",
+          "date": "2026-03-04",
+          "source": "HuggingFace",
+          "description": "• 차세대 멀티모달 기능으로 성능 향상\n• 효율적 하이브리드 아키텍처 탑재\n• 확장된 강화학습으로 적응력 강화\n• 201개 언어 및 방언 지원 공개",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• 차세대 멀티모달 기능으로 성능 향상\n• 효율적 하이브리드 아키텍처 탑재\n• 확장된 강화학습으로 적응력 강화\n• 201개 언어 및 방언 지원 공개",
+          "translated_title": "Qwen/Qwen3.5-122B-A10B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -109,28 +145,15 @@
           "category": "AI Model"
         },
         {
-          "title": "LiquidAI/LFM2-24B-A2B",
-          "link": "https://huggingface.co/LiquidAI/LFM2-24B-A2B",
+          "title": "Qwen/Qwen3.5-4B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-4B",
           "date": "2026-03-04",
           "source": "HuggingFace",
-          "description": "• 리퀴드AI, 온디바이스 특화 LFM2 공개\n• 24억 파라미터 모델 효율성 최고화\n• 소비자용 노트북 탑재 가능 설계\n• CPU·H100에서 초고속 추론 지원",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/VhdjtAT5zWTWdVYgW69O0.png",
+          "description": "• Qwen3.5-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
           "is_english": true,
-          "summary": "• 리퀴드AI, 온디바이스 특화 LFM2 공개\n• 24억 파라미터 모델 효율성 최고화\n• 소비자용 노트북 탑재 가능 설계\n• CPU·H100에서 초고속 추론 지원",
-          "translated_title": "LiquidAI/LFM2-24B-A2B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "MiniMaxAI/MiniMax-M2.5",
-          "link": "https://huggingface.co/MiniMaxAI/MiniMax-M2.5",
-          "date": "2026-03-04",
-          "source": "HuggingFace",
-          "description": "• MiniMaxAI, 신규 언어 모델 공개\n• 문장 생성 최적화 파이프라인 탑재\n• 트랜스포머 라이브러리 기반 구현\n• 수정된 MIT 라이선스 적용",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
-          "is_english": true,
-          "summary": "• MiniMaxAI, 신규 언어 모델 공개\n• 문장 생성 최적화 파이프라인 탑재\n• 트랜스포머 라이브러리 기반 구현\n• 수정된 MIT 라이선스 적용",
-          "translated_title": "MiniMaxAI/MiniMax-M2.5",
+          "summary": "• Qwen3.5-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.5-4B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -148,6 +171,19 @@
           "category": "AI Model"
         },
         {
+          "title": "MiniMaxAI/MiniMax-M2.5",
+          "link": "https://huggingface.co/MiniMaxAI/MiniMax-M2.5",
+          "date": "2026-03-04",
+          "source": "HuggingFace",
+          "description": "• MiniMaxAI, 신규 언어 모델 공개\n• 문장 생성 최적화 파이프라인 탑재\n• 트랜스포머 라이브러리 기반 구현\n• 수정된 MIT 라이선스 적용",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• MiniMaxAI, 신규 언어 모델 공개\n• 문장 생성 최적화 파이프라인 탑재\n• 트랜스포머 라이브러리 기반 구현\n• 수정된 MIT 라이선스 적용",
+          "translated_title": "MiniMaxAI/MiniMax-M2.5",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Nanbeige/Nanbeige4.1-3B",
           "link": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
           "date": "2026-03-04",
@@ -161,15 +197,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.5-4B",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-4B",
+          "title": "LiquidAI/LFM2-24B-A2B",
+          "link": "https://huggingface.co/LiquidAI/LFM2-24B-A2B",
           "date": "2026-03-04",
           "source": "HuggingFace",
-          "description": "• Qwen3.5-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "description": "• 리퀴드AI, 온디바이스 특화 LFM2 공개\n• 24억 파라미터 모델 효율성 최고화\n• 소비자용 노트북 탑재 가능 설계\n• CPU·H100에서 초고속 추론 지원",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/VhdjtAT5zWTWdVYgW69O0.png",
           "is_english": true,
-          "summary": "• Qwen3.5-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.5-4B",
+          "summary": "• 리퀴드AI, 온디바이스 특화 LFM2 공개\n• 24억 파라미터 모델 효율성 최고화\n• 소비자용 노트북 탑재 가능 설계\n• CPU·H100에서 초고속 추론 지원",
+          "translated_title": "LiquidAI/LFM2-24B-A2B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -200,19 +236,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.5-122B-A10B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.5-122B-A10B-GGUF",
-          "date": "2026-03-04",
-          "source": "HuggingFace",
-          "description": "• 언슬로스, 차웬 3.5 거대 언어 모델 공개\n• 1220억 파라미터와 고성능 이미지 처리 지원\n• 로컬 실행 및 효율적 양자화 기술 제공\n• 다양한 AI 프레임워크와 호환 가능",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• 언슬로스, 차웬 3.5 거대 언어 모델 공개\n• 1220억 파라미터와 고성능 이미지 처리 지원\n• 로컬 실행 및 효율적 양자화 기술 제공\n• 다양한 AI 프레임워크와 호환 가능",
-          "translated_title": "unsloth/Qwen3.5-122B-A10B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Qwen3.5-9B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.5-9B-GGUF",
           "date": "2026-03-04",
@@ -222,6 +245,19 @@
           "is_english": true,
           "summary": "• Qwen3.5-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/Qwen3.5-9B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/Qwen3.5-122B-A10B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.5-122B-A10B-GGUF",
+          "date": "2026-03-04",
+          "source": "HuggingFace",
+          "description": "• 언슬로스, 차웬 3.5 거대 언어 모델 공개\n• 1220억 파라미터와 고성능 이미지 처리 지원\n• 로컬 실행 및 효율적 양자화 기술 제공\n• 다양한 AI 프레임워크와 호환 가능",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• 언슬로스, 차웬 3.5 거대 언어 모델 공개\n• 1220억 파라미터와 고성능 이미지 처리 지원\n• 로컬 실행 및 효율적 양자화 기술 제공\n• 다양한 AI 프레임워크와 호환 가능",
+          "translated_title": "unsloth/Qwen3.5-122B-A10B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -252,15 +288,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.5-35B-A3B-Base",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B-Base",
+          "title": "perplexity-ai/pplx-embed-v1-0.6b",
+          "link": "https://huggingface.co/perplexity-ai/pplx-embed-v1-0.6b",
           "date": "2026-03-04",
           "source": "HuggingFace",
-          "description": "• 허깅페이스 Qwen3.5 모델 공개\n• 차세대 멀티모달 성능 구현\n• 효율적 아키텍처로 비용 절감\n• 연구 및 개발 목적 최적화",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "description": "• pplx-embed-v1-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/perplexity-ai/pplx-embed-v1-0.6b/resolve/main/assets/diag.png",
           "is_english": true,
-          "summary": "• 허깅페이스 Qwen3.5 모델 공개\n• 차세대 멀티모달 성능 구현\n• 효율적 아키텍처로 비용 절감\n• 연구 및 개발 목적 최적화",
-          "translated_title": "Qwen/Qwen3.5-35B-A3B-Base",
+          "summary": "• pplx-embed-v1-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "perplexity-ai/pplx-embed-v1-0.6b",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -268,8 +304,32 @@
     },
     {
       "date": "2026-03-03",
-      "update_time": "2026-03-03 18:35:17",
+      "update_time": "2026-03-03 21:25:10",
       "news": [
+        {
+          "title": "ChatGPT’s new GPT-5.3 Instant model will stop telling you to calm down",
+          "link": "https://techcrunch.com/2026/03/03/chatgpts-new-gpt-5-3-instant-model-will-stop-telling-you-to-calm-down/",
+          "date": "2026-03-03",
+          "source": "TechCrunch",
+          "description": "The company says the new model will reduce the \"cringe\" that's been annoying its users for months. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/angry-at-phone-GettyImages-1314491343.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "ChatGPT’s new GPT-5.3 Instant model will stop telling you to calm down",
+          "original_summary": "The company says the new model will reduce the \"cringe\" that's been annoying its users for months. ",
+          "summary": "The company says the new model will reduce the \"cringe\" that's been annoying its users for months. "
+        },
+        {
+          "title": "Claude Code rolls out a voice mode capability",
+          "link": "https://techcrunch.com/2026/03/03/claude-code-rolls-out-a-voice-mode-capability/",
+          "date": "2026-03-03",
+          "source": "TechCrunch",
+          "description": "Anthropic is stepping up its game in the AI coding space with the rollout of Voice Mode in Claude Code.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/ClaudeCode2025.jpeg?w=1200",
+          "is_english": true,
+          "original_title": "Claude Code rolls out a voice mode capability",
+          "original_summary": "Anthropic is stepping up its game in the AI coding space with the rollout of Voice Mode in Claude Code.",
+          "summary": "Anthropic is stepping up its game in the AI coding space with the rollout of Voice Mode in Claude Code."
+        },
         {
           "title": "GPT-5.3 Instant System Card",
           "link": "https://openai.com/index/gpt-5-3-instant-system-card",
@@ -1674,7 +1734,7 @@
         {
           "title": "perplexity-ai/pplx-embed-v1-0.6b",
           "link": "https://huggingface.co/perplexity-ai/pplx-embed-v1-0.6b",
-          "date": "2026-03-03",
+          "date": "2026-03-04",
           "source": "HuggingFace",
           "description": "• pplx-embed-v1-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/perplexity-ai/pplx-embed-v1-0.6b/resolve/main/assets/diag.png",
