@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-03-04",
-      "update_time": "2026-03-03 15:39:06",
+      "update_time": "2026-03-03 18:35:17",
       "news": [
         {
           "title": "Qwen/Qwen3.5-35B-A3B",
@@ -83,19 +83,6 @@
           "category": "AI Model"
         },
         {
-          "title": "LiquidAI/LFM2-24B-A2B",
-          "link": "https://huggingface.co/LiquidAI/LFM2-24B-A2B",
-          "date": "2026-03-04",
-          "source": "HuggingFace",
-          "description": "• 리퀴드AI, 온디바이스 특화 LFM2 공개\n• 24억 파라미터 모델 효율성 최고화\n• 소비자용 노트북 탑재 가능 설계\n• CPU·H100에서 초고속 추론 지원",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/VhdjtAT5zWTWdVYgW69O0.png",
-          "is_english": true,
-          "summary": "• 리퀴드AI, 온디바이스 특화 LFM2 공개\n• 24억 파라미터 모델 효율성 최고화\n• 소비자용 노트북 탑재 가능 설계\n• CPU·H100에서 초고속 추론 지원",
-          "translated_title": "LiquidAI/LFM2-24B-A2B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Qwen3.5-27B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.5-27B-GGUF",
           "date": "2026-03-04",
@@ -122,15 +109,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Nanbeige/Nanbeige4.1-3B",
-          "link": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
+          "title": "LiquidAI/LFM2-24B-A2B",
+          "link": "https://huggingface.co/LiquidAI/LFM2-24B-A2B",
           "date": "2026-03-04",
           "source": "HuggingFace",
-          "description": "• 소형 규모로도 강력한 추론 능력 구현\n• 대형 모델 뛰어넘는 선호 정렬 성과\n• 도구 호출 등 에이전트 기능 고도화\n• 복잡한 문제 해결 지원하는 신모델 공개",
-          "image": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B/resolve/main/figures/nbg.png",
+          "description": "• 리퀴드AI, 온디바이스 특화 LFM2 공개\n• 24억 파라미터 모델 효율성 최고화\n• 소비자용 노트북 탑재 가능 설계\n• CPU·H100에서 초고속 추론 지원",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/VhdjtAT5zWTWdVYgW69O0.png",
           "is_english": true,
-          "summary": "• 소형 규모로도 강력한 추론 능력 구현\n• 대형 모델 뛰어넘는 선호 정렬 성과\n• 도구 호출 등 에이전트 기능 고도화\n• 복잡한 문제 해결 지원하는 신모델 공개",
-          "translated_title": "Nanbeige/Nanbeige4.1-3B",
+          "summary": "• 리퀴드AI, 온디바이스 특화 LFM2 공개\n• 24억 파라미터 모델 효율성 최고화\n• 소비자용 노트북 탑재 가능 설계\n• CPU·H100에서 초고속 추론 지원",
+          "translated_title": "LiquidAI/LFM2-24B-A2B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -161,6 +148,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Nanbeige/Nanbeige4.1-3B",
+          "link": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
+          "date": "2026-03-04",
+          "source": "HuggingFace",
+          "description": "• 소형 규모로도 강력한 추론 능력 구현\n• 대형 모델 뛰어넘는 선호 정렬 성과\n• 도구 호출 등 에이전트 기능 고도화\n• 복잡한 문제 해결 지원하는 신모델 공개",
+          "image": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B/resolve/main/figures/nbg.png",
+          "is_english": true,
+          "summary": "• 소형 규모로도 강력한 추론 능력 구현\n• 대형 모델 뛰어넘는 선호 정렬 성과\n• 도구 호출 등 에이전트 기능 고도화\n• 복잡한 문제 해결 지원하는 신모델 공개",
+          "translated_title": "Nanbeige/Nanbeige4.1-3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Qwen/Qwen3.5-4B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-4B",
           "date": "2026-03-04",
@@ -170,19 +170,6 @@
           "is_english": true,
           "summary": "• Qwen3.5-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.5-4B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "unsloth/Qwen3.5-122B-A10B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.5-122B-A10B-GGUF",
-          "date": "2026-03-04",
-          "source": "HuggingFace",
-          "description": "• 언슬로스, 차웬 3.5 거대 언어 모델 공개\n• 1220억 파라미터와 고성능 이미지 처리 지원\n• 로컬 실행 및 효율적 양자화 기술 제공\n• 다양한 AI 프레임워크와 호환 가능",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• 언슬로스, 차웬 3.5 거대 언어 모델 공개\n• 1220억 파라미터와 고성능 이미지 처리 지원\n• 로컬 실행 및 효율적 양자화 기술 제공\n• 다양한 AI 프레임워크와 호환 가능",
-          "translated_title": "unsloth/Qwen3.5-122B-A10B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -213,6 +200,19 @@
           "category": "AI Model"
         },
         {
+          "title": "unsloth/Qwen3.5-122B-A10B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.5-122B-A10B-GGUF",
+          "date": "2026-03-04",
+          "source": "HuggingFace",
+          "description": "• 언슬로스, 차웬 3.5 거대 언어 모델 공개\n• 1220억 파라미터와 고성능 이미지 처리 지원\n• 로컬 실행 및 효율적 양자화 기술 제공\n• 다양한 AI 프레임워크와 호환 가능",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• 언슬로스, 차웬 3.5 거대 언어 모델 공개\n• 1220억 파라미터와 고성능 이미지 처리 지원\n• 로컬 실행 및 효율적 양자화 기술 제공\n• 다양한 AI 프레임워크와 호환 가능",
+          "translated_title": "unsloth/Qwen3.5-122B-A10B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "unsloth/Qwen3.5-9B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.5-9B-GGUF",
           "date": "2026-03-04",
@@ -239,19 +239,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.5-35B-A3B-Base",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B-Base",
-          "date": "2026-03-04",
-          "source": "HuggingFace",
-          "description": "• 허깅페이스 Qwen3.5 모델 공개\n• 차세대 멀티모달 성능 구현\n• 효율적 아키텍처로 비용 절감\n• 연구 및 개발 목적 최적화",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• 허깅페이스 Qwen3.5 모델 공개\n• 차세대 멀티모달 성능 구현\n• 효율적 아키텍처로 비용 절감\n• 연구 및 개발 목적 최적화",
-          "translated_title": "Qwen/Qwen3.5-35B-A3B-Base",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.5-2B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-2B",
           "date": "2026-03-04",
@@ -263,13 +250,86 @@
           "translated_title": "Qwen/Qwen3.5-2B",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.5-35B-A3B-Base",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B-Base",
+          "date": "2026-03-04",
+          "source": "HuggingFace",
+          "description": "• 허깅페이스 Qwen3.5 모델 공개\n• 차세대 멀티모달 성능 구현\n• 효율적 아키텍처로 비용 절감\n• 연구 및 개발 목적 최적화",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• 허깅페이스 Qwen3.5 모델 공개\n• 차세대 멀티모달 성능 구현\n• 효율적 아키텍처로 비용 절감\n• 연구 및 개발 목적 최적화",
+          "translated_title": "Qwen/Qwen3.5-35B-A3B-Base",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-03-03",
-      "update_time": "2026-03-03 12:34:08",
+      "update_time": "2026-03-03 18:35:17",
       "news": [
+        {
+          "title": "GPT-5.3 Instant System Card",
+          "link": "https://openai.com/index/gpt-5-3-instant-system-card",
+          "date": "2026-03-03",
+          "source": "OpenAI",
+          "description": "",
+          "image": null,
+          "is_english": true,
+          "original_title": "GPT-5.3 Instant System Card",
+          "original_summary": "",
+          "summary": ""
+        },
+        {
+          "title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
+          "link": "https://openai.com/index/gpt-5-3-instant",
+          "date": "2026-03-03",
+          "source": "OpenAI",
+          "description": "",
+          "image": null,
+          "is_english": true,
+          "original_title": "GPT-5.3 Instant: Smoother, more useful everyday conversations",
+          "original_summary": "",
+          "summary": ""
+        },
+        {
+          "title": "X says it will suspend creators from revenue-sharing program for unlabeled AI posts of ‘armed conflict’",
+          "link": "https://techcrunch.com/2026/03/03/x-says-it-will-suspend-creators-from-revenue-sharing-program-for-unlabeled-ai-posts-of-armed-conflict/",
+          "date": "2026-03-03",
+          "source": "TechCrunch",
+          "description": "Creators who break the rules will get a 3-month suspend, and if they continue to violate the policy, they'll be banned. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/08/twitter-x-logo-musk-2.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "X says it will suspend creators from revenue-sharing program for unlabeled AI posts of ‘armed conflict’",
+          "original_summary": "Creators who break the rules will get a 3-month suspend, and if they continue to violate the policy, they'll be banned. ",
+          "summary": "Creators who break the rules will get a 3-month suspend, and if they continue to violate the policy, they'll be banned. "
+        },
+        {
+          "title": "Create new worlds in Project Genie with these 4 tips",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/tips-prompt-writing-project-genie/",
+          "date": "2026-03-03",
+          "source": "Google AI",
+          "description": "Learn more about Google DeepMind’s Project Genie and how to write prompts to create your own worlds.",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Genie_2.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "Create new worlds in Project Genie with these 4 tips",
+          "original_summary": "Learn more about Google DeepMind’s Project Genie and how to write prompts to create your own worlds.",
+          "summary": "Learn more about Google DeepMind’s Project Genie and how to write prompts to create your own worlds."
+        },
+        {
+          "title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-lite/",
+          "date": "2026-03-03",
+          "source": "Google AI",
+          "description": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3.1_flash_Lite_blog_keyw.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "Gemini 3.1 Flash-Lite: Built for intelligence at scale",
+          "original_summary": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet.",
+          "summary": "Gemini 3.1 Flash-Lite is our fastest and most cost-efficient Gemini 3 series model yet."
+        },
         {
           "title": "AI 기반 행정혁신 나선 관악구…\"주민체감형 스마트서비스 확충\"",
           "link": "https://www.yna.co.kr/view/AKR20260303152200004",
@@ -10253,7 +10313,7 @@
         {
           "title": "Qwen/Qwen3.5-397B-A17B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-397B-A17B",
-          "date": "2026-02-23",
+          "date": "2026-03-04",
           "source": "HuggingFace",
           "description": "• 알리바바, 차세대 거대 AI 모델 공개\n• 멀티모달 기능으로 성능 대폭 개선\n• 다양한 개발 도구와 호환성 지원\n• 클라우드 기반 API 서비스 제공",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -10279,7 +10339,7 @@
         {
           "title": "Nanbeige/Nanbeige4.1-3B",
           "link": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
-          "date": "2026-02-23",
+          "date": "2026-03-04",
           "source": "HuggingFace",
           "description": "• 소형 규모로도 강력한 추론 능력 구현\n• 대형 모델 뛰어넘는 선호 정렬 성과\n• 도구 호출 등 에이전트 기능 고도화\n• 복잡한 문제 해결 지원하는 신모델 공개",
           "image": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B/resolve/main/figures/nbg.png",
@@ -10292,7 +10352,7 @@
         {
           "title": "zai-org/GLM-5",
           "link": "https://huggingface.co/zai-org/GLM-5",
-          "date": "2026-02-23",
+          "date": "2026-03-04",
           "source": "HuggingFace",
           "description": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -10305,7 +10365,7 @@
         {
           "title": "MiniMaxAI/MiniMax-M2.5",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-M2.5",
-          "date": "2026-02-23",
+          "date": "2026-03-04",
           "source": "HuggingFace",
           "description": "• MiniMaxAI, 신규 언어 모델 공개\n• 문장 생성 최적화 파이프라인 탑재\n• 트랜스포머 라이브러리 기반 구현\n• 수정된 MIT 라이선스 적용",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
@@ -10383,7 +10443,7 @@
         {
           "title": "moonshotai/Kimi-K2.5",
           "link": "https://huggingface.co/moonshotai/Kimi-K2.5",
-          "date": "2026-02-23",
+          "date": "2026-03-04",
           "source": "HuggingFace",
           "description": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
           "image": "https://huggingface.co/moonshotai/Kimi-K2.5/resolve/main/figures/kimi-logo.png",
