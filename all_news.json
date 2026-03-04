@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-03-05",
-      "update_time": "2026-03-04 18:34:40",
+      "update_time": "2026-03-04 21:25:32",
       "news": [
+        {
+          "title": "오픈AI·네이버 등 11개 기업, 개인정보위 생성 AI 간담회 참석",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207540",
+          "date": "2026-03-05",
+          "source": "AI타임스",
+          "description": "개인정보보호위원회(위원장 송경희)는 4일 서울 중구 한국프레스센터에서 국내외 주요 생성 AI 기업 및 전문가들과 ‘생성형 AI 분야 개인정보 처리방침 개선을 위한 간담회’를 개최했다고 밝혔다.이날 행사에는 구글, 메타, 마이크로소프트, 오픈AI, 네이버, 카카오, SK텔레콤, 엘지유플러스, NC AI, 스캐터랩, 뤼튼테크놀로지스 등 11개 생성 AI 기업 및 AI 전문가가 참석했다.이번 간담회는 개인정보 처리의 투명성을 강화하고 합리적인 개인정보 처리방침의 개선 방향을 논의하기 위해 마련됐다.‘개인정보 처리방침 평가’는 개인정보 처",
+          "image": "https://cdn.aitimes.com/news/photo/202603/207540_209643_1136.jpeg",
+          "is_english": false,
+          "original_title": "오픈AI·네이버 등 11개 기업, 개인정보위 생성 AI 간담회 참석",
+          "original_summary": "개인정보보호위원회(위원장 송경희)는 4일 서울 중구 한국프레스센터에서 국내외 주요 생성 AI 기업 및 전문가들과 ‘생성형 AI 분야 개인정보 처리방침 개선을 위한 간담회’를 개최했다고 밝혔다.이날 행사에는 구글, 메타, 마이크로소프트, 오픈AI, 네이버, 카카오, SK텔레콤, 엘지유플러스, NC AI, 스캐터랩, 뤼튼테크놀로지스 등 11개 생성 AI 기업 및 AI 전문가가 참석했다.이번 간담회는 개인정보 처리의 투명성을 강화하고 합리적인 개인정보 처리방침의 개선 방향을 논의하기 위해 마련됐다.‘개인정보 처리방침 평가’는 개인정보 처",
+          "summary": "개인정보보호위원회(위원장 송경희)는 4일 서울 중구 한국프레스센터에서 국내외 주요 생성 AI 기업 및 전문가들과 ‘생성형 AI 분야 개인정보 처리방침 개선을 위한 간담회’를 개최했다고 밝혔다.이날 행사에는 구글, 메타, 마이크로소프트, 오픈AI, 네이버, 카카오, SK텔레콤, 엘지유플러스, NC AI, 스캐터랩, 뤼튼테크놀로지스 등 11개 생성 AI 기업 및 AI 전문가가 참석했다.이번 간담회는 개인정보 처리의 투명성을 강화하고 합리적인 개인정보 처리방침의 개선 방향을 논의하기 위해 마련됐다.‘개인정보 처리방침 평가’는 개인정보 처"
+        },
+        {
+          "title": "Nvidia Takes on Telco Industry With Open Source Model",
+          "link": "https://aibusiness.com/generative-ai/nvidia-takes-on-telco-industry-with-new-model",
+          "date": "2026-03-05",
+          "source": "AI Business",
+          "description": "While Nvidia's approach focuses on enabling more autonomous workflows for telco companies, it faces competition from traditional network vendors such as Ericsson and Nokia.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt03de7012e453999d/69a8a0aeae1ef28492143e2c/Nvidia.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Nvidia Takes on Telco Industry With Open Source Model",
+          "original_summary": "While Nvidia's approach focuses on enabling more autonomous workflows for telco companies, it faces competition from traditional network vendors such as Ericsson and Nokia.",
+          "summary": "While Nvidia's approach focuses on enabling more autonomous workflows for telco companies, it faces competition from traditional network vendors such as Ericsson and Nokia."
+        },
         {
           "title": "Humanoid Robots Now Assembling Cars in Europe and China",
           "link": "https://aibusiness.com/robotics/humanoid-robots-assembling-cars-europe-china",
@@ -132,19 +156,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.5-122B-A10B",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-122B-A10B",
-          "date": "2026-03-05",
-          "source": "HuggingFace",
-          "description": "• 차세대 멀티모달 기능으로 성능 향상\n• 효율적 하이브리드 아키텍처 탑재\n• 확장된 강화학습으로 적응력 강화\n• 201개 언어 및 방언 지원 공개",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• 차세대 멀티모달 기능으로 성능 향상\n• 효율적 하이브리드 아키텍처 탑재\n• 확장된 강화학습으로 적응력 강화\n• 201개 언어 및 방언 지원 공개",
-          "translated_title": "Qwen/Qwen3.5-122B-A10B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "MiniMaxAI/MiniMax-M2.5",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-M2.5",
           "date": "2026-03-05",
@@ -154,6 +165,19 @@
           "is_english": true,
           "summary": "• MiniMaxAI, 신규 언어 모델 공개\n• 문장 생성 최적화 파이프라인 탑재\n• 트랜스포머 라이브러리 기반 구현\n• 수정된 MIT 라이선스 적용",
           "translated_title": "MiniMaxAI/MiniMax-M2.5",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.5-122B-A10B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-122B-A10B",
+          "date": "2026-03-05",
+          "source": "HuggingFace",
+          "description": "• 차세대 멀티모달 기능으로 성능 향상\n• 효율적 하이브리드 아키텍처 탑재\n• 확장된 강화학습으로 적응력 강화\n• 201개 언어 및 방언 지원 공개",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• 차세대 멀티모달 기능으로 성능 향상\n• 효율적 하이브리드 아키텍처 탑재\n• 확장된 강화학습으로 적응력 강화\n• 201개 언어 및 방언 지원 공개",
+          "translated_title": "Qwen/Qwen3.5-122B-A10B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -184,19 +208,6 @@
           "category": "AI Model"
         },
         {
-          "title": "zai-org/GLM-5",
-          "link": "https://huggingface.co/zai-org/GLM-5",
-          "date": "2026-03-05",
-          "source": "HuggingFace",
-          "description": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
-          "translated_title": "zai-org/GLM-5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "huihui-ai/Huihui-Qwen3.5-35B-A3B-abliterated",
           "link": "https://huggingface.co/huihui-ai/Huihui-Qwen3.5-35B-A3B-abliterated",
           "date": "2026-03-05",
@@ -206,6 +217,19 @@
           "is_english": true,
           "summary": "• Huihui-Qwen3.5-35B-A3B-abliterated 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "huihui-ai/Huihui-Qwen3.5-35B-A3B-abliterated",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "zai-org/GLM-5",
+          "link": "https://huggingface.co/zai-org/GLM-5",
+          "date": "2026-03-05",
+          "source": "HuggingFace",
+          "description": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
+          "translated_title": "zai-org/GLM-5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -304,8 +328,32 @@
     },
     {
       "date": "2026-03-04",
-      "update_time": "2026-03-04 18:34:40",
+      "update_time": "2026-03-04 21:25:32",
       "news": [
+        {
+          "title": "How Axios uses AI to help deliver high-impact local journalism",
+          "link": "https://openai.com/index/axios-allison-murphy",
+          "date": "2026-03-04",
+          "source": "OpenAI",
+          "description": "Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism at scale.",
+          "image": null,
+          "is_english": true,
+          "original_title": "How Axios uses AI to help deliver high-impact local journalism",
+          "original_summary": "Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism at scale.",
+          "summary": "Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism at scale."
+        },
+        {
+          "title": "Google Search rolls out Gemini’s Canvas in AI Mode to all US users",
+          "link": "https://techcrunch.com/2026/03/04/https-techcrunch-com-2026-03-04-google-search-rolls-out-geminis-canvas-in-ai-mode-to-all-us-users/",
+          "date": "2026-03-04",
+          "source": "TechCrunch",
+          "description": "Canvas in AI Mode is available to U.S. users in English for creating plans, projects, apps, and more. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2206888090.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Google Search rolls out Gemini’s Canvas in AI Mode to all US users",
+          "original_summary": "Canvas in AI Mode is available to U.S. users in English for creating plans, projects, apps, and more. ",
+          "summary": "Canvas in AI Mode is available to U.S. users in English for creating plans, projects, apps, and more. "
+        },
         {
           "title": "Extending single-minus amplitudes to gravitons",
           "link": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons",
