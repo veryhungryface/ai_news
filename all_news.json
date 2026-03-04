@@ -2,8 +2,128 @@
   "dates": [
     {
       "date": "2026-03-04",
-      "update_time": "2026-03-04 01:09:32",
+      "update_time": "2026-03-04 04:25:52",
       "news": [
+        {
+          "title": "인권위, 'AI가 노동인권에 미치는 영향' 등 실태조사 4건 추진",
+          "link": "https://www.yna.co.kr/view/AKR20260304065200004",
+          "date": "2026-03-04",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 조현영 기자 = 국가인권위원회는 &apos;인공지능(AI)이 노동인권에 미치는 영향에 관한 실태조사&apos; 등 인권상황 관련 조사 4건의 연...",
+          "image": "https://img.yna.co.kr/photo/cms/2025/10/20/06/PCM20251020000106365_P2.jpg",
+          "is_english": false,
+          "original_title": "인권위, 'AI가 노동인권에 미치는 영향' 등 실태조사 4건 추진",
+          "original_summary": "(서울=연합뉴스) 조현영 기자 = 국가인권위원회는 &apos;인공지능(AI)이 노동인권에 미치는 영향에 관한 실태조사&apos; 등 인권상황 관련 조사 4건의 연...",
+          "summary": "(서울=연합뉴스) 조현영 기자 = 국가인권위원회는 &apos;인공지능(AI)이 노동인권에 미치는 영향에 관한 실태조사&apos; 등 인권상황 관련 조사 4건의 연..."
+        },
+        {
+          "title": "MS, 연례 개발자 회의 '빌드' 6월2~3일 샌프란시스코서 개최",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207504",
+          "date": "2026-03-04",
+          "source": "AI타임스",
+          "description": "마이크로소프트는 연례 개발자 회의 \\'빌드(Build)\\'를 오는 6월2~3일(현지시간) 미국 샌프란시스코 포트 메이슨 센터에서 연다고 발표했다.이번 행사는 그동안 시애틀에서 매년 5월에 열렸던 관행을 깬 것이다. 또 올해 현장 참석 인원은 2500명 수준으로, 과거 3000~5000명보다 줄였다. 이는 개발자들이 많이 몰려있는 샌프란시스코에서 예년보다 규모를 축소해 더 몰입감 있는 행사로 진행하겠다는 의도다.이번 행사는 사티아 나델라 CEO의 기조연설을 시작으로 AI 에이전트와 클라우드, 깃허브 코파일럿 등 최신 AI 기술과 워크플로",
+          "image": "https://cdn.aitimes.com/news/photo/202603/207504_209605_1353.png",
+          "is_english": false,
+          "original_title": "MS, 연례 개발자 회의 '빌드' 6월2~3일 샌프란시스코서 개최",
+          "original_summary": "마이크로소프트는 연례 개발자 회의 \\'빌드(Build)\\'를 오는 6월2~3일(현지시간) 미국 샌프란시스코 포트 메이슨 센터에서 연다고 발표했다.이번 행사는 그동안 시애틀에서 매년 5월에 열렸던 관행을 깬 것이다. 또 올해 현장 참석 인원은 2500명 수준으로, 과거 3000~5000명보다 줄였다. 이는 개발자들이 많이 몰려있는 샌프란시스코에서 예년보다 규모를 축소해 더 몰입감 있는 행사로 진행하겠다는 의도다.이번 행사는 사티아 나델라 CEO의 기조연설을 시작으로 AI 에이전트와 클라우드, 깃허브 코파일럿 등 최신 AI 기술과 워크",
+          "summary": "마이크로소프트는 연례 개발자 회의 \\'빌드(Build)\\'를 오는 6월2~3일(현지시간) 미국 샌프란시스코 포트 메이슨 센터에서 연다고 발표했다.이번 행사는 그동안 시애틀에서 매년 5월에 열렸던 관행을 깬 것이다. 또 올해 현장 참석 인원은 2500명 수준으로, 과거 3000~5000명보다 줄였다. 이는 개발자들이 많이 몰려있는 샌프란시스코에서 예년보다 규모를 축소해 더 몰입감 있는 행사로 진행하겠다는 의도다.이번 행사는 사티아 나델라 CEO의 기조연설을 시작으로 AI 에이전트와 클라우드, 깃허브 코파일럿 등 최신 AI 기술과 워크"
+        },
+        {
+          "title": "튜링, 국가대표 AI 모델에 수학 데이터 30만건 공급…LLM 추론 능력 강화 지원",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207499",
+          "date": "2026-03-04",
+          "source": "AI타임스",
+          "description": "추론 AI 에이전트 전문 튜링(대표 최민규)은 \\'독자 AI 파운데이션 모델 프로젝트\\' 주요 참여 기업들에 고품질 ‘수학 AI 레디 데이터’를 공급했다고 4일 밝혔다.튜링의 AI 레디 데이터는 AI 모델의 추론 정확도·일관성·검증 능력을 강화하는 데 특화돼 있다. 자체 서비스인 ‘수학대왕’과 ‘GPAI’를 운영하며 축적해 온 문항 중 30만 건 이상 양질의 수학 문항을 선별했다.최근 논리적 추론 능력이 대형언어모델(LLM)의 핵심 경쟁력으로 떠오르면서 고품질 수학 데이터에 대한 수요가 급증하고 있다고 전했다. 대다수 AI 기업이 국내",
+          "image": "https://cdn.aitimes.com/news/photo/202603/207499_209599_4215.jpeg",
+          "is_english": false,
+          "original_title": "튜링, 국가대표 AI 모델에 수학 데이터 30만건 공급…LLM 추론 능력 강화 지원",
+          "original_summary": "추론 AI 에이전트 전문 튜링(대표 최민규)은 \\'독자 AI 파운데이션 모델 프로젝트\\' 주요 참여 기업들에 고품질 ‘수학 AI 레디 데이터’를 공급했다고 4일 밝혔다.튜링의 AI 레디 데이터는 AI 모델의 추론 정확도·일관성·검증 능력을 강화하는 데 특화돼 있다. 자체 서비스인 ‘수학대왕’과 ‘GPAI’를 운영하며 축적해 온 문항 중 30만 건 이상 양질의 수학 문항을 선별했다.최근 논리적 추론 능력이 대형언어모델(LLM)의 핵심 경쟁력으로 떠오르면서 고품질 수학 데이터에 대한 수요가 급증하고 있다고 전했다. 대다수 AI 기업이 ",
+          "summary": "추론 AI 에이전트 전문 튜링(대표 최민규)은 \\'독자 AI 파운데이션 모델 프로젝트\\' 주요 참여 기업들에 고품질 ‘수학 AI 레디 데이터’를 공급했다고 4일 밝혔다.튜링의 AI 레디 데이터는 AI 모델의 추론 정확도·일관성·검증 능력을 강화하는 데 특화돼 있다. 자체 서비스인 ‘수학대왕’과 ‘GPAI’를 운영하며 축적해 온 문항 중 30만 건 이상 양질의 수학 문항을 선별했다.최근 논리적 추론 능력이 대형언어모델(LLM)의 핵심 경쟁력으로 떠오르면서 고품질 수학 데이터에 대한 수요가 급증하고 있다고 전했다. 대다수 AI 기업이 "
+        },
+        {
+          "title": "미소정보기술, 스마트공장 공급기업 역량 ‘레벨3’ 획득…'닥시' 사업성 입증",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207497",
+          "date": "2026-03-04",
+          "source": "AI타임스",
+          "description": "데이터 전문 미소정보기술(대표 남상도)은 제조 산업군 특화 지능형 플랫폼 \\'닥시(DAXI)\\'가 중소벤처기업부가 주관하고 스마트제조혁신추진단이 운영하는 스마트 공장 공급기업 역량진단에서 레벨 3를 획득했으며, 기술사업성 평가에서도 최고 등급 \\'AAA\\'를 받았다고 4일 밝혔다.스마트 공장 공급기업 역량진단은 공급기업의 기술력, 구축 수행 역량, 전문 인력 보유 수준, 사업관리 체계, 고도화 프로젝트 수행 능력 등을 종합 평가하는 제도다. 레벨 3는 중·고도화 스마트공장 구축을 안정적으로 수행할 수 있는 역량을 공식 인정 받은 단계로,",
+          "image": "https://cdn.aitimes.com/news/photo/202603/207497_209598_3424.jpeg",
+          "is_english": false,
+          "original_title": "미소정보기술, 스마트공장 공급기업 역량 ‘레벨3’ 획득…'닥시' 사업성 입증",
+          "original_summary": "데이터 전문 미소정보기술(대표 남상도)은 제조 산업군 특화 지능형 플랫폼 \\'닥시(DAXI)\\'가 중소벤처기업부가 주관하고 스마트제조혁신추진단이 운영하는 스마트 공장 공급기업 역량진단에서 레벨 3를 획득했으며, 기술사업성 평가에서도 최고 등급 \\'AAA\\'를 받았다고 4일 밝혔다.스마트 공장 공급기업 역량진단은 공급기업의 기술력, 구축 수행 역량, 전문 인력 보유 수준, 사업관리 체계, 고도화 프로젝트 수행 능력 등을 종합 평가하는 제도다. 레벨 3는 중·고도화 스마트공장 구축을 안정적으로 수행할 수 있는 역량을 공식 인정 받은 단",
+          "summary": "데이터 전문 미소정보기술(대표 남상도)은 제조 산업군 특화 지능형 플랫폼 \\'닥시(DAXI)\\'가 중소벤처기업부가 주관하고 스마트제조혁신추진단이 운영하는 스마트 공장 공급기업 역량진단에서 레벨 3를 획득했으며, 기술사업성 평가에서도 최고 등급 \\'AAA\\'를 받았다고 4일 밝혔다.스마트 공장 공급기업 역량진단은 공급기업의 기술력, 구축 수행 역량, 전문 인력 보유 수준, 사업관리 체계, 고도화 프로젝트 수행 능력 등을 종합 평가하는 제도다. 레벨 3는 중·고도화 스마트공장 구축을 안정적으로 수행할 수 있는 역량을 공식 인정 받은 단"
+        },
+        {
+          "title": "구글, '프로' 가격 8분의 1로 줄인 '제미나이 3.1 플래시 라이트' 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207492",
+          "date": "2026-03-04",
+          "source": "AI타임스",
+          "description": "구글이 개발자와 기업을 겨냥한 초고속·저비용 모델 ‘제미나이 3.1 플래시-라이트(Gemini 3.1 Flash-Lite)’를 공개했다. 대규모 트래픽 환경에서 반복적이지만 정밀성이 요구되는 작업을 처리하는 데 최적화된 모델로, 속도와 비용 효율성을 동시에 끌어올린 것이 특징이다.구글은 3일(현지시간) 제미나이 3.1플래시-라이트를 미리보기 형태로 구글 AI 스튜디오의 제미나이 API와 버텍스 AI를 통해 배포한다고 발표했다.요금은 입력 100만 토큰당 0.25달러, 출력 100만 토큰당 1.50달러로 설정됐다. 지난 2월 선보인",
+          "image": "https://cdn.aitimes.com/news/photo/202603/207492_209589_3043.png",
+          "is_english": false,
+          "original_title": "구글, '프로' 가격 8분의 1로 줄인 '제미나이 3.1 플래시 라이트' 출시",
+          "original_summary": "구글이 개발자와 기업을 겨냥한 초고속·저비용 모델 ‘제미나이 3.1 플래시-라이트(Gemini 3.1 Flash-Lite)’를 공개했다. 대규모 트래픽 환경에서 반복적이지만 정밀성이 요구되는 작업을 처리하는 데 최적화된 모델로, 속도와 비용 효율성을 동시에 끌어올린 것이 특징이다.구글은 3일(현지시간) 제미나이 3.1플래시-라이트를 미리보기 형태로 구글 AI 스튜디오의 제미나이 API와 버텍스 AI를 통해 배포한다고 발표했다.요금은 입력 100만 토큰당 0.25달러, 출력 100만 토큰당 1.50달러로 설정됐다. 지난 2월 선보인",
+          "summary": "구글이 개발자와 기업을 겨냥한 초고속·저비용 모델 ‘제미나이 3.1 플래시-라이트(Gemini 3.1 Flash-Lite)’를 공개했다. 대규모 트래픽 환경에서 반복적이지만 정밀성이 요구되는 작업을 처리하는 데 최적화된 모델로, 속도와 비용 효율성을 동시에 끌어올린 것이 특징이다.구글은 3일(현지시간) 제미나이 3.1플래시-라이트를 미리보기 형태로 구글 AI 스튜디오의 제미나이 API와 버텍스 AI를 통해 배포한다고 발표했다.요금은 입력 100만 토큰당 0.25달러, 출력 100만 토큰당 1.50달러로 설정됐다. 지난 2월 선보인"
+        },
+        {
+          "title": "LG AI대학원, 국내 첫 교육부 인가 사내대학원 정식 개원",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207496",
+          "date": "2026-03-04",
+          "source": "AI타임스",
+          "description": "LG는 4일 서울 마곡 K스퀘어에서 LG AI대학원 개원식을 열었다고 밝혔다.LG AI대학원은 국내 최초로 교육부 공식 인가를 받아 석·박사 학위 취득이 가능한 사내 대학원이다.LG 임직원 대상으로 코딩 테스트, AI 모델링 평가, 심층면접 등의 선발 전형을 거쳐 석사 과정 11명, 박사 과정 6명의 신입생을 맞이한다. LG전자 소속 8명을 비롯해 LG에너지솔루션 3명, LG이노텍 2명, LG디스플레이 2명, LG화학 2명 등이 이번에 입학했다.다양한 산업 분야의 학생들이 실무 현장에서 쌓은 도메인 지식과 AI를 융합해 산업 난제를",
+          "image": "https://cdn.aitimes.com/news/photo/202603/207496_209595_1457.jpeg",
+          "is_english": false,
+          "original_title": "LG AI대학원, 국내 첫 교육부 인가 사내대학원 정식 개원",
+          "original_summary": "LG는 4일 서울 마곡 K스퀘어에서 LG AI대학원 개원식을 열었다고 밝혔다.LG AI대학원은 국내 최초로 교육부 공식 인가를 받아 석·박사 학위 취득이 가능한 사내 대학원이다.LG 임직원 대상으로 코딩 테스트, AI 모델링 평가, 심층면접 등의 선발 전형을 거쳐 석사 과정 11명, 박사 과정 6명의 신입생을 맞이한다. LG전자 소속 8명을 비롯해 LG에너지솔루션 3명, LG이노텍 2명, LG디스플레이 2명, LG화학 2명 등이 이번에 입학했다.다양한 산업 분야의 학생들이 실무 현장에서 쌓은 도메인 지식과 AI를 융합해 산업 난제를",
+          "summary": "LG는 4일 서울 마곡 K스퀘어에서 LG AI대학원 개원식을 열었다고 밝혔다.LG AI대학원은 국내 최초로 교육부 공식 인가를 받아 석·박사 학위 취득이 가능한 사내 대학원이다.LG 임직원 대상으로 코딩 테스트, AI 모델링 평가, 심층면접 등의 선발 전형을 거쳐 석사 과정 11명, 박사 과정 6명의 신입생을 맞이한다. LG전자 소속 8명을 비롯해 LG에너지솔루션 3명, LG이노텍 2명, LG디스플레이 2명, LG화학 2명 등이 이번에 입학했다.다양한 산업 분야의 학생들이 실무 현장에서 쌓은 도메인 지식과 AI를 융합해 산업 난제를"
+        },
+        {
+          "title": "앤트로픽, '클로드 코드' 음성 모드 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207493",
+          "date": "2026-03-04",
+          "source": "AI타임스",
+          "description": "앤트로픽이 개발자용 AI 코딩 에이전트 ‘클로드 코드(Claude Code)’에 음성 모드를 도입한다. 키보드 입력 없이 음성 명령만으로 코드 작업을 수행할 수 있게 되면서, 보다 자연스러운 대화형·핸즈프리 코딩 환경이 확산될 전망이다.타리크 시히파르 앤트로픽 엔지니어는 3일(현지시간) X를 통해 클로드 코드에 음성 모드를 차례로 적용하기 시작했다고 밝혔다.현재 전체 이용자의 약 5%에게 기능이 제공되고 있으며, 앞으로 몇주에 걸쳐 확대 적용될 예정이다. 사용자는 기능 접근 권한이 열리면 환영 화면에서 안내 메시지를 확인할 수 있다",
+          "image": "https://cdn.aitimes.com/news/photo/202603/207493_209591_4931.jpg",
+          "is_english": false,
+          "original_title": "앤트로픽, '클로드 코드' 음성 모드 출시",
+          "original_summary": "앤트로픽이 개발자용 AI 코딩 에이전트 ‘클로드 코드(Claude Code)’에 음성 모드를 도입한다. 키보드 입력 없이 음성 명령만으로 코드 작업을 수행할 수 있게 되면서, 보다 자연스러운 대화형·핸즈프리 코딩 환경이 확산될 전망이다.타리크 시히파르 앤트로픽 엔지니어는 3일(현지시간) X를 통해 클로드 코드에 음성 모드를 차례로 적용하기 시작했다고 밝혔다.현재 전체 이용자의 약 5%에게 기능이 제공되고 있으며, 앞으로 몇주에 걸쳐 확대 적용될 예정이다. 사용자는 기능 접근 권한이 열리면 환영 화면에서 안내 메시지를 확인할 수 있다",
+          "summary": "앤트로픽이 개발자용 AI 코딩 에이전트 ‘클로드 코드(Claude Code)’에 음성 모드를 도입한다. 키보드 입력 없이 음성 명령만으로 코드 작업을 수행할 수 있게 되면서, 보다 자연스러운 대화형·핸즈프리 코딩 환경이 확산될 전망이다.타리크 시히파르 앤트로픽 엔지니어는 3일(현지시간) X를 통해 클로드 코드에 음성 모드를 차례로 적용하기 시작했다고 밝혔다.현재 전체 이용자의 약 5%에게 기능이 제공되고 있으며, 앞으로 몇주에 걸쳐 확대 적용될 예정이다. 사용자는 기능 접근 권한이 열리면 환영 화면에서 안내 메시지를 확인할 수 있다"
+        },
+        {
+          "title": "디지털 직원 경험의 재정의…AI 시대 IT 운영의 중심으로",
+          "link": "https://www.itworld.co.kr/article/3550449/%ed%95%98%ec%9d%b4%eb%b8%8c%eb%a6%ac%eb%93%9c-%ec%97%85%eb%ac%b4%ed%99%98%ea%b2%bd%ea%b3%bc-%eb%8c%80%ed%87%b4%ec%a7%81-%ec%8b%9c%eb%8c%80%ec%9d%98-%ed%95%b4%ea%b2%b0-%eb%b0%a9%ec%95%88-%eb%94%94.html",
+          "date": "2026-03-04",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n인력 감소 문제를 해결하기 위해 디지털 직원 경험(Digital Employee Experience, DEX) 도구와 서비스 배포에 나선 기업이 많다. 일부는 디지털 직원 경험을 직원 만족도를 개선하여 유지하는 열쇠로 보고 있다.\n\n\n\n디지털 직원 경험이란?\n\n\n\n디지털 직원 경험은 직원이 직장에서 다양한 기술과 상호작용하는 방법과 이런 기술에 대해 어떻게 느끼는지에 대한 것이다. 디지털 직원 경험 전략은 직원의 기술 경험 추적, 평가, 개선에 초점을 맞춘다.\n\n\n\n디지털 직원 경험 관리 도구는 사용량 및 성능 데이터를 취합하고 분석하며 기업의 기술 개선에 유익한 인사이트를 제공함으로써 전략을 뒷받침한다. 예를 들어, 소프트웨어는 사람들이 한 기업의 협업 플랫폼을 얼마나 쉽게 사용할 수 있는지, 네트워크가 얼마나 빠른지, 모바일 앱과 장치가 일상적인 비즈니스 과업을 얼마나 효과적으로 수행하는지 평가할 수도 있다.요컨대, DEX 도구를 통해 기",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/03/3550449-0-09775600-1772593187-serene-worker-happy-employee-studio-romantic-shutterstock-100930716-orig.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "디지털 직원 경험의 재정의…AI 시대 IT 운영의 중심으로",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n인력 감소 문제를 해결하기 위해 디지털 직원 경험(Digital Employee Experience, DEX) 도구와 서비스 배포에 나선 기업이 많다. 일부는 디지털 직원 경험을 직원 만족도를 개선하여 유지하는 열쇠로 보고 있다.\n\n\n\n디지털 직원 경험이란?\n\n\n\n디지털 직원 경험은 직원이 직장에서 다양한 기술과 상호작용하는 방법과 이런 기술에 대해 어떻게 느끼는지에 대한 것이다. 디지털 직원 경험 전략은 직원의 기술 경험 추적, 평가, 개선에 초점을 맞춘다.\n\n\n\n디지털 직원 경험 관리 도",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n인력 감소 문제를 해결하기 위해 디지털 직원 경험(Digital Employee Experience, DEX) 도구와 서비스 배포에 나선 기업이 많다. 일부는 디지털 직원 경험을 직원 만족도를 개선하여 유지하는 열쇠로 보고 있다.\n\n\n\n디지털 직원 경험이란?\n\n\n\n디지털 직원 경험은 직원이 직장에서 다양한 기술과 상호작용하는 방법과 이런 기술에 대해 어떻게 느끼는지에 대한 것이다. 디지털 직원 경험 전략은 직원의 기술 경험 추적, 평가, 개선에 초점을 맞춘다.\n\n\n\n디지털 직원 경험 관리 도"
+        },
+        {
+          "title": "Amazon Spends Another $21B to Beef up Spain's AI Infrastructure",
+          "link": "https://aibusiness.com/data-centers/amazon-21b-spain-ai-infrastructure",
+          "date": "2026-03-04",
+          "source": "AI Business",
+          "description": "The latest round of funding signifies another escalation in Amazon's commitment to the country.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltbe9b3f0e44bc90ab/69a7960688b36006f84ecc42/aws.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Amazon Spends Another $21B to Beef up Spain's AI Infrastructure",
+          "original_summary": "The latest round of funding signifies another escalation in Amazon's commitment to the country.",
+          "summary": "The latest round of funding signifies another escalation in Amazon's commitment to the country."
+        },
+        {
+          "title": "Capgemini Joins OpenAI's Frontier Alliance to Scale Enterprise AI",
+          "link": "https://aibusiness.com/agentic-ai/capgemini-openai-frontier-alliance-enterprise-ai",
+          "date": "2026-03-04",
+          "source": "AI Business",
+          "description": "The partners are looking to close the gap between AI experimentation and real-world enterprise deployment.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt8778ae590650df6a/69a7893e28da00dc1bc828a1/AI.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Capgemini Joins OpenAI's Frontier Alliance to Scale Enterprise AI",
+          "original_summary": "The partners are looking to close the gap between AI experimentation and real-world enterprise deployment.",
+          "summary": "The partners are looking to close the gap between AI experimentation and real-world enterprise deployment."
+        },
         {
           "title": "부산교육청, AI 기반 학생맞춤통합지원 가동",
           "link": "https://www.yna.co.kr/view/AKR20260304056500051",
@@ -214,6 +334,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Qwen/Qwen3.5-0.8B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-0.8B",
+          "date": "2026-03-04",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-0.8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• Qwen3.5-0.8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.5-0.8B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Qwen/Qwen3.5-397B-A17B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-397B-A17B",
           "date": "2026-03-04",
@@ -236,19 +369,6 @@
           "is_english": true,
           "summary": "• Qwen3.5-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.5-4B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "Qwen/Qwen3.5-0.8B",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-0.8B",
-          "date": "2026-03-04",
-          "source": "HuggingFace",
-          "description": "• Qwen3.5-0.8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.5-0.8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.5-0.8B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -279,19 +399,6 @@
           "category": "AI Model"
         },
         {
-          "title": "MiniMaxAI/MiniMax-M2.5",
-          "link": "https://huggingface.co/MiniMaxAI/MiniMax-M2.5",
-          "date": "2026-03-04",
-          "source": "HuggingFace",
-          "description": "• MiniMaxAI, 신규 언어 모델 공개\n• 문장 생성 최적화 파이프라인 탑재\n• 트랜스포머 라이브러리 기반 구현\n• 수정된 MIT 라이선스 적용",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
-          "is_english": true,
-          "summary": "• MiniMaxAI, 신규 언어 모델 공개\n• 문장 생성 최적화 파이프라인 탑재\n• 트랜스포머 라이브러리 기반 구현\n• 수정된 MIT 라이선스 적용",
-          "translated_title": "MiniMaxAI/MiniMax-M2.5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Nanbeige/Nanbeige4.1-3B",
           "link": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
           "date": "2026-03-04",
@@ -301,6 +408,19 @@
           "is_english": true,
           "summary": "• 소형 규모로도 강력한 추론 능력 구현\n• 대형 모델 뛰어넘는 선호 정렬 성과\n• 도구 호출 등 에이전트 기능 고도화\n• 복잡한 문제 해결 지원하는 신모델 공개",
           "translated_title": "Nanbeige/Nanbeige4.1-3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-M2.5",
+          "link": "https://huggingface.co/MiniMaxAI/MiniMax-M2.5",
+          "date": "2026-03-04",
+          "source": "HuggingFace",
+          "description": "• MiniMaxAI, 신규 언어 모델 공개\n• 문장 생성 최적화 파이프라인 탑재\n• 트랜스포머 라이브러리 기반 구현\n• 수정된 MIT 라이선스 적용",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• MiniMaxAI, 신규 언어 모델 공개\n• 문장 생성 최적화 파이프라인 탑재\n• 트랜스포머 라이브러리 기반 구현\n• 수정된 MIT 라이선스 적용",
+          "translated_title": "MiniMaxAI/MiniMax-M2.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -331,19 +451,6 @@
           "category": "AI Model"
         },
         {
-          "title": "LocoreMind/LocoOperator-4B",
-          "link": "https://huggingface.co/LocoreMind/LocoOperator-4B",
-          "date": "2026-03-04",
-          "source": "HuggingFace",
-          "description": "• 코딩 에이전트 전용 LLM 'LocoOperator' 공개\n• 4B 파라미터 작은 사이즈로 로컬 실행 지원\n• 코드 탐색 및 도구 호출 전문 기능 탑재\n• 추론 비용 절감 위한 지도 학습 기반 학습",
-          "image": "https://img.shields.io/badge/Model-FFB300?style=for-the-badge&logo=huggingface&logoColor=white",
-          "is_english": true,
-          "summary": "• 코딩 에이전트 전용 LLM 'LocoOperator' 공개\n• 4B 파라미터 작은 사이즈로 로컬 실행 지원\n• 코드 탐색 및 도구 호출 전문 기능 탑재\n• 추론 비용 절감 위한 지도 학습 기반 학습",
-          "translated_title": "LocoreMind/LocoOperator-4B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Qwen3.5-9B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.5-9B-GGUF",
           "date": "2026-03-04",
@@ -353,19 +460,6 @@
           "is_english": true,
           "summary": "• Qwen3.5-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/Qwen3.5-9B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "moonshotai/Kimi-K2.5",
-          "link": "https://huggingface.co/moonshotai/Kimi-K2.5",
-          "date": "2026-03-04",
-          "source": "HuggingFace",
-          "description": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
-          "image": "https://huggingface.co/moonshotai/Kimi-K2.5/resolve/main/figures/kimi-logo.png",
-          "is_english": true,
-          "summary": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
-          "translated_title": "moonshotai/Kimi-K2.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -383,15 +477,28 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.5-122B-A10B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.5-122B-A10B-GGUF",
+          "title": "moonshotai/Kimi-K2.5",
+          "link": "https://huggingface.co/moonshotai/Kimi-K2.5",
           "date": "2026-03-04",
           "source": "HuggingFace",
-          "description": "• 언슬로스, 차웬 3.5 거대 언어 모델 공개\n• 1220억 파라미터와 고성능 이미지 처리 지원\n• 로컬 실행 및 효율적 양자화 기술 제공\n• 다양한 AI 프레임워크와 호환 가능",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "description": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
+          "image": "https://huggingface.co/moonshotai/Kimi-K2.5/resolve/main/figures/kimi-logo.png",
           "is_english": true,
-          "summary": "• 언슬로스, 차웬 3.5 거대 언어 모델 공개\n• 1220억 파라미터와 고성능 이미지 처리 지원\n• 로컬 실행 및 효율적 양자화 기술 제공\n• 다양한 AI 프레임워크와 호환 가능",
-          "translated_title": "unsloth/Qwen3.5-122B-A10B-GGUF",
+          "summary": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
+          "translated_title": "moonshotai/Kimi-K2.5",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "LocoreMind/LocoOperator-4B",
+          "link": "https://huggingface.co/LocoreMind/LocoOperator-4B",
+          "date": "2026-03-04",
+          "source": "HuggingFace",
+          "description": "• 코딩 에이전트 전용 LLM 'LocoOperator' 공개\n• 4B 파라미터 작은 사이즈로 로컬 실행 지원\n• 코드 탐색 및 도구 호출 전문 기능 탑재\n• 추론 비용 절감 위한 지도 학습 기반 학습",
+          "image": "https://img.shields.io/badge/Model-FFB300?style=for-the-badge&logo=huggingface&logoColor=white",
+          "is_english": true,
+          "summary": "• 코딩 에이전트 전용 LLM 'LocoOperator' 공개\n• 4B 파라미터 작은 사이즈로 로컬 실행 지원\n• 코드 탐색 및 도구 호출 전문 기능 탑재\n• 추론 비용 절감 위한 지도 학습 기반 학습",
+          "translated_title": "LocoreMind/LocoOperator-4B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -405,6 +512,19 @@
           "is_english": true,
           "summary": "• pplx-embed-v1-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "perplexity-ai/pplx-embed-v1-0.6b",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/Qwen3.5-122B-A10B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.5-122B-A10B-GGUF",
+          "date": "2026-03-04",
+          "source": "HuggingFace",
+          "description": "• 언슬로스, 차웬 3.5 거대 언어 모델 공개\n• 1220억 파라미터와 고성능 이미지 처리 지원\n• 로컬 실행 및 효율적 양자화 기술 제공\n• 다양한 AI 프레임워크와 호환 가능",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• 언슬로스, 차웬 3.5 거대 언어 모델 공개\n• 1220억 파라미터와 고성능 이미지 처리 지원\n• 로컬 실행 및 효율적 양자화 기술 제공\n• 다양한 AI 프레임워크와 호환 가능",
+          "translated_title": "unsloth/Qwen3.5-122B-A10B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
