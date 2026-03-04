@@ -2,8 +2,44 @@
   "dates": [
     {
       "date": "2026-03-05",
-      "update_time": "2026-03-04 15:30:43",
+      "update_time": "2026-03-04 18:34:40",
       "news": [
+        {
+          "title": "Humanoid Robots Now Assembling Cars in Europe and China",
+          "link": "https://aibusiness.com/robotics/humanoid-robots-assembling-cars-europe-china",
+          "date": "2026-03-05",
+          "source": "AI Business",
+          "description": "BMW is launching a pilot at its plant in Leipzig, marking the first time it has used this form of physical AI in Europe.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt87841f286c8a2764/69a868eeaebbfda9a71b7318/P90630889_highRes_humanoid-robotics-at.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Humanoid Robots Now Assembling Cars in Europe and China",
+          "original_summary": "BMW is launching a pilot at its plant in Leipzig, marking the first time it has used this form of physical AI in Europe.",
+          "summary": "BMW is launching a pilot at its plant in Leipzig, marking the first time it has used this form of physical AI in Europe."
+        },
+        {
+          "title": "OpenAI Says ChatGPT Instant 5.3 is Less Cringe, More Accurate",
+          "link": "https://aibusiness.com/generative-ai/openai-says-chatgpt-instant-5-3-is-less-cringe-more-accurate",
+          "date": "2026-03-05",
+          "source": "AI Business",
+          "description": "The AI model maker said it is responding to user criticisms.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt2ebf41cae3512d32/69a852dc8078e5ac0f8b3d14/ChatGPT.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "OpenAI Says ChatGPT Instant 5.3 is Less Cringe, More Accurate",
+          "original_summary": "The AI model maker said it is responding to user criticisms.",
+          "summary": "The AI model maker said it is responding to user criticisms."
+        },
+        {
+          "title": "IBM Targets Voice Capabilities in Watsonx With Deepgram Partnership",
+          "link": "https://aibusiness.com/intelligent-automation/ibm-watsonx-deepgram-partnership",
+          "date": "2026-03-05",
+          "source": "AI Business",
+          "description": "The deal marks IBM's first voice technology collaboration, embedding Deepgram's speech engine directly into Watsonx Orchestrate's agent-building tools",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt770a6c679d120a81/69a8510e7ffb0c022e64646e/IBM.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "IBM Targets Voice Capabilities in Watsonx With Deepgram Partnership",
+          "original_summary": "The deal marks IBM's first voice technology collaboration, embedding Deepgram's speech engine directly into Watsonx Orchestrate's agent-building tools",
+          "summary": "The deal marks IBM's first voice technology collaboration, embedding Deepgram's speech engine directly into Watsonx Orchestrate's agent-building tools"
+        },
         {
           "title": "Qwen/Qwen3.5-35B-A3B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
@@ -122,19 +158,6 @@
           "category": "AI Model"
         },
         {
-          "title": "zai-org/GLM-5",
-          "link": "https://huggingface.co/zai-org/GLM-5",
-          "date": "2026-03-05",
-          "source": "HuggingFace",
-          "description": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
-          "translated_title": "zai-org/GLM-5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Nanbeige/Nanbeige4.1-3B",
           "link": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
           "date": "2026-03-05",
@@ -148,19 +171,6 @@
           "category": "AI Model"
         },
         {
-          "title": "huihui-ai/Huihui-Qwen3.5-35B-A3B-abliterated",
-          "link": "https://huggingface.co/huihui-ai/Huihui-Qwen3.5-35B-A3B-abliterated",
-          "date": "2026-03-05",
-          "source": "HuggingFace",
-          "description": "• Huihui-Qwen3.5-35B-A3B-abliterated 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Huihui-Qwen3.5-35B-A3B-abliterated 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "huihui-ai/Huihui-Qwen3.5-35B-A3B-abliterated",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Qwen3.5-9B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.5-9B-GGUF",
           "date": "2026-03-05",
@@ -170,6 +180,32 @@
           "is_english": true,
           "summary": "• Qwen3.5-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/Qwen3.5-9B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "zai-org/GLM-5",
+          "link": "https://huggingface.co/zai-org/GLM-5",
+          "date": "2026-03-05",
+          "source": "HuggingFace",
+          "description": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
+          "translated_title": "zai-org/GLM-5",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "huihui-ai/Huihui-Qwen3.5-35B-A3B-abliterated",
+          "link": "https://huggingface.co/huihui-ai/Huihui-Qwen3.5-35B-A3B-abliterated",
+          "date": "2026-03-05",
+          "source": "HuggingFace",
+          "description": "• Huihui-Qwen3.5-35B-A3B-abliterated 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Huihui-Qwen3.5-35B-A3B-abliterated 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "huihui-ai/Huihui-Qwen3.5-35B-A3B-abliterated",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +304,68 @@
     },
     {
       "date": "2026-03-04",
-      "update_time": "2026-03-04 15:30:43",
+      "update_time": "2026-03-04 18:34:40",
       "news": [
+        {
+          "title": "Extending single-minus amplitudes to gravitons",
+          "link": "https://openai.com/index/extending-single-minus-amplitudes-to-gravitons",
+          "date": "2026-03-04",
+          "source": "OpenAI",
+          "description": "A new preprint extends single-minus amplitudes to gravitons, with GPT-5.2 Pro helping derive and verify nonzero graviton tree amplitudes in quantum gravity.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Extending single-minus amplitudes to gravitons",
+          "original_summary": "A new preprint extends single-minus amplitudes to gravitons, with GPT-5.2 Pro helping derive and verify nonzero graviton tree amplitudes in quantum gravity.",
+          "summary": "A new preprint extends single-minus amplitudes to gravitons, with GPT-5.2 Pro helping derive and verify nonzero graviton tree amplitudes in quantum gravity."
+        },
+        {
+          "title": "Understanding AI and learning outcomes",
+          "link": "https://openai.com/index/understanding-ai-and-learning-outcomes",
+          "date": "2026-03-04",
+          "source": "OpenAI",
+          "description": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Understanding AI and learning outcomes",
+          "original_summary": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
+          "summary": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time."
+        },
+        {
+          "title": "Decagon completes first tender offer at $4.5B valuation",
+          "link": "https://techcrunch.com/2026/03/04/decagon-completes-first-tender-offer-at-4-5b-valuation/",
+          "date": "2026-03-04",
+          "source": "TechCrunch",
+          "description": "The AI-powered customer support startup is the latest example of a fast-growing, young company that's providing employee liquidity.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/Jesse-Ashwin-together.jpeg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Decagon completes first tender offer at $4.5B valuation",
+          "original_summary": "The AI-powered customer support startup is the latest example of a fast-growing, young company that's providing employee liquidity.",
+          "summary": "The AI-powered customer support startup is the latest example of a fast-growing, young company that's providing employee liquidity."
+        },
+        {
+          "title": "The US military is still using Claude — but defense-tech clients are fleeing",
+          "link": "https://techcrunch.com/2026/03/04/the-us-military-is-still-using-claude-but-defense-tech-clients-are-fleeing/",
+          "date": "2026-03-04",
+          "source": "TechCrunch",
+          "description": "As the U.S. continues its aerial attack on Iran, Anthropic models are being used for many targeting decisions.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/iran-airstrike-2263722022.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "The US military is still using Claude — but defense-tech clients are fleeing",
+          "original_summary": "As the U.S. continues its aerial attack on Iran, Anthropic models are being used for many targeting decisions.",
+          "summary": "As the U.S. continues its aerial attack on Iran, Anthropic models are being used for many targeting decisions."
+        },
+        {
+          "title": "Use Canvas in AI Mode to get things done and bring your ideas to life, right in Search.",
+          "link": "https://blog.google/products-and-platforms/products/search/ai-mode-canvas-writing-coding/",
+          "date": "2026-03-04",
+          "source": "Google AI",
+          "description": "Canvas in AI Mode is now available for everyone in the U.S. Plus, it can now help you draft documents or build interactive tools.",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AIMMode_Social.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "Use Canvas in AI Mode to get things done and bring your ideas to life, right in Search.",
+          "original_summary": "Canvas in AI Mode is now available for everyone in the U.S. Plus, it can now help you draft documents or build interactive tools.",
+          "summary": "Canvas in AI Mode is now available for everyone in the U.S. Plus, it can now help you draft documents or build interactive tools."
+        },
         {
           "title": "Father sues Google, claiming Gemini chatbot drove son into fatal delusion",
           "link": "https://techcrunch.com/2026/03/04/father-sues-google-claiming-gemini-chatbot-drove-son-into-fatal-delusion/",
@@ -9865,7 +9961,7 @@
         {
           "title": "Qwen/Qwen3.5-397B-A17B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-397B-A17B",
-          "date": "2026-02-24",
+          "date": "2026-03-05",
           "source": "HuggingFace",
           "description": "• 알리바바, 차세대 거대 AI 모델 공개\n• 멀티모달 기능으로 성능 대폭 개선\n• 다양한 개발 도구와 호환성 지원\n• 클라우드 기반 API 서비스 제공",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -9878,7 +9974,7 @@
         {
           "title": "zai-org/GLM-5",
           "link": "https://huggingface.co/zai-org/GLM-5",
-          "date": "2026-02-24",
+          "date": "2026-03-05",
           "source": "HuggingFace",
           "description": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -9891,7 +9987,7 @@
         {
           "title": "Nanbeige/Nanbeige4.1-3B",
           "link": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
-          "date": "2026-02-24",
+          "date": "2026-03-05",
           "source": "HuggingFace",
           "description": "• 소형 규모로도 강력한 추론 능력 구현\n• 대형 모델 뛰어넘는 선호 정렬 성과\n• 도구 호출 등 에이전트 기능 고도화\n• 복잡한 문제 해결 지원하는 신모델 공개",
           "image": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B/resolve/main/figures/nbg.png",
@@ -9917,7 +10013,7 @@
         {
           "title": "MiniMaxAI/MiniMax-M2.5",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-M2.5",
-          "date": "2026-02-24",
+          "date": "2026-03-05",
           "source": "HuggingFace",
           "description": "• MiniMaxAI, 신규 언어 모델 공개\n• 문장 생성 최적화 파이프라인 탑재\n• 트랜스포머 라이브러리 기반 구현\n• 수정된 MIT 라이선스 적용",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
@@ -9969,7 +10065,7 @@
         {
           "title": "moonshotai/Kimi-K2.5",
           "link": "https://huggingface.co/moonshotai/Kimi-K2.5",
-          "date": "2026-02-24",
+          "date": "2026-03-05",
           "source": "HuggingFace",
           "description": "• 문샷AI, 멀티모달 에이전트 모델 K2.5 공개\n• 이미지와 텍스트 입력을 원활하게 지원함\n• 고급 에이전트 기능과 사고 모드 탑재\n• 오픈소스 형태로 기술 블로그 통해 제공",
           "image": "https://huggingface.co/moonshotai/Kimi-K2.5/resolve/main/figures/kimi-logo.png",
