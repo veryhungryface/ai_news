@@ -2,20 +2,31 @@
   "dates": [
     {
       "date": "2026-03-06",
-      "update_time": "2026-03-05 15:41:21",
+      "update_time": "2026-03-05 19:08:41",
       "news": [
         {
-          "title": "Qwen/Qwen3.5-35B-A3B",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
+          "title": "Gemini’s Canvas in AI Mode Available in Google Search in US",
+          "link": "https://aibusiness.com/generative-ai/gemini-s-canvas-in-ai-mode-available-in-us",
           "date": "2026-03-06",
-          "source": "HuggingFace",
-          "description": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "source": "AI Business",
+          "description": "The expansion of the workspace platform follows a gradual rollout.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt200b7077f74fb830/69a9b63f7ffb0c088b646978/AI_Mode.jpg?width=1280&auto=webp&quality=80&disable=upscale",
           "is_english": true,
-          "summary": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
-          "translated_title": "Qwen/Qwen3.5-35B-A3B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
+          "original_title": "Gemini’s Canvas in AI Mode Available in Google Search in US",
+          "original_summary": "The expansion of the workspace platform follows a gradual rollout.",
+          "summary": "The expansion of the workspace platform follows a gradual rollout."
+        },
+        {
+          "title": "Underwater Data Center Project Aboard Offshore Wind Turbine",
+          "link": "https://aibusiness.com/data-centers/underwater-data-center-project-aboard-offshore-wind-turbine",
+          "date": "2026-03-06",
+          "source": "AI Business",
+          "description": "Offshore infrastructure provider Aikido has launched the project in a bid to expand capacity for booming AI compute demand.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltee265ba7dc8e9a9f/69a9ab24aebbfda9731b76f0/Underewater.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Underwater Data Center Project Aboard Offshore Wind Turbine",
+          "original_summary": "Offshore infrastructure provider Aikido has launched the project in a bid to expand capacity for booming AI compute demand.",
+          "summary": "Offshore infrastructure provider Aikido has launched the project in a bid to expand capacity for booming AI compute demand."
         },
         {
           "title": "Qwen/Qwen3.5-9B",
@@ -27,6 +38,19 @@
           "is_english": true,
           "summary": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.5-9B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.5-35B-A3B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
+          "date": "2026-03-06",
+          "source": "HuggingFace",
+          "description": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
+          "translated_title": "Qwen/Qwen3.5-35B-A3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -57,19 +81,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.5-27B",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-27B",
-          "date": "2026-03-06",
-          "source": "HuggingFace",
-          "description": "• 후지연 모델 'Qwen3.5-27B' 공개\n• 텍스트와 이미지 통합 이해 능력 제공\n• 201개 언어 다국어 지원 강화\n• 고성능 고효율 추론 아키텍처 탑재",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• 후지연 모델 'Qwen3.5-27B' 공개\n• 텍스트와 이미지 통합 이해 능력 제공\n• 201개 언어 다국어 지원 강화\n• 고성능 고효율 추론 아키텍처 탑재",
-          "translated_title": "Qwen/Qwen3.5-27B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.5-4B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-4B",
           "date": "2026-03-06",
@@ -79,6 +90,19 @@
           "is_english": true,
           "summary": "• Qwen3.5-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.5-4B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.5-27B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-27B",
+          "date": "2026-03-06",
+          "source": "HuggingFace",
+          "description": "• 후지연 모델 'Qwen3.5-27B' 공개\n• 텍스트와 이미지 통합 이해 능력 제공\n• 201개 언어 다국어 지원 강화\n• 고성능 고효율 추론 아키텍처 탑재",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• 후지연 모델 'Qwen3.5-27B' 공개\n• 텍스트와 이미지 통합 이해 능력 제공\n• 201개 언어 다국어 지원 강화\n• 고성능 고효율 추론 아키텍처 탑재",
+          "translated_title": "Qwen/Qwen3.5-27B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -213,15 +237,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.5-122B-A10B",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-122B-A10B",
+          "title": "Lightricks/LTX-2.3",
+          "link": "https://huggingface.co/Lightricks/LTX-2.3",
           "date": "2026-03-06",
           "source": "HuggingFace",
-          "description": "• 차세대 멀티모달 기능으로 성능 향상\n• 효율적 하이브리드 아키텍처 탑재\n• 확장된 강화학습으로 적응력 강화\n• 201개 언어 및 방언 지원 공개",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "description": "• LTX-2.3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/Lightricks/LTX-2.3/resolve/main/ltx2.3-open.png",
           "is_english": true,
-          "summary": "• 차세대 멀티모달 기능으로 성능 향상\n• 효율적 하이브리드 아키텍처 탑재\n• 확장된 강화학습으로 적응력 강화\n• 201개 언어 및 방언 지원 공개",
-          "translated_title": "Qwen/Qwen3.5-122B-A10B",
+          "summary": "• LTX-2.3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Lightricks/LTX-2.3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,6 +263,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Qwen/Qwen3.5-122B-A10B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-122B-A10B",
+          "date": "2026-03-06",
+          "source": "HuggingFace",
+          "description": "• 차세대 멀티모달 기능으로 성능 향상\n• 효율적 하이브리드 아키텍처 탑재\n• 확장된 강화학습으로 적응력 강화\n• 201개 언어 및 방언 지원 공개",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• 차세대 멀티모달 기능으로 성능 향상\n• 효율적 하이브리드 아키텍처 탑재\n• 확장된 강화학습으로 적응력 강화\n• 201개 언어 및 방언 지원 공개",
+          "translated_title": "Qwen/Qwen3.5-122B-A10B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "FireRedTeam/FireRed-OCR",
           "link": "https://huggingface.co/FireRedTeam/FireRed-OCR",
           "date": "2026-03-06",
@@ -250,26 +287,157 @@
           "translated_title": "FireRedTeam/FireRed-OCR",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "LocoreMind/LocoOperator-4B",
-          "link": "https://huggingface.co/LocoreMind/LocoOperator-4B",
-          "date": "2026-03-06",
-          "source": "HuggingFace",
-          "description": "• 코딩 에이전트 전용 LLM 'LocoOperator' 공개\n• 4B 파라미터 작은 사이즈로 로컬 실행 지원\n• 코드 탐색 및 도구 호출 전문 기능 탑재\n• 추론 비용 절감 위한 지도 학습 기반 학습",
-          "image": "https://img.shields.io/badge/Model-FFB300?style=for-the-badge&logo=huggingface&logoColor=white",
-          "is_english": true,
-          "summary": "• 코딩 에이전트 전용 LLM 'LocoOperator' 공개\n• 4B 파라미터 작은 사이즈로 로컬 실행 지원\n• 코드 탐색 및 도구 호출 전문 기능 탑재\n• 추론 비용 절감 위한 지도 학습 기반 학습",
-          "translated_title": "LocoreMind/LocoOperator-4B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-03-05",
-      "update_time": "2026-03-05 15:41:18",
+      "update_time": "2026-03-05 19:08:38",
       "news": [
+        {
+          "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+          "link": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+          "date": "2026-03-05",
+          "source": "OpenAI",
+          "description": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Reasoning models struggle to control their chains of thought, and that’s good",
+          "original_summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+          "summary": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard."
+        },
+        {
+          "title": "Introducing GPT-5.4",
+          "link": "https://openai.com/index/introducing-gpt-5-4",
+          "date": "2026-03-05",
+          "source": "OpenAI",
+          "description": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Introducing GPT-5.4",
+          "original_summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
+          "summary": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context."
+        },
+        {
+          "title": "GPT-5.4 Thinking System Card",
+          "link": "https://openai.com/index/gpt-5-4-thinking-system-card",
+          "date": "2026-03-05",
+          "source": "OpenAI",
+          "description": "",
+          "image": null,
+          "is_english": true,
+          "original_title": "GPT-5.4 Thinking System Card",
+          "original_summary": "",
+          "summary": ""
+        },
+        {
+          "title": "Ensuring AI use in education leads to opportunity",
+          "link": "https://openai.com/index/ai-education-opportunity",
+          "date": "2026-03-05",
+          "source": "OpenAI",
+          "description": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Ensuring AI use in education leads to opportunity",
+          "original_summary": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
+          "summary": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity."
+        },
+        {
+          "title": "EXCLUSIVE: Luma launches creative AI agents powered by its new ‘Unified Intelligence’ models",
+          "link": "https://techcrunch.com/2026/03/05/exclusive-luma-launches-creative-ai-agents-powered-by-its-new-unified-intelligence-models/",
+          "date": "2026-03-05",
+          "source": "TechCrunch",
+          "description": "Luma introduced Luma Agents, powered by its new “Unified Intelligence” models, designed to coordinate multiple AI systems and generate end-to-end creative work across text, images, video and audio.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/Sample-2.png?resize=1200,800",
+          "is_english": true,
+          "original_title": "EXCLUSIVE: Luma launches creative AI agents powered by its new ‘Unified Intelligence’ models",
+          "original_summary": "Luma introduced Luma Agents, powered by its new “Unified Intelligence” models, designed to coordinate multiple AI systems and generate end-to-end creative work across text, images, video and audio.",
+          "summary": "Luma introduced Luma Agents, powered by its new “Unified Intelligence” models, designed to coordinate multiple AI systems and generate end-to-end creative work across text, images, video and audio."
+        },
+        {
+          "title": "OpenAI launches GPT-5.4 with Pro and Thinking versions",
+          "link": "https://techcrunch.com/2026/03/05/openai-launches-gpt-5-4-with-pro-and-thinking-versions/",
+          "date": "2026-03-05",
+          "source": "TechCrunch",
+          "description": "GPT-5.4 is billed as \"our most capable and efficient frontier model for professional work.\"",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/5.4-Thinking_Hero-SEO.png?resize=1200,675",
+          "is_english": true,
+          "original_title": "OpenAI launches GPT-5.4 with Pro and Thinking versions",
+          "original_summary": "GPT-5.4 is billed as \"our most capable and efficient frontier model for professional work.\"",
+          "summary": "GPT-5.4 is billed as \"our most capable and efficient frontier model for professional work.\""
+        },
+        {
+          "title": "Cursor is rolling out a new kind of agentic coding tool",
+          "link": "https://techcrunch.com/2026/03/05/cursor-is-rolling-out-a-new-system-for-agentic-coding/",
+          "date": "2026-03-05",
+          "source": "TechCrunch",
+          "description": "Called Automations, the new system gives users a way to automatically launch agents within their coding environment, triggered by a new addition to the codebase, a Slack message, or a simple timer.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/12/Anysphere-Cursor-Michael-Truell-.png?resize=1200,745",
+          "is_english": true,
+          "original_title": "Cursor is rolling out a new kind of agentic coding tool",
+          "original_summary": "Called Automations, the new system gives users a way to automatically launch agents within their coding environment, triggered by a new addition to the codebase, a Slack message, or a simple timer.",
+          "summary": "Called Automations, the new system gives users a way to automatically launch agents within their coding environment, triggered by a new addition to the codebase, a Slack message, or a simple timer."
+        },
+        {
+          "title": "Meta sued over AI smart glasses’ privacy concerns, after workers reviewed nudity, sex, and other footage",
+          "link": "https://techcrunch.com/2026/03/05/meta-sued-over-ai-smartglasses-privacy-concerns-after-workers-reviewed-nudity-sex-and-other-footage/",
+          "date": "2026-03-05",
+          "source": "TechCrunch",
+          "description": "Lawyers say Meta's marketing materials promised privacy and user control over sharing footage. But an investigation found that subcontractors are reviewing footage from customers' glasses.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?resize=1200,799",
+          "is_english": true,
+          "original_title": "Meta sued over AI smart glasses’ privacy concerns, after workers reviewed nudity, sex, and other footage",
+          "original_summary": "Lawyers say Meta's marketing materials promised privacy and user control over sharing footage. But an investigation found that subcontractors are reviewing footage from customers' glasses.",
+          "summary": "Lawyers say Meta's marketing materials promised privacy and user control over sharing footage. But an investigation found that subcontractors are reviewing footage from customers' glasses."
+        },
+        {
+          "title": "Anthropic CEO Dario Amodei could still be trying to make a deal with Pentagon",
+          "link": "https://techcrunch.com/2026/03/05/anthropic-ceo-dario-amodei-could-still-be-trying-to-make-a-deal-with-pentagon/",
+          "date": "2026-03-05",
+          "source": "TechCrunch",
+          "description": "Anthropic's $200 million contract with the Department of Defense broke down due to disagreements over giving the military unrestricted access to its AI.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Anthropic CEO Dario Amodei could still be trying to make a deal with Pentagon",
+          "original_summary": "Anthropic's $200 million contract with the Department of Defense broke down due to disagreements over giving the military unrestricted access to its AI.",
+          "summary": "Anthropic's $200 million contract with the Department of Defense broke down due to disagreements over giving the military unrestricted access to its AI."
+        },
+        {
+          "title": "Netflix buys Ben Affleck’s AI filmmaking company InterPositive",
+          "link": "https://techcrunch.com/2026/03/05/netflix-buys-ben-afflecks-ai-filmmaking-company-interpositive/",
+          "date": "2026-03-05",
+          "source": "TechCrunch",
+          "description": "InterPositive isn't trying to make AI actors or synthetic performances. Rather, the company has created a model that helps production teams work with footage from their own productions to help make edits in post-production.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/Ben-Affleck_0309_R1_c.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "Netflix buys Ben Affleck’s AI filmmaking company InterPositive",
+          "original_summary": "InterPositive isn't trying to make AI actors or synthetic performances. Rather, the company has created a model that helps production teams work with footage from their own productions to help make edits in post-production.",
+          "summary": "InterPositive isn't trying to make AI actors or synthetic performances. Rather, the company has created a model that helps production teams work with footage from their own productions to help make edits in post-production."
+        },
+        {
+          "title": "Ask a Techspert: How does AI understand my visual searches?",
+          "link": "https://blog.google/company-news/inside-google/googlers/how-google-ai-visual-search-works/",
+          "date": "2026-03-05",
+          "source": "Google AI",
+          "description": "Learn more about AI Mode in Search’s query fan-out method for visual search.",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Fan_out_query_hero.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "Ask a Techspert: How does AI understand my visual searches?",
+          "original_summary": "Learn more about AI Mode in Search’s query fan-out method for visual search.",
+          "summary": "Learn more about AI Mode in Search’s query fan-out method for visual search."
+        },
+        {
+          "title": "The latest AI news we announced in February",
+          "link": "https://blog.google/innovation-and-ai/products/google-ai-updates-february-2026/",
+          "date": "2026-03-05",
+          "source": "Google AI",
+          "description": "Here are Google’s latest AI updates from February 2026",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Thumbnail_mPCqgRv.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "The latest AI news we announced in February",
+          "original_summary": "Here are Google’s latest AI updates from February 2026",
+          "summary": "Here are Google’s latest AI updates from February 2026"
+        },
         {
           "title": "How 1,000+ customer calls shaped a breakout enterprise AI startup",
           "link": "https://techcrunch.com/2026/03/05/how-1000-customer-calls-shaped-a-breakout-enterprise-ai-startup/",
@@ -9451,7 +9619,7 @@
         {
           "title": "Qwen/Qwen3.5-397B-A17B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-397B-A17B",
-          "date": "2026-02-25",
+          "date": "2026-03-06",
           "source": "HuggingFace",
           "description": "• 알리바바, 차세대 거대 AI 모델 공개\n• 멀티모달 기능으로 성능 대폭 개선\n• 다양한 개발 도구와 호환성 지원\n• 클라우드 기반 API 서비스 제공",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -9477,7 +9645,7 @@
         {
           "title": "zai-org/GLM-5",
           "link": "https://huggingface.co/zai-org/GLM-5",
-          "date": "2026-02-25",
+          "date": "2026-03-06",
           "source": "HuggingFace",
           "description": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -9503,7 +9671,7 @@
         {
           "title": "Nanbeige/Nanbeige4.1-3B",
           "link": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
-          "date": "2026-02-25",
+          "date": "2026-03-06",
           "source": "HuggingFace",
           "description": "• 소형 규모로도 강력한 추론 능력 구현\n• 대형 모델 뛰어넘는 선호 정렬 성과\n• 도구 호출 등 에이전트 기능 고도화\n• 복잡한 문제 해결 지원하는 신모델 공개",
           "image": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B/resolve/main/figures/nbg.png",
@@ -9529,7 +9697,7 @@
         {
           "title": "MiniMaxAI/MiniMax-M2.5",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-M2.5",
-          "date": "2026-02-25",
+          "date": "2026-03-06",
           "source": "HuggingFace",
           "description": "• MiniMaxAI, 신규 언어 모델 공개\n• 문장 생성 최적화 파이프라인 탑재\n• 트랜스포머 라이브러리 기반 구현\n• 수정된 MIT 라이선스 적용",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
