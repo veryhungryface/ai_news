@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-03-05",
-      "update_time": "2026-03-05 09:34:41",
+      "update_time": "2026-03-05 12:37:12",
       "news": [
+        {
+          "title": "'알파고 대국 10년' 이세돌 \"AI 바둑 실력, 신의 경지\"",
+          "link": "https://www.yna.co.kr/view/AKR20260305175800004",
+          "date": "2026-03-05",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 홍준석 기자 = &quot;인공지능(AI)은 그냥 신입니다.&quot;",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/03/05/AKR20260305175800004_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "'알파고 대국 10년' 이세돌 \"AI 바둑 실력, 신의 경지\"",
+          "original_summary": "(서울=연합뉴스) 홍준석 기자 = &quot;인공지능(AI)은 그냥 신입니다.&quot;",
+          "summary": "(서울=연합뉴스) 홍준석 기자 = &quot;인공지능(AI)은 그냥 신입니다.&quot;"
+        },
+        {
+          "title": "KAIST 교수협, 총장 선임 불발 유감 표명…\"지연 장기화 부담\"",
+          "link": "https://www.yna.co.kr/view/AKR20260305171300017",
+          "date": "2026-03-05",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 조승한 기자 = 한국과학기술원(KAIST) 교수협의회는 5일 1년 넘게 지연된 총장 선임이 불발된 데 대해 &quot;총장 선임 지연이...",
+          "image": "https://img.yna.co.kr/photo/cms/2024/12/14/61/PCM20241214000161063_P2.jpg",
+          "is_english": false,
+          "original_title": "KAIST 교수협, 총장 선임 불발 유감 표명…\"지연 장기화 부담\"",
+          "original_summary": "(서울=연합뉴스) 조승한 기자 = 한국과학기술원(KAIST) 교수협의회는 5일 1년 넘게 지연된 총장 선임이 불발된 데 대해 &quot;총장 선임 지연이...",
+          "summary": "(서울=연합뉴스) 조승한 기자 = 한국과학기술원(KAIST) 교수협의회는 5일 1년 넘게 지연된 총장 선임이 불발된 데 대해 &quot;총장 선임 지연이..."
+        },
         {
           "title": "대전·충청, 강원권에 'AI 특화 시범도시' 조성… 국비 20억 지원",
           "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148960372&call_from=rsslink",
@@ -560,19 +584,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.5-27B",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-27B",
-          "date": "2026-03-05",
-          "source": "HuggingFace",
-          "description": "• 후지연 모델 'Qwen3.5-27B' 공개\n• 텍스트와 이미지 통합 이해 능력 제공\n• 201개 언어 다국어 지원 강화\n• 고성능 고효율 추론 아키텍처 탑재",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• 후지연 모델 'Qwen3.5-27B' 공개\n• 텍스트와 이미지 통합 이해 능력 제공\n• 201개 언어 다국어 지원 강화\n• 고성능 고효율 추론 아키텍처 탑재",
-          "translated_title": "Qwen/Qwen3.5-27B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.5-0.8B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-0.8B",
           "date": "2026-03-05",
@@ -582,6 +593,19 @@
           "is_english": true,
           "summary": "• Qwen3.5-0.8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.5-0.8B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.5-27B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-27B",
+          "date": "2026-03-05",
+          "source": "HuggingFace",
+          "description": "• 후지연 모델 'Qwen3.5-27B' 공개\n• 텍스트와 이미지 통합 이해 능력 제공\n• 201개 언어 다국어 지원 강화\n• 고성능 고효율 추론 아키텍처 탑재",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• 후지연 모델 'Qwen3.5-27B' 공개\n• 텍스트와 이미지 통합 이해 능력 제공\n• 201개 언어 다국어 지원 강화\n• 고성능 고효율 추론 아키텍처 탑재",
+          "translated_title": "Qwen/Qwen3.5-27B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -703,15 +727,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.5-122B-A10B",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-122B-A10B",
+          "title": "perplexity-ai/pplx-embed-v1-0.6b",
+          "link": "https://huggingface.co/perplexity-ai/pplx-embed-v1-0.6b",
           "date": "2026-03-05",
           "source": "HuggingFace",
-          "description": "• 차세대 멀티모달 기능으로 성능 향상\n• 효율적 하이브리드 아키텍처 탑재\n• 확장된 강화학습으로 적응력 강화\n• 201개 언어 및 방언 지원 공개",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "description": "• pplx-embed-v1-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/perplexity-ai/pplx-embed-v1-0.6b/resolve/main/assets/diag.png",
           "is_english": true,
-          "summary": "• 차세대 멀티모달 기능으로 성능 향상\n• 효율적 하이브리드 아키텍처 탑재\n• 확장된 강화학습으로 적응력 강화\n• 201개 언어 및 방언 지원 공개",
-          "translated_title": "Qwen/Qwen3.5-122B-A10B",
+          "summary": "• pplx-embed-v1-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "perplexity-ai/pplx-embed-v1-0.6b",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -729,15 +753,15 @@
           "category": "AI Model"
         },
         {
-          "title": "perplexity-ai/pplx-embed-v1-0.6b",
-          "link": "https://huggingface.co/perplexity-ai/pplx-embed-v1-0.6b",
+          "title": "Qwen/Qwen3.5-122B-A10B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-122B-A10B",
           "date": "2026-03-05",
           "source": "HuggingFace",
-          "description": "• pplx-embed-v1-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/perplexity-ai/pplx-embed-v1-0.6b/resolve/main/assets/diag.png",
+          "description": "• 차세대 멀티모달 기능으로 성능 향상\n• 효율적 하이브리드 아키텍처 탑재\n• 확장된 강화학습으로 적응력 강화\n• 201개 언어 및 방언 지원 공개",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
           "is_english": true,
-          "summary": "• pplx-embed-v1-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "perplexity-ai/pplx-embed-v1-0.6b",
+          "summary": "• 차세대 멀티모달 기능으로 성능 향상\n• 효율적 하이브리드 아키텍처 탑재\n• 확장된 강화학습으로 적응력 강화\n• 201개 언어 및 방언 지원 공개",
+          "translated_title": "Qwen/Qwen3.5-122B-A10B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
