@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-03-07",
-      "update_time": "2026-03-06 15:27:49",
+      "update_time": "2026-03-06 18:32:02",
       "news": [
+        {
+          "title": "Class Action Lawsuit Filed Over Meta AI Glasses Privacy Claims",
+          "link": "https://aibusiness.com/ai-ethics/class-action-lawsuit-filed-over-meta-ai-glasses",
+          "date": "2026-03-07",
+          "source": "AI Business",
+          "description": "The social media giant responded that its AI system filters data to keep it private.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt9480e413c7e0b69b/69ab00fdf1557b000801759d/Glasses.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Class Action Lawsuit Filed Over Meta AI Glasses Privacy Claims",
+          "original_summary": "The social media giant responded that its AI system filters data to keep it private.",
+          "summary": "The social media giant responded that its AI system filters data to keep it private."
+        },
         {
           "title": "Qwen/Qwen3.5-9B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-9B",
@@ -200,19 +212,6 @@
           "category": "AI Model"
         },
         {
-          "title": "FireRedTeam/FireRed-OCR",
-          "link": "https://huggingface.co/FireRedTeam/FireRed-OCR",
-          "date": "2026-03-07",
-          "source": "HuggingFace",
-          "description": "• FireRed-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/FireRedTeam/FireRed-OCR/resolve/main/./assets/logo.png",
-          "is_english": true,
-          "summary": "• FireRed-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "FireRedTeam/FireRed-OCR",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "zai-org/GLM-5",
           "link": "https://huggingface.co/zai-org/GLM-5",
           "date": "2026-03-07",
@@ -222,6 +221,19 @@
           "is_english": true,
           "summary": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
           "translated_title": "zai-org/GLM-5",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "FireRedTeam/FireRed-OCR",
+          "link": "https://huggingface.co/FireRedTeam/FireRed-OCR",
+          "date": "2026-03-07",
+          "source": "HuggingFace",
+          "description": "• FireRed-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/FireRedTeam/FireRed-OCR/resolve/main/./assets/logo.png",
+          "is_english": true,
+          "summary": "• FireRed-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "FireRedTeam/FireRed-OCR",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,19 +251,6 @@
           "category": "AI Model"
         },
         {
-          "title": "perplexity-ai/pplx-embed-v1-0.6b",
-          "link": "https://huggingface.co/perplexity-ai/pplx-embed-v1-0.6b",
-          "date": "2026-03-07",
-          "source": "HuggingFace",
-          "description": "• pplx-embed-v1-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/perplexity-ai/pplx-embed-v1-0.6b/resolve/main/assets/diag.png",
-          "is_english": true,
-          "summary": "• pplx-embed-v1-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "perplexity-ai/pplx-embed-v1-0.6b",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "microsoft/Phi-4-reasoning-vision-15B",
           "link": "https://huggingface.co/microsoft/Phi-4-reasoning-vision-15B",
           "date": "2026-03-07",
@@ -263,13 +262,110 @@
           "translated_title": "microsoft/Phi-4-reasoning-vision-15B",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "perplexity-ai/pplx-embed-v1-0.6b",
+          "link": "https://huggingface.co/perplexity-ai/pplx-embed-v1-0.6b",
+          "date": "2026-03-07",
+          "source": "HuggingFace",
+          "description": "• pplx-embed-v1-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/perplexity-ai/pplx-embed-v1-0.6b/resolve/main/assets/diag.png",
+          "is_english": true,
+          "summary": "• pplx-embed-v1-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "perplexity-ai/pplx-embed-v1-0.6b",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-03-06",
-      "update_time": "2026-03-06 15:27:49",
+      "update_time": "2026-03-06 18:32:02",
       "news": [
+        {
+          "title": "Codex Security: now in research preview",
+          "link": "https://openai.com/index/codex-security-now-in-research-preview",
+          "date": "2026-03-06",
+          "source": "OpenAI",
+          "description": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Codex Security: now in research preview",
+          "original_summary": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise.",
+          "summary": "Codex Security is an AI application security agent that analyzes project context to detect, validate, and patch complex vulnerabilities with higher confidence and less noise."
+        },
+        {
+          "title": "How Descript enables multilingual video dubbing at scale",
+          "link": "https://openai.com/index/descript",
+          "date": "2026-03-06",
+          "source": "OpenAI",
+          "description": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
+          "image": null,
+          "is_english": true,
+          "original_title": "How Descript enables multilingual video dubbing at scale",
+          "original_summary": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages.",
+          "summary": "Descript uses OpenAI models to scale multilingual video dubbing, optimizing translations for both meaning and timing so dubbed speech sounds natural across languages."
+        },
+        {
+          "title": "Anthropic’s Pentagon deal is a cautionary tale for startups chasing federal contracts",
+          "link": "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/",
+          "date": "2026-03-06",
+          "source": "TechCrunch",
+          "description": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weapons and mass domestic surveillance. As Anthropic’s $200 million contract fell apart, the DoD turned to OpenAI instead, which accepted and then watched ChatGPT uninstalls surge 295%. As the stakes keep rising, the question remains: how much unrestricted [&#8230;]",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Anthropic’s Pentagon deal is a cautionary tale for startups chasing federal contracts",
+          "original_summary": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weapons and mass domestic surveillance. As Anthropic’s $200 million contract fell apart, the DoD turned ",
+          "summary": "The Pentagon has officially designated Anthropic a supply-chain risk after the two failed to agree on how much control the military should have over its AI models, including its use in autonomous weapons and mass domestic surveillance. As Anthropic’s $200 million contract fell apart, the DoD turned "
+        },
+        {
+          "title": "Anthropic vs. the Pentagon, the SaaSpocalypse, and why competitions is good, actually",
+          "link": "https://techcrunch.com/podcast/anthropic-vs-the-pentagon-the-saaspocalypse-and-why-competitions-is-good-actually/",
+          "date": "2026-03-06",
+          "source": "TechCrunch",
+          "description": "The Pentagon has officially&#160;designated&#160;Anthropic&#160;a supply-chain risk&#160;after the two failed to agree on how much control the military should have over its AI models,&#160;including&#160;its&#160;use in&#160;autonomous weapons and mass domestic surveillance. As&#160;Anthropic’s&#160;$200 million contract fell apart, the DoD turned to OpenAI instead,&#160;which&#160;accepted and&#160;then watched&#160;ChatGPT uninstalls surge 295%. As the stakes keep rising, the question&#160;rem",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Anthropic vs. the Pentagon, the SaaSpocalypse, and why competitions is good, actually",
+          "original_summary": "The Pentagon has officially&#160;designated&#160;Anthropic&#160;a supply-chain risk&#160;after the two failed to agree on how much control the military should have over its AI models,&#160;including&#160;its&#160;use in&#160;autonomous weapons and mass domestic surveillance. As&#160;Anthropic’s&#160",
+          "summary": "The Pentagon has officially&#160;designated&#160;Anthropic&#160;a supply-chain risk&#160;after the two failed to agree on how much control the military should have over its AI models,&#160;including&#160;its&#160;use in&#160;autonomous weapons and mass domestic surveillance. As&#160;Anthropic’s&#160"
+        },
+        {
+          "title": "Claude’s consumer growth surge continues after Pentagon deal debacle",
+          "link": "https://techcrunch.com/2026/03/06/claudes-consumer-growth-surge-continues-after-pentagon-deal-debacle/",
+          "date": "2026-03-06",
+          "source": "TechCrunch",
+          "description": "Claude's app is now seeing more new installs than ChatGPT and is growing its daily active users. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
+          "is_english": true,
+          "original_title": "Claude’s consumer growth surge continues after Pentagon deal debacle",
+          "original_summary": "Claude's app is now seeing more new installs than ChatGPT and is growing its daily active users. ",
+          "summary": "Claude's app is now seeing more new installs than ChatGPT and is growing its daily active users. "
+        },
+        {
+          "title": "City Detect, which uses AI to help cities stay safe and clean, raises $13M Series A",
+          "link": "https://techcrunch.com/2026/03/06/city-detect-uses-ai-to-help-cities-stay-safe-and-clean/",
+          "date": "2026-03-06",
+          "source": "TechCrunch",
+          "description": "City Detect, a company that helps local governments prevent urban decay, is in at least 17 cities so far, including Dallas and Miami.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/CIty-Detect.webp?resize=1200,812",
+          "is_english": true,
+          "original_title": "City Detect, which uses AI to help cities stay safe and clean, raises $13M Series A",
+          "original_summary": "City Detect, a company that helps local governments prevent urban decay, is in at least 17 cities so far, including Dallas and Miami.",
+          "summary": "City Detect, a company that helps local governments prevent urban decay, is in at least 17 cities so far, including Dallas and Miami."
+        },
+        {
+          "title": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
+          "link": "https://blog.google/company-news/outreach-and-initiatives/sustainability/speciesnet-open-source-ai-wildlife/",
+          "date": "2026-03-06",
+          "source": "Google AI",
+          "description": "An overview of SpeciesNet, our open-source AI model that is helping people around the world protect and conserve wildlife.",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/specieshero_v2.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
+          "original_summary": "An overview of SpeciesNet, our open-source AI model that is helping people around the world protect and conserve wildlife.",
+          "summary": "An overview of SpeciesNet, our open-source AI model that is helping people around the world protect and conserve wildlife."
+        },
         {
           "title": "How Balyasny Asset Management built an AI research engine for investing",
           "link": "https://openai.com/index/balyasny-asset-management",
@@ -9049,7 +9145,7 @@
         {
           "title": "Qwen/Qwen3.5-35B-A3B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
-          "date": "2026-02-26",
+          "date": "2026-03-07",
           "source": "HuggingFace",
           "description": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -9062,7 +9158,7 @@
         {
           "title": "Qwen/Qwen3.5-397B-A17B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-397B-A17B",
-          "date": "2026-02-26",
+          "date": "2026-03-07",
           "source": "HuggingFace",
           "description": "• 알리바바, 차세대 거대 AI 모델 공개\n• 멀티모달 기능으로 성능 대폭 개선\n• 다양한 개발 도구와 호환성 지원\n• 클라우드 기반 API 서비스 제공",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -9075,7 +9171,7 @@
         {
           "title": "Qwen/Qwen3.5-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-27B",
-          "date": "2026-02-26",
+          "date": "2026-03-07",
           "source": "HuggingFace",
           "description": "• 후지연 모델 'Qwen3.5-27B' 공개\n• 텍스트와 이미지 통합 이해 능력 제공\n• 201개 언어 다국어 지원 강화\n• 고성능 고효율 추론 아키텍처 탑재",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -9101,7 +9197,7 @@
         {
           "title": "zai-org/GLM-5",
           "link": "https://huggingface.co/zai-org/GLM-5",
-          "date": "2026-02-26",
+          "date": "2026-03-07",
           "source": "HuggingFace",
           "description": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -9114,7 +9210,7 @@
         {
           "title": "Nanbeige/Nanbeige4.1-3B",
           "link": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
-          "date": "2026-02-26",
+          "date": "2026-03-07",
           "source": "HuggingFace",
           "description": "• 소형 규모로도 강력한 추론 능력 구현\n• 대형 모델 뛰어넘는 선호 정렬 성과\n• 도구 호출 등 에이전트 기능 고도화\n• 복잡한 문제 해결 지원하는 신모델 공개",
           "image": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B/resolve/main/figures/nbg.png",
@@ -9127,7 +9223,7 @@
         {
           "title": "unsloth/Qwen3.5-35B-A3B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.5-35B-A3B-GGUF",
-          "date": "2026-02-26",
+          "date": "2026-03-07",
           "source": "HuggingFace",
           "description": "• 후깅페이스에 Qwen3.5 신규 모델 공개\n• 로컬 환경에서 고성능 추론 지원\n• 이미지와 텍스트 복합 처리 가능\n• 최적화된 정밀도 구현 성능 입증",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -9153,7 +9249,7 @@
         {
           "title": "MiniMaxAI/MiniMax-M2.5",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-M2.5",
-          "date": "2026-02-26",
+          "date": "2026-03-07",
           "source": "HuggingFace",
           "description": "• MiniMaxAI, 신규 언어 모델 공개\n• 문장 생성 최적화 파이프라인 탑재\n• 트랜스포머 라이브러리 기반 구현\n• 수정된 MIT 라이선스 적용",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
