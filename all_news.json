@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-03-06",
-      "update_time": "2026-03-06 09:29:21",
+      "update_time": "2026-03-06 12:33:11",
       "news": [
+        {
+          "title": "MS \"국방부 제외한 모든 고객에 앤트로픽 모델 계속 공급\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207660",
+          "date": "2026-03-06",
+          "source": "AI타임스",
+          "description": "마이크로소프트(MS)가 미 국방부로부터 블랙리스트에 지정된 앤트로픽의 제품은 계속 공급하겠다고 밝혔다. 미 국방부를 제외한 고객사들이 앤트로픽 모델을 사용하는 데에는 법적인 문제가 없다는 판단에 따른 것이다.CNBC는 5일(현지시간) MS가 국방부의 조치 이후에도 앤트로픽과의 협력을 유지하겠다고 밝힌 최초의 주요 기업이라고 보도했다.MS 대변인은 이날 이메일을 통해 ”변호사들이 검토한 결과, 클로드를 포함한 앤트로픽 제품은 국방부를 제외한 다른 고객들이 M365와 깃허브, MS AI 파운드리와 같은 플랫폼을 통해 계속 이용할 수 있",
+          "image": "https://cdn.aitimes.com/news/photo/202603/207660_209768_2757.jpg",
+          "is_english": false,
+          "original_title": "MS \"국방부 제외한 모든 고객에 앤트로픽 모델 계속 공급\"",
+          "original_summary": "마이크로소프트(MS)가 미 국방부로부터 블랙리스트에 지정된 앤트로픽의 제품은 계속 공급하겠다고 밝혔다. 미 국방부를 제외한 고객사들이 앤트로픽 모델을 사용하는 데에는 법적인 문제가 없다는 판단에 따른 것이다.CNBC는 5일(현지시간) MS가 국방부의 조치 이후에도 앤트로픽과의 협력을 유지하겠다고 밝힌 최초의 주요 기업이라고 보도했다.MS 대변인은 이날 이메일을 통해 ”변호사들이 검토한 결과, 클로드를 포함한 앤트로픽 제품은 국방부를 제외한 다른 고객들이 M365와 깃허브, MS AI 파운드리와 같은 플랫폼을 통해 계속 이용할 수 있",
+          "summary": "마이크로소프트(MS)가 미 국방부로부터 블랙리스트에 지정된 앤트로픽의 제품은 계속 공급하겠다고 밝혔다. 미 국방부를 제외한 고객사들이 앤트로픽 모델을 사용하는 데에는 법적인 문제가 없다는 판단에 따른 것이다.CNBC는 5일(현지시간) MS가 국방부의 조치 이후에도 앤트로픽과의 협력을 유지하겠다고 밝힌 최초의 주요 기업이라고 보도했다.MS 대변인은 이날 이메일을 통해 ”변호사들이 검토한 결과, 클로드를 포함한 앤트로픽 제품은 국방부를 제외한 다른 고객들이 M365와 깃허브, MS AI 파운드리와 같은 플랫폼을 통해 계속 이용할 수 있"
+        },
         {
           "title": "대기업 중심 방산분야에 혁신 중소벤처기업 진입 활성화",
           "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148960456&call_from=rsslink",
@@ -562,15 +574,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.5-27B",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-27B",
+          "title": "Lightricks/LTX-2.3",
+          "link": "https://huggingface.co/Lightricks/LTX-2.3",
           "date": "2026-03-06",
           "source": "HuggingFace",
-          "description": "• 후지연 모델 'Qwen3.5-27B' 공개\n• 텍스트와 이미지 통합 이해 능력 제공\n• 201개 언어 다국어 지원 강화\n• 고성능 고효율 추론 아키텍처 탑재",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "description": "• LTX-2.3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/Lightricks/LTX-2.3/resolve/main/ltx2.3-open.png",
           "is_english": true,
-          "summary": "• 후지연 모델 'Qwen3.5-27B' 공개\n• 텍스트와 이미지 통합 이해 능력 제공\n• 201개 언어 다국어 지원 강화\n• 고성능 고효율 추론 아키텍처 탑재",
-          "translated_title": "Qwen/Qwen3.5-27B",
+          "summary": "• LTX-2.3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Lightricks/LTX-2.3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -588,15 +600,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Lightricks/LTX-2.3",
-          "link": "https://huggingface.co/Lightricks/LTX-2.3",
+          "title": "Qwen/Qwen3.5-27B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-27B",
           "date": "2026-03-06",
           "source": "HuggingFace",
-          "description": "• LTX-2.3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/Lightricks/LTX-2.3/resolve/main/ltx2.3-open.png",
+          "description": "• 후지연 모델 'Qwen3.5-27B' 공개\n• 텍스트와 이미지 통합 이해 능력 제공\n• 201개 언어 다국어 지원 강화\n• 고성능 고효율 추론 아키텍처 탑재",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
           "is_english": true,
-          "summary": "• LTX-2.3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Lightricks/LTX-2.3",
+          "summary": "• 후지연 모델 'Qwen3.5-27B' 공개\n• 텍스트와 이미지 통합 이해 능력 제공\n• 201개 언어 다국어 지원 강화\n• 고성능 고효율 추론 아키텍처 탑재",
+          "translated_title": "Qwen/Qwen3.5-27B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -679,6 +691,19 @@
           "category": "AI Model"
         },
         {
+          "title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+          "link": "https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+          "date": "2026-03-06",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "zai-org/GLM-5",
           "link": "https://huggingface.co/zai-org/GLM-5",
           "date": "2026-03-06",
@@ -688,19 +713,6 @@
           "is_english": true,
           "summary": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
           "translated_title": "zai-org/GLM-5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "perplexity-ai/pplx-embed-v1-0.6b",
-          "link": "https://huggingface.co/perplexity-ai/pplx-embed-v1-0.6b",
-          "date": "2026-03-06",
-          "source": "HuggingFace",
-          "description": "• pplx-embed-v1-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/perplexity-ai/pplx-embed-v1-0.6b/resolve/main/assets/diag.png",
-          "is_english": true,
-          "summary": "• pplx-embed-v1-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "perplexity-ai/pplx-embed-v1-0.6b",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -718,15 +730,15 @@
           "category": "AI Model"
         },
         {
-          "title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-          "link": "https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+          "title": "perplexity-ai/pplx-embed-v1-0.6b",
+          "link": "https://huggingface.co/perplexity-ai/pplx-embed-v1-0.6b",
           "date": "2026-03-06",
           "source": "HuggingFace",
-          "description": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "description": "• pplx-embed-v1-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/perplexity-ai/pplx-embed-v1-0.6b/resolve/main/assets/diag.png",
           "is_english": true,
-          "summary": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+          "summary": "• pplx-embed-v1-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "perplexity-ai/pplx-embed-v1-0.6b",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -744,15 +756,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.5-122B-A10B",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-122B-A10B",
+          "title": "microsoft/Phi-4-reasoning-vision-15B",
+          "link": "https://huggingface.co/microsoft/Phi-4-reasoning-vision-15B",
           "date": "2026-03-06",
           "source": "HuggingFace",
-          "description": "• 차세대 멀티모달 기능으로 성능 향상\n• 효율적 하이브리드 아키텍처 탑재\n• 확장된 강화학습으로 적응력 강화\n• 201개 언어 및 방언 지원 공개",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "description": "• Phi-4-reasoning-vision-15B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/Microsoft-Project-0078D4?logo=microsoft",
           "is_english": true,
-          "summary": "• 차세대 멀티모달 기능으로 성능 향상\n• 효율적 하이브리드 아키텍처 탑재\n• 확장된 강화학습으로 적응력 강화\n• 201개 언어 및 방언 지원 공개",
-          "translated_title": "Qwen/Qwen3.5-122B-A10B",
+          "summary": "• Phi-4-reasoning-vision-15B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "microsoft/Phi-4-reasoning-vision-15B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
