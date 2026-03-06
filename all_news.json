@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-03-07",
-      "update_time": "2026-03-06 18:32:02",
+      "update_time": "2026-03-06 21:20:50",
       "news": [
+        {
+          "title": "Anthropic Report Says It’s Too Early for AI to Affect Jobs",
+          "link": "https://aibusiness.com/generative-ai/anthropic-report-says-early-for-ai-to-affect-jobs",
+          "date": "2026-03-07",
+          "source": "AI Business",
+          "description": "The vendor found that highly exposed workers are seeing minimal effect, even as fewer younger workers are being hired.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt9748cfa07691e516/69ab3a812181230008df2ad6/AI_jobs.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Anthropic Report Says It’s Too Early for AI to Affect Jobs",
+          "original_summary": "The vendor found that highly exposed workers are seeing minimal effect, even as fewer younger workers are being hired.",
+          "summary": "The vendor found that highly exposed workers are seeing minimal effect, even as fewer younger workers are being hired."
+        },
         {
           "title": "Class Action Lawsuit Filed Over Meta AI Glasses Privacy Claims",
           "link": "https://aibusiness.com/ai-ethics/class-action-lawsuit-filed-over-meta-ai-glasses",
@@ -56,19 +68,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.5-35B-A3B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.5-35B-A3B-GGUF",
-          "date": "2026-03-07",
-          "source": "HuggingFace",
-          "description": "• 후깅페이스에 Qwen3.5 신규 모델 공개\n• 로컬 환경에서 고성능 추론 지원\n• 이미지와 텍스트 복합 처리 가능\n• 최적화된 정밀도 구현 성능 입증",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• 후깅페이스에 Qwen3.5 신규 모델 공개\n• 로컬 환경에서 고성능 추론 지원\n• 이미지와 텍스트 복합 처리 가능\n• 최적화된 정밀도 구현 성능 입증",
-          "translated_title": "unsloth/Qwen3.5-35B-A3B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.5-4B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-4B",
           "date": "2026-03-07",
@@ -91,6 +90,19 @@
           "is_english": true,
           "summary": "• LTX-2.3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Lightricks/LTX-2.3",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/Qwen3.5-35B-A3B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.5-35B-A3B-GGUF",
+          "date": "2026-03-07",
+          "source": "HuggingFace",
+          "description": "• 후깅페이스에 Qwen3.5 신규 모델 공개\n• 로컬 환경에서 고성능 추론 지원\n• 이미지와 텍스트 복합 처리 가능\n• 최적화된 정밀도 구현 성능 입증",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• 후깅페이스에 Qwen3.5 신규 모델 공개\n• 로컬 환경에서 고성능 추론 지원\n• 이미지와 텍스트 복합 처리 가능\n• 최적화된 정밀도 구현 성능 입증",
+          "translated_title": "unsloth/Qwen3.5-35B-A3B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -147,19 +159,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Nanbeige/Nanbeige4.1-3B",
-          "link": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
-          "date": "2026-03-07",
-          "source": "HuggingFace",
-          "description": "• 소형 규모로도 강력한 추론 능력 구현\n• 대형 모델 뛰어넘는 선호 정렬 성과\n• 도구 호출 등 에이전트 기능 고도화\n• 복잡한 문제 해결 지원하는 신모델 공개",
-          "image": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B/resolve/main/figures/nbg.png",
-          "is_english": true,
-          "summary": "• 소형 규모로도 강력한 추론 능력 구현\n• 대형 모델 뛰어넘는 선호 정렬 성과\n• 도구 호출 등 에이전트 기능 고도화\n• 복잡한 문제 해결 지원하는 신모델 공개",
-          "translated_title": "Nanbeige/Nanbeige4.1-3B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.5-397B-A17B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-397B-A17B",
           "date": "2026-03-07",
@@ -182,6 +181,19 @@
           "is_english": true,
           "summary": "• Qwen3.5-2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.5-2B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Nanbeige/Nanbeige4.1-3B",
+          "link": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B",
+          "date": "2026-03-07",
+          "source": "HuggingFace",
+          "description": "• 소형 규모로도 강력한 추론 능력 구현\n• 대형 모델 뛰어넘는 선호 정렬 성과\n• 도구 호출 등 에이전트 기능 고도화\n• 복잡한 문제 해결 지원하는 신모델 공개",
+          "image": "https://huggingface.co/Nanbeige/Nanbeige4.1-3B/resolve/main/figures/nbg.png",
+          "is_english": true,
+          "summary": "• 소형 규모로도 강력한 추론 능력 구현\n• 대형 모델 뛰어넘는 선호 정렬 성과\n• 도구 호출 등 에이전트 기능 고도화\n• 복잡한 문제 해결 지원하는 신모델 공개",
+          "translated_title": "Nanbeige/Nanbeige4.1-3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -212,15 +224,15 @@
           "category": "AI Model"
         },
         {
-          "title": "zai-org/GLM-5",
-          "link": "https://huggingface.co/zai-org/GLM-5",
+          "title": "unsloth/Qwen3.5-4B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.5-4B-GGUF",
           "date": "2026-03-07",
           "source": "HuggingFace",
-          "description": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "description": "• Qwen3.5-4B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
           "is_english": true,
-          "summary": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
-          "translated_title": "zai-org/GLM-5",
+          "summary": "• Qwen3.5-4B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Qwen3.5-4B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -238,15 +250,15 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.5-4B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.5-4B-GGUF",
+          "title": "zai-org/GLM-5",
+          "link": "https://huggingface.co/zai-org/GLM-5",
           "date": "2026-03-07",
           "source": "HuggingFace",
-          "description": "• Qwen3.5-4B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "description": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
           "is_english": true,
-          "summary": "• Qwen3.5-4B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Qwen3.5-4B-GGUF",
+          "summary": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
+          "translated_title": "zai-org/GLM-5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -280,8 +292,32 @@
     },
     {
       "date": "2026-03-06",
-      "update_time": "2026-03-06 18:32:02",
+      "update_time": "2026-03-06 21:20:50",
       "news": [
+        {
+          "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
+          "link": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/",
+          "date": "2026-03-06",
+          "source": "TechCrunch",
+          "description": "Trump's Department of War feud with Anthropic won't impact other companies that are using Claude via Microsoft and Google products.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/04/Screenshot-2025-04-04-at-1.14.37PM.png?resize=1200,626",
+          "is_english": true,
+          "original_title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
+          "original_summary": "Trump's Department of War feud with Anthropic won't impact other companies that are using Claude via Microsoft and Google products.",
+          "summary": "Trump's Department of War feud with Anthropic won't impact other companies that are using Claude via Microsoft and Google products."
+        },
+        {
+          "title": "Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks",
+          "link": "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/",
+          "date": "2026-03-06",
+          "source": "TechCrunch",
+          "description": "In a recent security partnership with Mozilla, Anthropic found 22 separate vulnerabilities in Firefox — 14 of them classified as \"high-severity.\" ",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/08/Claude-Chrome-Ext_email-hero-hero.png?w=1200",
+          "is_english": true,
+          "original_title": "Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks",
+          "original_summary": "In a recent security partnership with Mozilla, Anthropic found 22 separate vulnerabilities in Firefox — 14 of them classified as \"high-severity.\" ",
+          "summary": "In a recent security partnership with Mozilla, Anthropic found 22 separate vulnerabilities in Firefox — 14 of them classified as \"high-severity.\" "
+        },
         {
           "title": "Codex Security: now in research preview",
           "link": "https://openai.com/index/codex-security-now-in-research-preview",
