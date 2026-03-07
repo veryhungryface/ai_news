@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-03-08",
-      "update_time": "2026-03-07 18:20:22",
+      "update_time": "2026-03-07 21:13:02",
       "news": [
         {
           "title": "Qwen/Qwen3.5-9B",
@@ -31,19 +31,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.5-0.8B",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-0.8B",
-          "date": "2026-03-08",
-          "source": "HuggingFace",
-          "description": "• Qwen3.5-0.8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.5-0.8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.5-0.8B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Lightricks/LTX-2.3",
           "link": "https://huggingface.co/Lightricks/LTX-2.3",
           "date": "2026-03-08",
@@ -53,6 +40,19 @@
           "is_english": true,
           "summary": "• LTX-2.3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Lightricks/LTX-2.3",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.5-0.8B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-0.8B",
+          "date": "2026-03-08",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-0.8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• Qwen3.5-0.8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.5-0.8B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -96,19 +96,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.5-27B",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-27B",
-          "date": "2026-03-08",
-          "source": "HuggingFace",
-          "description": "• 후지연 모델 'Qwen3.5-27B' 공개\n• 텍스트와 이미지 통합 이해 능력 제공\n• 201개 언어 다국어 지원 강화\n• 고성능 고효율 추론 아키텍처 탑재",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• 후지연 모델 'Qwen3.5-27B' 공개\n• 텍스트와 이미지 통합 이해 능력 제공\n• 201개 언어 다국어 지원 강화\n• 고성능 고효율 추론 아키텍처 탑재",
-          "translated_title": "Qwen/Qwen3.5-27B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
           "date": "2026-03-08",
@@ -122,15 +109,15 @@
           "category": "AI Model"
         },
         {
-          "title": "huihui-ai/Huihui-Qwen3.5-35B-A3B-abliterated",
-          "link": "https://huggingface.co/huihui-ai/Huihui-Qwen3.5-35B-A3B-abliterated",
+          "title": "Qwen/Qwen3.5-27B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-27B",
           "date": "2026-03-08",
           "source": "HuggingFace",
-          "description": "• Huihui-Qwen3.5-35B-A3B-abliterated 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "description": "• 후지연 모델 'Qwen3.5-27B' 공개\n• 텍스트와 이미지 통합 이해 능력 제공\n• 201개 언어 다국어 지원 강화\n• 고성능 고효율 추론 아키텍처 탑재",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
           "is_english": true,
-          "summary": "• Huihui-Qwen3.5-35B-A3B-abliterated 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "huihui-ai/Huihui-Qwen3.5-35B-A3B-abliterated",
+          "summary": "• 후지연 모델 'Qwen3.5-27B' 공개\n• 텍스트와 이미지 통합 이해 능력 제공\n• 201개 언어 다국어 지원 강화\n• 고성능 고효율 추론 아키텍처 탑재",
+          "translated_title": "Qwen/Qwen3.5-27B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -157,6 +144,19 @@
           "is_english": true,
           "summary": "• Qwen3.5-2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.5-2B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "huihui-ai/Huihui-Qwen3.5-35B-A3B-abliterated",
+          "link": "https://huggingface.co/huihui-ai/Huihui-Qwen3.5-35B-A3B-abliterated",
+          "date": "2026-03-08",
+          "source": "HuggingFace",
+          "description": "• Huihui-Qwen3.5-35B-A3B-abliterated 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Huihui-Qwen3.5-35B-A3B-abliterated 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "huihui-ai/Huihui-Qwen3.5-35B-A3B-abliterated",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -252,15 +252,15 @@
           "category": "AI Model"
         },
         {
-          "title": "FireRedTeam/FireRed-OCR",
-          "link": "https://huggingface.co/FireRedTeam/FireRed-OCR",
+          "title": "crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
+          "link": "https://huggingface.co/crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
           "date": "2026-03-08",
           "source": "HuggingFace",
-          "description": "• FireRed-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/FireRedTeam/FireRed-OCR/resolve/main/./assets/logo.png",
+          "description": "• Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5/resolve/main/banner.png",
           "is_english": true,
-          "summary": "• FireRed-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "FireRedTeam/FireRed-OCR",
+          "summary": "• Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -268,8 +268,20 @@
     },
     {
       "date": "2026-03-07",
-      "update_time": "2026-03-07 18:20:22",
+      "update_time": "2026-03-07 21:13:00",
       "news": [
+        {
+          "title": "OpenAI robotics lead Caitlin Kalinowski quits in response to Pentagon deal",
+          "link": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/",
+          "date": "2026-03-07",
+          "source": "TechCrunch",
+          "description": "Hardware executive Caitlin Kalinowski announced today that in response to OpenAI's controversial agreement with the Department of Defense, she’s resigned from her role leading the company's robotics team.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2206295463.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "OpenAI robotics lead Caitlin Kalinowski quits in response to Pentagon deal",
+          "original_summary": "Hardware executive Caitlin Kalinowski announced today that in response to OpenAI's controversial agreement with the Department of Defense, she’s resigned from her role leading the company's robotics team.",
+          "summary": "Hardware executive Caitlin Kalinowski announced today that in response to OpenAI's controversial agreement with the Department of Defense, she’s resigned from her role leading the company's robotics team."
+        },
         {
           "title": "OpenAI delays ChatGPT’s ‘adult mode’ again",
           "link": "https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/",
