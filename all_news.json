@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-03-07",
-      "update_time": "2026-03-07 09:20:14",
+      "update_time": "2026-03-07 12:26:10",
       "news": [
+        {
+          "title": "정기수 원티드랩 AI 부문장 “기업 AX 성패, 개인 역량 지속 강화에 달려”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207657",
+          "date": "2026-03-07",
+          "source": "AI타임스",
+          "description": "“이제는 개인의 AI 활용 역량이 전사 프로세스를 바꿀 수 있는 시대입니다. 기업들은 AI 인재를 뽑는 것만큼, 직원들의 AX 역량을 높이는 데에도 집중해야 합니다.”HR 전문 원티드랩(대표 이복기)은 채용과 이직 전문 플랫폼을 운영하고 있다. 그래서 최근 기업들이 어떤 인재를 원하는지에 대해서는 확실한 답을 가지고 있다.정기수 원티드랩 AI 부문장은 “최근 채용 플랫폼에는 대부분 공고에 AI 활용 역량이 언급돼 있다”라며 “기업들은 교육이 필요한 신입 사원보다 AI 활용 역량을 갖춘 사람을 선호하는 경우가 많다”라고 설명했다. 이",
+          "image": "https://cdn.aitimes.com/news/photo/202603/207657_209764_5024.jpeg",
+          "is_english": false,
+          "original_title": "정기수 원티드랩 AI 부문장 “기업 AX 성패, 개인 역량 지속 강화에 달려”",
+          "original_summary": "“이제는 개인의 AI 활용 역량이 전사 프로세스를 바꿀 수 있는 시대입니다. 기업들은 AI 인재를 뽑는 것만큼, 직원들의 AX 역량을 높이는 데에도 집중해야 합니다.”HR 전문 원티드랩(대표 이복기)은 채용과 이직 전문 플랫폼을 운영하고 있다. 그래서 최근 기업들이 어떤 인재를 원하는지에 대해서는 확실한 답을 가지고 있다.정기수 원티드랩 AI 부문장은 “최근 채용 플랫폼에는 대부분 공고에 AI 활용 역량이 언급돼 있다”라며 “기업들은 교육이 필요한 신입 사원보다 AI 활용 역량을 갖춘 사람을 선호하는 경우가 많다”라고 설명했다. 이",
+          "summary": "“이제는 개인의 AI 활용 역량이 전사 프로세스를 바꿀 수 있는 시대입니다. 기업들은 AI 인재를 뽑는 것만큼, 직원들의 AX 역량을 높이는 데에도 집중해야 합니다.”HR 전문 원티드랩(대표 이복기)은 채용과 이직 전문 플랫폼을 운영하고 있다. 그래서 최근 기업들이 어떤 인재를 원하는지에 대해서는 확실한 답을 가지고 있다.정기수 원티드랩 AI 부문장은 “최근 채용 플랫폼에는 대부분 공고에 AI 활용 역량이 언급돼 있다”라며 “기업들은 교육이 필요한 신입 사원보다 AI 활용 역량을 갖춘 사람을 선호하는 경우가 많다”라고 설명했다. 이"
+        },
         {
           "title": "\"지메일부터 시트까지 명령어 하나로\"… 구글, 인간-에이전트 겸용 '워크스페이스 CLI' 공개",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=207665",
@@ -274,19 +286,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.5-35B-A3B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.5-35B-A3B-GGUF",
-          "date": "2026-03-07",
-          "source": "HuggingFace",
-          "description": "• 후깅페이스에 Qwen3.5 신규 모델 공개\n• 로컬 환경에서 고성능 추론 지원\n• 이미지와 텍스트 복합 처리 가능\n• 최적화된 정밀도 구현 성능 입증",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• 후깅페이스에 Qwen3.5 신규 모델 공개\n• 로컬 환경에서 고성능 추론 지원\n• 이미지와 텍스트 복합 처리 가능\n• 최적화된 정밀도 구현 성능 입증",
-          "translated_title": "unsloth/Qwen3.5-35B-A3B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Qwen3.5-9B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.5-9B-GGUF",
           "date": "2026-03-07",
@@ -296,6 +295,19 @@
           "is_english": true,
           "summary": "• Qwen3.5-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/Qwen3.5-9B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/Qwen3.5-35B-A3B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.5-35B-A3B-GGUF",
+          "date": "2026-03-07",
+          "source": "HuggingFace",
+          "description": "• 후깅페이스에 Qwen3.5 신규 모델 공개\n• 로컬 환경에서 고성능 추론 지원\n• 이미지와 텍스트 복합 처리 가능\n• 최적화된 정밀도 구현 성능 입증",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• 후깅페이스에 Qwen3.5 신규 모델 공개\n• 로컬 환경에서 고성능 추론 지원\n• 이미지와 텍스트 복합 처리 가능\n• 최적화된 정밀도 구현 성능 입증",
+          "translated_title": "unsloth/Qwen3.5-35B-A3B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -365,19 +377,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.5-27B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.5-27B-GGUF",
-          "date": "2026-03-07",
-          "source": "HuggingFace",
-          "description": "• 언슬로스, Qwen3.5 모델 로컬 구동 가이드 공개\n• GGUF 포맷, 고성능 양자화 기술 탑재\n• 이미지와 텍스트 처리 멀티모달 기능 지원\n• 주요 프레임워크 호환성 확보 및 제공",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• 언슬로스, Qwen3.5 모델 로컬 구동 가이드 공개\n• GGUF 포맷, 고성능 양자화 기술 탑재\n• 이미지와 텍스트 처리 멀티모달 기능 지원\n• 주요 프레임워크 호환성 확보 및 제공",
-          "translated_title": "unsloth/Qwen3.5-27B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "sarvamai/sarvam-105b",
           "link": "https://huggingface.co/sarvamai/sarvam-105b",
           "date": "2026-03-07",
@@ -400,6 +399,19 @@
           "is_english": true,
           "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/Qwen3.5-27B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.5-27B-GGUF",
+          "date": "2026-03-07",
+          "source": "HuggingFace",
+          "description": "• 언슬로스, Qwen3.5 모델 로컬 구동 가이드 공개\n• GGUF 포맷, 고성능 양자화 기술 탑재\n• 이미지와 텍스트 처리 멀티모달 기능 지원\n• 주요 프레임워크 호환성 확보 및 제공",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• 언슬로스, Qwen3.5 모델 로컬 구동 가이드 공개\n• GGUF 포맷, 고성능 양자화 기술 탑재\n• 이미지와 텍스트 처리 멀티모달 기능 지원\n• 주요 프레임워크 호환성 확보 및 제공",
+          "translated_title": "unsloth/Qwen3.5-27B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -456,15 +468,15 @@
           "category": "AI Model"
         },
         {
-          "title": "crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
-          "link": "https://huggingface.co/crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
+          "title": "sarvamai/sarvam-30b",
+          "link": "https://huggingface.co/sarvamai/sarvam-30b",
           "date": "2026-03-07",
           "source": "HuggingFace",
-          "description": "• Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5/resolve/main/banner.png",
+          "description": "• sarvam-30b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/60270a7c32856987162c641a/SivoCJWJqex41oprnwyuK.png",
           "is_english": true,
-          "summary": "• Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
+          "summary": "• sarvam-30b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "sarvamai/sarvam-30b",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
