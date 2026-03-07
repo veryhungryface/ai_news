@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-03-07",
-      "update_time": "2026-03-06 21:20:50",
+      "update_time": "2026-03-07 01:07:07",
       "news": [
+        {
+          "title": "[3월6일] \"AI 안경에 찍힌 사생활이 타인에게 노출\"...AI 챗봇도 본질은 같아",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207632",
+          "date": "2026-03-07",
+          "source": "AI타임스",
+          "description": "스웨덴 일간지 스벤스카 다그블라뎃은 지난달 27일(현지시간) 충격적인 소식을 전했습니다. 메타의 스마트 안경에 녹화된 콘텐츠를 케냐의 하청업체 직원들이 보고 있다는 것입니다.메타는 지난 2023년 9월 2세대 안경인 \\'레이밴 메타(Ray-Ban Meta)\\'를 출시하며 \\'메타 AI\\' 기능을 탑재했습니다. 사용자가 AI에게 질문하기 위해 전송하는 음성, 사진, 영상 데이터가 메타의 서버로 전송된다고 안내하기 시작했습니다.이어 2025년 5월 개인정보 보호정책을 업데이트하며, 사용자가 AI와 상호작용하며 공유한 콘텐츠를 AI 모델 학습에",
+          "image": "https://cdn.aitimes.com/news/photo/202603/207632_209736_423.png",
+          "is_english": false,
+          "original_title": "[3월6일] \"AI 안경에 찍힌 사생활이 타인에게 노출\"...AI 챗봇도 본질은 같아",
+          "original_summary": "스웨덴 일간지 스벤스카 다그블라뎃은 지난달 27일(현지시간) 충격적인 소식을 전했습니다. 메타의 스마트 안경에 녹화된 콘텐츠를 케냐의 하청업체 직원들이 보고 있다는 것입니다.메타는 지난 2023년 9월 2세대 안경인 \\'레이밴 메타(Ray-Ban Meta)\\'를 출시하며 \\'메타 AI\\' 기능을 탑재했습니다. 사용자가 AI에게 질문하기 위해 전송하는 음성, 사진, 영상 데이터가 메타의 서버로 전송된다고 안내하기 시작했습니다.이어 2025년 5월 개인정보 보호정책을 업데이트하며, 사용자가 AI와 상호작용하며 공유한 콘텐츠를 AI 모델",
+          "summary": "스웨덴 일간지 스벤스카 다그블라뎃은 지난달 27일(현지시간) 충격적인 소식을 전했습니다. 메타의 스마트 안경에 녹화된 콘텐츠를 케냐의 하청업체 직원들이 보고 있다는 것입니다.메타는 지난 2023년 9월 2세대 안경인 \\'레이밴 메타(Ray-Ban Meta)\\'를 출시하며 \\'메타 AI\\' 기능을 탑재했습니다. 사용자가 AI에게 질문하기 위해 전송하는 음성, 사진, 영상 데이터가 메타의 서버로 전송된다고 안내하기 시작했습니다.이어 2025년 5월 개인정보 보호정책을 업데이트하며, 사용자가 AI와 상호작용하며 공유한 콘텐츠를 AI 모델"
+        },
+        {
+          "title": "노트 내용이 그대로 ‘영상’으로… 구글 노트북LM의 놀라운 기능",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207659",
+          "date": "2026-03-07",
+          "source": "AI타임스",
+          "description": "AI타임스 조예주 기자 joyejuoffice@aitimes.com",
+          "image": "https://cdn.aitimes.com/news/photo/202603/207659_209767_4623.jpg",
+          "is_english": false,
+          "original_title": "노트 내용이 그대로 ‘영상’으로… 구글 노트북LM의 놀라운 기능",
+          "original_summary": "AI타임스 조예주 기자 joyejuoffice@aitimes.com",
+          "summary": "AI타임스 조예주 기자 joyejuoffice@aitimes.com"
+        },
         {
           "title": "Anthropic Report Says It’s Too Early for AI to Affect Jobs",
           "link": "https://aibusiness.com/generative-ai/anthropic-report-says-early-for-ai-to-affect-jobs",
@@ -159,19 +183,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.5-397B-A17B",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-397B-A17B",
-          "date": "2026-03-07",
-          "source": "HuggingFace",
-          "description": "• 알리바바, 차세대 거대 AI 모델 공개\n• 멀티모달 기능으로 성능 대폭 개선\n• 다양한 개발 도구와 호환성 지원\n• 클라우드 기반 API 서비스 제공",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• 알리바바, 차세대 거대 AI 모델 공개\n• 멀티모달 기능으로 성능 대폭 개선\n• 다양한 개발 도구와 호환성 지원\n• 클라우드 기반 API 서비스 제공",
-          "translated_title": "Qwen/Qwen3.5-397B-A17B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.5-2B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-2B",
           "date": "2026-03-07",
@@ -181,6 +192,19 @@
           "is_english": true,
           "summary": "• Qwen3.5-2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.5-2B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.5-397B-A17B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-397B-A17B",
+          "date": "2026-03-07",
+          "source": "HuggingFace",
+          "description": "• 알리바바, 차세대 거대 AI 모델 공개\n• 멀티모달 기능으로 성능 대폭 개선\n• 다양한 개발 도구와 호환성 지원\n• 클라우드 기반 API 서비스 제공",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• 알리바바, 차세대 거대 AI 모델 공개\n• 멀티모달 기능으로 성능 대폭 개선\n• 다양한 개발 도구와 호환성 지원\n• 클라우드 기반 API 서비스 제공",
+          "translated_title": "Qwen/Qwen3.5-397B-A17B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -198,19 +222,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.5-27B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.5-27B-GGUF",
-          "date": "2026-03-07",
-          "source": "HuggingFace",
-          "description": "• 언슬로스, Qwen3.5 모델 로컬 구동 가이드 공개\n• GGUF 포맷, 고성능 양자화 기술 탑재\n• 이미지와 텍스트 처리 멀티모달 기능 지원\n• 주요 프레임워크 호환성 확보 및 제공",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• 언슬로스, Qwen3.5 모델 로컬 구동 가이드 공개\n• GGUF 포맷, 고성능 양자화 기술 탑재\n• 이미지와 텍스트 처리 멀티모달 기능 지원\n• 주요 프레임워크 호환성 확보 및 제공",
-          "translated_title": "unsloth/Qwen3.5-27B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
           "date": "2026-03-07",
@@ -220,6 +231,19 @@
           "is_english": true,
           "summary": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/Qwen3.5-27B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.5-27B-GGUF",
+          "date": "2026-03-07",
+          "source": "HuggingFace",
+          "description": "• 언슬로스, Qwen3.5 모델 로컬 구동 가이드 공개\n• GGUF 포맷, 고성능 양자화 기술 탑재\n• 이미지와 텍스트 처리 멀티모달 기능 지원\n• 주요 프레임워크 호환성 확보 및 제공",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• 언슬로스, Qwen3.5 모델 로컬 구동 가이드 공개\n• GGUF 포맷, 고성능 양자화 기술 탑재\n• 이미지와 텍스트 처리 멀티모달 기능 지원\n• 주요 프레임워크 호환성 확보 및 제공",
+          "translated_title": "unsloth/Qwen3.5-27B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -250,19 +274,6 @@
           "category": "AI Model"
         },
         {
-          "title": "zai-org/GLM-5",
-          "link": "https://huggingface.co/zai-org/GLM-5",
-          "date": "2026-03-07",
-          "source": "HuggingFace",
-          "description": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
-          "translated_title": "zai-org/GLM-5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "microsoft/Phi-4-reasoning-vision-15B",
           "link": "https://huggingface.co/microsoft/Phi-4-reasoning-vision-15B",
           "date": "2026-03-07",
@@ -272,6 +283,19 @@
           "is_english": true,
           "summary": "• Phi-4-reasoning-vision-15B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "microsoft/Phi-4-reasoning-vision-15B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "zai-org/GLM-5",
+          "link": "https://huggingface.co/zai-org/GLM-5",
+          "date": "2026-03-07",
+          "source": "HuggingFace",
+          "description": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
+          "translated_title": "zai-org/GLM-5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
