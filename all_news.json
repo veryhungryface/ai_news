@@ -2,8 +2,44 @@
   "dates": [
     {
       "date": "2026-03-08",
-      "update_time": "2026-03-08 09:20:18",
+      "update_time": "2026-03-08 12:27:31",
       "news": [
+        {
+          "title": "경남도, 6년간 인공지능 융합·고급인재 6천명 육성",
+          "link": "https://www.yna.co.kr/view/AKR20260308047600052",
+          "date": "2026-03-08",
+          "source": "연합뉴스",
+          "description": "(창원=연합뉴스) 이정훈 기자 = 경남도는 산업 전반의 인공지능 전환(AX)에 대응하고자 인공지능(AI) 인재 양성을 추진한다고 8일 밝혔다.",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/03/08/AKR20260308047600052_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "경남도, 6년간 인공지능 융합·고급인재 6천명 육성",
+          "original_summary": "(창원=연합뉴스) 이정훈 기자 = 경남도는 산업 전반의 인공지능 전환(AX)에 대응하고자 인공지능(AI) 인재 양성을 추진한다고 8일 밝혔다.",
+          "summary": "(창원=연합뉴스) 이정훈 기자 = 경남도는 산업 전반의 인공지능 전환(AX)에 대응하고자 인공지능(AI) 인재 양성을 추진한다고 8일 밝혔다."
+        },
+        {
+          "title": "제미나이 이어 GPT도 '수능 만점'...구유겸 학생 \"AI 발전 놀라워\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207681",
+          "date": "2026-03-08",
+          "source": "AI타임스",
+          "description": "“수능 테스트를 처음 진행했을 때, 만점은 당분간 무리라고 생각했습니다. 하지만 3개월 만에 만점 모델이 등장해, 솔직히 조금 놀라웠습니다.”순천향대학교 컴퓨터소프트웨어공학과 4학년인 구유겸 학생은 지난해 11월 최신 AI 모델로 진행한 ‘2026 수능 풀이’ 실험 결과를 공개해 화제가 됐다. 각 모델의 API를 활용해 실험을 진행, 웹이나 앱 서비스의 별도 시스템 프롬프트를 제외한 결과다.이후 \\'제미나이 3\\'나 \\'제미나이 3.1\\' 등 주요 모델이 출시될 때마다 벤치마크를 업데이트하고 있다. 6일 출시된 오픈AI의 최신 모델 \\'GP",
+          "image": "https://cdn.aitimes.com/news/photo/202603/207681_209797_1910.png",
+          "is_english": false,
+          "original_title": "제미나이 이어 GPT도 '수능 만점'...구유겸 학생 \"AI 발전 놀라워\"",
+          "original_summary": "“수능 테스트를 처음 진행했을 때, 만점은 당분간 무리라고 생각했습니다. 하지만 3개월 만에 만점 모델이 등장해, 솔직히 조금 놀라웠습니다.”순천향대학교 컴퓨터소프트웨어공학과 4학년인 구유겸 학생은 지난해 11월 최신 AI 모델로 진행한 ‘2026 수능 풀이’ 실험 결과를 공개해 화제가 됐다. 각 모델의 API를 활용해 실험을 진행, 웹이나 앱 서비스의 별도 시스템 프롬프트를 제외한 결과다.이후 \\'제미나이 3\\'나 \\'제미나이 3.1\\' 등 주요 모델이 출시될 때마다 벤치마크를 업데이트하고 있다. 6일 출시된 오픈AI의 최신 모델",
+          "summary": "“수능 테스트를 처음 진행했을 때, 만점은 당분간 무리라고 생각했습니다. 하지만 3개월 만에 만점 모델이 등장해, 솔직히 조금 놀라웠습니다.”순천향대학교 컴퓨터소프트웨어공학과 4학년인 구유겸 학생은 지난해 11월 최신 AI 모델로 진행한 ‘2026 수능 풀이’ 실험 결과를 공개해 화제가 됐다. 각 모델의 API를 활용해 실험을 진행, 웹이나 앱 서비스의 별도 시스템 프롬프트를 제외한 결과다.이후 \\'제미나이 3\\'나 \\'제미나이 3.1\\' 등 주요 모델이 출시될 때마다 벤치마크를 업데이트하고 있다. 6일 출시된 오픈AI의 최신 모델"
+        },
+        {
+          "title": "\"학습 단계 50배 단축\"...확산 모델 병목 해결한 '셀프-플로우' 등장",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207575",
+          "date": "2026-03-08",
+          "source": "AI타임스",
+          "description": "블랙 포레스트 랩스는 4일(현지시간) 이미지·영상·오디오 생성 모델이 스스로 의미 표현을 학습할 수 있도록 하는 새로운 학습 프레임워크 ‘셀프-플로우(Self-Flow)’를 공개했다.이 기술은 이미지·영상·오디오를 동시에 처리하는 멀티모달 생성 모델을 단일 구조로 학습할 수 있도록 해, 기존 방식보다 훨씬 빠른 학습 효율과 높은 생성 품질을 달성했다.이미지는 연속적인 데이터이고, 텍스트나 일부 토큰은 이산적인 데이터이지만, 이를 하나의 단일 흐름(Single Flow) 안에서 처리했다는 것이다. 데이터 형식에 구애받지 않는 통합적",
+          "image": "https://cdn.aitimes.com/news/photo/202603/207575_209684_5921.png",
+          "is_english": false,
+          "original_title": "\"학습 단계 50배 단축\"...확산 모델 병목 해결한 '셀프-플로우' 등장",
+          "original_summary": "블랙 포레스트 랩스는 4일(현지시간) 이미지·영상·오디오 생성 모델이 스스로 의미 표현을 학습할 수 있도록 하는 새로운 학습 프레임워크 ‘셀프-플로우(Self-Flow)’를 공개했다.이 기술은 이미지·영상·오디오를 동시에 처리하는 멀티모달 생성 모델을 단일 구조로 학습할 수 있도록 해, 기존 방식보다 훨씬 빠른 학습 효율과 높은 생성 품질을 달성했다.이미지는 연속적인 데이터이고, 텍스트나 일부 토큰은 이산적인 데이터이지만, 이를 하나의 단일 흐름(Single Flow) 안에서 처리했다는 것이다. 데이터 형식에 구애받지 않는 통합적",
+          "summary": "블랙 포레스트 랩스는 4일(현지시간) 이미지·영상·오디오 생성 모델이 스스로 의미 표현을 학습할 수 있도록 하는 새로운 학습 프레임워크 ‘셀프-플로우(Self-Flow)’를 공개했다.이 기술은 이미지·영상·오디오를 동시에 처리하는 멀티모달 생성 모델을 단일 구조로 학습할 수 있도록 해, 기존 방식보다 훨씬 빠른 학습 효율과 높은 생성 품질을 달성했다.이미지는 연속적인 데이터이고, 텍스트나 일부 토큰은 이산적인 데이터이지만, 이를 하나의 단일 흐름(Single Flow) 안에서 처리했다는 것이다. 데이터 형식에 구애받지 않는 통합적"
+        },
         {
           "title": "오픈AI, 코딩 에이전트 관리 프레임워크 ‘심포니’ 공개…“개발자는 관리만”",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=207683",
@@ -275,15 +311,15 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.5-35B-A3B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.5-35B-A3B-GGUF",
+          "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+          "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
           "date": "2026-03-08",
           "source": "HuggingFace",
-          "description": "• 후깅페이스에 Qwen3.5 신규 모델 공개\n• 로컬 환경에서 고성능 추론 지원\n• 이미지와 텍스트 복합 처리 가능\n• 최적화된 정밀도 구현 성능 입증",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
           "is_english": true,
-          "summary": "• 후깅페이스에 Qwen3.5 신규 모델 공개\n• 로컬 환경에서 고성능 추론 지원\n• 이미지와 텍스트 복합 처리 가능\n• 최적화된 정밀도 구현 성능 입증",
-          "translated_title": "unsloth/Qwen3.5-35B-A3B-GGUF",
+          "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -301,15 +337,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-          "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+          "title": "unsloth/Qwen3.5-35B-A3B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.5-35B-A3B-GGUF",
           "date": "2026-03-08",
           "source": "HuggingFace",
-          "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
+          "description": "• 후깅페이스에 Qwen3.5 신규 모델 공개\n• 로컬 환경에서 고성능 추론 지원\n• 이미지와 텍스트 복합 처리 가능\n• 최적화된 정밀도 구현 성능 입증",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
           "is_english": true,
-          "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+          "summary": "• 후깅페이스에 Qwen3.5 신규 모델 공개\n• 로컬 환경에서 고성능 추론 지원\n• 이미지와 텍스트 복합 처리 가능\n• 최적화된 정밀도 구현 성능 입증",
+          "translated_title": "unsloth/Qwen3.5-35B-A3B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -353,19 +389,6 @@
           "category": "AI Model"
         },
         {
-          "title": "huihui-ai/Huihui-Qwen3.5-35B-A3B-abliterated",
-          "link": "https://huggingface.co/huihui-ai/Huihui-Qwen3.5-35B-A3B-abliterated",
-          "date": "2026-03-08",
-          "source": "HuggingFace",
-          "description": "• Huihui-Qwen3.5-35B-A3B-abliterated 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Huihui-Qwen3.5-35B-A3B-abliterated 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "huihui-ai/Huihui-Qwen3.5-35B-A3B-abliterated",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.5-397B-A17B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-397B-A17B",
           "date": "2026-03-08",
@@ -375,6 +398,19 @@
           "is_english": true,
           "summary": "• 알리바바, 차세대 거대 AI 모델 공개\n• 멀티모달 기능으로 성능 대폭 개선\n• 다양한 개발 도구와 호환성 지원\n• 클라우드 기반 API 서비스 제공",
           "translated_title": "Qwen/Qwen3.5-397B-A17B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "huihui-ai/Huihui-Qwen3.5-35B-A3B-abliterated",
+          "link": "https://huggingface.co/huihui-ai/Huihui-Qwen3.5-35B-A3B-abliterated",
+          "date": "2026-03-08",
+          "source": "HuggingFace",
+          "description": "• Huihui-Qwen3.5-35B-A3B-abliterated 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Huihui-Qwen3.5-35B-A3B-abliterated 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "huihui-ai/Huihui-Qwen3.5-35B-A3B-abliterated",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -405,19 +441,6 @@
           "category": "AI Model"
         },
         {
-          "title": "microsoft/Phi-4-reasoning-vision-15B",
-          "link": "https://huggingface.co/microsoft/Phi-4-reasoning-vision-15B",
-          "date": "2026-03-08",
-          "source": "HuggingFace",
-          "description": "• Phi-4-reasoning-vision-15B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/Microsoft-Project-0078D4?logo=microsoft",
-          "is_english": true,
-          "summary": "• Phi-4-reasoning-vision-15B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "microsoft/Phi-4-reasoning-vision-15B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "date": "2026-03-08",
@@ -427,6 +450,19 @@
           "is_english": true,
           "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "microsoft/Phi-4-reasoning-vision-15B",
+          "link": "https://huggingface.co/microsoft/Phi-4-reasoning-vision-15B",
+          "date": "2026-03-08",
+          "source": "HuggingFace",
+          "description": "• Phi-4-reasoning-vision-15B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/Microsoft-Project-0078D4?logo=microsoft",
+          "is_english": true,
+          "summary": "• Phi-4-reasoning-vision-15B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "microsoft/Phi-4-reasoning-vision-15B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
