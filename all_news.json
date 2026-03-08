@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-03-09",
-      "update_time": "2026-03-08 18:20:41",
+      "update_time": "2026-03-08 21:15:03",
       "news": [
+        {
+          "title": "[게시판] 산업인력공단, 인공지능 경영시스템 국제표준 획득",
+          "link": "https://www.yna.co.kr/view/AKR20260306162100530",
+          "date": "2026-03-09",
+          "source": "연합뉴스",
+          "description": "▲ 한국산업인력공단은 인공지능 경영시스템(AIMS·Artificial Intelligence Management System)에 대한 국제표준인...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/03/06/AKR20260306162100530_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "[게시판] 산업인력공단, 인공지능 경영시스템 국제표준 획득",
+          "original_summary": "▲ 한국산업인력공단은 인공지능 경영시스템(AIMS·Artificial Intelligence Management System)에 대한 국제표준인...",
+          "summary": "▲ 한국산업인력공단은 인공지능 경영시스템(AIMS·Artificial Intelligence Management System)에 대한 국제표준인..."
+        },
         {
           "title": "Qwen/Qwen3.5-9B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-9B",
@@ -187,19 +199,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.5-4B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.5-4B-GGUF",
-          "date": "2026-03-09",
-          "source": "HuggingFace",
-          "description": "• Qwen3.5-4B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.5-4B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Qwen3.5-4B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "date": "2026-03-09",
@@ -209,6 +208,19 @@
           "is_english": true,
           "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/Qwen3.5-4B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.5-4B-GGUF",
+          "date": "2026-03-09",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-4B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• Qwen3.5-4B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Qwen3.5-4B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +280,20 @@
     },
     {
       "date": "2026-03-08",
-      "update_time": "2026-03-08 18:20:41",
+      "update_time": "2026-03-08 21:15:03",
       "news": [
+        {
+          "title": "Will the Pentagon’s Anthropic controversy scare startups away from defense work?",
+          "link": "https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/",
+          "date": "2026-03-08",
+          "source": "TechCrunch",
+          "description": "On the latest episode of TechCrunch’s Equity podcast, we discussed what the controversy means for other startups seeking to work with the federal government.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-1461207630.jpg?resize=1200,857",
+          "is_english": true,
+          "original_title": "Will the Pentagon’s Anthropic controversy scare startups away from defense work?",
+          "original_summary": "On the latest episode of TechCrunch’s Equity podcast, we discussed what the controversy means for other startups seeking to work with the federal government.",
+          "summary": "On the latest episode of TechCrunch’s Equity podcast, we discussed what the controversy means for other startups seeking to work with the federal government."
+        },
         {
           "title": "Owner of ICE detention facility sees big opportunity in AI man camps",
           "link": "https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/",
