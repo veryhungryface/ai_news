@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-03-08",
-      "update_time": "2026-03-08 04:28:36",
+      "update_time": "2026-03-08 06:31:19",
       "news": [
+        {
+          "title": "A roadmap for AI, if anyone will listen",
+          "link": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
+          "date": "2026-03-08",
+          "source": "TechCrunch",
+          "description": "The Pro-Human Declaration was finalized before last week's Pentagon-Anthropic standoff, but the collision of the two events wasn’t lost on anyone involved.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-871198558.jpg?resize=1200,772",
+          "is_english": true,
+          "original_title": "A roadmap for AI, if anyone will listen",
+          "original_summary": "The Pro-Human Declaration was finalized before last week's Pentagon-Anthropic standoff, but the collision of the two events wasn’t lost on anyone involved.",
+          "summary": "The Pro-Human Declaration was finalized before last week's Pentagon-Anthropic standoff, but the collision of the two events wasn’t lost on anyone involved."
+        },
         {
           "title": "KAIST, 약물 결합 넘어 '실제 활성 여부' 예측 AI 개발",
           "link": "https://www.yna.co.kr/view/AKR20260306141100063",
@@ -279,19 +291,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.5-2B",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-2B",
-          "date": "2026-03-08",
-          "source": "HuggingFace",
-          "description": "• Qwen3.5-2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.5-2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.5-2B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "sarvamai/sarvam-105b",
           "link": "https://huggingface.co/sarvamai/sarvam-105b",
           "date": "2026-03-08",
@@ -301,6 +300,19 @@
           "is_english": true,
           "summary": "• sarvam-105b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "sarvamai/sarvam-105b",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.5-2B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-2B",
+          "date": "2026-03-08",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• Qwen3.5-2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.5-2B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -344,15 +356,15 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.5-27B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.5-27B-GGUF",
+          "title": "sarvamai/sarvam-30b",
+          "link": "https://huggingface.co/sarvamai/sarvam-30b",
           "date": "2026-03-08",
           "source": "HuggingFace",
-          "description": "• 언슬로스, Qwen3.5 모델 로컬 구동 가이드 공개\n• GGUF 포맷, 고성능 양자화 기술 탑재\n• 이미지와 텍스트 처리 멀티모달 기능 지원\n• 주요 프레임워크 호환성 확보 및 제공",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "description": "• sarvam-30b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/60270a7c32856987162c641a/SivoCJWJqex41oprnwyuK.png",
           "is_english": true,
-          "summary": "• 언슬로스, Qwen3.5 모델 로컬 구동 가이드 공개\n• GGUF 포맷, 고성능 양자화 기술 탑재\n• 이미지와 텍스트 처리 멀티모달 기능 지원\n• 주요 프레임워크 호환성 확보 및 제공",
-          "translated_title": "unsloth/Qwen3.5-27B-GGUF",
+          "summary": "• sarvam-30b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "sarvamai/sarvam-30b",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -370,15 +382,15 @@
           "category": "AI Model"
         },
         {
-          "title": "sarvamai/sarvam-30b",
-          "link": "https://huggingface.co/sarvamai/sarvam-30b",
+          "title": "unsloth/Qwen3.5-27B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.5-27B-GGUF",
           "date": "2026-03-08",
           "source": "HuggingFace",
-          "description": "• sarvam-30b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/60270a7c32856987162c641a/SivoCJWJqex41oprnwyuK.png",
+          "description": "• 언슬로스, Qwen3.5 모델 로컬 구동 가이드 공개\n• GGUF 포맷, 고성능 양자화 기술 탑재\n• 이미지와 텍스트 처리 멀티모달 기능 지원\n• 주요 프레임워크 호환성 확보 및 제공",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
           "is_english": true,
-          "summary": "• sarvam-30b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "sarvamai/sarvam-30b",
+          "summary": "• 언슬로스, Qwen3.5 모델 로컬 구동 가이드 공개\n• GGUF 포맷, 고성능 양자화 기술 탑재\n• 이미지와 텍스트 처리 멀티모달 기능 지원\n• 주요 프레임워크 호환성 확보 및 제공",
+          "translated_title": "unsloth/Qwen3.5-27B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
