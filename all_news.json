@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-03-08",
-      "update_time": "2026-03-07 21:13:02",
+      "update_time": "2026-03-08 01:12:14",
       "news": [
+        {
+          "title": "강남구 '현장 실무형' 중장년 AI 컨설턴트 양성",
+          "link": "https://www.yna.co.kr/view/AKR20260308018400004",
+          "date": "2026-03-08",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 정수연 기자 = 서울 강남구(구청장 조성명)는 중장년 퇴직자에게 생성형 AI 교육을 한 다음 마케팅·데이터 분석 등에 투입하는...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/03/08/AKR20260308018400004_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "강남구 '현장 실무형' 중장년 AI 컨설턴트 양성",
+          "original_summary": "(서울=연합뉴스) 정수연 기자 = 서울 강남구(구청장 조성명)는 중장년 퇴직자에게 생성형 AI 교육을 한 다음 마케팅·데이터 분석 등에 투입하는...",
+          "summary": "(서울=연합뉴스) 정수연 기자 = 서울 강남구(구청장 조성명)는 중장년 퇴직자에게 생성형 AI 교육을 한 다음 마케팅·데이터 분석 등에 투입하는..."
+        },
+        {
+          "title": "Google just gave Sundar Pichai a $692M pay package",
+          "link": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
+          "date": "2026-03-08",
+          "source": "TechCrunch",
+          "description": "Most of it is tied to performance, including new stock incentives linked to Waymo and Wing, its drone delivery venture.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2215577882.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Google just gave Sundar Pichai a $692M pay package",
+          "original_summary": "Most of it is tied to performance, including new stock incentives linked to Waymo and Wing, its drone delivery venture.",
+          "summary": "Most of it is tied to performance, including new stock incentives linked to Waymo and Wing, its drone delivery venture."
+        },
         {
           "title": "Qwen/Qwen3.5-9B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-9B",
@@ -109,19 +133,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.5-27B",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-27B",
-          "date": "2026-03-08",
-          "source": "HuggingFace",
-          "description": "• 후지연 모델 'Qwen3.5-27B' 공개\n• 텍스트와 이미지 통합 이해 능력 제공\n• 201개 언어 다국어 지원 강화\n• 고성능 고효율 추론 아키텍처 탑재",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• 후지연 모델 'Qwen3.5-27B' 공개\n• 텍스트와 이미지 통합 이해 능력 제공\n• 201개 언어 다국어 지원 강화\n• 고성능 고효율 추론 아키텍처 탑재",
-          "translated_title": "Qwen/Qwen3.5-27B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
           "date": "2026-03-08",
@@ -131,6 +142,19 @@
           "is_english": true,
           "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.5-27B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-27B",
+          "date": "2026-03-08",
+          "source": "HuggingFace",
+          "description": "• 후지연 모델 'Qwen3.5-27B' 공개\n• 텍스트와 이미지 통합 이해 능력 제공\n• 201개 언어 다국어 지원 강화\n• 고성능 고효율 추론 아키텍처 탑재",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• 후지연 모델 'Qwen3.5-27B' 공개\n• 텍스트와 이미지 통합 이해 능력 제공\n• 201개 언어 다국어 지원 강화\n• 고성능 고효율 추론 아키텍처 탑재",
+          "translated_title": "Qwen/Qwen3.5-27B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,15 +263,15 @@
           "category": "AI Model"
         },
         {
-          "title": "zai-org/GLM-5",
-          "link": "https://huggingface.co/zai-org/GLM-5",
+          "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+          "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "date": "2026-03-08",
           "source": "HuggingFace",
-          "description": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
           "is_english": true,
-          "summary": "• Z.ai, 거대 언어 모델 GLM-5 공개\n• 파라미터 규모와 학습 데이터 대폭 확대\n• 희소 주의 기술로 비용 효율성 개선\n• 추론 및 코딩 성능 세계 최고 수준 달성",
-          "translated_title": "zai-org/GLM-5",
+          "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +292,20 @@
     },
     {
       "date": "2026-03-07",
-      "update_time": "2026-03-07 21:13:00",
+      "update_time": "2026-03-08 01:12:11",
       "news": [
+        {
+          "title": "Grammarly’s ‘expert review’ is just missing the actual experts",
+          "link": "https://techcrunch.com/2026/03/07/grammarlys-expert-review-is-just-missing-the-actual-experts/",
+          "date": "2026-03-07",
+          "source": "TechCrunch",
+          "description": "A recently-added feature in Grammarly purports to improve users’ writing with help from the world's great writers and thinkers — and some tech journalists, too.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/08/brain-brain.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "Grammarly’s ‘expert review’ is just missing the actual experts",
+          "original_summary": "A recently-added feature in Grammarly purports to improve users’ writing with help from the world's great writers and thinkers — and some tech journalists, too.",
+          "summary": "A recently-added feature in Grammarly purports to improve users’ writing with help from the world's great writers and thinkers — and some tech journalists, too."
+        },
         {
           "title": "OpenAI robotics lead Caitlin Kalinowski quits in response to Pentagon deal",
           "link": "https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/",
