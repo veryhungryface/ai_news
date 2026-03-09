@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-03-10",
-      "update_time": "2026-03-09 18:39:06",
+      "update_time": "2026-03-09 21:23:34",
       "news": [
+        {
+          "title": "ABB, Nvidia Partner to Deliver Physical AI at Scale",
+          "link": "https://aibusiness.com/robotics/abb-nvidia-partner-to-deliver-physical-ai",
+          "date": "2026-03-10",
+          "source": "AI Business",
+          "description": "The vendors are integrating Nvidia’s Omniverse library with ABB’s robotics platform, in a push to close the sim-to-real gap.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltd8e965e5e2d3c128/69af2eff4f79ad00086f127f/Robot_conductor.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "ABB, Nvidia Partner to Deliver Physical AI at Scale",
+          "original_summary": "The vendors are integrating Nvidia’s Omniverse library with ABB’s robotics platform, in a push to close the sim-to-real gap.",
+          "summary": "The vendors are integrating Nvidia’s Omniverse library with ABB’s robotics platform, in a push to close the sim-to-real gap."
+        },
+        {
+          "title": "Nscale Valued at $14.6B After Raising Another $2B",
+          "link": "https://aibusiness.com/data-centers/nscale-valued-at-14-6b-after-raising-2b",
+          "date": "2026-03-10",
+          "source": "AI Business",
+          "description": "The fast-growing GPU-as-a-service vendor is part of a new group of AI infrastructure vendors.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt7deb18377f09da24/69af25a7d975a900086d0b76/Data_center3.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Nscale Valued at $14.6B After Raising Another $2B",
+          "original_summary": "The fast-growing GPU-as-a-service vendor is part of a new group of AI infrastructure vendors.",
+          "summary": "The fast-growing GPU-as-a-service vendor is part of a new group of AI infrastructure vendors."
+        },
         {
           "title": "김제 백산 육용종계 농장서 조류인플루엔자 항원 검출",
           "link": "https://www.yna.co.kr/view/AKR20260310002600055",
@@ -119,19 +143,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.5-4B",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-4B",
-          "date": "2026-03-10",
-          "source": "HuggingFace",
-          "description": "• Qwen3.5-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.5-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.5-4B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Qwen3.5-9B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.5-9B-GGUF",
           "date": "2026-03-10",
@@ -141,6 +152,19 @@
           "is_english": true,
           "summary": "• Qwen3.5-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/Qwen3.5-9B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.5-4B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-4B",
+          "date": "2026-03-10",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• Qwen3.5-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.5-4B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -262,6 +286,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Kijai/LTX2.3_comfy",
+          "link": "https://huggingface.co/Kijai/LTX2.3_comfy",
+          "date": "2026-03-10",
+          "source": "HuggingFace",
+          "description": "• LTX2.3_comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/63297908f0b2fc94904a65b8/KnDASZbjsLio38bS9XdVQ.png",
+          "is_english": true,
+          "summary": "• LTX2.3_comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Kijai/LTX2.3_comfy",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "unsloth/Qwen3.5-4B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.5-4B-GGUF",
           "date": "2026-03-10",
@@ -286,26 +323,37 @@
           "translated_title": "Qwen/Qwen3.5-2B",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "Kijai/LTX2.3_comfy",
-          "link": "https://huggingface.co/Kijai/LTX2.3_comfy",
-          "date": "2026-03-10",
-          "source": "HuggingFace",
-          "description": "• LTX2.3_comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/63297908f0b2fc94904a65b8/KnDASZbjsLio38bS9XdVQ.png",
-          "is_english": true,
-          "summary": "• LTX2.3_comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Kijai/LTX2.3_comfy",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-03-09",
-      "update_time": "2026-03-09 18:39:03",
+      "update_time": "2026-03-09 21:23:34",
       "news": [
+        {
+          "title": "OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit",
+          "link": "https://techcrunch.com/2026/03/09/openai-and-google-employees-rush-to-anthropics-defense-in-dod-lawsuit/",
+          "date": "2026-03-09",
+          "source": "TechCrunch",
+          "description": "More than 30 OpenAI and Google DeepMind employees signed onto a statement supporting Anthropic's lawsuit against the Defense Department after the agency labeled the AI firm a supply chain risk, according to court filings.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
+          "is_english": true,
+          "original_title": "OpenAI and Google employees rush to Anthropic’s defense in DOD lawsuit",
+          "original_summary": "More than 30 OpenAI and Google DeepMind employees signed onto a statement supporting Anthropic's lawsuit against the Defense Department after the agency labeled the AI firm a supply chain risk, according to court filings.",
+          "summary": "More than 30 OpenAI and Google DeepMind employees signed onto a statement supporting Anthropic's lawsuit against the Defense Department after the agency labeled the AI firm a supply chain risk, according to court filings."
+        },
+        {
+          "title": "Anthropic launches code review tool to check flood of AI-generated code",
+          "link": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/",
+          "date": "2026-03-09",
+          "source": "TechCrunch",
+          "description": "Anthropic launched Code Review in Claude Code, a multi-agent system that automatically analyzes AI-generated code, flags logic errors, and helps enterprise developers manage the growing volume of code produced with AI.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/Claude-Code-Code-Review.png?resize=1200,677",
+          "is_english": true,
+          "original_title": "Anthropic launches code review tool to check flood of AI-generated code",
+          "original_summary": "Anthropic launched Code Review in Claude Code, a multi-agent system that automatically analyzes AI-generated code, flags logic errors, and helps enterprise developers manage the growing volume of code produced with AI.",
+          "summary": "Anthropic launched Code Review in Claude Code, a multi-agent system that automatically analyzes AI-generated code, flags logic errors, and helps enterprise developers manage the growing volume of code produced with AI."
+        },
         {
           "title": "OpenAI to acquire Promptfoo",
           "link": "https://openai.com/index/openai-to-acquire-promptfoo",
