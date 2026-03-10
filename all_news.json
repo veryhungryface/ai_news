@@ -2,8 +2,68 @@
   "dates": [
     {
       "date": "2026-03-10",
-      "update_time": "2026-03-10 09:35:07",
+      "update_time": "2026-03-10 12:37:05",
       "news": [
+        {
+          "title": "앤트로픽, AI 생성 코드 자동 검토 시스템 '코드 리뷰' 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207743",
+          "date": "2026-03-10",
+          "source": "AI타임스",
+          "description": "앤트로픽이 여러 AI 에이전트를 활용해 소프트웨어 변경 코드를 자동 검토하는 새로운 개발 도구 ‘코드 리뷰(Code Review)’를 공개했다. 이 기능은 코드 품질 검증을 자동화해 AI 기반 코드 생성이 늘면서 발생한 코드 검토 병목 현상을 해결하는 것을 목표로 한다.앤트로픽은 9일(현지시간) \\'클로드 코드\\'에 통합된 다중 에이전트 코드 검토 시스템 코드 리뷰를 연구 프리뷰 형태로 출시했다고 밝혔다. 이 기능은 현재 팀 및 엔터프라이즈 고객을 대상으로 베타 버전으로 제공된다.코드 리뷰는 개발자가 풀 리퀘스트(PR)를 생성하면 여러",
+          "image": "https://cdn.aitimes.com/news/photo/202603/207743_209901_2020.png",
+          "is_english": false,
+          "original_title": "앤트로픽, AI 생성 코드 자동 검토 시스템 '코드 리뷰' 출시",
+          "original_summary": "앤트로픽이 여러 AI 에이전트를 활용해 소프트웨어 변경 코드를 자동 검토하는 새로운 개발 도구 ‘코드 리뷰(Code Review)’를 공개했다. 이 기능은 코드 품질 검증을 자동화해 AI 기반 코드 생성이 늘면서 발생한 코드 검토 병목 현상을 해결하는 것을 목표로 한다.앤트로픽은 9일(현지시간) \\'클로드 코드\\'에 통합된 다중 에이전트 코드 검토 시스템 코드 리뷰를 연구 프리뷰 형태로 출시했다고 밝혔다. 이 기능은 현재 팀 및 엔터프라이즈 고객을 대상으로 베타 버전으로 제공된다.코드 리뷰는 개발자가 풀 리퀘스트(PR)를 생성하면 ",
+          "summary": "앤트로픽이 여러 AI 에이전트를 활용해 소프트웨어 변경 코드를 자동 검토하는 새로운 개발 도구 ‘코드 리뷰(Code Review)’를 공개했다. 이 기능은 코드 품질 검증을 자동화해 AI 기반 코드 생성이 늘면서 발생한 코드 검토 병목 현상을 해결하는 것을 목표로 한다.앤트로픽은 9일(현지시간) \\'클로드 코드\\'에 통합된 다중 에이전트 코드 검토 시스템 코드 리뷰를 연구 프리뷰 형태로 출시했다고 밝혔다. 이 기능은 현재 팀 및 엔터프라이즈 고객을 대상으로 베타 버전으로 제공된다.코드 리뷰는 개발자가 풀 리퀘스트(PR)를 생성하면 "
+        },
+        {
+          "title": "앤드류 응, 코딩 에이전트에 최신 API 제공하는 ‘컨텍스트 허브’ 오픈 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207746",
+          "date": "2026-03-10",
+          "source": "AI타임스",
+          "description": "AI 코딩 에이전트가 최신 API 정보를 제대로 이해하지 못해 오류를 만드는 문제를 해결하기 위한 새로운 오픈소스 도구가 공개됐다.앤드류 응과 그의 팀인 딥러닝닷AI는 9일(현지시간) AI 에이전트가 최신 개발 문서를 정확히 활용할 수 있도록 돕는 오픈소스 도구 ‘컨텍스트 허브(Context Hub)’를 깃허브에 출시했다.이 도구는 에이전트의 학습 데이터와 빠르게 변화하는 API 문서 사이의 간극을 줄이는 것을 목표로 한다. 최근 AI 기반 코딩 도구가 확산하면서 개발자들은 새로운 문제에 직면하고 있다. 대형언어모델(LLM)은 학습",
+          "image": "https://cdn.aitimes.com/news/photo/202603/207746_209881_614.png",
+          "is_english": false,
+          "original_title": "앤드류 응, 코딩 에이전트에 최신 API 제공하는 ‘컨텍스트 허브’ 오픈 공개",
+          "original_summary": "AI 코딩 에이전트가 최신 API 정보를 제대로 이해하지 못해 오류를 만드는 문제를 해결하기 위한 새로운 오픈소스 도구가 공개됐다.앤드류 응과 그의 팀인 딥러닝닷AI는 9일(현지시간) AI 에이전트가 최신 개발 문서를 정확히 활용할 수 있도록 돕는 오픈소스 도구 ‘컨텍스트 허브(Context Hub)’를 깃허브에 출시했다.이 도구는 에이전트의 학습 데이터와 빠르게 변화하는 API 문서 사이의 간극을 줄이는 것을 목표로 한다. 최근 AI 기반 코딩 도구가 확산하면서 개발자들은 새로운 문제에 직면하고 있다. 대형언어모델(LLM)은 학습",
+          "summary": "AI 코딩 에이전트가 최신 API 정보를 제대로 이해하지 못해 오류를 만드는 문제를 해결하기 위한 새로운 오픈소스 도구가 공개됐다.앤드류 응과 그의 팀인 딥러닝닷AI는 9일(현지시간) AI 에이전트가 최신 개발 문서를 정확히 활용할 수 있도록 돕는 오픈소스 도구 ‘컨텍스트 허브(Context Hub)’를 깃허브에 출시했다.이 도구는 에이전트의 학습 데이터와 빠르게 변화하는 API 문서 사이의 간극을 줄이는 것을 목표로 한다. 최근 AI 기반 코딩 도구가 확산하면서 개발자들은 새로운 문제에 직면하고 있다. 대형언어모델(LLM)은 학습"
+        },
+        {
+          "title": "카르파시, 단일 GPU에서 구동하는 자율 ML 실험 도구 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207752",
+          "date": "2026-03-10",
+          "source": "AI타임스",
+          "description": "인간 연구자가 실험을 반복하며 AI 모델을 개선하던 기존 방식에서 벗어나, AI 에이전트가 스스로 머신러닝(ML) 실험을 수행하는 새로운 도구가 공개됐다.안드레이 카르파시 유레카 랩스 CEO는 8일(현지시간) 파이썬 기반의 경량 연구 프레임워크 ‘오토리서치(autoresearch)’를 깃허브에 공개했다.이 도구는 AI 에이전트가 자율적으로 머신러닝 실험을 진행하도록 설계된 시스템으로, 연구자가 직접 코드를 수정하는 대신 에이전트가 모델 구조와 학습 설정을 반복적으로 실험하는 것이 특징이다.카르파시 CEO가 개발한 대형언어모델(LLM",
+          "image": "https://cdn.aitimes.com/news/photo/202603/207752_209883_404.png",
+          "is_english": false,
+          "original_title": "카르파시, 단일 GPU에서 구동하는 자율 ML 실험 도구 출시",
+          "original_summary": "인간 연구자가 실험을 반복하며 AI 모델을 개선하던 기존 방식에서 벗어나, AI 에이전트가 스스로 머신러닝(ML) 실험을 수행하는 새로운 도구가 공개됐다.안드레이 카르파시 유레카 랩스 CEO는 8일(현지시간) 파이썬 기반의 경량 연구 프레임워크 ‘오토리서치(autoresearch)’를 깃허브에 공개했다.이 도구는 AI 에이전트가 자율적으로 머신러닝 실험을 진행하도록 설계된 시스템으로, 연구자가 직접 코드를 수정하는 대신 에이전트가 모델 구조와 학습 설정을 반복적으로 실험하는 것이 특징이다.카르파시 CEO가 개발한 대형언어모델(LLM",
+          "summary": "인간 연구자가 실험을 반복하며 AI 모델을 개선하던 기존 방식에서 벗어나, AI 에이전트가 스스로 머신러닝(ML) 실험을 수행하는 새로운 도구가 공개됐다.안드레이 카르파시 유레카 랩스 CEO는 8일(현지시간) 파이썬 기반의 경량 연구 프레임워크 ‘오토리서치(autoresearch)’를 깃허브에 공개했다.이 도구는 AI 에이전트가 자율적으로 머신러닝 실험을 진행하도록 설계된 시스템으로, 연구자가 직접 코드를 수정하는 대신 에이전트가 모델 구조와 학습 설정을 반복적으로 실험하는 것이 특징이다.카르파시 CEO가 개발한 대형언어모델(LLM"
+        },
+        {
+          "title": "오픈AI의 '스타게이트 1' 확장 취소는 구형 GPU 탑재 피하기 위한 것",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207740",
+          "date": "2026-03-10",
+          "source": "AI타임스",
+          "description": "오라클과 오픈AI의 텍사스 애빌린 데이터센터 확장 계획이 중단되는 사태가 AI 칩의 성능 향상이 데이터센터 건설 속도를 넘어서는 현실에 따른 것으로 알려졌다. 즉, 오픈AI가 곧 출시될 첨단 칩 대신, 구형 칩이 될 \\'블랙웰\\'을 데이터센터에 투입하는 것을 꺼렸다는 것이다.CNBC는 9일(현지시간) 복수의 관계자를 인용, 오픈AI가 기존 텍사스 애빌린의 데이터센터 \\'스타게이트 1\\' 추가 확장을 진행하지 않기로 한 이유가 GPU 문제 때문이라고 보도했다.이에 따르면, 이번 결정은 앞으로 엔비디아의 차세대 GPU 칩을 활용한 클러스터를",
+          "image": "https://cdn.aitimes.com/news/photo/202603/207740_209862_2312.png",
+          "is_english": false,
+          "original_title": "오픈AI의 '스타게이트 1' 확장 취소는 구형 GPU 탑재 피하기 위한 것",
+          "original_summary": "오라클과 오픈AI의 텍사스 애빌린 데이터센터 확장 계획이 중단되는 사태가 AI 칩의 성능 향상이 데이터센터 건설 속도를 넘어서는 현실에 따른 것으로 알려졌다. 즉, 오픈AI가 곧 출시될 첨단 칩 대신, 구형 칩이 될 \\'블랙웰\\'을 데이터센터에 투입하는 것을 꺼렸다는 것이다.CNBC는 9일(현지시간) 복수의 관계자를 인용, 오픈AI가 기존 텍사스 애빌린의 데이터센터 \\'스타게이트 1\\' 추가 확장을 진행하지 않기로 한 이유가 GPU 문제 때문이라고 보도했다.이에 따르면, 이번 결정은 앞으로 엔비디아의 차세대 GPU 칩을 활용한 클러",
+          "summary": "오라클과 오픈AI의 텍사스 애빌린 데이터센터 확장 계획이 중단되는 사태가 AI 칩의 성능 향상이 데이터센터 건설 속도를 넘어서는 현실에 따른 것으로 알려졌다. 즉, 오픈AI가 곧 출시될 첨단 칩 대신, 구형 칩이 될 \\'블랙웰\\'을 데이터센터에 투입하는 것을 꺼렸다는 것이다.CNBC는 9일(현지시간) 복수의 관계자를 인용, 오픈AI가 기존 텍사스 애빌린의 데이터센터 \\'스타게이트 1\\' 추가 확장을 진행하지 않기로 한 이유가 GPU 문제 때문이라고 보도했다.이에 따르면, 이번 결정은 앞으로 엔비디아의 차세대 GPU 칩을 활용한 클러"
+        },
+        {
+          "title": "\"온라인 익명 글만으로 LLM이 실제 작성자 70% 찾아내\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207754",
+          "date": "2026-03-10",
+          "source": "AI타임스",
+          "description": "대형언어모델(LLM)이 인터넷에 공개된 익명의 글만으로도 실제 인물을 90% 확률로 찾아낼 수 있다는 연구 결과가 발표됐다. 연구진은 기존의 온라인 익명성 보호 방식이 LLM으로 인해 무력화될 수 있다고 강조했다.ETH 취리히와 앤트로픽 연구진은 최근 LLM을 활용해 온라인 사용자 계정을 대규모로 재식별(deanonymization)하는 방법에 관한 논문 ‘대형언어모델을 활용한 대규모 온라인 재식별(Large-scale online deanonymization with LLMs)’을 온라인 아카이브를 통해 공개했다.연구에 따르면,",
+          "image": "https://cdn.aitimes.com/news/photo/202603/207754_209887_1813.png",
+          "is_english": false,
+          "original_title": "\"온라인 익명 글만으로 LLM이 실제 작성자 70% 찾아내\"",
+          "original_summary": "대형언어모델(LLM)이 인터넷에 공개된 익명의 글만으로도 실제 인물을 90% 확률로 찾아낼 수 있다는 연구 결과가 발표됐다. 연구진은 기존의 온라인 익명성 보호 방식이 LLM으로 인해 무력화될 수 있다고 강조했다.ETH 취리히와 앤트로픽 연구진은 최근 LLM을 활용해 온라인 사용자 계정을 대규모로 재식별(deanonymization)하는 방법에 관한 논문 ‘대형언어모델을 활용한 대규모 온라인 재식별(Large-scale online deanonymization with LLMs)’을 온라인 아카이브를 통해 공개했다.연구에 따르면,",
+          "summary": "대형언어모델(LLM)이 인터넷에 공개된 익명의 글만으로도 실제 인물을 90% 확률로 찾아낼 수 있다는 연구 결과가 발표됐다. 연구진은 기존의 온라인 익명성 보호 방식이 LLM으로 인해 무력화될 수 있다고 강조했다.ETH 취리히와 앤트로픽 연구진은 최근 LLM을 활용해 온라인 사용자 계정을 대규모로 재식별(deanonymization)하는 방법에 관한 논문 ‘대형언어모델을 활용한 대규모 온라인 재식별(Large-scale online deanonymization with LLMs)’을 온라인 아카이브를 통해 공개했다.연구에 따르면,"
+        },
         {
           "title": "농업 생산·유통·생활까지 AI 대전환…'농업·농촌 AX 전략' 발표",
           "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148960612&call_from=rsslink",
@@ -449,19 +509,6 @@
           "summary": "Personal agents could alter the consumer and business landscape, displacing some software."
         },
         {
-          "title": "Qwen/Qwen3.5-9B",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-9B",
-          "date": "2026-03-10",
-          "source": "HuggingFace",
-          "description": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.5-9B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Lightricks/LTX-2.3",
           "link": "https://huggingface.co/Lightricks/LTX-2.3",
           "date": "2026-03-10",
@@ -471,6 +518,19 @@
           "is_english": true,
           "summary": "• LTX-2.3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Lightricks/LTX-2.3",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.5-9B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-9B",
+          "date": "2026-03-10",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.5-9B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -514,19 +574,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.5-0.8B",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-0.8B",
-          "date": "2026-03-10",
-          "source": "HuggingFace",
-          "description": "• Qwen3.5-0.8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.5-0.8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.5-0.8B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "sarvamai/sarvam-105b",
           "link": "https://huggingface.co/sarvamai/sarvam-105b",
           "date": "2026-03-10",
@@ -540,15 +587,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.5-4B",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-4B",
+          "title": "Qwen/Qwen3.5-0.8B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-0.8B",
           "date": "2026-03-10",
           "source": "HuggingFace",
-          "description": "• Qwen3.5-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "description": "• Qwen3.5-0.8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
           "is_english": true,
-          "summary": "• Qwen3.5-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.5-4B",
+          "summary": "• Qwen3.5-0.8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.5-0.8B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -562,6 +609,19 @@
           "is_english": true,
           "summary": "• Qwen3.5-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/Qwen3.5-9B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.5-4B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-4B",
+          "date": "2026-03-10",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• Qwen3.5-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.5-4B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -618,19 +678,6 @@
           "category": "AI Model"
         },
         {
-          "title": "FireRedTeam/FireRed-Image-Edit-1.1",
-          "link": "https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.1",
-          "date": "2026-03-10",
-          "source": "HuggingFace",
-          "description": "• FireRed-Image-Edit-1.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FireRedTeam-ffc107?color=ffc107&logoColor=white",
-          "is_english": true,
-          "summary": "• FireRed-Image-Edit-1.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "FireRedTeam/FireRed-Image-Edit-1.1",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
           "link": "https://huggingface.co/crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
           "date": "2026-03-10",
@@ -640,6 +687,19 @@
           "is_english": true,
           "summary": "• Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "FireRedTeam/FireRed-Image-Edit-1.1",
+          "link": "https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.1",
+          "date": "2026-03-10",
+          "source": "HuggingFace",
+          "description": "• FireRed-Image-Edit-1.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FireRedTeam-ffc107?color=ffc107&logoColor=white",
+          "is_english": true,
+          "summary": "• FireRed-Image-Edit-1.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "FireRedTeam/FireRed-Image-Edit-1.1",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -696,15 +756,15 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.5-4B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.5-4B-GGUF",
+          "title": "Jackrong/Qwen3.5-2B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+          "link": "https://huggingface.co/Jackrong/Qwen3.5-2B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "date": "2026-03-10",
           "source": "HuggingFace",
-          "description": "• Qwen3.5-4B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "description": "• Qwen3.5-2B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/DRSLbz-SWO7B7j7586d7R.jpeg",
           "is_english": true,
-          "summary": "• Qwen3.5-4B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Qwen3.5-4B-GGUF",
+          "summary": "• Qwen3.5-2B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jackrong/Qwen3.5-2B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
