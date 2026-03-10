@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-03-11",
-      "update_time": "2026-03-10 15:52:04",
+      "update_time": "2026-03-10 18:35:56",
       "news": [
+        {
+          "title": "Neura Launches Europe's Largest Physical AI Training Center",
+          "link": "https://aibusiness.com/robotics/neura-launches-physical-ai-training-center",
+          "date": "2026-03-11",
+          "source": "AI Business",
+          "description": "The center will train the next generation of humanoid robots, in a bid to support Europe’s standing in the physical AI race.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blted0079f3e899f0d9/69b056de021518290555495f/Neura.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Neura Launches Europe's Largest Physical AI Training Center",
+          "original_summary": "The center will train the next generation of humanoid robots, in a bid to support Europe’s standing in the physical AI race.",
+          "summary": "The center will train the next generation of humanoid robots, in a bid to support Europe’s standing in the physical AI race."
+        },
+        {
+          "title": "French AI Startup Building World Models Raises $1.03 billion",
+          "link": "https://aibusiness.com/generative-ai/french-ai-startup-building-world-models-raises-1-03-billion",
+          "date": "2026-03-11",
+          "source": "AI Business",
+          "description": "World models are gaining popularity quickly as developers seek new ways to train generative AI models.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt242aaa591624a63c/69b044c40122e1b43179a2b7/Yann_LeCun.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "French AI Startup Building World Models Raises $1.03 billion",
+          "original_summary": "World models are gaining popularity quickly as developers seek new ways to train generative AI models.",
+          "summary": "World models are gaining popularity quickly as developers seek new ways to train generative AI models."
+        },
         {
           "title": "Lightricks/LTX-2.3",
           "link": "https://huggingface.co/Lightricks/LTX-2.3",
@@ -252,15 +276,15 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.5-27B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.5-27B-GGUF",
+          "title": "Jackrong/Qwen3.5-2B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+          "link": "https://huggingface.co/Jackrong/Qwen3.5-2B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "date": "2026-03-11",
           "source": "HuggingFace",
-          "description": "• 언슬로스, Qwen3.5 모델 로컬 구동 가이드 공개\n• GGUF 포맷, 고성능 양자화 기술 탑재\n• 이미지와 텍스트 처리 멀티모달 기능 지원\n• 주요 프레임워크 호환성 확보 및 제공",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "description": "• Qwen3.5-2B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/DRSLbz-SWO7B7j7586d7R.jpeg",
           "is_english": true,
-          "summary": "• 언슬로스, Qwen3.5 모델 로컬 구동 가이드 공개\n• GGUF 포맷, 고성능 양자화 기술 탑재\n• 이미지와 텍스트 처리 멀티모달 기능 지원\n• 주요 프레임워크 호환성 확보 및 제공",
-          "translated_title": "unsloth/Qwen3.5-27B-GGUF",
+          "summary": "• Qwen3.5-2B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jackrong/Qwen3.5-2B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -268,8 +292,68 @@
     },
     {
       "date": "2026-03-10",
-      "update_time": "2026-03-10 15:52:04",
+      "update_time": "2026-03-10 18:35:56",
       "news": [
+        {
+          "title": "Improving instruction hierarchy in frontier LLMs",
+          "link": "https://openai.com/index/instruction-hierarchy-challenge",
+          "date": "2026-03-10",
+          "source": "OpenAI",
+          "description": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Improving instruction hierarchy in frontier LLMs",
+          "original_summary": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks.",
+          "summary": "IH-Challenge trains models to prioritize trusted instructions, improving instruction hierarchy, safety steerability, and resistance to prompt injection attacks."
+        },
+        {
+          "title": "New ways to learn math and science in ChatGPT",
+          "link": "https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt",
+          "date": "2026-03-10",
+          "source": "OpenAI",
+          "description": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.",
+          "image": null,
+          "is_english": true,
+          "original_title": "New ways to learn math and science in ChatGPT",
+          "original_summary": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time.",
+          "summary": "ChatGPT introduces interactive visual explanations for math and science, helping students explore formulas, variables, and concepts in real time."
+        },
+        {
+          "title": "ChatGPT can now create interactive visuals to help you understand math and science concepts",
+          "link": "https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/",
+          "date": "2026-03-10",
+          "source": "TechCrunch",
+          "description": "On Tuesday, OpenAI introduced dynamic visual explanations, a new ChatGPT feature that allows users to see how formulas, variables, and mathematical relationships change in real time.  Instead of just reading an explanation or looking at a static diagram, users can now interact directly with interactive visuals. For example, when exploring the Pythagorean theorem, you can [&#8230;]",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+          "is_english": true,
+          "original_title": "ChatGPT can now create interactive visuals to help you understand math and science concepts",
+          "original_summary": "On Tuesday, OpenAI introduced dynamic visual explanations, a new ChatGPT feature that allows users to see how formulas, variables, and mathematical relationships change in real time.  Instead of just reading an explanation or looking at a static diagram, users can now interact directly with interact",
+          "summary": "On Tuesday, OpenAI introduced dynamic visual explanations, a new ChatGPT feature that allows users to see how formulas, variables, and mathematical relationships change in real time.  Instead of just reading an explanation or looking at a static diagram, users can now interact directly with interact"
+        },
+        {
+          "title": "AgentMail raises $6M to build an email service for AI agents",
+          "link": "https://techcrunch.com/2026/03/10/agentmail-raises-6m-to-build-an-email-service-for-ai-agents/",
+          "date": "2026-03-10",
+          "source": "TechCrunch",
+          "description": "AgentMail provides an API platform that lets you give AI agents their own email inboxes, with support for two-way conversations, parsing, threading, labeling, searching, and replying. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/IMG_3846.jpeg?resize=1200,713",
+          "is_english": true,
+          "original_title": "AgentMail raises $6M to build an email service for AI agents",
+          "original_summary": "AgentMail provides an API platform that lets you give AI agents their own email inboxes, with support for two-way conversations, parsing, threading, labeling, searching, and replying. ",
+          "summary": "AgentMail provides an API platform that lets you give AI agents their own email inboxes, with support for two-way conversations, parsing, threading, labeling, searching, and replying. "
+        },
+        {
+          "title": "Meta acquired Moltbook, the AI agent social network that went viral because of fake posts",
+          "link": "https://techcrunch.com/2026/03/10/meta-acquired-moltbook-the-ai-agent-social-network-that-went-viral-because-of-fake-posts/",
+          "date": "2026-03-10",
+          "source": "TechCrunch",
+          "description": "Meta says that Moltbook's approach to \"connecting agents through an always-on-directory\" is novel. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-1485567434.jpg?resize=1200,827",
+          "is_english": true,
+          "original_title": "Meta acquired Moltbook, the AI agent social network that went viral because of fake posts",
+          "original_summary": "Meta says that Moltbook's approach to \"connecting agents through an always-on-directory\" is novel. ",
+          "summary": "Meta says that Moltbook's approach to \"connecting agents through an always-on-directory\" is novel. "
+        },
         {
           "title": "Thinking Machines Lab inks massive compute deal with Nvidia",
           "link": "https://techcrunch.com/2026/03/10/thinking-machines-lab-inks-massive-compute-deal-with-nvidia/",
@@ -1144,7 +1228,7 @@
         {
           "title": "Jackrong/Qwen3.5-2B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-2B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "date": "2026-03-10",
+          "date": "2026-03-11",
           "source": "HuggingFace",
           "description": "• Qwen3.5-2B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/DRSLbz-SWO7B7j7586d7R.jpeg",
@@ -7717,7 +7801,7 @@
         {
           "title": "Qwen/Qwen3.5-35B-A3B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
-          "date": "2026-03-02",
+          "date": "2026-03-11",
           "source": "HuggingFace",
           "description": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -7730,7 +7814,7 @@
         {
           "title": "Qwen/Qwen3.5-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-27B",
-          "date": "2026-03-02",
+          "date": "2026-03-11",
           "source": "HuggingFace",
           "description": "• 후지연 모델 'Qwen3.5-27B' 공개\n• 텍스트와 이미지 통합 이해 능력 제공\n• 201개 언어 다국어 지원 강화\n• 고성능 고효율 추론 아키텍처 탑재",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -7743,7 +7827,7 @@
         {
           "title": "unsloth/Qwen3.5-35B-A3B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.5-35B-A3B-GGUF",
-          "date": "2026-03-02",
+          "date": "2026-03-11",
           "source": "HuggingFace",
           "description": "• 후깅페이스에 Qwen3.5 신규 모델 공개\n• 로컬 환경에서 고성능 추론 지원\n• 이미지와 텍스트 복합 처리 가능\n• 최적화된 정밀도 구현 성능 입증",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -7769,7 +7853,7 @@
         {
           "title": "Qwen/Qwen3.5-397B-A17B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-397B-A17B",
-          "date": "2026-03-02",
+          "date": "2026-03-11",
           "source": "HuggingFace",
           "description": "• 알리바바, 차세대 거대 AI 모델 공개\n• 멀티모달 기능으로 성능 대폭 개선\n• 다양한 개발 도구와 호환성 지원\n• 클라우드 기반 API 서비스 제공",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
