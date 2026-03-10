@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-03-11",
-      "update_time": "2026-03-10 18:35:56",
+      "update_time": "2026-03-10 21:22:05",
       "news": [
         {
           "title": "Neura Launches Europe's Largest Physical AI Training Center",
@@ -185,19 +185,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "date": "2026-03-11",
-          "source": "HuggingFace",
-          "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
-          "is_english": true,
-          "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
           "link": "https://huggingface.co/crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
           "date": "2026-03-11",
@@ -207,6 +194,19 @@
           "is_english": true,
           "summary": "• Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+          "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+          "date": "2026-03-11",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
+          "is_english": true,
+          "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -224,19 +224,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Kijai/LTX2.3_comfy",
-          "link": "https://huggingface.co/Kijai/LTX2.3_comfy",
-          "date": "2026-03-11",
-          "source": "HuggingFace",
-          "description": "• LTX2.3_comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/63297908f0b2fc94904a65b8/KnDASZbjsLio38bS9XdVQ.png",
-          "is_english": true,
-          "summary": "• LTX2.3_comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Kijai/LTX2.3_comfy",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/LTX-2.3-GGUF",
           "link": "https://huggingface.co/unsloth/LTX-2.3-GGUF",
           "date": "2026-03-11",
@@ -246,6 +233,19 @@
           "is_english": true,
           "summary": "• LTX-2.3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/LTX-2.3-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Kijai/LTX2.3_comfy",
+          "link": "https://huggingface.co/Kijai/LTX2.3_comfy",
+          "date": "2026-03-11",
+          "source": "HuggingFace",
+          "description": "• LTX2.3_comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/63297908f0b2fc94904a65b8/KnDASZbjsLio38bS9XdVQ.png",
+          "is_english": true,
+          "summary": "• LTX2.3_comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Kijai/LTX2.3_comfy",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -292,8 +292,80 @@
     },
     {
       "date": "2026-03-10",
-      "update_time": "2026-03-10 18:35:56",
+      "update_time": "2026-03-10 21:22:05",
       "news": [
+        {
+          "title": "광주, ‘국가 NPU컴퓨팅센터’ 전문가 자문회의 개최",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207767",
+          "date": "2026-03-10",
+          "source": "AI타임스",
+          "description": "광주시(시장 강기정)와 인공지능산업융합사업단(AICA)은 10일 ‘국가 NPU컴퓨팅센터 광주 구축을 위한 자문회의’를 열어, 국가 NPU컴퓨팅센터 조성 방향과 추진전략을 논의했다.이날 자문회의는 지난해 확보한 ‘국가 NPU컴퓨팅센터 광주 구축 타당성 조사 및 기본계획 수립 용역’ 국비 6억원을 바탕으로, 본격적인 용역 착수에 앞서 분야별 전문가 의견을 폭넓게 수렴하고 제안요청서(RFP)의 완성도를 높이기 위해 마련됐다.국가 NPU컴퓨팅센터는 국산 AI NPU를 기반으로 공공형 컴퓨팅 인프라를 구축해 AI 서비스의 개발과 실증을 지원",
+          "image": null,
+          "is_english": false,
+          "original_title": "광주, ‘국가 NPU컴퓨팅센터’ 전문가 자문회의 개최",
+          "original_summary": "광주시(시장 강기정)와 인공지능산업융합사업단(AICA)은 10일 ‘국가 NPU컴퓨팅센터 광주 구축을 위한 자문회의’를 열어, 국가 NPU컴퓨팅센터 조성 방향과 추진전략을 논의했다.이날 자문회의는 지난해 확보한 ‘국가 NPU컴퓨팅센터 광주 구축 타당성 조사 및 기본계획 수립 용역’ 국비 6억원을 바탕으로, 본격적인 용역 착수에 앞서 분야별 전문가 의견을 폭넓게 수렴하고 제안요청서(RFP)의 완성도를 높이기 위해 마련됐다.국가 NPU컴퓨팅센터는 국산 AI NPU를 기반으로 공공형 컴퓨팅 인프라를 구축해 AI 서비스의 개발과 실증을 지원",
+          "summary": "광주시(시장 강기정)와 인공지능산업융합사업단(AICA)은 10일 ‘국가 NPU컴퓨팅센터 광주 구축을 위한 자문회의’를 열어, 국가 NPU컴퓨팅센터 조성 방향과 추진전략을 논의했다.이날 자문회의는 지난해 확보한 ‘국가 NPU컴퓨팅센터 광주 구축 타당성 조사 및 기본계획 수립 용역’ 국비 6억원을 바탕으로, 본격적인 용역 착수에 앞서 분야별 전문가 의견을 폭넓게 수렴하고 제안요청서(RFP)의 완성도를 높이기 위해 마련됐다.국가 NPU컴퓨팅센터는 국산 AI NPU를 기반으로 공공형 컴퓨팅 인프라를 구축해 AI 서비스의 개발과 실증을 지원"
+        },
+        {
+          "title": "국내 인디게임 시상식 ‘2026 인디플 어워즈’, 출품작 모집 시작",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207768",
+          "date": "2026-03-10",
+          "source": "AI타임스",
+          "description": "한국인공지능게임협회는 국내 인디게임 개발자들의 우수한 작품을 발굴하고 창작 성과를 조명하기 위한 ‘2026 인디플 어워즈(IndiePlay Awards)’ 출품작 모집을 시작한다고 10일 밝혔다.이번 어워즈는 2025년 한해 동안 출시 또는 서비스된 국내 인디게임을 대상으로 진행되며, 개인 개발자, 학생, 중소 개발사 등 다양한 인디게임 개발 주체들의 참여가 가능하다. 정식 출시 게임뿐 아니라 얼리액세스 및 데모 버전으로 공개된 작품도 출품할 수 있다.출품작 접수는 2026년 3월 9일부터 4월 9일까지 진행되며, 참가를 희망하는",
+          "image": null,
+          "is_english": false,
+          "original_title": "국내 인디게임 시상식 ‘2026 인디플 어워즈’, 출품작 모집 시작",
+          "original_summary": "한국인공지능게임협회는 국내 인디게임 개발자들의 우수한 작품을 발굴하고 창작 성과를 조명하기 위한 ‘2026 인디플 어워즈(IndiePlay Awards)’ 출품작 모집을 시작한다고 10일 밝혔다.이번 어워즈는 2025년 한해 동안 출시 또는 서비스된 국내 인디게임을 대상으로 진행되며, 개인 개발자, 학생, 중소 개발사 등 다양한 인디게임 개발 주체들의 참여가 가능하다. 정식 출시 게임뿐 아니라 얼리액세스 및 데모 버전으로 공개된 작품도 출품할 수 있다.출품작 접수는 2026년 3월 9일부터 4월 9일까지 진행되며, 참가를 희망하는",
+          "summary": "한국인공지능게임협회는 국내 인디게임 개발자들의 우수한 작품을 발굴하고 창작 성과를 조명하기 위한 ‘2026 인디플 어워즈(IndiePlay Awards)’ 출품작 모집을 시작한다고 10일 밝혔다.이번 어워즈는 2025년 한해 동안 출시 또는 서비스된 국내 인디게임을 대상으로 진행되며, 개인 개발자, 학생, 중소 개발사 등 다양한 인디게임 개발 주체들의 참여가 가능하다. 정식 출시 게임뿐 아니라 얼리액세스 및 데모 버전으로 공개된 작품도 출품할 수 있다.출품작 접수는 2026년 3월 9일부터 4월 9일까지 진행되며, 참가를 희망하는"
+        },
+        {
+          "title": "Amazon launches its healthcare AI assistant on its website and app",
+          "link": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
+          "date": "2026-03-10",
+          "source": "TechCrunch",
+          "description": "Health AI can answer questions, explain health records, manage prescription renewals, book appointments, and more. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/amazon-health-ai.jpeg?resize=1200,675",
+          "is_english": true,
+          "original_title": "Amazon launches its healthcare AI assistant on its website and app",
+          "original_summary": "Health AI can answer questions, explain health records, manage prescription renewals, book appointments, and more. ",
+          "summary": "Health AI can answer questions, explain health records, manage prescription renewals, book appointments, and more. "
+        },
+        {
+          "title": "AI-powered apps struggle with long-term retention, new report shows",
+          "link": "https://techcrunch.com/2026/03/10/ai-powered-apps-struggle-with-long-term-retention-new-report-shows/",
+          "date": "2026-03-10",
+          "source": "TechCrunch",
+          "description": "AI can drive stronger early\nmonetization for apps, but sustaining value remains the challenge, RevenueCat's latest report finds. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/EU-ai-1258475609.jpg?w=1024",
+          "is_english": true,
+          "original_title": "AI-powered apps struggle with long-term retention, new report shows",
+          "original_summary": "AI can drive stronger early\nmonetization for apps, but sustaining value remains the challenge, RevenueCat's latest report finds. ",
+          "summary": "AI can drive stronger early\nmonetization for apps, but sustaining value remains the challenge, RevenueCat's latest report finds. "
+        },
+        {
+          "title": "3 Questions: Building predictive models to characterize tumor progression",
+          "link": "https://news.mit.edu/2026/3-questions-building-predictive-models-characterize-tumor-progression-0310",
+          "date": "2026-03-10",
+          "source": "MIT News",
+          "description": "Assistant Professor Matthew Jones is working to decode molecular processes on the genetic, epigenetic, and microenvironment levels to anticipate how and when tumors evolve to resist treatment.",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/mit-koch-matthew-jones.jpg?itok=fQCpCxPO",
+          "is_english": true,
+          "original_title": "3 Questions: Building predictive models to characterize tumor progression",
+          "original_summary": "Assistant Professor Matthew Jones is working to decode molecular processes on the genetic, epigenetic, and microenvironment levels to anticipate how and when tumors evolve to resist treatment.",
+          "summary": "Assistant Professor Matthew Jones is working to decode molecular processes on the genetic, epigenetic, and microenvironment levels to anticipate how and when tumors evolve to resist treatment."
+        },
+        {
+          "title": "How Joseph Paradiso’s sensing innovations bridge the arts, medicine, and ecology",
+          "link": "https://news.mit.edu/2026/mit-professor-joseph-paradiso-sensing-innovations-0310",
+          "date": "2026-03-10",
+          "source": "MIT News",
+          "description": "From early motion-sensing platforms to environmental monitoring, the professor and head of the Program in Media Arts and Sciences has turned decades of cross-disciplinary research into real-world impact.",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/mit-media-lab-joseph-paradiso.jpg?itok=29bW0wzJ",
+          "is_english": true,
+          "original_title": "How Joseph Paradiso’s sensing innovations bridge the arts, medicine, and ecology",
+          "original_summary": "From early motion-sensing platforms to environmental monitoring, the professor and head of the Program in Media Arts and Sciences has turned decades of cross-disciplinary research into real-world impact.",
+          "summary": "From early motion-sensing platforms to environmental monitoring, the professor and head of the Program in Media Arts and Sciences has turned decades of cross-disciplinary research into real-world impact."
+        },
         {
           "title": "Improving instruction hierarchy in frontier LLMs",
           "link": "https://openai.com/index/instruction-hierarchy-challenge",
