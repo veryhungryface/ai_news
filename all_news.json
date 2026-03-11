@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-03-11",
-      "update_time": "2026-03-11 09:34:11",
+      "update_time": "2026-03-11 12:36:24",
       "news": [
+        {
+          "title": "엔비디아, 기업용 오픈소스 에이전트 플랫폼 ‘네모클로’ 출시 계획",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207786",
+          "date": "2026-03-11",
+          "source": "AI타임스",
+          "description": "엔비디아가 기업용 AI 에이전트를 위한 오픈소스 플랫폼 ‘네모클로(NemoClaw)’ 출시를 준비하는 것으로 알려졌다. 와이어드는 10일(현지시간) 정통한 소식통을 인용, 엔비디아가 최근 기업용 소프트웨어 업체들을 대상으로 네모클로 플랫폼을 소개하며 협력 가능성을 타진하고 있다고 보도했다. 네모클로는 기업이 직원 업무를 대신 수행할 AI 에이전트 배포 플랫폼이다. 이를 통해 여러 단계의 작업을 자동으로 수행하는 에이전트를 활용해 업무 자동화를 구현할 수 있다.소식통에 따르면, 엔비디아 GPU 사용 여부와 관계없이 누구나 접근할 수",
+          "image": "https://cdn.aitimes.com/news/photo/202603/207786_209927_5453.jpg",
+          "is_english": false,
+          "original_title": "엔비디아, 기업용 오픈소스 에이전트 플랫폼 ‘네모클로’ 출시 계획",
+          "original_summary": "엔비디아가 기업용 AI 에이전트를 위한 오픈소스 플랫폼 ‘네모클로(NemoClaw)’ 출시를 준비하는 것으로 알려졌다. 와이어드는 10일(현지시간) 정통한 소식통을 인용, 엔비디아가 최근 기업용 소프트웨어 업체들을 대상으로 네모클로 플랫폼을 소개하며 협력 가능성을 타진하고 있다고 보도했다. 네모클로는 기업이 직원 업무를 대신 수행할 AI 에이전트 배포 플랫폼이다. 이를 통해 여러 단계의 작업을 자동으로 수행하는 에이전트를 활용해 업무 자동화를 구현할 수 있다.소식통에 따르면, 엔비디아 GPU 사용 여부와 관계없이 누구나 접근할 수",
+          "summary": "엔비디아가 기업용 AI 에이전트를 위한 오픈소스 플랫폼 ‘네모클로(NemoClaw)’ 출시를 준비하는 것으로 알려졌다. 와이어드는 10일(현지시간) 정통한 소식통을 인용, 엔비디아가 최근 기업용 소프트웨어 업체들을 대상으로 네모클로 플랫폼을 소개하며 협력 가능성을 타진하고 있다고 보도했다. 네모클로는 기업이 직원 업무를 대신 수행할 AI 에이전트 배포 플랫폼이다. 이를 통해 여러 단계의 작업을 자동으로 수행하는 에이전트를 활용해 업무 자동화를 구현할 수 있다.소식통에 따르면, 엔비디아 GPU 사용 여부와 관계없이 누구나 접근할 수"
+        },
         {
           "title": "정부, 4대 과기원 중심 '지역 AX 혁신 생태계' 조성한다",
           "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148960677&call_from=rsslink",
@@ -613,19 +625,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.5-0.8B",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-0.8B",
-          "date": "2026-03-11",
-          "source": "HuggingFace",
-          "description": "• Qwen3.5-0.8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.5-0.8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.5-0.8B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "sarvamai/sarvam-30b",
           "link": "https://huggingface.co/sarvamai/sarvam-30b",
           "date": "2026-03-11",
@@ -639,15 +638,28 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.5-4B",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-4B",
+          "title": "Qwen/Qwen3.5-0.8B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-0.8B",
           "date": "2026-03-11",
           "source": "HuggingFace",
-          "description": "• Qwen3.5-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "description": "• Qwen3.5-0.8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
           "is_english": true,
-          "summary": "• Qwen3.5-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.5-4B",
+          "summary": "• Qwen3.5-0.8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.5-0.8B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/LTX-2.3-GGUF",
+          "link": "https://huggingface.co/unsloth/LTX-2.3-GGUF",
+          "date": "2026-03-11",
+          "source": "HuggingFace",
+          "description": "• LTX-2.3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "is_english": true,
+          "summary": "• LTX-2.3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/LTX-2.3-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -678,15 +690,15 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/LTX-2.3-GGUF",
-          "link": "https://huggingface.co/unsloth/LTX-2.3-GGUF",
+          "title": "Qwen/Qwen3.5-4B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-4B",
           "date": "2026-03-11",
           "source": "HuggingFace",
-          "description": "• LTX-2.3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "description": "• Qwen3.5-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
           "is_english": true,
-          "summary": "• LTX-2.3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/LTX-2.3-GGUF",
+          "summary": "• Qwen3.5-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.5-4B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -700,6 +712,19 @@
           "is_english": true,
           "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Kijai/LTX2.3_comfy",
+          "link": "https://huggingface.co/Kijai/LTX2.3_comfy",
+          "date": "2026-03-11",
+          "source": "HuggingFace",
+          "description": "• LTX2.3_comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/63297908f0b2fc94904a65b8/KnDASZbjsLio38bS9XdVQ.png",
+          "is_english": true,
+          "summary": "• LTX2.3_comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Kijai/LTX2.3_comfy",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -730,19 +755,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Kijai/LTX2.3_comfy",
-          "link": "https://huggingface.co/Kijai/LTX2.3_comfy",
-          "date": "2026-03-11",
-          "source": "HuggingFace",
-          "description": "• LTX2.3_comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/63297908f0b2fc94904a65b8/KnDASZbjsLio38bS9XdVQ.png",
-          "is_english": true,
-          "summary": "• LTX2.3_comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Kijai/LTX2.3_comfy",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Jackrong/Qwen3.5-2B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-2B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "date": "2026-03-11",
@@ -756,15 +768,15 @@
           "category": "AI Model"
         },
         {
-          "title": "HauhauCS/Qwen3.5-27B-Uncensored-HauhauCS-Aggressive",
-          "link": "https://huggingface.co/HauhauCS/Qwen3.5-27B-Uncensored-HauhauCS-Aggressive",
+          "title": "RuneXX/LTX-2.3-Workflows",
+          "link": "https://huggingface.co/RuneXX/LTX-2.3-Workflows",
           "date": "2026-03-11",
           "source": "HuggingFace",
-          "description": "• Qwen3.5-27B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "description": "• LTX-2.3-Workflows 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• Qwen3.5-27B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HauhauCS/Qwen3.5-27B-Uncensored-HauhauCS-Aggressive",
+          "summary": "• LTX-2.3-Workflows 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "RuneXX/LTX-2.3-Workflows",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
