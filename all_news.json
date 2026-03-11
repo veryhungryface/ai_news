@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-03-12",
-      "update_time": "2026-03-11 18:42:41",
+      "update_time": "2026-03-11 21:23:36",
       "news": [
+        {
+          "title": "서울시, AI 체험형 '디지털동행플라자 동대문센터' 개관",
+          "link": "https://www.yna.co.kr/view/AKR20260311141300004",
+          "date": "2026-03-12",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 정수연 기자 = 서울시는 어르신들이 디지털 기술을 쉽게 배우고 활용할 수 있게 지원하는 &apos;서울디지털동행플라자 동대문센터&apos;가 개...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/03/11/AKR20260311141300004_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "서울시, AI 체험형 '디지털동행플라자 동대문센터' 개관",
+          "original_summary": "(서울=연합뉴스) 정수연 기자 = 서울시는 어르신들이 디지털 기술을 쉽게 배우고 활용할 수 있게 지원하는 &apos;서울디지털동행플라자 동대문센터&apos;가 개...",
+          "summary": "(서울=연합뉴스) 정수연 기자 = 서울시는 어르신들이 디지털 기술을 쉽게 배우고 활용할 수 있게 지원하는 &apos;서울디지털동행플라자 동대문센터&apos;가 개..."
+        },
         {
           "title": "Lightricks/LTX-2.3",
           "link": "https://huggingface.co/Lightricks/LTX-2.3",
@@ -148,19 +160,6 @@
           "category": "AI Model"
         },
         {
-          "title": "microsoft/Phi-4-reasoning-vision-15B",
-          "link": "https://huggingface.co/microsoft/Phi-4-reasoning-vision-15B",
-          "date": "2026-03-12",
-          "source": "HuggingFace",
-          "description": "• Phi-4-reasoning-vision-15B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/Microsoft-Project-0078D4?logo=microsoft",
-          "is_english": true,
-          "summary": "• Phi-4-reasoning-vision-15B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "microsoft/Phi-4-reasoning-vision-15B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Qwen3.5-35B-A3B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.5-35B-A3B-GGUF",
           "date": "2026-03-12",
@@ -183,6 +182,19 @@
           "is_english": true,
           "summary": "• LTX2.3_comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Kijai/LTX2.3_comfy",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "microsoft/Phi-4-reasoning-vision-15B",
+          "link": "https://huggingface.co/microsoft/Phi-4-reasoning-vision-15B",
+          "date": "2026-03-12",
+          "source": "HuggingFace",
+          "description": "• Phi-4-reasoning-vision-15B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/Microsoft-Project-0078D4?logo=microsoft",
+          "is_english": true,
+          "summary": "• Phi-4-reasoning-vision-15B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "microsoft/Phi-4-reasoning-vision-15B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -213,19 +225,6 @@
           "category": "AI Model"
         },
         {
-          "title": "crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
-          "link": "https://huggingface.co/crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
-          "date": "2026-03-12",
-          "source": "HuggingFace",
-          "description": "• Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5/resolve/main/banner.png",
-          "is_english": true,
-          "summary": "• Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "FireRedTeam/FireRed-Image-Edit-1.1",
           "link": "https://huggingface.co/FireRedTeam/FireRed-Image-Edit-1.1",
           "date": "2026-03-12",
@@ -239,15 +238,15 @@
           "category": "AI Model"
         },
         {
-          "title": "HauhauCS/Qwen3.5-27B-Uncensored-HauhauCS-Aggressive",
-          "link": "https://huggingface.co/HauhauCS/Qwen3.5-27B-Uncensored-HauhauCS-Aggressive",
+          "title": "crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
+          "link": "https://huggingface.co/crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
           "date": "2026-03-12",
           "source": "HuggingFace",
-          "description": "• Qwen3.5-27B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5/resolve/main/banner.png",
           "is_english": true,
-          "summary": "• Qwen3.5-27B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HauhauCS/Qwen3.5-27B-Uncensored-HauhauCS-Aggressive",
+          "summary": "• Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -263,13 +262,74 @@
           "translated_title": "HumeAI/tada-1b",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "HauhauCS/Qwen3.5-27B-Uncensored-HauhauCS-Aggressive",
+          "link": "https://huggingface.co/HauhauCS/Qwen3.5-27B-Uncensored-HauhauCS-Aggressive",
+          "date": "2026-03-12",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-27B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.5-27B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HauhauCS/Qwen3.5-27B-Uncensored-HauhauCS-Aggressive",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-03-11",
-      "update_time": "2026-03-11 18:42:38",
+      "update_time": "2026-03-11 21:23:36",
       "news": [
+        {
+          "title": "Rakuten fixes issues twice as fast with Codex",
+          "link": "https://openai.com/index/rakuten",
+          "date": "2026-03-11",
+          "source": "OpenAI",
+          "description": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Rakuten fixes issues twice as fast with Codex",
+          "original_summary": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks.",
+          "summary": "Rakuten uses Codex, the coding agent from OpenAI, to ship software faster and safer, reducing MTTR 50%, automating CI/CD reviews, and delivering full-stack builds in weeks."
+        },
+        {
+          "title": "Designing AI agents to resist prompt injection",
+          "link": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+          "date": "2026-03-11",
+          "source": "OpenAI",
+          "description": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Designing AI agents to resist prompt injection",
+          "original_summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows.",
+          "summary": "How ChatGPT defends against prompt injection and social engineering by constraining risky actions and protecting sensitive data in agent workflows."
+        },
+        {
+          "title": "Replit snags $9B valuation 6 months after hitting $3B",
+          "link": "https://techcrunch.com/2026/03/11/replit-snags-9b-valuation-6-months-after-hitting-3b/",
+          "date": "2026-03-11",
+          "source": "TechCrunch",
+          "description": "Replit raised a new $400 million round and said it hopes to have $1B in ARR by year's end.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/09/Replit-founder-CEO-Amjad-Masad.png?resize=1200,715",
+          "is_english": true,
+          "original_title": "Replit snags $9B valuation 6 months after hitting $3B",
+          "original_summary": "Replit raised a new $400 million round and said it hopes to have $1B in ARR by year's end.",
+          "summary": "Replit raised a new $400 million round and said it hopes to have $1B in ARR by year's end."
+        },
+        {
+          "title": "Meta’s Moltbook deal points to a future built around AI agents",
+          "link": "https://techcrunch.com/2026/03/11/metas-moltbook-deal-points-to-a-future-built-around-ai-agents/",
+          "date": "2026-03-11",
+          "source": "TechCrunch",
+          "description": "Meta’s Moltbook acquisition may look odd at first, but the deal could signal how Meta sees AI agents shaping future advertising and commerce on an agentic web.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/moltbook-GettyImages-2260137814.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Meta’s Moltbook deal points to a future built around AI agents",
+          "original_summary": "Meta’s Moltbook acquisition may look odd at first, but the deal could signal how Meta sees AI agents shaping future advertising and commerce on an agentic web.",
+          "summary": "Meta’s Moltbook acquisition may look odd at first, but the deal could signal how Meta sees AI agents shaping future advertising and commerce on an agentic web."
+        },
         {
           "title": "From model to agent: Equipping the Responses API with a computer environment",
           "link": "https://openai.com/index/equip-responses-api-computer-environment",
