@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-03-12",
-      "update_time": "2026-03-11 15:39:07",
+      "update_time": "2026-03-11 18:42:41",
       "news": [
         {
           "title": "Lightricks/LTX-2.3",
@@ -174,6 +174,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Kijai/LTX2.3_comfy",
+          "link": "https://huggingface.co/Kijai/LTX2.3_comfy",
+          "date": "2026-03-12",
+          "source": "HuggingFace",
+          "description": "• LTX2.3_comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/63297908f0b2fc94904a65b8/KnDASZbjsLio38bS9XdVQ.png",
+          "is_english": true,
+          "summary": "• LTX2.3_comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Kijai/LTX2.3_comfy",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "date": "2026-03-12",
@@ -200,15 +213,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Kijai/LTX2.3_comfy",
-          "link": "https://huggingface.co/Kijai/LTX2.3_comfy",
+          "title": "crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
+          "link": "https://huggingface.co/crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
           "date": "2026-03-12",
           "source": "HuggingFace",
-          "description": "• LTX2.3_comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/63297908f0b2fc94904a65b8/KnDASZbjsLio38bS9XdVQ.png",
+          "description": "• Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5/resolve/main/banner.png",
           "is_english": true,
-          "summary": "• LTX2.3_comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Kijai/LTX2.3_comfy",
+          "summary": "• Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -226,32 +239,6 @@
           "category": "AI Model"
         },
         {
-          "title": "crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
-          "link": "https://huggingface.co/crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
-          "date": "2026-03-12",
-          "source": "HuggingFace",
-          "description": "• Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5/resolve/main/banner.png",
-          "is_english": true,
-          "summary": "• Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "RuneXX/LTX-2.3-Workflows",
-          "link": "https://huggingface.co/RuneXX/LTX-2.3-Workflows",
-          "date": "2026-03-12",
-          "source": "HuggingFace",
-          "description": "• LTX-2.3-Workflows 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• LTX-2.3-Workflows 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "RuneXX/LTX-2.3-Workflows",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "HauhauCS/Qwen3.5-27B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.5-27B-Uncensored-HauhauCS-Aggressive",
           "date": "2026-03-12",
@@ -263,13 +250,86 @@
           "translated_title": "HauhauCS/Qwen3.5-27B-Uncensored-HauhauCS-Aggressive",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "HumeAI/tada-1b",
+          "link": "https://huggingface.co/HumeAI/tada-1b",
+          "date": "2026-03-12",
+          "source": "HuggingFace",
+          "description": "• tada-1b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/arXiv-Paper-b31b1b.svg",
+          "is_english": true,
+          "summary": "• tada-1b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HumeAI/tada-1b",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-03-11",
-      "update_time": "2026-03-11 15:39:04",
+      "update_time": "2026-03-11 18:42:38",
       "news": [
+        {
+          "title": "From model to agent: Equipping the Responses API with a computer environment",
+          "link": "https://openai.com/index/equip-responses-api-computer-environment",
+          "date": "2026-03-11",
+          "source": "OpenAI",
+          "description": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
+          "image": null,
+          "is_english": true,
+          "original_title": "From model to agent: Equipping the Responses API with a computer environment",
+          "original_summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state.",
+          "summary": "How OpenAI built an agent runtime using the Responses API, shell tool, and hosted containers to run secure, scalable agents with files, tools, and state."
+        },
+        {
+          "title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+          "link": "https://openai.com/index/wayfair",
+          "date": "2026-03-11",
+          "source": "OpenAI",
+          "description": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Wayfair boosts catalog accuracy and support speed with OpenAI",
+          "original_summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale.",
+          "summary": "Wayfair uses OpenAI models to improve ecommerce support and product catalog accuracy, automating ticket triage and enhancing millions of product attributes at scale."
+        },
+        {
+          "title": "WordPress debuts a private workspace that runs in your browser via a new service, my.WordPress.net",
+          "link": "https://techcrunch.com/2026/03/11/wordpress-debuts-a-private-workspace-that-runs-in-your-browser-via-a-new-service-my-wordpress-net/",
+          "date": "2026-03-11",
+          "source": "TechCrunch",
+          "description": "WordPress’s new browser-based service lets users create private sites without hosting or signing up, turning the platform into a personal workspace for writing, research, and AI tools.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/image1-revised.webp?resize=1200,493",
+          "is_english": true,
+          "original_title": "WordPress debuts a private workspace that runs in your browser via a new service, my.WordPress.net",
+          "original_summary": "WordPress’s new browser-based service lets users create private sites without hosting or signing up, turning the platform into a personal workspace for writing, research, and AI tools.",
+          "summary": "WordPress’s new browser-based service lets users create private sites without hosting or signing up, turning the platform into a personal workspace for writing, research, and AI tools."
+        },
+        {
+          "title": "Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots",
+          "link": "https://techcrunch.com/2026/03/11/rivian-mind-robotics-series-a-500m-fund-raise-industrial-ai-powered-robots/",
+          "date": "2026-03-11",
+          "source": "TechCrunch",
+          "description": "The startup, which was created by Rivian founder RJ Scaringe, is looking to train on data from, and deploy in, Rivian's factory. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/12/rj-scaringe.jpeg?resize=1200,900",
+          "is_english": true,
+          "original_title": "Rivian spin-out Mind Robotics raises $500M for industrial AI-powered robots",
+          "original_summary": "The startup, which was created by Rivian founder RJ Scaringe, is looking to train on data from, and deploy in, Rivian's factory. ",
+          "summary": "The startup, which was created by Rivian founder RJ Scaringe, is looking to train on data from, and deploy in, Rivian's factory. "
+        },
+        {
+          "title": "New MIT class uses anthropology to improve chatbots",
+          "link": "https://news.mit.edu/2026/mit-class-uses-anthropology-to-improve-chatbots-0311",
+          "date": "2026-03-11",
+          "source": "MIT News",
+          "description": "MIT computer science students design AI chatbots to help young users become more social, and socially confident. ",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/MIT-morningside-chatbots.jpg?itok=XOu2ryQK",
+          "is_english": true,
+          "original_title": "New MIT class uses anthropology to improve chatbots",
+          "original_summary": "MIT computer science students design AI chatbots to help young users become more social, and socially confident. ",
+          "summary": "MIT computer science students design AI chatbots to help young users become more social, and socially confident. "
+        },
         {
           "title": "Meta didn’t buy Moltbook for bots — it bought into the agentic web",
           "link": "https://techcrunch.com/2026/03/11/meta-didnt-buy-moltbook-for-bots-it-bought-into-the-agentic-web/",
@@ -8125,7 +8185,7 @@
         {
           "title": "Qwen/Qwen3.5-35B-A3B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
-          "date": "2026-03-03",
+          "date": "2026-03-12",
           "source": "HuggingFace",
           "description": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -8151,7 +8211,7 @@
         {
           "title": "unsloth/Qwen3.5-35B-A3B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.5-35B-A3B-GGUF",
-          "date": "2026-03-03",
+          "date": "2026-03-12",
           "source": "HuggingFace",
           "description": "• 후깅페이스에 Qwen3.5 신규 모델 공개\n• 로컬 환경에서 고성능 추론 지원\n• 이미지와 텍스트 복합 처리 가능\n• 최적화된 정밀도 구현 성능 입증",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
