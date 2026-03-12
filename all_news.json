@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-03-13",
-      "update_time": "2026-03-12 15:47:28",
+      "update_time": "2026-03-12 18:39:40",
       "news": [
+        {
+          "title": "AI Safety From a Hardware Perspective",
+          "link": "https://aibusiness.com/responsible-ai/ai-safety-from-a-hardware-perspective",
+          "date": "2026-03-13",
+          "source": "AI Business",
+          "description": "Lenovo engineers are thinking about safety issues related to building and deploying personal agents on laptops and PCs.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt48bd9ef985fb80b7/69b303170e51ba062e0b6990/Lenovo2.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "AI Safety From a Hardware Perspective",
+          "original_summary": "Lenovo engineers are thinking about safety issues related to building and deploying personal agents on laptops and PCs.",
+          "summary": "Lenovo engineers are thinking about safety issues related to building and deploying personal agents on laptops and PCs."
+        },
         {
           "title": "Lightricks/LTX-2.3",
           "link": "https://huggingface.co/Lightricks/LTX-2.3",
@@ -83,19 +95,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/LTX-2.3-GGUF",
-          "link": "https://huggingface.co/unsloth/LTX-2.3-GGUF",
-          "date": "2026-03-13",
-          "source": "HuggingFace",
-          "description": "• LTX-2.3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
-          "is_english": true,
-          "summary": "• LTX-2.3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/LTX-2.3-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "sarvamai/sarvam-30b",
           "link": "https://huggingface.co/sarvamai/sarvam-30b",
           "date": "2026-03-13",
@@ -105,6 +104,19 @@
           "is_english": true,
           "summary": "• sarvam-30b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "sarvamai/sarvam-30b",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/LTX-2.3-GGUF",
+          "link": "https://huggingface.co/unsloth/LTX-2.3-GGUF",
+          "date": "2026-03-13",
+          "source": "HuggingFace",
+          "description": "• LTX-2.3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "is_english": true,
+          "summary": "• LTX-2.3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/LTX-2.3-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -122,19 +134,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.5-35B-A3B",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
-          "date": "2026-03-13",
-          "source": "HuggingFace",
-          "description": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
-          "translated_title": "Qwen/Qwen3.5-35B-A3B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "date": "2026-03-13",
@@ -144,19 +143,6 @@
           "is_english": true,
           "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "Kijai/LTX2.3_comfy",
-          "link": "https://huggingface.co/Kijai/LTX2.3_comfy",
-          "date": "2026-03-13",
-          "source": "HuggingFace",
-          "description": "• LTX2.3_comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/63297908f0b2fc94904a65b8/KnDASZbjsLio38bS9XdVQ.png",
-          "is_english": true,
-          "summary": "• LTX2.3_comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Kijai/LTX2.3_comfy",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -174,6 +160,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Qwen/Qwen3.5-35B-A3B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
+          "date": "2026-03-13",
+          "source": "HuggingFace",
+          "description": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
+          "translated_title": "Qwen/Qwen3.5-35B-A3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "HumeAI/tada-1b",
           "link": "https://huggingface.co/HumeAI/tada-1b",
           "date": "2026-03-13",
@@ -187,28 +186,15 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.5-35B-A3B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.5-35B-A3B-GGUF",
+          "title": "Kijai/LTX2.3_comfy",
+          "link": "https://huggingface.co/Kijai/LTX2.3_comfy",
           "date": "2026-03-13",
           "source": "HuggingFace",
-          "description": "• 후깅페이스에 Qwen3.5 신규 모델 공개\n• 로컬 환경에서 고성능 추론 지원\n• 이미지와 텍스트 복합 처리 가능\n• 최적화된 정밀도 구현 성능 입증",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "description": "• LTX2.3_comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/63297908f0b2fc94904a65b8/KnDASZbjsLio38bS9XdVQ.png",
           "is_english": true,
-          "summary": "• 후깅페이스에 Qwen3.5 신규 모델 공개\n• 로컬 환경에서 고성능 추론 지원\n• 이미지와 텍스트 복합 처리 가능\n• 최적화된 정밀도 구현 성능 입증",
-          "translated_title": "unsloth/Qwen3.5-35B-A3B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
-          "link": "https://huggingface.co/crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
-          "date": "2026-03-13",
-          "source": "HuggingFace",
-          "description": "• Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5/resolve/main/banner.png",
-          "is_english": true,
-          "summary": "• Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
+          "summary": "• LTX2.3_comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Kijai/LTX2.3_comfy",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -226,15 +212,28 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.5-4B",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-4B",
+          "title": "crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
+          "link": "https://huggingface.co/crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
           "date": "2026-03-13",
           "source": "HuggingFace",
-          "description": "• Qwen3.5-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "description": "• Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5/resolve/main/banner.png",
+          "is_english": true,
+          "summary": "• Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "crownelius/Crow-9B-Opus-4.6-Distill-Heretic_Qwen3.5",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/Qwen3.5-35B-A3B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.5-35B-A3B-GGUF",
+          "date": "2026-03-13",
+          "source": "HuggingFace",
+          "description": "• 후깅페이스에 Qwen3.5 신규 모델 공개\n• 로컬 환경에서 고성능 추론 지원\n• 이미지와 텍스트 복합 처리 가능\n• 최적화된 정밀도 구현 성능 입증",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
           "is_english": true,
-          "summary": "• Qwen3.5-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.5-4B",
+          "summary": "• 후깅페이스에 Qwen3.5 신규 모델 공개\n• 로컬 환경에서 고성능 추론 지원\n• 이미지와 텍스트 복합 처리 가능\n• 최적화된 정밀도 구현 성능 입증",
+          "translated_title": "unsloth/Qwen3.5-35B-A3B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -263,13 +262,86 @@
           "translated_title": "HauhauCS/Qwen3.5-27B-Uncensored-HauhauCS-Aggressive",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.5-4B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-4B",
+          "date": "2026-03-13",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• Qwen3.5-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.5-4B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-03-12",
-      "update_time": "2026-03-12 15:47:28",
+      "update_time": "2026-03-12 18:39:40",
       "news": [
+        {
+          "title": "Facebook Marketplace now lets Meta AI respond to buyers’ messages",
+          "link": "https://techcrunch.com/2026/03/12/facebook-marketplace-now-lets-meta-ai-respond-to-buyers-messages/",
+          "date": "2026-03-12",
+          "source": "TechCrunch",
+          "description": "When buyers inquire about an item’s availability, sellers can use Meta AI to automatically draft replies using information from their listing, such as the description, availability, pickup location, and price.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/Facebook-Marketplace-Selling-Updates_Header.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "Facebook Marketplace now lets Meta AI respond to buyers’ messages",
+          "original_summary": "When buyers inquire about an item’s availability, sellers can use Meta AI to automatically draft replies using information from their listing, such as the description, availability, pickup location, and price.",
+          "summary": "When buyers inquire about an item’s availability, sellers can use Meta AI to automatically draft replies using information from their listing, such as the description, availability, pickup location, and price."
+        },
+        {
+          "title": "Tinder tries to lure people back to online dating with IRL events, virtual speed dating",
+          "link": "https://techcrunch.com/2026/03/12/tinder-tries-to-lure-people-back-to-online-dating-with-irl-events-virtual-speed-dating/",
+          "date": "2026-03-12",
+          "source": "TechCrunch",
+          "description": "Tinder just got a major revamp as it attempts to re-engange its user base and attract younger daters. This includes in-person events, AI enhancements, and even virtual speed dating.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/Tinder-revamp2026.png?w=1200",
+          "is_english": true,
+          "original_title": "Tinder tries to lure people back to online dating with IRL events, virtual speed dating",
+          "original_summary": "Tinder just got a major revamp as it attempts to re-engange its user base and attract younger daters. This includes in-person events, AI enhancements, and even virtual speed dating.",
+          "summary": "Tinder just got a major revamp as it attempts to re-engange its user base and attract younger daters. This includes in-person events, AI enhancements, and even virtual speed dating."
+        },
+        {
+          "title": "Atlassian follows Block’s footsteps and cuts staff in the name of AI",
+          "link": "https://techcrunch.com/2026/03/12/atlassian-follows-blocks-footsteps-and-cuts-staff-in-the-name-of-ai/",
+          "date": "2026-03-12",
+          "source": "TechCrunch",
+          "description": "Atlassian laid off 10% of its workforce, around 1,600 people, as the company looks to funnel more funds to AI. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2147914845.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Atlassian follows Block’s footsteps and cuts staff in the name of AI",
+          "original_summary": "Atlassian laid off 10% of its workforce, around 1,600 people, as the company looks to funnel more funds to AI. ",
+          "summary": "Atlassian laid off 10% of its workforce, around 1,600 people, as the company looks to funnel more funds to AI. "
+        },
+        {
+          "title": "Bumble to launch an AI dating assistant, ‘Bee’",
+          "link": "https://techcrunch.com/2026/03/12/bumble-to-launch-an-ai-dating-assistant-bee/",
+          "date": "2026-03-12",
+          "source": "TechCrunch",
+          "description": "Bumble's new AI assistant Bee will move the dating app beyond the swipe by matching people based on compatibility and goals. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/04/Bumble-new-logo.jpg?resize=1200,810",
+          "is_english": true,
+          "original_title": "Bumble to launch an AI dating assistant, ‘Bee’",
+          "original_summary": "Bumble's new AI assistant Bee will move the dating app beyond the swipe by matching people based on compatibility and goals. ",
+          "summary": "Bumble's new AI assistant Bee will move the dating app beyond the swipe by matching people based on compatibility and goals. "
+        },
+        {
+          "title": "A writer is suing Grammarly for turning her and other authors into ‘AI editors’ without consent",
+          "link": "https://techcrunch.com/2026/03/12/a-writer-is-suing-grammarly-for-turning-her-and-other-authors-into-ai-editors-without-consent/",
+          "date": "2026-03-12",
+          "source": "TechCrunch",
+          "description": "Journalist Julia Angwin is leading a class action lawsuit against Grammarly for violating her privacy and publicity rights.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-1466243153.jpg?resize=1200,705",
+          "is_english": true,
+          "original_title": "A writer is suing Grammarly for turning her and other authors into ‘AI editors’ without consent",
+          "original_summary": "Journalist Julia Angwin is leading a class action lawsuit against Grammarly for violating her privacy and publicity rights.",
+          "summary": "Journalist Julia Angwin is leading a class action lawsuit against Grammarly for violating her privacy and publicity rights."
+        },
         {
           "title": "Gumloop lands $50M from Benchmark to turn every employee into an AI agent builder",
           "link": "https://techcrunch.com/2026/03/12/gumloop-lands-50m-from-benchmark-to-turn-every-employee-into-an-ai-agent-builder/",
@@ -8101,7 +8173,7 @@
         {
           "title": "Qwen/Qwen3.5-35B-A3B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
-          "date": "2026-03-04",
+          "date": "2026-03-13",
           "source": "HuggingFace",
           "description": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -8114,7 +8186,7 @@
         {
           "title": "Qwen/Qwen3.5-9B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-9B",
-          "date": "2026-03-04",
+          "date": "2026-03-13",
           "source": "HuggingFace",
           "description": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -8127,7 +8199,7 @@
         {
           "title": "unsloth/Qwen3.5-35B-A3B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.5-35B-A3B-GGUF",
-          "date": "2026-03-04",
+          "date": "2026-03-13",
           "source": "HuggingFace",
           "description": "• 후깅페이스에 Qwen3.5 신규 모델 공개\n• 로컬 환경에서 고성능 추론 지원\n• 이미지와 텍스트 복합 처리 가능\n• 최적화된 정밀도 구현 성능 입증",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -8153,7 +8225,7 @@
         {
           "title": "Qwen/Qwen3.5-0.8B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-0.8B",
-          "date": "2026-03-04",
+          "date": "2026-03-13",
           "source": "HuggingFace",
           "description": "• Qwen3.5-0.8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -8166,7 +8238,7 @@
         {
           "title": "Qwen/Qwen3.5-4B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-4B",
-          "date": "2026-03-04",
+          "date": "2026-03-13",
           "source": "HuggingFace",
           "description": "• Qwen3.5-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -8270,7 +8342,7 @@
         {
           "title": "unsloth/Qwen3.5-9B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.5-9B-GGUF",
-          "date": "2026-03-04",
+          "date": "2026-03-13",
           "source": "HuggingFace",
           "description": "• Qwen3.5-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
