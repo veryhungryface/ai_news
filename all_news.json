@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-03-13",
-      "update_time": "2026-03-12 18:39:40",
+      "update_time": "2026-03-12 21:23:47",
       "news": [
         {
           "title": "AI Safety From a Hardware Perspective",
@@ -134,19 +134,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "date": "2026-03-13",
-          "source": "HuggingFace",
-          "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
-          "is_english": true,
-          "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16",
           "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16",
           "date": "2026-03-13",
@@ -160,15 +147,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.5-35B-A3B",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
+          "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+          "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "date": "2026-03-13",
           "source": "HuggingFace",
-          "description": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
           "is_english": true,
-          "summary": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
-          "translated_title": "Qwen/Qwen3.5-35B-A3B",
+          "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -186,15 +173,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Kijai/LTX2.3_comfy",
-          "link": "https://huggingface.co/Kijai/LTX2.3_comfy",
+          "title": "Qwen/Qwen3.5-35B-A3B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
           "date": "2026-03-13",
           "source": "HuggingFace",
-          "description": "• LTX2.3_comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/63297908f0b2fc94904a65b8/KnDASZbjsLio38bS9XdVQ.png",
+          "description": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
           "is_english": true,
-          "summary": "• LTX2.3_comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Kijai/LTX2.3_comfy",
+          "summary": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
+          "translated_title": "Qwen/Qwen3.5-35B-A3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -225,6 +212,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Kijai/LTX2.3_comfy",
+          "link": "https://huggingface.co/Kijai/LTX2.3_comfy",
+          "date": "2026-03-13",
+          "source": "HuggingFace",
+          "description": "• LTX2.3_comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/63297908f0b2fc94904a65b8/KnDASZbjsLio38bS9XdVQ.png",
+          "is_english": true,
+          "summary": "• LTX2.3_comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Kijai/LTX2.3_comfy",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "unsloth/Qwen3.5-35B-A3B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.5-35B-A3B-GGUF",
           "date": "2026-03-13",
@@ -234,19 +234,6 @@
           "is_english": true,
           "summary": "• 후깅페이스에 Qwen3.5 신규 모델 공개\n• 로컬 환경에서 고성능 추론 지원\n• 이미지와 텍스트 복합 처리 가능\n• 최적화된 정밀도 구현 성능 입증",
           "translated_title": "unsloth/Qwen3.5-35B-A3B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "Qwen/Qwen3.5-0.8B",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-0.8B",
-          "date": "2026-03-13",
-          "source": "HuggingFace",
-          "description": "• Qwen3.5-0.8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.5-0.8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.5-0.8B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -273,6 +260,19 @@
           "is_english": true,
           "summary": "• Qwen3.5-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.5-4B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.5-0.8B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-0.8B",
+          "date": "2026-03-13",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-0.8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• Qwen3.5-0.8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.5-0.8B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
