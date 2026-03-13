@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-03-14",
-      "update_time": "2026-03-13 18:29:20",
+      "update_time": "2026-03-13 21:24:57",
       "news": [
         {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
@@ -122,19 +122,6 @@
           "category": "AI Model"
         },
         {
-          "title": "sarvamai/sarvam-30b",
-          "link": "https://huggingface.co/sarvamai/sarvam-30b",
-          "date": "2026-03-14",
-          "source": "HuggingFace",
-          "description": "• sarvam-30b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/60270a7c32856987162c641a/SivoCJWJqex41oprnwyuK.png",
-          "is_english": true,
-          "summary": "• sarvam-30b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "sarvamai/sarvam-30b",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/LTX-2.3-GGUF",
           "link": "https://huggingface.co/unsloth/LTX-2.3-GGUF",
           "date": "2026-03-14",
@@ -170,6 +157,19 @@
           "is_english": true,
           "summary": "• OmniCoder-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Tesslate/OmniCoder-9B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "sarvamai/sarvam-30b",
+          "link": "https://huggingface.co/sarvamai/sarvam-30b",
+          "date": "2026-03-14",
+          "source": "HuggingFace",
+          "description": "• sarvam-30b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/60270a7c32856987162c641a/SivoCJWJqex41oprnwyuK.png",
+          "is_english": true,
+          "summary": "• sarvam-30b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "sarvamai/sarvam-30b",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +268,44 @@
     },
     {
       "date": "2026-03-13",
-      "update_time": "2026-03-13 18:29:17",
+      "update_time": "2026-03-13 21:24:57",
       "news": [
+        {
+          "title": "[게시판] 셀렉트스타, GSMA ‘오픈 텔코 AI’ 파트너사 합류 등 단신",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207863",
+          "date": "2026-03-13",
+          "source": "AI타임스",
+          "description": "■ 셀렉트스타(대표 김세엽)는 세계이동통신사업자연합회(GSMA)가 출범한 글로벌 연합체 ‘오픈 텔코 AI‘에 데이터 및 AI 평가 공식 파트너로 합류했다고 밝혔다. 국내에서는 SK텔레콤, LG유플러스를 포함해 스타트업은 셀렉트스타가 유일하다. 통신 산업에 맞춤화된 7가지 평가 지표 기반 벤치마크 운영과 AI 신뢰성 평가 및 레드티밍 서비스를 제공할 계획이다.■ 크라우드웍스(대표 김광일)는 과학기술정보통신부와 정보통신산업진흥원(NIPA)이 주관하는 ‘2026년 AI 통합 바우처 지원사업’의 공급기업으로 2년 연속 선정됐다고 밝혔다.",
+          "image": "https://cdn.aitimes.com/news/photo/202603/207863_210015_121.png",
+          "is_english": false,
+          "original_title": "[게시판] 셀렉트스타, GSMA ‘오픈 텔코 AI’ 파트너사 합류 등 단신",
+          "original_summary": "■ 셀렉트스타(대표 김세엽)는 세계이동통신사업자연합회(GSMA)가 출범한 글로벌 연합체 ‘오픈 텔코 AI‘에 데이터 및 AI 평가 공식 파트너로 합류했다고 밝혔다. 국내에서는 SK텔레콤, LG유플러스를 포함해 스타트업은 셀렉트스타가 유일하다. 통신 산업에 맞춤화된 7가지 평가 지표 기반 벤치마크 운영과 AI 신뢰성 평가 및 레드티밍 서비스를 제공할 계획이다.■ 크라우드웍스(대표 김광일)는 과학기술정보통신부와 정보통신산업진흥원(NIPA)이 주관하는 ‘2026년 AI 통합 바우처 지원사업’의 공급기업으로 2년 연속 선정됐다고 밝혔다.",
+          "summary": "■ 셀렉트스타(대표 김세엽)는 세계이동통신사업자연합회(GSMA)가 출범한 글로벌 연합체 ‘오픈 텔코 AI‘에 데이터 및 AI 평가 공식 파트너로 합류했다고 밝혔다. 국내에서는 SK텔레콤, LG유플러스를 포함해 스타트업은 셀렉트스타가 유일하다. 통신 산업에 맞춤화된 7가지 평가 지표 기반 벤치마크 운영과 AI 신뢰성 평가 및 레드티밍 서비스를 제공할 계획이다.■ 크라우드웍스(대표 김광일)는 과학기술정보통신부와 정보통신산업진흥원(NIPA)이 주관하는 ‘2026년 AI 통합 바우처 지원사업’의 공급기업으로 2년 연속 선정됐다고 밝혔다."
+        },
+        {
+          "title": "Steven Spielberg says he’s ‘never used AI’ in any of his films",
+          "link": "https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/",
+          "date": "2026-03-13",
+          "source": "TechCrunch",
+          "description": "At SXSW, Steven Spielberg said AI has uses in many fields, but not when it comes to replacing creative people in film and TV writing.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/steven-spielberg-GettyImages-2260428164.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Steven Spielberg says he’s ‘never used AI’ in any of his films",
+          "original_summary": "At SXSW, Steven Spielberg said AI has uses in many fields, but not when it comes to replacing creative people in film and TV writing.",
+          "summary": "At SXSW, Steven Spielberg said AI has uses in many fields, but not when it comes to replacing creative people in film and TV writing."
+        },
+        {
+          "title": "The biggest AI stories of the year (so far)",
+          "link": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/",
+          "date": "2026-03-13",
+          "source": "TechCrunch",
+          "description": "The AI industry is constantly churning out news, like major acquisitions, indie developer successes, public outcry, and existentially dangerous contract negotiations.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
+          "is_english": true,
+          "original_title": "The biggest AI stories of the year (so far)",
+          "original_summary": "The AI industry is constantly churning out news, like major acquisitions, indie developer successes, public outcry, and existentially dangerous contract negotiations.",
+          "summary": "The AI industry is constantly churning out news, like major acquisitions, indie developer successes, public outcry, and existentially dangerous contract negotiations."
+        },
         {
           "title": "The wild six weeks for NanoClaw’s creator that led to a deal with Docker",
           "link": "https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/",
