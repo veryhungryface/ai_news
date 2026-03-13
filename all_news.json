@@ -2,8 +2,56 @@
   "dates": [
     {
       "date": "2026-03-13",
-      "update_time": "2026-03-13 01:09:55",
+      "update_time": "2026-03-13 04:28:52",
       "news": [
+        {
+          "title": "서버 사이드인가, 클라이언트 사이드인가…현대 웹 아키텍처의 해법",
+          "link": "https://www.itworld.co.kr/article/4144724/%ec%84%9c%eb%b2%84-%ec%82%ac%ec%9d%b4%eb%93%9c%ec%9d%b8%ea%b0%80-%ed%81%b4%eb%9d%bc%ec%9d%b4%ec%96%b8%ed%8a%b8-%ec%82%ac%ec%9d%b4%eb%93%9c%ec%9d%b8%ea%b0%80%ed%98%84%eb%8c%80-%ec%9b%b9.html",
+          "date": "2026-03-13",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n지난 수십 년 동안 웹 아키텍처는 익숙한, 솔직히 말해 이제 신물이 나는 패턴을 따라왔다. 지배적인 접근방식이 등장해 광범위하게 채택되고, 이후 실제 환경에서 균열이 드러나면서 결국 지난 접근방식이 망가뜨린 모든 것을 고치겠다고 약속하는 새로운 “모범 사례”로 대체되는 패턴이다. \n\n\n\n2000년대 초반을 주도한 서버 렌더링 방식의 모놀리식 애플리케이션에서도 이 패턴을 봤고, 2000년대 후반과 2010년대 초반 리치 클라이언트 사이드 애플리케이션을 향한 대대적인 전환에서도 봤다. 가장 명확한 사례는 브라우저에서 데스크톱과 비슷한 상호작용성을 약속했던 싱글 페이지 애플리케이션의 부상이었다. 그러나 자바스크립트 번들이 몇 메가바이트에 달하고 로딩 화면에는 아무것도 표시되지 않고 그저 페이지가 검색되도록 하기 위해 SEO 우회책에 몇 년 동안이나 의지하는 등, 실제로 이어진 결과는 많은 부분에서 약속과는 전혀 달랐다. \n\n\n\n그리고 이제 서버 사",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/03/4144724-0-14457400-1773370338-shutterstock_2187163689.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "서버 사이드인가, 클라이언트 사이드인가…현대 웹 아키텍처의 해법",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n지난 수십 년 동안 웹 아키텍처는 익숙한, 솔직히 말해 이제 신물이 나는 패턴을 따라왔다. 지배적인 접근방식이 등장해 광범위하게 채택되고, 이후 실제 환경에서 균열이 드러나면서 결국 지난 접근방식이 망가뜨린 모든 것을 고치겠다고 약속하는 새로운 “모범 사례”로 대체되는 패턴이다. \n\n\n\n2000년대 초반을 주도한 서버 렌더링 방식의 모놀리식 애플리케이션에서도 이 패턴을 봤고, 2000년대 후반과 2010년대 초반 리치 클라이언트 사이드 애플리케이션을 향한 대대적인 전환에서도 봤다. 가장 명확",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n지난 수십 년 동안 웹 아키텍처는 익숙한, 솔직히 말해 이제 신물이 나는 패턴을 따라왔다. 지배적인 접근방식이 등장해 광범위하게 채택되고, 이후 실제 환경에서 균열이 드러나면서 결국 지난 접근방식이 망가뜨린 모든 것을 고치겠다고 약속하는 새로운 “모범 사례”로 대체되는 패턴이다. \n\n\n\n2000년대 초반을 주도한 서버 렌더링 방식의 모놀리식 애플리케이션에서도 이 패턴을 봤고, 2000년대 후반과 2010년대 초반 리치 클라이언트 사이드 애플리케이션을 향한 대대적인 전환에서도 봤다. 가장 명확"
+        },
+        {
+          "title": "이제 ‘애착 경제’가 책상으로 온다",
+          "link": "https://www.itworld.co.kr/article/4144714/%ec%9d%b4%ec%a0%9c-%ec%95%a0%ec%b0%a9-%ea%b2%bd%ec%a0%9c%ea%b0%80-%ec%b1%85%ec%83%81%ec%9c%bc%eb%a1%9c-%ec%98%a8%eb%8b%a4.html",
+          "date": "2026-03-13",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n기술 기업이 사용자의 관심을 끌려면 무엇을 해야 할까? 현재는 ‘주목 경제(Attention Economy)’ 단계를 넘어 ‘애착 경제(Attachment Economy)’로 진화하고 있다.\n\n\n\n주목 경제라는 개념은 경제학자 허버트 A. 사이먼이 1971년 처음 제시했다. 사이먼은 “정보의 풍요는 관심의 빈곤을 만든다”라고 썼다. 이 개념은 처음에는 텔레비전과 광고에 적용됐지만, 소셜 네트워킹이 등장한 이번 세기에 들어 본격적으로 핵심 개념이 됐다.\n\n\n\n페이스북, 인스타그램, 유튜브, 틱톡 등 소셜 네트워크는 전적으로 주목 경제 개념에 기반한다. 소셜 네트워크는 관심을 붙잡고 유지하도록 최적화한 알고리즘으로 무한 스크롤과 푸시 알림을 제공해, 사용자가 화면에 붙들려 보내는 삶의 비중을 최대화한다.\n\n\n\n주목 경제는 이제 애착 경제라는 새로운 단계의 문턱에 와 있다. 관심만 붙잡는 방식만으로는 사용자의 시간을 둘러싼 세계적 경쟁에서 더는 이",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/03/4144714-0-13950700-1773367276-HONOR-Robot-Phone.png",
+          "is_english": false,
+          "original_title": "이제 ‘애착 경제’가 책상으로 온다",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n기술 기업이 사용자의 관심을 끌려면 무엇을 해야 할까? 현재는 ‘주목 경제(Attention Economy)’ 단계를 넘어 ‘애착 경제(Attachment Economy)’로 진화하고 있다.\n\n\n\n주목 경제라는 개념은 경제학자 허버트 A. 사이먼이 1971년 처음 제시했다. 사이먼은 “정보의 풍요는 관심의 빈곤을 만든다”라고 썼다. 이 개념은 처음에는 텔레비전과 광고에 적용됐지만, 소셜 네트워킹이 등장한 이번 세기에 들어 본격적으로 핵심 개념이 됐다.\n\n\n\n페이스북, 인스타그램, 유튜브, 틱",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n기술 기업이 사용자의 관심을 끌려면 무엇을 해야 할까? 현재는 ‘주목 경제(Attention Economy)’ 단계를 넘어 ‘애착 경제(Attachment Economy)’로 진화하고 있다.\n\n\n\n주목 경제라는 개념은 경제학자 허버트 A. 사이먼이 1971년 처음 제시했다. 사이먼은 “정보의 풍요는 관심의 빈곤을 만든다”라고 썼다. 이 개념은 처음에는 텔레비전과 광고에 적용됐지만, 소셜 네트워킹이 등장한 이번 세기에 들어 본격적으로 핵심 개념이 됐다.\n\n\n\n페이스북, 인스타그램, 유튜브, 틱"
+        },
+        {
+          "title": "클로드 소넷으로 코드 이사하기 : 파이썬에서 러스트까지",
+          "link": "https://www.itworld.co.kr/article/4144699/%ed%81%b4%eb%a1%9c%eb%93%9c-%ec%86%8c%eb%84%b7%ec%9c%bc%eb%a1%9c-%ec%bd%94%eb%93%9c-%ec%9d%b4%ec%82%ac%ed%95%98%ea%b8%b0-%ed%8c%8c%ec%9d%b4%ec%8d%ac%ec%97%90%ec%84%9c-%eb%9f%ac%ec%8a%a4%ed%8a%b8.html",
+          "date": "2026-03-13",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\nAI 기반 코드 개발 툴에 대한 보편적인 경험을 하나만 꼽으라면 툴이 마법처럼 느껴지다가, 어느 순간 엇나가면서 그 환상이 깨진다는 점이다.\n\n\n\nAI 에이전트는 코드베이스를 샅샅이 훑어보고 아키텍처와 설계 선택에 대해 놀라울 정도로 날카롭게 분석하는 모습을 보여준다. 그러다가 갑자기 스크롤 백 버퍼가 가득 차고 토큰이 바닥날 때까지 콘솔에 “CoreCoreCoreCore” 같은 이상한 문자열을 쏟아낸다.\n\n\n\nAI 기반 코딩 및 개발 툴이 발전하면서 사람들은 이러한 툴이 잘 하는 일과 못하는 일, 그리고 경우에 따라서는 하면 안 되는 일에 대해 더 확실한 감을 갖게 됐다. 이론적으로 AI 기반 툴은 단조롭거나 부담이 큰 작업, 예를 들어 테스트 생성, 리팩터링, 문서용 예제 작성 같은 작업을 수행함으로써 개발자의 역량을 더 강화해준다. 실무에서 이와 같은 “역량 강화”에는 대가가 따르는 경우가 많다. AI가 작업 초반에 쉽게 만들어준 일이 ",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/03/4144699-0-43141900-1773366218-shutterstock_2494044329.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "클로드 소넷으로 코드 이사하기 : 파이썬에서 러스트까지",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\nAI 기반 코드 개발 툴에 대한 보편적인 경험을 하나만 꼽으라면 툴이 마법처럼 느껴지다가, 어느 순간 엇나가면서 그 환상이 깨진다는 점이다.\n\n\n\nAI 에이전트는 코드베이스를 샅샅이 훑어보고 아키텍처와 설계 선택에 대해 놀라울 정도로 날카롭게 분석하는 모습을 보여준다. 그러다가 갑자기 스크롤 백 버퍼가 가득 차고 토큰이 바닥날 때까지 콘솔에 “CoreCoreCoreCore” 같은 이상한 문자열을 쏟아낸다.\n\n\n\nAI 기반 코딩 및 개발 툴이 발전하면서 사람들은 이러한 툴이 잘 하는 일과 못하",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\nAI 기반 코드 개발 툴에 대한 보편적인 경험을 하나만 꼽으라면 툴이 마법처럼 느껴지다가, 어느 순간 엇나가면서 그 환상이 깨진다는 점이다.\n\n\n\nAI 에이전트는 코드베이스를 샅샅이 훑어보고 아키텍처와 설계 선택에 대해 놀라울 정도로 날카롭게 분석하는 모습을 보여준다. 그러다가 갑자기 스크롤 백 버퍼가 가득 차고 토큰이 바닥날 때까지 콘솔에 “CoreCoreCoreCore” 같은 이상한 문자열을 쏟아낸다.\n\n\n\nAI 기반 코딩 및 개발 툴이 발전하면서 사람들은 이러한 툴이 잘 하는 일과 못하"
+        },
+        {
+          "title": "리미니스트리트, ‘2026 리미니스트리트 서밋’ 개최…AI 기반 ERP 혁신 전략 제시",
+          "link": "https://www.itworld.co.kr/article/4144679/%eb%a6%ac%eb%af%b8%eb%8b%88%ec%8a%a4%ed%8a%b8%eb%a6%ac%ed%8a%b8-2026-%eb%a6%ac%eb%af%b8%eb%8b%88%ec%8a%a4%ed%8a%b8%eb%a6%ac%ed%8a%b8-%ec%84%9c%eb%b0%8b-%ea%b0%9c%ec%b5%9cai.html",
+          "date": "2026-03-13",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n엔드투엔드 엔터프라이즈 소프트웨어 지원 기업 리미니스트리트 한국지사(지사장 김형욱)가 12일 서울 그랜드 인터컨티넨탈 서울 파르나스에서 연례 행사 ‘2026 리미니스트리트 서밋’을 개최했다고 밝혔다.\n\n\n\n이번 행사는 ‘AI 대전환 시대, 혁신 가속을 위한 실행 방법론’을 주제로, 기업이 기존 ERP와 인프라 환경을 유지하면서도 AI 기반 자동화와 운영 혁신을 추진할 수 있는 전략을 공유하는 자리로 마련됐다. 행사에는 국내 기업 CIO와 IT 리더, 재무·전략 책임자 등이 참석했다.\n\n\n\n김형욱 한국리미니스트리트 지사장은 “AI는 이제 미래 기술이 아니라 현재의 경쟁력”이라며 “기술 도입 자체가 아니라 기술을 실제 운영과 혁신 구조로 연결하는 것이 중요하다”라고 말했다. 이어 리미니스트리트는 전 세계 6300여 곳의 기업을 지원하며, 기업이 IT 비용을 절감하고 이를 혁신 투자로 전환하도록 돕고 있다고 설명했다.\n\n\n\n리미니스트리트 글로벌 C",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/03/4144679-0-82045900-1773365045-리미니스트리트-써밋-2026.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "리미니스트리트, ‘2026 리미니스트리트 서밋’ 개최…AI 기반 ERP 혁신 전략 제시",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n엔드투엔드 엔터프라이즈 소프트웨어 지원 기업 리미니스트리트 한국지사(지사장 김형욱)가 12일 서울 그랜드 인터컨티넨탈 서울 파르나스에서 연례 행사 ‘2026 리미니스트리트 서밋’을 개최했다고 밝혔다.\n\n\n\n이번 행사는 ‘AI 대전환 시대, 혁신 가속을 위한 실행 방법론’을 주제로, 기업이 기존 ERP와 인프라 환경을 유지하면서도 AI 기반 자동화와 운영 혁신을 추진할 수 있는 전략을 공유하는 자리로 마련됐다. 행사에는 국내 기업 CIO와 IT 리더, 재무·전략 책임자 등이 참석했다.\n\n\n\n김",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n엔드투엔드 엔터프라이즈 소프트웨어 지원 기업 리미니스트리트 한국지사(지사장 김형욱)가 12일 서울 그랜드 인터컨티넨탈 서울 파르나스에서 연례 행사 ‘2026 리미니스트리트 서밋’을 개최했다고 밝혔다.\n\n\n\n이번 행사는 ‘AI 대전환 시대, 혁신 가속을 위한 실행 방법론’을 주제로, 기업이 기존 ERP와 인프라 환경을 유지하면서도 AI 기반 자동화와 운영 혁신을 추진할 수 있는 전략을 공유하는 자리로 마련됐다. 행사에는 국내 기업 CIO와 IT 리더, 재무·전략 책임자 등이 참석했다.\n\n\n\n김"
+        },
         {
           "title": "AI가 산재이력 학습해 위험사업장 선별…노동부 AX 세미나 개최",
           "link": "https://www.yna.co.kr/view/AKR20260312149200530",
@@ -128,19 +176,6 @@
           "category": "AI Model"
         },
         {
-          "title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-          "link": "https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-03-13",
-          "source": "HuggingFace",
-          "description": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.5-9B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-9B",
           "date": "2026-03-13",
@@ -150,6 +185,19 @@
           "is_english": true,
           "summary": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.5-9B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+          "link": "https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+          "date": "2026-03-13",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -219,19 +267,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.5-9B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.5-9B-GGUF",
-          "date": "2026-03-13",
-          "source": "HuggingFace",
-          "description": "• Qwen3.5-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.5-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Qwen3.5-9B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "date": "2026-03-13",
@@ -245,15 +280,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.5-35B-A3B",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
+          "title": "unsloth/Qwen3.5-9B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.5-9B-GGUF",
           "date": "2026-03-13",
           "source": "HuggingFace",
-          "description": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
+          "description": "• Qwen3.5-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
           "is_english": true,
-          "summary": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
-          "translated_title": "Qwen/Qwen3.5-35B-A3B",
+          "summary": "• Qwen3.5-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Qwen3.5-9B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -267,6 +302,19 @@
           "is_english": true,
           "summary": "• Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.5-35B-A3B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
+          "date": "2026-03-13",
+          "source": "HuggingFace",
+          "description": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
+          "translated_title": "Qwen/Qwen3.5-35B-A3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -310,19 +358,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.5-4B",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-4B",
-          "date": "2026-03-13",
-          "source": "HuggingFace",
-          "description": "• Qwen3.5-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.5-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.5-4B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "HauhauCS/Qwen3.5-27B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.5-27B-Uncensored-HauhauCS-Aggressive",
           "date": "2026-03-13",
@@ -336,15 +371,28 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.5-0.8B",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-0.8B",
+          "title": "RuneXX/LTX-2.3-Workflows",
+          "link": "https://huggingface.co/RuneXX/LTX-2.3-Workflows",
           "date": "2026-03-13",
           "source": "HuggingFace",
-          "description": "• Qwen3.5-0.8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "description": "• LTX-2.3-Workflows 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• LTX-2.3-Workflows 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "RuneXX/LTX-2.3-Workflows",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.5-4B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-4B",
+          "date": "2026-03-13",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
           "is_english": true,
-          "summary": "• Qwen3.5-0.8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.5-0.8B",
+          "summary": "• Qwen3.5-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.5-4B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -352,8 +400,32 @@
     },
     {
       "date": "2026-03-12",
-      "update_time": "2026-03-13 01:09:55",
+      "update_time": "2026-03-13 04:28:52",
       "news": [
+        {
+          "title": "Bumble introduces an AI dating assistant, ‘Bee’",
+          "link": "https://techcrunch.com/2026/03/12/bumble-introduces-an-ai-dating-assistant-bee/",
+          "date": "2026-03-12",
+          "source": "TechCrunch",
+          "description": "Bumble's new AI assistant Bee will move the dating app beyond the swipe by matching people based on compatibility and goals. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/04/Bumble-new-logo.jpg?resize=1200,810",
+          "is_english": true,
+          "original_title": "Bumble introduces an AI dating assistant, ‘Bee’",
+          "original_summary": "Bumble's new AI assistant Bee will move the dating app beyond the swipe by matching people based on compatibility and goals. ",
+          "summary": "Bumble's new AI assistant Bee will move the dating app beyond the swipe by matching people based on compatibility and goals. "
+        },
+        {
+          "title": "Alexa+ gets a new ‘adults only’ personality option that curses but won’t do NSFW content",
+          "link": "https://techcrunch.com/2026/03/12/alexa-gets-a-new-adults-only-personality-option-that-curses-but-wont-do-nsfw-content/",
+          "date": "2026-03-12",
+          "source": "TechCrunch",
+          "description": "The new Sassy style can curse and roast you, but the fun ends there. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/02/alexa-plus.jpeg?resize=1200,675",
+          "is_english": true,
+          "original_title": "Alexa+ gets a new ‘adults only’ personality option that curses but won’t do NSFW content",
+          "original_summary": "The new Sassy style can curse and roast you, but the fun ends there. ",
+          "summary": "The new Sassy style can curse and roast you, but the fun ends there. "
+        },
         {
           "title": "맥북 네오 분해해보니…애플 노트북 중 수리 편의성 단연 높아",
           "link": "https://www.itworld.co.kr/article/4144629/%eb%a7%a5%eb%b6%81-%eb%84%a4%ec%98%a4-%eb%b6%84%ed%95%b4%ed%95%b4%eb%b3%b4%eb%8b%88%ec%95%a0%ed%94%8c-%eb%85%b8%ed%8a%b8%eb%b6%81-%ec%a4%91-%ec%88%98%eb%a6%ac-%ed%8e%b8%ec%9d%98%ec%84%b1.html",
@@ -2202,7 +2274,7 @@
         {
           "title": "RuneXX/LTX-2.3-Workflows",
           "link": "https://huggingface.co/RuneXX/LTX-2.3-Workflows",
-          "date": "2026-03-12",
+          "date": "2026-03-13",
           "source": "HuggingFace",
           "description": "• LTX-2.3-Workflows 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
