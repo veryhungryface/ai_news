@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-03-14",
-      "update_time": "2026-03-14 06:35:22",
+      "update_time": "2026-03-14 09:23:53",
       "news": [
+        {
+          "title": "[AI 이슈트렌드] 이재룡 '술타기' 의혹·트럼프 이란 종전 발언 등 주목",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207880",
+          "date": "2026-03-14",
+          "source": "AI타임스",
+          "description": "AI타임스와 이스트에이드의 3월 둘째 주(3월 6일~12일) 이슈 분석 결과, 연예계 사건 사고와 중동 전쟁 관련 국제 정세 등이 상위권을 차지했다.이번 주 가장 높은 검색량을 기록한 키워드는 ‘이재룡 음주운전(7.5%)’이다.배우 이재룡은 지난 6일 청담역 인근에서 음주 상태로 중앙분리대를 들이받고 현장을 이탈한 혐의를 받고 있다.특히 사고 직후 추가로 술을 마셔 경찰 수사에 혼선을 주는, 이른바 ‘술타기’ 행위로 음주측정 방해 혐의가 추가 적용됐다. 이는 트로트 가수 김호중 사건을 계기로 신설된 규정으로, 과거 전력이 있는 것으",
+          "image": "https://cdn.aitimes.com/news/photo/202603/207880_210034_2412.jpg",
+          "is_english": false,
+          "original_title": "[AI 이슈트렌드] 이재룡 '술타기' 의혹·트럼프 이란 종전 발언 등 주목",
+          "original_summary": "AI타임스와 이스트에이드의 3월 둘째 주(3월 6일~12일) 이슈 분석 결과, 연예계 사건 사고와 중동 전쟁 관련 국제 정세 등이 상위권을 차지했다.이번 주 가장 높은 검색량을 기록한 키워드는 ‘이재룡 음주운전(7.5%)’이다.배우 이재룡은 지난 6일 청담역 인근에서 음주 상태로 중앙분리대를 들이받고 현장을 이탈한 혐의를 받고 있다.특히 사고 직후 추가로 술을 마셔 경찰 수사에 혼선을 주는, 이른바 ‘술타기’ 행위로 음주측정 방해 혐의가 추가 적용됐다. 이는 트로트 가수 김호중 사건을 계기로 신설된 규정으로, 과거 전력이 있는 것으",
+          "summary": "AI타임스와 이스트에이드의 3월 둘째 주(3월 6일~12일) 이슈 분석 결과, 연예계 사건 사고와 중동 전쟁 관련 국제 정세 등이 상위권을 차지했다.이번 주 가장 높은 검색량을 기록한 키워드는 ‘이재룡 음주운전(7.5%)’이다.배우 이재룡은 지난 6일 청담역 인근에서 음주 상태로 중앙분리대를 들이받고 현장을 이탈한 혐의를 받고 있다.특히 사고 직후 추가로 술을 마셔 경찰 수사에 혼선을 주는, 이른바 ‘술타기’ 행위로 음주측정 방해 혐의가 추가 적용됐다. 이는 트로트 가수 김호중 사건을 계기로 신설된 규정으로, 과거 전력이 있는 것으"
+        },
         {
           "title": "극장 상영 AI 영화 ‘알렉산더 프로젝트’...\"5인 협업으로 작품성에 초점\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=207766",
@@ -218,28 +230,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+          "title": "LocoreMind/LocoTrainer-4B",
+          "link": "https://huggingface.co/LocoreMind/LocoTrainer-4B",
           "date": "2026-03-14",
           "source": "HuggingFace",
-          "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
+          "description": "• LocoTrainer-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white",
           "is_english": true,
-          "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "sarvamai/sarvam-105b",
-          "link": "https://huggingface.co/sarvamai/sarvam-105b",
-          "date": "2026-03-14",
-          "source": "HuggingFace",
-          "description": "• sarvam-105b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/60270a7c32856987162c641a/j1SbA6V6HixP1-6H0N41q.png",
-          "is_english": true,
-          "summary": "• sarvam-105b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "sarvamai/sarvam-105b",
+          "summary": "• LocoTrainer-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "LocoreMind/LocoTrainer-4B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -257,6 +256,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+          "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+          "date": "2026-03-14",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
+          "is_english": true,
+          "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
           "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
           "date": "2026-03-14",
@@ -270,6 +282,19 @@
           "category": "AI Model"
         },
         {
+          "title": "sarvamai/sarvam-105b",
+          "link": "https://huggingface.co/sarvamai/sarvam-105b",
+          "date": "2026-03-14",
+          "source": "HuggingFace",
+          "description": "• sarvam-105b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/60270a7c32856987162c641a/j1SbA6V6HixP1-6H0N41q.png",
+          "is_english": true,
+          "summary": "• sarvam-105b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "sarvamai/sarvam-105b",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-FP8",
           "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-FP8",
           "date": "2026-03-14",
@@ -279,6 +304,19 @@
           "is_english": true,
           "summary": "• NVIDIA-Nemotron-3-Super-120B-A12B-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-FP8",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.5-35B-A3B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
+          "date": "2026-03-14",
+          "source": "HuggingFace",
+          "description": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
+          "translated_title": "Qwen/Qwen3.5-35B-A3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -309,32 +347,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.5-35B-A3B",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
-          "date": "2026-03-14",
-          "source": "HuggingFace",
-          "description": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
-          "translated_title": "Qwen/Qwen3.5-35B-A3B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "LocoreMind/LocoTrainer-4B",
-          "link": "https://huggingface.co/LocoreMind/LocoTrainer-4B",
-          "date": "2026-03-14",
-          "source": "HuggingFace",
-          "description": "• LocoTrainer-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white",
-          "is_english": true,
-          "summary": "• LocoTrainer-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "LocoreMind/LocoTrainer-4B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "RuneXX/LTX-2.3-Workflows",
           "link": "https://huggingface.co/RuneXX/LTX-2.3-Workflows",
           "date": "2026-03-14",
@@ -348,15 +360,15 @@
           "category": "AI Model"
         },
         {
-          "title": "ibm-granite/granite-4.0-1b-speech",
-          "link": "https://huggingface.co/ibm-granite/granite-4.0-1b-speech",
+          "title": "Kijai/LTX2.3_comfy",
+          "link": "https://huggingface.co/Kijai/LTX2.3_comfy",
           "date": "2026-03-14",
           "source": "HuggingFace",
-          "description": "• granite-4.0-1b-speech 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/666ec38102791b3b49f453e8/KvRYoVoAWlMm0GrcdBWkR.png",
+          "description": "• LTX2.3_comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/63297908f0b2fc94904a65b8/KnDASZbjsLio38bS9XdVQ.png",
           "is_english": true,
-          "summary": "• granite-4.0-1b-speech 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ibm-granite/granite-4.0-1b-speech",
+          "summary": "• LTX2.3_comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Kijai/LTX2.3_comfy",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -4050,7 +4062,7 @@
         {
           "title": "Kijai/LTX2.3_comfy",
           "link": "https://huggingface.co/Kijai/LTX2.3_comfy",
-          "date": "2026-03-13",
+          "date": "2026-03-14",
           "source": "HuggingFace",
           "description": "• LTX2.3_comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/63297908f0b2fc94904a65b8/KnDASZbjsLio38bS9XdVQ.png",
