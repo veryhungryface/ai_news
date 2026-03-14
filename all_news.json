@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-03-14",
-      "update_time": "2026-03-14 04:28:17",
+      "update_time": "2026-03-14 06:35:22",
       "news": [
         {
           "title": "극장 상영 AI 영화 ‘알렉산더 프로젝트’...\"5인 협업으로 작품성에 초점\"",
@@ -205,19 +205,6 @@
           "category": "AI Model"
         },
         {
-          "title": "sarvamai/sarvam-105b",
-          "link": "https://huggingface.co/sarvamai/sarvam-105b",
-          "date": "2026-03-14",
-          "source": "HuggingFace",
-          "description": "• sarvam-105b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/60270a7c32856987162c641a/j1SbA6V6HixP1-6H0N41q.png",
-          "is_english": true,
-          "summary": "• sarvam-105b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "sarvamai/sarvam-105b",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Tesslate/OmniCoder-9B",
           "link": "https://huggingface.co/Tesslate/OmniCoder-9B",
           "date": "2026-03-14",
@@ -240,6 +227,19 @@
           "is_english": true,
           "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "sarvamai/sarvam-105b",
+          "link": "https://huggingface.co/sarvamai/sarvam-105b",
+          "date": "2026-03-14",
+          "source": "HuggingFace",
+          "description": "• sarvam-105b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/60270a7c32856987162c641a/j1SbA6V6HixP1-6H0N41q.png",
+          "is_english": true,
+          "summary": "• sarvam-105b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "sarvamai/sarvam-105b",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -270,19 +270,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.5-9B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.5-9B-GGUF",
-          "date": "2026-03-14",
-          "source": "HuggingFace",
-          "description": "• Qwen3.5-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.5-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Qwen3.5-9B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-FP8",
           "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-FP8",
           "date": "2026-03-14",
@@ -296,15 +283,15 @@
           "category": "AI Model"
         },
         {
-          "title": "sarvamai/sarvam-30b",
-          "link": "https://huggingface.co/sarvamai/sarvam-30b",
+          "title": "unsloth/Qwen3.5-9B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.5-9B-GGUF",
           "date": "2026-03-14",
           "source": "HuggingFace",
-          "description": "• sarvam-30b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/60270a7c32856987162c641a/SivoCJWJqex41oprnwyuK.png",
+          "description": "• Qwen3.5-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
           "is_english": true,
-          "summary": "• sarvam-30b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "sarvamai/sarvam-30b",
+          "summary": "• Qwen3.5-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Qwen3.5-9B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -357,6 +344,19 @@
           "is_english": true,
           "summary": "• LTX-2.3-Workflows 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "RuneXX/LTX-2.3-Workflows",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "ibm-granite/granite-4.0-1b-speech",
+          "link": "https://huggingface.co/ibm-granite/granite-4.0-1b-speech",
+          "date": "2026-03-14",
+          "source": "HuggingFace",
+          "description": "• granite-4.0-1b-speech 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/666ec38102791b3b49f453e8/KvRYoVoAWlMm0GrcdBWkR.png",
+          "is_english": true,
+          "summary": "• granite-4.0-1b-speech 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "ibm-granite/granite-4.0-1b-speech",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
