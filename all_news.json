@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-03-15",
-      "update_time": "2026-03-14 18:24:15",
+      "update_time": "2026-03-14 21:18:53",
       "news": [
         {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
@@ -96,19 +96,6 @@
           "category": "AI Model"
         },
         {
-          "title": "LocoreMind/LocoTrainer-4B",
-          "link": "https://huggingface.co/LocoreMind/LocoTrainer-4B",
-          "date": "2026-03-15",
-          "source": "HuggingFace",
-          "description": "• LocoTrainer-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white",
-          "is_english": true,
-          "summary": "• LocoTrainer-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "LocoreMind/LocoTrainer-4B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "date": "2026-03-15",
@@ -118,6 +105,19 @@
           "is_english": true,
           "summary": "• Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "LocoreMind/LocoTrainer-4B",
+          "link": "https://huggingface.co/LocoreMind/LocoTrainer-4B",
+          "date": "2026-03-15",
+          "source": "HuggingFace",
+          "description": "• LocoTrainer-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white",
+          "is_english": true,
+          "summary": "• LocoTrainer-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "LocoreMind/LocoTrainer-4B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -161,19 +161,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "date": "2026-03-15",
-          "source": "HuggingFace",
-          "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
-          "is_english": true,
-          "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-FP8",
           "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-FP8",
           "date": "2026-03-15",
@@ -183,6 +170,19 @@
           "is_english": true,
           "summary": "• NVIDIA-Nemotron-3-Super-120B-A12B-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-FP8",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+          "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+          "date": "2026-03-15",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
+          "is_english": true,
+          "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -213,15 +213,15 @@
           "category": "AI Model"
         },
         {
-          "title": "sarvamai/sarvam-105b",
-          "link": "https://huggingface.co/sarvamai/sarvam-105b",
+          "title": "RuneXX/LTX-2.3-Workflows",
+          "link": "https://huggingface.co/RuneXX/LTX-2.3-Workflows",
           "date": "2026-03-15",
           "source": "HuggingFace",
-          "description": "• sarvam-105b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/60270a7c32856987162c641a/j1SbA6V6HixP1-6H0N41q.png",
+          "description": "• LTX-2.3-Workflows 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• sarvam-105b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "sarvamai/sarvam-105b",
+          "summary": "• LTX-2.3-Workflows 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "RuneXX/LTX-2.3-Workflows",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,15 +239,15 @@
           "category": "AI Model"
         },
         {
-          "title": "RuneXX/LTX-2.3-Workflows",
-          "link": "https://huggingface.co/RuneXX/LTX-2.3-Workflows",
+          "title": "sarvamai/sarvam-105b",
+          "link": "https://huggingface.co/sarvamai/sarvam-105b",
           "date": "2026-03-15",
           "source": "HuggingFace",
-          "description": "• LTX-2.3-Workflows 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• sarvam-105b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/60270a7c32856987162c641a/j1SbA6V6HixP1-6H0N41q.png",
           "is_english": true,
-          "summary": "• LTX-2.3-Workflows 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "RuneXX/LTX-2.3-Workflows",
+          "summary": "• sarvam-105b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "sarvamai/sarvam-105b",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +268,20 @@
     },
     {
       "date": "2026-03-14",
-      "update_time": "2026-03-14 18:24:15",
+      "update_time": "2026-03-14 21:18:53",
       "news": [
+        {
+          "title": "US Army announces contract with Anduril worth up to $20B",
+          "link": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/",
+          "date": "2026-03-14",
+          "source": "TechCrunch",
+          "description": "The Army described this as a single enterprise contract consolidating more than 120 separate \"procurement actions.\"",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2152503982-e.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "US Army announces contract with Anduril worth up to $20B",
+          "original_summary": "The Army described this as a single enterprise contract consolidating more than 120 separate \"procurement actions.\"",
+          "summary": "The Army described this as a single enterprise contract consolidating more than 120 separate \"procurement actions.\""
+        },
         {
           "title": "Meta reportedly considering layoffs that could affect 20% of the company",
           "link": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/",
