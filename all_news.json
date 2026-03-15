@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-03-16",
-      "update_time": "2026-03-15 15:20:16",
+      "update_time": "2026-03-15 18:25:53",
       "news": [
         {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
@@ -70,19 +70,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16",
-          "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16",
-          "date": "2026-03-16",
-          "source": "HuggingFace",
-          "description": "• NVIDIA-Nemotron-3-Super-120B-A12B-BF16 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16/resolve/main/./accuracy_chart.png",
-          "is_english": true,
-          "summary": "• NVIDIA-Nemotron-3-Super-120B-A12B-BF16 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Tesslate/OmniCoder-9B",
           "link": "https://huggingface.co/Tesslate/OmniCoder-9B",
           "date": "2026-03-16",
@@ -92,6 +79,19 @@
           "is_english": true,
           "summary": "• OmniCoder-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Tesslate/OmniCoder-9B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16",
+          "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16",
+          "date": "2026-03-16",
+          "source": "HuggingFace",
+          "description": "• NVIDIA-Nemotron-3-Super-120B-A12B-BF16 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16/resolve/main/./accuracy_chart.png",
+          "is_english": true,
+          "summary": "• NVIDIA-Nemotron-3-Super-120B-A12B-BF16 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -161,19 +161,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/LTX-2.3-GGUF",
-          "link": "https://huggingface.co/unsloth/LTX-2.3-GGUF",
-          "date": "2026-03-16",
-          "source": "HuggingFace",
-          "description": "• LTX-2.3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
-          "is_english": true,
-          "summary": "• LTX-2.3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/LTX-2.3-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "HumeAI/tada-3b-ml",
           "link": "https://huggingface.co/HumeAI/tada-3b-ml",
           "date": "2026-03-16",
@@ -187,15 +174,15 @@
           "category": "AI Model"
         },
         {
-          "title": "RuneXX/LTX-2.3-Workflows",
-          "link": "https://huggingface.co/RuneXX/LTX-2.3-Workflows",
+          "title": "unsloth/LTX-2.3-GGUF",
+          "link": "https://huggingface.co/unsloth/LTX-2.3-GGUF",
           "date": "2026-03-16",
           "source": "HuggingFace",
-          "description": "• LTX-2.3-Workflows 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• LTX-2.3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
           "is_english": true,
-          "summary": "• LTX-2.3-Workflows 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "RuneXX/LTX-2.3-Workflows",
+          "summary": "• LTX-2.3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/LTX-2.3-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -213,15 +200,15 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.5-9B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.5-9B-GGUF",
+          "title": "RuneXX/LTX-2.3-Workflows",
+          "link": "https://huggingface.co/RuneXX/LTX-2.3-Workflows",
           "date": "2026-03-16",
           "source": "HuggingFace",
-          "description": "• Qwen3.5-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "description": "• LTX-2.3-Workflows 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• Qwen3.5-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Qwen3.5-9B-GGUF",
+          "summary": "• LTX-2.3-Workflows 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "RuneXX/LTX-2.3-Workflows",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,6 +226,32 @@
           "category": "AI Model"
         },
         {
+          "title": "unsloth/Qwen3.5-9B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.5-9B-GGUF",
+          "date": "2026-03-16",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• Qwen3.5-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Qwen3.5-9B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "circlestone-labs/Anima",
+          "link": "https://huggingface.co/circlestone-labs/Anima",
+          "date": "2026-03-16",
+          "source": "HuggingFace",
+          "description": "• Anima 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/circlestone-labs/Anima/resolve/main/montage.jpg",
+          "is_english": true,
+          "summary": "• Anima 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "circlestone-labs/Anima",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Crownelius/Crow-9B-HERETIC",
           "link": "https://huggingface.co/Crownelius/Crow-9B-HERETIC",
           "date": "2026-03-16",
@@ -250,26 +263,25 @@
           "translated_title": "Crownelius/Crow-9B-HERETIC",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "ibm-granite/granite-4.0-1b-speech",
-          "link": "https://huggingface.co/ibm-granite/granite-4.0-1b-speech",
-          "date": "2026-03-16",
-          "source": "HuggingFace",
-          "description": "• granite-4.0-1b-speech 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/666ec38102791b3b49f453e8/KvRYoVoAWlMm0GrcdBWkR.png",
-          "is_english": true,
-          "summary": "• granite-4.0-1b-speech 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ibm-granite/granite-4.0-1b-speech",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-03-15",
-      "update_time": "2026-03-15 12:31:09",
+      "update_time": "2026-03-15 18:25:50",
       "news": [
+        {
+          "title": "Wiz investor unpacks Google’s $32B acquisition",
+          "link": "https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/",
+          "date": "2026-03-15",
+          "source": "TechCrunch",
+          "description": "Shardul Shah of Index Ventures walks us through Google's biggest acquisition ever.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2161842016.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Wiz investor unpacks Google’s $32B acquisition",
+          "original_summary": "Shardul Shah of Index Ventures walks us through Google's biggest acquisition ever.",
+          "summary": "Shardul Shah of Index Ventures walks us through Google's biggest acquisition ever."
+        },
         {
           "title": "라이너 “AI 검색 글로벌 B2B 수요 확인…정확도로 비용 절감까지”",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=207868",
@@ -6673,7 +6685,7 @@
         {
           "title": "Qwen/Qwen3.5-9B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-9B",
-          "date": "2026-03-07",
+          "date": "2026-03-16",
           "source": "HuggingFace",
           "description": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -6686,7 +6698,7 @@
         {
           "title": "Qwen/Qwen3.5-35B-A3B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
-          "date": "2026-03-07",
+          "date": "2026-03-16",
           "source": "HuggingFace",
           "description": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -6712,7 +6724,7 @@
         {
           "title": "Lightricks/LTX-2.3",
           "link": "https://huggingface.co/Lightricks/LTX-2.3",
-          "date": "2026-03-07",
+          "date": "2026-03-16",
           "source": "HuggingFace",
           "description": "• LTX-2.3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/Lightricks/LTX-2.3/resolve/main/ltx2.3-open.png",
@@ -6738,7 +6750,7 @@
         {
           "title": "unsloth/Qwen3.5-9B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.5-9B-GGUF",
-          "date": "2026-03-07",
+          "date": "2026-03-16",
           "source": "HuggingFace",
           "description": "• Qwen3.5-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -6777,7 +6789,7 @@
         {
           "title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-03-07",
+          "date": "2026-03-16",
           "source": "HuggingFace",
           "description": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
