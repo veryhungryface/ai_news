@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-03-16",
-      "update_time": "2026-03-15 18:25:53",
+      "update_time": "2026-03-15 21:19:49",
       "news": [
+        {
+          "title": "서울시, 빅데이터 활용 경진대회…5월 13일까지 신청",
+          "link": "https://www.yna.co.kr/view/AKR20260313161800004",
+          "date": "2026-03-16",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 정수연 기자 = 서울시는 공공데이터와 인공지능(AI) 기술을 활용해 도시 문제를 해결하기 위한 아이디어를 제안하는 &apos;서울시 빅...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/03/13/AKR20260313161800004_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "서울시, 빅데이터 활용 경진대회…5월 13일까지 신청",
+          "original_summary": "(서울=연합뉴스) 정수연 기자 = 서울시는 공공데이터와 인공지능(AI) 기술을 활용해 도시 문제를 해결하기 위한 아이디어를 제안하는 &apos;서울시 빅...",
+          "summary": "(서울=연합뉴스) 정수연 기자 = 서울시는 공공데이터와 인공지능(AI) 기술을 활용해 도시 문제를 해결하기 위한 아이디어를 제안하는 &apos;서울시 빅..."
+        },
         {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
@@ -187,19 +199,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "date": "2026-03-16",
-          "source": "HuggingFace",
-          "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
-          "is_english": true,
-          "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "RuneXX/LTX-2.3-Workflows",
           "link": "https://huggingface.co/RuneXX/LTX-2.3-Workflows",
           "date": "2026-03-16",
@@ -213,28 +212,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.5-35B-A3B",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
+          "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+          "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "date": "2026-03-16",
           "source": "HuggingFace",
-          "description": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
           "is_english": true,
-          "summary": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
-          "translated_title": "Qwen/Qwen3.5-35B-A3B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "unsloth/Qwen3.5-9B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.5-9B-GGUF",
-          "date": "2026-03-16",
-          "source": "HuggingFace",
-          "description": "• Qwen3.5-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.5-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Qwen3.5-9B-GGUF",
+          "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -252,6 +238,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Qwen/Qwen3.5-35B-A3B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
+          "date": "2026-03-16",
+          "source": "HuggingFace",
+          "description": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
+          "translated_title": "Qwen/Qwen3.5-35B-A3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Crownelius/Crow-9B-HERETIC",
           "link": "https://huggingface.co/Crownelius/Crow-9B-HERETIC",
           "date": "2026-03-16",
@@ -263,13 +262,50 @@
           "translated_title": "Crownelius/Crow-9B-HERETIC",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "unsloth/Qwen3.5-35B-A3B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.5-35B-A3B-GGUF",
+          "date": "2026-03-16",
+          "source": "HuggingFace",
+          "description": "• 후깅페이스에 Qwen3.5 신규 모델 공개\n• 로컬 환경에서 고성능 추론 지원\n• 이미지와 텍스트 복합 처리 가능\n• 최적화된 정밀도 구현 성능 입증",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• 후깅페이스에 Qwen3.5 신규 모델 공개\n• 로컬 환경에서 고성능 추론 지원\n• 이미지와 텍스트 복합 처리 가능\n• 최적화된 정밀도 구현 성능 입증",
+          "translated_title": "unsloth/Qwen3.5-35B-A3B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-03-15",
-      "update_time": "2026-03-15 18:25:50",
+      "update_time": "2026-03-15 21:19:49",
       "news": [
+        {
+          "title": "ByteDance reportedly pauses global launch of its Seedance 2.0 video generator",
+          "link": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/",
+          "date": "2026-03-15",
+          "source": "TechCrunch",
+          "description": "The company is reportedly delaying the launch as its engineers and lawyers work to avert further legal issues.",
+          "image": "https://techcrunch.com/wp-content/uploads/2019/08/GettyImages-1162754481.jpg?resize=1200,801",
+          "is_english": true,
+          "original_title": "ByteDance reportedly pauses global launch of its Seedance 2.0 video generator",
+          "original_summary": "The company is reportedly delaying the launch as its engineers and lawyers work to avert further legal issues.",
+          "summary": "The company is reportedly delaying the launch as its engineers and lawyers work to avert further legal issues."
+        },
+        {
+          "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+          "link": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+          "date": "2026-03-15",
+          "source": "TechCrunch",
+          "description": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-509750426.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+          "original_summary": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards.",
+          "summary": "AI chatbots have been linked to suicides for years. Now one lawyer says they are showing up in mass casualty cases too, and the technology is moving faster than the safeguards."
+        },
         {
           "title": "Wiz investor unpacks Google’s $32B acquisition",
           "link": "https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/",
@@ -6763,7 +6799,7 @@
         {
           "title": "unsloth/Qwen3.5-35B-A3B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.5-35B-A3B-GGUF",
-          "date": "2026-03-07",
+          "date": "2026-03-16",
           "source": "HuggingFace",
           "description": "• 후깅페이스에 Qwen3.5 신규 모델 공개\n• 로컬 환경에서 고성능 추론 지원\n• 이미지와 텍스트 복합 처리 가능\n• 최적화된 정밀도 구현 성능 입증",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
