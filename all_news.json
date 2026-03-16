@@ -2,8 +2,44 @@
   "dates": [
     {
       "date": "2026-03-17",
-      "update_time": "2026-03-16 18:48:48",
+      "update_time": "2026-03-16 21:30:15",
       "news": [
+        {
+          "title": "존스홉킨스 대학원생들 서울시 방문…정책 현장 견학",
+          "link": "https://www.yna.co.kr/view/AKR20260316153400004",
+          "date": "2026-03-17",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 황재하 기자 = 서울시는 이달 16일 미국 존스홉킨스 고등국제대학원 학생 10여명이 서울을 방문해 스마트도시·교통·인공지능(A...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316153400004_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "존스홉킨스 대학원생들 서울시 방문…정책 현장 견학",
+          "original_summary": "(서울=연합뉴스) 황재하 기자 = 서울시는 이달 16일 미국 존스홉킨스 고등국제대학원 학생 10여명이 서울을 방문해 스마트도시·교통·인공지능(A...",
+          "summary": "(서울=연합뉴스) 황재하 기자 = 서울시는 이달 16일 미국 존스홉킨스 고등국제대학원 학생 10여명이 서울을 방문해 스마트도시·교통·인공지능(A..."
+        },
+        {
+          "title": "서울AI재단, 캐나다 몬트리올시와 'AI 도시혁신' 협력 논의",
+          "link": "https://www.yna.co.kr/view/AKR20260316157900004",
+          "date": "2026-03-17",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 정수연 기자 = 서울AI재단은 캐나다 몬트리올 소라야 마르티네즈 페라다 시장과 간담회를 열고 AI 기반 도시혁신과 글로벌 협력...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316157900004_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "서울AI재단, 캐나다 몬트리올시와 'AI 도시혁신' 협력 논의",
+          "original_summary": "(서울=연합뉴스) 정수연 기자 = 서울AI재단은 캐나다 몬트리올 소라야 마르티네즈 페라다 시장과 간담회를 열고 AI 기반 도시혁신과 글로벌 협력...",
+          "summary": "(서울=연합뉴스) 정수연 기자 = 서울AI재단은 캐나다 몬트리올 소라야 마르티네즈 페라다 시장과 간담회를 열고 AI 기반 도시혁신과 글로벌 협력..."
+        },
+        {
+          "title": "Nvidia Intros Data Factory, Robotics Models in Physical AI Push",
+          "link": "https://aibusiness.com/robotics/nvidia-intros-data-factory-robotics-models-for-physical-ai",
+          "date": "2026-03-17",
+          "source": "AI Business",
+          "description": "The releases aim to solidify the AI chip giant's standing in the physical AI sector.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt9b0a485e2254484e/69b8693ad5cc3d5693fb06dc/Nvidia_GTC.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Nvidia Intros Data Factory, Robotics Models in Physical AI Push",
+          "original_summary": "The releases aim to solidify the AI chip giant's standing in the physical AI sector.",
+          "summary": "The releases aim to solidify the AI chip giant's standing in the physical AI sector."
+        },
         {
           "title": "Meta Spends Another $27B on AI Infrastructure With Nebius",
           "link": "https://aibusiness.com/generative-ai/meta-spends-27b-on-ai-infrastructure-with-nebius",
@@ -198,19 +234,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/LTX-2.3-GGUF",
-          "link": "https://huggingface.co/unsloth/LTX-2.3-GGUF",
-          "date": "2026-03-17",
-          "source": "HuggingFace",
-          "description": "• LTX-2.3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
-          "is_english": true,
-          "summary": "• LTX-2.3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/LTX-2.3-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "zai-org/GLM-OCR",
           "link": "https://huggingface.co/zai-org/GLM-OCR",
           "date": "2026-03-17",
@@ -220,6 +243,19 @@
           "is_english": true,
           "summary": "• GLM-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "zai-org/GLM-OCR",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/LTX-2.3-GGUF",
+          "link": "https://huggingface.co/unsloth/LTX-2.3-GGUF",
+          "date": "2026-03-17",
+          "source": "HuggingFace",
+          "description": "• LTX-2.3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "is_english": true,
+          "summary": "• LTX-2.3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/LTX-2.3-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -263,19 +299,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "date": "2026-03-17",
-          "source": "HuggingFace",
-          "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
-          "is_english": true,
-          "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "RekaAI/reka-edge-2603",
           "link": "https://huggingface.co/RekaAI/reka-edge-2603",
           "date": "2026-03-17",
@@ -287,13 +310,74 @@
           "translated_title": "RekaAI/reka-edge-2603",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.5-35B-A3B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
+          "date": "2026-03-17",
+          "source": "HuggingFace",
+          "description": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
+          "translated_title": "Qwen/Qwen3.5-35B-A3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-03-16",
-      "update_time": "2026-03-16 18:48:45",
+      "update_time": "2026-03-16 21:30:15",
       "news": [
+        {
+          "title": "Warren presses Pentagon over decision to grant xAI access to classified networks",
+          "link": "https://techcrunch.com/2026/03/16/warren-presses-pentagon-over-decision-to-grant-xai-access-to-classified-networks/",
+          "date": "2026-03-16",
+          "source": "TechCrunch",
+          "description": "Sen. Elizabeth Warren noted that Grok, xAI's controversial chatbot, has created harmful outputs for users and poses a potential national security risk.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2265791303.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Warren presses Pentagon over decision to grant xAI access to classified networks",
+          "original_summary": "Sen. Elizabeth Warren noted that Grok, xAI's controversial chatbot, has created harmful outputs for users and poses a potential national security risk.",
+          "summary": "Sen. Elizabeth Warren noted that Grok, xAI's controversial chatbot, has created harmful outputs for users and poses a potential national security risk."
+        },
+        {
+          "title": "Memories AI is building the visual memory layer for wearables and robotics",
+          "link": "https://techcrunch.com/2026/03/16/memories-ai-is-building-the-visual-memory-layer-for-wearables-and-robotics/",
+          "date": "2026-03-16",
+          "source": "TechCrunch",
+          "description": "Memories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/memroies-ai.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Memories AI is building the visual memory layer for wearables and robotics",
+          "original_summary": "Memories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI. ",
+          "summary": "Memories.ai is building a large visual memory model that can index and retrieve video-recorded memories for physical AI. "
+        },
+        {
+          "title": "Elon Musk’s xAI faces child porn lawsuit from minors Grok allegedly undressed",
+          "link": "https://techcrunch.com/2026/03/16/elon-musks-xai-faces-child-porn-lawsuit-from-minors-grok-allegedly-undressed/",
+          "date": "2026-03-16",
+          "source": "TechCrunch",
+          "description": "The three plaintiffs are seeking to represent anyone who had real images of them as a minor altered into sexual content by Grok.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Elon Musk’s xAI faces child porn lawsuit from minors Grok allegedly undressed",
+          "original_summary": "The three plaintiffs are seeking to represent anyone who had real images of them as a minor altered into sexual content by Grok.",
+          "summary": "The three plaintiffs are seeking to represent anyone who had real images of them as a minor altered into sexual content by Grok."
+        },
+        {
+          "title": "Nvidia’s DLSS 5 uses generative AI to boost photorealism in video games, with ambitions beyond gaming",
+          "link": "https://techcrunch.com/2026/03/16/nvidias-dlss-5-uses-generative-ai-to-boost-photo-realism-in-video-games-with-ambitions-beyond-gaming/",
+          "date": "2026-03-16",
+          "source": "TechCrunch",
+          "description": "Nvidia’s new DLSS 5 uses generative AI and structured graphics data to make video games more realistic. CEO Jensen Huang says the approach could eventually spread to other industries.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/nvidia-dlss-5.jpeg?resize=1200,675",
+          "is_english": true,
+          "original_title": "Nvidia’s DLSS 5 uses generative AI to boost photorealism in video games, with ambitions beyond gaming",
+          "original_summary": "Nvidia’s new DLSS 5 uses generative AI and structured graphics data to make video games more realistic. CEO Jensen Huang says the approach could eventually spread to other industries.",
+          "summary": "Nvidia’s new DLSS 5 uses generative AI and structured graphics data to make video games more realistic. CEO Jensen Huang says the approach could eventually spread to other industries."
+        },
         {
           "title": "Why Codex Security Doesn’t Include a SAST Report",
           "link": "https://openai.com/index/why-codex-security-doesnt-include-sast",
@@ -6939,7 +7023,7 @@
         {
           "title": "Qwen/Qwen3.5-35B-A3B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
-          "date": "2026-03-08",
+          "date": "2026-03-17",
           "source": "HuggingFace",
           "description": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
