@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-03-16",
-      "update_time": "2026-03-15 21:19:49",
+      "update_time": "2026-03-16 01:21:30",
       "news": [
+        {
+          "title": "SKT, 전직원 '1인 1 AI 에이전트' 추진…AX 전환 가속",
+          "link": "https://www.yna.co.kr/view/AKR20260316049400017",
+          "date": "2026-03-16",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 박형빈 기자 = SK텔레콤[017670]은 모든 구성원이 직접 인공지능(AI) 에이전트를 개발해 업무 혁신에 활용할 수 있도록...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/03/16/AKR20260316049400017_01_i_P2.jpg",
+          "is_english": true,
+          "original_title": "SKT, 전직원 '1인 1 AI 에이전트' 추진…AX 전환 가속",
+          "original_summary": "(서울=연합뉴스) 박형빈 기자 = SK텔레콤[017670]은 모든 구성원이 직접 인공지능(AI) 에이전트를 개발해 업무 혁신에 활용할 수 있도록...",
+          "summary": "(서울=연합뉴스) 박형빈 기자 = SK텔레콤[017670]은 모든 구성원이 직접 인공지능(AI) 에이전트를 개발해 업무 혁신에 활용할 수 있도록..."
+        },
+        {
+          "title": "Google, Accel India accelerator choses 5 startups and none are ‘AI wrappers’",
+          "link": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/",
+          "date": "2026-03-16",
+          "source": "TechCrunch",
+          "description": "Google and Accel say about 70% of AI startup pitches tied to India were \"wrappers\" as they reviewed more than 4,000 applications for their Atoms cohort.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/03/Copy-of-Prayank-Swaroop.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Google, Accel India accelerator choses 5 startups and none are ‘AI wrappers’",
+          "original_summary": "Google and Accel say about 70% of AI startup pitches tied to India were \"wrappers\" as they reviewed more than 4,000 applications for their Atoms cohort.",
+          "summary": "Google and Accel say about 70% of AI startup pitches tied to India were \"wrappers\" as they reviewed more than 4,000 applications for their Atoms cohort."
+        },
         {
           "title": "서울시, 빅데이터 활용 경진대회…5월 13일까지 신청",
           "link": "https://www.yna.co.kr/view/AKR20260313161800004",
@@ -17,19 +41,6 @@
           "summary": "(서울=연합뉴스) 정수연 기자 = 서울시는 공공데이터와 인공지능(AI) 기술을 활용해 도시 문제를 해결하기 위한 아이디어를 제안하는 &apos;서울시 빅..."
         },
         {
-          "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-          "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-          "date": "2026-03-16",
-          "source": "HuggingFace",
-          "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
-          "is_english": true,
-          "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "fishaudio/s2-pro",
           "link": "https://huggingface.co/fishaudio/s2-pro",
           "date": "2026-03-16",
@@ -39,6 +50,19 @@
           "is_english": true,
           "summary": "• s2-pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "fishaudio/s2-pro",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+          "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+          "date": "2026-03-16",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
+          "is_english": true,
+          "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -238,6 +262,19 @@
           "category": "AI Model"
         },
         {
+          "title": "zai-org/GLM-OCR",
+          "link": "https://huggingface.co/zai-org/GLM-OCR",
+          "date": "2026-03-16",
+          "source": "HuggingFace",
+          "description": "• GLM-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://raw.githubusercontent.com/zai-org/GLM-OCR/refs/heads/main/resources/docparse.png",
+          "is_english": true,
+          "summary": "• GLM-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "zai-org/GLM-OCR",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Qwen/Qwen3.5-35B-A3B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
           "date": "2026-03-16",
@@ -260,19 +297,6 @@
           "is_english": true,
           "summary": "• Crow-9B-HERETIC 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Crownelius/Crow-9B-HERETIC",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "unsloth/Qwen3.5-35B-A3B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.5-35B-A3B-GGUF",
-          "date": "2026-03-16",
-          "source": "HuggingFace",
-          "description": "• 후깅페이스에 Qwen3.5 신규 모델 공개\n• 로컬 환경에서 고성능 추론 지원\n• 이미지와 텍스트 복합 처리 가능\n• 최적화된 정밀도 구현 성능 입증",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• 후깅페이스에 Qwen3.5 신규 모델 공개\n• 로컬 환경에서 고성능 추론 지원\n• 이미지와 텍스트 복합 처리 가능\n• 최적화된 정밀도 구현 성능 입증",
-          "translated_title": "unsloth/Qwen3.5-35B-A3B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
