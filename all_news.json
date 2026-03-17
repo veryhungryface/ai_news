@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-03-18",
-      "update_time": "2026-03-17 18:47:52",
+      "update_time": "2026-03-17 21:29:25",
       "news": [
+        {
+          "title": "Building Resilience in the Age of AI",
+          "link": "https://aibusiness.com/data-governance/building-resilience-in-the-age-of-ai",
+          "date": "2026-03-18",
+          "source": "AI Business",
+          "description": "Governance and resilience are important in the face of increased AI use.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltd67fa6dd2d76c05c/69b99bb07ee9ead8f280fb51/PagerDuty.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Building Resilience in the Age of AI",
+          "original_summary": "Governance and resilience are important in the face of increased AI use.",
+          "summary": "Governance and resilience are important in the face of increased AI use."
+        },
         {
           "title": "US Startup to Build South Korea’s Biggest AI Data Center",
           "link": "https://aibusiness.com/generative-ai/us-startup-to-build-south-korea-s-biggest-ai-data-center",
@@ -42,19 +54,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-          "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-          "date": "2026-03-18",
-          "source": "HuggingFace",
-          "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
-          "is_english": true,
-          "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "date": "2026-03-18",
@@ -64,6 +63,19 @@
           "is_english": true,
           "summary": "• Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+          "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+          "date": "2026-03-18",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
+          "is_english": true,
+          "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -133,19 +145,6 @@
           "category": "AI Model"
         },
         {
-          "title": "HumeAI/tada-1b",
-          "link": "https://huggingface.co/HumeAI/tada-1b",
-          "date": "2026-03-18",
-          "source": "HuggingFace",
-          "description": "• tada-1b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/arXiv-Paper-b31b1b.svg",
-          "is_english": true,
-          "summary": "• tada-1b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HumeAI/tada-1b",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "mistralai/Mistral-Small-4-119B-2603",
           "link": "https://huggingface.co/mistralai/Mistral-Small-4-119B-2603",
           "date": "2026-03-18",
@@ -155,6 +154,19 @@
           "is_english": true,
           "summary": "• Mistral-Small-4-119B-2603 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "mistralai/Mistral-Small-4-119B-2603",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "HumeAI/tada-1b",
+          "link": "https://huggingface.co/HumeAI/tada-1b",
+          "date": "2026-03-18",
+          "source": "HuggingFace",
+          "description": "• tada-1b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/arXiv-Paper-b31b1b.svg",
+          "is_english": true,
+          "summary": "• tada-1b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HumeAI/tada-1b",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -276,15 +288,15 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/LTX-2.3-GGUF",
-          "link": "https://huggingface.co/unsloth/LTX-2.3-GGUF",
+          "title": "mistralai/Leanstral-2603",
+          "link": "https://huggingface.co/mistralai/Leanstral-2603",
           "date": "2026-03-18",
           "source": "HuggingFace",
-          "description": "• LTX-2.3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "description": "• Leanstral-2603 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/5dfcb1aada6d0311fd3d5448/Sm_mBI7u4XTjlKGzdXQqe.png",
           "is_english": true,
-          "summary": "• LTX-2.3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/LTX-2.3-GGUF",
+          "summary": "• Leanstral-2603 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "mistralai/Leanstral-2603",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -292,8 +304,68 @@
     },
     {
       "date": "2026-03-17",
-      "update_time": "2026-03-17 18:47:52",
+      "update_time": "2026-03-17 21:29:22",
       "news": [
+        {
+          "title": "[게시판] 인텔리빅스, 이달 말 코스닥 상장 추진 등 단신",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208011",
+          "date": "2026-03-17",
+          "source": "AI타임스",
+          "description": "■ 인텔리빅스(대표 최은수, 장정훈)는 지난해 당기순이익 54억원으로 매출과 영업이익, 순이익 전 부문에서 창사 이래 최대치를 달성했다고 밝혔다. 이달 말 한국거래소 코스닥시장 상장 예비심사를 청구할 예정이다.■ 한컴위드(대표 송상엽)는 18일부터 일산 킨텍스에서 열리는 \\'전자정부 정보보호 솔루션 페어(eGISEC 2026)’에 참가한다고 밝혔다. AI 기반 딥페이크 공격 대응 위변조 방지 얼굴 인증 솔루션 ‘한컴 오스’와 화자 인증 기술인 ‘한컴 에이아이에스알씨 스피키’ 등을 선보인다. ■ 크라우드웍스(대표 김광일) 양수열 최고기",
+          "image": "https://cdn.aitimes.com/news/photo/202603/208011_210192_5318.png",
+          "is_english": false,
+          "original_title": "[게시판] 인텔리빅스, 이달 말 코스닥 상장 추진 등 단신",
+          "original_summary": "■ 인텔리빅스(대표 최은수, 장정훈)는 지난해 당기순이익 54억원으로 매출과 영업이익, 순이익 전 부문에서 창사 이래 최대치를 달성했다고 밝혔다. 이달 말 한국거래소 코스닥시장 상장 예비심사를 청구할 예정이다.■ 한컴위드(대표 송상엽)는 18일부터 일산 킨텍스에서 열리는 \\'전자정부 정보보호 솔루션 페어(eGISEC 2026)’에 참가한다고 밝혔다. AI 기반 딥페이크 공격 대응 위변조 방지 얼굴 인증 솔루션 ‘한컴 오스’와 화자 인증 기술인 ‘한컴 에이아이에스알씨 스피키’ 등을 선보인다. ■ 크라우드웍스(대표 김광일) 양수열 최고",
+          "summary": "■ 인텔리빅스(대표 최은수, 장정훈)는 지난해 당기순이익 54억원으로 매출과 영업이익, 순이익 전 부문에서 창사 이래 최대치를 달성했다고 밝혔다. 이달 말 한국거래소 코스닥시장 상장 예비심사를 청구할 예정이다.■ 한컴위드(대표 송상엽)는 18일부터 일산 킨텍스에서 열리는 \\'전자정부 정보보호 솔루션 페어(eGISEC 2026)’에 참가한다고 밝혔다. AI 기반 딥페이크 공격 대응 위변조 방지 얼굴 인증 솔루션 ‘한컴 오스’와 화자 인증 기술인 ‘한컴 에이아이에스알씨 스피키’ 등을 선보인다. ■ 크라우드웍스(대표 김광일) 양수열 최고"
+        },
+        {
+          "title": "Equipping workers with insights about compensation",
+          "link": "https://openai.com/index/equipping-workers-with-insights-about-compensation",
+          "date": "2026-03-17",
+          "source": "OpenAI",
+          "description": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Equipping workers with insights about compensation",
+          "original_summary": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap.",
+          "summary": "New research shows Americans send nearly 3 million daily messages to ChatGPT asking about compensation and earnings, helping close the wage information gap."
+        },
+        {
+          "title": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
+          "link": "https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/",
+          "date": "2026-03-17",
+          "source": "TechCrunch",
+          "description": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264771189.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Mistral bets on ‘build-your-own AI’ as it takes on OpenAI, Anthropic in the enterprise",
+          "original_summary": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches.",
+          "summary": "Mistral Forge lets enterprises train custom AI models from scratch on their own data, challenging rivals that rely on fine-tuning and retrieval-based approaches."
+        },
+        {
+          "title": "Why Garry Tan’s Claude Code setup has gotten so much love, and hate",
+          "link": "https://techcrunch.com/2026/03/17/why-garry-tans-claude-code-setup-has-gotten-so-much-love-and-hate/",
+          "date": "2026-03-17",
+          "source": "TechCrunch",
+          "description": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on Github. And everyone has an opinion: even Claude, ChatGPT, and Gemini.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801",
+          "is_english": true,
+          "original_title": "Why Garry Tan’s Claude Code setup has gotten so much love, and hate",
+          "original_summary": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on Github. And everyone has an opinion: even Claude, ChatGPT, and Gemini.",
+          "summary": "Thousands of people are trying Garry Tan's Claude Code setup, which was shared on Github. And everyone has an opinion: even Claude, ChatGPT, and Gemini."
+        },
+        {
+          "title": "MIT-IBM Watson AI Lab seed to signal: Amplifying early-career faculty impact",
+          "link": "https://news.mit.edu/2026/mit-ibm-watson-ai-lab-seed-signal-amplifying-early-career-faculty-impact-0317",
+          "date": "2026-03-17",
+          "source": "MIT News",
+          "description": "Academia-industry relationship is an early-stage accelerator, supporting professional progress and research.",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202602/mit-ibm-seed-to-signal.jpg?itok=KhVDGaMj",
+          "is_english": true,
+          "original_title": "MIT-IBM Watson AI Lab seed to signal: Amplifying early-career faculty impact",
+          "original_summary": "Academia-industry relationship is an early-stage accelerator, supporting professional progress and research.",
+          "summary": "Academia-industry relationship is an early-stage accelerator, supporting professional progress and research."
+        },
         {
           "title": "Introducing GPT-5.4 mini and nano",
           "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
