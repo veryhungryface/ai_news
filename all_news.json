@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-03-18",
-      "update_time": "2026-03-17 15:55:59",
+      "update_time": "2026-03-17 18:47:52",
       "news": [
+        {
+          "title": "US Startup to Build South Korea’s Biggest AI Data Center",
+          "link": "https://aibusiness.com/generative-ai/us-startup-to-build-south-korea-s-biggest-ai-data-center",
+          "date": "2026-03-18",
+          "source": "AI Business",
+          "description": "The planned data center would be part of the Asian tech powerhouse's sovereign AI campaign.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt017ebca88c7bbf36/69b98b7ffdb6655de81a27a2/Data_center.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "US Startup to Build South Korea’s Biggest AI Data Center",
+          "original_summary": "The planned data center would be part of the Asian tech powerhouse's sovereign AI campaign.",
+          "summary": "The planned data center would be part of the Asian tech powerhouse's sovereign AI campaign."
+        },
         {
           "title": "Alibaba Launches Enterprise AI Agent Platform",
           "link": "https://aibusiness.com/agentic-ai/alibaba-launches-enterprise-ai-agent-platform",
@@ -108,19 +120,6 @@
           "category": "AI Model"
         },
         {
-          "title": "HumeAI/tada-1b",
-          "link": "https://huggingface.co/HumeAI/tada-1b",
-          "date": "2026-03-18",
-          "source": "HuggingFace",
-          "description": "• tada-1b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/arXiv-Paper-b31b1b.svg",
-          "is_english": true,
-          "summary": "• tada-1b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HumeAI/tada-1b",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.5-9B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-9B",
           "date": "2026-03-18",
@@ -130,6 +129,19 @@
           "is_english": true,
           "summary": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.5-9B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "HumeAI/tada-1b",
+          "link": "https://huggingface.co/HumeAI/tada-1b",
+          "date": "2026-03-18",
+          "source": "HuggingFace",
+          "description": "• tada-1b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/arXiv-Paper-b31b1b.svg",
+          "is_english": true,
+          "summary": "• tada-1b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HumeAI/tada-1b",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -238,19 +250,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/LTX-2.3-GGUF",
-          "link": "https://huggingface.co/unsloth/LTX-2.3-GGUF",
-          "date": "2026-03-18",
-          "source": "HuggingFace",
-          "description": "• LTX-2.3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
-          "is_english": true,
-          "summary": "• LTX-2.3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/LTX-2.3-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "date": "2026-03-18",
@@ -264,15 +263,28 @@
           "category": "AI Model"
         },
         {
-          "title": "RekaAI/reka-edge-2603",
-          "link": "https://huggingface.co/RekaAI/reka-edge-2603",
+          "title": "Qwen/Qwen3.5-35B-A3B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
           "date": "2026-03-18",
           "source": "HuggingFace",
-          "description": "• reka-edge-2603 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
           "is_english": true,
-          "summary": "• reka-edge-2603 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "RekaAI/reka-edge-2603",
+          "summary": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
+          "translated_title": "Qwen/Qwen3.5-35B-A3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/LTX-2.3-GGUF",
+          "link": "https://huggingface.co/unsloth/LTX-2.3-GGUF",
+          "date": "2026-03-18",
+          "source": "HuggingFace",
+          "description": "• LTX-2.3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "is_english": true,
+          "summary": "• LTX-2.3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/LTX-2.3-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -280,8 +292,80 @@
     },
     {
       "date": "2026-03-17",
-      "update_time": "2026-03-17 15:55:59",
+      "update_time": "2026-03-17 18:47:52",
       "news": [
+        {
+          "title": "Introducing GPT-5.4 mini and nano",
+          "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+          "date": "2026-03-17",
+          "source": "OpenAI",
+          "description": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Introducing GPT-5.4 mini and nano",
+          "original_summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
+          "summary": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads."
+        },
+        {
+          "title": "The Pentagon is developing alternatives to Anthropic, report says",
+          "link": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/",
+          "date": "2026-03-17",
+          "source": "TechCrunch",
+          "description": "After their dramatic falling-out, it doesn't seem as though Anthropic and the Pentagon are getting back together.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-1601911146.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "The Pentagon is developing alternatives to Anthropic, report says",
+          "original_summary": "After their dramatic falling-out, it doesn't seem as though Anthropic and the Pentagon are getting back together.",
+          "summary": "After their dramatic falling-out, it doesn't seem as though Anthropic and the Pentagon are getting back together."
+        },
+        {
+          "title": "BuzzFeed debuts AI slop apps in bid for new revenue",
+          "link": "https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/",
+          "date": "2026-03-17",
+          "source": "TechCrunch",
+          "description": "BuzzFeed unveiled new AI-powered social apps at SXSW, but its demos drew muted reactions. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/SXSW-buzzfeed-3.jpg?resize=1200,969",
+          "is_english": true,
+          "original_title": "BuzzFeed debuts AI slop apps in bid for new revenue",
+          "original_summary": "BuzzFeed unveiled new AI-powered social apps at SXSW, but its demos drew muted reactions. ",
+          "summary": "BuzzFeed unveiled new AI-powered social apps at SXSW, but its demos drew muted reactions. "
+        },
+        {
+          "title": "Google’s Personal Intelligence feature is expanding to all US users",
+          "link": "https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/",
+          "date": "2026-03-17",
+          "source": "TechCrunch",
+          "description": "Personal Intelligence allows Google's AI assistant to tap into your Google ecosystem, such as Gmail and Google Photos, to provide more tailored responses.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2198713751.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Google’s Personal Intelligence feature is expanding to all US users",
+          "original_summary": "Personal Intelligence allows Google's AI assistant to tap into your Google ecosystem, such as Gmail and Google Photos, to provide more tailored responses.",
+          "summary": "Personal Intelligence allows Google's AI assistant to tap into your Google ecosystem, such as Gmail and Google Photos, to provide more tailored responses."
+        },
+        {
+          "title": "Bringing the power of Personal Intelligence to more people",
+          "link": "https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/",
+          "date": "2026-03-17",
+          "source": "Google AI",
+          "description": "We're expanding Personal Intelligence across AI Mode in Search, the Gemini app and Gemini in Chrome.",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Header_gl7r1il.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "Bringing the power of Personal Intelligence to more people",
+          "original_summary": "We're expanding Personal Intelligence across AI Mode in Search, the Gemini app and Gemini in Chrome.",
+          "summary": "We're expanding Personal Intelligence across AI Mode in Search, the Gemini app and Gemini in Chrome."
+        },
+        {
+          "title": "Our latest investment in open source security for the AI era",
+          "link": "https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/",
+          "date": "2026-03-17",
+          "source": "Google AI",
+          "description": "Google is making new investments, building new tools and developing code security to improve open source security.",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/25367___BRS___Aspen_Security_Fo.max-600x600.format-webp_J9uPoFt.webp",
+          "is_english": true,
+          "original_title": "Our latest investment in open source security for the AI era",
+          "original_summary": "Google is making new investments, building new tools and developing code security to improve open source security.",
+          "summary": "Google is making new investments, building new tools and developing code security to improve open source security."
+        },
         {
           "title": "OpenAI expands government footprint with AWS deal, report says",
           "link": "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/",
@@ -7405,7 +7489,7 @@
         {
           "title": "Qwen/Qwen3.5-9B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-9B",
-          "date": "2026-03-09",
+          "date": "2026-03-18",
           "source": "HuggingFace",
           "description": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -7418,7 +7502,7 @@
         {
           "title": "Lightricks/LTX-2.3",
           "link": "https://huggingface.co/Lightricks/LTX-2.3",
-          "date": "2026-03-09",
+          "date": "2026-03-18",
           "source": "HuggingFace",
           "description": "• LTX-2.3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/Lightricks/LTX-2.3/resolve/main/ltx2.3-open.png",
@@ -7457,7 +7541,7 @@
         {
           "title": "Qwen/Qwen3.5-35B-A3B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
-          "date": "2026-03-09",
+          "date": "2026-03-18",
           "source": "HuggingFace",
           "description": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -7483,7 +7567,7 @@
         {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-          "date": "2026-03-09",
+          "date": "2026-03-18",
           "source": "HuggingFace",
           "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
@@ -7496,7 +7580,7 @@
         {
           "title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-03-09",
+          "date": "2026-03-18",
           "source": "HuggingFace",
           "description": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
@@ -7574,7 +7658,7 @@
         {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "date": "2026-03-09",
+          "date": "2026-03-18",
           "source": "HuggingFace",
           "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
