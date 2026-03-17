@@ -2,8 +2,152 @@
   "dates": [
     {
       "date": "2026-03-17",
-      "update_time": "2026-03-17 09:45:56",
+      "update_time": "2026-03-17 12:46:09",
       "news": [
+        {
+          "title": "문샷, AI 아키텍처 근본적으로 개선한 ‘주의 잔차’ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207982",
+          "date": "2026-03-17",
+          "source": "AI타임스",
+          "description": "대형언어모델(LLM)의 성능을 끌어올리기 위해 단순한 알고리즘 개선을 넘어 모델 구조 자체를 근본적으로 재설계하려는 시도가 본격화하고 있다. 문샷 AI 연구진은 15일(현지시간) 기존 트랜스포머 구조의 핵심 요소였던 잔차 연결(Residual connection)을 대체하는 새로운 방식인 ‘주의 잔차(AttnRes·Attention Residuals)’를 공개했다.잔차 연결은 신경망의 층이 깊어질수록 앞부분에서 만들어진 핵심 정보가 점점 약해지고, 학습 신호인 기울기가 사라지면서 오히려 성능이 떨어지는 문제를 해결하기 위해 고안된",
+          "image": "https://cdn.aitimes.com/news/photo/202603/207982_210165_437.png",
+          "is_english": false,
+          "original_title": "문샷, AI 아키텍처 근본적으로 개선한 ‘주의 잔차’ 공개",
+          "original_summary": "대형언어모델(LLM)의 성능을 끌어올리기 위해 단순한 알고리즘 개선을 넘어 모델 구조 자체를 근본적으로 재설계하려는 시도가 본격화하고 있다. 문샷 AI 연구진은 15일(현지시간) 기존 트랜스포머 구조의 핵심 요소였던 잔차 연결(Residual connection)을 대체하는 새로운 방식인 ‘주의 잔차(AttnRes·Attention Residuals)’를 공개했다.잔차 연결은 신경망의 층이 깊어질수록 앞부분에서 만들어진 핵심 정보가 점점 약해지고, 학습 신호인 기울기가 사라지면서 오히려 성능이 떨어지는 문제를 해결하기 위해 고안된",
+          "summary": "대형언어모델(LLM)의 성능을 끌어올리기 위해 단순한 알고리즘 개선을 넘어 모델 구조 자체를 근본적으로 재설계하려는 시도가 본격화하고 있다. 문샷 AI 연구진은 15일(현지시간) 기존 트랜스포머 구조의 핵심 요소였던 잔차 연결(Residual connection)을 대체하는 새로운 방식인 ‘주의 잔차(AttnRes·Attention Residuals)’를 공개했다.잔차 연결은 신경망의 층이 깊어질수록 앞부분에서 만들어진 핵심 정보가 점점 약해지고, 학습 신호인 기울기가 사라지면서 오히려 성능이 떨어지는 문제를 해결하기 위해 고안된"
+        },
+        {
+          "title": "지푸, 빠르고 저렴한 에이전트형 ‘GLM-5-터보’ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207987",
+          "date": "2026-03-17",
+          "source": "AI타임스",
+          "description": "대형언어모델(LLM) 경쟁이 단순 성능을 넘어 ‘실제 업무 수행 능력’으로 이동하는 가운데, 중국 지푸 AI가 실행 중심 에이전트 모델을 앞세워 AI 시장 공략에 나섰다. 지푸 AI는 16일(현지시간) \\'GLM-5\\'을 기반으로 한 새로운 모델 ‘GLM-5-터보(GLM-5-Turbo)’를 공개했다. GLM-5를 에이전트 중심 워크플로우에 맞춰 속도와 안정성, 도구 활용 능력을 강화한 실행 최적화형 모델이다. 특히, 오픈소스 에이전트 \\'오픈클로(OpenClaw)\\' 스타일의 장기 작업, 자동화, 도구 호출 등 복잡한 멀티스텝 과제 수행에",
+          "image": "https://cdn.aitimes.com/news/photo/202603/207987_210173_456.jpg",
+          "is_english": false,
+          "original_title": "지푸, 빠르고 저렴한 에이전트형 ‘GLM-5-터보’ 공개",
+          "original_summary": "대형언어모델(LLM) 경쟁이 단순 성능을 넘어 ‘실제 업무 수행 능력’으로 이동하는 가운데, 중국 지푸 AI가 실행 중심 에이전트 모델을 앞세워 AI 시장 공략에 나섰다. 지푸 AI는 16일(현지시간) \\'GLM-5\\'을 기반으로 한 새로운 모델 ‘GLM-5-터보(GLM-5-Turbo)’를 공개했다. GLM-5를 에이전트 중심 워크플로우에 맞춰 속도와 안정성, 도구 활용 능력을 강화한 실행 최적화형 모델이다. 특히, 오픈소스 에이전트 \\'오픈클로(OpenClaw)\\' 스타일의 장기 작업, 자동화, 도구 호출 등 복잡한 멀티스텝 과제",
+          "summary": "대형언어모델(LLM) 경쟁이 단순 성능을 넘어 ‘실제 업무 수행 능력’으로 이동하는 가운데, 중국 지푸 AI가 실행 중심 에이전트 모델을 앞세워 AI 시장 공략에 나섰다. 지푸 AI는 16일(현지시간) \\'GLM-5\\'을 기반으로 한 새로운 모델 ‘GLM-5-터보(GLM-5-Turbo)’를 공개했다. GLM-5를 에이전트 중심 워크플로우에 맞춰 속도와 안정성, 도구 활용 능력을 강화한 실행 최적화형 모델이다. 특히, 오픈소스 에이전트 \\'오픈클로(OpenClaw)\\' 스타일의 장기 작업, 자동화, 도구 호출 등 복잡한 멀티스텝 과제"
+        },
+        {
+          "title": "오픈AI, 기업 AI 시장 확대 위해 사모펀드와 합작 회사 설립 추진",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207995",
+          "date": "2026-03-17",
+          "source": "AI타임스",
+          "description": "오픈AI가 글로벌 사모펀드들과 손잡고 기업용 AI 시장 확대에 나선다. 투자사들의 포트폴리오 기업을 기반으로 빠르게 시장을 선점하려는 전략이다.로이터는 16일(현지시간) 오픈AI가 TPG, 어드벤트 인터내셔널, 베인 캐피털, 브룩필드 자산운용 등 주요 사모펀드와 기업용 AI 제품을 공급하는 합작법인 설립을 논의 중이라고 전했다.합작사는 약 100억달러(약 14조9000억원) 규모의 기업가치로 평가되며, 투자사들은 총 40억달러(약 5조9000억원)를 투자하고 지분과 의사결정 권한을 확보할 것으로 전해졌다.이번 구조에서는 TPG가 최",
+          "image": "https://cdn.aitimes.com/news/photo/202603/207995_210176_3233.jpg",
+          "is_english": false,
+          "original_title": "오픈AI, 기업 AI 시장 확대 위해 사모펀드와 합작 회사 설립 추진",
+          "original_summary": "오픈AI가 글로벌 사모펀드들과 손잡고 기업용 AI 시장 확대에 나선다. 투자사들의 포트폴리오 기업을 기반으로 빠르게 시장을 선점하려는 전략이다.로이터는 16일(현지시간) 오픈AI가 TPG, 어드벤트 인터내셔널, 베인 캐피털, 브룩필드 자산운용 등 주요 사모펀드와 기업용 AI 제품을 공급하는 합작법인 설립을 논의 중이라고 전했다.합작사는 약 100억달러(약 14조9000억원) 규모의 기업가치로 평가되며, 투자사들은 총 40억달러(약 5조9000억원)를 투자하고 지분과 의사결정 권한을 확보할 것으로 전해졌다.이번 구조에서는 TPG가 최",
+          "summary": "오픈AI가 글로벌 사모펀드들과 손잡고 기업용 AI 시장 확대에 나선다. 투자사들의 포트폴리오 기업을 기반으로 빠르게 시장을 선점하려는 전략이다.로이터는 16일(현지시간) 오픈AI가 TPG, 어드벤트 인터내셔널, 베인 캐피털, 브룩필드 자산운용 등 주요 사모펀드와 기업용 AI 제품을 공급하는 합작법인 설립을 논의 중이라고 전했다.합작사는 약 100억달러(약 14조9000억원) 규모의 기업가치로 평가되며, 투자사들은 총 40억달러(약 5조9000억원)를 투자하고 지분과 의사결정 권한을 확보할 것으로 전해졌다.이번 구조에서는 TPG가 최"
+        },
+        {
+          "title": "미 법원 “크래프톤, 성과급 회피 위해 ‘챗GPT’와 전략 상의…부당 해고 맞다”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208009",
+          "date": "2026-03-17",
+          "source": "AI타임스",
+          "description": "최근 \\'언노운 월즈(Unknown World)\\' 경영진 부당 해고 건으로 재판을 진행한 크래프톤이 해고 준비 과정에서 ‘챗GPT’와 전략을 상의했다는 보도가 나왔다.크래프톤은 지난 2021년 언노운 월드를 인수했다. 인수 당시 독립 경영을 보장하고, 실적에 따라 최대 2억5000만달러(약 3727억5000만원) 상당의 성과급 지급을 약속한 바 있다. 그러나 17일 블룸버그와 로이터 등은 크래프톤이 언노운 월즈의 ‘서브노티카 2’의 흥행이 확실시 되자, 성과급 지급 회피 방안을 챗GPT와 상의하며 실행에 옮겼다고 보도했다.크래프톤 재",
+          "image": "https://cdn.aitimes.com/news/photo/202603/208009_210190_2726.jpeg",
+          "is_english": false,
+          "original_title": "미 법원 “크래프톤, 성과급 회피 위해 ‘챗GPT’와 전략 상의…부당 해고 맞다”",
+          "original_summary": "최근 \\'언노운 월즈(Unknown World)\\' 경영진 부당 해고 건으로 재판을 진행한 크래프톤이 해고 준비 과정에서 ‘챗GPT’와 전략을 상의했다는 보도가 나왔다.크래프톤은 지난 2021년 언노운 월드를 인수했다. 인수 당시 독립 경영을 보장하고, 실적에 따라 최대 2억5000만달러(약 3727억5000만원) 상당의 성과급 지급을 약속한 바 있다. 그러나 17일 블룸버그와 로이터 등은 크래프톤이 언노운 월즈의 ‘서브노티카 2’의 흥행이 확실시 되자, 성과급 지급 회피 방안을 챗GPT와 상의하며 실행에 옮겼다고 보도했다.크래프톤",
+          "summary": "최근 \\'언노운 월즈(Unknown World)\\' 경영진 부당 해고 건으로 재판을 진행한 크래프톤이 해고 준비 과정에서 ‘챗GPT’와 전략을 상의했다는 보도가 나왔다.크래프톤은 지난 2021년 언노운 월드를 인수했다. 인수 당시 독립 경영을 보장하고, 실적에 따라 최대 2억5000만달러(약 3727억5000만원) 상당의 성과급 지급을 약속한 바 있다. 그러나 17일 블룸버그와 로이터 등은 크래프톤이 언노운 월즈의 ‘서브노티카 2’의 흥행이 확실시 되자, 성과급 지급 회피 방안을 챗GPT와 상의하며 실행에 옮겼다고 보도했다.크래프톤"
+        },
+        {
+          "title": "슈퍼브에이아이 \"GTC서 엔비디아와 공동으로 글로벌 고객 미팅 나서\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208008",
+          "date": "2026-03-17",
+          "source": "AI타임스",
+          "description": "비전 AI 전문 슈퍼브에이아이(대표 김현수)는 16~19일(현지시간) 미국 새너제이에서 열리는 \\'GTC\\'에 공식 초청을 받아 참가했다고 17일 밝혔다.슈퍼브에이아이는 ‘CES 2026’에서 엔비디아가 발표한 \\'피지컬 AI 에코시스템\\' 파트너사로 이름을 올린 바 있다. 피지컬 AI 에코시스템은 로봇, 자율주행, 산업 자동화 등 물리적 환경에서 작동하는 AI 기술 생태계로, 엔비디아가 전략적 파트너사로 선정한 기업이 포함된다. 이번 GTC 참가도 이를 바탕으로 이뤄졌다.김현수 대표는 18일 비공개 세션인 \\'리테일 및 CPG(소비재) 에",
+          "image": "https://cdn.aitimes.com/news/photo/202603/208008_210188_5057.png",
+          "is_english": false,
+          "original_title": "슈퍼브에이아이 \"GTC서 엔비디아와 공동으로 글로벌 고객 미팅 나서\"",
+          "original_summary": "비전 AI 전문 슈퍼브에이아이(대표 김현수)는 16~19일(현지시간) 미국 새너제이에서 열리는 \\'GTC\\'에 공식 초청을 받아 참가했다고 17일 밝혔다.슈퍼브에이아이는 ‘CES 2026’에서 엔비디아가 발표한 \\'피지컬 AI 에코시스템\\' 파트너사로 이름을 올린 바 있다. 피지컬 AI 에코시스템은 로봇, 자율주행, 산업 자동화 등 물리적 환경에서 작동하는 AI 기술 생태계로, 엔비디아가 전략적 파트너사로 선정한 기업이 포함된다. 이번 GTC 참가도 이를 바탕으로 이뤄졌다.김현수 대표는 18일 비공개 세션인 \\'리테일 및 CPG(소",
+          "summary": "비전 AI 전문 슈퍼브에이아이(대표 김현수)는 16~19일(현지시간) 미국 새너제이에서 열리는 \\'GTC\\'에 공식 초청을 받아 참가했다고 17일 밝혔다.슈퍼브에이아이는 ‘CES 2026’에서 엔비디아가 발표한 \\'피지컬 AI 에코시스템\\' 파트너사로 이름을 올린 바 있다. 피지컬 AI 에코시스템은 로봇, 자율주행, 산업 자동화 등 물리적 환경에서 작동하는 AI 기술 생태계로, 엔비디아가 전략적 파트너사로 선정한 기업이 포함된다. 이번 GTC 참가도 이를 바탕으로 이뤄졌다.김현수 대표는 18일 비공개 세션인 \\'리테일 및 CPG(소"
+        },
+        {
+          "title": "xAI, '그록'의 미성년자 성적 이미지 생성 혐의로 고소 당해",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208005",
+          "date": "2026-03-17",
+          "source": "AI타임스",
+          "description": "일론 머스크가 이끄는 xAI의 이미지 생성 모델이 실제 미성년자의 사진을 성적 콘텐츠로 변형했다는 의혹이 제기되며 법적 공방으로 번지고 있다.16일(현지시간) 워싱턴포스트에 따르면, xAI가 \\'그록\\'의 이미지 생성 기능을 통해 식별 가능한 미성년자의 성적 이미지를 만들어낸 책임을 져야 한다는 집단소송이 캘리포니아 연방법원에 제기됐다.익명의 원고 3명은 자신들의 실제 어린 시절 사진이 그록을 통해 포르노 이미지로 변형된 사례를 대표해 소송을 진행한다고 밝혔다.원고 중 한 명은 고등학교 홈커밍과 연감 사진이 그록으로 변형돼 누드 이미지",
+          "image": "https://cdn.aitimes.com/news/photo/202603/208005_210184_2043.jpg",
+          "is_english": false,
+          "original_title": "xAI, '그록'의 미성년자 성적 이미지 생성 혐의로 고소 당해",
+          "original_summary": "일론 머스크가 이끄는 xAI의 이미지 생성 모델이 실제 미성년자의 사진을 성적 콘텐츠로 변형했다는 의혹이 제기되며 법적 공방으로 번지고 있다.16일(현지시간) 워싱턴포스트에 따르면, xAI가 \\'그록\\'의 이미지 생성 기능을 통해 식별 가능한 미성년자의 성적 이미지를 만들어낸 책임을 져야 한다는 집단소송이 캘리포니아 연방법원에 제기됐다.익명의 원고 3명은 자신들의 실제 어린 시절 사진이 그록을 통해 포르노 이미지로 변형된 사례를 대표해 소송을 진행한다고 밝혔다.원고 중 한 명은 고등학교 홈커밍과 연감 사진이 그록으로 변형돼 누드 이",
+          "summary": "일론 머스크가 이끄는 xAI의 이미지 생성 모델이 실제 미성년자의 사진을 성적 콘텐츠로 변형했다는 의혹이 제기되며 법적 공방으로 번지고 있다.16일(현지시간) 워싱턴포스트에 따르면, xAI가 \\'그록\\'의 이미지 생성 기능을 통해 식별 가능한 미성년자의 성적 이미지를 만들어낸 책임을 져야 한다는 집단소송이 캘리포니아 연방법원에 제기됐다.익명의 원고 3명은 자신들의 실제 어린 시절 사진이 그록을 통해 포르노 이미지로 변형된 사례를 대표해 소송을 진행한다고 밝혔다.원고 중 한 명은 고등학교 홈커밍과 연감 사진이 그록으로 변형돼 누드 이"
+        },
+        {
+          "title": "[게시판] 네이버-SBS, AI 기술 고도화 및 콘텐츠 파트너십 MOU 등 단신",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208010",
+          "date": "2026-03-17",
+          "source": "AI타임스",
+          "description": "■ 네이버(대표 최수연)는 SBS와 ‘AI 미디어 기술 발전 및 영상 콘텐츠 경쟁력 강화’ MOU를 체결했다고 밝혔다. ▲SBS의 제작 역량과 네이버의 웹툰·웹소설 IP를 결합한 콘텐츠 공동 제작 협력 ▲SBS 콘텐츠와 네이버의 커머스 생태계를 연계한 협력 방안 등을 추진할 예정이다. ■ 마인드로직(대표 김용우, 김진욱)은 생성 AI 플랫폼 ‘팩트챗(FactChat)’이 주요 대학교뿐만 아니라 전국 219개 초·중·고등학교 및 교육기관으로 도입을 확대하고 있다고 밝혔다. 현재 팩트챗은 초·중·고등학교는 물론 유치원 및 특수학교, 기",
+          "image": "https://cdn.aitimes.com/news/photo/202603/208010_210191_3853.jpeg",
+          "is_english": false,
+          "original_title": "[게시판] 네이버-SBS, AI 기술 고도화 및 콘텐츠 파트너십 MOU 등 단신",
+          "original_summary": "■ 네이버(대표 최수연)는 SBS와 ‘AI 미디어 기술 발전 및 영상 콘텐츠 경쟁력 강화’ MOU를 체결했다고 밝혔다. ▲SBS의 제작 역량과 네이버의 웹툰·웹소설 IP를 결합한 콘텐츠 공동 제작 협력 ▲SBS 콘텐츠와 네이버의 커머스 생태계를 연계한 협력 방안 등을 추진할 예정이다. ■ 마인드로직(대표 김용우, 김진욱)은 생성 AI 플랫폼 ‘팩트챗(FactChat)’이 주요 대학교뿐만 아니라 전국 219개 초·중·고등학교 및 교육기관으로 도입을 확대하고 있다고 밝혔다. 현재 팩트챗은 초·중·고등학교는 물론 유치원 및 특수학교, 기",
+          "summary": "■ 네이버(대표 최수연)는 SBS와 ‘AI 미디어 기술 발전 및 영상 콘텐츠 경쟁력 강화’ MOU를 체결했다고 밝혔다. ▲SBS의 제작 역량과 네이버의 웹툰·웹소설 IP를 결합한 콘텐츠 공동 제작 협력 ▲SBS 콘텐츠와 네이버의 커머스 생태계를 연계한 협력 방안 등을 추진할 예정이다. ■ 마인드로직(대표 김용우, 김진욱)은 생성 AI 플랫폼 ‘팩트챗(FactChat)’이 주요 대학교뿐만 아니라 전국 219개 초·중·고등학교 및 교육기관으로 도입을 확대하고 있다고 밝혔다. 현재 팩트챗은 초·중·고등학교는 물론 유치원 및 특수학교, 기"
+        },
+        {
+          "title": "엔비디아, GTC서 자율주행·로봇 칩 대규모 제휴 발표...\"피지컬 AI 본격 확장\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207974",
+          "date": "2026-03-17",
+          "source": "AI타임스",
+          "description": "엔비디아가 자율주행차, 휴머노이드 로봇, 기업용 AI 에이전트 플랫폼 등 다양한 분야의 협력과 신기술을 발표하며 AI 산업 전반으로 영향력을 확대했다. 자율주행차, 로봇, 기업 소프트웨어까지 연결되는 피지컬 AI 전략을 통해 새로운 GPU 수요를 창출하려는 의도다. 엔비디아는 16일(현지시간) 연례 개발자 행사 \\'GTC\\'에서 자동차 기업들과 자율주행차 개발 협력을 확대한다고 밝혔다. 파트너에는 현대자동차, 닛산, 이수즈(Isuzu)와 중국 기업 BYD, 지리(Geely) 등이 포함된다.이들 기업은 엔비디아의 자율주행 플랫폼 ‘드라이",
+          "image": "https://cdn.aitimes.com/news/photo/202603/207974_210157_3758.jpg",
+          "is_english": false,
+          "original_title": "엔비디아, GTC서 자율주행·로봇 칩 대규모 제휴 발표...\"피지컬 AI 본격 확장\"",
+          "original_summary": "엔비디아가 자율주행차, 휴머노이드 로봇, 기업용 AI 에이전트 플랫폼 등 다양한 분야의 협력과 신기술을 발표하며 AI 산업 전반으로 영향력을 확대했다. 자율주행차, 로봇, 기업 소프트웨어까지 연결되는 피지컬 AI 전략을 통해 새로운 GPU 수요를 창출하려는 의도다. 엔비디아는 16일(현지시간) 연례 개발자 행사 \\'GTC\\'에서 자동차 기업들과 자율주행차 개발 협력을 확대한다고 밝혔다. 파트너에는 현대자동차, 닛산, 이수즈(Isuzu)와 중국 기업 BYD, 지리(Geely) 등이 포함된다.이들 기업은 엔비디아의 자율주행 플랫폼 ‘드",
+          "summary": "엔비디아가 자율주행차, 휴머노이드 로봇, 기업용 AI 에이전트 플랫폼 등 다양한 분야의 협력과 신기술을 발표하며 AI 산업 전반으로 영향력을 확대했다. 자율주행차, 로봇, 기업 소프트웨어까지 연결되는 피지컬 AI 전략을 통해 새로운 GPU 수요를 창출하려는 의도다. 엔비디아는 16일(현지시간) 연례 개발자 행사 \\'GTC\\'에서 자동차 기업들과 자율주행차 개발 협력을 확대한다고 밝혔다. 파트너에는 현대자동차, 닛산, 이수즈(Isuzu)와 중국 기업 BYD, 지리(Geely) 등이 포함된다.이들 기업은 엔비디아의 자율주행 플랫폼 ‘드"
+        },
+        {
+          "title": "네비우스, 메타와 5년간 40조 규모의 AI 인프라 공급 계약",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208003",
+          "date": "2026-03-17",
+          "source": "AI타임스",
+          "description": "글로벌 빅테크 기업들이 AI 인프라 확보 경쟁에 막대한 투자를 쏟아붓는 가운데, 유럽 기반 AI 클라우드 기업이 초대형 계약을 잇달아 따내며 시장의 주목을 받고 있다.메타는 16일(현지시간) 네덜란드 네오클라우드 네비우스가 2027년까지 120억달러(약 17조원) 규모의 AI 컴퓨팅 용량을 공급하는 계약을 체결했다고 발표했다. 계약 조건에 따라 메타는 네비우스가 앞으로 5년간 계획한 추가 용량 150억달러(약 22조원) 규모의 컴퓨팅 용량을 다른 고객에게 판매하지 않을 경우, 이를 추가 구매할 수 있다. 이에 따라 총계약 규모는 최",
+          "image": "https://cdn.aitimes.com/news/photo/202603/208003_210182_1031.png",
+          "is_english": false,
+          "original_title": "네비우스, 메타와 5년간 40조 규모의 AI 인프라 공급 계약",
+          "original_summary": "글로벌 빅테크 기업들이 AI 인프라 확보 경쟁에 막대한 투자를 쏟아붓는 가운데, 유럽 기반 AI 클라우드 기업이 초대형 계약을 잇달아 따내며 시장의 주목을 받고 있다.메타는 16일(현지시간) 네덜란드 네오클라우드 네비우스가 2027년까지 120억달러(약 17조원) 규모의 AI 컴퓨팅 용량을 공급하는 계약을 체결했다고 발표했다. 계약 조건에 따라 메타는 네비우스가 앞으로 5년간 계획한 추가 용량 150억달러(약 22조원) 규모의 컴퓨팅 용량을 다른 고객에게 판매하지 않을 경우, 이를 추가 구매할 수 있다. 이에 따라 총계약 규모는 최",
+          "summary": "글로벌 빅테크 기업들이 AI 인프라 확보 경쟁에 막대한 투자를 쏟아붓는 가운데, 유럽 기반 AI 클라우드 기업이 초대형 계약을 잇달아 따내며 시장의 주목을 받고 있다.메타는 16일(현지시간) 네덜란드 네오클라우드 네비우스가 2027년까지 120억달러(약 17조원) 규모의 AI 컴퓨팅 용량을 공급하는 계약을 체결했다고 발표했다. 계약 조건에 따라 메타는 네비우스가 앞으로 5년간 계획한 추가 용량 150억달러(약 22조원) 규모의 컴퓨팅 용량을 다른 고객에게 판매하지 않을 경우, 이를 추가 구매할 수 있다. 이에 따라 총계약 규모는 최"
+        },
+        {
+          "title": "13억 사용자 링크드인, 5개 피드 검색 시스템을 LLM 모델 하나로 대체",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208006",
+          "date": "2026-03-17",
+          "source": "AI타임스",
+          "description": "13억명이 사용하는 글로벌 비즈니스 플랫폼 링크드인이 기존 추천 시스템을 전면 재설계하고, 대형언어모델(LLM)을 중심으로 한 차세대 피드 아키텍처를 도입했다. 단순한 알고리즘 개선을 넘어, 콘텐츠 추천 방식과 인프라 구조를 근본적으로 바꾼 대규모 전환이다.링크드인은 12일(현지시간) 그동안 서로 다른 목적을 가진 5개의 콘텐츠 검색(retrieval) 파이프라인을 운영해 왔지만, 이를 하나의 LLM 기반 시스템으로 통합했다고 밝혔다.이번 개편을 통해 사용자의 직무, 관심사, 행동 패턴을 더 정밀하게 이해하면서도 운영 비용을 낮출",
+          "image": "https://cdn.aitimes.com/news/photo/202603/208006_210187_4427.jpg",
+          "is_english": false,
+          "original_title": "13억 사용자 링크드인, 5개 피드 검색 시스템을 LLM 모델 하나로 대체",
+          "original_summary": "13억명이 사용하는 글로벌 비즈니스 플랫폼 링크드인이 기존 추천 시스템을 전면 재설계하고, 대형언어모델(LLM)을 중심으로 한 차세대 피드 아키텍처를 도입했다. 단순한 알고리즘 개선을 넘어, 콘텐츠 추천 방식과 인프라 구조를 근본적으로 바꾼 대규모 전환이다.링크드인은 12일(현지시간) 그동안 서로 다른 목적을 가진 5개의 콘텐츠 검색(retrieval) 파이프라인을 운영해 왔지만, 이를 하나의 LLM 기반 시스템으로 통합했다고 밝혔다.이번 개편을 통해 사용자의 직무, 관심사, 행동 패턴을 더 정밀하게 이해하면서도 운영 비용을 낮출",
+          "summary": "13억명이 사용하는 글로벌 비즈니스 플랫폼 링크드인이 기존 추천 시스템을 전면 재설계하고, 대형언어모델(LLM)을 중심으로 한 차세대 피드 아키텍처를 도입했다. 단순한 알고리즘 개선을 넘어, 콘텐츠 추천 방식과 인프라 구조를 근본적으로 바꾼 대규모 전환이다.링크드인은 12일(현지시간) 그동안 서로 다른 목적을 가진 5개의 콘텐츠 검색(retrieval) 파이프라인을 운영해 왔지만, 이를 하나의 LLM 기반 시스템으로 통합했다고 밝혔다.이번 개편을 통해 사용자의 직무, 관심사, 행동 패턴을 더 정밀하게 이해하면서도 운영 비용을 낮출"
+        },
+        {
+          "title": "“에너지도 AI가 관리한다”... 전남대, 산단 에너지 디지털 전환 전략 제시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207961",
+          "date": "2026-03-17",
+          "source": "AI타임스",
+          "description": "전남대학교가 서남권 에너지전환 정책 논의를 본격화했다.전남대는 기후위기 대응과 탄소중립 전환 흐름에 맞춰 산업단지 중심 에너지전환 전략을 다루는 정책 세미나를 16일 개최했다고 밝혔다.이번 세미나는 광주·전남 산업단지의 재생에너지 확대와 RE100 대응 전략을 모색하기 위해 마련됐다.전남대 지역개발연구소는 국가기후위기대응위원회와 공동으로 ‘서남권 에너지전환 정책 세미나’를 전남대 경영대학 2호관에서 개최했다. 세미나는 배정환 지역개발연구소장의 개회사와 나주몽 전남대 경영대학장의 축사로 시작됐다. 중앙정부와 지자체, 산업계, 학계 전",
+          "image": "https://cdn.aitimes.com/news/photo/202603/207961_210126_5340.png",
+          "is_english": false,
+          "original_title": "“에너지도 AI가 관리한다”... 전남대, 산단 에너지 디지털 전환 전략 제시",
+          "original_summary": "전남대학교가 서남권 에너지전환 정책 논의를 본격화했다.전남대는 기후위기 대응과 탄소중립 전환 흐름에 맞춰 산업단지 중심 에너지전환 전략을 다루는 정책 세미나를 16일 개최했다고 밝혔다.이번 세미나는 광주·전남 산업단지의 재생에너지 확대와 RE100 대응 전략을 모색하기 위해 마련됐다.전남대 지역개발연구소는 국가기후위기대응위원회와 공동으로 ‘서남권 에너지전환 정책 세미나’를 전남대 경영대학 2호관에서 개최했다. 세미나는 배정환 지역개발연구소장의 개회사와 나주몽 전남대 경영대학장의 축사로 시작됐다. 중앙정부와 지자체, 산업계, 학계 전",
+          "summary": "전남대학교가 서남권 에너지전환 정책 논의를 본격화했다.전남대는 기후위기 대응과 탄소중립 전환 흐름에 맞춰 산업단지 중심 에너지전환 전략을 다루는 정책 세미나를 16일 개최했다고 밝혔다.이번 세미나는 광주·전남 산업단지의 재생에너지 확대와 RE100 대응 전략을 모색하기 위해 마련됐다.전남대 지역개발연구소는 국가기후위기대응위원회와 공동으로 ‘서남권 에너지전환 정책 세미나’를 전남대 경영대학 2호관에서 개최했다. 세미나는 배정환 지역개발연구소장의 개회사와 나주몽 전남대 경영대학장의 축사로 시작됐다. 중앙정부와 지자체, 산업계, 학계 전"
+        },
+        {
+          "title": "전남, 해상풍력 연계 AI·첨단산업 유치...지역 산업 구조 ‘대변환’",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=207964",
+          "date": "2026-03-17",
+          "source": "AI타임스",
+          "description": "전라남도가 해상풍력을 중심으로 재생에너지 산업 생태계 구축을 발표했다.전남은 16일 신안과 진도 해역에 총 7.3GW 규모 해상풍력 집적화단지가 지정된 것에 대해 환영 입장을 밝히고 재생에너지 산업 중심지 조성에 속도를 내겠다고 밝혔다.이번 지정으로 진도 해역 2개 단지 3.6GW가 신규 지정되고 신안 해역이 기존보다 확대된 3.7GW 규모로 조성된다. 이에 따라 총 7.3GW 규모 초대형 해상풍력 집적화단지를 확보하게 됐다.신안과 진도 해상풍력 단지는 국내 최대 규모 프로젝트로 평가된다. 그동안 중앙정부와 협력해 군 작전성 문제와",
+          "image": "https://cdn.aitimes.com/news/photo/202603/207964_210164_3648.jpg",
+          "is_english": false,
+          "original_title": "전남, 해상풍력 연계 AI·첨단산업 유치...지역 산업 구조 ‘대변환’",
+          "original_summary": "전라남도가 해상풍력을 중심으로 재생에너지 산업 생태계 구축을 발표했다.전남은 16일 신안과 진도 해역에 총 7.3GW 규모 해상풍력 집적화단지가 지정된 것에 대해 환영 입장을 밝히고 재생에너지 산업 중심지 조성에 속도를 내겠다고 밝혔다.이번 지정으로 진도 해역 2개 단지 3.6GW가 신규 지정되고 신안 해역이 기존보다 확대된 3.7GW 규모로 조성된다. 이에 따라 총 7.3GW 규모 초대형 해상풍력 집적화단지를 확보하게 됐다.신안과 진도 해상풍력 단지는 국내 최대 규모 프로젝트로 평가된다. 그동안 중앙정부와 협력해 군 작전성 문제와",
+          "summary": "전라남도가 해상풍력을 중심으로 재생에너지 산업 생태계 구축을 발표했다.전남은 16일 신안과 진도 해역에 총 7.3GW 규모 해상풍력 집적화단지가 지정된 것에 대해 환영 입장을 밝히고 재생에너지 산업 중심지 조성에 속도를 내겠다고 밝혔다.이번 지정으로 진도 해역 2개 단지 3.6GW가 신규 지정되고 신안 해역이 기존보다 확대된 3.7GW 규모로 조성된다. 이에 따라 총 7.3GW 규모 초대형 해상풍력 집적화단지를 확보하게 됐다.신안과 진도 해상풍력 단지는 국내 최대 규모 프로젝트로 평가된다. 그동안 중앙정부와 협력해 군 작전성 문제와"
+        },
         {
           "title": "강원도, 'AI 곤충 스마트팩토리' 국가 연구과제 최종 선정",
           "link": "https://www.yna.co.kr/view/AKR20260317170900062",
@@ -538,19 +682,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Lightricks/LTX-2.3",
-          "link": "https://huggingface.co/Lightricks/LTX-2.3",
-          "date": "2026-03-17",
-          "source": "HuggingFace",
-          "description": "• LTX-2.3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/Lightricks/LTX-2.3/resolve/main/ltx2.3-open.png",
-          "is_english": true,
-          "summary": "• LTX-2.3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Lightricks/LTX-2.3",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16",
           "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16",
           "date": "2026-03-17",
@@ -564,15 +695,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.5-9B",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-9B",
+          "title": "Lightricks/LTX-2.3",
+          "link": "https://huggingface.co/Lightricks/LTX-2.3",
           "date": "2026-03-17",
           "source": "HuggingFace",
-          "description": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "description": "• LTX-2.3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/Lightricks/LTX-2.3/resolve/main/ltx2.3-open.png",
           "is_english": true,
-          "summary": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.5-9B",
+          "summary": "• LTX-2.3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Lightricks/LTX-2.3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -590,6 +721,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Qwen/Qwen3.5-9B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-9B",
+          "date": "2026-03-17",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.5-9B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "LocoreMind/LocoTrainer-4B",
           "link": "https://huggingface.co/LocoreMind/LocoTrainer-4B",
           "date": "2026-03-17",
@@ -603,15 +747,15 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-FP8",
-          "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-FP8",
+          "title": "mistralai/Mistral-Small-4-119B-2603",
+          "link": "https://huggingface.co/mistralai/Mistral-Small-4-119B-2603",
           "date": "2026-03-17",
           "source": "HuggingFace",
-          "description": "• NVIDIA-Nemotron-3-Super-120B-A12B-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-FP8/resolve/main/./accuracy_chart.png",
+          "description": "• Mistral-Small-4-119B-2603 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
           "is_english": true,
-          "summary": "• NVIDIA-Nemotron-3-Super-120B-A12B-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-FP8",
+          "summary": "• Mistral-Small-4-119B-2603 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "mistralai/Mistral-Small-4-119B-2603",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -629,15 +773,15 @@
           "category": "AI Model"
         },
         {
-          "title": "mistralai/Mistral-Small-4-119B-2603",
-          "link": "https://huggingface.co/mistralai/Mistral-Small-4-119B-2603",
+          "title": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-FP8",
+          "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-FP8",
           "date": "2026-03-17",
           "source": "HuggingFace",
-          "description": "• Mistral-Small-4-119B-2603 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "description": "• NVIDIA-Nemotron-3-Super-120B-A12B-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-FP8/resolve/main/./accuracy_chart.png",
           "is_english": true,
-          "summary": "• Mistral-Small-4-119B-2603 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "mistralai/Mistral-Small-4-119B-2603",
+          "summary": "• NVIDIA-Nemotron-3-Super-120B-A12B-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-FP8",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -681,19 +825,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/LTX-2.3-GGUF",
-          "link": "https://huggingface.co/unsloth/LTX-2.3-GGUF",
-          "date": "2026-03-17",
-          "source": "HuggingFace",
-          "description": "• LTX-2.3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
-          "is_english": true,
-          "summary": "• LTX-2.3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/LTX-2.3-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "circlestone-labs/Anima",
           "link": "https://huggingface.co/circlestone-labs/Anima",
           "date": "2026-03-17",
@@ -703,6 +834,19 @@
           "is_english": true,
           "summary": "• Anima 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "circlestone-labs/Anima",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/LTX-2.3-GGUF",
+          "link": "https://huggingface.co/unsloth/LTX-2.3-GGUF",
+          "date": "2026-03-17",
+          "source": "HuggingFace",
+          "description": "• LTX-2.3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "is_english": true,
+          "summary": "• LTX-2.3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/LTX-2.3-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
