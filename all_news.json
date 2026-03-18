@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-03-19",
-      "update_time": "2026-03-18 16:01:39",
+      "update_time": "2026-03-18 18:45:07",
       "news": [
+        {
+          "title": "Mistral Pioneers Sovereign AI in Europe",
+          "link": "https://aibusiness.com/foundation-models/mistral-pioneers-sovereign-ai-in-europe",
+          "date": "2026-03-19",
+          "source": "AI Business",
+          "description": "Mistral's sovereign AI stack, investment in data center capacity and open-weight frontier models provide CIOs with an alternative to U.S. proprietary AI models.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt3910a6c712ec7f17/69bacc83294bca11d5ae58e3/mistral.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Mistral Pioneers Sovereign AI in Europe",
+          "original_summary": "Mistral's sovereign AI stack, investment in data center capacity and open-weight frontier models provide CIOs with an alternative to U.S. proprietary AI models.",
+          "summary": "Mistral's sovereign AI stack, investment in data center capacity and open-weight frontier models provide CIOs with an alternative to U.S. proprietary AI models."
+        },
         {
           "title": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
@@ -174,19 +186,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Tesslate/OmniCoder-9B-GGUF",
-          "link": "https://huggingface.co/Tesslate/OmniCoder-9B-GGUF",
-          "date": "2026-03-19",
-          "source": "HuggingFace",
-          "description": "• OmniCoder-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/License-Apache_2.0-blue.svg",
-          "is_english": true,
-          "summary": "• OmniCoder-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Tesslate/OmniCoder-9B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "RoyalCities/Foundation-1",
           "link": "https://huggingface.co/RoyalCities/Foundation-1",
           "date": "2026-03-19",
@@ -200,15 +199,15 @@
           "category": "AI Model"
         },
         {
-          "title": "circlestone-labs/Anima",
-          "link": "https://huggingface.co/circlestone-labs/Anima",
+          "title": "Tesslate/OmniCoder-9B-GGUF",
+          "link": "https://huggingface.co/Tesslate/OmniCoder-9B-GGUF",
           "date": "2026-03-19",
           "source": "HuggingFace",
-          "description": "• Anima 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/circlestone-labs/Anima/resolve/main/montage.jpg",
+          "description": "• OmniCoder-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/License-Apache_2.0-blue.svg",
           "is_english": true,
-          "summary": "• Anima 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "circlestone-labs/Anima",
+          "summary": "• OmniCoder-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Tesslate/OmniCoder-9B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -222,6 +221,19 @@
           "is_english": true,
           "summary": "• Qianfan-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "baidu/Qianfan-OCR",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "circlestone-labs/Anima",
+          "link": "https://huggingface.co/circlestone-labs/Anima",
+          "date": "2026-03-19",
+          "source": "HuggingFace",
+          "description": "• Anima 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/circlestone-labs/Anima/resolve/main/montage.jpg",
+          "is_english": true,
+          "summary": "• Anima 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "circlestone-labs/Anima",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +280,116 @@
     },
     {
       "date": "2026-03-18",
-      "update_time": "2026-03-18 16:01:39",
+      "update_time": "2026-03-18 18:45:07",
       "news": [
+        {
+          "title": "Patreon CEO calls AI companies’ fair use argument ‘bogus,’ says creators should be paid",
+          "link": "https://techcrunch.com/2026/03/18/patreon-ceo-calls-ai-companies-fair-use-argument-bogus-says-creators-should-be-paid/",
+          "date": "2026-03-18",
+          "source": "TechCrunch",
+          "description": "Patreon CEO Jack Conte says AI companies should pay creators for training data, arguing their fair use defense falls apart when they license content from major publishers.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/jack-conte-sxsw-1.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Patreon CEO calls AI companies’ fair use argument ‘bogus,’ says creators should be paid",
+          "original_summary": "Patreon CEO Jack Conte says AI companies should pay creators for training data, arguing their fair use defense falls apart when they license content from major publishers.",
+          "summary": "Patreon CEO Jack Conte says AI companies should pay creators for training data, arguing their fair use defense falls apart when they license content from major publishers."
+        },
+        {
+          "title": "Rebel Audio is a new AI podcasting tool aimed at first-time creators",
+          "link": "https://techcrunch.com/2026/03/18/rebel-audio-is-a-new-ai-podcasting-tool-aimed-at-first-time-creators/",
+          "date": "2026-03-18",
+          "source": "TechCrunch",
+          "description": "Rebel Audio is a new all-in-one podcasting tool that allows creators to record podcasts, edit, clip content for social, and publish episodes, all without ever leaving the platform. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2021/12/GettyImages-1297183927.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Rebel Audio is a new AI podcasting tool aimed at first-time creators",
+          "original_summary": "Rebel Audio is a new all-in-one podcasting tool that allows creators to record podcasts, edit, clip content for social, and publish episodes, all without ever leaving the platform. ",
+          "summary": "Rebel Audio is a new all-in-one podcasting tool that allows creators to record podcasts, edit, clip content for social, and publish episodes, all without ever leaving the platform. "
+        },
+        {
+          "title": "The Gemini-powered features in Google Workspace that are worth using",
+          "link": "https://techcrunch.com/2026/03/18/the-gemini-powered-features-in-google-workspace-that-are-worth-using/",
+          "date": "2026-03-18",
+          "source": "TechCrunch",
+          "description": "From summarizing emails, drafting content, organizing data, and tracking meetings, here are all the best Gemini features in Google Workspace.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2198713751.jpg?w=1024",
+          "is_english": true,
+          "original_title": "The Gemini-powered features in Google Workspace that are worth using",
+          "original_summary": "From summarizing emails, drafting content, organizing data, and tracking meetings, here are all the best Gemini features in Google Workspace.",
+          "summary": "From summarizing emails, drafting content, organizing data, and tracking meetings, here are all the best Gemini features in Google Workspace."
+        },
+        {
+          "title": "The leaderboard “you can’t game,” funded by the companies it ranks",
+          "link": "https://techcrunch.com/video/the-leaderboard-you-cant-game-funded-by-the-companies-it-ranks/",
+          "date": "2026-03-18",
+          "source": "TechCrunch",
+          "description": "Artificial intelligence&#160;models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best&#160;— and who decides that?&#160;Arena, formerly LM Arena, has&#160;emerged&#160;as the de facto public leaderboard for frontier LLMs, influencing funding, launches, and PR cycles. In just seven months, the startup went from a&#160;UC&#160;Berkeley PhD research [&#8230;]",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2154525596.jpg?resize=1200,771",
+          "is_english": true,
+          "original_title": "The leaderboard “you can’t game,” funded by the companies it ranks",
+          "original_summary": "Artificial intelligence&#160;models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best&#160;— and who decides that?&#160;Arena, formerly LM Arena, has&#160;emerged&#160;as the de facto public leaderboard for frontier LLMs, influencing ",
+          "summary": "Artificial intelligence&#160;models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best&#160;— and who decides that?&#160;Arena, formerly LM Arena, has&#160;emerged&#160;as the de facto public leaderboard for frontier LLMs, influencing "
+        },
+        {
+          "title": "This startup wants to make enterprise software look more like a prompt",
+          "link": "https://techcrunch.com/2026/03/18/this-startup-wants-to-make-enterprise-software-look-more-like-a-prompt/",
+          "date": "2026-03-18",
+          "source": "TechCrunch",
+          "description": "The company has raised $12 million in seed funding to build an AI operating system for enterprise. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-17-at-11.09.22-AM.png?resize=1200,759",
+          "is_english": true,
+          "original_title": "This startup wants to make enterprise software look more like a prompt",
+          "original_summary": "The company has raised $12 million in seed funding to build an AI operating system for enterprise. ",
+          "summary": "The company has raised $12 million in seed funding to build an AI operating system for enterprise. "
+        },
+        {
+          "title": "Sequen snags $16M to bring TikTok-style personalization tech to any consumer company",
+          "link": "https://techcrunch.com/2026/03/18/sequen-snags-16m-to-bring-tiktok-style-personalization-tech-to-any-consumer-company/",
+          "date": "2026-03-18",
+          "source": "TechCrunch",
+          "description": "With its Series A, Sequen is bringing its proprietary AI ranking and personalization technology to large consumer business. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/sequen-logo.jpg?w=744",
+          "is_english": true,
+          "original_title": "Sequen snags $16M to bring TikTok-style personalization tech to any consumer company",
+          "original_summary": "With its Series A, Sequen is bringing its proprietary AI ranking and personalization technology to large consumer business. ",
+          "summary": "With its Series A, Sequen is bringing its proprietary AI ranking and personalization technology to large consumer business. "
+        },
+        {
+          "title": "Microsoft hires the team of Sequoia-backed AI collaboration platform, Cove",
+          "link": "https://techcrunch.com/2026/03/18/microsoft-hires-the-team-of-sequioa-backed-ai-collaboration-platform-cove/",
+          "date": "2026-03-18",
+          "source": "TechCrunch",
+          "description": "AI collaboration startup Cove is shutting down after its team joined Microsoft, with service ending April 1 and customer data set for deletion.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/cove-team-joins-microsoft.webp?resize=1200,900",
+          "is_english": true,
+          "original_title": "Microsoft hires the team of Sequoia-backed AI collaboration platform, Cove",
+          "original_summary": "AI collaboration startup Cove is shutting down after its team joined Microsoft, with service ending April 1 and customer data set for deletion.",
+          "summary": "AI collaboration startup Cove is shutting down after its team joined Microsoft, with service ending April 1 and customer data set for deletion."
+        },
+        {
+          "title": "The PhD students who became the judges of the AI industry",
+          "link": "https://techcrunch.com/podcast/the-phd-students-who-became-the-judges-of-the-ai-industry/",
+          "date": "2026-03-18",
+          "source": "TechCrunch",
+          "description": "Artificial intelligence&#160;models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best&#160;— and who decides that?&#160;Arena, formerly LM Arena, has&#160;emerged&#160;as the de facto public leaderboard for frontier LLMs, influencing funding, launches, and PR cycles. In just seven months, the startup went from a&#160;UC&#160;Berkeley PhD research [&#8230;]",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
+          "is_english": true,
+          "original_title": "The PhD students who became the judges of the AI industry",
+          "original_summary": "Artificial intelligence&#160;models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best&#160;— and who decides that?&#160;Arena, formerly LM Arena, has&#160;emerged&#160;as the de facto public leaderboard for frontier LLMs, influencing ",
+          "summary": "Artificial intelligence&#160;models are multiplying fast, and competition is stiff. With so many players crowding the space, which one will be the best&#160;— and who decides that?&#160;Arena, formerly LM Arena, has&#160;emerged&#160;as the de facto public leaderboard for frontier LLMs, influencing "
+        },
+        {
+          "title": "DOD says Anthropic’s ‘red lines’ make it an ‘unacceptable risk to national security’",
+          "link": "https://techcrunch.com/2026/03/18/dod-says-anthropics-red-lines-make-it-an-unacceptable-risk-to-national-security/",
+          "date": "2026-03-18",
+          "source": "TechCrunch",
+          "description": "The Defense Department said concerns that Anthropic might \"attempt to disable its technology\" during \"warfighting operations\" validate its decision to label the AI firm a supply-chain risk. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264385089.jpg?w=1024",
+          "is_english": true,
+          "original_title": "DOD says Anthropic’s ‘red lines’ make it an ‘unacceptable risk to national security’",
+          "original_summary": "The Defense Department said concerns that Anthropic might \"attempt to disable its technology\" during \"warfighting operations\" validate its decision to label the AI firm a supply-chain risk. ",
+          "summary": "The Defense Department said concerns that Anthropic might \"attempt to disable its technology\" during \"warfighting operations\" validate its decision to label the AI firm a supply-chain risk. "
+        },
         {
           "title": "Nvidia Extends its Reach Into Self-Driving",
           "link": "https://aibusiness.com/generative-ai/nvidia-extends-its-reach-into-self-driving",
@@ -7525,7 +7645,7 @@
         {
           "title": "Lightricks/LTX-2.3",
           "link": "https://huggingface.co/Lightricks/LTX-2.3",
-          "date": "2026-03-10",
+          "date": "2026-03-19",
           "source": "HuggingFace",
           "description": "• LTX-2.3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/Lightricks/LTX-2.3/resolve/main/ltx2.3-open.png",
@@ -7538,7 +7658,7 @@
         {
           "title": "Qwen/Qwen3.5-9B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-9B",
-          "date": "2026-03-10",
+          "date": "2026-03-19",
           "source": "HuggingFace",
           "description": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -7551,7 +7671,7 @@
         {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-          "date": "2026-03-10",
+          "date": "2026-03-19",
           "source": "HuggingFace",
           "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
@@ -7564,7 +7684,7 @@
         {
           "title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-03-10",
+          "date": "2026-03-19",
           "source": "HuggingFace",
           "description": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
@@ -7681,7 +7801,7 @@
         {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "date": "2026-03-10",
+          "date": "2026-03-19",
           "source": "HuggingFace",
           "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
