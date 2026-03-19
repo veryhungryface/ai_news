@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-03-20",
-      "update_time": "2026-03-19 18:42:43",
+      "update_time": "2026-03-19 21:26:55",
       "news": [
+        {
+          "title": "Google's Stitch and the Shift in AI-Driven Development",
+          "link": "https://aibusiness.com/generative-ai/google-s-stitch-and-ai-driven-development",
+          "date": "2026-03-20",
+          "source": "AI Business",
+          "description": "The platform integrates an AI-native canvas that enables users to create UI designs using text, images and voice commands.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt276097862ac6fd12/69bc4e612dae2def801a624b/Google.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Google's Stitch and the Shift in AI-Driven Development",
+          "original_summary": "The platform integrates an AI-native canvas that enables users to create UI designs using text, images and voice commands.",
+          "summary": "The platform integrates an AI-native canvas that enables users to create UI designs using text, images and voice commands."
+        },
         {
           "title": "Tencent to Double AI Spending to More Than $5B Over Next Year",
           "link": "https://aibusiness.com/agentic-ai/tencent-to-double-ai-spending-to-more-than-5b",
@@ -65,19 +77,6 @@
           "is_english": true,
           "summary": "• OmniCoder-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Tesslate/OmniCoder-9B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16",
-          "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16",
-          "date": "2026-03-20",
-          "source": "HuggingFace",
-          "description": "• NVIDIA-Nemotron-3-Super-120B-A12B-BF16 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16/resolve/main/./accuracy_chart.png",
-          "is_english": true,
-          "summary": "• NVIDIA-Nemotron-3-Super-120B-A12B-BF16 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -160,19 +159,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
-          "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
-          "date": "2026-03-20",
-          "source": "HuggingFace",
-          "description": "• NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4/resolve/main/./accuracy_chart.png",
-          "is_english": true,
-          "summary": "• NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "HumeAI/tada-1b",
           "link": "https://huggingface.co/HumeAI/tada-1b",
           "date": "2026-03-20",
@@ -212,6 +198,19 @@
           "category": "AI Model"
         },
         {
+          "title": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16",
+          "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16",
+          "date": "2026-03-20",
+          "source": "HuggingFace",
+          "description": "• NVIDIA-Nemotron-3-Super-120B-A12B-BF16 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16/resolve/main/./accuracy_chart.png",
+          "is_english": true,
+          "summary": "• NVIDIA-Nemotron-3-Super-120B-A12B-BF16 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "circlestone-labs/Anima",
           "link": "https://huggingface.co/circlestone-labs/Anima",
           "date": "2026-03-20",
@@ -238,19 +237,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.5-35B-A3B",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
-          "date": "2026-03-20",
-          "source": "HuggingFace",
-          "description": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
-          "translated_title": "Qwen/Qwen3.5-35B-A3B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "ibm-granite/granite-4.0-1b-speech",
           "link": "https://huggingface.co/ibm-granite/granite-4.0-1b-speech",
           "date": "2026-03-20",
@@ -260,6 +246,19 @@
           "is_english": true,
           "summary": "• granite-4.0-1b-speech 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "ibm-granite/granite-4.0-1b-speech",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.5-35B-A3B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
+          "date": "2026-03-20",
+          "source": "HuggingFace",
+          "description": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
+          "translated_title": "Qwen/Qwen3.5-35B-A3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -275,13 +274,38 @@
           "translated_title": "mistralai/Leanstral-2603",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "black-forest-labs/FLUX.2-klein-9b-kv",
+          "link": "https://huggingface.co/black-forest-labs/FLUX.2-klein-9b-kv",
+          "date": "2026-03-20",
+          "source": "HuggingFace",
+          "description": "• FLUX.2-klein-9b-kv 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• FLUX.2-klein-9b-kv 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "black-forest-labs/FLUX.2-klein-9b-kv",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-03-19",
-      "update_time": "2026-03-19 18:42:43",
+      "update_time": "2026-03-19 21:26:53",
       "news": [
+        {
+          "title": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
+          "link": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/",
+          "date": "2026-03-19",
+          "source": "TechCrunch",
+          "description": "AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/matthew-Prince-sxsw-2026-GettyImages-2266003867.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
+          "original_summary": "AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands.",
+          "summary": "AI bots may outnumber humans online by 2027, says Cloudflare CEO Matthew Prince, as generative AI agents dramatically increase web traffic and infrastructure demands."
+        },
         {
           "title": "How we monitor internal coding agents for misalignment",
           "link": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment",
