@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-03-21",
-      "update_time": "2026-03-20 18:34:19",
+      "update_time": "2026-03-20 21:21:59",
       "news": [
         {
           "title": "Trump Administration Releases AI Legislative Framework",
@@ -160,19 +160,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16",
-          "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16",
-          "date": "2026-03-21",
-          "source": "HuggingFace",
-          "description": "• NVIDIA-Nemotron-3-Super-120B-A12B-BF16 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16/resolve/main/./accuracy_chart.png",
-          "is_english": true,
-          "summary": "• NVIDIA-Nemotron-3-Super-120B-A12B-BF16 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "mistralai/Leanstral-2603",
           "link": "https://huggingface.co/mistralai/Leanstral-2603",
           "date": "2026-03-21",
@@ -182,6 +169,19 @@
           "is_english": true,
           "summary": "• Leanstral-2603 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "mistralai/Leanstral-2603",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16",
+          "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16",
+          "date": "2026-03-21",
+          "source": "HuggingFace",
+          "description": "• NVIDIA-Nemotron-3-Super-120B-A12B-BF16 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16/resolve/main/./accuracy_chart.png",
+          "is_english": true,
+          "summary": "• NVIDIA-Nemotron-3-Super-120B-A12B-BF16 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -199,19 +199,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Tesslate/OmniCoder-9B-GGUF",
-          "link": "https://huggingface.co/Tesslate/OmniCoder-9B-GGUF",
-          "date": "2026-03-21",
-          "source": "HuggingFace",
-          "description": "• OmniCoder-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/License-Apache_2.0-blue.svg",
-          "is_english": true,
-          "summary": "• OmniCoder-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Tesslate/OmniCoder-9B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "date": "2026-03-21",
@@ -221,6 +208,19 @@
           "is_english": true,
           "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Tesslate/OmniCoder-9B-GGUF",
+          "link": "https://huggingface.co/Tesslate/OmniCoder-9B-GGUF",
+          "date": "2026-03-21",
+          "source": "HuggingFace",
+          "description": "• OmniCoder-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/License-Apache_2.0-blue.svg",
+          "is_english": true,
+          "summary": "• OmniCoder-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Tesslate/OmniCoder-9B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -251,19 +251,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
-          "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
-          "date": "2026-03-21",
-          "source": "HuggingFace",
-          "description": "• NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4/resolve/main/./accuracy_chart.png",
-          "is_english": true,
-          "summary": "• NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2",
           "date": "2026-03-21",
@@ -275,13 +262,62 @@
           "translated_title": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "RuneXX/LTX-2.3-Workflows",
+          "link": "https://huggingface.co/RuneXX/LTX-2.3-Workflows",
+          "date": "2026-03-21",
+          "source": "HuggingFace",
+          "description": "• LTX-2.3-Workflows 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• LTX-2.3-Workflows 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "RuneXX/LTX-2.3-Workflows",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-03-20",
-      "update_time": "2026-03-20 18:34:14",
+      "update_time": "2026-03-20 21:21:59",
       "news": [
+        {
+          "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
+          "link": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
+          "date": "2026-03-20",
+          "source": "TechCrunch",
+          "description": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps.",
+          "image": "https://techcrunch.com/wp-content/uploads/2022/06/moshed-windows-11.jpg?resize=1200,752",
+          "is_english": true,
+          "original_title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
+          "original_summary": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps.",
+          "summary": "The company is reducing Copilot entry points on Windows, starting with Photos, Widgets, Notepad, and other apps."
+        },
+        {
+          "title": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
+          "link": "https://techcrunch.com/video/what-happened-at-nvidia-gtc-nemoclaw-robot-olaf-and-a-1-trillion-bet/",
+          "date": "2026-03-20",
+          "source": "TechCrunch",
+          "description": "CEO&#160;Jensen Huang took the stage at&#160;Nvidia&#8217;s GTC conference&#160;this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting&#160;$1 trillion&#160;in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing with a rambling Olaf robot that had to get its mic cut. The message was hard to miss: Nvidia [&#8230;]",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2266464474.jpg?resize=1200,774",
+          "is_english": true,
+          "original_title": "What happened at Nvidia GTC: NemoClaw, Robot Olaf, and a $1 trillion bet",
+          "original_summary": "CEO&#160;Jensen Huang took the stage at&#160;Nvidia&#8217;s GTC conference&#160;this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting&#160;$1 trillion&#160;in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing w",
+          "summary": "CEO&#160;Jensen Huang took the stage at&#160;Nvidia&#8217;s GTC conference&#160;this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting&#160;$1 trillion&#160;in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing w"
+        },
+        {
+          "title": "Nvidia has an OpenClaw strategy. Do you?",
+          "link": "https://techcrunch.com/podcast/nvidia-has-an-openclaw-strategy-do-you/",
+          "date": "2026-03-20",
+          "source": "TechCrunch",
+          "description": "CEO&#160;Jensen Huang took the stage at&#160;Nvidia&#8217;s GTC conference&#160;this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting&#160;$1 trillion&#160;in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing with a rambling Olaf robot that had to get its mic cut. The message was hard to miss: Nvidia [&#8230;]",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-clawbot-gtc-getty.jpg?resize=1200,790",
+          "is_english": true,
+          "original_title": "Nvidia has an OpenClaw strategy. Do you?",
+          "original_summary": "CEO&#160;Jensen Huang took the stage at&#160;Nvidia&#8217;s GTC conference&#160;this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting&#160;$1 trillion&#160;in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing w",
+          "summary": "CEO&#160;Jensen Huang took the stage at&#160;Nvidia&#8217;s GTC conference&#160;this week in his signature leather jacket to deliver a two-and-a-half-hour keynote, projecting&#160;$1 trillion&#160;in AI chip sales through 2027, declaring that every company needs an “OpenClaw strategy,” and closing w"
+        },
         {
           "title": "WordPress.com now lets AI agents write and publish posts, and more",
           "link": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
@@ -6891,7 +6927,7 @@
         {
           "title": "RuneXX/LTX-2.3-Workflows",
           "link": "https://huggingface.co/RuneXX/LTX-2.3-Workflows",
-          "date": "2026-03-13",
+          "date": "2026-03-21",
           "source": "HuggingFace",
           "description": "• LTX-2.3-Workflows 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
