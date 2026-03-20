@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-03-21",
-      "update_time": "2026-03-20 15:34:39",
+      "update_time": "2026-03-20 18:34:19",
       "news": [
+        {
+          "title": "Trump Administration Releases AI Legislative Framework",
+          "link": "https://aibusiness.com/ai-policy/trump-administration-releases-ai-legislative-framework",
+          "date": "2026-03-21",
+          "source": "AI Business",
+          "description": "The administration seeks to streamline regulations at the federal level, avoiding state-by-state governance, despite potential resistance from states with their own AI regulations.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blta3b7b56f71aa79bb/69bd8a70e7b529a17db0569f/Trump.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Trump Administration Releases AI Legislative Framework",
+          "original_summary": "The administration seeks to streamline regulations at the federal level, avoiding state-by-state governance, despite potential resistance from states with their own AI regulations.",
+          "summary": "The administration seeks to streamline regulations at the federal level, avoiding state-by-state governance, despite potential resistance from states with their own AI regulations."
+        },
         {
           "title": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
@@ -14,19 +26,6 @@
           "is_english": true,
           "summary": "• Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "fishaudio/s2-pro",
-          "link": "https://huggingface.co/fishaudio/s2-pro",
-          "date": "2026-03-21",
-          "source": "HuggingFace",
-          "description": "• s2-pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/fishaudio/s2-pro/resolve/main/overview.png",
-          "is_english": true,
-          "summary": "• s2-pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "fishaudio/s2-pro",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -44,15 +43,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Tesslate/OmniCoder-9B",
-          "link": "https://huggingface.co/Tesslate/OmniCoder-9B",
+          "title": "fishaudio/s2-pro",
+          "link": "https://huggingface.co/fishaudio/s2-pro",
           "date": "2026-03-21",
           "source": "HuggingFace",
-          "description": "• OmniCoder-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/License-Apache_2.0-blue.svg",
+          "description": "• s2-pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/fishaudio/s2-pro/resolve/main/overview.png",
           "is_english": true,
-          "summary": "• OmniCoder-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Tesslate/OmniCoder-9B",
+          "summary": "• s2-pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "fishaudio/s2-pro",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -83,15 +82,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.5-9B",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-9B",
+          "title": "Tesslate/OmniCoder-9B",
+          "link": "https://huggingface.co/Tesslate/OmniCoder-9B",
           "date": "2026-03-21",
           "source": "HuggingFace",
-          "description": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "description": "• OmniCoder-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/License-Apache_2.0-blue.svg",
           "is_english": true,
-          "summary": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.5-9B",
+          "summary": "• OmniCoder-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Tesslate/OmniCoder-9B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -105,6 +104,32 @@
           "is_english": true,
           "summary": "• GLM-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "zai-org/GLM-OCR",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "RoyalCities/Foundation-1",
+          "link": "https://huggingface.co/RoyalCities/Foundation-1",
+          "date": "2026-03-21",
+          "source": "HuggingFace",
+          "description": "• Foundation-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/RoyalCities/Foundation-1/resolve/main/Charts/banner.PNG",
+          "is_english": true,
+          "summary": "• Foundation-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "RoyalCities/Foundation-1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.5-9B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-9B",
+          "date": "2026-03-21",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.5-9B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -135,45 +160,6 @@
           "category": "AI Model"
         },
         {
-          "title": "RoyalCities/Foundation-1",
-          "link": "https://huggingface.co/RoyalCities/Foundation-1",
-          "date": "2026-03-21",
-          "source": "HuggingFace",
-          "description": "• Foundation-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/RoyalCities/Foundation-1/resolve/main/Charts/banner.PNG",
-          "is_english": true,
-          "summary": "• Foundation-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "RoyalCities/Foundation-1",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "HumeAI/tada-1b",
-          "link": "https://huggingface.co/HumeAI/tada-1b",
-          "date": "2026-03-21",
-          "source": "HuggingFace",
-          "description": "• tada-1b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/arXiv-Paper-b31b1b.svg",
-          "is_english": true,
-          "summary": "• tada-1b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HumeAI/tada-1b",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "Tesslate/OmniCoder-9B-GGUF",
-          "link": "https://huggingface.co/Tesslate/OmniCoder-9B-GGUF",
-          "date": "2026-03-21",
-          "source": "HuggingFace",
-          "description": "• OmniCoder-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/License-Apache_2.0-blue.svg",
-          "is_english": true,
-          "summary": "• OmniCoder-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Tesslate/OmniCoder-9B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16",
           "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16",
           "date": "2026-03-21",
@@ -183,45 +169,6 @@
           "is_english": true,
           "summary": "• NVIDIA-Nemotron-3-Super-120B-A12B-BF16 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "circlestone-labs/Anima",
-          "link": "https://huggingface.co/circlestone-labs/Anima",
-          "date": "2026-03-21",
-          "source": "HuggingFace",
-          "description": "• Anima 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/circlestone-labs/Anima/resolve/main/montage.jpg",
-          "is_english": true,
-          "summary": "• Anima 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "circlestone-labs/Anima",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "Qwen/Qwen3.5-35B-A3B",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
-          "date": "2026-03-21",
-          "source": "HuggingFace",
-          "description": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
-          "translated_title": "Qwen/Qwen3.5-35B-A3B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "ibm-granite/granite-4.0-1b-speech",
-          "link": "https://huggingface.co/ibm-granite/granite-4.0-1b-speech",
-          "date": "2026-03-21",
-          "source": "HuggingFace",
-          "description": "• granite-4.0-1b-speech 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/666ec38102791b3b49f453e8/KvRYoVoAWlMm0GrcdBWkR.png",
-          "is_english": true,
-          "summary": "• granite-4.0-1b-speech 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ibm-granite/granite-4.0-1b-speech",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,15 +186,28 @@
           "category": "AI Model"
         },
         {
-          "title": "black-forest-labs/FLUX.2-klein-9b-kv",
-          "link": "https://huggingface.co/black-forest-labs/FLUX.2-klein-9b-kv",
+          "title": "circlestone-labs/Anima",
+          "link": "https://huggingface.co/circlestone-labs/Anima",
           "date": "2026-03-21",
           "source": "HuggingFace",
-          "description": "• FLUX.2-klein-9b-kv 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• Anima 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/circlestone-labs/Anima/resolve/main/montage.jpg",
           "is_english": true,
-          "summary": "• FLUX.2-klein-9b-kv 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "black-forest-labs/FLUX.2-klein-9b-kv",
+          "summary": "• Anima 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "circlestone-labs/Anima",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Tesslate/OmniCoder-9B-GGUF",
+          "link": "https://huggingface.co/Tesslate/OmniCoder-9B-GGUF",
+          "date": "2026-03-21",
+          "source": "HuggingFace",
+          "description": "• OmniCoder-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/License-Apache_2.0-blue.svg",
+          "is_english": true,
+          "summary": "• OmniCoder-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Tesslate/OmniCoder-9B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -263,13 +223,89 @@
           "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.5-35B-A3B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
+          "date": "2026-03-21",
+          "source": "HuggingFace",
+          "description": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
+          "translated_title": "Qwen/Qwen3.5-35B-A3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "HauhauCS/Qwen3.5-4B-Uncensored-HauhauCS-Aggressive",
+          "link": "https://huggingface.co/HauhauCS/Qwen3.5-4B-Uncensored-HauhauCS-Aggressive",
+          "date": "2026-03-21",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-4B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.5-4B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HauhauCS/Qwen3.5-4B-Uncensored-HauhauCS-Aggressive",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
+          "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
+          "date": "2026-03-21",
+          "source": "HuggingFace",
+          "description": "• NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4/resolve/main/./accuracy_chart.png",
+          "is_english": true,
+          "summary": "• NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2",
+          "link": "https://huggingface.co/Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2",
+          "date": "2026-03-21",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/k4JsVit-31Fw8RZ4pFkun.jpeg",
+          "is_english": true,
+          "summary": "• Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-03-20",
-      "update_time": "2026-03-20 15:34:39",
+      "update_time": "2026-03-20 18:34:14",
       "news": [
+        {
+          "title": "WordPress.com now lets AI agents write and publish posts, and more",
+          "link": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
+          "date": "2026-03-20",
+          "source": "TechCrunch",
+          "description": "New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content across the web.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/09/wordpress-v1.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "WordPress.com now lets AI agents write and publish posts, and more",
+          "original_summary": "New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content across the web.",
+          "summary": "New AI agents on WordPress.com could lower barriers to publishing while increasing machine-generated content across the web."
+        },
+        {
+          "title": "Trump’s AI framework targets state laws, shifts child safety burden to parents",
+          "link": "https://techcrunch.com/2026/03/20/trumps-ai-framework-targets-state-laws-shifts-child-safety-burden-to-parents/",
+          "date": "2026-03-20",
+          "source": "TechCrunch",
+          "description": "Trump’s AI framework pushes federal preemption of state laws, emphasizes innovation, and shifts responsibility for child safety toward parents while laying out lighter-touch rules for tech companies.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2203859648.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Trump’s AI framework targets state laws, shifts child safety burden to parents",
+          "original_summary": "Trump’s AI framework pushes federal preemption of state laws, emphasizes innovation, and shifts responsibility for child safety toward parents while laying out lighter-touch rules for tech companies.",
+          "summary": "Trump’s AI framework pushes federal preemption of state laws, emphasizes innovation, and shifts responsibility for child safety toward parents while laying out lighter-touch rules for tech companies."
+        },
         {
           "title": "Rivian’s Bet on AI Attracts $1.25 Billion Uber Deal",
           "link": "https://aibusiness.com/generative-ai/rivian-s-bet-on-ai-attracts-1.2b-uber-deal",
@@ -6842,7 +6878,7 @@
         {
           "title": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
           "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4",
-          "date": "2026-03-20",
+          "date": "2026-03-21",
           "source": "HuggingFace",
           "description": "• NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-NVFP4/resolve/main/./accuracy_chart.png",
@@ -7501,7 +7537,7 @@
         {
           "title": "Lightricks/LTX-2.3",
           "link": "https://huggingface.co/Lightricks/LTX-2.3",
-          "date": "2026-03-12",
+          "date": "2026-03-21",
           "source": "HuggingFace",
           "description": "• LTX-2.3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/Lightricks/LTX-2.3/resolve/main/ltx2.3-open.png",
@@ -7514,7 +7550,7 @@
         {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-          "date": "2026-03-12",
+          "date": "2026-03-21",
           "source": "HuggingFace",
           "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
@@ -7527,7 +7563,7 @@
         {
           "title": "Qwen/Qwen3.5-9B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-9B",
-          "date": "2026-03-12",
+          "date": "2026-03-21",
           "source": "HuggingFace",
           "description": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -7540,7 +7576,7 @@
         {
           "title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-03-12",
+          "date": "2026-03-21",
           "source": "HuggingFace",
           "description": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
@@ -7553,7 +7589,7 @@
         {
           "title": "fishaudio/s2-pro",
           "link": "https://huggingface.co/fishaudio/s2-pro",
-          "date": "2026-03-12",
+          "date": "2026-03-21",
           "source": "HuggingFace",
           "description": "• s2-pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/fishaudio/s2-pro/resolve/main/overview.png",
@@ -7618,7 +7654,7 @@
         {
           "title": "Qwen/Qwen3.5-35B-A3B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
-          "date": "2026-03-12",
+          "date": "2026-03-21",
           "source": "HuggingFace",
           "description": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -7644,7 +7680,7 @@
         {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "date": "2026-03-12",
+          "date": "2026-03-21",
           "source": "HuggingFace",
           "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
