@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-03-22",
-      "update_time": "2026-03-21 18:22:44",
+      "update_time": "2026-03-21 21:16:12",
       "news": [
         {
           "title": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
@@ -174,19 +174,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Lightricks/LTX-2.3",
-          "link": "https://huggingface.co/Lightricks/LTX-2.3",
-          "date": "2026-03-22",
-          "source": "HuggingFace",
-          "description": "• LTX-2.3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/Lightricks/LTX-2.3/resolve/main/ltx2.3-open.png",
-          "is_english": true,
-          "summary": "• LTX-2.3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Lightricks/LTX-2.3",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "date": "2026-03-22",
@@ -196,6 +183,19 @@
           "is_english": true,
           "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Lightricks/LTX-2.3",
+          "link": "https://huggingface.co/Lightricks/LTX-2.3",
+          "date": "2026-03-22",
+          "source": "HuggingFace",
+          "description": "• LTX-2.3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/Lightricks/LTX-2.3/resolve/main/ltx2.3-open.png",
+          "is_english": true,
+          "summary": "• LTX-2.3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Lightricks/LTX-2.3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +268,20 @@
     },
     {
       "date": "2026-03-21",
-      "update_time": "2026-03-21 18:22:43",
+      "update_time": "2026-03-21 21:16:12",
       "news": [
+        {
+          "title": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns",
+          "link": "https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/",
+          "date": "2026-03-21",
+          "source": "TechCrunch",
+          "description": "Hachette Book Group said it will not be publishing “Shy Girl” over concerns that artificial intelligence was used to generate the text.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Publisher pulls horror novel ‘Shy Girl’ over AI concerns",
+          "original_summary": "Hachette Book Group said it will not be publishing “Shy Girl” over concerns that artificial intelligence was used to generate the text.",
+          "summary": "Hachette Book Group said it will not be publishing “Shy Girl” over concerns that artificial intelligence was used to generate the text."
+        },
         {
           "title": "Delve accused of misleading customers with ‘fake compliance’",
           "link": "https://techcrunch.com/2026/03/21/delve-accused-of-misleading-customers-with-fake-compliance/",
