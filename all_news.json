@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-03-22",
-      "update_time": "2026-03-22 06:38:52",
+      "update_time": "2026-03-22 09:23:15",
       "news": [
+        {
+          "title": "'천재 소녀' 영입해 세계 8위 모델 내놓은 샤오미, 3년간 AI에 13조 투자 예고",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208188",
+          "date": "2026-03-22",
+          "source": "AI타임스",
+          "description": "샤오미가 세계적으로 관심을 끈 AI 모델을 출시한 데 이어, 대규모 투자를 예고하며 본격적인 AI 경쟁에 나섰다.레이 쥔 샤오미 CEO는 19일 베이징에서 열린 회사 행사를 통해 앞으로 3년간 AI 분야에 최소 600억위안(약 13조900억원)을 투자할 것이라고 밝혔다.그는 전날 공개한 플래그십 모델 ‘미모-V2-프로(MiMo-V2-Pro)’가 세계적으로 인기를 얻었다는 점을 강조했다. \\\"전 세계 개발자들이 V2-프로가 높은 지능지수와 감성지수를 갖추고 있으며, 무엇보다 빠르고 정확한 작업 실행 능력을 자랑한다고 평가했다\\\"라며 \\\"이",
+          "image": "https://cdn.aitimes.com/news/photo/202603/208188_210426_2757.jpg",
+          "is_english": false,
+          "original_title": "'천재 소녀' 영입해 세계 8위 모델 내놓은 샤오미, 3년간 AI에 13조 투자 예고",
+          "original_summary": "샤오미가 세계적으로 관심을 끈 AI 모델을 출시한 데 이어, 대규모 투자를 예고하며 본격적인 AI 경쟁에 나섰다.레이 쥔 샤오미 CEO는 19일 베이징에서 열린 회사 행사를 통해 앞으로 3년간 AI 분야에 최소 600억위안(약 13조900억원)을 투자할 것이라고 밝혔다.그는 전날 공개한 플래그십 모델 ‘미모-V2-프로(MiMo-V2-Pro)’가 세계적으로 인기를 얻었다는 점을 강조했다. \\\"전 세계 개발자들이 V2-프로가 높은 지능지수와 감성지수를 갖추고 있으며, 무엇보다 빠르고 정확한 작업 실행 능력을 자랑한다고 평가했다\\\"라며 ",
+          "summary": "샤오미가 세계적으로 관심을 끈 AI 모델을 출시한 데 이어, 대규모 투자를 예고하며 본격적인 AI 경쟁에 나섰다.레이 쥔 샤오미 CEO는 19일 베이징에서 열린 회사 행사를 통해 앞으로 3년간 AI 분야에 최소 600억위안(약 13조900억원)을 투자할 것이라고 밝혔다.그는 전날 공개한 플래그십 모델 ‘미모-V2-프로(MiMo-V2-Pro)’가 세계적으로 인기를 얻었다는 점을 강조했다. \\\"전 세계 개발자들이 V2-프로가 높은 지능지수와 감성지수를 갖추고 있으며, 무엇보다 빠르고 정확한 작업 실행 능력을 자랑한다고 평가했다\\\"라며 "
+        },
         {
           "title": "MS, 이미지 모델 ‘MAI-이미지-2’ 출시...아레나 리더보드 3위 진입",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=208184",
@@ -212,19 +224,6 @@
           "category": "AI Model"
         },
         {
-          "title": "fishaudio/s2-pro",
-          "link": "https://huggingface.co/fishaudio/s2-pro",
-          "date": "2026-03-22",
-          "source": "HuggingFace",
-          "description": "• s2-pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/fishaudio/s2-pro/resolve/main/overview.png",
-          "is_english": true,
-          "summary": "• s2-pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "fishaudio/s2-pro",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "baidu/Qianfan-OCR",
           "link": "https://huggingface.co/baidu/Qianfan-OCR",
           "date": "2026-03-22",
@@ -234,6 +233,19 @@
           "is_english": true,
           "summary": "• Qianfan-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "baidu/Qianfan-OCR",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "fishaudio/s2-pro",
+          "link": "https://huggingface.co/fishaudio/s2-pro",
+          "date": "2026-03-22",
+          "source": "HuggingFace",
+          "description": "• s2-pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/fishaudio/s2-pro/resolve/main/overview.png",
+          "is_english": true,
+          "summary": "• s2-pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "fishaudio/s2-pro",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -329,19 +341,6 @@
           "category": "AI Model"
         },
         {
-          "title": "circlestone-labs/Anima",
-          "link": "https://huggingface.co/circlestone-labs/Anima",
-          "date": "2026-03-22",
-          "source": "HuggingFace",
-          "description": "• Anima 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/circlestone-labs/Anima/resolve/main/montage.jpg",
-          "is_english": true,
-          "summary": "• Anima 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "circlestone-labs/Anima",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "date": "2026-03-22",
@@ -351,6 +350,19 @@
           "is_english": true,
           "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "circlestone-labs/Anima",
+          "link": "https://huggingface.co/circlestone-labs/Anima",
+          "date": "2026-03-22",
+          "source": "HuggingFace",
+          "description": "• Anima 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/circlestone-labs/Anima/resolve/main/montage.jpg",
+          "is_english": true,
+          "summary": "• Anima 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "circlestone-labs/Anima",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -381,19 +393,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Tesslate/OmniCoder-9B-GGUF",
-          "link": "https://huggingface.co/Tesslate/OmniCoder-9B-GGUF",
-          "date": "2026-03-22",
-          "source": "HuggingFace",
-          "description": "• OmniCoder-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/License-Apache_2.0-blue.svg",
-          "is_english": true,
-          "summary": "• OmniCoder-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Tesslate/OmniCoder-9B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2",
           "date": "2026-03-22",
@@ -403,6 +402,19 @@
           "is_english": true,
           "summary": "• Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Tesslate/OmniCoder-9B-GGUF",
+          "link": "https://huggingface.co/Tesslate/OmniCoder-9B-GGUF",
+          "date": "2026-03-22",
+          "source": "HuggingFace",
+          "description": "• OmniCoder-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/License-Apache_2.0-blue.svg",
+          "is_english": true,
+          "summary": "• OmniCoder-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Tesslate/OmniCoder-9B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
