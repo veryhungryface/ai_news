@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-03-23",
-      "update_time": "2026-03-22 18:23:21",
+      "update_time": "2026-03-22 21:17:55",
       "news": [
         {
           "title": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
@@ -187,19 +187,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Lightricks/LTX-2.3",
-          "link": "https://huggingface.co/Lightricks/LTX-2.3",
-          "date": "2026-03-23",
-          "source": "HuggingFace",
-          "description": "• LTX-2.3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/Lightricks/LTX-2.3/resolve/main/ltx2.3-open.png",
-          "is_english": true,
-          "summary": "• LTX-2.3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Lightricks/LTX-2.3",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.5-35B-A3B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
           "date": "2026-03-23",
@@ -213,15 +200,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Tesslate/OmniCoder-9B-GGUF",
-          "link": "https://huggingface.co/Tesslate/OmniCoder-9B-GGUF",
+          "title": "Lightricks/LTX-2.3",
+          "link": "https://huggingface.co/Lightricks/LTX-2.3",
           "date": "2026-03-23",
           "source": "HuggingFace",
-          "description": "• OmniCoder-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/License-Apache_2.0-blue.svg",
+          "description": "• LTX-2.3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/Lightricks/LTX-2.3/resolve/main/ltx2.3-open.png",
           "is_english": true,
-          "summary": "• OmniCoder-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Tesslate/OmniCoder-9B-GGUF",
+          "summary": "• LTX-2.3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Lightricks/LTX-2.3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,15 +226,15 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16",
-          "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16",
+          "title": "Tesslate/OmniCoder-9B-GGUF",
+          "link": "https://huggingface.co/Tesslate/OmniCoder-9B-GGUF",
           "date": "2026-03-23",
           "source": "HuggingFace",
-          "description": "• NVIDIA-Nemotron-3-Super-120B-A12B-BF16 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16/resolve/main/./accuracy_chart.png",
+          "description": "• OmniCoder-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/License-Apache_2.0-blue.svg",
           "is_english": true,
-          "summary": "• NVIDIA-Nemotron-3-Super-120B-A12B-BF16 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/NVIDIA-Nemotron-3-Super-120B-A12B-BF16",
+          "summary": "• OmniCoder-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Tesslate/OmniCoder-9B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -263,13 +250,50 @@
           "translated_title": "circlestone-labs/Anima",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "HauhauCS/Qwen3.5-4B-Uncensored-HauhauCS-Aggressive",
+          "link": "https://huggingface.co/HauhauCS/Qwen3.5-4B-Uncensored-HauhauCS-Aggressive",
+          "date": "2026-03-23",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-4B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.5-4B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HauhauCS/Qwen3.5-4B-Uncensored-HauhauCS-Aggressive",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-03-22",
-      "update_time": "2026-03-22 18:23:21",
+      "update_time": "2026-03-22 21:17:55",
       "news": [
+        {
+          "title": "Do you want to build a robot snowman?",
+          "link": "https://techcrunch.com/2026/03/22/do-you-want-to-build-a-robot-snowman/",
+          "date": "2026-03-22",
+          "source": "TechCrunch",
+          "description": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang’s GTC keynote and debated what it means for Nvidia’s future.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2266475966.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Do you want to build a robot snowman?",
+          "original_summary": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang’s GTC keynote and debated what it means for Nvidia’s future.",
+          "summary": "On the latest episode of the Equity podcast, we recapped CEO Jensen Huang’s GTC keynote and debated what it means for Nvidia’s future."
+        },
+        {
+          "title": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi",
+          "link": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
+          "date": "2026-03-22",
+          "source": "TechCrunch",
+          "description": "Building on top of a Chinese model feels particularly fraught right now.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/07/opengraph-image.png?w=1200",
+          "is_english": true,
+          "original_title": "Cursor admits its new coding model was built on top of Moonshot AI’s Kimi",
+          "original_summary": "Building on top of a Chinese model feels particularly fraught right now.",
+          "summary": "Building on top of a Chinese model feels particularly fraught right now."
+        },
         {
           "title": "Elon Musk unveils chip manufacturing plans for SpaceX and Tesla",
           "link": "https://techcrunch.com/2026/03/22/elon-musk-unveils-chip-manufacturing-plans-for-spacex-and-tesla/",
@@ -1386,7 +1410,7 @@
         {
           "title": "HauhauCS/Qwen3.5-4B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.5-4B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-03-22",
+          "date": "2026-03-23",
           "source": "HuggingFace",
           "description": "• Qwen3.5-4B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
