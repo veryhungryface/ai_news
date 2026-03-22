@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-03-22",
-      "update_time": "2026-03-21 21:16:12",
+      "update_time": "2026-03-22 01:15:45",
       "news": [
+        {
+          "title": "충북교육청, 생성형 AI 기반 업무지원 서비스 도입",
+          "link": "https://www.yna.co.kr/view/AKR20260321038000064",
+          "date": "2026-03-22",
+          "source": "연합뉴스",
+          "description": "(청주=연합뉴스) 전창해 기자 = 충북도교육청은 행정업무 경감과 효율성 향상을 위해 이달부터 &apos;생성형 인공지능(AI) 기반 업무지원 서비스&apos;를 ...",
+          "image": "https://img.yna.co.kr/photo/cms/2024/12/12/82/PCM20241212000482064_P2.jpg",
+          "is_english": false,
+          "original_title": "충북교육청, 생성형 AI 기반 업무지원 서비스 도입",
+          "original_summary": "(청주=연합뉴스) 전창해 기자 = 충북도교육청은 행정업무 경감과 효율성 향상을 위해 이달부터 &apos;생성형 인공지능(AI) 기반 업무지원 서비스&apos;를 ...",
+          "summary": "(청주=연합뉴스) 전창해 기자 = 충북도교육청은 행정업무 경감과 효율성 향상을 위해 이달부터 &apos;생성형 인공지능(AI) 기반 업무지원 서비스&apos;를 ..."
+        },
         {
           "title": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
@@ -70,19 +82,6 @@
           "category": "AI Model"
         },
         {
-          "title": "zai-org/GLM-OCR",
-          "link": "https://huggingface.co/zai-org/GLM-OCR",
-          "date": "2026-03-22",
-          "source": "HuggingFace",
-          "description": "• GLM-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/zai-org/GLM-OCR/refs/heads/main/resources/docparse.png",
-          "is_english": true,
-          "summary": "• GLM-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "zai-org/GLM-OCR",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "RoyalCities/Foundation-1",
           "link": "https://huggingface.co/RoyalCities/Foundation-1",
           "date": "2026-03-22",
@@ -92,6 +91,19 @@
           "is_english": true,
           "summary": "• Foundation-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "RoyalCities/Foundation-1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "zai-org/GLM-OCR",
+          "link": "https://huggingface.co/zai-org/GLM-OCR",
+          "date": "2026-03-22",
+          "source": "HuggingFace",
+          "description": "• GLM-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://raw.githubusercontent.com/zai-org/GLM-OCR/refs/heads/main/resources/docparse.png",
+          "is_english": true,
+          "summary": "• GLM-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "zai-org/GLM-OCR",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
