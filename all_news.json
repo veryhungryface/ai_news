@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-03-23",
-      "update_time": "2026-03-22 21:17:55",
+      "update_time": "2026-03-23 01:16:39",
       "news": [
+        {
+          "title": "AI 챗봇이 당신과 친해지려는 진짜 이유",
+          "link": "https://www.itworld.co.kr/article/4148413/ai-%ec%b1%97%eb%b4%87%ec%9d%b4-%eb%8b%b9%ec%8b%a0%ea%b3%bc-%ec%b9%9c%ed%95%b4%ec%a7%80%eb%a0%a4%eb%8a%94-%ec%a7%84%ec%a7%9c-%ec%9d%b4%ec%9c%a0.html",
+          "date": "2026-03-23",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n아마존에서는 무엇이든 살 수 있다고들 한다. 이제는 ‘개성’도 살 수 있다. 물론 자신의 개성이 아니라, AI ‘친구’ 알렉사를 위한 것이다.\n\n\n\n아마존은 음성 기반 AI 챗봇 알렉사 플러스에 네 가지 새로운 ‘대화 스타일’ 또는 ‘개성’을 추가한다고 발표했다. 사용자는 이제 ‘간결(Brief)’, ‘여유(Chill)’, ‘상냥(Sweet)’, ‘발랄(Sassy)’ 중 원하는 스타일을 선택하고, 다양한 목소리 중 하나를 고를 수 있다. 참고로 ‘발랄’ 스타일은 비속어를 사용하며, 어린이 사용자는 사용할 수 없다.\n\n\n\n각 스타일은 ‘표현력’, ‘감정적 개방성’, ‘격식’, ‘직접성’, ‘유머’ 등 다섯 가지 상호 연결된 ‘차원’을 기반으로 설계됐다.\n\n\n\n물론 개인적 유대를 유도하는 챗봇을 내놓는 곳이 아마존뿐만은 아니다.\n\n\n\n2023년 여름, 오픈AI는 챗GPT에 ‘맞춤 지침’ 기능을 도입했다. 사용자가 원하는 방식으로 행동하도록 지시를",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/03/4148413-0-35845700-1774226456-shutterstock_2469670095.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "AI 챗봇이 당신과 친해지려는 진짜 이유",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n아마존에서는 무엇이든 살 수 있다고들 한다. 이제는 ‘개성’도 살 수 있다. 물론 자신의 개성이 아니라, AI ‘친구’ 알렉사를 위한 것이다.\n\n\n\n아마존은 음성 기반 AI 챗봇 알렉사 플러스에 네 가지 새로운 ‘대화 스타일’ 또는 ‘개성’을 추가한다고 발표했다. 사용자는 이제 ‘간결(Brief)’, ‘여유(Chill)’, ‘상냥(Sweet)’, ‘발랄(Sassy)’ 중 원하는 스타일을 선택하고, 다양한 목소리 중 하나를 고를 수 있다. 참고로 ‘발랄’ 스타일은 비속어를 사용하며, 어린이 사",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n아마존에서는 무엇이든 살 수 있다고들 한다. 이제는 ‘개성’도 살 수 있다. 물론 자신의 개성이 아니라, AI ‘친구’ 알렉사를 위한 것이다.\n\n\n\n아마존은 음성 기반 AI 챗봇 알렉사 플러스에 네 가지 새로운 ‘대화 스타일’ 또는 ‘개성’을 추가한다고 발표했다. 사용자는 이제 ‘간결(Brief)’, ‘여유(Chill)’, ‘상냥(Sweet)’, ‘발랄(Sassy)’ 중 원하는 스타일을 선택하고, 다양한 목소리 중 하나를 고를 수 있다. 참고로 ‘발랄’ 스타일은 비속어를 사용하며, 어린이 사"
+        },
         {
           "title": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
@@ -31,19 +43,6 @@
           "category": "AI Model"
         },
         {
-          "title": "mistralai/Mistral-Small-4-119B-2603",
-          "link": "https://huggingface.co/mistralai/Mistral-Small-4-119B-2603",
-          "date": "2026-03-23",
-          "source": "HuggingFace",
-          "description": "• Mistral-Small-4-119B-2603 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Mistral-Small-4-119B-2603 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "mistralai/Mistral-Small-4-119B-2603",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "baidu/Qianfan-OCR",
           "link": "https://huggingface.co/baidu/Qianfan-OCR",
           "date": "2026-03-23",
@@ -53,6 +52,19 @@
           "is_english": true,
           "summary": "• Qianfan-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "baidu/Qianfan-OCR",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "mistralai/Mistral-Small-4-119B-2603",
+          "link": "https://huggingface.co/mistralai/Mistral-Small-4-119B-2603",
+          "date": "2026-03-23",
+          "source": "HuggingFace",
+          "description": "• Mistral-Small-4-119B-2603 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Mistral-Small-4-119B-2603 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "mistralai/Mistral-Small-4-119B-2603",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -174,19 +186,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2",
-          "link": "https://huggingface.co/Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2",
-          "date": "2026-03-23",
-          "source": "HuggingFace",
-          "description": "• Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/k4JsVit-31Fw8RZ4pFkun.jpeg",
-          "is_english": true,
-          "summary": "• Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.5-35B-A3B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
           "date": "2026-03-23",
@@ -196,6 +195,19 @@
           "is_english": true,
           "summary": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
           "translated_title": "Qwen/Qwen3.5-35B-A3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2",
+          "link": "https://huggingface.co/Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2",
+          "date": "2026-03-23",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/k4JsVit-31Fw8RZ4pFkun.jpeg",
+          "is_english": true,
+          "summary": "• Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
