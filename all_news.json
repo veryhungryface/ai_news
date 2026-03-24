@@ -2,8 +2,56 @@
   "dates": [
     {
       "date": "2026-03-25",
-      "update_time": "2026-03-24 15:57:19",
+      "update_time": "2026-03-24 18:48:52",
       "news": [
+        {
+          "title": "Anthropic's Claude Can Now Take Control of Your Computer",
+          "link": "https://aibusiness.com/agentic-ai/anthropic-s-claude-can-take-control-of-your-computer",
+          "date": "2026-03-25",
+          "source": "AI Business",
+          "description": "The new capability is the latest release in a wave of personal agent applications.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt87d797abf26ed3fa/69c2d7563ebe965d47ce6bde/Claude.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Anthropic's Claude Can Now Take Control of Your Computer",
+          "original_summary": "The new capability is the latest release in a wave of personal agent applications.",
+          "summary": "The new capability is the latest release in a wave of personal agent applications."
+        },
+        {
+          "title": "Cohere, Saab Partner on Advanced AI in Aerospace",
+          "link": "https://aibusiness.com/generative-ai/cohere-saab-partner-on-ai-in-aerospace",
+          "date": "2026-03-25",
+          "source": "AI Business",
+          "description": "The companies will focus on bringing AI into areas including surveillance, maintenance and mission support.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltc827cfd627dfdcca/69c2d0795b25378fddb8d10f/Aerospace.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Cohere, Saab Partner on Advanced AI in Aerospace",
+          "original_summary": "The companies will focus on bringing AI into areas including surveillance, maintenance and mission support.",
+          "summary": "The companies will focus on bringing AI into areas including surveillance, maintenance and mission support."
+        },
+        {
+          "title": "Fear of Missing Out is Not a Good Reason to Implement AI",
+          "link": "https://aibusiness.com/generative-ai/fear-of-missing-out-no-reason-to-implement-ai",
+          "date": "2026-03-25",
+          "source": "AI Business",
+          "description": "Enterprises should define problems where AI can help, rather than use AI as a means in itself.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt88fbc39184713f2b/69c2ca403a227b71fcf0605b/HP.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Fear of Missing Out is Not a Good Reason to Implement AI",
+          "original_summary": "Enterprises should define problems where AI can help, rather than use AI as a means in itself.",
+          "summary": "Enterprises should define problems where AI can help, rather than use AI as a means in itself."
+        },
+        {
+          "title": "Oracle Fusion Apps Give Enterprises Secure, Specialized Agents",
+          "link": "https://aibusiness.com/agentic-ai/oracle-fusion-apps-give-enterprises-secure-agents",
+          "date": "2026-03-25",
+          "source": "AI Business",
+          "description": "The new features are aimed at helping enterprises feel secure as they work with AI agents and provide an enterprise-ready environment for analyzing their AI projects.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltce3d194627746018/69c2c70d4418f71f576d53b1/Oracle.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Oracle Fusion Apps Give Enterprises Secure, Specialized Agents",
+          "original_summary": "The new features are aimed at helping enterprises feel secure as they work with AI agents and provide an enterprise-ready environment for analyzing their AI projects.",
+          "summary": "The new features are aimed at helping enterprises feel secure as they work with AI agents and provide an enterprise-ready environment for analyzing their AI projects."
+        },
         {
           "title": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
@@ -226,6 +274,19 @@
           "category": "AI Model"
         },
         {
+          "title": "GAIR/daVinci-MagiHuman",
+          "link": "https://huggingface.co/GAIR/daVinci-MagiHuman",
+          "date": "2026-03-25",
+          "source": "HuggingFace",
+          "description": "• daVinci-MagiHuman 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/GitHub-Repo-black?logo=github",
+          "is_english": true,
+          "summary": "• daVinci-MagiHuman 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "GAIR/daVinci-MagiHuman",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Lightricks/LTX-2.3",
           "link": "https://huggingface.co/Lightricks/LTX-2.3",
           "date": "2026-03-25",
@@ -250,26 +311,85 @@
           "translated_title": "Tesslate/OmniCoder-9B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "GAIR/daVinci-MagiHuman",
-          "link": "https://huggingface.co/GAIR/daVinci-MagiHuman",
-          "date": "2026-03-25",
-          "source": "HuggingFace",
-          "description": "• daVinci-MagiHuman 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/GitHub-Repo-black?logo=github",
-          "is_english": true,
-          "summary": "• daVinci-MagiHuman 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "GAIR/daVinci-MagiHuman",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-03-24",
-      "update_time": "2026-03-24 15:57:17",
+      "update_time": "2026-03-24 18:48:51",
       "news": [
+        {
+          "title": "Helping developers build safer AI experiences for teens",
+          "link": "https://openai.com/index/teen-safety-policies-gpt-oss-safeguard",
+          "date": "2026-03-24",
+          "source": "OpenAI",
+          "description": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Helping developers build safer AI experiences for teens",
+          "original_summary": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems.",
+          "summary": "OpenAI releases prompt-based teen safety policies for developers using gpt-oss-safeguard, helping moderate age-specific risks in AI systems."
+        },
+        {
+          "title": "Powering product discovery in ChatGPT",
+          "link": "https://openai.com/index/powering-product-discovery-in-chatgpt",
+          "date": "2026-03-24",
+          "source": "OpenAI",
+          "description": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Powering product discovery in ChatGPT",
+          "original_summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration.",
+          "summary": "ChatGPT introduces richer, visually immersive shopping powered by the Agentic Commerce Protocol, enabling product discovery, side-by-side comparisons, and merchant integration."
+        },
+        {
+          "title": "OpenAI adds open source tools to help developers build for teen safety",
+          "link": "https://techcrunch.com/2026/03/24/openai-adds-open-source-tools-to-help-developers-build-for-teen-safety/",
+          "date": "2026-03-24",
+          "source": "TechCrunch",
+          "description": "Rather than working from scratch to figure out how to make AI safer for teens, developers can use these policies to fortify what they build.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+          "is_english": true,
+          "original_title": "OpenAI adds open source tools to help developers build for teen safety",
+          "original_summary": "Rather than working from scratch to figure out how to make AI safer for teens, developers can use these policies to fortify what they build.",
+          "summary": "Rather than working from scratch to figure out how to make AI safer for teens, developers can use these policies to fortify what they build."
+        },
+        {
+          "title": "Talat’s AI meeting notes stay on your machine, not in the cloud",
+          "link": "https://techcrunch.com/2026/03/24/talats-ai-meeting-notes-stay-on-your-machine-not-in-the-cloud/",
+          "date": "2026-03-24",
+          "source": "TechCrunch",
+          "description": "The subscription-free AI meeting notes app is a local-first twist on notetaking tools like Granola. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/talat-app-at-2.11.22-PM.jpg?w=1086",
+          "is_english": true,
+          "original_title": "Talat’s AI meeting notes stay on your machine, not in the cloud",
+          "original_summary": "The subscription-free AI meeting notes app is a local-first twist on notetaking tools like Granola. ",
+          "summary": "The subscription-free AI meeting notes app is a local-first twist on notetaking tools like Granola. "
+        },
+        {
+          "title": "Doss raises $55M for AI inventory management that plugs into ERP",
+          "link": "https://techcrunch.com/2026/03/24/doss-raises-55m-for-ai-inventory-management-that-plugs-into-erp/",
+          "date": "2026-03-24",
+          "source": "TechCrunch",
+          "description": "Doss's AI-powered inventory management system integrates with existing ERP systems. The Series B round was co-led by Madrona and Premji Invest.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/Doss-Founder-Photo.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Doss raises $55M for AI inventory management that plugs into ERP",
+          "original_summary": "Doss's AI-powered inventory management system integrates with existing ERP systems. The Series B round was co-led by Madrona and Premji Invest.",
+          "summary": "Doss's AI-powered inventory management system integrates with existing ERP systems. The Series B round was co-led by Madrona and Premji Invest."
+        },
+        {
+          "title": "Meet the former Apple designer building a new AI interface at Hark",
+          "link": "https://techcrunch.com/2026/03/24/meet-the-former-apple-designer-building-a-new-ai-interface-at-hark/",
+          "date": "2026-03-24",
+          "source": "TechCrunch",
+          "description": "The company said it would design models, hardware, and interfaces in tandem to deliver a \"seamless end-to-end personal intelligence product.\"",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-24-at-6.20.59-AM.png?w=939",
+          "is_english": true,
+          "original_title": "Meet the former Apple designer building a new AI interface at Hark",
+          "original_summary": "The company said it would design models, hardware, and interfaces in tandem to deliver a \"seamless end-to-end personal intelligence product.\"",
+          "summary": "The company said it would design models, hardware, and interfaces in tandem to deliver a \"seamless end-to-end personal intelligence product.\""
+        },
         {
           "title": "Update on the OpenAI Foundation",
           "link": "https://openai.com/index/update-on-the-openai-foundation",
@@ -8161,7 +8281,7 @@
         {
           "title": "fishaudio/s2-pro",
           "link": "https://huggingface.co/fishaudio/s2-pro",
-          "date": "2026-03-16",
+          "date": "2026-03-25",
           "source": "HuggingFace",
           "description": "• s2-pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/fishaudio/s2-pro/resolve/main/overview.png",
@@ -8174,7 +8294,7 @@
         {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-          "date": "2026-03-16",
+          "date": "2026-03-25",
           "source": "HuggingFace",
           "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
@@ -8187,7 +8307,7 @@
         {
           "title": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-03-16",
+          "date": "2026-03-25",
           "source": "HuggingFace",
           "description": "• Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -8200,7 +8320,7 @@
         {
           "title": "Lightricks/LTX-2.3",
           "link": "https://huggingface.co/Lightricks/LTX-2.3",
-          "date": "2026-03-16",
+          "date": "2026-03-25",
           "source": "HuggingFace",
           "description": "• LTX-2.3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/Lightricks/LTX-2.3/resolve/main/ltx2.3-open.png",
@@ -8213,7 +8333,7 @@
         {
           "title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-03-16",
+          "date": "2026-03-25",
           "source": "HuggingFace",
           "description": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
@@ -8226,7 +8346,7 @@
         {
           "title": "Qwen/Qwen3.5-9B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-9B",
-          "date": "2026-03-16",
+          "date": "2026-03-25",
           "source": "HuggingFace",
           "description": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -8239,7 +8359,7 @@
         {
           "title": "Tesslate/OmniCoder-9B",
           "link": "https://huggingface.co/Tesslate/OmniCoder-9B",
-          "date": "2026-03-16",
+          "date": "2026-03-25",
           "source": "HuggingFace",
           "description": "• OmniCoder-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/License-Apache_2.0-blue.svg",
@@ -8382,7 +8502,7 @@
         {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "date": "2026-03-16",
+          "date": "2026-03-25",
           "source": "HuggingFace",
           "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
@@ -8408,7 +8528,7 @@
         {
           "title": "Qwen/Qwen3.5-35B-A3B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-35B-A3B",
-          "date": "2026-03-16",
+          "date": "2026-03-25",
           "source": "HuggingFace",
           "description": "• 알리바바, 차세대 멀티모달 모델 '큐원3.5' 공개\n• 35B 규모, 시각-언어 통합 기능 탑재\n• 퍼포먼스 대폭 강화, 추론·코딩 능력 고도화\n• 휴깅페이스 호환, 다양한 프레임워크 지원",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
