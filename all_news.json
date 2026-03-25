@@ -2,8 +2,188 @@
   "dates": [
     {
       "date": "2026-03-25",
-      "update_time": "2026-03-25 09:44:10",
+      "update_time": "2026-03-25 12:43:24",
       "news": [
+        {
+          "title": "메타, 자가 진화형 AI ‘하이퍼에이전트’ 발표… \"배우는 방법까지 바꾼다\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208357",
+          "date": "2026-03-25",
+          "source": "AI타임스",
+          "description": "자기 학습과 개선을 반복하는 ‘자기 진화형(self-evolving) AI’가 이론을 넘어 실제 구현 단계에 진입했다. 기존 AI가 인간이 설계한 구조 안에서 성능을 높였다면, 이제는 스스로 학습 방식 자체를 바꾸며 발전하는 새로운 패러다임이 등장하고 있다.메타 연구진은 24일(현지시간) 단순히 주어진 문제를 해결하는 것을 넘어, 자신의 학습 방식과 개선 절차 자체를 수정하며 성능을 끌어올리는 새로운 AI 아키텍처 ‘하이퍼에이전트(HyperAgents)’를 온라인 아카이브를 통해 공개했다. 관련 코드는 깃허브에서 제공된다.기존 대형",
+          "image": "https://cdn.aitimes.com/news/photo/202603/208357_210621_162.png",
+          "is_english": false,
+          "original_title": "메타, 자가 진화형 AI ‘하이퍼에이전트’ 발표… \"배우는 방법까지 바꾼다\"",
+          "original_summary": "자기 학습과 개선을 반복하는 ‘자기 진화형(self-evolving) AI’가 이론을 넘어 실제 구현 단계에 진입했다. 기존 AI가 인간이 설계한 구조 안에서 성능을 높였다면, 이제는 스스로 학습 방식 자체를 바꾸며 발전하는 새로운 패러다임이 등장하고 있다.메타 연구진은 24일(현지시간) 단순히 주어진 문제를 해결하는 것을 넘어, 자신의 학습 방식과 개선 절차 자체를 수정하며 성능을 끌어올리는 새로운 AI 아키텍처 ‘하이퍼에이전트(HyperAgents)’를 온라인 아카이브를 통해 공개했다. 관련 코드는 깃허브에서 제공된다.기존 대형",
+          "summary": "자기 학습과 개선을 반복하는 ‘자기 진화형(self-evolving) AI’가 이론을 넘어 실제 구현 단계에 진입했다. 기존 AI가 인간이 설계한 구조 안에서 성능을 높였다면, 이제는 스스로 학습 방식 자체를 바꾸며 발전하는 새로운 패러다임이 등장하고 있다.메타 연구진은 24일(현지시간) 단순히 주어진 문제를 해결하는 것을 넘어, 자신의 학습 방식과 개선 절차 자체를 수정하며 성능을 끌어올리는 새로운 AI 아키텍처 ‘하이퍼에이전트(HyperAgents)’를 온라인 아카이브를 통해 공개했다. 관련 코드는 깃허브에서 제공된다.기존 대형"
+        },
+        {
+          "title": "앤트로픽, 스스로 위험 거르는 AI '오토 모드' 공개...\"개발자 승인 없이 코딩\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208363",
+          "date": "2026-03-25",
+          "source": "AI타임스",
+          "description": "AI가 개발 업무를 직접 수행하는 ‘자율 에이전트’로 발전하는 가운데, 이제는 스스로 행동의 위험성을 판단하는 단계까지 진화하고 있다.앤트로픽은 24일(현지시간) 개발자용 AI 도구 ‘클로드 코드’에 새로운 권한 관리 기능인 ‘오토 모드(Auto Mode)’를 도입한다고 밝혔다.이번 기능은 현재 팀 요금제에서 연구 프리뷰 형태로 제공되며, 앞으로 엔터프라이즈와 API 사용자로 확대될 예정이다.오토 모드는 기존의 보수적인 권한 체계와 완전 자율 실행 사이의 ‘중간 지점’을 지향한다. 기존 클로드 코드는 파일 수정이나 터미널 명령 실행",
+          "image": "https://cdn.aitimes.com/news/photo/202603/208363_210629_4650.jpg",
+          "is_english": false,
+          "original_title": "앤트로픽, 스스로 위험 거르는 AI '오토 모드' 공개...\"개발자 승인 없이 코딩\"",
+          "original_summary": "AI가 개발 업무를 직접 수행하는 ‘자율 에이전트’로 발전하는 가운데, 이제는 스스로 행동의 위험성을 판단하는 단계까지 진화하고 있다.앤트로픽은 24일(현지시간) 개발자용 AI 도구 ‘클로드 코드’에 새로운 권한 관리 기능인 ‘오토 모드(Auto Mode)’를 도입한다고 밝혔다.이번 기능은 현재 팀 요금제에서 연구 프리뷰 형태로 제공되며, 앞으로 엔터프라이즈와 API 사용자로 확대될 예정이다.오토 모드는 기존의 보수적인 권한 체계와 완전 자율 실행 사이의 ‘중간 지점’을 지향한다. 기존 클로드 코드는 파일 수정이나 터미널 명령 실행",
+          "summary": "AI가 개발 업무를 직접 수행하는 ‘자율 에이전트’로 발전하는 가운데, 이제는 스스로 행동의 위험성을 판단하는 단계까지 진화하고 있다.앤트로픽은 24일(현지시간) 개발자용 AI 도구 ‘클로드 코드’에 새로운 권한 관리 기능인 ‘오토 모드(Auto Mode)’를 도입한다고 밝혔다.이번 기능은 현재 팀 요금제에서 연구 프리뷰 형태로 제공되며, 앞으로 엔터프라이즈와 API 사용자로 확대될 예정이다.오토 모드는 기존의 보수적인 권한 체계와 완전 자율 실행 사이의 ‘중간 지점’을 지향한다. 기존 클로드 코드는 파일 수정이나 터미널 명령 실행"
+        },
+        {
+          "title": "애플, AI 챗봇 '시리' WWDC서 공개...에이전트 업그레이드가 목표",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208330",
+          "date": "2026-03-25",
+          "source": "AI타임스",
+          "description": "애플이 올해 WWDC에서 시리(Siri)의 AI 챗봇 버전을 처음 선보일 예정이다. 단순 음성 명령 도구를 넘어, 대화형 인터페이스와 앱 전반을 아우르는 ‘AI 에이전트’로 진화시키겠다는 구상이다.24일(현지시간) 블룸버그에 따르면, 애플은 오는 6월8일 개최되는 \\'WWDC 2026\\'에서 차세대 시리를 공개할 예정이다.새 버전은 iOS 27과 맥OS 27에 포함되며, 코드명 ‘캄포(Campo)’로 개발 중이다.이번 개편의 핵심은 ‘대화형 인터페이스’다. 기존 시리가 간단한 음성 명령 처리에 머물렀다면, 새 버전은 텍스트와 음성을 결",
+          "image": "https://cdn.aitimes.com/news/photo/202603/208330_210590_4213.jpg",
+          "is_english": false,
+          "original_title": "애플, AI 챗봇 '시리' WWDC서 공개...에이전트 업그레이드가 목표",
+          "original_summary": "애플이 올해 WWDC에서 시리(Siri)의 AI 챗봇 버전을 처음 선보일 예정이다. 단순 음성 명령 도구를 넘어, 대화형 인터페이스와 앱 전반을 아우르는 ‘AI 에이전트’로 진화시키겠다는 구상이다.24일(현지시간) 블룸버그에 따르면, 애플은 오는 6월8일 개최되는 \\'WWDC 2026\\'에서 차세대 시리를 공개할 예정이다.새 버전은 iOS 27과 맥OS 27에 포함되며, 코드명 ‘캄포(Campo)’로 개발 중이다.이번 개편의 핵심은 ‘대화형 인터페이스’다. 기존 시리가 간단한 음성 명령 처리에 머물렀다면, 새 버전은 텍스트와 음성을",
+          "summary": "애플이 올해 WWDC에서 시리(Siri)의 AI 챗봇 버전을 처음 선보일 예정이다. 단순 음성 명령 도구를 넘어, 대화형 인터페이스와 앱 전반을 아우르는 ‘AI 에이전트’로 진화시키겠다는 구상이다.24일(현지시간) 블룸버그에 따르면, 애플은 오는 6월8일 개최되는 \\'WWDC 2026\\'에서 차세대 시리를 공개할 예정이다.새 버전은 iOS 27과 맥OS 27에 포함되며, 코드명 ‘캄포(Campo)’로 개발 중이다.이번 개편의 핵심은 ‘대화형 인터페이스’다. 기존 시리가 간단한 음성 명령 처리에 머물렀다면, 새 버전은 텍스트와 음성을"
+        },
+        {
+          "title": "'일본 대표' 사카나 AI, 첫 일본어 챗봇 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208340",
+          "date": "2026-03-25",
+          "source": "AI타임스",
+          "description": "일본을 대표하는 AI 스타트업 사카나 AI가 자국 문화를 반영한 전용 모델을 공개했다. 동시에 처음으로 일본어 AI 챗봇 서비스를 선보였다.사카나 AI는 24일(현지시간) 글로벌 오픈 모델을 일본 환경에 맞게 재구성한 시리즈 ‘나마즈(Namazu)’를 공개했다.나마즈는 기존 대형언어모델(LLM)을 기반으로 사후 학습(Post-training)을 적용해 일본의 문화와 가치관, 안보 요구 등에 맞게 조정한 모델이다.이를 통해 해외 모델에 내재한 편향을 완화하고, 일본 사용자 환경에 최적화된 응답을 구현하는 데 초점을 맞췄다.현재 LLM",
+          "image": "https://cdn.aitimes.com/news/photo/202603/208340_210605_5448.gif",
+          "is_english": false,
+          "original_title": "'일본 대표' 사카나 AI, 첫 일본어 챗봇 출시",
+          "original_summary": "일본을 대표하는 AI 스타트업 사카나 AI가 자국 문화를 반영한 전용 모델을 공개했다. 동시에 처음으로 일본어 AI 챗봇 서비스를 선보였다.사카나 AI는 24일(현지시간) 글로벌 오픈 모델을 일본 환경에 맞게 재구성한 시리즈 ‘나마즈(Namazu)’를 공개했다.나마즈는 기존 대형언어모델(LLM)을 기반으로 사후 학습(Post-training)을 적용해 일본의 문화와 가치관, 안보 요구 등에 맞게 조정한 모델이다.이를 통해 해외 모델에 내재한 편향을 완화하고, 일본 사용자 환경에 최적화된 응답을 구현하는 데 초점을 맞췄다.현재 LLM",
+          "summary": "일본을 대표하는 AI 스타트업 사카나 AI가 자국 문화를 반영한 전용 모델을 공개했다. 동시에 처음으로 일본어 AI 챗봇 서비스를 선보였다.사카나 AI는 24일(현지시간) 글로벌 오픈 모델을 일본 환경에 맞게 재구성한 시리즈 ‘나마즈(Namazu)’를 공개했다.나마즈는 기존 대형언어모델(LLM)을 기반으로 사후 학습(Post-training)을 적용해 일본의 문화와 가치관, 안보 요구 등에 맞게 조정한 모델이다.이를 통해 해외 모델에 내재한 편향을 완화하고, 일본 사용자 환경에 최적화된 응답을 구현하는 데 초점을 맞췄다.현재 LLM"
+        },
+        {
+          "title": "할리우드 항의 받은 동영상 모델 '시댄스 2.0', 자체 플랫폼 통해 재출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208365",
+          "date": "2026-03-25",
+          "source": "AI타임스",
+          "description": "저작권 이슈로 한 차례 출시가 중단됐던 바이트댄스의 영상 생성 모델 ‘시댄스 2.0(Seedance 2.0)’이 다시 시장에 등장했다.바이트댄스는 24일(현지시간) 자체 AI 창작 플랫폼 드리미나(Dreamina)를 통해 영상 생성 모델 ‘시댄스 2.0’과 이미지 생성 모델 ‘시드림 5.0 라이트(Seedream 5.0 Lite)’를 공식 출시한다고 밝혔다.시댄스 2.0은 이미지·영상·텍스트를 동시에 입력으로 활용할 수 있는 멀티모달 영상 생성 모델이다. 다양한 레퍼런스를 결합해 장면을 구성할 수 있으며, 여러 장면에 걸쳐 캐릭터와",
+          "image": "https://cdn.aitimes.com/news/photo/202603/208365_210631_1956.jpg",
+          "is_english": false,
+          "original_title": "할리우드 항의 받은 동영상 모델 '시댄스 2.0', 자체 플랫폼 통해 재출시",
+          "original_summary": "저작권 이슈로 한 차례 출시가 중단됐던 바이트댄스의 영상 생성 모델 ‘시댄스 2.0(Seedance 2.0)’이 다시 시장에 등장했다.바이트댄스는 24일(현지시간) 자체 AI 창작 플랫폼 드리미나(Dreamina)를 통해 영상 생성 모델 ‘시댄스 2.0’과 이미지 생성 모델 ‘시드림 5.0 라이트(Seedream 5.0 Lite)’를 공식 출시한다고 밝혔다.시댄스 2.0은 이미지·영상·텍스트를 동시에 입력으로 활용할 수 있는 멀티모달 영상 생성 모델이다. 다양한 레퍼런스를 결합해 장면을 구성할 수 있으며, 여러 장면에 걸쳐 캐릭터와",
+          "summary": "저작권 이슈로 한 차례 출시가 중단됐던 바이트댄스의 영상 생성 모델 ‘시댄스 2.0(Seedance 2.0)’이 다시 시장에 등장했다.바이트댄스는 24일(현지시간) 자체 AI 창작 플랫폼 드리미나(Dreamina)를 통해 영상 생성 모델 ‘시댄스 2.0’과 이미지 생성 모델 ‘시드림 5.0 라이트(Seedream 5.0 Lite)’를 공식 출시한다고 밝혔다.시댄스 2.0은 이미지·영상·텍스트를 동시에 입력으로 활용할 수 있는 멀티모달 영상 생성 모델이다. 다양한 레퍼런스를 결합해 장면을 구성할 수 있으며, 여러 장면에 걸쳐 캐릭터와"
+        },
+        {
+          "title": "알리바바, ‘에이전트용’ CPU 공개...\"세계 최고의 RISC-V CPU\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208324",
+          "date": "2026-03-25",
+          "source": "AI타임스",
+          "description": "알리바바가 에이전트형 AI를 겨냥한 신규 CPU를 공개하며, AI 모델을 넘어 하드웨어까지 아우르는 ‘풀스택 AI 기업’으로의 전환에 속도를 내고 있다. 알리바바는 24일(현지시간) 상하이에서 열린 연례 생태계 컨퍼런스에서 클라우드 컴퓨팅과 AI 추론(inference)에 최적화된 새로운 CPU ‘쉬안티에(XuanTie) C950’을 공개했다.이 칩은 사용자를 대신해 작업을 수행하는 ‘에이전트형 AI’ 환경에 초점을 맞췄다.그동안 AI 칩 시장은 병렬 연산에 강한 GPU 중심으로 성장해 왔으며, 엔비디아가 이를 주도해 왔다. 그러나",
+          "image": "https://cdn.aitimes.com/news/photo/202603/208324_210632_2519.png",
+          "is_english": true,
+          "original_title": "알리바바, ‘에이전트용’ CPU 공개...\"세계 최고의 RISC-V CPU\"",
+          "original_summary": "알리바바가 에이전트형 AI를 겨냥한 신규 CPU를 공개하며, AI 모델을 넘어 하드웨어까지 아우르는 ‘풀스택 AI 기업’으로의 전환에 속도를 내고 있다. 알리바바는 24일(현지시간) 상하이에서 열린 연례 생태계 컨퍼런스에서 클라우드 컴퓨팅과 AI 추론(inference)에 최적화된 새로운 CPU ‘쉬안티에(XuanTie) C950’을 공개했다.이 칩은 사용자를 대신해 작업을 수행하는 ‘에이전트형 AI’ 환경에 초점을 맞췄다.그동안 AI 칩 시장은 병렬 연산에 강한 GPU 중심으로 성장해 왔으며, 엔비디아가 이를 주도해 왔다. 그러나",
+          "summary": "알리바바가 에이전트형 AI를 겨냥한 신규 CPU를 공개하며, AI 모델을 넘어 하드웨어까지 아우르는 ‘풀스택 AI 기업’으로의 전환에 속도를 내고 있다. 알리바바는 24일(현지시간) 상하이에서 열린 연례 생태계 컨퍼런스에서 클라우드 컴퓨팅과 AI 추론(inference)에 최적화된 새로운 CPU ‘쉬안티에(XuanTie) C950’을 공개했다.이 칩은 사용자를 대신해 작업을 수행하는 ‘에이전트형 AI’ 환경에 초점을 맞췄다.그동안 AI 칩 시장은 병렬 연산에 강한 GPU 중심으로 성장해 왔으며, 엔비디아가 이를 주도해 왔다. 그러나"
+        },
+        {
+          "title": "라이너 \"1년 만에 학교 계정 7배 증가...학술·연구 특화 AI로 학생층 공략\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208356",
+          "date": "2026-03-25",
+          "source": "AI타임스",
+          "description": "AI 검색 전문 라이너(대표 김진우)는 대학생과 대학원생의 급증으로 6개월 만에 사용자가 50% 이상 증가했다고 25일 밝혔다.라이너에 따르면, AI 검색은 쿼리 입력 기준으로 지난 2025년 7월 말에 비해 2026년 1월 말 사용자가 51.2% 늘었다.특히, 국내에서는 61.4%가 증가했다. 라이너는 전통적으로 해외 이용자가 많았으나, 최근에는 국내 인지도가 급격하게 높아졌다고 전했다.그중 ‘한국 대학교 계정(ac.kr)’의 증가 추이가 두드러졌다. 지난해 1분기 대비 올해 1분기에는 국내 대학 계정 사용자가 6.86배 증가했다",
+          "image": "https://cdn.aitimes.com/news/photo/202603/208356_210619_1144.png",
+          "is_english": false,
+          "original_title": "라이너 \"1년 만에 학교 계정 7배 증가...학술·연구 특화 AI로 학생층 공략\"",
+          "original_summary": "AI 검색 전문 라이너(대표 김진우)는 대학생과 대학원생의 급증으로 6개월 만에 사용자가 50% 이상 증가했다고 25일 밝혔다.라이너에 따르면, AI 검색은 쿼리 입력 기준으로 지난 2025년 7월 말에 비해 2026년 1월 말 사용자가 51.2% 늘었다.특히, 국내에서는 61.4%가 증가했다. 라이너는 전통적으로 해외 이용자가 많았으나, 최근에는 국내 인지도가 급격하게 높아졌다고 전했다.그중 ‘한국 대학교 계정(ac.kr)’의 증가 추이가 두드러졌다. 지난해 1분기 대비 올해 1분기에는 국내 대학 계정 사용자가 6.86배 증가했다",
+          "summary": "AI 검색 전문 라이너(대표 김진우)는 대학생과 대학원생의 급증으로 6개월 만에 사용자가 50% 이상 증가했다고 25일 밝혔다.라이너에 따르면, AI 검색은 쿼리 입력 기준으로 지난 2025년 7월 말에 비해 2026년 1월 말 사용자가 51.2% 늘었다.특히, 국내에서는 61.4%가 증가했다. 라이너는 전통적으로 해외 이용자가 많았으나, 최근에는 국내 인지도가 급격하게 높아졌다고 전했다.그중 ‘한국 대학교 계정(ac.kr)’의 증가 추이가 두드러졌다. 지난해 1분기 대비 올해 1분기에는 국내 대학 계정 사용자가 6.86배 증가했다"
+        },
+        {
+          "title": "'메타버스' 용어 만든 스티븐슨 \"머리에 착용하는 VR 기기는 성공 못 해\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208351",
+          "date": "2026-03-25",
+          "source": "AI타임스",
+          "description": "1992년 소설 \\'스노우 크래시(Snow Crash)\\'에서 메타버스라는 용어를 처음 사용한 SF 작가 겸 사업가 닐 스티븐슨이 몰입형 환경을 구현하려면 헤드 마운트 장치(HMD)가 필요하다고 믿었던 자신과 다른 사람들이 틀렸다고 주장했다.스티븐슨은 24일(현지시간) 블로그를 통해 \\'메타버스의 죽음에 대한 최신이자 가장 중요한 고찰\\'이라는 글을 올렸다. 이는 메타가 800억달러(약 120조원)를 쏟아부은 뒤 상징적인 \\'호라이즌 월드\\'를 폐쇄하는 등 사실상 메타버스 포기 의사를 밝힌 데 따른 것이다.그는 \\\"메타가 벌인 일과 나는 아무런",
+          "image": "https://cdn.aitimes.com/news/photo/202603/208351_210612_2529.png",
+          "is_english": false,
+          "original_title": "'메타버스' 용어 만든 스티븐슨 \"머리에 착용하는 VR 기기는 성공 못 해\"",
+          "original_summary": "1992년 소설 \\'스노우 크래시(Snow Crash)\\'에서 메타버스라는 용어를 처음 사용한 SF 작가 겸 사업가 닐 스티븐슨이 몰입형 환경을 구현하려면 헤드 마운트 장치(HMD)가 필요하다고 믿었던 자신과 다른 사람들이 틀렸다고 주장했다.스티븐슨은 24일(현지시간) 블로그를 통해 \\'메타버스의 죽음에 대한 최신이자 가장 중요한 고찰\\'이라는 글을 올렸다. 이는 메타가 800억달러(약 120조원)를 쏟아부은 뒤 상징적인 \\'호라이즌 월드\\'를 폐쇄하는 등 사실상 메타버스 포기 의사를 밝힌 데 따른 것이다.그는 \\\"메타가 벌인 일과",
+          "summary": "1992년 소설 \\'스노우 크래시(Snow Crash)\\'에서 메타버스라는 용어를 처음 사용한 SF 작가 겸 사업가 닐 스티븐슨이 몰입형 환경을 구현하려면 헤드 마운트 장치(HMD)가 필요하다고 믿었던 자신과 다른 사람들이 틀렸다고 주장했다.스티븐슨은 24일(현지시간) 블로그를 통해 \\'메타버스의 죽음에 대한 최신이자 가장 중요한 고찰\\'이라는 글을 올렸다. 이는 메타가 800억달러(약 120조원)를 쏟아부은 뒤 상징적인 \\'호라이즌 월드\\'를 폐쇄하는 등 사실상 메타버스 포기 의사를 밝힌 데 따른 것이다.그는 \\\"메타가 벌인 일과"
+        },
+        {
+          "title": "AWS, 대규모 감원 공백에 '내부용 AI 에이전트' 개발… 고숙련 업무까지 자동화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208343",
+          "date": "2026-03-25",
+          "source": "AI타임스",
+          "description": "지난해 말과 연초 사상 최대 규모인 3만명 해고를 실시한 아마존이 내부 업무를 자동화할 AI 에이전트를 개발 중인 것으로 알려졌다.디 인포메이션은 24일(현지시간) 복수의 관계자를 인용, 아마존 웹 서비스(AWS)가 최근 수백명 이상을 해고한 영업과 사업 개발, 기타 부서의 기능을 자동화하기 위한 에이전트를 개발 중이라고 보도했다.여기에는 영업 직원 대신 고객의 기술적인 질문에 답변할 수 있도록 돕는 에이전트와 사이버 보안과 서버 네트워킹과 같은 기술 전문가의 업무 일부를 대신할 제품 등이 포함됐다. 이전에는 단순 반복 업무를 줄이",
+          "image": "https://cdn.aitimes.com/news/photo/202603/208343_210599_3643.jpg",
+          "is_english": false,
+          "original_title": "AWS, 대규모 감원 공백에 '내부용 AI 에이전트' 개발… 고숙련 업무까지 자동화",
+          "original_summary": "지난해 말과 연초 사상 최대 규모인 3만명 해고를 실시한 아마존이 내부 업무를 자동화할 AI 에이전트를 개발 중인 것으로 알려졌다.디 인포메이션은 24일(현지시간) 복수의 관계자를 인용, 아마존 웹 서비스(AWS)가 최근 수백명 이상을 해고한 영업과 사업 개발, 기타 부서의 기능을 자동화하기 위한 에이전트를 개발 중이라고 보도했다.여기에는 영업 직원 대신 고객의 기술적인 질문에 답변할 수 있도록 돕는 에이전트와 사이버 보안과 서버 네트워킹과 같은 기술 전문가의 업무 일부를 대신할 제품 등이 포함됐다. 이전에는 단순 반복 업무를 줄이",
+          "summary": "지난해 말과 연초 사상 최대 규모인 3만명 해고를 실시한 아마존이 내부 업무를 자동화할 AI 에이전트를 개발 중인 것으로 알려졌다.디 인포메이션은 24일(현지시간) 복수의 관계자를 인용, 아마존 웹 서비스(AWS)가 최근 수백명 이상을 해고한 영업과 사업 개발, 기타 부서의 기능을 자동화하기 위한 에이전트를 개발 중이라고 보도했다.여기에는 영업 직원 대신 고객의 기술적인 질문에 답변할 수 있도록 돕는 에이전트와 사이버 보안과 서버 네트워킹과 같은 기술 전문가의 업무 일부를 대신할 제품 등이 포함됐다. 이전에는 단순 반복 업무를 줄이"
+        },
+        {
+          "title": "딥시크, 채용 공고 통해 에이전트 전환 강조...'오픈클로' 영향 받나",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208336",
+          "date": "2026-03-25",
+          "source": "AI타임스",
+          "description": "딥시크가 ‘에이전트 AI’ 분야 전문 인력 확보에 속도를 내며, 관련 기술 강화에 나선 것으로 알려졌다.블룸버그에 따르면, 딥시크는 24일(현지시간) 채용 공고를 통해 ▲에이전트 딥러닝 알고리즘 연구원 ▲에이전트 인프라 엔지니어 ▲데이터 평가 전문가 등 총 17개 직군을 공개했다.공고에서는 AI 모델을 검색과 콘텐츠 생성, 멀티모달, 에이전트 시나리오 등에 적용하는 역할을 강조했다. 이는 기존 대형언어모델(LLM) 위주이던 개발 방향을 넘어서는 것이다.특히 에이전트를 강조한 것이 눈에 띈다. 최근 중국은 오픈클로 열풍을 타고 주요",
+          "image": "https://cdn.aitimes.com/news/photo/202603/208336_210597_220.jpg",
+          "is_english": false,
+          "original_title": "딥시크, 채용 공고 통해 에이전트 전환 강조...'오픈클로' 영향 받나",
+          "original_summary": "딥시크가 ‘에이전트 AI’ 분야 전문 인력 확보에 속도를 내며, 관련 기술 강화에 나선 것으로 알려졌다.블룸버그에 따르면, 딥시크는 24일(현지시간) 채용 공고를 통해 ▲에이전트 딥러닝 알고리즘 연구원 ▲에이전트 인프라 엔지니어 ▲데이터 평가 전문가 등 총 17개 직군을 공개했다.공고에서는 AI 모델을 검색과 콘텐츠 생성, 멀티모달, 에이전트 시나리오 등에 적용하는 역할을 강조했다. 이는 기존 대형언어모델(LLM) 위주이던 개발 방향을 넘어서는 것이다.특히 에이전트를 강조한 것이 눈에 띈다. 최근 중국은 오픈클로 열풍을 타고 주요",
+          "summary": "딥시크가 ‘에이전트 AI’ 분야 전문 인력 확보에 속도를 내며, 관련 기술 강화에 나선 것으로 알려졌다.블룸버그에 따르면, 딥시크는 24일(현지시간) 채용 공고를 통해 ▲에이전트 딥러닝 알고리즘 연구원 ▲에이전트 인프라 엔지니어 ▲데이터 평가 전문가 등 총 17개 직군을 공개했다.공고에서는 AI 모델을 검색과 콘텐츠 생성, 멀티모달, 에이전트 시나리오 등에 적용하는 역할을 강조했다. 이는 기존 대형언어모델(LLM) 위주이던 개발 방향을 넘어서는 것이다.특히 에이전트를 강조한 것이 눈에 띈다. 최근 중국은 오픈클로 열풍을 타고 주요"
+        },
+        {
+          "title": "오픈AI, 영상 공유 앱  ‘소라’ 6개월 만에 종료...디즈니 투자도 철회",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208313",
+          "date": "2026-03-25",
+          "source": "AI타임스",
+          "description": "오픈AI가 야심 차게 선보였던 AI 영상 공유 서비스 ‘소라(Sora)’를 출시 반년 만에 종료했다.오픈AI는 24일(현지시간) 소라 소비자용 앱뿐 아니라 개발자를 위한 API, 그리고 챗GPT 내 영상 생성 기능까지 모두 차례로 중단할 계획이라고 밝혔다.서비스 종료 일정은 아직 구체적으로 공개되지 않았지만, 사용자 데이터 보존 방안과 이전 절차는 추후 안내될 예정이다. 이번 조치는 샘 알트먼 CEO가 내부에 직접 공지하며 공식화됐다.소라는 2024년 처음 공개 당시 텍스트만으로 영화 수준의 영상을 생성하는 기술로 전 세계에 충격을",
+          "image": "https://cdn.aitimes.com/news/photo/202603/208313_210628_4218.jpg",
+          "is_english": false,
+          "original_title": "오픈AI, 영상 공유 앱  ‘소라’ 6개월 만에 종료...디즈니 투자도 철회",
+          "original_summary": "오픈AI가 야심 차게 선보였던 AI 영상 공유 서비스 ‘소라(Sora)’를 출시 반년 만에 종료했다.오픈AI는 24일(현지시간) 소라 소비자용 앱뿐 아니라 개발자를 위한 API, 그리고 챗GPT 내 영상 생성 기능까지 모두 차례로 중단할 계획이라고 밝혔다.서비스 종료 일정은 아직 구체적으로 공개되지 않았지만, 사용자 데이터 보존 방안과 이전 절차는 추후 안내될 예정이다. 이번 조치는 샘 알트먼 CEO가 내부에 직접 공지하며 공식화됐다.소라는 2024년 처음 공개 당시 텍스트만으로 영화 수준의 영상을 생성하는 기술로 전 세계에 충격을",
+          "summary": "오픈AI가 야심 차게 선보였던 AI 영상 공유 서비스 ‘소라(Sora)’를 출시 반년 만에 종료했다.오픈AI는 24일(현지시간) 소라 소비자용 앱뿐 아니라 개발자를 위한 API, 그리고 챗GPT 내 영상 생성 기능까지 모두 차례로 중단할 계획이라고 밝혔다.서비스 종료 일정은 아직 구체적으로 공개되지 않았지만, 사용자 데이터 보존 방안과 이전 절차는 추후 안내될 예정이다. 이번 조치는 샘 알트먼 CEO가 내부에 직접 공지하며 공식화됐다.소라는 2024년 처음 공개 당시 텍스트만으로 영화 수준의 영상을 생성하는 기술로 전 세계에 충격을"
+        },
+        {
+          "title": "인텔리빅스, 코스닥 상장 예심 청구서 제출...\"기술특례 아닌 일반 상장 추진\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208364",
+          "date": "2026-03-25",
+          "source": "AI타임스",
+          "description": "인텔리빅스(대표 최은수, 장정훈)는 코스닥 상장을 위한 예비심사청구서를 한국거래소에 제출하며 본격적인 IPO(기업공개) 절차에 돌입했다고 25일 밝혔다. 이번 상장은 미래에셋증권이 주관한다.인텔리빅스는 지난해 매출액 466억원, 영업이익 49억원, 당기순이익 54억원, 이익 잉여금 164억원을 기록했다. 이를 토대로 대다수 기업이 기술특례상장을 선택하는 것과 달리 일반상장을 추진한다. 자율형 운영체제(OS) 기반 안전 AI 딥테크 기업이다. AI 안전관제 플랫폼 ‘젠 AMS’와 AI 에이전트 ‘빅사(VIXA)’를 통해 단순한 영상",
+          "image": "https://cdn.aitimes.com/news/photo/202603/208364_210630_148.png",
+          "is_english": false,
+          "original_title": "인텔리빅스, 코스닥 상장 예심 청구서 제출...\"기술특례 아닌 일반 상장 추진\"",
+          "original_summary": "인텔리빅스(대표 최은수, 장정훈)는 코스닥 상장을 위한 예비심사청구서를 한국거래소에 제출하며 본격적인 IPO(기업공개) 절차에 돌입했다고 25일 밝혔다. 이번 상장은 미래에셋증권이 주관한다.인텔리빅스는 지난해 매출액 466억원, 영업이익 49억원, 당기순이익 54억원, 이익 잉여금 164억원을 기록했다. 이를 토대로 대다수 기업이 기술특례상장을 선택하는 것과 달리 일반상장을 추진한다. 자율형 운영체제(OS) 기반 안전 AI 딥테크 기업이다. AI 안전관제 플랫폼 ‘젠 AMS’와 AI 에이전트 ‘빅사(VIXA)’를 통해 단순한 영상",
+          "summary": "인텔리빅스(대표 최은수, 장정훈)는 코스닥 상장을 위한 예비심사청구서를 한국거래소에 제출하며 본격적인 IPO(기업공개) 절차에 돌입했다고 25일 밝혔다. 이번 상장은 미래에셋증권이 주관한다.인텔리빅스는 지난해 매출액 466억원, 영업이익 49억원, 당기순이익 54억원, 이익 잉여금 164억원을 기록했다. 이를 토대로 대다수 기업이 기술특례상장을 선택하는 것과 달리 일반상장을 추진한다. 자율형 운영체제(OS) 기반 안전 AI 딥테크 기업이다. AI 안전관제 플랫폼 ‘젠 AMS’와 AI 에이전트 ‘빅사(VIXA)’를 통해 단순한 영상"
+        },
+        {
+          "title": "마키나락스, 증권신고서 제출로 코스닥 상장 본격화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208361",
+          "date": "2026-03-25",
+          "source": "AI타임스",
+          "description": "마키나락스(대표 윤성호)는 금융위원회에 코스닥 상장을 위한 증권신고서를 제출하고 본격적인 상장 절차에 돌입했다고 25일 밝혔다.이번 상장을 통해 총 263만5000주를 공모할 계획이며 희망 공모가는 1만2500~1만5000원, 공모 예정 금액은 약 329억~395억원 규모다. 기관투자자 대상 수요 예측은 4월28일~5월6일, 일반 청약은 5월11~12일에 진행되며, 상장 주관사는 미래에셋증권이다.2017년 설립된 마키나락스는 제조, 국방 등 물리적 환경에서 작동하는 피지컬 AI 기술로, ‘AI 기반 설계 및 최적화’ 분야에서 삼성전",
+          "image": "https://cdn.aitimes.com/news/photo/202603/208361_210625_2824.png",
+          "is_english": false,
+          "original_title": "마키나락스, 증권신고서 제출로 코스닥 상장 본격화",
+          "original_summary": "마키나락스(대표 윤성호)는 금융위원회에 코스닥 상장을 위한 증권신고서를 제출하고 본격적인 상장 절차에 돌입했다고 25일 밝혔다.이번 상장을 통해 총 263만5000주를 공모할 계획이며 희망 공모가는 1만2500~1만5000원, 공모 예정 금액은 약 329억~395억원 규모다. 기관투자자 대상 수요 예측은 4월28일~5월6일, 일반 청약은 5월11~12일에 진행되며, 상장 주관사는 미래에셋증권이다.2017년 설립된 마키나락스는 제조, 국방 등 물리적 환경에서 작동하는 피지컬 AI 기술로, ‘AI 기반 설계 및 최적화’ 분야에서 삼성전",
+          "summary": "마키나락스(대표 윤성호)는 금융위원회에 코스닥 상장을 위한 증권신고서를 제출하고 본격적인 상장 절차에 돌입했다고 25일 밝혔다.이번 상장을 통해 총 263만5000주를 공모할 계획이며 희망 공모가는 1만2500~1만5000원, 공모 예정 금액은 약 329억~395억원 규모다. 기관투자자 대상 수요 예측은 4월28일~5월6일, 일반 청약은 5월11~12일에 진행되며, 상장 주관사는 미래에셋증권이다.2017년 설립된 마키나락스는 제조, 국방 등 물리적 환경에서 작동하는 피지컬 AI 기술로, ‘AI 기반 설계 및 최적화’ 분야에서 삼성전"
+        },
+        {
+          "title": "Lucid Bots raises $20M to keep up with demand for its window-washing drones",
+          "link": "https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/",
+          "date": "2026-03-25",
+          "source": "TechCrunch",
+          "description": "Lucid Bots has seen demand accelerate over the last year for its window cleaning drones and power washing robots. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/Lucid-Bots.png?resize=1200,800",
+          "is_english": true,
+          "original_title": "Lucid Bots raises $20M to keep up with demand for its window-washing drones",
+          "original_summary": "Lucid Bots has seen demand accelerate over the last year for its window cleaning drones and power washing robots. ",
+          "summary": "Lucid Bots has seen demand accelerate over the last year for its window cleaning drones and power washing robots. "
+        },
+        {
+          "title": "Wristband enables wearers to control a robotic hand with their own movements",
+          "link": "https://news.mit.edu/2026/wristband-enables-wearers-control-robotic-hand-with-own-movements-0325",
+          "date": "2026-03-25",
+          "source": "MIT News",
+          "description": "By moving their hands and fingers, users can direct a robot to play piano or shoot a basketball, or they can manipulate objects in a virtual environment.",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/MIT-Hand-Tracker-01-press.jpg?itok=C_JqeasJ",
+          "is_english": true,
+          "original_title": "Wristband enables wearers to control a robotic hand with their own movements",
+          "original_summary": "By moving their hands and fingers, users can direct a robot to play piano or shoot a basketball, or they can manipulate objects in a virtual environment.",
+          "summary": "By moving their hands and fingers, users can direct a robot to play piano or shoot a basketball, or they can manipulate objects in a virtual environment."
+        },
         {
           "title": "MS, 오픈AI가 포기한 텍사스 데이터센터 임대 결정",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=208360",
@@ -739,19 +919,6 @@
           "category": "AI Model"
         },
         {
-          "title": "baidu/Qianfan-OCR",
-          "link": "https://huggingface.co/baidu/Qianfan-OCR",
-          "date": "2026-03-25",
-          "source": "HuggingFace",
-          "description": "• Qianfan-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qianfan-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "baidu/Qianfan-OCR",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nvidia/Nemotron-Cascade-2-30B-A3B",
           "link": "https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B",
           "date": "2026-03-25",
@@ -761,6 +928,19 @@
           "is_english": true,
           "summary": "• Nemotron-Cascade-2-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nvidia/Nemotron-Cascade-2-30B-A3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "baidu/Qianfan-OCR",
+          "link": "https://huggingface.co/baidu/Qianfan-OCR",
+          "date": "2026-03-25",
+          "source": "HuggingFace",
+          "description": "• Qianfan-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qianfan-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "baidu/Qianfan-OCR",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -804,6 +984,32 @@
           "category": "AI Model"
         },
         {
+          "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+          "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+          "date": "2026-03-25",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
+          "is_english": true,
+          "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
+          "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
+          "date": "2026-03-25",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/k4JsVit-31Fw8RZ4pFkun.jpeg",
+          "is_english": true,
+          "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "fishaudio/s2-pro",
           "link": "https://huggingface.co/fishaudio/s2-pro",
           "date": "2026-03-25",
@@ -830,19 +1036,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "date": "2026-03-25",
-          "source": "HuggingFace",
-          "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
-          "is_english": true,
-          "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "mistralai/Mistral-Small-4-119B-2603",
           "link": "https://huggingface.co/mistralai/Mistral-Small-4-119B-2603",
           "date": "2026-03-25",
@@ -852,32 +1045,6 @@
           "is_english": true,
           "summary": "• Mistral-Small-4-119B-2603 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "mistralai/Mistral-Small-4-119B-2603",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-          "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-          "date": "2026-03-25",
-          "source": "HuggingFace",
-          "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/k4JsVit-31Fw8RZ4pFkun.jpeg",
-          "is_english": true,
-          "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "zai-org/GLM-OCR",
-          "link": "https://huggingface.co/zai-org/GLM-OCR",
-          "date": "2026-03-25",
-          "source": "HuggingFace",
-          "description": "• GLM-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/zai-org/GLM-OCR/refs/heads/main/resources/docparse.png",
-          "is_english": true,
-          "summary": "• GLM-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "zai-org/GLM-OCR",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -895,6 +1062,19 @@
           "category": "AI Model"
         },
         {
+          "title": "zai-org/GLM-OCR",
+          "link": "https://huggingface.co/zai-org/GLM-OCR",
+          "date": "2026-03-25",
+          "source": "HuggingFace",
+          "description": "• GLM-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://raw.githubusercontent.com/zai-org/GLM-OCR/refs/heads/main/resources/docparse.png",
+          "is_english": true,
+          "summary": "• GLM-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "zai-org/GLM-OCR",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Qwen/Qwen3.5-9B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-9B",
           "date": "2026-03-25",
@@ -908,19 +1088,6 @@
           "category": "AI Model"
         },
         {
-          "title": "datalab-to/chandra-ocr-2",
-          "link": "https://huggingface.co/datalab-to/chandra-ocr-2",
-          "date": "2026-03-25",
-          "source": "HuggingFace",
-          "description": "• chandra-ocr-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/datalab-to/chandra-ocr-2/resolve/main/datalab-logo.png",
-          "is_english": true,
-          "summary": "• chandra-ocr-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "datalab-to/chandra-ocr-2",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Tesslate/OmniCoder-9B",
           "link": "https://huggingface.co/Tesslate/OmniCoder-9B",
           "date": "2026-03-25",
@@ -930,6 +1097,19 @@
           "is_english": true,
           "summary": "• OmniCoder-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Tesslate/OmniCoder-9B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "datalab-to/chandra-ocr-2",
+          "link": "https://huggingface.co/datalab-to/chandra-ocr-2",
+          "date": "2026-03-25",
+          "source": "HuggingFace",
+          "description": "• chandra-ocr-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/datalab-to/chandra-ocr-2/resolve/main/datalab-logo.png",
+          "is_english": true,
+          "summary": "• chandra-ocr-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "datalab-to/chandra-ocr-2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
