@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-03-27",
-      "update_time": "2026-03-26 16:03:09",
+      "update_time": "2026-03-26 18:52:40",
       "news": [
+        {
+          "title": "Europe’s First Robotaxis Coming to Croatia via Uber, Pony.ai and Verne",
+          "link": "https://aibusiness.com/generative-ai/europe-s-first-robotaxis-coming-croatia-uber-pony-ai-and-verne",
+          "date": "2026-03-27",
+          "source": "AI Business",
+          "description": "The development comes as robotaxis and autonomous vehicles are proliferating worldwide.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltf4de87a82925b286/69c55ab9bcb268778cd81fa8/Arcfox.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Europe’s First Robotaxis Coming to Croatia via Uber, Pony.ai and Verne",
+          "original_summary": "The development comes as robotaxis and autonomous vehicles are proliferating worldwide.",
+          "summary": "The development comes as robotaxis and autonomous vehicles are proliferating worldwide."
+        },
         {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
@@ -96,19 +108,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-          "link": "https://huggingface.co/Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-          "date": "2026-03-27",
-          "source": "HuggingFace",
-          "description": "• Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/k4JsVit-31Fw8RZ4pFkun.jpeg",
-          "is_english": true,
-          "summary": "• Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "date": "2026-03-27",
@@ -118,6 +117,19 @@
           "is_english": true,
           "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
+          "link": "https://huggingface.co/Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
+          "date": "2026-03-27",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/k4JsVit-31Fw8RZ4pFkun.jpeg",
+          "is_english": true,
+          "summary": "• Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -161,6 +173,19 @@
           "category": "AI Model"
         },
         {
+          "title": "mistralai/Voxtral-4B-TTS-2603",
+          "link": "https://huggingface.co/mistralai/Voxtral-4B-TTS-2603",
+          "date": "2026-03-27",
+          "source": "HuggingFace",
+          "description": "• Voxtral-4B-TTS-2603 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Voxtral-4B-TTS-2603 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "mistralai/Voxtral-4B-TTS-2603",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Qwen/Qwen3.5-9B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-9B",
           "date": "2026-03-27",
@@ -170,6 +195,19 @@
           "is_english": true,
           "summary": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.5-9B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "CohereLabs/cohere-transcribe-03-2026",
+          "link": "https://huggingface.co/CohereLabs/cohere-transcribe-03-2026",
+          "date": "2026-03-27",
+          "source": "HuggingFace",
+          "description": "• cohere-transcribe-03-2026 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• cohere-transcribe-03-2026 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "CohereLabs/cohere-transcribe-03-2026",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -237,39 +275,49 @@
           "translated_title": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "RuneXX/LTX-2.3-Workflows",
-          "link": "https://huggingface.co/RuneXX/LTX-2.3-Workflows",
-          "date": "2026-03-27",
-          "source": "HuggingFace",
-          "description": "• LTX-2.3-Workflows 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• LTX-2.3-Workflows 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "RuneXX/LTX-2.3-Workflows",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "datalab-to/chandra-ocr-2",
-          "link": "https://huggingface.co/datalab-to/chandra-ocr-2",
-          "date": "2026-03-27",
-          "source": "HuggingFace",
-          "description": "• chandra-ocr-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/datalab-to/chandra-ocr-2/resolve/main/datalab-logo.png",
-          "is_english": true,
-          "summary": "• chandra-ocr-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "datalab-to/chandra-ocr-2",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-03-26",
-      "update_time": "2026-03-26 16:03:06",
+      "update_time": "2026-03-26 18:52:35",
       "news": [
+        {
+          "title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
+          "link": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
+          "date": "2026-03-26",
+          "source": "TechCrunch",
+          "description": "It's only the latest of several side project that the AI startup has ditched over the past week. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2224158119.jpg?resize=1200,837",
+          "is_english": true,
+          "original_title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
+          "original_summary": "It's only the latest of several side project that the AI startup has ditched over the past week. ",
+          "summary": "It's only the latest of several side project that the AI startup has ditched over the past week. "
+        },
+        {
+          "title": "Data centers get ready — the Senate wants to see your power bills",
+          "link": "https://techcrunch.com/2026/03/26/data-centers-get-ready-the-senate-wants-to-see-your-power-bills/",
+          "date": "2026-03-26",
+          "source": "TechCrunch",
+          "description": "Senators Josh Hawley and Elizabeth Warren want the Energy Information Administration to gather more details about how data centers use power — and how that affects the grid.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-950173010.jpg?resize=1200,861",
+          "is_english": true,
+          "original_title": "Data centers get ready — the Senate wants to see your power bills",
+          "original_summary": "Senators Josh Hawley and Elizabeth Warren want the Energy Information Administration to gather more details about how data centers use power — and how that affects the grid.",
+          "summary": "Senators Josh Hawley and Elizabeth Warren want the Energy Information Administration to gather more details about how data centers use power — and how that affects the grid."
+        },
+        {
+          "title": "Watch James Manyika talk AI and creativity with LL COOL J.",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/ll-cool-j-dialogues/",
+          "date": "2026-03-26",
+          "source": "Google AI",
+          "description": "In the latest episode of our Dialogues on Technology and Society series, LL COOL J sits down with James Manyika.",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Approved_thumbnail_with_logo.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "Watch James Manyika talk AI and creativity with LL COOL J.",
+          "original_summary": "In the latest episode of our Dialogues on Technology and Society series, LL COOL J sits down with James Manyika.",
+          "summary": "In the latest episode of our Dialogues on Technology and Society series, LL COOL J sits down with James Manyika."
+        },
         {
           "title": "ByteDance’s new AI video generation model, Dreamina Seedance 2.0, comes to CapCut",
           "link": "https://techcrunch.com/2026/03/26/bytedances-new-ai-video-generation-model-dreamina-seedance-2-0-comes-to-capcut/",
@@ -8917,7 +8965,7 @@
         {
           "title": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-03-18",
+          "date": "2026-03-27",
           "source": "HuggingFace",
           "description": "• Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -8930,7 +8978,7 @@
         {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-          "date": "2026-03-18",
+          "date": "2026-03-27",
           "source": "HuggingFace",
           "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
@@ -8943,7 +8991,7 @@
         {
           "title": "fishaudio/s2-pro",
           "link": "https://huggingface.co/fishaudio/s2-pro",
-          "date": "2026-03-18",
+          "date": "2026-03-27",
           "source": "HuggingFace",
           "description": "• s2-pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/fishaudio/s2-pro/resolve/main/overview.png",
@@ -8956,7 +9004,7 @@
         {
           "title": "Tesslate/OmniCoder-9B",
           "link": "https://huggingface.co/Tesslate/OmniCoder-9B",
-          "date": "2026-03-18",
+          "date": "2026-03-27",
           "source": "HuggingFace",
           "description": "• OmniCoder-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/License-Apache_2.0-blue.svg",
@@ -8982,7 +9030,7 @@
         {
           "title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-03-18",
+          "date": "2026-03-27",
           "source": "HuggingFace",
           "description": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
@@ -8995,7 +9043,7 @@
         {
           "title": "mistralai/Mistral-Small-4-119B-2603",
           "link": "https://huggingface.co/mistralai/Mistral-Small-4-119B-2603",
-          "date": "2026-03-18",
+          "date": "2026-03-27",
           "source": "HuggingFace",
           "description": "• Mistral-Small-4-119B-2603 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -9008,7 +9056,7 @@
         {
           "title": "Qwen/Qwen3.5-9B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-9B",
-          "date": "2026-03-18",
+          "date": "2026-03-27",
           "source": "HuggingFace",
           "description": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -9021,7 +9069,7 @@
         {
           "title": "Lightricks/LTX-2.3",
           "link": "https://huggingface.co/Lightricks/LTX-2.3",
-          "date": "2026-03-18",
+          "date": "2026-03-27",
           "source": "HuggingFace",
           "description": "• LTX-2.3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/Lightricks/LTX-2.3/resolve/main/ltx2.3-open.png",
@@ -9034,7 +9082,7 @@
         {
           "title": "zai-org/GLM-OCR",
           "link": "https://huggingface.co/zai-org/GLM-OCR",
-          "date": "2026-03-18",
+          "date": "2026-03-27",
           "source": "HuggingFace",
           "description": "• GLM-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/zai-org/GLM-OCR/refs/heads/main/resources/docparse.png",
