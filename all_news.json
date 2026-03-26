@@ -2,8 +2,44 @@
   "dates": [
     {
       "date": "2026-03-26",
-      "update_time": "2026-03-26 09:54:23",
+      "update_time": "2026-03-26 12:51:18",
       "news": [
+        {
+          "title": "얀 르쿤, 월드 모델의 학습 난제 해결한 'LeWM' 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208380",
+          "date": "2026-03-26",
+          "source": "AI타임스",
+          "description": "얀 르쿤 AMI 창립자 겸 뉴욕대학교 교수는 몬트리올대학교, 뉴욕대학교, 삼성 SAIL, 브라운 대학교 연구진과 최근 월드 모델 ‘LeWM(LeWorldModel)’을 온라인 아카이브를 통해 공개했다.이 모델은 기존 월드 모델의 난제로 꼽히는 학습 불안정성과 구조적 복잡성을 동시에 해결한 것이 특징이다.월드 모델은 AI가 주변 환경을 이해하고 미래를 예측하는 ‘내부 시뮬레이션’ 기술로, 자율주행차·로봇·게임 AI 등에서 핵심 역할을 한다. 그러나 기존 방식은 이미지 같은 픽셀 데이터를 그대로 학습할 경우 ‘표현 붕괴(represen",
+          "image": "https://cdn.aitimes.com/news/photo/202603/208380_210654_3825.png",
+          "is_english": false,
+          "original_title": "얀 르쿤, 월드 모델의 학습 난제 해결한 'LeWM' 공개",
+          "original_summary": "얀 르쿤 AMI 창립자 겸 뉴욕대학교 교수는 몬트리올대학교, 뉴욕대학교, 삼성 SAIL, 브라운 대학교 연구진과 최근 월드 모델 ‘LeWM(LeWorldModel)’을 온라인 아카이브를 통해 공개했다.이 모델은 기존 월드 모델의 난제로 꼽히는 학습 불안정성과 구조적 복잡성을 동시에 해결한 것이 특징이다.월드 모델은 AI가 주변 환경을 이해하고 미래를 예측하는 ‘내부 시뮬레이션’ 기술로, 자율주행차·로봇·게임 AI 등에서 핵심 역할을 한다. 그러나 기존 방식은 이미지 같은 픽셀 데이터를 그대로 학습할 경우 ‘표현 붕괴(represen",
+          "summary": "얀 르쿤 AMI 창립자 겸 뉴욕대학교 교수는 몬트리올대학교, 뉴욕대학교, 삼성 SAIL, 브라운 대학교 연구진과 최근 월드 모델 ‘LeWM(LeWorldModel)’을 온라인 아카이브를 통해 공개했다.이 모델은 기존 월드 모델의 난제로 꼽히는 학습 불안정성과 구조적 복잡성을 동시에 해결한 것이 특징이다.월드 모델은 AI가 주변 환경을 이해하고 미래를 예측하는 ‘내부 시뮬레이션’ 기술로, 자율주행차·로봇·게임 AI 등에서 핵심 역할을 한다. 그러나 기존 방식은 이미지 같은 픽셀 데이터를 그대로 학습할 경우 ‘표현 붕괴(represen"
+        },
+        {
+          "title": "A ‘pound of flesh’ from data centers: one senator’s answer to AI job losses",
+          "link": "https://techcrunch.com/2026/03/26/a-pound-of-flesh-from-data-centers-one-senators-answer-to-ai-job-losses/",
+          "date": "2026-03-26",
+          "source": "TechCrunch",
+          "description": "Fears of AI-driven job loss are growing fast, and they’re fueling backlash against data centers. Sen. Mark Warner suggests taxing them to help workers survive the transition.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2265459578.jpg?w=1024",
+          "is_english": true,
+          "original_title": "A ‘pound of flesh’ from data centers: one senator’s answer to AI job losses",
+          "original_summary": "Fears of AI-driven job loss are growing fast, and they’re fueling backlash against data centers. Sen. Mark Warner suggests taxing them to help workers survive the transition.",
+          "summary": "Fears of AI-driven job loss are growing fast, and they’re fueling backlash against data centers. Sen. Mark Warner suggests taxing them to help workers survive the transition."
+        },
+        {
+          "title": "Mistral releases a new open-source model for speech generation",
+          "link": "https://techcrunch.com/2026/03/26/mistral-releases-a-new-open-source-model-for-speech-generation/",
+          "date": "2026-03-26",
+          "source": "TechCrunch",
+          "description": "Mistral's new speech model can run on a smartwatch or a smartphone.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264771189.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Mistral releases a new open-source model for speech generation",
+          "original_summary": "Mistral's new speech model can run on a smartwatch or a smartphone.",
+          "summary": "Mistral's new speech model can run on a smartwatch or a smartphone."
+        },
         {
           "title": "애플, '제미나이' 증류해 맞춤형 온디바이스 모델 개발",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=208401",
@@ -881,19 +917,6 @@
           "category": "AI Model"
         },
         {
-          "title": "zai-org/GLM-OCR",
-          "link": "https://huggingface.co/zai-org/GLM-OCR",
-          "date": "2026-03-26",
-          "source": "HuggingFace",
-          "description": "• GLM-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/zai-org/GLM-OCR/refs/heads/main/resources/docparse.png",
-          "is_english": true,
-          "summary": "• GLM-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "zai-org/GLM-OCR",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.5-9B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-9B",
           "date": "2026-03-26",
@@ -903,6 +926,19 @@
           "is_english": true,
           "summary": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.5-9B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "zai-org/GLM-OCR",
+          "link": "https://huggingface.co/zai-org/GLM-OCR",
+          "date": "2026-03-26",
+          "source": "HuggingFace",
+          "description": "• GLM-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://raw.githubusercontent.com/zai-org/GLM-OCR/refs/heads/main/resources/docparse.png",
+          "is_english": true,
+          "summary": "• GLM-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "zai-org/GLM-OCR",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -920,19 +956,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2",
-          "link": "https://huggingface.co/Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2",
-          "date": "2026-03-26",
-          "source": "HuggingFace",
-          "description": "• Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/k4JsVit-31Fw8RZ4pFkun.jpeg",
-          "is_english": true,
-          "summary": "• Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Lightricks/LTX-2.3",
           "link": "https://huggingface.co/Lightricks/LTX-2.3",
           "date": "2026-03-26",
@@ -942,6 +965,19 @@
           "is_english": true,
           "summary": "• LTX-2.3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Lightricks/LTX-2.3",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2",
+          "link": "https://huggingface.co/Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2",
+          "date": "2026-03-26",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/k4JsVit-31Fw8RZ4pFkun.jpeg",
+          "is_english": true,
+          "summary": "• Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
