@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-03-27",
-      "update_time": "2026-03-26 18:52:40",
+      "update_time": "2026-03-26 21:23:02",
       "news": [
+        {
+          "title": "Cohere Unveils Open Source Speech Model for Edge Devices",
+          "link": "https://aibusiness.com/language-models/cohere-transcribe-open-source-small-speech-model-edge-devices",
+          "date": "2026-03-27",
+          "source": "AI Business",
+          "description": "Cohere Transcribe is an open source speech recognition model with 2 billion parameters that’s designed to be deployed at the edge.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltd606abc967beb099/69c59b83c82dc1218a8123de/speech.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Cohere Unveils Open Source Speech Model for Edge Devices",
+          "original_summary": "Cohere Transcribe is an open source speech recognition model with 2 billion parameters that’s designed to be deployed at the edge.",
+          "summary": "Cohere Transcribe is an open source speech recognition model with 2 billion parameters that’s designed to be deployed at the edge."
+        },
         {
           "title": "Europe’s First Robotaxis Coming to Croatia via Uber, Pony.ai and Verne",
           "link": "https://aibusiness.com/generative-ai/europe-s-first-robotaxis-coming-croatia-uber-pony-ai-and-verne",
@@ -121,6 +133,19 @@
           "category": "AI Model"
         },
         {
+          "title": "mistralai/Voxtral-4B-TTS-2603",
+          "link": "https://huggingface.co/mistralai/Voxtral-4B-TTS-2603",
+          "date": "2026-03-27",
+          "source": "HuggingFace",
+          "description": "• Voxtral-4B-TTS-2603 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Voxtral-4B-TTS-2603 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "mistralai/Voxtral-4B-TTS-2603",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
           "date": "2026-03-27",
@@ -147,6 +172,19 @@
           "category": "AI Model"
         },
         {
+          "title": "CohereLabs/cohere-transcribe-03-2026",
+          "link": "https://huggingface.co/CohereLabs/cohere-transcribe-03-2026",
+          "date": "2026-03-27",
+          "source": "HuggingFace",
+          "description": "• cohere-transcribe-03-2026 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• cohere-transcribe-03-2026 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "CohereLabs/cohere-transcribe-03-2026",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
           "date": "2026-03-27",
@@ -156,32 +194,6 @@
           "is_english": true,
           "summary": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "fishaudio/s2-pro",
-          "link": "https://huggingface.co/fishaudio/s2-pro",
-          "date": "2026-03-27",
-          "source": "HuggingFace",
-          "description": "• s2-pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/fishaudio/s2-pro/resolve/main/overview.png",
-          "is_english": true,
-          "summary": "• s2-pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "fishaudio/s2-pro",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "mistralai/Voxtral-4B-TTS-2603",
-          "link": "https://huggingface.co/mistralai/Voxtral-4B-TTS-2603",
-          "date": "2026-03-27",
-          "source": "HuggingFace",
-          "description": "• Voxtral-4B-TTS-2603 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Voxtral-4B-TTS-2603 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "mistralai/Voxtral-4B-TTS-2603",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -199,28 +211,15 @@
           "category": "AI Model"
         },
         {
-          "title": "CohereLabs/cohere-transcribe-03-2026",
-          "link": "https://huggingface.co/CohereLabs/cohere-transcribe-03-2026",
+          "title": "fishaudio/s2-pro",
+          "link": "https://huggingface.co/fishaudio/s2-pro",
           "date": "2026-03-27",
           "source": "HuggingFace",
-          "description": "• cohere-transcribe-03-2026 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• s2-pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/fishaudio/s2-pro/resolve/main/overview.png",
           "is_english": true,
-          "summary": "• cohere-transcribe-03-2026 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "CohereLabs/cohere-transcribe-03-2026",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "zai-org/GLM-OCR",
-          "link": "https://huggingface.co/zai-org/GLM-OCR",
-          "date": "2026-03-27",
-          "source": "HuggingFace",
-          "description": "• GLM-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/zai-org/GLM-OCR/refs/heads/main/resources/docparse.png",
-          "is_english": true,
-          "summary": "• GLM-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "zai-org/GLM-OCR",
+          "summary": "• s2-pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "fishaudio/s2-pro",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -234,6 +233,19 @@
           "is_english": true,
           "summary": "• LTX-2.3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Lightricks/LTX-2.3",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "zai-org/GLM-OCR",
+          "link": "https://huggingface.co/zai-org/GLM-OCR",
+          "date": "2026-03-27",
+          "source": "HuggingFace",
+          "description": "• GLM-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://raw.githubusercontent.com/zai-org/GLM-OCR/refs/heads/main/resources/docparse.png",
+          "is_english": true,
+          "summary": "• GLM-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "zai-org/GLM-OCR",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -264,15 +276,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2",
-          "link": "https://huggingface.co/Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2",
+          "title": "RuneXX/LTX-2.3-Workflows",
+          "link": "https://huggingface.co/RuneXX/LTX-2.3-Workflows",
           "date": "2026-03-27",
           "source": "HuggingFace",
-          "description": "• Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/k4JsVit-31Fw8RZ4pFkun.jpeg",
+          "description": "• LTX-2.3-Workflows 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2",
+          "summary": "• LTX-2.3-Workflows 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "RuneXX/LTX-2.3-Workflows",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -280,8 +292,32 @@
     },
     {
       "date": "2026-03-26",
-      "update_time": "2026-03-26 18:52:35",
+      "update_time": "2026-03-26 21:22:59",
       "news": [
+        {
+          "title": "Seeing sounds",
+          "link": "https://news.mit.edu/2026/seeing-sounds-mariano-salcedo-0326",
+          "date": "2026-03-26",
+          "source": "MIT News",
+          "description": "Mariano Salcedo, a master’s student in the new Music Technology and Computation Graduate Program, is designing an AI to visualize and express music and other sounds.",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/mit-shass-music-Carlos-Mariano-Salcedo.jpg?itok=IZfmOz8J",
+          "is_english": true,
+          "original_title": "Seeing sounds",
+          "original_summary": "Mariano Salcedo, a master’s student in the new Music Technology and Computation Graduate Program, is designing an AI to visualize and express music and other sounds.",
+          "summary": "Mariano Salcedo, a master’s student in the new Music Technology and Computation Graduate Program, is designing an AI to visualize and express music and other sounds."
+        },
+        {
+          "title": "MIT engineers design proteins by their motion, not just their shape",
+          "link": "https://news.mit.edu/2026/mit-engineers-design-proteins-by-motion-not-just-shape-0326",
+          "date": "2026-03-26",
+          "source": "MIT News",
+          "description": "An AI model generates novel proteins based on how they vibrate and move, opening new possibilities for dynamic biomaterials and adaptive therapeutics.",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/MIT-cee-VibeGen-protein.png?itok=hJ5_M2PH",
+          "is_english": true,
+          "original_title": "MIT engineers design proteins by their motion, not just their shape",
+          "original_summary": "An AI model generates novel proteins based on how they vibrate and move, opening new possibilities for dynamic biomaterials and adaptive therapeutics.",
+          "summary": "An AI model generates novel proteins based on how they vibrate and move, opening new possibilities for dynamic biomaterials and adaptive therapeutics."
+        },
         {
           "title": "OpenAI abandons yet another side quest: ChatGPT’s erotic mode",
           "link": "https://techcrunch.com/2026/03/26/openai-abandons-yet-another-side-quest-chatgpts-erotic-mode/",
