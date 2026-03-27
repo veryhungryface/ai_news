@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-03-28",
-      "update_time": "2026-03-27 18:43:20",
+      "update_time": "2026-03-27 21:26:53",
       "news": [
+        {
+          "title": "AI교육 확대되는데…\"초중고 4곳 중 3곳에 AI 전담교원 없어\"",
+          "link": "https://www.yna.co.kr/view/AKR20260327117100530",
+          "date": "2026-03-28",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 노재현 기자 = 정부가 초·중·고교의 인공지능(AI) 교육에 공을 들이고 있는 가운데 학교 현장에서는 AI를 담당한 교원이 부...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/03/27/AKR20260327117100530_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "AI교육 확대되는데…\"초중고 4곳 중 3곳에 AI 전담교원 없어\"",
+          "original_summary": "(서울=연합뉴스) 노재현 기자 = 정부가 초·중·고교의 인공지능(AI) 교육에 공을 들이고 있는 가운데 학교 현장에서는 AI를 담당한 교원이 부...",
+          "summary": "(서울=연합뉴스) 노재현 기자 = 정부가 초·중·고교의 인공지능(AI) 교육에 공을 들이고 있는 가운데 학교 현장에서는 AI를 담당한 교원이 부..."
+        },
+        {
+          "title": "STADLER reshapes knowledge work at a 230-year-old company",
+          "link": "https://openai.com/index/stadler",
+          "date": "2026-03-28",
+          "source": "OpenAI",
+          "description": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
+          "image": null,
+          "is_english": true,
+          "original_title": "STADLER reshapes knowledge work at a 230-year-old company",
+          "original_summary": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees.",
+          "summary": "Learn how STADLER uses ChatGPT to transform knowledge work, saving time and accelerating productivity across 650 employees."
+        },
         {
           "title": "Mistral AI Launches Text-to-Speech Model",
           "link": "https://aibusiness.com/language-models/mistral-ai-launches-text-to-speech-model",
@@ -199,19 +223,6 @@
           "category": "AI Model"
         },
         {
-          "title": "fishaudio/s2-pro",
-          "link": "https://huggingface.co/fishaudio/s2-pro",
-          "date": "2026-03-28",
-          "source": "HuggingFace",
-          "description": "• s2-pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/fishaudio/s2-pro/resolve/main/overview.png",
-          "is_english": true,
-          "summary": "• s2-pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "fishaudio/s2-pro",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.5-9B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-9B",
           "date": "2026-03-28",
@@ -225,6 +236,19 @@
           "category": "AI Model"
         },
         {
+          "title": "fishaudio/s2-pro",
+          "link": "https://huggingface.co/fishaudio/s2-pro",
+          "date": "2026-03-28",
+          "source": "HuggingFace",
+          "description": "• s2-pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/fishaudio/s2-pro/resolve/main/overview.png",
+          "is_english": true,
+          "summary": "• s2-pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "fishaudio/s2-pro",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "facebook/tribev2",
           "link": "https://huggingface.co/facebook/tribev2",
           "date": "2026-03-28",
@@ -234,6 +258,19 @@
           "is_english": true,
           "summary": "• tribev2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "facebook/tribev2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "zai-org/GLM-OCR",
+          "link": "https://huggingface.co/zai-org/GLM-OCR",
+          "date": "2026-03-28",
+          "source": "HuggingFace",
+          "description": "• GLM-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://raw.githubusercontent.com/zai-org/GLM-OCR/refs/heads/main/resources/docparse.png",
+          "is_english": true,
+          "summary": "• GLM-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "zai-org/GLM-OCR",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -262,26 +299,25 @@
           "translated_title": "RoyalCities/Foundation-1",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "zai-org/GLM-OCR",
-          "link": "https://huggingface.co/zai-org/GLM-OCR",
-          "date": "2026-03-28",
-          "source": "HuggingFace",
-          "description": "• GLM-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/zai-org/GLM-OCR/refs/heads/main/resources/docparse.png",
-          "is_english": true,
-          "summary": "• GLM-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "zai-org/GLM-OCR",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-03-27",
-      "update_time": "2026-03-27 18:43:19",
+      "update_time": "2026-03-27 21:26:53",
       "news": [
+        {
+          "title": "Memory chip giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO",
+          "link": "https://techcrunch.com/2026/03/27/memory-chip-giant-sk-hynix-could-help-end-rammageddon-with-blockbuster-us-ipo/",
+          "date": "2026-03-27",
+          "source": "TechCrunch",
+          "description": "SK hynix’s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage.  ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/SK-hynix-logo.jpg?w=1200",
+          "is_english": true,
+          "original_title": "Memory chip giant SK hynix could help end ‘RAMmageddon’ with blockbuster US IPO",
+          "original_summary": "SK hynix’s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage.  ",
+          "summary": "SK hynix’s potential U.S. listing could raise $10-$14 billion to help it build more capacity, encourage others to follow, and end the 'RAMmageddon' memory shortage.  "
+        },
         {
           "title": "OpenAI shuts down Sora while Meta gets shut out in court",
           "link": "https://techcrunch.com/video/openai-shuts-down-sora-while-meta-gets-shut-out-in-court/",
