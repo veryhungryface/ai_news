@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-03-29",
-      "update_time": "2026-03-28 15:22:19",
+      "update_time": "2026-03-28 18:26:42",
       "news": [
         {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
@@ -57,19 +57,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/Nemotron-Cascade-2-30B-A3B",
-          "link": "https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B",
-          "date": "2026-03-29",
-          "source": "HuggingFace",
-          "description": "• Nemotron-Cascade-2-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/2603.19220-Technical_Report-blue",
-          "is_english": true,
-          "summary": "• Nemotron-Cascade-2-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/Nemotron-Cascade-2-30B-A3B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "baidu/Qianfan-OCR",
           "link": "https://huggingface.co/baidu/Qianfan-OCR",
           "date": "2026-03-29",
@@ -79,6 +66,19 @@
           "is_english": true,
           "summary": "• Qianfan-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "baidu/Qianfan-OCR",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/Nemotron-Cascade-2-30B-A3B",
+          "link": "https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B",
+          "date": "2026-03-29",
+          "source": "HuggingFace",
+          "description": "• Nemotron-Cascade-2-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/2603.19220-Technical_Report-blue",
+          "is_english": true,
+          "summary": "• Nemotron-Cascade-2-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/Nemotron-Cascade-2-30B-A3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +268,20 @@
     },
     {
       "date": "2026-03-28",
-      "update_time": "2026-03-28 15:22:19",
+      "update_time": "2026-03-28 18:26:42",
       "news": [
+        {
+          "title": "Elon Musk’s last co-founder reportedly leaves xAI",
+          "link": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
+          "date": "2026-03-28",
+          "source": "TechCrunch",
+          "description": "All but two of Musk's 11 xAI co-founders departed before this week.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/elon-musk-world-economic-forum1.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Elon Musk’s last co-founder reportedly leaves xAI",
+          "original_summary": "All but two of Musk's 11 xAI co-founders departed before this week.",
+          "summary": "All but two of Musk's 11 xAI co-founders departed before this week."
+        },
         {
           "title": "Anthropic’s Claude popularity with paying consumers is skyrocketing",
           "link": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
@@ -8425,7 +8437,7 @@
         {
           "title": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-03-20",
+          "date": "2026-03-29",
           "source": "HuggingFace",
           "description": "• Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -8438,7 +8450,7 @@
         {
           "title": "fishaudio/s2-pro",
           "link": "https://huggingface.co/fishaudio/s2-pro",
-          "date": "2026-03-20",
+          "date": "2026-03-29",
           "source": "HuggingFace",
           "description": "• s2-pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/fishaudio/s2-pro/resolve/main/overview.png",
@@ -8451,7 +8463,7 @@
         {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-          "date": "2026-03-20",
+          "date": "2026-03-29",
           "source": "HuggingFace",
           "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
@@ -8464,7 +8476,7 @@
         {
           "title": "Tesslate/OmniCoder-9B",
           "link": "https://huggingface.co/Tesslate/OmniCoder-9B",
-          "date": "2026-03-20",
+          "date": "2026-03-29",
           "source": "HuggingFace",
           "description": "• OmniCoder-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/License-Apache_2.0-blue.svg",
@@ -8490,7 +8502,7 @@
         {
           "title": "baidu/Qianfan-OCR",
           "link": "https://huggingface.co/baidu/Qianfan-OCR",
-          "date": "2026-03-20",
+          "date": "2026-03-29",
           "source": "HuggingFace",
           "description": "• Qianfan-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -8503,7 +8515,7 @@
         {
           "title": "Qwen/Qwen3.5-9B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-9B",
-          "date": "2026-03-20",
+          "date": "2026-03-29",
           "source": "HuggingFace",
           "description": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -8516,7 +8528,7 @@
         {
           "title": "zai-org/GLM-OCR",
           "link": "https://huggingface.co/zai-org/GLM-OCR",
-          "date": "2026-03-20",
+          "date": "2026-03-29",
           "source": "HuggingFace",
           "description": "• GLM-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/zai-org/GLM-OCR/refs/heads/main/resources/docparse.png",
@@ -8529,7 +8541,7 @@
         {
           "title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-03-20",
+          "date": "2026-03-29",
           "source": "HuggingFace",
           "description": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
@@ -8542,7 +8554,7 @@
         {
           "title": "Lightricks/LTX-2.3",
           "link": "https://huggingface.co/Lightricks/LTX-2.3",
-          "date": "2026-03-20",
+          "date": "2026-03-29",
           "source": "HuggingFace",
           "description": "• LTX-2.3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/Lightricks/LTX-2.3/resolve/main/ltx2.3-open.png",
@@ -8555,7 +8567,7 @@
         {
           "title": "RoyalCities/Foundation-1",
           "link": "https://huggingface.co/RoyalCities/Foundation-1",
-          "date": "2026-03-20",
+          "date": "2026-03-29",
           "source": "HuggingFace",
           "description": "• Foundation-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/RoyalCities/Foundation-1/resolve/main/Charts/banner.PNG",
@@ -8672,7 +8684,7 @@
         {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "date": "2026-03-20",
+          "date": "2026-03-29",
           "source": "HuggingFace",
           "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
