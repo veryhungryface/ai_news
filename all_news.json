@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-03-28",
-      "update_time": "2026-03-28 06:45:54",
+      "update_time": "2026-03-28 09:27:52",
       "news": [
+        {
+          "title": "[내면 지도 그리기] 10 Inner Mapping: 나를 찾는 지도",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208496",
+          "date": "2026-03-28",
+          "source": "AI타임스",
+          "description": "[내면 지도 그리기] 10 눈 뜨면 여행이 되는 동네를 \\'갖기\\'- 가장 높고, 가장 달콤하고, 가장 아름다운 순간들을 아는 사람에게480p로 보면 모든 게 뭉개집니다. 4월의 초록도, 5월의 초록도, 6월의 초록도 그냥 \\'초록\\'이죠. 하지만 4K로 본다면 어떨까요? 4월의 연두는 빛을 투과하고, 5월의 초록은 더 깊고, 6월의 초록은 어둡고 무겁습니다. 같은 나무, 같은 잎사귀인데, 완전히 다른 색이 됩니다. 해상도를 높이고 줌 렌즈를 최대한 당기고 세밀하게 천천히 보는 것. 세상을 높은 해상도로 바라볼 때, \\'평범함\\'이라는 허상은",
+          "image": "https://cdn.aitimes.com/news/photo/202603/208496_210782_1550.jpeg",
+          "is_english": true,
+          "original_title": "[내면 지도 그리기] 10 Inner Mapping: 나를 찾는 지도",
+          "original_summary": "[내면 지도 그리기] 10 눈 뜨면 여행이 되는 동네를 \\'갖기\\'- 가장 높고, 가장 달콤하고, 가장 아름다운 순간들을 아는 사람에게480p로 보면 모든 게 뭉개집니다. 4월의 초록도, 5월의 초록도, 6월의 초록도 그냥 \\'초록\\'이죠. 하지만 4K로 본다면 어떨까요? 4월의 연두는 빛을 투과하고, 5월의 초록은 더 깊고, 6월의 초록은 어둡고 무겁습니다. 같은 나무, 같은 잎사귀인데, 완전히 다른 색이 됩니다. 해상도를 높이고 줌 렌즈를 최대한 당기고 세밀하게 천천히 보는 것. 세상을 높은 해상도로 바라볼 때, \\'평범함\\'이",
+          "summary": "[내면 지도 그리기] 10 눈 뜨면 여행이 되는 동네를 \\'갖기\\'- 가장 높고, 가장 달콤하고, 가장 아름다운 순간들을 아는 사람에게480p로 보면 모든 게 뭉개집니다. 4월의 초록도, 5월의 초록도, 6월의 초록도 그냥 \\'초록\\'이죠. 하지만 4K로 본다면 어떨까요? 4월의 연두는 빛을 투과하고, 5월의 초록은 더 깊고, 6월의 초록은 어둡고 무겁습니다. 같은 나무, 같은 잎사귀인데, 완전히 다른 색이 됩니다. 해상도를 높이고 줌 렌즈를 최대한 당기고 세밀하게 천천히 보는 것. 세상을 높은 해상도로 바라볼 때, \\'평범함\\'이"
+        },
         {
           "title": "구글, 앤트로픽의 데이터센터 임대에 자금 지원 예정",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=208489",
@@ -479,19 +491,6 @@
           "category": "AI Model"
         },
         {
-          "title": "RoyalCities/Foundation-1",
-          "link": "https://huggingface.co/RoyalCities/Foundation-1",
-          "date": "2026-03-28",
-          "source": "HuggingFace",
-          "description": "• Foundation-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/RoyalCities/Foundation-1/resolve/main/Charts/banner.PNG",
-          "is_english": true,
-          "summary": "• Foundation-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "RoyalCities/Foundation-1",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "zai-org/GLM-OCR",
           "link": "https://huggingface.co/zai-org/GLM-OCR",
           "date": "2026-03-28",
@@ -501,6 +500,19 @@
           "is_english": true,
           "summary": "• GLM-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "zai-org/GLM-OCR",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "RoyalCities/Foundation-1",
+          "link": "https://huggingface.co/RoyalCities/Foundation-1",
+          "date": "2026-03-28",
+          "source": "HuggingFace",
+          "description": "• Foundation-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/RoyalCities/Foundation-1/resolve/main/Charts/banner.PNG",
+          "is_english": true,
+          "summary": "• Foundation-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "RoyalCities/Foundation-1",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
