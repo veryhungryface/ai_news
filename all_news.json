@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-03-29",
-      "update_time": "2026-03-28 18:26:42",
+      "update_time": "2026-03-28 21:21:26",
       "news": [
+        {
+          "title": "[일문일답] '출범 6개월' 데이터처 처장 \"AI생태계 이끌 기본법 시급\"",
+          "link": "https://www.yna.co.kr/view/AKR20260328048100002",
+          "date": "2026-03-29",
+          "source": "연합뉴스",
+          "description": "(대전=연합뉴스) 이준서 이대희 안채원 기자 = 안형준 국가데이터처장은 &quot;인공지능(AI) 시대에 제대로 업무를 하려면 여러 데이터를 모아 데이터...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/03/28/AKR20260328048100002_03_i_P2.jpg",
+          "is_english": false,
+          "original_title": "[일문일답] '출범 6개월' 데이터처 처장 \"AI생태계 이끌 기본법 시급\"",
+          "original_summary": "(대전=연합뉴스) 이준서 이대희 안채원 기자 = 안형준 국가데이터처장은 &quot;인공지능(AI) 시대에 제대로 업무를 하려면 여러 데이터를 모아 데이터...",
+          "summary": "(대전=연합뉴스) 이준서 이대희 안채원 기자 = 안형준 국가데이터처장은 &quot;인공지능(AI) 시대에 제대로 업무를 하려면 여러 데이터를 모아 데이터..."
+        },
+        {
+          "title": "AI에 청년일자리 흔들?…전문직·IT 감소 대부분이 2030",
+          "link": "https://www.yna.co.kr/view/AKR20260328045500002",
+          "date": "2026-03-29",
+          "source": "연합뉴스",
+          "description": "(세종=연합뉴스) 안채원 기자 = 연구개발(R&amp;amp;D), 법률·회계 등 전문직과 정보통신(IT) 분야 일자리가 코로나19 이후 처음으로 감소...",
+          "image": "https://img.yna.co.kr/photo/cms/2024/01/05/46/PCM20240105000346990_P2.jpg",
+          "is_english": false,
+          "original_title": "AI에 청년일자리 흔들?…전문직·IT 감소 대부분이 2030",
+          "original_summary": "(세종=연합뉴스) 안채원 기자 = 연구개발(R&amp;amp;D), 법률·회계 등 전문직과 정보통신(IT) 분야 일자리가 코로나19 이후 처음으로 감소...",
+          "summary": "(세종=연합뉴스) 안채원 기자 = 연구개발(R&amp;amp;D), 법률·회계 등 전문직과 정보통신(IT) 분야 일자리가 코로나19 이후 처음으로 감소..."
+        },
         {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
@@ -252,15 +276,15 @@
           "category": "AI Model"
         },
         {
-          "title": "RoyalCities/Foundation-1",
-          "link": "https://huggingface.co/RoyalCities/Foundation-1",
+          "title": "unsloth/Qwen3.5-27B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.5-27B-GGUF",
           "date": "2026-03-29",
           "source": "HuggingFace",
-          "description": "• Foundation-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/RoyalCities/Foundation-1/resolve/main/Charts/banner.PNG",
+          "description": "• Qwen3.5-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
           "is_english": true,
-          "summary": "• Foundation-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "RoyalCities/Foundation-1",
+          "summary": "• Qwen3.5-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Qwen3.5-27B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -268,8 +292,20 @@
     },
     {
       "date": "2026-03-28",
-      "update_time": "2026-03-28 18:26:42",
+      "update_time": "2026-03-28 21:21:24",
       "news": [
+        {
+          "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
+          "link": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+          "date": "2026-03-28",
+          "source": "TechCrunch",
+          "description": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/ai-bots-agents-GettyImages-2230799616.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
+          "original_summary": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
+          "summary": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be."
+        },
         {
           "title": "Elon Musk’s last co-founder reportedly leaves xAI",
           "link": "https://techcrunch.com/2026/03/28/elon-musks-last-co-founder-reportedly-leaves-xai/",
