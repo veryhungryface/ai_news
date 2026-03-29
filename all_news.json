@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-03-29",
-      "update_time": "2026-03-28 21:21:26",
+      "update_time": "2026-03-29 01:23:24",
       "news": [
+        {
+          "title": "광주AI교육원, 초·중학생 대상 인공지능 영재교육 운영",
+          "link": "https://www.yna.co.kr/view/AKR20260327142800054",
+          "date": "2026-03-29",
+          "source": "연합뉴스",
+          "description": "(광주=연합뉴스) 여운창 기자 = 광주시교육청 AI교육원은 29일 초·중학생을 대상으로 &apos;2026년 인공지능(AI)정보영재교육&apos;을 운영한다고 밝...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/03/27/AKR20260327142800054_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "광주AI교육원, 초·중학생 대상 인공지능 영재교육 운영",
+          "original_summary": "(광주=연합뉴스) 여운창 기자 = 광주시교육청 AI교육원은 29일 초·중학생을 대상으로 &apos;2026년 인공지능(AI)정보영재교육&apos;을 운영한다고 밝...",
+          "summary": "(광주=연합뉴스) 여운창 기자 = 광주시교육청 AI교육원은 29일 초·중학생을 대상으로 &apos;2026년 인공지능(AI)정보영재교육&apos;을 운영한다고 밝..."
+        },
+        {
+          "title": "서울교육청-서울대 업무협약…\"AI 평가시스템·교원역량 강화\"",
+          "link": "https://www.yna.co.kr/view/AKR20260327129100530",
+          "date": "2026-03-29",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 노재현 기자 = 서울시교육청은 30일 서울대 사범대학, 서울대 교육종합연구원, 서울대 교육연구소와 &apos;대전환 시대의 미래교육 협...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/03/27/AKR20260327129100530_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "서울교육청-서울대 업무협약…\"AI 평가시스템·교원역량 강화\"",
+          "original_summary": "(서울=연합뉴스) 노재현 기자 = 서울시교육청은 30일 서울대 사범대학, 서울대 교육종합연구원, 서울대 교육연구소와 &apos;대전환 시대의 미래교육 협...",
+          "summary": "(서울=연합뉴스) 노재현 기자 = 서울시교육청은 30일 서울대 사범대학, 서울대 교육종합연구원, 서울대 교육연구소와 &apos;대전환 시대의 미래교육 협..."
+        },
         {
           "title": "[일문일답] '출범 6개월' 데이터처 처장 \"AI생태계 이끌 기본법 시급\"",
           "link": "https://www.yna.co.kr/view/AKR20260328048100002",
@@ -94,19 +118,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/Nemotron-Cascade-2-30B-A3B",
-          "link": "https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B",
-          "date": "2026-03-29",
-          "source": "HuggingFace",
-          "description": "• Nemotron-Cascade-2-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/2603.19220-Technical_Report-blue",
-          "is_english": true,
-          "summary": "• Nemotron-Cascade-2-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/Nemotron-Cascade-2-30B-A3B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "GAIR/daVinci-MagiHuman",
           "link": "https://huggingface.co/GAIR/daVinci-MagiHuman",
           "date": "2026-03-29",
@@ -116,6 +127,19 @@
           "is_english": true,
           "summary": "• daVinci-MagiHuman 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "GAIR/daVinci-MagiHuman",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/Nemotron-Cascade-2-30B-A3B",
+          "link": "https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B",
+          "date": "2026-03-29",
+          "source": "HuggingFace",
+          "description": "• Nemotron-Cascade-2-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/2603.19220-Technical_Report-blue",
+          "is_english": true,
+          "summary": "• Nemotron-Cascade-2-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/Nemotron-Cascade-2-30B-A3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -185,19 +209,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Lightricks/LTX-2.3",
-          "link": "https://huggingface.co/Lightricks/LTX-2.3",
-          "date": "2026-03-29",
-          "source": "HuggingFace",
-          "description": "• LTX-2.3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/Lightricks/LTX-2.3/resolve/main/ltx2.3-open.png",
-          "is_english": true,
-          "summary": "• LTX-2.3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Lightricks/LTX-2.3",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "facebook/tribev2",
           "link": "https://huggingface.co/facebook/tribev2",
           "date": "2026-03-29",
@@ -211,15 +222,15 @@
           "category": "AI Model"
         },
         {
-          "title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-          "link": "https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+          "title": "Lightricks/LTX-2.3",
+          "link": "https://huggingface.co/Lightricks/LTX-2.3",
           "date": "2026-03-29",
           "source": "HuggingFace",
-          "description": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "description": "• LTX-2.3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/Lightricks/LTX-2.3/resolve/main/ltx2.3-open.png",
           "is_english": true,
-          "summary": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+          "summary": "• LTX-2.3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Lightricks/LTX-2.3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -233,6 +244,19 @@
           "is_english": true,
           "summary": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.5-9B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+          "link": "https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+          "date": "2026-03-29",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -292,8 +316,20 @@
     },
     {
       "date": "2026-03-28",
-      "update_time": "2026-03-28 21:21:24",
+      "update_time": "2026-03-29 01:23:24",
       "news": [
+        {
+          "title": "Bluesky leans into AI with Attie, an app for building custom feeds",
+          "link": "https://techcrunch.com/2026/03/28/bluesky-leans-into-ai-with-attie-an-app-for-building-custom-feeds/",
+          "date": "2026-03-28",
+          "source": "TechCrunch",
+          "description": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/01/bluesky-GettyImages-2185142051.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Bluesky leans into AI with Attie, an app for building custom feeds",
+          "original_summary": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto.",
+          "summary": "Bluesky’s new app Attie uses AI to help people build custom feeds the open social networking protocol atproto."
+        },
         {
           "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
           "link": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
