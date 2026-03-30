@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-03-30",
-      "update_time": "2026-03-30 05:16:51",
+      "update_time": "2026-03-30 07:15:33",
       "news": [
+        {
+          "title": "Helping disaster response teams turn AI into action across Asia",
+          "link": "https://openai.com/index/helping-disaster-response-teams-asia",
+          "date": "2026-03-30",
+          "source": "OpenAI",
+          "description": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
+          "image": null,
+          "is_english": true,
+          "original_title": "Helping disaster response teams turn AI into action across Asia",
+          "original_summary": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation",
+          "summary": "AI for Disaster Response in Asia: OpenAI Workshop with Gates Foundation"
+        },
         {
           "title": "유은혜 \"AI 활용해 맞춤형 학습 지원하고 행정업무 줄일 것\"",
           "link": "https://www.yna.co.kr/view/AKR20260330095000061",
@@ -274,19 +286,6 @@
           "category": "AI Model"
         },
         {
-          "title": "GAIR/daVinci-MagiHuman",
-          "link": "https://huggingface.co/GAIR/daVinci-MagiHuman",
-          "date": "2026-03-30",
-          "source": "HuggingFace",
-          "description": "• daVinci-MagiHuman 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/GitHub-Repo-black?logo=github",
-          "is_english": true,
-          "summary": "• daVinci-MagiHuman 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "GAIR/daVinci-MagiHuman",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "chromadb/context-1",
           "link": "https://huggingface.co/chromadb/context-1",
           "date": "2026-03-30",
@@ -296,6 +295,19 @@
           "is_english": true,
           "summary": "• context-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "chromadb/context-1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "GAIR/daVinci-MagiHuman",
+          "link": "https://huggingface.co/GAIR/daVinci-MagiHuman",
+          "date": "2026-03-30",
+          "source": "HuggingFace",
+          "description": "• daVinci-MagiHuman 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/GitHub-Repo-black?logo=github",
+          "is_english": true,
+          "summary": "• daVinci-MagiHuman 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "GAIR/daVinci-MagiHuman",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -326,19 +338,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Tesslate/OmniCoder-9B",
-          "link": "https://huggingface.co/Tesslate/OmniCoder-9B",
-          "date": "2026-03-30",
-          "source": "HuggingFace",
-          "description": "• OmniCoder-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/License-Apache_2.0-blue.svg",
-          "is_english": true,
-          "summary": "• OmniCoder-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Tesslate/OmniCoder-9B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "facebook/tribev2",
           "link": "https://huggingface.co/facebook/tribev2",
           "date": "2026-03-30",
@@ -348,6 +347,19 @@
           "is_english": true,
           "summary": "• tribev2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "facebook/tribev2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Tesslate/OmniCoder-9B",
+          "link": "https://huggingface.co/Tesslate/OmniCoder-9B",
+          "date": "2026-03-30",
+          "source": "HuggingFace",
+          "description": "• OmniCoder-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/License-Apache_2.0-blue.svg",
+          "is_english": true,
+          "summary": "• OmniCoder-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Tesslate/OmniCoder-9B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
