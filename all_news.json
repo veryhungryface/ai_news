@@ -2,8 +2,44 @@
   "dates": [
     {
       "date": "2026-03-31",
-      "update_time": "2026-03-30 18:45:51",
+      "update_time": "2026-03-30 21:33:52",
       "news": [
+        {
+          "title": "위성 영상 기반 미세먼지 농도 추정값, AI로 2배 빠르게 산출",
+          "link": "https://www.yna.co.kr/view/AKR20260330145200530",
+          "date": "2026-03-31",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 이재영 기자 = 인공지능(AI)을 활용해 위성영상 기반 미세먼지 농도 정보를 기존보다 2배 빠르게 제공한다고 국립환경과학원이 ...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/03/30/AKR20260330145200530_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "위성 영상 기반 미세먼지 농도 추정값, AI로 2배 빠르게 산출",
+          "original_summary": "(서울=연합뉴스) 이재영 기자 = 인공지능(AI)을 활용해 위성영상 기반 미세먼지 농도 정보를 기존보다 2배 빠르게 제공한다고 국립환경과학원이 ...",
+          "summary": "(서울=연합뉴스) 이재영 기자 = 인공지능(AI)을 활용해 위성영상 기반 미세먼지 농도 정보를 기존보다 2배 빠르게 제공한다고 국립환경과학원이 ..."
+        },
+        {
+          "title": "장난전화는 옛말…경찰, 만우절 노린 '딸깍' 협박글 예의주시",
+          "link": "https://www.yna.co.kr/view/AKR20260330135300004",
+          "date": "2026-03-31",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 이동환 정지수 기자 = 만우절을 하루 앞둔 31일 경찰이 소셜미디어(SNS)와 인공지능(AI) 악용에 따른 사회 혼란 가능성에...",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2025/08/05/PYH2025080513920001300_P2.jpg",
+          "is_english": false,
+          "original_title": "장난전화는 옛말…경찰, 만우절 노린 '딸깍' 협박글 예의주시",
+          "original_summary": "(서울=연합뉴스) 이동환 정지수 기자 = 만우절을 하루 앞둔 31일 경찰이 소셜미디어(SNS)와 인공지능(AI) 악용에 따른 사회 혼란 가능성에...",
+          "summary": "(서울=연합뉴스) 이동환 정지수 기자 = 만우절을 하루 앞둔 31일 경찰이 소셜미디어(SNS)와 인공지능(AI) 악용에 따른 사회 혼란 가능성에..."
+        },
+        {
+          "title": "Microsoft Brings New AI Capabilities to Copilot Researcher",
+          "link": "https://aibusiness.com/generative-ai/microsoft-brings-new-ai-capabilities-copilot-researcher",
+          "date": "2026-03-31",
+          "source": "AI Business",
+          "description": "The updates are designed to bring more accuracy and reliability to enterprise workflows.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blte03691e9f0f49621/69cad119c0030f95052fa53d/Microsoft_Copilot.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Microsoft Brings New AI Capabilities to Copilot Researcher",
+          "original_summary": "The updates are designed to bring more accuracy and reliability to enterprise workflows.",
+          "summary": "The updates are designed to bring more accuracy and reliability to enterprise workflows."
+        },
         {
           "title": "Mistral AI Lands $830M for AI Data Center",
           "link": "https://aibusiness.com/generative-ai/mistral-ai-lands-830m-ai-data-center",
@@ -145,15 +181,15 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/Nemotron-Cascade-2-30B-A3B",
-          "link": "https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B",
+          "title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+          "link": "https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
           "date": "2026-03-31",
           "source": "HuggingFace",
-          "description": "• Nemotron-Cascade-2-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/2603.19220-Technical_Report-blue",
+          "description": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
           "is_english": true,
-          "summary": "• Nemotron-Cascade-2-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/Nemotron-Cascade-2-30B-A3B",
+          "summary": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -171,15 +207,15 @@
           "category": "AI Model"
         },
         {
-          "title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-          "link": "https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+          "title": "nvidia/Nemotron-Cascade-2-30B-A3B",
+          "link": "https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B",
           "date": "2026-03-31",
           "source": "HuggingFace",
-          "description": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "description": "• Nemotron-Cascade-2-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/2603.19220-Technical_Report-blue",
           "is_english": true,
-          "summary": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+          "summary": "• Nemotron-Cascade-2-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/Nemotron-Cascade-2-30B-A3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -288,15 +324,15 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.5-27B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.5-27B-GGUF",
+          "title": "Qwen/Qwen3.5-27B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-27B",
           "date": "2026-03-31",
           "source": "HuggingFace",
-          "description": "• Qwen3.5-27B-GGUF AI 모델 공개\n• HuggingFace에서 트렌딩 중\n• 다운로드 및 상세 정보는 링크에서\n• 최신 오픈소스 AI 기술",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• Qwen3.5-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
           "is_english": true,
-          "summary": "• Qwen3.5-27B-GGUF AI 모델 공개\n• HuggingFace에서 트렌딩 중\n• 다운로드 및 상세 정보는 링크에서\n• 최신 오픈소스 AI 기술",
-          "translated_title": "unsloth/Qwen3.5-27B-GGUF",
+          "summary": "• Qwen3.5-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.5-27B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -304,8 +340,20 @@
     },
     {
       "date": "2026-03-30",
-      "update_time": "2026-03-30 16:00:18",
+      "update_time": "2026-03-30 21:33:52",
       "news": [
+        {
+          "title": "As more Americans adopt AI tools, fewer say they can trust the results",
+          "link": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
+          "date": "2026-03-30",
+          "source": "TechCrunch",
+          "description": "AI adoption is rising in the U.S., but trust remains low, with most Americans concerned about transparency, regulation, and the technology’s broader societal impact, according to a new Quinnipiac poll.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
+          "is_english": true,
+          "original_title": "As more Americans adopt AI tools, fewer say they can trust the results",
+          "original_summary": "AI adoption is rising in the U.S., but trust remains low, with most Americans concerned about transparency, regulation, and the technology’s broader societal impact, according to a new Quinnipiac poll.",
+          "summary": "AI adoption is rising in the U.S., but trust remains low, with most Americans concerned about transparency, regulation, and the technology’s broader societal impact, according to a new Quinnipiac poll."
+        },
         {
           "title": "Mantis Biotech is making ‘digital twins’ of humans to help solve medicine’s data availability problem",
           "link": "https://techcrunch.com/2026/03/30/mantis-biotech-is-making-digital-twins-of-humans-to-help-solve-medicines-data-availability-problem/",
