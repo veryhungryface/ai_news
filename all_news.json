@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-03-30",
-      "update_time": "2026-03-29 21:23:11",
+      "update_time": "2026-03-30 01:24:07",
       "news": [
+        {
+          "title": "중기부·중진공, 中企 인력양성대학 모집…AI 인재 양성 확대",
+          "link": "https://www.yna.co.kr/view/AKR20260330050600030",
+          "date": "2026-03-30",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 구정모 기자 = 중소벤처기업부와 중소벤처기업진흥공단은 중소기업 디지털 전환을 이끌 인공지능(AI) 인재 양성을 위해 &apos;중소기업...",
+          "image": "https://img.yna.co.kr/photo/cms/2024/09/27/97/PCM20240927000397030_P2.jpg",
+          "is_english": false,
+          "original_title": "중기부·중진공, 中企 인력양성대학 모집…AI 인재 양성 확대",
+          "original_summary": "(서울=연합뉴스) 구정모 기자 = 중소벤처기업부와 중소벤처기업진흥공단은 중소기업 디지털 전환을 이끌 인공지능(AI) 인재 양성을 위해 &apos;중소기업...",
+          "summary": "(서울=연합뉴스) 구정모 기자 = 중소벤처기업부와 중소벤처기업진흥공단은 중소기업 디지털 전환을 이끌 인공지능(AI) 인재 양성을 위해 &apos;중소기업..."
+        },
+        {
+          "title": "부안해경 \"AI가 사투리·소음 판독\"…신고접수 시스템 도입",
+          "link": "https://www.yna.co.kr/view/AKR20260330047900055",
+          "date": "2026-03-30",
+          "source": "연합뉴스",
+          "description": "(부안=연합뉴스) 정경재 기자 = 전북 부안해양경찰서는 긴급 신고 과정에서 발생할 수 있는 전달 오류를 줄이기 위해 인공지능(AI) 기반 신고접...",
+          "image": "https://img.yna.co.kr/photo/cms/2022/06/15/06/PCM20220615000306990_P2.jpg",
+          "is_english": false,
+          "original_title": "부안해경 \"AI가 사투리·소음 판독\"…신고접수 시스템 도입",
+          "original_summary": "(부안=연합뉴스) 정경재 기자 = 전북 부안해양경찰서는 긴급 신고 과정에서 발생할 수 있는 전달 오류를 줄이기 위해 인공지능(AI) 기반 신고접...",
+          "summary": "(부안=연합뉴스) 정경재 기자 = 전북 부안해양경찰서는 긴급 신고 과정에서 발생할 수 있는 전달 오류를 줄이기 위해 인공지능(AI) 기반 신고접..."
+        },
         {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
@@ -174,19 +198,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.5-9B",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-9B",
-          "date": "2026-03-30",
-          "source": "HuggingFace",
-          "description": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.5-9B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
           "date": "2026-03-30",
@@ -200,15 +211,15 @@
           "category": "AI Model"
         },
         {
-          "title": "meituan-longcat/LongCat-Next",
-          "link": "https://huggingface.co/meituan-longcat/LongCat-Next",
+          "title": "Qwen/Qwen3.5-9B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-9B",
           "date": "2026-03-30",
           "source": "HuggingFace",
-          "description": "• LongCat-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/meituan-longcat/LongCat-Next/resolve/main/./assets/overview.jpg",
+          "description": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
           "is_english": true,
-          "summary": "• LongCat-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "meituan-longcat/LongCat-Next",
+          "summary": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.5-9B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -222,6 +233,19 @@
           "is_english": true,
           "summary": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "meituan-longcat/LongCat-Next",
+          "link": "https://huggingface.co/meituan-longcat/LongCat-Next",
+          "date": "2026-03-30",
+          "source": "HuggingFace",
+          "description": "• LongCat-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/meituan-longcat/LongCat-Next/resolve/main/./assets/overview.jpg",
+          "is_english": true,
+          "summary": "• LongCat-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "meituan-longcat/LongCat-Next",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +292,20 @@
     },
     {
       "date": "2026-03-29",
-      "update_time": "2026-03-29 18:27:41",
+      "update_time": "2026-03-30 01:24:07",
       "news": [
+        {
+          "title": "맥 프로, 조용히 역사 속으로…애플 실리콘에 자리를 내주다",
+          "link": "https://www.itworld.co.kr/article/4151486/%eb%a7%a5-%ed%94%84%eb%a1%9c-%ec%a1%b0%ec%9a%a9%ed%9e%88-%ec%97%ad%ec%82%ac-%ec%86%8d%ec%9c%bc%eb%a1%9c%ec%95%a0%ed%94%8c-%ec%8b%a4%eb%a6%ac%ec%bd%98%ec%97%90-%ec%9e%90%eb%a6%ac%eb%a5%bc.html",
+          "date": "2026-03-29",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n애플의 가장 상징적인 컴퓨터로 꼽힌 맥 프로의 종말은 예견된 수순이었다. 이달 초 프로 디스플레이 XDR 단종과 새 스튜디오 디스플레이 XDR 출시로 이미 신호를 보낸 바 있다. 이제 공식 발표가 났다.\n\n\n\n지난 목요일 애플은 Macworld에 맥 프로 단종을 공식 확인했다. 온라인 스토어에서도 제품을 삭제했다. 애플 데스크톱 라인업에서 전통적 의미의 ‘프로’ 명칭을 달고 있던 마지막 제품이 사라졌다.\n\n\n\n애플 50주년 기념일을 불과 며칠 앞두고 나온 발표라 갑작스럽게 느껴질 수 있지만, 맥 프로의 운명은 이미 오래전에 결정된 것이나 마찬가지였다.\n\n\n\n애플 최고 야심작의 긴 이별\n\n\n\n맥 프로는 항상 애플에서 가장 강력하고 유연한 컴퓨터였다. 2000년대 알루미늄 타워부터 논란을 불러일으킨 2013년 원통형 디자인, 2019년 모듈화 방식으로의 복귀까지, 맥 프로는 타협 없는 성능이 필요한 전문가를 위해 설계됐다.\n\n\n\n2019년 애플이",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/03/4151486-0-61605600-1774827688-mac-pro-graphic-5.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "맥 프로, 조용히 역사 속으로…애플 실리콘에 자리를 내주다",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n애플의 가장 상징적인 컴퓨터로 꼽힌 맥 프로의 종말은 예견된 수순이었다. 이달 초 프로 디스플레이 XDR 단종과 새 스튜디오 디스플레이 XDR 출시로 이미 신호를 보낸 바 있다. 이제 공식 발표가 났다.\n\n\n\n지난 목요일 애플은 Macworld에 맥 프로 단종을 공식 확인했다. 온라인 스토어에서도 제품을 삭제했다. 애플 데스크톱 라인업에서 전통적 의미의 ‘프로’ 명칭을 달고 있던 마지막 제품이 사라졌다.\n\n\n\n애플 50주년 기념일을 불과 며칠 앞두고 나온 발표라 갑작스럽게 느껴질 수 있지만,",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n애플의 가장 상징적인 컴퓨터로 꼽힌 맥 프로의 종말은 예견된 수순이었다. 이달 초 프로 디스플레이 XDR 단종과 새 스튜디오 디스플레이 XDR 출시로 이미 신호를 보낸 바 있다. 이제 공식 발표가 났다.\n\n\n\n지난 목요일 애플은 Macworld에 맥 프로 단종을 공식 확인했다. 온라인 스토어에서도 제품을 삭제했다. 애플 데스크톱 라인업에서 전통적 의미의 ‘프로’ 명칭을 달고 있던 마지막 제품이 사라졌다.\n\n\n\n애플 50주년 기념일을 불과 며칠 앞두고 나온 발표라 갑작스럽게 느껴질 수 있지만,"
+        },
         {
           "title": "Sora’s shutdown could be a reality check moment for AI video",
           "link": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
