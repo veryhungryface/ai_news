@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-04-01",
-      "update_time": "2026-03-31 18:46:36",
+      "update_time": "2026-03-31 21:29:43",
       "news": [
+        {
+          "title": "디지털성범죄물 AI로 24시간 탐지·신고…\"건당 처리시간 단축\"",
+          "link": "https://www.yna.co.kr/view/AKR20260331165800530",
+          "date": "2026-04-01",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 오진송 기자 = 디지털 성범죄 피해 영상을 인공지능(AI)이 실시간 탐지해 자동으로 삭제요청까지 하는 시스템을 도입했다고 성평...",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2025/09/30/PYH2025093019540001300_P2.jpg",
+          "is_english": false,
+          "original_title": "디지털성범죄물 AI로 24시간 탐지·신고…\"건당 처리시간 단축\"",
+          "original_summary": "(서울=연합뉴스) 오진송 기자 = 디지털 성범죄 피해 영상을 인공지능(AI)이 실시간 탐지해 자동으로 삭제요청까지 하는 시스템을 도입했다고 성평...",
+          "summary": "(서울=연합뉴스) 오진송 기자 = 디지털 성범죄 피해 영상을 인공지능(AI)이 실시간 탐지해 자동으로 삭제요청까지 하는 시스템을 도입했다고 성평..."
+        },
         {
           "title": "Databricks to Invest $850M in UK AI Operations",
           "link": "https://aibusiness.com/data-management/databricks-to-invest-850m-uk-ai-operations",
@@ -249,19 +261,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-          "link": "https://huggingface.co/Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-          "date": "2026-04-01",
-          "source": "HuggingFace",
-          "description": "• Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/k4JsVit-31Fw8RZ4pFkun.jpeg",
-          "is_english": true,
-          "summary": "• Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "microsoft/harrier-oss-v1-0.6b",
           "link": "https://huggingface.co/microsoft/harrier-oss-v1-0.6b",
           "date": "2026-04-01",
@@ -271,6 +270,19 @@
           "is_english": true,
           "summary": "• harrier-oss-v1-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "microsoft/harrier-oss-v1-0.6b",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
+          "link": "https://huggingface.co/Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
+          "date": "2026-04-01",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/k4JsVit-31Fw8RZ4pFkun.jpeg",
+          "is_english": true,
+          "summary": "• Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -304,8 +316,44 @@
     },
     {
       "date": "2026-03-31",
-      "update_time": "2026-03-31 18:46:36",
+      "update_time": "2026-03-31 21:29:42",
       "news": [
+        {
+          "title": "Accelerating the next phase of AI",
+          "link": "https://openai.com/index/accelerating-the-next-phase-ai",
+          "date": "2026-03-31",
+          "source": "OpenAI",
+          "description": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Accelerating the next phase of AI",
+          "original_summary": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
+          "summary": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI."
+        },
+        {
+          "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
+          "link": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
+          "date": "2026-03-31",
+          "source": "TechCrunch",
+          "description": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544149.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
+          "original_summary": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
+          "summary": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO."
+        },
+        {
+          "title": "Yupp shuts down after raising $33M from a16z crypto’s Chris Dixon",
+          "link": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
+          "date": "2026-03-31",
+          "source": "TechCrunch",
+          "description": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp is closing its business, the company said Tuesday.",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1303642234.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Yupp shuts down after raising $33M from a16z crypto’s Chris Dixon",
+          "original_summary": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp is closing its business, the company said Tuesday.",
+          "summary": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp is closing its business, the company said Tuesday."
+        },
         {
           "title": "Alexa+ gets new food ordering experiences with Uber Eats and Grubhub",
           "link": "https://techcrunch.com/2026/03/31/alexa-plus-new-food-ordering-experiences-with-uber-eats-and-grubhub/",
