@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-04-01",
-      "update_time": "2026-03-31 15:59:05",
+      "update_time": "2026-03-31 18:46:36",
       "news": [
+        {
+          "title": "Databricks to Invest $850M in UK AI Operations",
+          "link": "https://aibusiness.com/data-management/databricks-to-invest-850m-uk-ai-operations",
+          "date": "2026-04-01",
+          "source": "AI Business",
+          "description": "With the investment, the company will expand its London hub, boost AI talent development, and support growing demand for agentic AI tools.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltc68fb3aaeb7ddcba/69cbf8a62772d378a449e033/Databricks.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Databricks to Invest $850M in UK AI Operations",
+          "original_summary": "With the investment, the company will expand its London hub, boost AI talent development, and support growing demand for agentic AI tools.",
+          "summary": "With the investment, the company will expand its London hub, boost AI talent development, and support growing demand for agentic AI tools."
+        },
+        {
+          "title": "Nebius to Build One of Europe’s Largest AI Factories in Finland",
+          "link": "https://aibusiness.com/generative-ai/nebius-build-one-of-europe-s-largest-ai-factories-in-finland",
+          "date": "2026-04-01",
+          "source": "AI Business",
+          "description": "The 310MW site joins Europe’s accelerating push to rival U.S. AI infrastructure.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt388b2c73eb85541b/69cbf0cd4642d55bfc411431/Nebius.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Nebius to Build One of Europe’s Largest AI Factories in Finland",
+          "original_summary": "The 310MW site joins Europe’s accelerating push to rival U.S. AI infrastructure.",
+          "summary": "The 310MW site joins Europe’s accelerating push to rival U.S. AI infrastructure."
+        },
         {
           "title": "South Korean AI Chipmaker Raises $400 Million for Inference",
           "link": "https://aibusiness.com/generative-ai/south-korean-ai-chipmaker-raises-400-million-inference",
@@ -95,19 +119,6 @@
           "category": "AI Model"
         },
         {
-          "title": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "link": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-04-01",
-          "source": "HuggingFace",
-          "description": "• Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
           "date": "2026-04-01",
@@ -117,6 +128,19 @@
           "is_english": true,
           "summary": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "link": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "date": "2026-04-01",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -186,15 +210,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.5-9B",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-9B",
+          "title": "meituan-longcat/LongCat-Next",
+          "link": "https://huggingface.co/meituan-longcat/LongCat-Next",
           "date": "2026-04-01",
           "source": "HuggingFace",
-          "description": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "description": "• LongCat-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/meituan-longcat/LongCat-Next/resolve/main/./assets/overview.jpg",
           "is_english": true,
-          "summary": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.5-9B",
+          "summary": "• LongCat-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "meituan-longcat/LongCat-Next",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -212,15 +236,15 @@
           "category": "AI Model"
         },
         {
-          "title": "meituan-longcat/LongCat-Next",
-          "link": "https://huggingface.co/meituan-longcat/LongCat-Next",
+          "title": "Qwen/Qwen3.5-9B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-9B",
           "date": "2026-04-01",
           "source": "HuggingFace",
-          "description": "• LongCat-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/meituan-longcat/LongCat-Next/resolve/main/./assets/overview.jpg",
+          "description": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
           "is_english": true,
-          "summary": "• LongCat-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "meituan-longcat/LongCat-Next",
+          "summary": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.5-9B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -280,8 +304,32 @@
     },
     {
       "date": "2026-03-31",
-      "update_time": "2026-03-31 15:59:05",
+      "update_time": "2026-03-31 18:46:36",
       "news": [
+        {
+          "title": "Alexa+ gets new food ordering experiences with Uber Eats and Grubhub",
+          "link": "https://techcrunch.com/2026/03/31/alexa-plus-new-food-ordering-experiences-with-uber-eats-and-grubhub/",
+          "date": "2026-03-31",
+          "source": "TechCrunch",
+          "description": "You can now order from Uber Eats and Grubhub using Alexa+, an experience Amazon says will be similar to chatting with a waiter at a restaurant or placing an order at a drive-thru.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/food-order-cart-echo-show-amazon-news-nb-033126.png?w=1200",
+          "is_english": true,
+          "original_title": "Alexa+ gets new food ordering experiences with Uber Eats and Grubhub",
+          "original_summary": "You can now order from Uber Eats and Grubhub using Alexa+, an experience Amazon says will be similar to chatting with a waiter at a restaurant or placing an order at a drive-thru.",
+          "summary": "You can now order from Uber Eats and Grubhub using Alexa+, an experience Amazon says will be similar to chatting with a waiter at a restaurant or placing an order at a drive-thru."
+        },
+        {
+          "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
+          "date": "2026-03-31",
+          "source": "Google AI",
+          "description": "Veo 3.1 Lite  is now available in paid preview through the Gemini API and for testing in Google AI Studio.",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/veo31lite.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
+          "original_summary": "Veo 3.1 Lite  is now available in paid preview through the Gemini API and for testing in Google AI Studio.",
+          "summary": "Veo 3.1 Lite  is now available in paid preview through the Gemini API and for testing in Google AI Studio."
+        },
         {
           "title": "익산 함열 산란계 농장서 조류인플루엔자 H5형 항원 검출",
           "link": "https://www.yna.co.kr/view/AKR20260331207300055",
@@ -8941,7 +8989,7 @@
         {
           "title": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-03-23",
+          "date": "2026-04-01",
           "source": "HuggingFace",
           "description": "• Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -8954,7 +9002,7 @@
         {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-          "date": "2026-03-23",
+          "date": "2026-04-01",
           "source": "HuggingFace",
           "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
@@ -8967,7 +9015,7 @@
         {
           "title": "baidu/Qianfan-OCR",
           "link": "https://huggingface.co/baidu/Qianfan-OCR",
-          "date": "2026-03-23",
+          "date": "2026-04-01",
           "source": "HuggingFace",
           "description": "• Qianfan-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -9006,7 +9054,7 @@
         {
           "title": "nvidia/Nemotron-Cascade-2-30B-A3B",
           "link": "https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B",
-          "date": "2026-03-23",
+          "date": "2026-04-01",
           "source": "HuggingFace",
           "description": "• Nemotron-Cascade-2-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/2603.19220-Technical_Report-blue",
@@ -9045,7 +9093,7 @@
         {
           "title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-03-23",
+          "date": "2026-04-01",
           "source": "HuggingFace",
           "description": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
@@ -9058,7 +9106,7 @@
         {
           "title": "Tesslate/OmniCoder-9B",
           "link": "https://huggingface.co/Tesslate/OmniCoder-9B",
-          "date": "2026-03-23",
+          "date": "2026-04-01",
           "source": "HuggingFace",
           "description": "• OmniCoder-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/License-Apache_2.0-blue.svg",
@@ -9071,7 +9119,7 @@
         {
           "title": "Qwen/Qwen3.5-9B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-9B",
-          "date": "2026-03-23",
+          "date": "2026-04-01",
           "source": "HuggingFace",
           "description": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -9110,7 +9158,7 @@
         {
           "title": "Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-          "date": "2026-03-23",
+          "date": "2026-04-01",
           "source": "HuggingFace",
           "description": "• Qwen3.5-9B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/k4JsVit-31Fw8RZ4pFkun.jpeg",
@@ -9123,7 +9171,7 @@
         {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "date": "2026-03-23",
+          "date": "2026-04-01",
           "source": "HuggingFace",
           "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
@@ -9149,7 +9197,7 @@
         {
           "title": "Lightricks/LTX-2.3",
           "link": "https://huggingface.co/Lightricks/LTX-2.3",
-          "date": "2026-03-23",
+          "date": "2026-04-01",
           "source": "HuggingFace",
           "description": "• LTX-2.3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/Lightricks/LTX-2.3/resolve/main/ltx2.3-open.png",
