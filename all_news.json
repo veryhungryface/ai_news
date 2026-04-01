@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-04-02",
-      "update_time": "2026-04-01 16:02:06",
+      "update_time": "2026-04-01 18:45:42",
       "news": [
         {
           "title": "Florida University Rolls Out Autonomous Delivery Robots",
@@ -134,19 +134,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/Nemotron-Cascade-2-30B-A3B",
-          "link": "https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B",
-          "date": "2026-04-02",
-          "source": "HuggingFace",
-          "description": "• Nemotron-Cascade-2-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/2603.19220-Technical_Report-blue",
-          "is_english": true,
-          "summary": "• Nemotron-Cascade-2-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/Nemotron-Cascade-2-30B-A3B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "prism-ml/Bonsai-8B-gguf",
           "link": "https://huggingface.co/prism-ml/Bonsai-8B-gguf",
           "date": "2026-04-02",
@@ -169,6 +156,19 @@
           "is_english": true,
           "summary": "• LFM2.5-350M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "LiquidAI/LFM2.5-350M",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/Nemotron-Cascade-2-30B-A3B",
+          "link": "https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B",
+          "date": "2026-04-02",
+          "source": "HuggingFace",
+          "description": "• Nemotron-Cascade-2-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/2603.19220-Technical_Report-blue",
+          "is_english": true,
+          "summary": "• Nemotron-Cascade-2-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/Nemotron-Cascade-2-30B-A3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -199,19 +199,6 @@
           "category": "AI Model"
         },
         {
-          "title": "meituan-longcat/LongCat-Next",
-          "link": "https://huggingface.co/meituan-longcat/LongCat-Next",
-          "date": "2026-04-02",
-          "source": "HuggingFace",
-          "description": "• LongCat-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/meituan-longcat/LongCat-Next/resolve/main/./assets/overview.jpg",
-          "is_english": true,
-          "summary": "• LongCat-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "meituan-longcat/LongCat-Next",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "date": "2026-04-02",
@@ -225,15 +212,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.5-9B",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-9B",
+          "title": "meituan-longcat/LongCat-Next",
+          "link": "https://huggingface.co/meituan-longcat/LongCat-Next",
           "date": "2026-04-02",
           "source": "HuggingFace",
-          "description": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "description": "• LongCat-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/meituan-longcat/LongCat-Next/resolve/main/./assets/overview.jpg",
           "is_english": true,
-          "summary": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.5-9B",
+          "summary": "• LongCat-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "meituan-longcat/LongCat-Next",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -251,6 +238,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Qwen/Qwen3.5-9B",
+          "link": "https://huggingface.co/Qwen/Qwen3.5-9B",
+          "date": "2026-04-02",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.5-9B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Lightricks/LTX-2.3",
           "link": "https://huggingface.co/Lightricks/LTX-2.3",
           "date": "2026-04-02",
@@ -264,15 +264,15 @@
           "category": "AI Model"
         },
         {
-          "title": "facebook/sam3.1",
-          "link": "https://huggingface.co/facebook/sam3.1",
+          "title": "Hcompany/Holo3-35B-A3B",
+          "link": "https://huggingface.co/Hcompany/Holo3-35B-A3B",
           "date": "2026-04-02",
           "source": "HuggingFace",
-          "description": "• sam3.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• Holo3-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/Hcompany/Holo3-35B-A3B/resolve/main/osworld_pareto_light.png",
           "is_english": true,
-          "summary": "• sam3.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "facebook/sam3.1",
+          "summary": "• Holo3-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Hcompany/Holo3-35B-A3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -280,8 +280,32 @@
     },
     {
       "date": "2026-04-01",
-      "update_time": "2026-04-01 16:02:04",
+      "update_time": "2026-04-01 18:45:40",
       "news": [
+        {
+          "title": "Meta’s natural gas binge could power South Dakota",
+          "link": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
+          "date": "2026-04-01",
+          "source": "TechCrunch",
+          "description": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-462843546.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Meta’s natural gas binge could power South Dakota",
+          "original_summary": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants. ",
+          "summary": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants. "
+        },
+        {
+          "title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
+          "link": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
+          "date": "2026-04-01",
+          "source": "TechCrunch",
+          "description": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/09/chip-manufacturing-getty.jpg?w=1200",
+          "is_english": true,
+          "original_title": "Cognichip wants AI to design the chips that power AI, and just raised $60M to try",
+          "original_summary": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half. ",
+          "summary": "The firm says it can reduce the cost of chip development by more than 75% and cut the timeline by more than half. "
+        },
         {
           "title": "[인사] 보건복지부",
           "link": "https://www.yna.co.kr/view/AKR20260401196100530",
@@ -8941,7 +8965,7 @@
         {
           "title": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-03-24",
+          "date": "2026-04-02",
           "source": "HuggingFace",
           "description": "• Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -8954,7 +8978,7 @@
         {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-          "date": "2026-03-24",
+          "date": "2026-04-02",
           "source": "HuggingFace",
           "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
@@ -8967,7 +8991,7 @@
         {
           "title": "baidu/Qianfan-OCR",
           "link": "https://huggingface.co/baidu/Qianfan-OCR",
-          "date": "2026-03-24",
+          "date": "2026-04-02",
           "source": "HuggingFace",
           "description": "• Qianfan-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -8980,7 +9004,7 @@
         {
           "title": "nvidia/Nemotron-Cascade-2-30B-A3B",
           "link": "https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B",
-          "date": "2026-03-24",
+          "date": "2026-04-02",
           "source": "HuggingFace",
           "description": "• Nemotron-Cascade-2-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/2603.19220-Technical_Report-blue",
@@ -9045,7 +9069,7 @@
         {
           "title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-03-24",
+          "date": "2026-04-02",
           "source": "HuggingFace",
           "description": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
@@ -9058,7 +9082,7 @@
         {
           "title": "Qwen/Qwen3.5-9B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-9B",
-          "date": "2026-03-24",
+          "date": "2026-04-02",
           "source": "HuggingFace",
           "description": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -9084,7 +9108,7 @@
         {
           "title": "Tesslate/OmniCoder-9B",
           "link": "https://huggingface.co/Tesslate/OmniCoder-9B",
-          "date": "2026-03-24",
+          "date": "2026-04-02",
           "source": "HuggingFace",
           "description": "• OmniCoder-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/License-Apache_2.0-blue.svg",
@@ -9110,7 +9134,7 @@
         {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "date": "2026-03-24",
+          "date": "2026-04-02",
           "source": "HuggingFace",
           "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
@@ -9162,7 +9186,7 @@
         {
           "title": "Lightricks/LTX-2.3",
           "link": "https://huggingface.co/Lightricks/LTX-2.3",
-          "date": "2026-03-24",
+          "date": "2026-04-02",
           "source": "HuggingFace",
           "description": "• LTX-2.3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/Lightricks/LTX-2.3/resolve/main/ltx2.3-open.png",
