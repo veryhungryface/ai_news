@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-04-02",
-      "update_time": "2026-04-01 18:45:42",
+      "update_time": "2026-04-01 21:33:43",
       "news": [
+        {
+          "title": "[김길원의 헬스노트] \"AI가 그러던데\"…'진료 전 챗GPT' 약일까 독일까",
+          "link": "https://www.yna.co.kr/view/AKR20260401155800530",
+          "date": "2026-04-02",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 김길원 기자 = 아이가 열이 나면 요즘 부모들은 의사부터 찾지 않는다. 스마트폰을 꺼내 인공지능(AI)에 증상을 묻는 게 먼저...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/04/01/AKR20260401155800530_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "[김길원의 헬스노트] \"AI가 그러던데\"…'진료 전 챗GPT' 약일까 독일까",
+          "original_summary": "(서울=연합뉴스) 김길원 기자 = 아이가 열이 나면 요즘 부모들은 의사부터 찾지 않는다. 스마트폰을 꺼내 인공지능(AI)에 증상을 묻는 게 먼저...",
+          "summary": "(서울=연합뉴스) 김길원 기자 = 아이가 열이 나면 요즘 부모들은 의사부터 찾지 않는다. 스마트폰을 꺼내 인공지능(AI)에 증상을 묻는 게 먼저..."
+        },
+        {
+          "title": "[사이테크+] \"항공기 그을음 1천분의 1로 줄여도 비행운 형성은 그대로\"",
+          "link": "https://www.yna.co.kr/view/AKR20260331207600017",
+          "date": "2026-04-02",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 이주영 기자 = 항공기가 지날 때 형성되는 구름인 비행운(contrail)은 이산화탄소와 맞먹는 온실효과가 있다고 알려져 있다...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/03/31/AKR20260331207600017_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "[사이테크+] \"항공기 그을음 1천분의 1로 줄여도 비행운 형성은 그대로\"",
+          "original_summary": "(서울=연합뉴스) 이주영 기자 = 항공기가 지날 때 형성되는 구름인 비행운(contrail)은 이산화탄소와 맞먹는 온실효과가 있다고 알려져 있다...",
+          "summary": "(서울=연합뉴스) 이주영 기자 = 항공기가 지날 때 형성되는 구름인 비행운(contrail)은 이산화탄소와 맞먹는 온실효과가 있다고 알려져 있다..."
+        },
         {
           "title": "Florida University Rolls Out Autonomous Delivery Robots",
           "link": "https://aibusiness.com/robotics/florida-university-rolls-out-autonomous-delivery-robots",
@@ -186,19 +210,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Tesslate/OmniCoder-9B",
-          "link": "https://huggingface.co/Tesslate/OmniCoder-9B",
-          "date": "2026-04-02",
-          "source": "HuggingFace",
-          "description": "• OmniCoder-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/License-Apache_2.0-blue.svg",
-          "is_english": true,
-          "summary": "• OmniCoder-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Tesslate/OmniCoder-9B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "date": "2026-04-02",
@@ -208,6 +219,19 @@
           "is_english": true,
           "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Tesslate/OmniCoder-9B",
+          "link": "https://huggingface.co/Tesslate/OmniCoder-9B",
+          "date": "2026-04-02",
+          "source": "HuggingFace",
+          "description": "• OmniCoder-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/License-Apache_2.0-blue.svg",
+          "is_english": true,
+          "summary": "• OmniCoder-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Tesslate/OmniCoder-9B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -238,6 +262,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Hcompany/Holo3-35B-A3B",
+          "link": "https://huggingface.co/Hcompany/Holo3-35B-A3B",
+          "date": "2026-04-02",
+          "source": "HuggingFace",
+          "description": "• Holo3-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/Hcompany/Holo3-35B-A3B/resolve/main/osworld_pareto_light.png",
+          "is_english": true,
+          "summary": "• Holo3-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Hcompany/Holo3-35B-A3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Qwen/Qwen3.5-9B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-9B",
           "date": "2026-04-02",
@@ -251,28 +288,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Lightricks/LTX-2.3",
-          "link": "https://huggingface.co/Lightricks/LTX-2.3",
+          "title": "facebook/sam3.1",
+          "link": "https://huggingface.co/facebook/sam3.1",
           "date": "2026-04-02",
           "source": "HuggingFace",
-          "description": "• LTX-2.3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/Lightricks/LTX-2.3/resolve/main/ltx2.3-open.png",
+          "description": "• sam3.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• LTX-2.3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Lightricks/LTX-2.3",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "Hcompany/Holo3-35B-A3B",
-          "link": "https://huggingface.co/Hcompany/Holo3-35B-A3B",
-          "date": "2026-04-02",
-          "source": "HuggingFace",
-          "description": "• Holo3-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/Hcompany/Holo3-35B-A3B/resolve/main/osworld_pareto_light.png",
-          "is_english": true,
-          "summary": "• Holo3-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Hcompany/Holo3-35B-A3B",
+          "summary": "• sam3.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "facebook/sam3.1",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
