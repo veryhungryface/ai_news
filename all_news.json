@@ -2,8 +2,44 @@
   "dates": [
     {
       "date": "2026-04-01",
-      "update_time": "2026-03-31 21:29:43",
+      "update_time": "2026-04-01 01:28:17",
       "news": [
+        {
+          "title": "[3월31일] \"지능의 본질은 '학습 능력'...2030년대 초에는 AI가 인간 따라잡을 것\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208622",
+          "date": "2026-04-01",
+          "source": "AI타임스",
+          "description": "비영리 단체인 ARC 프라이즈 파운데이션은 \\'ARC-AGI\\'라는 벤치마크로 유명합니다. 2024년 12월 오픈AI의 추론 모델 \\'o3\\'를 테스트해, 기존 \\'o1\\'의 32점의 두배가 넘는 75.7점을 기록했다는 결과를 내놓았습니다. 당시 오픈AI는 이 점수를 기반으로 o3가 \\\"AGI에 도달한 첫번째 모델\\\"이라고 선언한 바 있습니다. 이후 ARC-AGI는 모든 AI 개발사의 목표인 주요 벤치마크로 자리 잡았습니다.ARC-AGI는 2019년 처음 공개된 것으로, 다른 벤치마크처럼 정해진 답을 푸는 방식이 아닙니다. 다양한 색상의 사각형을",
+          "image": "https://cdn.aitimes.com/news/photo/202603/208622_210923_537.png",
+          "is_english": true,
+          "original_title": "[3월31일] \"지능의 본질은 '학습 능력'...2030년대 초에는 AI가 인간 따라잡을 것\"",
+          "original_summary": "비영리 단체인 ARC 프라이즈 파운데이션은 \\'ARC-AGI\\'라는 벤치마크로 유명합니다. 2024년 12월 오픈AI의 추론 모델 \\'o3\\'를 테스트해, 기존 \\'o1\\'의 32점의 두배가 넘는 75.7점을 기록했다는 결과를 내놓았습니다. 당시 오픈AI는 이 점수를 기반으로 o3가 \\\"AGI에 도달한 첫번째 모델\\\"이라고 선언한 바 있습니다. 이후 ARC-AGI는 모든 AI 개발사의 목표인 주요 벤치마크로 자리 잡았습니다.ARC-AGI는 2019년 처음 공개된 것으로, 다른 벤치마크처럼 정해진 답을 푸는 방식이 아닙니다. 다양한 ",
+          "summary": "비영리 단체인 ARC 프라이즈 파운데이션은 \\'ARC-AGI\\'라는 벤치마크로 유명합니다. 2024년 12월 오픈AI의 추론 모델 \\'o3\\'를 테스트해, 기존 \\'o1\\'의 32점의 두배가 넘는 75.7점을 기록했다는 결과를 내놓았습니다. 당시 오픈AI는 이 점수를 기반으로 o3가 \\\"AGI에 도달한 첫번째 모델\\\"이라고 선언한 바 있습니다. 이후 ARC-AGI는 모든 AI 개발사의 목표인 주요 벤치마크로 자리 잡았습니다.ARC-AGI는 2019년 처음 공개된 것으로, 다른 벤치마크처럼 정해진 답을 푸는 방식이 아닙니다. 다양한 "
+        },
+        {
+          "title": "데이터 날리기 전에 알아야 할 개인 백업 계획 7가지",
+          "link": "https://www.itworld.co.kr/article/4152804/%eb%8d%b0%ec%9d%b4%ed%84%b0-%eb%82%a0%eb%a6%ac%ea%b8%b0-%ec%a0%84%ec%97%90-%ec%95%8c%ec%95%84%ec%95%bc-%ed%95%a0-%ea%b0%9c%ec%9d%b8-%eb%b0%b1%ec%97%85-%ea%b3%84%ed%9a%8d-7%ea%b0%80%ec%a7%80.html",
+          "date": "2026-04-01",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n데이터 백업은 단순해 보이지만, 데이터를 안전하게 보호하고 손쉽게 복구할 수 있도록 하는 핵심 단계를 놓치기 쉽다. 데이터 백업 계획을 수립할 때 반드시 고려해야 할 사항을 정리했다.\n\n\n\n1. 명확한 목표와 목적 설정\n\n\n\n가장 먼저 데이터 백업 계획의 목적을 정의해야 한다. 백업할 중요 데이터를 식별하고, 데이터에 얼마나 자주 접근해야 하는지, 백업본을 어디에 저장할지 결정하는 작업이 포함된다. 외장 드라이브 구매나 클라우드 서비스 구독 등에 필요한 예산도 책정해야 한다.\n\n\n\n2. 적합한 저장 옵션 선택\n\n\n\n적합한 저장 옵션을 선택하는 것이 백업 계획의 실효성을 결정하는 핵심 요소다. 클라우드 스토리지부터 외장 드라이브까지 다양한 선택지가 있다. 최선의 결과를 위해서는 클라우드와 물리적 백업 옵션을 병행하는 방식을 권장한다. 하나를 잃더라도 다른 하나를 통해 손쉽게 복구할 수 있기 때문이다. 주요 백업 매체별 장점을 정리하면 다음과 같",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/04/4152804-0-39829600-1775005718-pexels-jakubzerdzicki-27691024.webp",
+          "is_english": false,
+          "original_title": "데이터 날리기 전에 알아야 할 개인 백업 계획 7가지",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n데이터 백업은 단순해 보이지만, 데이터를 안전하게 보호하고 손쉽게 복구할 수 있도록 하는 핵심 단계를 놓치기 쉽다. 데이터 백업 계획을 수립할 때 반드시 고려해야 할 사항을 정리했다.\n\n\n\n1. 명확한 목표와 목적 설정\n\n\n\n가장 먼저 데이터 백업 계획의 목적을 정의해야 한다. 백업할 중요 데이터를 식별하고, 데이터에 얼마나 자주 접근해야 하는지, 백업본을 어디에 저장할지 결정하는 작업이 포함된다. 외장 드라이브 구매나 클라우드 서비스 구독 등에 필요한 예산도 책정해야 한다.\n\n\n\n2. 적합",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n데이터 백업은 단순해 보이지만, 데이터를 안전하게 보호하고 손쉽게 복구할 수 있도록 하는 핵심 단계를 놓치기 쉽다. 데이터 백업 계획을 수립할 때 반드시 고려해야 할 사항을 정리했다.\n\n\n\n1. 명확한 목표와 목적 설정\n\n\n\n가장 먼저 데이터 백업 계획의 목적을 정의해야 한다. 백업할 중요 데이터를 식별하고, 데이터에 얼마나 자주 접근해야 하는지, 백업본을 어디에 저장할지 결정하는 작업이 포함된다. 외장 드라이브 구매나 클라우드 서비스 구독 등에 필요한 예산도 책정해야 한다.\n\n\n\n2. 적합"
+        },
+        {
+          "title": "Nvidia Invests $2B In Custom Chip Vendor Marvell Technology",
+          "link": "https://aibusiness.com/data-centers/nvidia-invests-2b-custom-chip-vendor-marvell-technology",
+          "date": "2026-04-01",
+          "source": "AI Business",
+          "description": "The partnership will integrate Marvell's XPU chips with Nvidia’s NVLink technology.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltfc9f0986aeaa94c2/69cc4e0c5f6b152a2cf02353/Marvell.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Nvidia Invests $2B In Custom Chip Vendor Marvell Technology",
+          "original_summary": "The partnership will integrate Marvell's XPU chips with Nvidia’s NVLink technology.",
+          "summary": "The partnership will integrate Marvell's XPU chips with Nvidia’s NVLink technology."
+        },
         {
           "title": "디지털성범죄물 AI로 24시간 탐지·신고…\"건당 처리시간 단축\"",
           "link": "https://www.yna.co.kr/view/AKR20260331165800530",
@@ -144,19 +180,6 @@
           "category": "AI Model"
         },
         {
-          "title": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "link": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-04-01",
-          "source": "HuggingFace",
-          "description": "• Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "facebook/tribev2",
           "link": "https://huggingface.co/facebook/tribev2",
           "date": "2026-04-01",
@@ -166,6 +189,19 @@
           "is_english": true,
           "summary": "• tribev2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "facebook/tribev2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "link": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "date": "2026-04-01",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -196,19 +232,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "date": "2026-04-01",
-          "source": "HuggingFace",
-          "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
-          "is_english": true,
-          "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Tesslate/OmniCoder-9B",
           "link": "https://huggingface.co/Tesslate/OmniCoder-9B",
           "date": "2026-04-01",
@@ -218,6 +241,19 @@
           "is_english": true,
           "summary": "• OmniCoder-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Tesslate/OmniCoder-9B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+          "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+          "date": "2026-04-01",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
+          "is_english": true,
+          "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -316,8 +352,44 @@
     },
     {
       "date": "2026-03-31",
-      "update_time": "2026-03-31 21:29:42",
+      "update_time": "2026-04-01 01:28:17",
       "news": [
+        {
+          "title": "광주, NPU기반 AI 생태계 본격 조성...대원씨티에스·망고부스트·오케스트로와 업무협약 체결",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208647",
+          "date": "2026-03-31",
+          "source": "AI타임스",
+          "description": "광주시가 ‘국가 NPU 컴퓨팅센터 구축사업’과 연계해 기술 자문과 협력을 확대하고, 지역 기반의 AI 산업 생태계를 본격 조성하기 위해 전문기업들과 손을 맞잡았다.광주는 31일 시청 비즈니스룸에서 대원씨티에스, 망고부스트, 오케스트로클라우드와 ‘광주형 AI 비즈니스 업무협약’을 체결했다고 밝혔다.협약에 참여한 기업들은 컴퓨팅센터의 구축, 운영, 기술 고도화에 협력하며 AI 산업 활성화를 위한 공동 노력을 추진할 계획이다. 국가 NPU 컴퓨팅센터는 공공기관, 기업, 연구기관이 AI 서비스 개발과 실증·검증에 활용할 수 있는 공공형 기",
+          "image": "https://cdn.aitimes.com/news/photo/202604/208647_210952_127.jpg",
+          "is_english": false,
+          "original_title": "광주, NPU기반 AI 생태계 본격 조성...대원씨티에스·망고부스트·오케스트로와 업무협약 체결",
+          "original_summary": "광주시가 ‘국가 NPU 컴퓨팅센터 구축사업’과 연계해 기술 자문과 협력을 확대하고, 지역 기반의 AI 산업 생태계를 본격 조성하기 위해 전문기업들과 손을 맞잡았다.광주는 31일 시청 비즈니스룸에서 대원씨티에스, 망고부스트, 오케스트로클라우드와 ‘광주형 AI 비즈니스 업무협약’을 체결했다고 밝혔다.협약에 참여한 기업들은 컴퓨팅센터의 구축, 운영, 기술 고도화에 협력하며 AI 산업 활성화를 위한 공동 노력을 추진할 계획이다. 국가 NPU 컴퓨팅센터는 공공기관, 기업, 연구기관이 AI 서비스 개발과 실증·검증에 활용할 수 있는 공공형 기",
+          "summary": "광주시가 ‘국가 NPU 컴퓨팅센터 구축사업’과 연계해 기술 자문과 협력을 확대하고, 지역 기반의 AI 산업 생태계를 본격 조성하기 위해 전문기업들과 손을 맞잡았다.광주는 31일 시청 비즈니스룸에서 대원씨티에스, 망고부스트, 오케스트로클라우드와 ‘광주형 AI 비즈니스 업무협약’을 체결했다고 밝혔다.협약에 참여한 기업들은 컴퓨팅센터의 구축, 운영, 기술 고도화에 협력하며 AI 산업 활성화를 위한 공동 노력을 추진할 계획이다. 국가 NPU 컴퓨팅센터는 공공기관, 기업, 연구기관이 AI 서비스 개발과 실증·검증에 활용할 수 있는 공공형 기"
+        },
+        {
+          "title": "Anthropic is having a month",
+          "link": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
+          "date": "2026-03-31",
+          "source": "TechCrunch",
+          "description": "A human really borks things at Anthropic for the second time this week.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1570465901.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Anthropic is having a month",
+          "original_summary": "A human really borks things at Anthropic for the second time this week.",
+          "summary": "A human really borks things at Anthropic for the second time this week."
+        },
+        {
+          "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
+          "link": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
+          "date": "2026-03-31",
+          "source": "TechCrunch",
+          "description": "Slack just got a whole lot more useful. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1211180761.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
+          "original_summary": "Slack just got a whole lot more useful. ",
+          "summary": "Slack just got a whole lot more useful. "
+        },
         {
           "title": "Accelerating the next phase of AI",
           "link": "https://openai.com/index/accelerating-the-next-phase-ai",
