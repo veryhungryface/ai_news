@@ -2,8 +2,44 @@
   "dates": [
     {
       "date": "2026-04-03",
-      "update_time": "2026-04-02 18:42:07",
+      "update_time": "2026-04-02 21:27:57",
       "news": [
+        {
+          "title": "서울로봇인공지능과학관서 청소년 로봇·AI 특강",
+          "link": "https://www.yna.co.kr/view/AKR20260402155100004",
+          "date": "2026-04-03",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 정수연 기자 = 서울로봇인공지능과학관은 청소년을 대상으로 로봇 발명과 인공지능(AI) 분야 특별 강연 프로그램 &apos;라임 T.R....",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/04/02/AKR20260402155100004_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "서울로봇인공지능과학관서 청소년 로봇·AI 특강",
+          "original_summary": "(서울=연합뉴스) 정수연 기자 = 서울로봇인공지능과학관은 청소년을 대상으로 로봇 발명과 인공지능(AI) 분야 특별 강연 프로그램 &apos;라임 T.R....",
+          "summary": "(서울=연합뉴스) 정수연 기자 = 서울로봇인공지능과학관은 청소년을 대상으로 로봇 발명과 인공지능(AI) 분야 특별 강연 프로그램 &apos;라임 T.R...."
+        },
+        {
+          "title": "Microsoft Goes Beyond LLMs With New Voice, Image Models",
+          "link": "https://aibusiness.com/generative-ai/microsoft-goes-beyond-llms-new-voice-image-models",
+          "date": "2026-04-03",
+          "source": "AI Business",
+          "description": "The new AI models signal a stronger push toward Microsoft-developed AI systems.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltf1b62526e5ba8473/69ced5b45553ec713aa007a9/Microsoft.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Microsoft Goes Beyond LLMs With New Voice, Image Models",
+          "original_summary": "The new AI models signal a stronger push toward Microsoft-developed AI systems.",
+          "summary": "The new AI models signal a stronger push toward Microsoft-developed AI systems."
+        },
+        {
+          "title": "Neocloud Pioneer CoreWeave All In on Inference",
+          "link": "https://aibusiness.com/data-centers/neocloud-pioneer-coreweave-inference",
+          "date": "2026-04-03",
+          "source": "AI Business",
+          "description": "After making a name for itself as a GPU-as-a-service vendor, CoreWeave is evolving -- again.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt02b9fb81853fe614/69cebe7fc33dd916f6cfd63b/coreweave.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Neocloud Pioneer CoreWeave All In on Inference",
+          "original_summary": "After making a name for itself as a GPU-as-a-service vendor, CoreWeave is evolving -- again.",
+          "summary": "After making a name for itself as a GPU-as-a-service vendor, CoreWeave is evolving -- again."
+        },
         {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
@@ -70,19 +106,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-          "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-          "date": "2026-04-03",
-          "source": "HuggingFace",
-          "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/k4JsVit-31Fw8RZ4pFkun.jpeg",
-          "is_english": true,
-          "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "prism-ml/Bonsai-8B-gguf",
           "link": "https://huggingface.co/prism-ml/Bonsai-8B-gguf",
           "date": "2026-04-03",
@@ -96,6 +119,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
+          "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
+          "date": "2026-04-03",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/k4JsVit-31Fw8RZ4pFkun.jpeg",
+          "is_english": true,
+          "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
           "date": "2026-04-03",
@@ -105,6 +141,19 @@
           "is_english": true,
           "summary": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "google/gemma-4-31B-it",
+          "link": "https://huggingface.co/google/gemma-4-31B-it",
+          "date": "2026-04-03",
+          "source": "HuggingFace",
+          "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "is_english": true,
+          "summary": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/gemma-4-31B-it",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -135,19 +184,6 @@
           "category": "AI Model"
         },
         {
-          "title": "google/gemma-4-31B-it",
-          "link": "https://huggingface.co/google/gemma-4-31B-it",
-          "date": "2026-04-03",
-          "source": "HuggingFace",
-          "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
-          "is_english": true,
-          "summary": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/gemma-4-31B-it",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Hcompany/Holo3-35B-A3B",
           "link": "https://huggingface.co/Hcompany/Holo3-35B-A3B",
           "date": "2026-04-03",
@@ -174,19 +210,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/Nemotron-Cascade-2-30B-A3B",
-          "link": "https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B",
-          "date": "2026-04-03",
-          "source": "HuggingFace",
-          "description": "• Nemotron-Cascade-2-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/2603.19220-Technical_Report-blue",
-          "is_english": true,
-          "summary": "• Nemotron-Cascade-2-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/Nemotron-Cascade-2-30B-A3B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "microsoft/harrier-oss-v1-0.6b",
           "link": "https://huggingface.co/microsoft/harrier-oss-v1-0.6b",
           "date": "2026-04-03",
@@ -196,6 +219,32 @@
           "is_english": true,
           "summary": "• harrier-oss-v1-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "microsoft/harrier-oss-v1-0.6b",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "google/gemma-4-26B-A4B-it",
+          "link": "https://huggingface.co/google/gemma-4-26B-A4B-it",
+          "date": "2026-04-03",
+          "source": "HuggingFace",
+          "description": "• gemma-4-26B-A4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• gemma-4-26B-A4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/gemma-4-26B-A4B-it",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/Nemotron-Cascade-2-30B-A3B",
+          "link": "https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B",
+          "date": "2026-04-03",
+          "source": "HuggingFace",
+          "description": "• Nemotron-Cascade-2-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/2603.19220-Technical_Report-blue",
+          "is_english": true,
+          "summary": "• Nemotron-Cascade-2-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/Nemotron-Cascade-2-30B-A3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -226,6 +275,19 @@
           "category": "AI Model"
         },
         {
+          "title": "google/gemma-4-E4B-it",
+          "link": "https://huggingface.co/google/gemma-4-E4B-it",
+          "date": "2026-04-03",
+          "source": "HuggingFace",
+          "description": "• gemma-4-E4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• gemma-4-E4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/gemma-4-E4B-it",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "facebook/sam3.1",
           "link": "https://huggingface.co/facebook/sam3.1",
           "date": "2026-04-03",
@@ -237,39 +299,37 @@
           "translated_title": "facebook/sam3.1",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "Qwen/Qwen3.5-9B",
-          "link": "https://huggingface.co/Qwen/Qwen3.5-9B",
-          "date": "2026-04-03",
-          "source": "HuggingFace",
-          "description": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.5-9B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "prism-ml/Bonsai-8B-mlx-1bit",
-          "link": "https://huggingface.co/prism-ml/Bonsai-8B-mlx-1bit",
-          "date": "2026-04-03",
-          "source": "HuggingFace",
-          "description": "• Bonsai-8B-mlx-1bit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/prism-ml/Bonsai-8B-mlx-1bit/resolve/main/./assets/bonsai-logo.svg",
-          "is_english": true,
-          "summary": "• Bonsai-8B-mlx-1bit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "prism-ml/Bonsai-8B-mlx-1bit",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-04-02",
-      "update_time": "2026-04-02 18:42:05",
+      "update_time": "2026-04-02 21:27:54",
       "news": [
+        {
+          "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
+          "link": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
+          "date": "2026-04-02",
+          "source": "TechCrunch",
+          "description": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/Jordi_Hays_and_John_Coogan_on_set_2_1.webp?resize=1200,675",
+          "is_english": true,
+          "original_title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
+          "original_summary": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
+          "summary": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane."
+        },
+        {
+          "title": "New ways to balance cost and reliability in the Gemini API",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/",
+          "date": "2026-04-02",
+          "source": "Google AI",
+          "description": "Google is introducing two new inference tiers to the Gemini API, Flex and Priority,\nto balance cost and latency.",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/cost_reliability_Gemini_API-soc.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "New ways to balance cost and reliability in the Gemini API",
+          "original_summary": "Google is introducing two new inference tiers to the Gemini API, Flex and Priority,\nto balance cost and latency.",
+          "summary": "Google is introducing two new inference tiers to the Gemini API, Flex and Priority,\nto balance cost and latency."
+        },
         {
           "title": "OpenAI acquires TBPN",
           "link": "https://openai.com/index/openai-acquires-tbpn",
