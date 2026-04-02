@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-04-03",
-      "update_time": "2026-04-02 15:51:39",
+      "update_time": "2026-04-02 18:42:07",
       "news": [
         {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
@@ -135,15 +135,15 @@
           "category": "AI Model"
         },
         {
-          "title": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "link": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "title": "google/gemma-4-31B-it",
+          "link": "https://huggingface.co/google/gemma-4-31B-it",
           "date": "2026-04-03",
           "source": "HuggingFace",
-          "description": "• Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
           "is_english": true,
-          "summary": "• Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "summary": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/gemma-4-31B-it",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -157,6 +157,19 @@
           "is_english": true,
           "summary": "• Holo3-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Hcompany/Holo3-35B-A3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "link": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "date": "2026-04-03",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -200,6 +213,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Jackrong/Qwopus3.5-9B-v3-GGUF",
+          "link": "https://huggingface.co/Jackrong/Qwopus3.5-9B-v3-GGUF",
+          "date": "2026-04-03",
+          "source": "HuggingFace",
+          "description": "• Qwopus3.5-9B-v3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/qdrGIdxunjK1i59L-Yp7n.png",
+          "is_english": true,
+          "summary": "• Qwopus3.5-9B-v3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jackrong/Qwopus3.5-9B-v3-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "facebook/sam3.1",
           "link": "https://huggingface.co/facebook/sam3.1",
           "date": "2026-04-03",
@@ -226,32 +252,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Jackrong/Qwopus3.5-9B-v3-GGUF",
-          "link": "https://huggingface.co/Jackrong/Qwopus3.5-9B-v3-GGUF",
-          "date": "2026-04-03",
-          "source": "HuggingFace",
-          "description": "• Qwopus3.5-9B-v3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/qdrGIdxunjK1i59L-Yp7n.png",
-          "is_english": true,
-          "summary": "• Qwopus3.5-9B-v3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jackrong/Qwopus3.5-9B-v3-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "microsoft/harrier-oss-v1-270m",
-          "link": "https://huggingface.co/microsoft/harrier-oss-v1-270m",
-          "date": "2026-04-03",
-          "source": "HuggingFace",
-          "description": "• harrier-oss-v1-270m 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• harrier-oss-v1-270m 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "microsoft/harrier-oss-v1-270m",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "prism-ml/Bonsai-8B-mlx-1bit",
           "link": "https://huggingface.co/prism-ml/Bonsai-8B-mlx-1bit",
           "date": "2026-04-03",
@@ -268,8 +268,68 @@
     },
     {
       "date": "2026-04-02",
-      "update_time": "2026-04-02 15:51:37",
+      "update_time": "2026-04-02 18:42:05",
       "news": [
+        {
+          "title": "OpenAI acquires TBPN",
+          "link": "https://openai.com/index/openai-acquires-tbpn",
+          "date": "2026-04-02",
+          "source": "OpenAI",
+          "description": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.\n",
+          "image": null,
+          "is_english": true,
+          "original_title": "OpenAI acquires TBPN",
+          "original_summary": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.\n",
+          "summary": "OpenAI acquires TBPN to accelerate global conversations around AI and support independent media, expanding dialogue with builders, businesses, and the broader tech community.\n"
+        },
+        {
+          "title": "Codex now offers more flexible pricing for teams",
+          "link": "https://openai.com/index/codex-flexible-pricing-for-teams",
+          "date": "2026-04-02",
+          "source": "OpenAI",
+          "description": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Codex now offers more flexible pricing for teams",
+          "original_summary": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption.",
+          "summary": "Codex now includes pay-as-you-go pricing for ChatGPT Business and Enterprise, providing teams a more flexible option to start and scale adoption."
+        },
+        {
+          "title": "Microsoft takes on AI rivals with three new foundational models",
+          "link": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
+          "date": "2026-04-02",
+          "source": "TechCrunch",
+          "description": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2207890426.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Microsoft takes on AI rivals with three new foundational models",
+          "original_summary": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
+          "summary": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago."
+        },
+        {
+          "title": "Google now lets you direct avatars through prompts in its Vids app",
+          "link": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/",
+          "date": "2026-04-02",
+          "source": "TechCrunch",
+          "description": "Google is adding a way to customize and instruct avatars for video creation in the Vids app.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Google now lets you direct avatars through prompts in its Vids app",
+          "original_summary": "Google is adding a way to customize and instruct avatars for video creation in the Vids app.",
+          "summary": "Google is adding a way to customize and instruct avatars for video creation in the Vids app."
+        },
+        {
+          "title": "Create, edit and share videos at no cost in Google Vids",
+          "link": "https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/",
+          "date": "2026-04-02",
+          "source": "Google AI",
+          "description": "New AI capabilities are coming to Google Vids, powered by Lyria 3 and Veo 3.1, like high-quality video generation at no cost and more.",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Createeditandshare_Google_Vids_.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "Create, edit and share videos at no cost in Google Vids",
+          "original_summary": "New AI capabilities are coming to Google Vids, powered by Lyria 3 and Veo 3.1, like high-quality video generation at no cost and more.",
+          "summary": "New AI capabilities are coming to Google Vids, powered by Lyria 3 and Veo 3.1, like high-quality video generation at no cost and more."
+        },
         {
           "title": "Microsoft to Invest $5.5 billion in AI in Singapore",
           "link": "https://aibusiness.com/generative-ai/microsoft-invest-5-5-billion-ai-in-singapore",
@@ -8581,7 +8641,7 @@
         {
           "title": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-03-25",
+          "date": "2026-04-03",
           "source": "HuggingFace",
           "description": "• Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -8594,7 +8654,7 @@
         {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-          "date": "2026-03-25",
+          "date": "2026-04-03",
           "source": "HuggingFace",
           "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
@@ -8607,7 +8667,7 @@
         {
           "title": "nvidia/Nemotron-Cascade-2-30B-A3B",
           "link": "https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B",
-          "date": "2026-03-25",
+          "date": "2026-04-03",
           "source": "HuggingFace",
           "description": "• Nemotron-Cascade-2-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/2603.19220-Technical_Report-blue",
@@ -8620,7 +8680,7 @@
         {
           "title": "baidu/Qianfan-OCR",
           "link": "https://huggingface.co/baidu/Qianfan-OCR",
-          "date": "2026-03-25",
+          "date": "2026-04-03",
           "source": "HuggingFace",
           "description": "• Qianfan-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -8672,7 +8732,7 @@
         {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "date": "2026-03-25",
+          "date": "2026-04-03",
           "source": "HuggingFace",
           "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
@@ -8685,7 +8745,7 @@
         {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-          "date": "2026-03-25",
+          "date": "2026-04-03",
           "source": "HuggingFace",
           "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/k4JsVit-31Fw8RZ4pFkun.jpeg",
@@ -8711,7 +8771,7 @@
         {
           "title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-03-25",
+          "date": "2026-04-03",
           "source": "HuggingFace",
           "description": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
@@ -8763,7 +8823,7 @@
         {
           "title": "Qwen/Qwen3.5-9B",
           "link": "https://huggingface.co/Qwen/Qwen3.5-9B",
-          "date": "2026-03-25",
+          "date": "2026-04-03",
           "source": "HuggingFace",
           "description": "• Qwen3.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
