@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-04-02",
-      "update_time": "2026-04-02 09:53:22",
+      "update_time": "2026-04-02 12:48:07",
       "news": [
         {
           "title": "해수부, 갯벌 5개 구역 나눠 관리한다…용도별 관리체계 구축",
@@ -650,19 +650,6 @@
           "category": "AI Model"
         },
         {
-          "title": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "link": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-04-02",
-          "source": "HuggingFace",
-          "description": "• Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "LiquidAI/LFM2.5-350M",
           "link": "https://huggingface.co/LiquidAI/LFM2.5-350M",
           "date": "2026-04-02",
@@ -672,6 +659,19 @@
           "is_english": true,
           "summary": "• LFM2.5-350M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "LiquidAI/LFM2.5-350M",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "link": "https://huggingface.co/HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "date": "2026-04-02",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HauhauCS/Qwen3.5-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -728,15 +728,15 @@
           "category": "AI Model"
         },
         {
-          "title": "GAIR/daVinci-MagiHuman",
-          "link": "https://huggingface.co/GAIR/daVinci-MagiHuman",
+          "title": "facebook/sam3.1",
+          "link": "https://huggingface.co/facebook/sam3.1",
           "date": "2026-04-02",
           "source": "HuggingFace",
-          "description": "• daVinci-MagiHuman 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/GitHub-Repo-black?logo=github",
+          "description": "• sam3.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• daVinci-MagiHuman 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "GAIR/daVinci-MagiHuman",
+          "summary": "• sam3.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "facebook/sam3.1",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -754,15 +754,15 @@
           "category": "AI Model"
         },
         {
-          "title": "facebook/sam3.1",
-          "link": "https://huggingface.co/facebook/sam3.1",
+          "title": "GAIR/daVinci-MagiHuman",
+          "link": "https://huggingface.co/GAIR/daVinci-MagiHuman",
           "date": "2026-04-02",
           "source": "HuggingFace",
-          "description": "• sam3.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• daVinci-MagiHuman 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/GitHub-Repo-black?logo=github",
           "is_english": true,
-          "summary": "• sam3.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "facebook/sam3.1",
+          "summary": "• daVinci-MagiHuman 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "GAIR/daVinci-MagiHuman",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
