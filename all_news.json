@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-04-04",
-      "update_time": "2026-04-03 18:33:34",
+      "update_time": "2026-04-03 21:24:51",
       "news": [
         {
           "title": "Microsoft to Invest $10B in AI and Cybersecurity in Japan",
@@ -225,6 +225,19 @@
           "category": "AI Model"
         },
         {
+          "title": "netflix/void-model",
+          "link": "https://huggingface.co/netflix/void-model",
+          "date": "2026-04-04",
+          "source": "HuggingFace",
+          "description": "• void-model 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://colab.research.google.com/assets/colab-badge.svg",
+          "is_english": true,
+          "summary": "• void-model 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "netflix/void-model",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "google/gemma-4-31B",
           "link": "https://huggingface.co/google/gemma-4-31B",
           "date": "2026-04-04",
@@ -262,26 +275,97 @@
           "translated_title": "microsoft/harrier-oss-v1-0.6b",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "netflix/void-model",
-          "link": "https://huggingface.co/netflix/void-model",
-          "date": "2026-04-04",
-          "source": "HuggingFace",
-          "description": "• void-model 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://colab.research.google.com/assets/colab-badge.svg",
-          "is_english": true,
-          "summary": "• void-model 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "netflix/void-model",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-04-03",
-      "update_time": "2026-04-03 15:33:09",
+      "update_time": "2026-04-03 21:24:51",
       "news": [
+        {
+          "title": "광양경자청, 글로벌 환경 맞춤형‘투자유치 역량강화 교육’실시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208799",
+          "date": "2026-04-03",
+          "source": "AI타임스",
+          "description": "광양만권경제자유구역청(청장 구충곤)은 3일 화순 금호리조트에서 직원 100여 명이 참석한 가운데 ‘2026년 제1차 투자유치 역량강화 교육’을 실시했다고 밝혔다.이번 교육은 급변하는 글로벌 산업 환경 속에서 투자유치 담당자들의 전문성을 강화하고, 외국인 투자유치 및 K-방산 등 핵심 전략 산업에 대한 실무 지식을 함양하기 위해 마련됐다.첫번째 강연에서는 KOTRA 김주형 수석전문위원이 ‘산업 패러다임 전환과 외투유치 전략’을 주제로 강연을 진행했다. 김 위원은 글로벌 공급망 재편에 따른 외국인 투자 동향을 분석하고, 광양만권의 특성",
+          "image": "https://cdn.aitimes.com/news/photo/202604/208799_211108_3455.jpg",
+          "is_english": false,
+          "original_title": "광양경자청, 글로벌 환경 맞춤형‘투자유치 역량강화 교육’실시",
+          "original_summary": "광양만권경제자유구역청(청장 구충곤)은 3일 화순 금호리조트에서 직원 100여 명이 참석한 가운데 ‘2026년 제1차 투자유치 역량강화 교육’을 실시했다고 밝혔다.이번 교육은 급변하는 글로벌 산업 환경 속에서 투자유치 담당자들의 전문성을 강화하고, 외국인 투자유치 및 K-방산 등 핵심 전략 산업에 대한 실무 지식을 함양하기 위해 마련됐다.첫번째 강연에서는 KOTRA 김주형 수석전문위원이 ‘산업 패러다임 전환과 외투유치 전략’을 주제로 강연을 진행했다. 김 위원은 글로벌 공급망 재편에 따른 외국인 투자 동향을 분석하고, 광양만권의 특성",
+          "summary": "광양만권경제자유구역청(청장 구충곤)은 3일 화순 금호리조트에서 직원 100여 명이 참석한 가운데 ‘2026년 제1차 투자유치 역량강화 교육’을 실시했다고 밝혔다.이번 교육은 급변하는 글로벌 산업 환경 속에서 투자유치 담당자들의 전문성을 강화하고, 외국인 투자유치 및 K-방산 등 핵심 전략 산업에 대한 실무 지식을 함양하기 위해 마련됐다.첫번째 강연에서는 KOTRA 김주형 수석전문위원이 ‘산업 패러다임 전환과 외투유치 전략’을 주제로 강연을 진행했다. 김 위원은 글로벌 공급망 재편에 따른 외국인 투자 동향을 분석하고, 광양만권의 특성"
+        },
+        {
+          "title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
+          "link": "https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/",
+          "date": "2026-04-03",
+          "source": "TechCrunch",
+          "description": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/brad-lightcap-GettyImages-2147824375-1.jpg?w=1024",
+          "is_english": true,
+          "original_title": "OpenAI executive shuffle includes new role for COO Brad Lightcap to lead ‘special projects’",
+          "original_summary": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows.",
+          "summary": "In addition to Lightcap's new role, OpenAI CMO Kate Rouch will be stepping away from the company to focus on cancer recovery, with a plan to return when her health allows."
+        },
+        {
+          "title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
+          "link": "https://techcrunch.com/2026/04/03/anthropic-buys-biotech-startup-coefficient-bio-in-400m-deal-reports/",
+          "date": "2026-04-03",
+          "source": "TechCrunch",
+          "description": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256664479.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Anthropic buys biotech startup Coefficient Bio in $400M deal: Reports",
+          "original_summary": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer.",
+          "summary": "Anthropic has purchased the stealth biotech AI startup Coefficient Bio in a $400 million stock deal, according to The Information and Eric Newcomer."
+        },
+        {
+          "title": "Anthropic ramps up its political activities with a new PAC",
+          "link": "https://techcrunch.com/2026/04/03/anthropic-ramps-up-its-political-activities-with-a-new-pac/",
+          "date": "2026-04-03",
+          "source": "TechCrunch",
+          "description": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Anthropic ramps up its political activities with a new PAC",
+          "original_summary": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda. ",
+          "summary": "With the midterms right around the corner, the new group is positioned to back candidates who support the AI company's policy agenda. "
+        },
+        {
+          "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
+          "link": "https://techcrunch.com/2026/04/03/ai-energy-microsoft-meta-google-natural-gas-mining-fomo/",
+          "date": "2026-04-03",
+          "source": "TechCrunch",
+          "description": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it.",
+          "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1294103185.jpg?resize=1200,799",
+          "is_english": true,
+          "original_title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
+          "original_summary": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it.",
+          "summary": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it."
+        },
+        {
+          "title": "People would rather have an Amazon warehouse in their backyard than a data center",
+          "link": "https://techcrunch.com/2026/04/03/people-would-rather-have-an-amazon-warehouse-in-their-backyard-than-a-data-center/",
+          "date": "2026-04-03",
+          "source": "TechCrunch",
+          "description": "A new poll shows that the debate over data centers is far from settled.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2159544073.jpeg?resize=1200,800",
+          "is_english": true,
+          "original_title": "People would rather have an Amazon warehouse in their backyard than a data center",
+          "original_summary": "A new poll shows that the debate over data centers is far from settled.",
+          "summary": "A new poll shows that the debate over data centers is far from settled."
+        },
+        {
+          "title": "Working to advance the nuclear renaissance",
+          "link": "https://news.mit.edu/2026/working-to-advance-nuclear-renaissance-dean-price-0403",
+          "date": "2026-04-03",
+          "source": "MIT News",
+          "description": "Dean Price, assistant professor in the Department of Nuclear Science and Engineering, sees a bright future for nuclear power, and believes AI can help us realize that vision.",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/MIT-nse-Dean-Price.jpg?itok=PuytMjyW",
+          "is_english": true,
+          "original_title": "Working to advance the nuclear renaissance",
+          "original_summary": "Dean Price, assistant professor in the Department of Nuclear Science and Engineering, sees a bright future for nuclear power, and believes AI can help us realize that vision.",
+          "summary": "Dean Price, assistant professor in the Department of Nuclear Science and Engineering, sees a bright future for nuclear power, and believes AI can help us realize that vision."
+        },
         {
           "title": "The Facebook insider building content moderation for the AI era",
           "link": "https://techcrunch.com/2026/04/03/moonbounce-fundraise-content-moderation-for-the-ai-era/",
