@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-04-05",
-      "update_time": "2026-04-04 18:27:34",
+      "update_time": "2026-04-04 21:22:23",
       "news": [
         {
           "title": "google/gemma-4-31B-it",
@@ -96,19 +96,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-          "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-          "date": "2026-04-05",
-          "source": "HuggingFace",
-          "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/k4JsVit-31Fw8RZ4pFkun.jpeg",
-          "is_english": true,
-          "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "netflix/void-model",
           "link": "https://huggingface.co/netflix/void-model",
           "date": "2026-04-05",
@@ -118,6 +105,19 @@
           "is_english": true,
           "summary": "• void-model 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "netflix/void-model",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
+          "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
+          "date": "2026-04-05",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/k4JsVit-31Fw8RZ4pFkun.jpeg",
+          "is_english": true,
+          "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -148,19 +148,6 @@
           "category": "AI Model"
         },
         {
-          "title": "LiquidAI/LFM2.5-350M",
-          "link": "https://huggingface.co/LiquidAI/LFM2.5-350M",
-          "date": "2026-04-05",
-          "source": "HuggingFace",
-          "description": "• LFM2.5-350M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/mx39JYUuCa1ehaucRFT7d.png",
-          "is_english": true,
-          "summary": "• LFM2.5-350M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "LiquidAI/LFM2.5-350M",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "google/gemma-4-E2B-it",
           "link": "https://huggingface.co/google/gemma-4-E2B-it",
           "date": "2026-04-05",
@@ -174,15 +161,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Hcompany/Holo3-35B-A3B",
-          "link": "https://huggingface.co/Hcompany/Holo3-35B-A3B",
+          "title": "LiquidAI/LFM2.5-350M",
+          "link": "https://huggingface.co/LiquidAI/LFM2.5-350M",
           "date": "2026-04-05",
           "source": "HuggingFace",
-          "description": "• Holo3-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/Hcompany/Holo3-35B-A3B/resolve/main/osworld_pareto_light.png",
+          "description": "• LFM2.5-350M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/mx39JYUuCa1ehaucRFT7d.png",
           "is_english": true,
-          "summary": "• Holo3-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Hcompany/Holo3-35B-A3B",
+          "summary": "• LFM2.5-350M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "LiquidAI/LFM2.5-350M",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -200,15 +187,15 @@
           "category": "AI Model"
         },
         {
-          "title": "facebook/tribev2",
-          "link": "https://huggingface.co/facebook/tribev2",
+          "title": "Hcompany/Holo3-35B-A3B",
+          "link": "https://huggingface.co/Hcompany/Holo3-35B-A3B",
           "date": "2026-04-05",
           "source": "HuggingFace",
-          "description": "• tribev2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://colab.research.google.com/assets/colab-badge.svg",
+          "description": "• Holo3-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/Hcompany/Holo3-35B-A3B/resolve/main/osworld_pareto_light.png",
           "is_english": true,
-          "summary": "• tribev2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "facebook/tribev2",
+          "summary": "• Holo3-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Hcompany/Holo3-35B-A3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -226,15 +213,15 @@
           "category": "AI Model"
         },
         {
-          "title": "chromadb/context-1",
-          "link": "https://huggingface.co/chromadb/context-1",
+          "title": "facebook/tribev2",
+          "link": "https://huggingface.co/facebook/tribev2",
           "date": "2026-04-05",
           "source": "HuggingFace",
-          "description": "• context-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "description": "• tribev2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://colab.research.google.com/assets/colab-badge.svg",
           "is_english": true,
-          "summary": "• context-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "chromadb/context-1",
+          "summary": "• tribev2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "facebook/tribev2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -261,6 +248,19 @@
           "is_english": true,
           "summary": "• Qwopus3.5-9B-v3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Jackrong/Qwopus3.5-9B-v3-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "chromadb/context-1",
+          "link": "https://huggingface.co/chromadb/context-1",
+          "date": "2026-04-05",
+          "source": "HuggingFace",
+          "description": "• context-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• context-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "chromadb/context-1",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
