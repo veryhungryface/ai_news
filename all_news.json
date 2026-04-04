@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-04-04",
-      "update_time": "2026-04-03 21:24:51",
+      "update_time": "2026-04-04 01:15:08",
       "news": [
+        {
+          "title": "[4월3일] 창립 50주년 맞은 애플...앞으로도 계속 '다르게' 생각할 수 있을까",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208747",
+          "date": "2026-04-04",
+          "source": "AI타임스",
+          "description": "애플은 1일 자로 창립 50주년을 맞았습니다. 1976년 4월1일 스티브 잡스와 스티브 워즈니악, 로널드 웨인 등 고등학교 선후배 3명은 미국 캘리포니아주에 있는 잡스의 부모님 차고에서 조립 컴퓨터를 만들기 위해 회사를 설립했습니다.첫 제품인 \\'애플 I\\'가 그해 11월 출시된 이후 애플은 반세기 동안 미국 기술계를 대표하는 거대 기업으로 자리 잡았습니다.기업이 50년을 버틸 확률은 0.5~0.7% 정도로 파악됩니다. 신생 기업의 약 20%가 1년 안에 폐업하며, 50%는 5년 이내에 사라집니다. 10년이 지나면 생존율은 30% 미만",
+          "image": "https://cdn.aitimes.com/news/photo/202604/208747_211048_2540.png",
+          "is_english": false,
+          "original_title": "[4월3일] 창립 50주년 맞은 애플...앞으로도 계속 '다르게' 생각할 수 있을까",
+          "original_summary": "애플은 1일 자로 창립 50주년을 맞았습니다. 1976년 4월1일 스티브 잡스와 스티브 워즈니악, 로널드 웨인 등 고등학교 선후배 3명은 미국 캘리포니아주에 있는 잡스의 부모님 차고에서 조립 컴퓨터를 만들기 위해 회사를 설립했습니다.첫 제품인 \\'애플 I\\'가 그해 11월 출시된 이후 애플은 반세기 동안 미국 기술계를 대표하는 거대 기업으로 자리 잡았습니다.기업이 50년을 버틸 확률은 0.5~0.7% 정도로 파악됩니다. 신생 기업의 약 20%가 1년 안에 폐업하며, 50%는 5년 이내에 사라집니다. 10년이 지나면 생존율은 30% ",
+          "summary": "애플은 1일 자로 창립 50주년을 맞았습니다. 1976년 4월1일 스티브 잡스와 스티브 워즈니악, 로널드 웨인 등 고등학교 선후배 3명은 미국 캘리포니아주에 있는 잡스의 부모님 차고에서 조립 컴퓨터를 만들기 위해 회사를 설립했습니다.첫 제품인 \\'애플 I\\'가 그해 11월 출시된 이후 애플은 반세기 동안 미국 기술계를 대표하는 거대 기업으로 자리 잡았습니다.기업이 50년을 버틸 확률은 0.5~0.7% 정도로 파악됩니다. 신생 기업의 약 20%가 1년 안에 폐업하며, 50%는 5년 이내에 사라집니다. 10년이 지나면 생존율은 30% "
+        },
+        {
+          "title": "AI 영상 한계를 넘으려는 구글….‘제미나이’로 만드세요",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208793",
+          "date": "2026-04-04",
+          "source": "AI타임스",
+          "description": "AI타임스 조예주 기자 joyejuoffice@aitimes.com",
+          "image": "https://cdn.aitimes.com/news/photo/202604/208793_211092_10.jpg",
+          "is_english": false,
+          "original_title": "AI 영상 한계를 넘으려는 구글….‘제미나이’로 만드세요",
+          "original_summary": "AI타임스 조예주 기자 joyejuoffice@aitimes.com",
+          "summary": "AI타임스 조예주 기자 joyejuoffice@aitimes.com"
+        },
         {
           "title": "Microsoft to Invest $10B in AI and Cybersecurity in Japan",
           "link": "https://aibusiness.com/generative-ai/microsoft-invest-10b-ai-cybersecurity-japan",
@@ -147,19 +171,6 @@
           "category": "AI Model"
         },
         {
-          "title": "chromadb/context-1",
-          "link": "https://huggingface.co/chromadb/context-1",
-          "date": "2026-04-04",
-          "source": "HuggingFace",
-          "description": "• context-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• context-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "chromadb/context-1",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "LiquidAI/LFM2.5-350M",
           "link": "https://huggingface.co/LiquidAI/LFM2.5-350M",
           "date": "2026-04-04",
@@ -169,6 +180,19 @@
           "is_english": true,
           "summary": "• LFM2.5-350M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "LiquidAI/LFM2.5-350M",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "chromadb/context-1",
+          "link": "https://huggingface.co/chromadb/context-1",
+          "date": "2026-04-04",
+          "source": "HuggingFace",
+          "description": "• context-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• context-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "chromadb/context-1",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -186,15 +210,15 @@
           "category": "AI Model"
         },
         {
-          "title": "facebook/tribev2",
-          "link": "https://huggingface.co/facebook/tribev2",
+          "title": "netflix/void-model",
+          "link": "https://huggingface.co/netflix/void-model",
           "date": "2026-04-04",
           "source": "HuggingFace",
-          "description": "• tribev2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "description": "• void-model 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://colab.research.google.com/assets/colab-badge.svg",
           "is_english": true,
-          "summary": "• tribev2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "facebook/tribev2",
+          "summary": "• void-model 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "netflix/void-model",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -212,6 +236,19 @@
           "category": "AI Model"
         },
         {
+          "title": "facebook/tribev2",
+          "link": "https://huggingface.co/facebook/tribev2",
+          "date": "2026-04-04",
+          "source": "HuggingFace",
+          "description": "• tribev2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://colab.research.google.com/assets/colab-badge.svg",
+          "is_english": true,
+          "summary": "• tribev2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "facebook/tribev2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "unsloth/gemma-4-26B-A4B-it-GGUF",
           "link": "https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF",
           "date": "2026-04-04",
@@ -221,19 +258,6 @@
           "is_english": true,
           "summary": "• gemma-4-26B-A4B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/gemma-4-26B-A4B-it-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "netflix/void-model",
-          "link": "https://huggingface.co/netflix/void-model",
-          "date": "2026-04-04",
-          "source": "HuggingFace",
-          "description": "• void-model 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://colab.research.google.com/assets/colab-badge.svg",
-          "is_english": true,
-          "summary": "• void-model 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "netflix/void-model",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -280,8 +304,20 @@
     },
     {
       "date": "2026-04-03",
-      "update_time": "2026-04-03 21:24:51",
+      "update_time": "2026-04-04 01:15:08",
       "news": [
+        {
+          "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
+          "link": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
+          "date": "2026-04-03",
+          "source": "TechCrunch",
+          "description": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it.",
+          "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1294103185.jpg?resize=1200,799",
+          "is_english": true,
+          "original_title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
+          "original_summary": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it.",
+          "summary": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it."
+        },
         {
           "title": "광양경자청, 글로벌 환경 맞춤형‘투자유치 역량강화 교육’실시",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=208799",
