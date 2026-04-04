@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-04-04",
-      "update_time": "2026-04-04 06:47:54",
+      "update_time": "2026-04-04 09:28:34",
       "news": [
         {
           "title": "브록먼 오픈AI 사장 \"차세대 모델 '스퍼드'로 AGI 가시권 확보\"",
@@ -365,19 +365,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Hcompany/Holo3-35B-A3B",
-          "link": "https://huggingface.co/Hcompany/Holo3-35B-A3B",
-          "date": "2026-04-04",
-          "source": "HuggingFace",
-          "description": "• Holo3-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/Hcompany/Holo3-35B-A3B/resolve/main/osworld_pareto_light.png",
-          "is_english": true,
-          "summary": "• Holo3-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Hcompany/Holo3-35B-A3B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "google/gemma-4-E2B-it",
           "link": "https://huggingface.co/google/gemma-4-E2B-it",
           "date": "2026-04-04",
@@ -387,6 +374,19 @@
           "is_english": true,
           "summary": "• gemma-4-E2B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "google/gemma-4-E2B-it",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Hcompany/Holo3-35B-A3B",
+          "link": "https://huggingface.co/Hcompany/Holo3-35B-A3B",
+          "date": "2026-04-04",
+          "source": "HuggingFace",
+          "description": "• Holo3-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/Hcompany/Holo3-35B-A3B/resolve/main/osworld_pareto_light.png",
+          "is_english": true,
+          "summary": "• Holo3-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Hcompany/Holo3-35B-A3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -404,19 +404,6 @@
           "category": "AI Model"
         },
         {
-          "title": "chromadb/context-1",
-          "link": "https://huggingface.co/chromadb/context-1",
-          "date": "2026-04-04",
-          "source": "HuggingFace",
-          "description": "• context-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• context-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "chromadb/context-1",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "facebook/tribev2",
           "link": "https://huggingface.co/facebook/tribev2",
           "date": "2026-04-04",
@@ -426,6 +413,19 @@
           "is_english": true,
           "summary": "• tribev2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "facebook/tribev2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "chromadb/context-1",
+          "link": "https://huggingface.co/chromadb/context-1",
+          "date": "2026-04-04",
+          "source": "HuggingFace",
+          "description": "• context-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• context-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "chromadb/context-1",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
