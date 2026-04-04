@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-04-05",
-      "update_time": "2026-04-04 15:22:22",
+      "update_time": "2026-04-04 18:27:34",
       "news": [
         {
           "title": "google/gemma-4-31B-it",
@@ -83,6 +83,19 @@
           "category": "AI Model"
         },
         {
+          "title": "google/gemma-4-E4B-it",
+          "link": "https://huggingface.co/google/gemma-4-E4B-it",
+          "date": "2026-04-05",
+          "source": "HuggingFace",
+          "description": "• gemma-4-E4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• gemma-4-E4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/gemma-4-E4B-it",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
           "date": "2026-04-05",
@@ -96,28 +109,15 @@
           "category": "AI Model"
         },
         {
-          "title": "mistralai/Voxtral-4B-TTS-2603",
-          "link": "https://huggingface.co/mistralai/Voxtral-4B-TTS-2603",
+          "title": "netflix/void-model",
+          "link": "https://huggingface.co/netflix/void-model",
           "date": "2026-04-05",
           "source": "HuggingFace",
-          "description": "• Voxtral-4B-TTS-2603 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "description": "• void-model 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://colab.research.google.com/assets/colab-badge.svg",
           "is_english": true,
-          "summary": "• Voxtral-4B-TTS-2603 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "mistralai/Voxtral-4B-TTS-2603",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "google/gemma-4-E4B-it",
-          "link": "https://huggingface.co/google/gemma-4-E4B-it",
-          "date": "2026-04-05",
-          "source": "HuggingFace",
-          "description": "• gemma-4-E4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• gemma-4-E4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/gemma-4-E4B-it",
+          "summary": "• void-model 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "netflix/void-model",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -135,15 +135,15 @@
           "category": "AI Model"
         },
         {
-          "title": "netflix/void-model",
-          "link": "https://huggingface.co/netflix/void-model",
+          "title": "mistralai/Voxtral-4B-TTS-2603",
+          "link": "https://huggingface.co/mistralai/Voxtral-4B-TTS-2603",
           "date": "2026-04-05",
           "source": "HuggingFace",
-          "description": "• void-model 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://colab.research.google.com/assets/colab-badge.svg",
+          "description": "• Voxtral-4B-TTS-2603 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
           "is_english": true,
-          "summary": "• void-model 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "netflix/void-model",
+          "summary": "• Voxtral-4B-TTS-2603 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "mistralai/Voxtral-4B-TTS-2603",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,19 +239,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Jackrong/Qwopus3.5-9B-v3-GGUF",
-          "link": "https://huggingface.co/Jackrong/Qwopus3.5-9B-v3-GGUF",
-          "date": "2026-04-05",
-          "source": "HuggingFace",
-          "description": "• Qwopus3.5-9B-v3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/qdrGIdxunjK1i59L-Yp7n.png",
-          "is_english": true,
-          "summary": "• Qwopus3.5-9B-v3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jackrong/Qwopus3.5-9B-v3-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "k2-fsa/OmniVoice",
           "link": "https://huggingface.co/k2-fsa/OmniVoice",
           "date": "2026-04-05",
@@ -263,13 +250,38 @@
           "translated_title": "k2-fsa/OmniVoice",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "Jackrong/Qwopus3.5-9B-v3-GGUF",
+          "link": "https://huggingface.co/Jackrong/Qwopus3.5-9B-v3-GGUF",
+          "date": "2026-04-05",
+          "source": "HuggingFace",
+          "description": "• Qwopus3.5-9B-v3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/qdrGIdxunjK1i59L-Yp7n.png",
+          "is_english": true,
+          "summary": "• Qwopus3.5-9B-v3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jackrong/Qwopus3.5-9B-v3-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-04-04",
-      "update_time": "2026-04-04 15:22:22",
+      "update_time": "2026-04-04 18:27:33",
       "news": [
+        {
+          "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+          "link": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+          "date": "2026-04-04",
+          "source": "TechCrunch",
+          "description": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-1396827010.jpg?resize=1200,839",
+          "is_english": true,
+          "original_title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+          "original_summary": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools.",
+          "summary": "It’s about to become more expensive for Claude Code subscribers to use Anthropic’s coding assistant with OpenClaw and other third-party tools."
+        },
         {
           "title": "알리바바, 차세대 영상 모델 ‘완2.7-비디오’ 공개",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=208806",
@@ -7537,7 +7549,7 @@
         {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-          "date": "2026-03-27",
+          "date": "2026-04-05",
           "source": "HuggingFace",
           "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
@@ -7615,7 +7627,7 @@
         {
           "title": "baidu/Qianfan-OCR",
           "link": "https://huggingface.co/baidu/Qianfan-OCR",
-          "date": "2026-03-27",
+          "date": "2026-04-05",
           "source": "HuggingFace",
           "description": "• Qianfan-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -7628,7 +7640,7 @@
         {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-          "date": "2026-03-27",
+          "date": "2026-04-05",
           "source": "HuggingFace",
           "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/k4JsVit-31Fw8RZ4pFkun.jpeg",
@@ -7680,7 +7692,7 @@
         {
           "title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-03-27",
+          "date": "2026-04-05",
           "source": "HuggingFace",
           "description": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
