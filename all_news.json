@@ -2,8 +2,56 @@
   "dates": [
     {
       "date": "2026-04-05",
-      "update_time": "2026-04-04 21:22:23",
+      "update_time": "2026-04-05 01:23:57",
       "news": [
+        {
+          "title": "한국해양대, 해양 인공지능 전환 인재양성 비전 선포",
+          "link": "https://www.yna.co.kr/view/AKR20260403096300051",
+          "date": "2026-04-05",
+          "source": "연합뉴스",
+          "description": "(부산=연합뉴스) 조정호 기자 = 국립한국해양대학교가 인공지능(AI)을 중심으로 한 해양 강국 도약에 필요한 미래 해양 인재 양성을 위한 본격적...",
+          "image": "https://img.yna.co.kr/photo/cms/2026/03/16/07/PCM20260316000007990_P2.jpg",
+          "is_english": false,
+          "original_title": "한국해양대, 해양 인공지능 전환 인재양성 비전 선포",
+          "original_summary": "(부산=연합뉴스) 조정호 기자 = 국립한국해양대학교가 인공지능(AI)을 중심으로 한 해양 강국 도약에 필요한 미래 해양 인재 양성을 위한 본격적...",
+          "summary": "(부산=연합뉴스) 조정호 기자 = 국립한국해양대학교가 인공지능(AI)을 중심으로 한 해양 강국 도약에 필요한 미래 해양 인재 양성을 위한 본격적..."
+        },
+        {
+          "title": "카카오모빌리티, 생성형 AI로 도로정보 자동 갱신",
+          "link": "https://www.yna.co.kr/view/AKR20260404055600017",
+          "date": "2026-04-05",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 오지은 기자 = 내비게이션이 단순히 빠른 길을 찾는 단계를 넘어 생성형 AI가 도로의 상태를 판단하고 안전한 길을 골라주는 시...",
+          "image": "https://img.yna.co.kr/photo/cms/2022/04/06/14/PCM20220406000014990_P2.jpg",
+          "is_english": false,
+          "original_title": "카카오모빌리티, 생성형 AI로 도로정보 자동 갱신",
+          "original_summary": "(서울=연합뉴스) 오지은 기자 = 내비게이션이 단순히 빠른 길을 찾는 단계를 넘어 생성형 AI가 도로의 상태를 판단하고 안전한 길을 골라주는 시...",
+          "summary": "(서울=연합뉴스) 오지은 기자 = 내비게이션이 단순히 빠른 길을 찾는 단계를 넘어 생성형 AI가 도로의 상태를 판단하고 안전한 길을 골라주는 시..."
+        },
+        {
+          "title": "AI 신종테러 대응책은?…경찰청·美에너지부 인천서 심포지엄",
+          "link": "https://www.yna.co.kr/view/AKR20260404029300004",
+          "date": "2026-04-05",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 이동환 기자 = 경찰청과 미국 에너지부 국가핵안보청(NNSA)은 오는 6일부터 5일간 인천에서 &apos;한미 공동 대테러 국제 심포지...",
+          "image": "https://img.yna.co.kr/photo/cms/2019/05/13/86/PCM20190513000286990_P2.jpg",
+          "is_english": false,
+          "original_title": "AI 신종테러 대응책은?…경찰청·美에너지부 인천서 심포지엄",
+          "original_summary": "(서울=연합뉴스) 이동환 기자 = 경찰청과 미국 에너지부 국가핵안보청(NNSA)은 오는 6일부터 5일간 인천에서 &apos;한미 공동 대테러 국제 심포지...",
+          "summary": "(서울=연합뉴스) 이동환 기자 = 경찰청과 미국 에너지부 국가핵안보청(NNSA)은 오는 6일부터 5일간 인천에서 &apos;한미 공동 대테러 국제 심포지..."
+        },
+        {
+          "title": "경북, AI 재배관리 로봇 개발…사과 농사 전 과정 자동화",
+          "link": "https://www.yna.co.kr/view/AKR20260403123500053",
+          "date": "2026-04-05",
+          "source": "연합뉴스",
+          "description": "(안동=연합뉴스) 이승형 기자 = 경북도가 한국로봇융합연구원과 함께 농촌 인력 부족 문제를 해소하고 과수 재배 작업의 효율성을 높이기 위해 인공...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/04/03/AKR20260403123500053_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "경북, AI 재배관리 로봇 개발…사과 농사 전 과정 자동화",
+          "original_summary": "(안동=연합뉴스) 이승형 기자 = 경북도가 한국로봇융합연구원과 함께 농촌 인력 부족 문제를 해소하고 과수 재배 작업의 효율성을 높이기 위해 인공...",
+          "summary": "(안동=연합뉴스) 이승형 기자 = 경북도가 한국로봇융합연구원과 함께 농촌 인력 부족 문제를 해소하고 과수 재배 작업의 효율성을 높이기 위해 인공..."
+        },
         {
           "title": "google/gemma-4-31B-it",
           "link": "https://huggingface.co/google/gemma-4-31B-it",
@@ -31,19 +79,6 @@
           "category": "AI Model"
         },
         {
-          "title": "CohereLabs/cohere-transcribe-03-2026",
-          "link": "https://huggingface.co/CohereLabs/cohere-transcribe-03-2026",
-          "date": "2026-04-05",
-          "source": "HuggingFace",
-          "description": "• cohere-transcribe-03-2026 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• cohere-transcribe-03-2026 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "CohereLabs/cohere-transcribe-03-2026",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "baidu/Qianfan-OCR",
           "link": "https://huggingface.co/baidu/Qianfan-OCR",
           "date": "2026-04-05",
@@ -53,6 +88,19 @@
           "is_english": true,
           "summary": "• Qianfan-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "baidu/Qianfan-OCR",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "CohereLabs/cohere-transcribe-03-2026",
+          "link": "https://huggingface.co/CohereLabs/cohere-transcribe-03-2026",
+          "date": "2026-04-05",
+          "source": "HuggingFace",
+          "description": "• cohere-transcribe-03-2026 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• cohere-transcribe-03-2026 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "CohereLabs/cohere-transcribe-03-2026",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -252,15 +300,15 @@
           "category": "AI Model"
         },
         {
-          "title": "chromadb/context-1",
-          "link": "https://huggingface.co/chromadb/context-1",
+          "title": "nvidia/Gemma-4-31B-IT-NVFP4",
+          "link": "https://huggingface.co/nvidia/Gemma-4-31B-IT-NVFP4",
           "date": "2026-04-05",
           "source": "HuggingFace",
-          "description": "• context-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "description": "• Gemma-4-31B-IT-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• context-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "chromadb/context-1",
+          "summary": "• Gemma-4-31B-IT-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/Gemma-4-31B-IT-NVFP4",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
