@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-04-05",
-      "update_time": "2026-04-05 09:30:34",
+      "update_time": "2026-04-05 12:34:24",
       "news": [
         {
           "title": "월드 랩스, '세계 생성' 능력 강화한 월드 모델 '마블 1.1' 출시",
@@ -211,19 +211,6 @@
           "category": "AI Model"
         },
         {
-          "title": "baidu/Qianfan-OCR",
-          "link": "https://huggingface.co/baidu/Qianfan-OCR",
-          "date": "2026-04-05",
-          "source": "HuggingFace",
-          "description": "• Qianfan-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qianfan-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "baidu/Qianfan-OCR",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "CohereLabs/cohere-transcribe-03-2026",
           "link": "https://huggingface.co/CohereLabs/cohere-transcribe-03-2026",
           "date": "2026-04-05",
@@ -233,6 +220,19 @@
           "is_english": true,
           "summary": "• cohere-transcribe-03-2026 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "CohereLabs/cohere-transcribe-03-2026",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "baidu/Qianfan-OCR",
+          "link": "https://huggingface.co/baidu/Qianfan-OCR",
+          "date": "2026-04-05",
+          "source": "HuggingFace",
+          "description": "• Qianfan-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qianfan-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "baidu/Qianfan-OCR",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -315,19 +315,6 @@
           "category": "AI Model"
         },
         {
-          "title": "mistralai/Voxtral-4B-TTS-2603",
-          "link": "https://huggingface.co/mistralai/Voxtral-4B-TTS-2603",
-          "date": "2026-04-05",
-          "source": "HuggingFace",
-          "description": "• Voxtral-4B-TTS-2603 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Voxtral-4B-TTS-2603 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "mistralai/Voxtral-4B-TTS-2603",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "google/gemma-4-E2B-it",
           "link": "https://huggingface.co/google/gemma-4-E2B-it",
           "date": "2026-04-05",
@@ -341,15 +328,15 @@
           "category": "AI Model"
         },
         {
-          "title": "LiquidAI/LFM2.5-350M",
-          "link": "https://huggingface.co/LiquidAI/LFM2.5-350M",
+          "title": "mistralai/Voxtral-4B-TTS-2603",
+          "link": "https://huggingface.co/mistralai/Voxtral-4B-TTS-2603",
           "date": "2026-04-05",
           "source": "HuggingFace",
-          "description": "• LFM2.5-350M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/mx39JYUuCa1ehaucRFT7d.png",
+          "description": "• Voxtral-4B-TTS-2603 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
           "is_english": true,
-          "summary": "• LFM2.5-350M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "LiquidAI/LFM2.5-350M",
+          "summary": "• Voxtral-4B-TTS-2603 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "mistralai/Voxtral-4B-TTS-2603",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -363,6 +350,19 @@
           "is_english": true,
           "summary": "• gemma-4-26B-A4B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/gemma-4-26B-A4B-it-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "LiquidAI/LFM2.5-350M",
+          "link": "https://huggingface.co/LiquidAI/LFM2.5-350M",
+          "date": "2026-04-05",
+          "source": "HuggingFace",
+          "description": "• LFM2.5-350M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/mx39JYUuCa1ehaucRFT7d.png",
+          "is_english": true,
+          "summary": "• LFM2.5-350M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "LiquidAI/LFM2.5-350M",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -406,6 +406,19 @@
           "category": "AI Model"
         },
         {
+          "title": "tencent/HY-OmniWeaving",
+          "link": "https://huggingface.co/tencent/HY-OmniWeaving",
+          "date": "2026-04-05",
+          "source": "HuggingFace",
+          "description": "• HY-OmniWeaving 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/tencent/HY-OmniWeaving/resolve/main/./assets/logo.png",
+          "is_english": true,
+          "summary": "• HY-OmniWeaving 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "tencent/HY-OmniWeaving",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "nvidia/Gemma-4-31B-IT-NVFP4",
           "link": "https://huggingface.co/nvidia/Gemma-4-31B-IT-NVFP4",
           "date": "2026-04-05",
@@ -428,19 +441,6 @@
           "is_english": true,
           "summary": "• Qwopus3.5-9B-v3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Jackrong/Qwopus3.5-9B-v3-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "unsloth/gemma-4-31B-it-GGUF",
-          "link": "https://huggingface.co/unsloth/gemma-4-31B-it-GGUF",
-          "date": "2026-04-05",
-          "source": "HuggingFace",
-          "description": "• gemma-4-31B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
-          "is_english": true,
-          "summary": "• gemma-4-31B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/gemma-4-31B-it-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
