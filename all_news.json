@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-04-07",
-      "update_time": "2026-04-06 15:37:55",
+      "update_time": "2026-04-06 18:42:41",
       "news": [
         {
           "title": "google/gemma-4-31B-it",
@@ -31,6 +31,19 @@
           "category": "AI Model"
         },
         {
+          "title": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
+          "link": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK",
+          "date": "2026-04-07",
+          "source": "HuggingFace",
+          "description": "• Gemma-4-31B-JANG_4M-CRACK 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK/resolve/main/dealign_logo.png",
+          "is_english": true,
+          "summary": "• Gemma-4-31B-JANG_4M-CRACK 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "prism-ml/Bonsai-8B-gguf",
           "link": "https://huggingface.co/prism-ml/Bonsai-8B-gguf",
           "date": "2026-04-07",
@@ -53,19 +66,6 @@
           "is_english": true,
           "summary": "• gemma-4-26B-A4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "google/gemma-4-26B-A4B-it",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
-          "link": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK",
-          "date": "2026-04-07",
-          "source": "HuggingFace",
-          "description": "• Gemma-4-31B-JANG_4M-CRACK 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK/resolve/main/dealign_logo.png",
-          "is_english": true,
-          "summary": "• Gemma-4-31B-JANG_4M-CRACK 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -109,15 +109,15 @@
           "category": "AI Model"
         },
         {
-          "title": "CohereLabs/cohere-transcribe-03-2026",
-          "link": "https://huggingface.co/CohereLabs/cohere-transcribe-03-2026",
+          "title": "google/gemma-4-E2B-it",
+          "link": "https://huggingface.co/google/gemma-4-E2B-it",
           "date": "2026-04-07",
           "source": "HuggingFace",
-          "description": "• cohere-transcribe-03-2026 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• gemma-4-E2B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
           "is_english": true,
-          "summary": "• cohere-transcribe-03-2026 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "CohereLabs/cohere-transcribe-03-2026",
+          "summary": "• gemma-4-E2B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/gemma-4-E2B-it",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -135,19 +135,6 @@
           "category": "AI Model"
         },
         {
-          "title": "google/gemma-4-E2B-it",
-          "link": "https://huggingface.co/google/gemma-4-E2B-it",
-          "date": "2026-04-07",
-          "source": "HuggingFace",
-          "description": "• gemma-4-E2B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
-          "is_english": true,
-          "summary": "• gemma-4-E2B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/gemma-4-E2B-it",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/gemma-4-26B-A4B-it-GGUF",
           "link": "https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF",
           "date": "2026-04-07",
@@ -157,6 +144,19 @@
           "is_english": true,
           "summary": "• gemma-4-26B-A4B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/gemma-4-26B-A4B-it-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "CohereLabs/cohere-transcribe-03-2026",
+          "link": "https://huggingface.co/CohereLabs/cohere-transcribe-03-2026",
+          "date": "2026-04-07",
+          "source": "HuggingFace",
+          "description": "• cohere-transcribe-03-2026 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• cohere-transcribe-03-2026 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "CohereLabs/cohere-transcribe-03-2026",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -200,15 +200,15 @@
           "category": "AI Model"
         },
         {
-          "title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-          "link": "https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+          "title": "nvidia/Gemma-4-31B-IT-NVFP4",
+          "link": "https://huggingface.co/nvidia/Gemma-4-31B-IT-NVFP4",
           "date": "2026-04-07",
           "source": "HuggingFace",
-          "description": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "description": "• Gemma-4-31B-IT-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+          "summary": "• Gemma-4-31B-IT-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/Gemma-4-31B-IT-NVFP4",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,28 +239,28 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/Gemma-4-31B-IT-NVFP4",
-          "link": "https://huggingface.co/nvidia/Gemma-4-31B-IT-NVFP4",
+          "title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+          "link": "https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
           "date": "2026-04-07",
           "source": "HuggingFace",
-          "description": "• Gemma-4-31B-IT-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
           "is_english": true,
-          "summary": "• Gemma-4-31B-IT-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/Gemma-4-31B-IT-NVFP4",
+          "summary": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
         {
-          "title": "Jackrong/Qwopus3.5-9B-v3-GGUF",
-          "link": "https://huggingface.co/Jackrong/Qwopus3.5-9B-v3-GGUF",
+          "title": "unsloth/gemma-4-31B-it-GGUF",
+          "link": "https://huggingface.co/unsloth/gemma-4-31B-it-GGUF",
           "date": "2026-04-07",
           "source": "HuggingFace",
-          "description": "• Qwopus3.5-9B-v3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/qdrGIdxunjK1i59L-Yp7n.png",
+          "description": "• gemma-4-31B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
           "is_english": true,
-          "summary": "• Qwopus3.5-9B-v3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jackrong/Qwopus3.5-9B-v3-GGUF",
+          "summary": "• gemma-4-31B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/gemma-4-31B-it-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -268,8 +268,56 @@
     },
     {
       "date": "2026-04-06",
-      "update_time": "2026-04-06 15:37:55",
+      "update_time": "2026-04-06 18:42:39",
       "news": [
+        {
+          "title": "Announcing the OpenAI Safety Fellowship",
+          "link": "https://openai.com/index/introducing-openai-safety-fellowship",
+          "date": "2026-04-06",
+          "source": "OpenAI",
+          "description": "A pilot program to support independent safety and alignment research and develop the next generation of talent",
+          "image": null,
+          "is_english": true,
+          "original_title": "Announcing the OpenAI Safety Fellowship",
+          "original_summary": "A pilot program to support independent safety and alignment research and develop the next generation of talent",
+          "summary": "A pilot program to support independent safety and alignment research and develop the next generation of talent"
+        },
+        {
+          "title": "Iran threatens ‘Stargate’ AI data centers",
+          "link": "https://techcrunch.com/2026/04/06/iran-threatens-stargate-ai-data-centers/",
+          "date": "2026-04-06",
+          "source": "TechCrunch",
+          "description": "Iran said it will target U.S.-linked data centers with new missile strikes, as the war between the U.S. and Iran escalates. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/iran-airstrike-2263722022.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Iran threatens ‘Stargate’ AI data centers",
+          "original_summary": "Iran said it will target U.S.-linked data centers with new missile strikes, as the war between the U.S. and Iran escalates. ",
+          "summary": "Iran said it will target U.S.-linked data centers with new missile strikes, as the war between the U.S. and Iran escalates. "
+        },
+        {
+          "title": "OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day work week",
+          "link": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
+          "date": "2026-04-06",
+          "source": "TechCrunch",
+          "description": "OpenAI proposes taxes on AI profits, public wealth funds, and expanded safety nets to address job loss and inequality, blending redistribution with capitalism as policymakers debate AI’s economic impact.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2226496284.jpg?w=1024",
+          "is_english": true,
+          "original_title": "OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day work week",
+          "original_summary": "OpenAI proposes taxes on AI profits, public wealth funds, and expanded safety nets to address job loss and inequality, blending redistribution with capitalism as policymakers debate AI’s economic impact.",
+          "summary": "OpenAI proposes taxes on AI profits, public wealth funds, and expanded safety nets to address job loss and inequality, blending redistribution with capitalism as policymakers debate AI’s economic impact."
+        },
+        {
+          "title": "OPINION: Fast, Flexible AI Testing Is the Foundation of Strategic Leadership",
+          "link": "https://aibusiness.com/generative-ai/opinion-fast-flexible-ai-testing-foundation-strategic-leadership",
+          "date": "2026-04-06",
+          "source": "AI Business",
+          "description": "Leaders can adapt to generative AI's rapid rise by embracing agile AI strategies such as dedicated experimentation and establishing accountability at the outset.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltdc437283d577ba90/69d3d69467414234bdb6e637/ai_leader.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "OPINION: Fast, Flexible AI Testing Is the Foundation of Strategic Leadership",
+          "original_summary": "Leaders can adapt to generative AI's rapid rise by embracing agile AI strategies such as dedicated experimentation and establishing accountability at the outset.",
+          "summary": "Leaders can adapt to generative AI's rapid rise by embracing agile AI strategies such as dedicated experimentation and establishing accountability at the outset."
+        },
         {
           "title": "Startup Battlefield 200 applications open: A chance for VC access, TechCrunch coverage, and $100K",
           "link": "https://techcrunch.com/2026/04/06/startup-battlefield-200-applications-open-get-vc-access-techcrunch-coverage-and-100k/",
@@ -7345,7 +7393,7 @@
         {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-          "date": "2026-03-29",
+          "date": "2026-04-07",
           "source": "HuggingFace",
           "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
@@ -7371,7 +7419,7 @@
         {
           "title": "CohereLabs/cohere-transcribe-03-2026",
           "link": "https://huggingface.co/CohereLabs/cohere-transcribe-03-2026",
-          "date": "2026-03-29",
+          "date": "2026-04-07",
           "source": "HuggingFace",
           "description": "• cohere-transcribe-03-2026 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -7397,7 +7445,7 @@
         {
           "title": "baidu/Qianfan-OCR",
           "link": "https://huggingface.co/baidu/Qianfan-OCR",
-          "date": "2026-03-29",
+          "date": "2026-04-07",
           "source": "HuggingFace",
           "description": "• Qianfan-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -7449,7 +7497,7 @@
         {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF",
-          "date": "2026-03-29",
+          "date": "2026-04-07",
           "source": "HuggingFace",
           "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/k4JsVit-31Fw8RZ4pFkun.jpeg",
@@ -7553,7 +7601,7 @@
         {
           "title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-03-29",
+          "date": "2026-04-07",
           "source": "HuggingFace",
           "description": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
