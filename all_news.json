@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-04-08",
-      "update_time": "2026-04-07 16:04:54",
+      "update_time": "2026-04-07 18:54:04",
       "news": [
         {
           "title": "Spanish Startup Xoople Lands $130M to Build Satellites for AI",
@@ -69,19 +69,6 @@
           "category": "AI Model"
         },
         {
-          "title": "prism-ml/Bonsai-8B-gguf",
-          "link": "https://huggingface.co/prism-ml/Bonsai-8B-gguf",
-          "date": "2026-04-08",
-          "source": "HuggingFace",
-          "description": "• Bonsai-8B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/prism-ml/Bonsai-8B-gguf/resolve/main/./assets/bonsai-logo.svg",
-          "is_english": true,
-          "summary": "• Bonsai-8B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "prism-ml/Bonsai-8B-gguf",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "google/gemma-4-26B-A4B-it",
           "link": "https://huggingface.co/google/gemma-4-26B-A4B-it",
           "date": "2026-04-08",
@@ -91,6 +78,19 @@
           "is_english": true,
           "summary": "• gemma-4-26B-A4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "google/gemma-4-26B-A4B-it",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "prism-ml/Bonsai-8B-gguf",
+          "link": "https://huggingface.co/prism-ml/Bonsai-8B-gguf",
+          "date": "2026-04-08",
+          "source": "HuggingFace",
+          "description": "• Bonsai-8B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/prism-ml/Bonsai-8B-gguf/resolve/main/./assets/bonsai-logo.svg",
+          "is_english": true,
+          "summary": "• Bonsai-8B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "prism-ml/Bonsai-8B-gguf",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -173,15 +173,15 @@
           "category": "AI Model"
         },
         {
-          "title": "LiquidAI/LFM2.5-350M",
-          "link": "https://huggingface.co/LiquidAI/LFM2.5-350M",
+          "title": "google/gemma-4-31B",
+          "link": "https://huggingface.co/google/gemma-4-31B",
           "date": "2026-04-08",
           "source": "HuggingFace",
-          "description": "• LFM2.5-350M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/mx39JYUuCa1ehaucRFT7d.png",
+          "description": "• gemma-4-31B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• LFM2.5-350M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "LiquidAI/LFM2.5-350M",
+          "summary": "• gemma-4-31B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/gemma-4-31B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -199,19 +199,6 @@
           "category": "AI Model"
         },
         {
-          "title": "google/gemma-4-31B",
-          "link": "https://huggingface.co/google/gemma-4-31B",
-          "date": "2026-04-08",
-          "source": "HuggingFace",
-          "description": "• gemma-4-31B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• gemma-4-31B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/gemma-4-31B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "tencent/HY-OmniWeaving",
           "link": "https://huggingface.co/tencent/HY-OmniWeaving",
           "date": "2026-04-08",
@@ -221,19 +208,6 @@
           "is_english": true,
           "summary": "• HY-OmniWeaving 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "tencent/HY-OmniWeaving",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "CohereLabs/cohere-transcribe-03-2026",
-          "link": "https://huggingface.co/CohereLabs/cohere-transcribe-03-2026",
-          "date": "2026-04-08",
-          "source": "HuggingFace",
-          "description": "• cohere-transcribe-03-2026 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• cohere-transcribe-03-2026 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "CohereLabs/cohere-transcribe-03-2026",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -264,6 +238,19 @@
           "category": "AI Model"
         },
         {
+          "title": "CohereLabs/cohere-transcribe-03-2026",
+          "link": "https://huggingface.co/CohereLabs/cohere-transcribe-03-2026",
+          "date": "2026-04-08",
+          "source": "HuggingFace",
+          "description": "• cohere-transcribe-03-2026 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• cohere-transcribe-03-2026 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "CohereLabs/cohere-transcribe-03-2026",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Jackrong/Qwopus3.5-9B-v3-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwopus3.5-9B-v3-GGUF",
           "date": "2026-04-08",
@@ -275,13 +262,86 @@
           "translated_title": "Jackrong/Qwopus3.5-9B-v3-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "LiquidAI/LFM2.5-350M",
+          "link": "https://huggingface.co/LiquidAI/LFM2.5-350M",
+          "date": "2026-04-08",
+          "source": "HuggingFace",
+          "description": "• LFM2.5-350M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/mx39JYUuCa1ehaucRFT7d.png",
+          "is_english": true,
+          "summary": "• LFM2.5-350M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "LiquidAI/LFM2.5-350M",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-04-07",
-      "update_time": "2026-04-07 16:04:54",
+      "update_time": "2026-04-07 18:54:04",
       "news": [
+        {
+          "title": "Firmus, the ‘Southgate’ AI datacenter builder backed by Nvidia, hits $5.5B valuation",
+          "link": "https://techcrunch.com/2026/04/07/firmus-the-southgate-ai-datacenter-builder-backed-by-nvidia-hits-5-5b-valuation/",
+          "date": "2026-04-07",
+          "source": "TechCrunch",
+          "description": "Nvidia-backed Asia AI data center provider Firmus has now raised $1.35 billion in six months.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1955086330.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "Firmus, the ‘Southgate’ AI datacenter builder backed by Nvidia, hits $5.5B valuation",
+          "original_summary": "Nvidia-backed Asia AI data center provider Firmus has now raised $1.35 billion in six months.",
+          "summary": "Nvidia-backed Asia AI data center provider Firmus has now raised $1.35 billion in six months."
+        },
+        {
+          "title": "Intel signs on to Elon Musk’s Terafab chips project",
+          "link": "https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/",
+          "date": "2026-04-07",
+          "source": "TechCrunch",
+          "description": "The partnership brings semiconductor experience to Musk's latest high-tech project. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/HFTb6BbbcAANe5y-e1775584097859.jpeg?w=597",
+          "is_english": true,
+          "original_title": "Intel signs on to Elon Musk’s Terafab chips project",
+          "original_summary": "The partnership brings semiconductor experience to Musk's latest high-tech project. ",
+          "summary": "The partnership brings semiconductor experience to Musk's latest high-tech project. "
+        },
+        {
+          "title": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative",
+          "link": "https://techcrunch.com/2026/04/07/anthropic-mythos-ai-model-preview-security/",
+          "date": "2026-04-07",
+          "source": "TechCrunch",
+          "description": "The new model will be used by a small number of high-profile companies to engage in defensive cybersecurity work. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2256664479.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Anthropic debuts preview of powerful new AI model Mythos in new cybersecurity initiative",
+          "original_summary": "The new model will be used by a small number of high-profile companies to engage in defensive cybersecurity work. ",
+          "summary": "The new model will be used by a small number of high-profile companies to engage in defensive cybersecurity work. "
+        },
+        {
+          "title": "Uber is the latest to be won over by Amazon’s AI chips",
+          "link": "https://techcrunch.com/2026/04/07/uber-is-the-latest-to-be-won-over-by-amazons-ai-chips/",
+          "date": "2026-04-07",
+          "source": "TechCrunch",
+          "description": "Uber is expanding its AWS contract to run more of its ride-sharing features on Amazon's chips. This is a thumb-of-the nose at Oracle and Google.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/12/AWS-Trainium2-chip-11-29-24-embargo-till-12-3-24-1.jpg?resize=1200,812",
+          "is_english": true,
+          "original_title": "Uber is the latest to be won over by Amazon’s AI chips",
+          "original_summary": "Uber is expanding its AWS contract to run more of its ride-sharing features on Amazon's chips. This is a thumb-of-the nose at Oracle and Google.",
+          "summary": "Uber is expanding its AWS contract to run more of its ride-sharing features on Amazon's chips. This is a thumb-of-the nose at Oracle and Google."
+        },
+        {
+          "title": "Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand",
+          "link": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/",
+          "date": "2026-04-07",
+          "source": "TechCrunch",
+          "description": "Anthropic bulked up its compute deal with Google and Broadcom as the company has seen its run-rate revenue surge to $30 billion. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Anthropic ups compute deal with Google and Broadcom amid skyrocketing demand",
+          "original_summary": "Anthropic bulked up its compute deal with Google and Broadcom as the company has seen its run-rate revenue surge to $30 billion. ",
+          "summary": "Anthropic bulked up its compute deal with Google and Broadcom as the company has seen its run-rate revenue surge to $30 billion. "
+        },
         {
           "title": "Google Maps can now write captions for your photos using AI",
           "link": "https://techcrunch.com/2026/04/07/google-maps-can-now-write-captions-for-your-photos-using-ai/",
@@ -7693,7 +7753,7 @@
         {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-          "date": "2026-03-30",
+          "date": "2026-04-08",
           "source": "HuggingFace",
           "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
@@ -7706,7 +7766,7 @@
         {
           "title": "CohereLabs/cohere-transcribe-03-2026",
           "link": "https://huggingface.co/CohereLabs/cohere-transcribe-03-2026",
-          "date": "2026-03-30",
+          "date": "2026-04-08",
           "source": "HuggingFace",
           "description": "• cohere-transcribe-03-2026 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -7732,7 +7792,7 @@
         {
           "title": "baidu/Qianfan-OCR",
           "link": "https://huggingface.co/baidu/Qianfan-OCR",
-          "date": "2026-03-30",
+          "date": "2026-04-08",
           "source": "HuggingFace",
           "description": "• Qianfan-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
