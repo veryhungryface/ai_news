@@ -2,8 +2,80 @@
   "dates": [
     {
       "date": "2026-04-08",
-      "update_time": "2026-04-08 10:00:13",
+      "update_time": "2026-04-08 12:57:34",
       "news": [
+        {
+          "title": "엔비디아도 'KV 캐시' 해결... '트라이어텐션'으로 메모리 10배 절감",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208924",
+          "date": "2026-04-08",
+          "source": "AI타임스",
+          "description": "AI 성능 경쟁의 중심축이 더 큰 모델에서 더 효율적인 모델로 이동하는 가운데, 엔비디아가 메모리 병목을 획기적으로 줄이는 새로운 기술을 공개했다. 특히, 얼마 전 구글이 공개해 화제가 됐던 \\'터보퀀트(TurboQuant)\\'의 메모리 6분의 1 압축보다 더 큰, 메모리 사용량 10.7배 감소라는 수치를 제시했다. 엔비디아와 MIT 연구진은 6일(현지시간) 대형언어모델(LLM)의 핵심 한계로 지적돼 온 ‘KV 캐시(KV cache)’ 문제를 근본적으로 개선하는 접근법 ‘트라이어텐션(TriAttention)’을 온라인 아카이브를 통해",
+          "image": "https://cdn.aitimes.com/news/photo/202604/208924_211313_446.png",
+          "is_english": false,
+          "original_title": "엔비디아도 'KV 캐시' 해결... '트라이어텐션'으로 메모리 10배 절감",
+          "original_summary": "AI 성능 경쟁의 중심축이 더 큰 모델에서 더 효율적인 모델로 이동하는 가운데, 엔비디아가 메모리 병목을 획기적으로 줄이는 새로운 기술을 공개했다. 특히, 얼마 전 구글이 공개해 화제가 됐던 \\'터보퀀트(TurboQuant)\\'의 메모리 6분의 1 압축보다 더 큰, 메모리 사용량 10.7배 감소라는 수치를 제시했다. 엔비디아와 MIT 연구진은 6일(현지시간) 대형언어모델(LLM)의 핵심 한계로 지적돼 온 ‘KV 캐시(KV cache)’ 문제를 근본적으로 개선하는 접근법 ‘트라이어텐션(TriAttention)’을 온라인 아카이브를 통",
+          "summary": "AI 성능 경쟁의 중심축이 더 큰 모델에서 더 효율적인 모델로 이동하는 가운데, 엔비디아가 메모리 병목을 획기적으로 줄이는 새로운 기술을 공개했다. 특히, 얼마 전 구글이 공개해 화제가 됐던 \\'터보퀀트(TurboQuant)\\'의 메모리 6분의 1 압축보다 더 큰, 메모리 사용량 10.7배 감소라는 수치를 제시했다. 엔비디아와 MIT 연구진은 6일(현지시간) 대형언어모델(LLM)의 핵심 한계로 지적돼 온 ‘KV 캐시(KV cache)’ 문제를 근본적으로 개선하는 접근법 ‘트라이어텐션(TriAttention)’을 온라인 아카이브를 통"
+        },
+        {
+          "title": "지푸, 자율 작업 8시간까지 늘린 오픈소스 'GLM-5.1' 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208949",
+          "date": "2026-04-08",
+          "source": "AI타임스",
+          "description": "지푸 AI가 장시간 자율적으로 문제를 해결하는 차세대 모델 ‘GLM-5.1’을 공개했다. 단순한 응답을 넘어 수백번의 반복 작업과 수천번의 도구 호출을 통해 스스로 성능을 개선하는 능력을 갖췄다.지푸는 7일(현지시간) 인간 개입 없이 장기 작업을 수행하는 차세대 모델 ‘GLM-5.1’을 공개했다.수정 및 상업적 활용이 가능한 오픈소스 모델로, 허깅페이스와 모델스코프에서 모델 가중치를 다운로드할 수 있다. GLM-5.1은 약 7540억개의 매개변수를 갖춘 전문가 혼합(MoE) 구조로 설계됐으며, 한번의 작업을 최대 8시간 동안 지속적",
+          "image": "https://cdn.aitimes.com/news/photo/202604/208949_211283_4943.png",
+          "is_english": false,
+          "original_title": "지푸, 자율 작업 8시간까지 늘린 오픈소스 'GLM-5.1' 출시",
+          "original_summary": "지푸 AI가 장시간 자율적으로 문제를 해결하는 차세대 모델 ‘GLM-5.1’을 공개했다. 단순한 응답을 넘어 수백번의 반복 작업과 수천번의 도구 호출을 통해 스스로 성능을 개선하는 능력을 갖췄다.지푸는 7일(현지시간) 인간 개입 없이 장기 작업을 수행하는 차세대 모델 ‘GLM-5.1’을 공개했다.수정 및 상업적 활용이 가능한 오픈소스 모델로, 허깅페이스와 모델스코프에서 모델 가중치를 다운로드할 수 있다. GLM-5.1은 약 7540억개의 매개변수를 갖춘 전문가 혼합(MoE) 구조로 설계됐으며, 한번의 작업을 최대 8시간 동안 지속적",
+          "summary": "지푸 AI가 장시간 자율적으로 문제를 해결하는 차세대 모델 ‘GLM-5.1’을 공개했다. 단순한 응답을 넘어 수백번의 반복 작업과 수천번의 도구 호출을 통해 스스로 성능을 개선하는 능력을 갖췄다.지푸는 7일(현지시간) 인간 개입 없이 장기 작업을 수행하는 차세대 모델 ‘GLM-5.1’을 공개했다.수정 및 상업적 활용이 가능한 오픈소스 모델로, 허깅페이스와 모델스코프에서 모델 가중치를 다운로드할 수 있다. GLM-5.1은 약 7540억개의 매개변수를 갖춘 전문가 혼합(MoE) 구조로 설계됐으며, 한번의 작업을 최대 8시간 동안 지속적"
+        },
+        {
+          "title": "깃허브, 에이전트 접속 폭증으로 트래픽 급증·서비스 중단 사태 발생",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208951",
+          "date": "2026-04-08",
+          "source": "AI타임스",
+          "description": "AI 코딩 에이전트의 빠른 확산으로 마이크로소프트(MS)의 개발 플랫폼 깃허브에는 AI가 생성한 코드가 급증하고 있으며, 이에 따라 전례 없는 수준의 트래픽 증가가 발생하는 것으로 알려졌다.7일(현지시간) 디 인포메이션에 따르면, 깃허브에서 지난해 연간 ‘커밋(commit)’ 수가 처음으로 10억건을 돌파한 데 이어 현재는 주당 2억7500만건 수준까지 급증했다.이 추세라면 올해 전체 커밋 수는 140억건에 이를 것으로 전망되며, 이는 전년 대비 약 14배 증가한 수치다.이 같은 폭발적 성장의 배경으로는 AI 코딩 에이전트가 꼽힌다",
+          "image": "https://cdn.aitimes.com/news/photo/202604/208951_211287_169.jpg",
+          "is_english": false,
+          "original_title": "깃허브, 에이전트 접속 폭증으로 트래픽 급증·서비스 중단 사태 발생",
+          "original_summary": "AI 코딩 에이전트의 빠른 확산으로 마이크로소프트(MS)의 개발 플랫폼 깃허브에는 AI가 생성한 코드가 급증하고 있으며, 이에 따라 전례 없는 수준의 트래픽 증가가 발생하는 것으로 알려졌다.7일(현지시간) 디 인포메이션에 따르면, 깃허브에서 지난해 연간 ‘커밋(commit)’ 수가 처음으로 10억건을 돌파한 데 이어 현재는 주당 2억7500만건 수준까지 급증했다.이 추세라면 올해 전체 커밋 수는 140억건에 이를 것으로 전망되며, 이는 전년 대비 약 14배 증가한 수치다.이 같은 폭발적 성장의 배경으로는 AI 코딩 에이전트가 꼽힌다",
+          "summary": "AI 코딩 에이전트의 빠른 확산으로 마이크로소프트(MS)의 개발 플랫폼 깃허브에는 AI가 생성한 코드가 급증하고 있으며, 이에 따라 전례 없는 수준의 트래픽 증가가 발생하는 것으로 알려졌다.7일(현지시간) 디 인포메이션에 따르면, 깃허브에서 지난해 연간 ‘커밋(commit)’ 수가 처음으로 10억건을 돌파한 데 이어 현재는 주당 2억7500만건 수준까지 급증했다.이 추세라면 올해 전체 커밋 수는 140억건에 이를 것으로 전망되며, 이는 전년 대비 약 14배 증가한 수치다.이 같은 폭발적 성장의 배경으로는 AI 코딩 에이전트가 꼽힌다"
+        },
+        {
+          "title": "메타, 스마트폰용 소형 비전 인코더 'EUPE' 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208966",
+          "date": "2026-04-08",
+          "source": "AI타임스",
+          "description": "메타가 스마트폰과 같은 엣지 디바이스에서도 다양한 시각 AI 작업을 동시에 처리할 수 있는 새로운 모델 구조를 제안했다. 메타 연구진은 6일(현지시간) 크기가 크지 않아도 다양한 비전 작업을 동시에 처리할 수 있는 소형 비전 인코더 ‘EUPE(Efficient Universal Perception Encoder)’를 온라인 아카이브에 공개했다.현재 대부분의 최신 비전 인코더는 높은 성능을 위해 대규모 매개변수가 필요하다. 그러나 이를 스마트폰이나 증강현실(AR) 기기와 같은 제한된 환경에 맞게 축소할 경우 성능이 크게 저하되는 문제",
+          "image": "https://cdn.aitimes.com/news/photo/202604/208966_211304_362.png",
+          "is_english": false,
+          "original_title": "메타, 스마트폰용 소형 비전 인코더 'EUPE' 출시",
+          "original_summary": "메타가 스마트폰과 같은 엣지 디바이스에서도 다양한 시각 AI 작업을 동시에 처리할 수 있는 새로운 모델 구조를 제안했다. 메타 연구진은 6일(현지시간) 크기가 크지 않아도 다양한 비전 작업을 동시에 처리할 수 있는 소형 비전 인코더 ‘EUPE(Efficient Universal Perception Encoder)’를 온라인 아카이브에 공개했다.현재 대부분의 최신 비전 인코더는 높은 성능을 위해 대규모 매개변수가 필요하다. 그러나 이를 스마트폰이나 증강현실(AR) 기기와 같은 제한된 환경에 맞게 축소할 경우 성능이 크게 저하되는 문제",
+          "summary": "메타가 스마트폰과 같은 엣지 디바이스에서도 다양한 시각 AI 작업을 동시에 처리할 수 있는 새로운 모델 구조를 제안했다. 메타 연구진은 6일(현지시간) 크기가 크지 않아도 다양한 비전 작업을 동시에 처리할 수 있는 소형 비전 인코더 ‘EUPE(Efficient Universal Perception Encoder)’를 온라인 아카이브에 공개했다.현재 대부분의 최신 비전 인코더는 높은 성능을 위해 대규모 매개변수가 필요하다. 그러나 이를 스마트폰이나 증강현실(AR) 기기와 같은 제한된 환경에 맞게 축소할 경우 성능이 크게 저하되는 문제"
+        },
+        {
+          "title": "Introducing the Child Safety Blueprint",
+          "link": "https://openai.com/index/introducing-child-safety-blueprint",
+          "date": "2026-04-08",
+          "source": "OpenAI",
+          "description": "Discover OpenAI’s Child Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Introducing the Child Safety Blueprint",
+          "original_summary": "Discover OpenAI’s Child Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online.",
+          "summary": "Discover OpenAI’s Child Safety Blueprint—a roadmap for building AI responsibly with safeguards, age-appropriate design, and collaboration to protect and empower young people online."
+        },
+        {
+          "title": "Uber Expands AWS Partnership to Build AI Capabilities",
+          "link": "https://aibusiness.com/generative-ai/uber-expands-aws-partnership-build-ai-capabilities",
+          "date": "2026-04-08",
+          "source": "AI Business",
+          "description": "Uber is tapping AWS’ AI chips to improve real-time operations and AI model development.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt235e2aff8b62f66e/69d64ef26975f637689eb209/Uber.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Uber Expands AWS Partnership to Build AI Capabilities",
+          "original_summary": "Uber is tapping AWS’ AI chips to improve real-time operations and AI model development.",
+          "summary": "Uber is tapping AWS’ AI chips to improve real-time operations and AI model development."
+        },
         {
           "title": "이주배경학생 위한 '모두의 한국어' 시스템, 연말 전면 개방",
           "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148962324&call_from=rsslink",
@@ -523,19 +595,6 @@
           "category": "AI Model"
         },
         {
-          "title": "netflix/void-model",
-          "link": "https://huggingface.co/netflix/void-model",
-          "date": "2026-04-08",
-          "source": "HuggingFace",
-          "description": "• void-model 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://colab.research.google.com/assets/colab-badge.svg",
-          "is_english": true,
-          "summary": "• void-model 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "netflix/void-model",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "zai-org/GLM-5.1",
           "link": "https://huggingface.co/zai-org/GLM-5.1",
           "date": "2026-04-08",
@@ -549,15 +608,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-          "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+          "title": "netflix/void-model",
+          "link": "https://huggingface.co/netflix/void-model",
           "date": "2026-04-08",
           "source": "HuggingFace",
-          "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
+          "description": "• void-model 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://colab.research.google.com/assets/colab-badge.svg",
           "is_english": true,
-          "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+          "summary": "• void-model 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "netflix/void-model",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -571,6 +630,19 @@
           "is_english": true,
           "summary": "• gemma-4-26B-A4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "google/gemma-4-26B-A4B-it",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+          "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+          "date": "2026-04-08",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
+          "is_english": true,
+          "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -601,6 +673,19 @@
           "category": "AI Model"
         },
         {
+          "title": "k2-fsa/OmniVoice",
+          "link": "https://huggingface.co/k2-fsa/OmniVoice",
+          "date": "2026-04-08",
+          "source": "HuggingFace",
+          "description": "• OmniVoice 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• OmniVoice 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "k2-fsa/OmniVoice",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "baidu/Qianfan-OCR",
           "link": "https://huggingface.co/baidu/Qianfan-OCR",
           "date": "2026-04-08",
@@ -614,15 +699,15 @@
           "category": "AI Model"
         },
         {
-          "title": "k2-fsa/OmniVoice",
-          "link": "https://huggingface.co/k2-fsa/OmniVoice",
+          "title": "openbmb/VoxCPM2",
+          "link": "https://huggingface.co/openbmb/VoxCPM2",
           "date": "2026-04-08",
           "source": "HuggingFace",
-          "description": "• OmniVoice 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• VoxCPM2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/GitHub-VoxCPM-blue?logo=github",
           "is_english": true,
-          "summary": "• OmniVoice 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "k2-fsa/OmniVoice",
+          "summary": "• VoxCPM2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "openbmb/VoxCPM2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -649,19 +734,6 @@
           "is_english": true,
           "summary": "• gemma-4-26B-A4B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/gemma-4-26B-A4B-it-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "openbmb/VoxCPM2",
-          "link": "https://huggingface.co/openbmb/VoxCPM2",
-          "date": "2026-04-08",
-          "source": "HuggingFace",
-          "description": "• VoxCPM2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/GitHub-VoxCPM-blue?logo=github",
-          "is_english": true,
-          "summary": "• VoxCPM2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "openbmb/VoxCPM2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -744,15 +816,15 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/gemma-4-E4B-it-GGUF",
-          "link": "https://huggingface.co/unsloth/gemma-4-E4B-it-GGUF",
+          "title": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
+          "link": "https://huggingface.co/HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
           "date": "2026-04-08",
           "source": "HuggingFace",
-          "description": "• gemma-4-E4B-it-GGUF AI 모델 공개\n• HuggingFace에서 트렌딩 중\n• 다운로드 및 상세 정보는 링크에서\n• 최신 오픈소스 AI 기술",
+          "description": "• Gemma-4-E4B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• gemma-4-E4B-it-GGUF AI 모델 공개\n• HuggingFace에서 트렌딩 중\n• 다운로드 및 상세 정보는 링크에서\n• 최신 오픈소스 AI 기술",
-          "translated_title": "unsloth/gemma-4-E4B-it-GGUF",
+          "summary": "• Gemma-4-E4B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
