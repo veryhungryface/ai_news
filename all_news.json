@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-04-09",
-      "update_time": "2026-04-08 19:02:35",
+      "update_time": "2026-04-08 21:34:29",
       "news": [
+        {
+          "title": "키오스크·AI도 자신 있어요…교육부, 성인 문해교육 지원 강화",
+          "link": "https://www.yna.co.kr/view/AKR20260408145900530",
+          "date": "2026-04-09",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 노재현 기자 = 교육부와 국가평생교육진흥원은 올해 성인 문해교육 지원 사업을 확대한다고 9일 밝혔다.",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/04/08/AKR20260408145900530_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "키오스크·AI도 자신 있어요…교육부, 성인 문해교육 지원 강화",
+          "original_summary": "(서울=연합뉴스) 노재현 기자 = 교육부와 국가평생교육진흥원은 올해 성인 문해교육 지원 사업을 확대한다고 9일 밝혔다.",
+          "summary": "(서울=연합뉴스) 노재현 기자 = 교육부와 국가평생교육진흥원은 올해 성인 문해교육 지원 사업을 확대한다고 9일 밝혔다."
+        },
+        {
+          "title": "Meta Releases First Proprietary AI Model: Muse Spark",
+          "link": "https://aibusiness.com/generative-ai/meta-releases-first-proprietary-ai-model-muse-spark",
+          "date": "2026-04-09",
+          "source": "AI Business",
+          "description": "The model is intended for personal AI use, and the vendor admits it is limited in certain agentic capabilities and coding.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt2fd71b0ef0dc1e3f/69d6afa53f6eb1729433b389/Meta.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Meta Releases First Proprietary AI Model: Muse Spark",
+          "original_summary": "The model is intended for personal AI use, and the vendor admits it is limited in certain agentic capabilities and coding.",
+          "summary": "The model is intended for personal AI use, and the vendor admits it is limited in certain agentic capabilities and coding."
+        },
         {
           "title": "Anthropic’s Project Glasswing May Not Be Enough to Prevent Model Abuse",
           "link": "https://aibusiness.com/generative-ai/anthropic-s-project-glasswing-not-enough-to-prevent-model-abuse",
@@ -160,19 +184,6 @@
           "category": "AI Model"
         },
         {
-          "title": "prism-ml/Bonsai-8B-gguf",
-          "link": "https://huggingface.co/prism-ml/Bonsai-8B-gguf",
-          "date": "2026-04-09",
-          "source": "HuggingFace",
-          "description": "• Bonsai-8B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/prism-ml/Bonsai-8B-gguf/resolve/main/./assets/bonsai-logo.svg",
-          "is_english": true,
-          "summary": "• Bonsai-8B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "prism-ml/Bonsai-8B-gguf",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/gemma-4-26B-A4B-it-GGUF",
           "link": "https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF",
           "date": "2026-04-09",
@@ -182,6 +193,19 @@
           "is_english": true,
           "summary": "• gemma-4-26B-A4B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/gemma-4-26B-A4B-it-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "prism-ml/Bonsai-8B-gguf",
+          "link": "https://huggingface.co/prism-ml/Bonsai-8B-gguf",
+          "date": "2026-04-09",
+          "source": "HuggingFace",
+          "description": "• Bonsai-8B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/prism-ml/Bonsai-8B-gguf/resolve/main/./assets/bonsai-logo.svg",
+          "is_english": true,
+          "summary": "• Bonsai-8B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "prism-ml/Bonsai-8B-gguf",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -264,15 +288,15 @@
           "category": "AI Model"
         },
         {
-          "title": "google/gemma-4-26B-A4B",
-          "link": "https://huggingface.co/google/gemma-4-26B-A4B",
+          "title": "unsloth/gemma-4-E4B-it-GGUF",
+          "link": "https://huggingface.co/unsloth/gemma-4-E4B-it-GGUF",
           "date": "2026-04-09",
           "source": "HuggingFace",
-          "description": "• gemma-4-26B-A4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "description": "• gemma-4-E4B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
           "is_english": true,
-          "summary": "• gemma-4-26B-A4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/gemma-4-26B-A4B",
+          "summary": "• gemma-4-E4B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/gemma-4-E4B-it-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -280,8 +304,44 @@
     },
     {
       "date": "2026-04-08",
-      "update_time": "2026-04-08 19:02:35",
+      "update_time": "2026-04-08 21:34:27",
       "news": [
+        {
+          "title": "The next phase of enterprise AI",
+          "link": "https://openai.com/index/next-phase-of-enterprise-ai",
+          "date": "2026-04-08",
+          "source": "OpenAI",
+          "description": "OpenAI outlines the next phase of enterprise AI, as adoption accelerates across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI agents.",
+          "image": null,
+          "is_english": true,
+          "original_title": "The next phase of enterprise AI",
+          "original_summary": "OpenAI outlines the next phase of enterprise AI, as adoption accelerates across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI agents.",
+          "summary": "OpenAI outlines the next phase of enterprise AI, as adoption accelerates across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI agents."
+        },
+        {
+          "title": "Poke makes AI agents as easy as sending a text",
+          "link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
+          "date": "2026-04-08",
+          "source": "TechCrunch",
+          "description": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/Poke-at-3.57.33-PM.jpg?resize=1200,604",
+          "is_english": true,
+          "original_title": "Poke makes AI agents as easy as sending a text",
+          "original_summary": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
+          "summary": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how."
+        },
+        {
+          "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
+          "link": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
+          "date": "2026-04-08",
+          "source": "TechCrunch",
+          "description": "AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2179195367.jpg?resize=1200,746",
+          "is_english": true,
+          "original_title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
+          "original_summary": "AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners. ",
+          "summary": "AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners. "
+        },
         {
           "title": "Tubi is the first streamer to launch a native app within ChatGPT",
           "link": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
