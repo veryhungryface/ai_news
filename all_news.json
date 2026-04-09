@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-04-10",
-      "update_time": "2026-04-09 18:50:00",
+      "update_time": "2026-04-09 21:38:42",
       "news": [
         {
           "title": "Meta, CoreWeave In $21B Deal to Expand AI Partnership",
@@ -95,19 +95,6 @@
           "category": "AI Model"
         },
         {
-          "title": "google/gemma-4-E4B-it",
-          "link": "https://huggingface.co/google/gemma-4-E4B-it",
-          "date": "2026-04-10",
-          "source": "HuggingFace",
-          "description": "• gemma-4-E4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• gemma-4-E4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/gemma-4-E4B-it",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
           "date": "2026-04-10",
@@ -117,6 +104,19 @@
           "is_english": true,
           "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "google/gemma-4-E4B-it",
+          "link": "https://huggingface.co/google/gemma-4-E4B-it",
+          "date": "2026-04-10",
+          "source": "HuggingFace",
+          "description": "• gemma-4-E4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• gemma-4-E4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/gemma-4-E4B-it",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -147,19 +147,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/gemma-4-26B-A4B-it-GGUF",
-          "link": "https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF",
-          "date": "2026-04-10",
-          "source": "HuggingFace",
-          "description": "• gemma-4-26B-A4B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
-          "is_english": true,
-          "summary": "• gemma-4-26B-A4B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/gemma-4-26B-A4B-it-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nvidia/Gemma-4-31B-IT-NVFP4",
           "link": "https://huggingface.co/nvidia/Gemma-4-31B-IT-NVFP4",
           "date": "2026-04-10",
@@ -169,6 +156,19 @@
           "is_english": true,
           "summary": "• Gemma-4-31B-IT-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nvidia/Gemma-4-31B-IT-NVFP4",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/gemma-4-26B-A4B-it-GGUF",
+          "link": "https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF",
+          "date": "2026-04-10",
+          "source": "HuggingFace",
+          "description": "• gemma-4-26B-A4B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "is_english": true,
+          "summary": "• gemma-4-26B-A4B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/gemma-4-26B-A4B-it-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -186,19 +186,6 @@
           "category": "AI Model"
         },
         {
-          "title": "prism-ml/Bonsai-8B-gguf",
-          "link": "https://huggingface.co/prism-ml/Bonsai-8B-gguf",
-          "date": "2026-04-10",
-          "source": "HuggingFace",
-          "description": "• Bonsai-8B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/prism-ml/Bonsai-8B-gguf/resolve/main/./assets/bonsai-logo.svg",
-          "is_english": true,
-          "summary": "• Bonsai-8B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "prism-ml/Bonsai-8B-gguf",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "tencent/HY-OmniWeaving",
           "link": "https://huggingface.co/tencent/HY-OmniWeaving",
           "date": "2026-04-10",
@@ -208,6 +195,19 @@
           "is_english": true,
           "summary": "• HY-OmniWeaving 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "tencent/HY-OmniWeaving",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "prism-ml/Bonsai-8B-gguf",
+          "link": "https://huggingface.co/prism-ml/Bonsai-8B-gguf",
+          "date": "2026-04-10",
+          "source": "HuggingFace",
+          "description": "• Bonsai-8B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/prism-ml/Bonsai-8B-gguf/resolve/main/./assets/bonsai-logo.svg",
+          "is_english": true,
+          "summary": "• Bonsai-8B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "prism-ml/Bonsai-8B-gguf",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -251,19 +251,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/gemma-4-E4B-it-GGUF",
-          "link": "https://huggingface.co/unsloth/gemma-4-E4B-it-GGUF",
-          "date": "2026-04-10",
-          "source": "HuggingFace",
-          "description": "• gemma-4-E4B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
-          "is_english": true,
-          "summary": "• gemma-4-E4B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/gemma-4-E4B-it-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Jackrong/Qwopus3.5-27B-v3-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwopus3.5-27B-v3-GGUF",
           "date": "2026-04-10",
@@ -275,13 +262,86 @@
           "translated_title": "Jackrong/Qwopus3.5-27B-v3-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "unsloth/gemma-4-E4B-it-GGUF",
+          "link": "https://huggingface.co/unsloth/gemma-4-E4B-it-GGUF",
+          "date": "2026-04-10",
+          "source": "HuggingFace",
+          "description": "• gemma-4-E4B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "is_english": true,
+          "summary": "• gemma-4-E4B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/gemma-4-E4B-it-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-04-09",
-      "update_time": "2026-04-09 18:49:59",
+      "update_time": "2026-04-09 21:38:42",
       "news": [
+        {
+          "title": "ChatGPT finally offers $100/month Pro plan",
+          "link": "https://techcrunch.com/2026/04/09/chatgpt-pro-plan-100-month-codex/",
+          "date": "2026-04-09",
+          "source": "TechCrunch",
+          "description": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously subscriptions jumped from $20 to $200 per month.",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1574154948-e1695647511123.jpg?resize=1200,676",
+          "is_english": true,
+          "original_title": "ChatGPT finally offers $100/month Pro plan",
+          "original_summary": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously subscriptions jumped from $20 to $200 per month.",
+          "summary": "OpenAI announced on Thursday something that power users have been asking for: a $100/month plan. Previously subscriptions jumped from $20 to $200 per month."
+        },
+        {
+          "title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+          "link": "https://techcrunch.com/2026/04/09/florida-ag-investigation-openai-chatgpt-shooting/",
+          "date": "2026-04-09",
+          "source": "TechCrunch",
+          "description": "ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the incident.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/EU-ai-1258475609.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Florida AG announces investigation into OpenAI over shooting that allegedly involved ChatGPT",
+          "original_summary": "ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the incident.",
+          "summary": "ChatGPT had reportedly been used to plan the attack that killed two and injured five at Florida State University last April. The family of one victim has said that they plan to sue OpenAI over the incident."
+        },
+        {
+          "title": "After data breach, $10B-valued startup Mercor is having a month",
+          "link": "https://techcrunch.com/2026/04/09/after-data-breach-10b-valued-startup-mercor-is-having-a-month/",
+          "date": "2026-04-09",
+          "source": "TechCrunch",
+          "description": "After falling victim to a hacker, Mercor is facing lawsuits and reportedly losing big-name customers.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/10/54888410931_c37fed4674_k.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "After data breach, $10B-valued startup Mercor is having a month",
+          "original_summary": "After falling victim to a hacker, Mercor is facing lawsuits and reportedly losing big-name customers.",
+          "summary": "After falling victim to a hacker, Mercor is facing lawsuits and reportedly losing big-name customers."
+        },
+        {
+          "title": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
+          "link": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
+          "date": "2026-04-09",
+          "source": "TechCrunch",
+          "description": "The app was ranking No. 57 on the App Store just before Meta AI's new model launched. Now it's No. 5 — and rising. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195497483.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
+          "original_summary": "The app was ranking No. 57 on the App Store just before Meta AI's new model launched. Now it's No. 5 — and rising. ",
+          "summary": "The app was ranking No. 57 on the App Store just before Meta AI's new model launched. Now it's No. 5 — and rising. "
+        },
+        {
+          "title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?",
+          "link": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
+          "date": "2026-04-09",
+          "source": "TechCrunch",
+          "description": "Anthropic said this week that it limited the release of its newest model, dubbed Mythos, because it is too capable of finding security exploits in software relied upon by users around the world. Are real cybersecurity concerns a cover for a bigger problem at the frontier lab?",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/02/Anthropic-Dario-Amodei.jpeg?w=1182",
+          "is_english": true,
+          "original_title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?",
+          "original_summary": "Anthropic said this week that it limited the release of its newest model, dubbed Mythos, because it is too capable of finding security exploits in software relied upon by users around the world. Are real cybersecurity concerns a cover for a bigger problem at the frontier lab?",
+          "summary": "Anthropic said this week that it limited the release of its newest model, dubbed Mythos, because it is too capable of finding security exploits in software relied upon by users around the world. Are real cybersecurity concerns a cover for a bigger problem at the frontier lab?"
+        },
         {
           "title": "Google and Intel deepen AI infrastructure partnership",
           "link": "https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/",
