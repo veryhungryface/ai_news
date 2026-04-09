@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-04-10",
-      "update_time": "2026-04-09 16:12:57",
+      "update_time": "2026-04-09 18:50:00",
       "news": [
+        {
+          "title": "Meta, CoreWeave In $21B Deal to Expand AI Partnership",
+          "link": "https://aibusiness.com/generative-ai/meta-coreweave-21b-deal-expand-ai-partnership",
+          "date": "2026-04-10",
+          "source": "AI Business",
+          "description": "",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blta5527454bd37ae3b/69d7d43c9f25ea6b01d525d7/CoreWeave.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Meta, CoreWeave In $21B Deal to Expand AI Partnership",
+          "original_summary": "",
+          "summary": ""
+        },
         {
           "title": "google/gemma-4-31B-it",
           "link": "https://huggingface.co/google/gemma-4-31B-it",
@@ -122,32 +134,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/gemma-4-26B-A4B-it-GGUF",
-          "link": "https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF",
-          "date": "2026-04-10",
-          "source": "HuggingFace",
-          "description": "• gemma-4-26B-A4B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
-          "is_english": true,
-          "summary": "• gemma-4-26B-A4B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/gemma-4-26B-A4B-it-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "google/gemma-4-E2B-it",
-          "link": "https://huggingface.co/google/gemma-4-E2B-it",
-          "date": "2026-04-10",
-          "source": "HuggingFace",
-          "description": "• gemma-4-E2B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
-          "is_english": true,
-          "summary": "• gemma-4-E2B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/gemma-4-E2B-it",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "baidu/Qianfan-OCR",
           "link": "https://huggingface.co/baidu/Qianfan-OCR",
           "date": "2026-04-10",
@@ -157,6 +143,19 @@
           "is_english": true,
           "summary": "• Qianfan-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "baidu/Qianfan-OCR",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/gemma-4-26B-A4B-it-GGUF",
+          "link": "https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF",
+          "date": "2026-04-10",
+          "source": "HuggingFace",
+          "description": "• gemma-4-26B-A4B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "is_english": true,
+          "summary": "• gemma-4-26B-A4B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/gemma-4-26B-A4B-it-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -174,15 +173,15 @@
           "category": "AI Model"
         },
         {
-          "title": "google/gemma-4-31B",
-          "link": "https://huggingface.co/google/gemma-4-31B",
+          "title": "google/gemma-4-E2B-it",
+          "link": "https://huggingface.co/google/gemma-4-E2B-it",
           "date": "2026-04-10",
           "source": "HuggingFace",
-          "description": "• gemma-4-31B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• gemma-4-E2B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
           "is_english": true,
-          "summary": "• gemma-4-31B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/gemma-4-31B",
+          "summary": "• gemma-4-E2B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/gemma-4-E2B-it",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -196,19 +195,6 @@
           "is_english": true,
           "summary": "• Bonsai-8B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "prism-ml/Bonsai-8B-gguf",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "unsloth/gemma-4-31B-it-GGUF",
-          "link": "https://huggingface.co/unsloth/gemma-4-31B-it-GGUF",
-          "date": "2026-04-10",
-          "source": "HuggingFace",
-          "description": "• gemma-4-31B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
-          "is_english": true,
-          "summary": "• gemma-4-31B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/gemma-4-31B-it-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -235,6 +221,32 @@
           "is_english": true,
           "summary": "• Gemma-4-E4B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/gemma-4-31B-it-GGUF",
+          "link": "https://huggingface.co/unsloth/gemma-4-31B-it-GGUF",
+          "date": "2026-04-10",
+          "source": "HuggingFace",
+          "description": "• gemma-4-31B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "is_english": true,
+          "summary": "• gemma-4-31B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/gemma-4-31B-it-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "google/gemma-4-31B",
+          "link": "https://huggingface.co/google/gemma-4-31B",
+          "date": "2026-04-10",
+          "source": "HuggingFace",
+          "description": "• gemma-4-31B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• gemma-4-31B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/gemma-4-31B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +280,44 @@
     },
     {
       "date": "2026-04-09",
-      "update_time": "2026-04-09 16:12:57",
+      "update_time": "2026-04-09 18:49:59",
       "news": [
+        {
+          "title": "Google and Intel deepen AI infrastructure partnership",
+          "link": "https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/",
+          "date": "2026-04-09",
+          "source": "TechCrunch",
+          "description": "The two tech giants are looking to co-develop custom chips, at a time where demand for CPUs is high due to a growing global shortage. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-1709348485.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Google and Intel deepen AI infrastructure partnership",
+          "original_summary": "The two tech giants are looking to co-develop custom chips, at a time where demand for CPUs is high due to a growing global shortage. ",
+          "summary": "The two tech giants are looking to co-develop custom chips, at a time where demand for CPUs is high due to a growing global shortage. "
+        },
+        {
+          "title": "Sierra’s Bret Taylor says the era of clicking buttons is over",
+          "link": "https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/",
+          "date": "2026-04-09",
+          "source": "TechCrunch",
+          "description": "Co-founder of Sierra predicts that AI agents will make software interfaces obsolete. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2022/10/AP22166762816752.jpg?w=1200",
+          "is_english": true,
+          "original_title": "Sierra’s Bret Taylor says the era of clicking buttons is over",
+          "original_summary": "Co-founder of Sierra predicts that AI agents will make software interfaces obsolete. ",
+          "summary": "Co-founder of Sierra predicts that AI agents will make software interfaces obsolete. "
+        },
+        {
+          "title": "A philosophy of work",
+          "link": "https://news.mit.edu/2026/philosophy-work-michal-masny-0409",
+          "date": "2026-04-09",
+          "source": "MIT News",
+          "description": "As the NC Ethics of Technology Postdoctoral Fellow, Michal Masny is advancing dialogue, teaching, and research into the social and ethical dimensions of new computing technologies.",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202603/mit-philosophy-Michal-Masny.jpg?itok=W40Yn7Ni",
+          "is_english": true,
+          "original_title": "A philosophy of work",
+          "original_summary": "As the NC Ethics of Technology Postdoctoral Fellow, Michal Masny is advancing dialogue, teaching, and research into the social and ethical dimensions of new computing technologies.",
+          "summary": "As the NC Ethics of Technology Postdoctoral Fellow, Michal Masny is advancing dialogue, teaching, and research into the social and ethical dimensions of new computing technologies."
+        },
         {
           "title": "Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter",
           "link": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/",
@@ -7525,7 +7573,7 @@
         {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-          "date": "2026-04-01",
+          "date": "2026-04-10",
           "source": "HuggingFace",
           "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
@@ -7564,7 +7612,7 @@
         {
           "title": "baidu/Qianfan-OCR",
           "link": "https://huggingface.co/baidu/Qianfan-OCR",
-          "date": "2026-04-01",
+          "date": "2026-04-10",
           "source": "HuggingFace",
           "description": "• Qianfan-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
