@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-04-11",
-      "update_time": "2026-04-10 18:39:59",
+      "update_time": "2026-04-10 21:28:17",
       "news": [
         {
           "title": "Anthropic’s Glasswing Highlights AI’s Security Paradox",
@@ -292,8 +292,20 @@
     },
     {
       "date": "2026-04-10",
-      "update_time": "2026-04-10 18:39:59",
+      "update_time": "2026-04-10 21:28:16",
       "news": [
+        {
+          "title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
+          "link": "https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/",
+          "date": "2026-04-10",
+          "source": "TechCrunch",
+          "description": "This ban took place after Claude's pricing changed for OpenClaw users last week.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/ChatGPT-OpenClaw-Claude.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Anthropic temporarily banned OpenClaw’s creator from accessing Claude",
+          "original_summary": "This ban took place after Claude's pricing changed for OpenClaw users last week.",
+          "summary": "This ban took place after Claude's pricing changed for OpenClaw users last week."
+        },
         {
           "title": "Financial services",
           "link": "https://openai.com/academy/financial-services",
