@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-04-11",
-      "update_time": "2026-04-11 04:49:03",
+      "update_time": "2026-04-11 06:49:30",
       "news": [
         {
           "title": "전남, ‘정착에서 창업까지’...전남형 청년마을 3개소 공모",
@@ -306,19 +306,6 @@
           "category": "AI Model"
         },
         {
-          "title": "google/gemma-4-E2B-it",
-          "link": "https://huggingface.co/google/gemma-4-E2B-it",
-          "date": "2026-04-11",
-          "source": "HuggingFace",
-          "description": "• gemma-4-E2B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
-          "is_english": true,
-          "summary": "• gemma-4-E2B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/gemma-4-E2B-it",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "prism-ml/Bonsai-8B-gguf",
           "link": "https://huggingface.co/prism-ml/Bonsai-8B-gguf",
           "date": "2026-04-11",
@@ -328,6 +315,19 @@
           "is_english": true,
           "summary": "• Bonsai-8B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "prism-ml/Bonsai-8B-gguf",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "google/gemma-4-E2B-it",
+          "link": "https://huggingface.co/google/gemma-4-E2B-it",
+          "date": "2026-04-11",
+          "source": "HuggingFace",
+          "description": "• gemma-4-E2B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• gemma-4-E2B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/gemma-4-E2B-it",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
