@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-04-12",
-      "update_time": "2026-04-11 15:24:13",
+      "update_time": "2026-04-11 18:29:46",
       "news": [
         {
           "title": "zai-org/GLM-5.1",
@@ -135,19 +135,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/Gemma-4-31B-IT-NVFP4",
-          "link": "https://huggingface.co/nvidia/Gemma-4-31B-IT-NVFP4",
-          "date": "2026-04-12",
-          "source": "HuggingFace",
-          "description": "• Gemma-4-31B-IT-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Gemma-4-31B-IT-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/Gemma-4-31B-IT-NVFP4",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/gemma-4-26B-A4B-it-GGUF",
           "link": "https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF",
           "date": "2026-04-12",
@@ -157,6 +144,19 @@
           "is_english": true,
           "summary": "• gemma-4-26B-A4B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/gemma-4-26B-A4B-it-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/Gemma-4-31B-IT-NVFP4",
+          "link": "https://huggingface.co/nvidia/Gemma-4-31B-IT-NVFP4",
+          "date": "2026-04-12",
+          "source": "HuggingFace",
+          "description": "• Gemma-4-31B-IT-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Gemma-4-31B-IT-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/Gemma-4-31B-IT-NVFP4",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -213,15 +213,15 @@
           "category": "AI Model"
         },
         {
-          "title": "kai-os/Carnice-9b",
-          "link": "https://huggingface.co/kai-os/Carnice-9b",
+          "title": "LilaRest/gemma-4-31B-it-NVFP4-turbo",
+          "link": "https://huggingface.co/LilaRest/gemma-4-31B-it-NVFP4-turbo",
           "date": "2026-04-12",
           "source": "HuggingFace",
-          "description": "• Carnice-9b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/kai-os/Carnice-9b/resolve/main/./banner.png",
+          "description": "• gemma-4-31B-it-NVFP4-turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/LilaRest/gemma-4-31B-it-NVFP4-turbo/resolve/main/bench/chart/benchmark.png",
           "is_english": true,
-          "summary": "• Carnice-9b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "kai-os/Carnice-9b",
+          "summary": "• gemma-4-31B-it-NVFP4-turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "LilaRest/gemma-4-31B-it-NVFP4-turbo",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -252,15 +252,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Jackrong/Qwopus3.5-27B-v3-GGUF",
-          "link": "https://huggingface.co/Jackrong/Qwopus3.5-27B-v3-GGUF",
+          "title": "kai-os/Carnice-9b",
+          "link": "https://huggingface.co/kai-os/Carnice-9b",
           "date": "2026-04-12",
           "source": "HuggingFace",
-          "description": "• Qwopus3.5-27B-v3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• Carnice-9b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/kai-os/Carnice-9b/resolve/main/./banner.png",
           "is_english": true,
-          "summary": "• Qwopus3.5-27B-v3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jackrong/Qwopus3.5-27B-v3-GGUF",
+          "summary": "• Carnice-9b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "kai-os/Carnice-9b",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -268,8 +268,20 @@
     },
     {
       "date": "2026-04-11",
-      "update_time": "2026-04-11 12:34:57",
+      "update_time": "2026-04-11 18:29:44",
       "news": [
+        {
+          "title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
+          "link": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+          "date": "2026-04-11",
+          "source": "TechCrunch",
+          "description": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Sam Altman responds to ‘incendiary’ New Yorker article after attack on his home",
+          "original_summary": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness.",
+          "summary": "The OpenAI CEO's new blog post responds to both an apparent attack on his home and an in-depth New Yorker profile raising questions about his trustworthiness."
+        },
         {
           "title": "최첨단 모델들이 '프리미어 리그'에 베팅했더니...\"코딩은 잘하지만, 파산은 못 피해\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=209118",
@@ -7273,7 +7285,7 @@
         {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-          "date": "2026-04-03",
+          "date": "2026-04-12",
           "source": "HuggingFace",
           "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
@@ -7312,7 +7324,7 @@
         {
           "title": "baidu/Qianfan-OCR",
           "link": "https://huggingface.co/baidu/Qianfan-OCR",
-          "date": "2026-04-03",
+          "date": "2026-04-12",
           "source": "HuggingFace",
           "description": "• Qianfan-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -7338,7 +7350,7 @@
         {
           "title": "prism-ml/Bonsai-8B-gguf",
           "link": "https://huggingface.co/prism-ml/Bonsai-8B-gguf",
-          "date": "2026-04-03",
+          "date": "2026-04-12",
           "source": "HuggingFace",
           "description": "• Bonsai-8B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/prism-ml/Bonsai-8B-gguf/resolve/main/./assets/bonsai-logo.svg",
@@ -7364,7 +7376,7 @@
         {
           "title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-04-03",
+          "date": "2026-04-12",
           "source": "HuggingFace",
           "description": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
