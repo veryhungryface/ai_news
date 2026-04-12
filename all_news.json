@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-04-12",
-      "update_time": "2026-04-11 21:23:53",
+      "update_time": "2026-04-12 01:27:18",
       "news": [
+        {
+          "title": "대구시, 임상데이터 활용 AI 의료기기 산업 키운다",
+          "link": "https://www.yna.co.kr/view/AKR20260412017700053",
+          "date": "2026-04-12",
+          "source": "연합뉴스",
+          "description": "(대구=연합뉴스) 이승형 기자 = 대구시는 인공지능(AI) 의료기기 기업 성장을 돕고 의료산업 경쟁력을 높이기 위해 거점병원 임상데이터를 활용하...",
+          "image": "https://img.yna.co.kr/photo/cms/2024/12/12/44/PCM20241212000444053_P2.jpg",
+          "is_english": false,
+          "original_title": "대구시, 임상데이터 활용 AI 의료기기 산업 키운다",
+          "original_summary": "(대구=연합뉴스) 이승형 기자 = 대구시는 인공지능(AI) 의료기기 기업 성장을 돕고 의료산업 경쟁력을 높이기 위해 거점병원 임상데이터를 활용하...",
+          "summary": "(대구=연합뉴스) 이승형 기자 = 대구시는 인공지능(AI) 의료기기 기업 성장을 돕고 의료산업 경쟁력을 높이기 위해 거점병원 임상데이터를 활용하..."
+        },
         {
           "title": "zai-org/GLM-5.1",
           "link": "https://huggingface.co/zai-org/GLM-5.1",
@@ -122,19 +134,6 @@
           "category": "AI Model"
         },
         {
-          "title": "baidu/Qianfan-OCR",
-          "link": "https://huggingface.co/baidu/Qianfan-OCR",
-          "date": "2026-04-12",
-          "source": "HuggingFace",
-          "description": "• Qianfan-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qianfan-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "baidu/Qianfan-OCR",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/gemma-4-26B-A4B-it-GGUF",
           "link": "https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF",
           "date": "2026-04-12",
@@ -174,19 +173,6 @@
           "category": "AI Model"
         },
         {
-          "title": "prism-ml/Bonsai-8B-gguf",
-          "link": "https://huggingface.co/prism-ml/Bonsai-8B-gguf",
-          "date": "2026-04-12",
-          "source": "HuggingFace",
-          "description": "• Bonsai-8B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/prism-ml/Bonsai-8B-gguf/resolve/main/./assets/bonsai-logo.svg",
-          "is_english": true,
-          "summary": "• Bonsai-8B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "prism-ml/Bonsai-8B-gguf",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "google/gemma-4-E2B-it",
           "link": "https://huggingface.co/google/gemma-4-E2B-it",
           "date": "2026-04-12",
@@ -200,15 +186,28 @@
           "category": "AI Model"
         },
         {
-          "title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
-          "link": "https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+          "title": "baidu/Qianfan-OCR",
+          "link": "https://huggingface.co/baidu/Qianfan-OCR",
           "date": "2026-04-12",
           "source": "HuggingFace",
-          "description": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "description": "• Qianfan-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
           "is_english": true,
-          "summary": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+          "summary": "• Qianfan-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "baidu/Qianfan-OCR",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "prism-ml/Bonsai-8B-gguf",
+          "link": "https://huggingface.co/prism-ml/Bonsai-8B-gguf",
+          "date": "2026-04-12",
+          "source": "HuggingFace",
+          "description": "• Bonsai-8B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/prism-ml/Bonsai-8B-gguf/resolve/main/./assets/bonsai-logo.svg",
+          "is_english": true,
+          "summary": "• Bonsai-8B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "prism-ml/Bonsai-8B-gguf",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -222,6 +221,19 @@
           "is_english": true,
           "summary": "• gemma-4-31B-it-NVFP4-turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "LilaRest/gemma-4-31B-it-NVFP4-turbo",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+          "link": "https://huggingface.co/HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
+          "date": "2026-04-12",
+          "source": "HuggingFace",
+          "description": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.5-9B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HauhauCS/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -252,15 +264,15 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/GLM-5.1-GGUF",
-          "link": "https://huggingface.co/unsloth/GLM-5.1-GGUF",
+          "title": "tencent/HY-OmniWeaving",
+          "link": "https://huggingface.co/tencent/HY-OmniWeaving",
           "date": "2026-04-12",
           "source": "HuggingFace",
-          "description": "• GLM-5.1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_51.png",
+          "description": "• HY-OmniWeaving 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/tencent/HY-OmniWeaving/resolve/main/./assets/logo.png",
           "is_english": true,
-          "summary": "• GLM-5.1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/GLM-5.1-GGUF",
+          "summary": "• HY-OmniWeaving 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "tencent/HY-OmniWeaving",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -6074,7 +6086,7 @@
         {
           "title": "tencent/HY-OmniWeaving",
           "link": "https://huggingface.co/tencent/HY-OmniWeaving",
-          "date": "2026-04-11",
+          "date": "2026-04-12",
           "source": "HuggingFace",
           "description": "• HY-OmniWeaving 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/tencent/HY-OmniWeaving/resolve/main/./assets/logo.png",
