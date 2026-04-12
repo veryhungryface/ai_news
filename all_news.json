@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-04-13",
-      "update_time": "2026-04-12 18:33:03",
+      "update_time": "2026-04-12 21:24:55",
       "news": [
         {
           "title": "zai-org/GLM-5.1",
@@ -174,15 +174,15 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/Gemma-4-31B-IT-NVFP4",
-          "link": "https://huggingface.co/nvidia/Gemma-4-31B-IT-NVFP4",
+          "title": "LilaRest/gemma-4-31B-it-NVFP4-turbo",
+          "link": "https://huggingface.co/LilaRest/gemma-4-31B-it-NVFP4-turbo",
           "date": "2026-04-13",
           "source": "HuggingFace",
-          "description": "• Gemma-4-31B-IT-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• gemma-4-31B-it-NVFP4-turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/LilaRest/gemma-4-31B-it-NVFP4-turbo/resolve/main/bench/chart/benchmark.png",
           "is_english": true,
-          "summary": "• Gemma-4-31B-IT-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/Gemma-4-31B-IT-NVFP4",
+          "summary": "• gemma-4-31B-it-NVFP4-turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "LilaRest/gemma-4-31B-it-NVFP4-turbo",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -200,15 +200,15 @@
           "category": "AI Model"
         },
         {
-          "title": "LilaRest/gemma-4-31B-it-NVFP4-turbo",
-          "link": "https://huggingface.co/LilaRest/gemma-4-31B-it-NVFP4-turbo",
+          "title": "nvidia/Gemma-4-31B-IT-NVFP4",
+          "link": "https://huggingface.co/nvidia/Gemma-4-31B-IT-NVFP4",
           "date": "2026-04-13",
           "source": "HuggingFace",
-          "description": "• gemma-4-31B-it-NVFP4-turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/LilaRest/gemma-4-31B-it-NVFP4-turbo/resolve/main/bench/chart/benchmark.png",
+          "description": "• Gemma-4-31B-IT-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• gemma-4-31B-it-NVFP4-turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "LilaRest/gemma-4-31B-it-NVFP4-turbo",
+          "summary": "• Gemma-4-31B-IT-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/Gemma-4-31B-IT-NVFP4",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +268,32 @@
     },
     {
       "date": "2026-04-12",
-      "update_time": "2026-04-12 15:28:13",
+      "update_time": "2026-04-12 21:24:55",
       "news": [
+        {
+          "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
+          "link": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+          "date": "2026-04-12",
+          "source": "TechCrunch",
+          "description": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/anthropic-image-jagmeet-singh-techcrunch.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
+          "original_summary": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
+          "summary": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk."
+        },
+        {
+          "title": "Apple reportedly testing four designs for upcoming smart glasses",
+          "link": "https://techcrunch.com/2026/04/12/apple-reportedly-testing-four-designs-for-upcoming-smart-glasses/",
+          "date": "2026-04-12",
+          "source": "TechCrunch",
+          "description": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2224174932.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Apple reportedly testing four designs for upcoming smart glasses",
+          "original_summary": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices.",
+          "summary": "These glasses are a step back from an ambitious plan that once called for Apple to launch a variety of mixed and augmented reality devices."
+        },
         {
           "title": "[피지컬 AI 2026] 스퀴즈비츠 “에이전트 ‘로부스트’로 데이터 지원”",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=209131",
