@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-04-12",
-      "update_time": "2026-04-12 07:03:23",
+      "update_time": "2026-04-12 09:37:20",
       "news": [
         {
           "title": "서울 청년취업사관학교, AI 교육 '빅테크 캠퍼스' 8개로 확대",
@@ -240,6 +240,19 @@
           "category": "AI Model"
         },
         {
+          "title": "MiniMaxAI/MiniMax-M2.7",
+          "link": "https://huggingface.co/MiniMaxAI/MiniMax-M2.7",
+          "date": "2026-04-12",
+          "source": "HuggingFace",
+          "description": "• MiniMax-M2.7 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• MiniMax-M2.7 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "MiniMaxAI/MiniMax-M2.7",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "google/gemma-4-E4B-it",
           "link": "https://huggingface.co/google/gemma-4-E4B-it",
           "date": "2026-04-12",
@@ -266,19 +279,6 @@
           "category": "AI Model"
         },
         {
-          "title": "MiniMaxAI/MiniMax-M2.7",
-          "link": "https://huggingface.co/MiniMaxAI/MiniMax-M2.7",
-          "date": "2026-04-12",
-          "source": "HuggingFace",
-          "description": "• MiniMax-M2.7 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
-          "is_english": true,
-          "summary": "• MiniMax-M2.7 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "MiniMaxAI/MiniMax-M2.7",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/gemma-4-26B-A4B-it-GGUF",
           "link": "https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF",
           "date": "2026-04-12",
@@ -288,19 +288,6 @@
           "is_english": true,
           "summary": "• gemma-4-26B-A4B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/gemma-4-26B-A4B-it-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "nvidia/Gemma-4-31B-IT-NVFP4",
-          "link": "https://huggingface.co/nvidia/Gemma-4-31B-IT-NVFP4",
-          "date": "2026-04-12",
-          "source": "HuggingFace",
-          "description": "• Gemma-4-31B-IT-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Gemma-4-31B-IT-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/Gemma-4-31B-IT-NVFP4",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -318,15 +305,15 @@
           "category": "AI Model"
         },
         {
-          "title": "google/gemma-4-E2B-it",
-          "link": "https://huggingface.co/google/gemma-4-E2B-it",
+          "title": "nvidia/Gemma-4-31B-IT-NVFP4",
+          "link": "https://huggingface.co/nvidia/Gemma-4-31B-IT-NVFP4",
           "date": "2026-04-12",
           "source": "HuggingFace",
-          "description": "• gemma-4-E2B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "description": "• Gemma-4-31B-IT-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• gemma-4-E2B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/gemma-4-E2B-it",
+          "summary": "• Gemma-4-31B-IT-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/Gemma-4-31B-IT-NVFP4",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -340,6 +327,19 @@
           "is_english": true,
           "summary": "• Qianfan-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "baidu/Qianfan-OCR",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "google/gemma-4-E2B-it",
+          "link": "https://huggingface.co/google/gemma-4-E2B-it",
+          "date": "2026-04-12",
+          "source": "HuggingFace",
+          "description": "• gemma-4-E2B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• gemma-4-E2B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/gemma-4-E2B-it",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -396,15 +396,15 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/gemma-4-31B-it-GGUF",
-          "link": "https://huggingface.co/unsloth/gemma-4-31B-it-GGUF",
+          "title": "unsloth/GLM-5.1-GGUF",
+          "link": "https://huggingface.co/unsloth/GLM-5.1-GGUF",
           "date": "2026-04-12",
           "source": "HuggingFace",
-          "description": "• gemma-4-31B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "description": "• GLM-5.1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_51.png",
           "is_english": true,
-          "summary": "• gemma-4-31B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/gemma-4-31B-it-GGUF",
+          "summary": "• GLM-5.1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/GLM-5.1-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
