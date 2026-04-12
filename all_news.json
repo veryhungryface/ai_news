@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-04-12",
-      "update_time": "2026-04-12 05:16:12",
+      "update_time": "2026-04-12 07:03:23",
       "news": [
         {
           "title": "서울 청년취업사관학교, AI 교육 '빅테크 캠퍼스' 8개로 확대",
@@ -266,6 +266,19 @@
           "category": "AI Model"
         },
         {
+          "title": "MiniMaxAI/MiniMax-M2.7",
+          "link": "https://huggingface.co/MiniMaxAI/MiniMax-M2.7",
+          "date": "2026-04-12",
+          "source": "HuggingFace",
+          "description": "• MiniMax-M2.7 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• MiniMax-M2.7 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "MiniMaxAI/MiniMax-M2.7",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "unsloth/gemma-4-26B-A4B-it-GGUF",
           "link": "https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF",
           "date": "2026-04-12",
@@ -301,19 +314,6 @@
           "is_english": true,
           "summary": "• Gemma-4-E4B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "HauhauCS/Gemma-4-E4B-Uncensored-HauhauCS-Aggressive",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "MiniMaxAI/MiniMax-M2.7",
-          "link": "https://huggingface.co/MiniMaxAI/MiniMax-M2.7",
-          "date": "2026-04-12",
-          "source": "HuggingFace",
-          "description": "• MiniMax-M2.7 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
-          "is_english": true,
-          "summary": "• MiniMax-M2.7 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "MiniMaxAI/MiniMax-M2.7",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
