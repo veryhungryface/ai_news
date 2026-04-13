@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-04-14",
-      "update_time": "2026-04-13 19:01:14",
+      "update_time": "2026-04-13 21:39:08",
       "news": [
+        {
+          "title": "서울시, 전국 최초 '디지털재난 대응체계' 구축",
+          "link": "https://www.yna.co.kr/view/AKR20260413141600004",
+          "date": "2026-04-14",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 정수연 기자 = 서울시는 예방 중심 대응체계로의 전환을 핵심으로 하는 &apos;디지털재난 대응체계&apos;를 전국 최초로 구축했다고 14일 ...",
+          "image": "https://img.yna.co.kr/photo/cms/2025/06/16/03/PCM20250616000103990_P2.jpg",
+          "is_english": false,
+          "original_title": "서울시, 전국 최초 '디지털재난 대응체계' 구축",
+          "original_summary": "(서울=연합뉴스) 정수연 기자 = 서울시는 예방 중심 대응체계로의 전환을 핵심으로 하는 &apos;디지털재난 대응체계&apos;를 전국 최초로 구축했다고 14일 ...",
+          "summary": "(서울=연합뉴스) 정수연 기자 = 서울시는 예방 중심 대응체계로의 전환을 핵심으로 하는 &apos;디지털재난 대응체계&apos;를 전국 최초로 구축했다고 14일 ..."
+        },
         {
           "title": "Kia to Use Robots to Build its Cars and Also in Delivery Vehicles",
           "link": "https://aibusiness.com/automation/kia-use-robots-build-its-cars-also-delivery-vehicles",
@@ -134,19 +146,6 @@
           "category": "AI Model"
         },
         {
-          "title": "google/gemma-4-26B-A4B-it",
-          "link": "https://huggingface.co/google/gemma-4-26B-A4B-it",
-          "date": "2026-04-14",
-          "source": "HuggingFace",
-          "description": "• gemma-4-26B-A4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• gemma-4-26B-A4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/gemma-4-26B-A4B-it",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "LilaRest/gemma-4-31B-it-NVFP4-turbo",
           "link": "https://huggingface.co/LilaRest/gemma-4-31B-it-NVFP4-turbo",
           "date": "2026-04-14",
@@ -156,6 +155,19 @@
           "is_english": true,
           "summary": "• gemma-4-31B-it-NVFP4-turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "LilaRest/gemma-4-31B-it-NVFP4-turbo",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "google/gemma-4-26B-A4B-it",
+          "link": "https://huggingface.co/google/gemma-4-26B-A4B-it",
+          "date": "2026-04-14",
+          "source": "HuggingFace",
+          "description": "• gemma-4-26B-A4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• gemma-4-26B-A4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/gemma-4-26B-A4B-it",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -280,8 +292,20 @@
     },
     {
       "date": "2026-04-13",
-      "update_time": "2026-04-13 19:01:12",
+      "update_time": "2026-04-13 21:39:08",
       "news": [
+        {
+          "title": "Microsoft is working on yet another OpenClaw-like agent",
+          "link": "https://techcrunch.com/2026/04/13/microsoft-is-working-on-yet-another-openclaw-like-agent/",
+          "date": "2026-04-13",
+          "source": "TechCrunch",
+          "description": "The new features would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/Windows-Claw.png?resize=1200,800",
+          "is_english": true,
+          "original_title": "Microsoft is working on yet another OpenClaw-like agent",
+          "original_summary": "The new features would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent.",
+          "summary": "The new features would be geared toward enterprise customers, with better security controls than the famously risky open source OpenClaw agent."
+        },
         {
           "title": "Stanford report highlights growing disconnect between AI insiders and everyone else",
           "link": "https://techcrunch.com/2026/04/13/stanford-report-highlights-growing-disconnect-between-ai-insiders-and-everyone-else/",
