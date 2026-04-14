@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-04-15",
-      "update_time": "2026-04-14 16:02:20",
+      "update_time": "2026-04-14 18:59:17",
       "news": [
         {
           "title": "zai-org/GLM-5.1",
@@ -18,19 +18,6 @@
           "category": "AI Model"
         },
         {
-          "title": "openbmb/VoxCPM2",
-          "link": "https://huggingface.co/openbmb/VoxCPM2",
-          "date": "2026-04-15",
-          "source": "HuggingFace",
-          "description": "• VoxCPM2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/GitHub-VoxCPM-blue?logo=github",
-          "is_english": true,
-          "summary": "• VoxCPM2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "openbmb/VoxCPM2",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "MiniMaxAI/MiniMax-M2.7",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-M2.7",
           "date": "2026-04-15",
@@ -40,6 +27,19 @@
           "is_english": true,
           "summary": "• MiniMax-M2.7 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "MiniMaxAI/MiniMax-M2.7",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "openbmb/VoxCPM2",
+          "link": "https://huggingface.co/openbmb/VoxCPM2",
+          "date": "2026-04-15",
+          "source": "HuggingFace",
+          "description": "• VoxCPM2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/GitHub-VoxCPM-blue?logo=github",
+          "is_english": true,
+          "summary": "• VoxCPM2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "openbmb/VoxCPM2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -109,6 +109,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+          "link": "https://huggingface.co/Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+          "date": "2026-04-15",
+          "source": "HuggingFace",
+          "description": "• supergemma4-26b-uncensored-gguf-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• supergemma4-26b-uncensored-gguf-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "LilaRest/gemma-4-31B-it-NVFP4-turbo",
           "link": "https://huggingface.co/LilaRest/gemma-4-31B-it-NVFP4-turbo",
           "date": "2026-04-15",
@@ -131,19 +144,6 @@
           "is_english": true,
           "summary": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-          "link": "https://huggingface.co/Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-          "date": "2026-04-15",
-          "source": "HuggingFace",
-          "description": "• supergemma4-26b-uncensored-gguf-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• supergemma4-26b-uncensored-gguf-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -200,19 +200,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/GLM-5.1-GGUF",
-          "link": "https://huggingface.co/unsloth/GLM-5.1-GGUF",
-          "date": "2026-04-15",
-          "source": "HuggingFace",
-          "description": "• GLM-5.1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_51.png",
-          "is_english": true,
-          "summary": "• GLM-5.1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/GLM-5.1-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "LGAI-EXAONE/EXAONE-4.5-33B",
           "link": "https://huggingface.co/LGAI-EXAONE/EXAONE-4.5-33B",
           "date": "2026-04-15",
@@ -239,19 +226,6 @@
           "category": "AI Model"
         },
         {
-          "title": "google/gemma-4-E2B-it",
-          "link": "https://huggingface.co/google/gemma-4-E2B-it",
-          "date": "2026-04-15",
-          "source": "HuggingFace",
-          "description": "• gemma-4-E2B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
-          "is_english": true,
-          "summary": "• gemma-4-E2B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/gemma-4-E2B-it",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Jiunsong/supergemma4-26b-uncensored-mlx-4bit-v2",
           "link": "https://huggingface.co/Jiunsong/supergemma4-26b-uncensored-mlx-4bit-v2",
           "date": "2026-04-15",
@@ -263,13 +237,87 @@
           "translated_title": "Jiunsong/supergemma4-26b-uncensored-mlx-4bit-v2",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "unsloth/GLM-5.1-GGUF",
+          "link": "https://huggingface.co/unsloth/GLM-5.1-GGUF",
+          "date": "2026-04-15",
+          "source": "HuggingFace",
+          "description": "• GLM-5.1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_51.png",
+          "is_english": true,
+          "summary": "• GLM-5.1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/GLM-5.1-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "google/gemma-4-E2B-it",
+          "link": "https://huggingface.co/google/gemma-4-E2B-it",
+          "date": "2026-04-15",
+          "source": "HuggingFace",
+          "description": "• gemma-4-E2B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• gemma-4-E2B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/gemma-4-E2B-it",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-04-14",
-      "update_time": "2026-04-14 16:02:18",
+      "update_time": "2026-04-14 18:59:17",
       "news": [
+        {
+          "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
+          "link": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
+          "date": "2026-04-14",
+          "source": "TechCrunch",
+          "description": "In an interview at the Semafor World Economy summit this week, Anthropic co-founder Jack Clark explained why the company was still engaged with the U.S. government while simultaneously suing them.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/jack-clark-GettyImages-2271201349.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
+          "original_summary": "In an interview at the Semafor World Economy summit this week, Anthropic co-founder Jack Clark explained why the company was still engaged with the U.S. government while simultaneously suing them.",
+          "summary": "In an interview at the Semafor World Economy summit this week, Anthropic co-founder Jack Clark explained why the company was still engaged with the U.S. government while simultaneously suing them."
+        },
+        {
+          "title": "Max Hodak’s Science Corp. is preparing to place its first sensor in a human brain",
+          "link": "https://techcrunch.com/2026/04/14/max-hodaks-science-corp-is-preparing-to-place-its-first-sensor-in-a-human-brain/",
+          "date": "2026-04-14",
+          "source": "TechCrunch",
+          "description": "The device could help address multiple neurological conditions if it proves successful. One early use could be delivering gentle electrical stimulation to damaged brain or spinal cord cells to encourage healing.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/science-illo.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "Max Hodak’s Science Corp. is preparing to place its first sensor in a human brain",
+          "original_summary": "The device could help address multiple neurological conditions if it proves successful. One early use could be delivering gentle electrical stimulation to damaged brain or spinal cord cells to encourage healing.",
+          "summary": "The device could help address multiple neurological conditions if it proves successful. One early use could be delivering gentle electrical stimulation to damaged brain or spinal cord cells to encourage healing."
+        },
+        {
+          "title": "Google adds AI Skills to Chrome to help you save favorite workflows",
+          "link": "https://techcrunch.com/2026/04/14/google-adds-ai-skills-to-chrome-to-help-you-save-favorite-workflows/",
+          "date": "2026-04-14",
+          "source": "TechCrunch",
+          "description": "Google is adding “Skills” to Chrome, letting users save and reuse AI prompts across websites. The feature builds on Gemini’s browser integration.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-chrome-GettyImages-2151457378.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Google adds AI Skills to Chrome to help you save favorite workflows",
+          "original_summary": "Google is adding “Skills” to Chrome, letting users save and reuse AI prompts across websites. The feature builds on Gemini’s browser integration.",
+          "summary": "Google is adding “Skills” to Chrome, letting users save and reuse AI prompts across websites. The feature builds on Gemini’s browser integration."
+        },
+        {
+          "title": "Turn your best AI prompts into one-click tools in Chrome",
+          "link": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+          "date": "2026-04-14",
+          "source": "Google AI",
+          "description": "Skills in Chrome let you discover, save and remix AI workflows — and repeat them instantly.",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/GoogleChrome_RR_Skills_KeywordH.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "Turn your best AI prompts into one-click tools in Chrome",
+          "original_summary": "Skills in Chrome let you discover, save and remix AI workflows — and repeat them instantly.",
+          "summary": "Skills in Chrome let you discover, save and remix AI workflows — and repeat them instantly."
+        },
         {
           "title": "In just a couple weeks, StrictlyVC San Francisco brings leaders from TDK Ventures, Replit, and more together",
           "link": "https://techcrunch.com/2026/04/14/join-the-first-strictlyvc-of-2026-in-sf-with-leaders-from-tdk-ventures-and-replits-co-founder/",
@@ -7573,7 +7621,7 @@
         {
           "title": "google/gemma-4-31B-it",
           "link": "https://huggingface.co/google/gemma-4-31B-it",
-          "date": "2026-04-06",
+          "date": "2026-04-15",
           "source": "HuggingFace",
           "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -7586,7 +7634,7 @@
         {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-          "date": "2026-04-06",
+          "date": "2026-04-15",
           "source": "HuggingFace",
           "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
@@ -7612,7 +7660,7 @@
         {
           "title": "google/gemma-4-26B-A4B-it",
           "link": "https://huggingface.co/google/gemma-4-26B-A4B-it",
-          "date": "2026-04-06",
+          "date": "2026-04-15",
           "source": "HuggingFace",
           "description": "• gemma-4-26B-A4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -7625,7 +7673,7 @@
         {
           "title": "netflix/void-model",
           "link": "https://huggingface.co/netflix/void-model",
-          "date": "2026-04-06",
+          "date": "2026-04-15",
           "source": "HuggingFace",
           "description": "• void-model 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://colab.research.google.com/assets/colab-badge.svg",
@@ -7664,7 +7712,7 @@
         {
           "title": "google/gemma-4-E4B-it",
           "link": "https://huggingface.co/google/gemma-4-E4B-it",
-          "date": "2026-04-06",
+          "date": "2026-04-15",
           "source": "HuggingFace",
           "description": "• gemma-4-E4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -7690,7 +7738,7 @@
         {
           "title": "google/gemma-4-E2B-it",
           "link": "https://huggingface.co/google/gemma-4-E2B-it",
-          "date": "2026-04-06",
+          "date": "2026-04-15",
           "source": "HuggingFace",
           "description": "• gemma-4-E2B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
@@ -7703,7 +7751,7 @@
         {
           "title": "k2-fsa/OmniVoice",
           "link": "https://huggingface.co/k2-fsa/OmniVoice",
-          "date": "2026-04-06",
+          "date": "2026-04-15",
           "source": "HuggingFace",
           "description": "• OmniVoice 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -7729,7 +7777,7 @@
         {
           "title": "unsloth/gemma-4-26B-A4B-it-GGUF",
           "link": "https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF",
-          "date": "2026-04-06",
+          "date": "2026-04-15",
           "source": "HuggingFace",
           "description": "• gemma-4-26B-A4B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
