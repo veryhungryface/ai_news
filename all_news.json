@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-04-15",
-      "update_time": "2026-04-14 18:59:17",
+      "update_time": "2026-04-14 21:42:15",
       "news": [
+        {
+          "title": "과기부, '미소스' 사이버보안 회의 소집...통신 3사·네이버 등 참여",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209251",
+          "date": "2026-04-15",
+          "source": "AI타임스",
+          "description": "과학기술정보통신부(장관 배경훈)는 최근 앤트로픽과 오픈AI의 AI 모델 사이버보안 활용 프로젝트를 출범한 것과 관련, 긴급 현안 점검 회의 등을 개최했다고 14일 밝혔다. 최근 앤트로픽과 오픈AI는 각각 최신 모델 \\'미소스\\'를 활용한 \\'프로젝트 글라스윙\\'과 \\'GPT-5.3-코덱스\\' 기반 ‘사이버보안을 위한 신뢰할 수 있는 접근(Trusted Access for Cyber)’을 발족했다. 이로 인해 미국 정부는 물론, 영국과 캐나다 등이 주요 금융 기관 및 기술 기업과 대책 마련에 나섰다.이에 청와대 국가안보실에서는 민관군 주관 부처",
+          "image": "https://cdn.aitimes.com/news/photo/202604/209251_211615_5423.jpg",
+          "is_english": false,
+          "original_title": "과기부, '미소스' 사이버보안 회의 소집...통신 3사·네이버 등 참여",
+          "original_summary": "과학기술정보통신부(장관 배경훈)는 최근 앤트로픽과 오픈AI의 AI 모델 사이버보안 활용 프로젝트를 출범한 것과 관련, 긴급 현안 점검 회의 등을 개최했다고 14일 밝혔다. 최근 앤트로픽과 오픈AI는 각각 최신 모델 \\'미소스\\'를 활용한 \\'프로젝트 글라스윙\\'과 \\'GPT-5.3-코덱스\\' 기반 ‘사이버보안을 위한 신뢰할 수 있는 접근(Trusted Access for Cyber)’을 발족했다. 이로 인해 미국 정부는 물론, 영국과 캐나다 등이 주요 금융 기관 및 기술 기업과 대책 마련에 나섰다.이에 청와대 국가안보실에서는 민관군",
+          "summary": "과학기술정보통신부(장관 배경훈)는 최근 앤트로픽과 오픈AI의 AI 모델 사이버보안 활용 프로젝트를 출범한 것과 관련, 긴급 현안 점검 회의 등을 개최했다고 14일 밝혔다. 최근 앤트로픽과 오픈AI는 각각 최신 모델 \\'미소스\\'를 활용한 \\'프로젝트 글라스윙\\'과 \\'GPT-5.3-코덱스\\' 기반 ‘사이버보안을 위한 신뢰할 수 있는 접근(Trusted Access for Cyber)’을 발족했다. 이로 인해 미국 정부는 물론, 영국과 캐나다 등이 주요 금융 기관 및 기술 기업과 대책 마련에 나섰다.이에 청와대 국가안보실에서는 민관군"
+        },
         {
           "title": "zai-org/GLM-5.1",
           "link": "https://huggingface.co/zai-org/GLM-5.1",
@@ -57,19 +69,6 @@
           "category": "AI Model"
         },
         {
-          "title": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
-          "link": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK",
-          "date": "2026-04-15",
-          "source": "HuggingFace",
-          "description": "• Gemma-4-31B-JANG_4M-CRACK 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK/resolve/main/dealign_logo.png",
-          "is_english": true,
-          "summary": "• Gemma-4-31B-JANG_4M-CRACK 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "tencent/HY-Embodied-0.5",
           "link": "https://huggingface.co/tencent/HY-Embodied-0.5",
           "date": "2026-04-15",
@@ -79,6 +78,19 @@
           "is_english": true,
           "summary": "• HY-Embodied-0.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "tencent/HY-Embodied-0.5",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
+          "link": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK",
+          "date": "2026-04-15",
+          "source": "HuggingFace",
+          "description": "• Gemma-4-31B-JANG_4M-CRACK 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK/resolve/main/dealign_logo.png",
+          "is_english": true,
+          "summary": "• Gemma-4-31B-JANG_4M-CRACK 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,19 +251,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/GLM-5.1-GGUF",
-          "link": "https://huggingface.co/unsloth/GLM-5.1-GGUF",
-          "date": "2026-04-15",
-          "source": "HuggingFace",
-          "description": "• GLM-5.1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_51.png",
-          "is_english": true,
-          "summary": "• GLM-5.1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/GLM-5.1-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "google/gemma-4-E2B-it",
           "link": "https://huggingface.co/google/gemma-4-E2B-it",
           "date": "2026-04-15",
@@ -263,13 +262,50 @@
           "translated_title": "google/gemma-4-E2B-it",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "nvidia/Gemma-4-31B-IT-NVFP4",
+          "link": "https://huggingface.co/nvidia/Gemma-4-31B-IT-NVFP4",
+          "date": "2026-04-15",
+          "source": "HuggingFace",
+          "description": "• Gemma-4-31B-IT-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Gemma-4-31B-IT-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/Gemma-4-31B-IT-NVFP4",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-04-14",
-      "update_time": "2026-04-14 18:59:17",
+      "update_time": "2026-04-14 21:42:15",
       "news": [
+        {
+          "title": "[게시판] 삼성SDS, 'AI 국회 플랫폼' 정식 오픈 등 단신",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209250",
+          "date": "2026-04-14",
+          "source": "AI타임스",
+          "description": "■ 삼성SDS(대표 이준희)는 \\'국회 빅데이터 플랫폼(AI 국회) 구축 1단계 사업\\'을 완료해 \\'국회 AI 의정지원 플랫폼\\'을 공식 오픈했다고 밝혔다. 자체 AI 서비스 플랫폼 \\'패브릭스(FabriX)\\'를 기반으로 구축한 국회 전용 생성형 AI 서비스다. ▲AI 어시스턴트 ▲지능형 검색 ▲법률안 서비스로 나뉘며, 국회 업무나 정책 관련 질문에 대한 답변을 포함해 문서 초안 생성, 회의록 요약 등 맞춤형 서비스를 제공한다.■ 무하유(대표 신동호)는 지난 8일 일본 도쿄에서 열린 \\'재팬 IT 위크 2026\\'에 참가했다고 밝혔다. 이번",
+          "image": "https://cdn.aitimes.com/news/photo/202604/209250_211612_2535.jpg",
+          "is_english": true,
+          "original_title": "[게시판] 삼성SDS, 'AI 국회 플랫폼' 정식 오픈 등 단신",
+          "original_summary": "■ 삼성SDS(대표 이준희)는 \\'국회 빅데이터 플랫폼(AI 국회) 구축 1단계 사업\\'을 완료해 \\'국회 AI 의정지원 플랫폼\\'을 공식 오픈했다고 밝혔다. 자체 AI 서비스 플랫폼 \\'패브릭스(FabriX)\\'를 기반으로 구축한 국회 전용 생성형 AI 서비스다. ▲AI 어시스턴트 ▲지능형 검색 ▲법률안 서비스로 나뉘며, 국회 업무나 정책 관련 질문에 대한 답변을 포함해 문서 초안 생성, 회의록 요약 등 맞춤형 서비스를 제공한다.■ 무하유(대표 신동호)는 지난 8일 일본 도쿄에서 열린 \\'재팬 IT 위크 2026\\'에 참가했다고 ",
+          "summary": "■ 삼성SDS(대표 이준희)는 \\'국회 빅데이터 플랫폼(AI 국회) 구축 1단계 사업\\'을 완료해 \\'국회 AI 의정지원 플랫폼\\'을 공식 오픈했다고 밝혔다. 자체 AI 서비스 플랫폼 \\'패브릭스(FabriX)\\'를 기반으로 구축한 국회 전용 생성형 AI 서비스다. ▲AI 어시스턴트 ▲지능형 검색 ▲법률안 서비스로 나뉘며, 국회 업무나 정책 관련 질문에 대한 답변을 포함해 문서 초안 생성, 회의록 요약 등 맞춤형 서비스를 제공한다.■ 무하유(대표 신동호)는 지난 8일 일본 도쿄에서 열린 \\'재팬 IT 위크 2026\\'에 참가했다고 "
+        },
+        {
+          "title": "Trusted access for the next era of cyber defense",
+          "link": "https://openai.com/index/scaling-trusted-access-for-cyber-defense",
+          "date": "2026-04-14",
+          "source": "OpenAI",
+          "description": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Trusted access for the next era of cyber defense",
+          "original_summary": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance.",
+          "summary": "OpenAI expands its Trusted Access for Cyber program, introducing GPT-5.4-Cyber to vetted defenders and strengthening safeguards as AI cybersecurity capabilities advance."
+        },
         {
           "title": "Anthropic co-founder confirms the company briefed the Trump administration on Mythos",
           "link": "https://techcrunch.com/2026/04/14/anthropic-co-founder-confirms-the-company-briefed-the-trump-administration-on-mythos/",
@@ -7855,7 +7891,7 @@
         {
           "title": "nvidia/Gemma-4-31B-IT-NVFP4",
           "link": "https://huggingface.co/nvidia/Gemma-4-31B-IT-NVFP4",
-          "date": "2026-04-06",
+          "date": "2026-04-15",
           "source": "HuggingFace",
           "description": "• Gemma-4-31B-IT-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
