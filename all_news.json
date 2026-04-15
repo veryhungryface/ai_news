@@ -2,8 +2,44 @@
   "dates": [
     {
       "date": "2026-04-16",
-      "update_time": "2026-04-15 19:01:00",
+      "update_time": "2026-04-15 21:42:24",
       "news": [
+        {
+          "title": "AI 심장 'GPU 학습'…세계 최초는 한국 논문이었다",
+          "link": "https://www.yna.co.kr/view/AKR20260415167400017",
+          "date": "2026-04-16",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 조승한 기자 = 인공지능(AI) 시대를 연 핵심 기술인 그래픽처리장치(GPU) 기반 학습 아이디어가 한국 연구실에서 처음 태동...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/04/15/AKR20260415167400017_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "AI 심장 'GPU 학습'…세계 최초는 한국 논문이었다",
+          "original_summary": "(서울=연합뉴스) 조승한 기자 = 인공지능(AI) 시대를 연 핵심 기술인 그래픽처리장치(GPU) 기반 학습 아이디어가 한국 연구실에서 처음 태동...",
+          "summary": "(서울=연합뉴스) 조승한 기자 = 인공지능(AI) 시대를 연 핵심 기술인 그래픽처리장치(GPU) 기반 학습 아이디어가 한국 연구실에서 처음 태동..."
+        },
+        {
+          "title": "[게시판] 서울문화재단·산돌·산돌문화재단 MOU",
+          "link": "https://www.yna.co.kr/view/AKR20260415147100004",
+          "date": "2026-04-16",
+          "source": "연합뉴스",
+          "description": "▲ 서울디자인재단은 올해 10월 &apos;서울디자인위크 2026&apos; 기간에 디자인 컨퍼런스를 개최하기 위해 인공지능(AI) 콘텐츠 플랫폼 기업 산돌, 산...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/04/15/AKR20260415147100004_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "[게시판] 서울문화재단·산돌·산돌문화재단 MOU",
+          "original_summary": "▲ 서울디자인재단은 올해 10월 &apos;서울디자인위크 2026&apos; 기간에 디자인 컨퍼런스를 개최하기 위해 인공지능(AI) 콘텐츠 플랫폼 기업 산돌, 산...",
+          "summary": "▲ 서울디자인재단은 올해 10월 &apos;서울디자인위크 2026&apos; 기간에 디자인 컨퍼런스를 개최하기 위해 인공지능(AI) 콘텐츠 플랫폼 기업 산돌, 산..."
+        },
+        {
+          "title": "As AI Infosec Woes Heighten, IBM Intros Autonomous Security Service",
+          "link": "https://aibusiness.com/agentic-ai/ai-infosec-woes-heighten-ibm-autonomous-security-service",
+          "date": "2026-04-16",
+          "source": "AI Business",
+          "description": "The service is another measure in the security market to keep pace with models that can accelerate cyberattacks.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt69ad7f1eb9253ec2/69dfea42626825c1126c438b/IBM.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "As AI Infosec Woes Heighten, IBM Intros Autonomous Security Service",
+          "original_summary": "The service is another measure in the security market to keep pace with models that can accelerate cyberattacks.",
+          "summary": "The service is another measure in the security market to keep pace with models that can accelerate cyberattacks."
+        },
         {
           "title": "Once Trendy Shoe Company Allbirds Pivots to AI Infrastructure",
           "link": "https://aibusiness.com/data-centers/once-trendy-shoe-company-allbirds-pivots-ai-infrastructure",
@@ -68,19 +104,6 @@
           "category": "AI Model"
         },
         {
-          "title": "google/gemma-4-31B-it",
-          "link": "https://huggingface.co/google/gemma-4-31B-it",
-          "date": "2026-04-16",
-          "source": "HuggingFace",
-          "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
-          "is_english": true,
-          "summary": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/gemma-4-31B-it",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "openbmb/VoxCPM2",
           "link": "https://huggingface.co/openbmb/VoxCPM2",
           "date": "2026-04-16",
@@ -90,6 +113,19 @@
           "is_english": true,
           "summary": "• VoxCPM2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "openbmb/VoxCPM2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "google/gemma-4-31B-it",
+          "link": "https://huggingface.co/google/gemma-4-31B-it",
+          "date": "2026-04-16",
+          "source": "HuggingFace",
+          "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "is_english": true,
+          "summary": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/gemma-4-31B-it",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -211,19 +247,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/gemma-4-26B-A4B-it-GGUF",
-          "link": "https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF",
-          "date": "2026-04-16",
-          "source": "HuggingFace",
-          "description": "• gemma-4-26B-A4B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
-          "is_english": true,
-          "summary": "• gemma-4-26B-A4B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/gemma-4-26B-A4B-it-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "google/gemma-4-26B-A4B-it",
           "link": "https://huggingface.co/google/gemma-4-26B-A4B-it",
           "date": "2026-04-16",
@@ -246,6 +269,19 @@
           "is_english": true,
           "summary": "• EXAONE-4.5-33B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "LGAI-EXAONE/EXAONE-4.5-33B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/gemma-4-26B-A4B-it-GGUF",
+          "link": "https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF",
+          "date": "2026-04-16",
+          "source": "HuggingFace",
+          "description": "• gemma-4-26B-A4B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "is_english": true,
+          "summary": "• gemma-4-26B-A4B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/gemma-4-26B-A4B-it-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -292,8 +328,32 @@
     },
     {
       "date": "2026-04-15",
-      "update_time": "2026-04-15 19:00:58",
+      "update_time": "2026-04-15 21:42:24",
       "news": [
+        {
+          "title": "[게시판] \"챗GPT에서 미술작품 산다\"...아르투, '챗GPT 앱' 탑재 등 단신",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209310",
+          "date": "2026-04-15",
+          "source": "AI타임스",
+          "description": "■ 아비투스 어소시에이트(대표 송보영)가 운영하는 AI 아트 플랫폼 아르투(Artue)가 오픈AI의 ‘앱스 인 챗GPT’에 탑재됐다고 밝혔다. 별도 애플리케이션 전환 없이 챗GPT 내에서 다양한 서비스가 직접 작동되는 구조다. 아르투의 방대한 현대미술 작품 데이터를 기반으로 작품 큐레이션부터 결제, 배송까지 가능한 것이 특징이다. 아르투는 다양한 대형언어모델(LLM) 인터페이스에서 작동하도록 아트 큐레이션 구조를 고도화한다는 계획이다.■ 바운드포(대표 황인호)는 올해 1분기 계약이 전년 동기 대비 5.3배 증가하며 역대 최대 분기",
+          "image": "https://cdn.aitimes.com/news/photo/202604/209310_211682_4459.jpg",
+          "is_english": true,
+          "original_title": "[게시판] \"챗GPT에서 미술작품 산다\"...아르투, '챗GPT 앱' 탑재 등 단신",
+          "original_summary": "■ 아비투스 어소시에이트(대표 송보영)가 운영하는 AI 아트 플랫폼 아르투(Artue)가 오픈AI의 ‘앱스 인 챗GPT’에 탑재됐다고 밝혔다. 별도 애플리케이션 전환 없이 챗GPT 내에서 다양한 서비스가 직접 작동되는 구조다. 아르투의 방대한 현대미술 작품 데이터를 기반으로 작품 큐레이션부터 결제, 배송까지 가능한 것이 특징이다. 아르투는 다양한 대형언어모델(LLM) 인터페이스에서 작동하도록 아트 큐레이션 구조를 고도화한다는 계획이다.■ 바운드포(대표 황인호)는 올해 1분기 계약이 전년 동기 대비 5.3배 증가하며 역대 최대 분기",
+          "summary": "■ 아비투스 어소시에이트(대표 송보영)가 운영하는 AI 아트 플랫폼 아르투(Artue)가 오픈AI의 ‘앱스 인 챗GPT’에 탑재됐다고 밝혔다. 별도 애플리케이션 전환 없이 챗GPT 내에서 다양한 서비스가 직접 작동되는 구조다. 아르투의 방대한 현대미술 작품 데이터를 기반으로 작품 큐레이션부터 결제, 배송까지 가능한 것이 특징이다. 아르투는 다양한 대형언어모델(LLM) 인터페이스에서 작동하도록 아트 큐레이션 구조를 고도화한다는 계획이다.■ 바운드포(대표 황인호)는 올해 1분기 계약이 전년 동기 대비 5.3배 증가하며 역대 최대 분기"
+        },
+        {
+          "title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
+          "link": "https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/",
+          "date": "2026-04-15",
+          "source": "TechCrunch",
+          "description": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
+          "is_english": true,
+          "original_title": "OpenAI updates its Agents SDK to help enterprises build safer, more capable agents",
+          "original_summary": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity. ",
+          "summary": "OpenAI has expanded the capabilities of its agent-building toolkit, as agentic AI continues to grow in popularity. "
+        },
         {
           "title": "The next evolution of the Agents SDK",
           "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
