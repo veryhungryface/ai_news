@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-04-16",
-      "update_time": "2026-04-15 15:59:27",
+      "update_time": "2026-04-15 19:01:00",
       "news": [
+        {
+          "title": "Once Trendy Shoe Company Allbirds Pivots to AI Infrastructure",
+          "link": "https://aibusiness.com/data-centers/once-trendy-shoe-company-allbirds-pivots-ai-infrastructure",
+          "date": "2026-04-16",
+          "source": "AI Business",
+          "description": "The company is using a $50 million convertible financing facility agreement to undertake a full rebranding.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltf0dc7ae98df43a85/69dfd650eb41a96893b1cce9/Allbirds.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Once Trendy Shoe Company Allbirds Pivots to AI Infrastructure",
+          "original_summary": "The company is using a $50 million convertible financing facility agreement to undertake a full rebranding.",
+          "summary": "The company is using a $50 million convertible financing facility agreement to undertake a full rebranding."
+        },
+        {
+          "title": "Meta, Broadcom Agree to Mega-Deal to Co-Develop AI Chips",
+          "link": "https://aibusiness.com/generative-ai/meta-broadcom-agree-mega-deal-co-develop-ai-chips",
+          "date": "2026-04-16",
+          "source": "AI Business",
+          "description": "The latest deal is one of many compute arrangements that major AI developers have made with chipmakers in recent months to reduce reliance on Nvidia.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blta3a86028509ef6dc/69dfbb233abc6d90646e834f/Broadcom.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Meta, Broadcom Agree to Mega-Deal to Co-Develop AI Chips",
+          "original_summary": "The latest deal is one of many compute arrangements that major AI developers have made with chipmakers in recent months to reduce reliance on Nvidia.",
+          "summary": "The latest deal is one of many compute arrangements that major AI developers have made with chipmakers in recent months to reduce reliance on Nvidia."
+        },
         {
           "title": "MiniMaxAI/MiniMax-M2.7",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-M2.7",
@@ -44,19 +68,6 @@
           "category": "AI Model"
         },
         {
-          "title": "openbmb/VoxCPM2",
-          "link": "https://huggingface.co/openbmb/VoxCPM2",
-          "date": "2026-04-16",
-          "source": "HuggingFace",
-          "description": "• VoxCPM2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/GitHub-VoxCPM-blue?logo=github",
-          "is_english": true,
-          "summary": "• VoxCPM2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "openbmb/VoxCPM2",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "google/gemma-4-31B-it",
           "link": "https://huggingface.co/google/gemma-4-31B-it",
           "date": "2026-04-16",
@@ -66,6 +77,19 @@
           "is_english": true,
           "summary": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "google/gemma-4-31B-it",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "openbmb/VoxCPM2",
+          "link": "https://huggingface.co/openbmb/VoxCPM2",
+          "date": "2026-04-16",
+          "source": "HuggingFace",
+          "description": "• VoxCPM2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/GitHub-VoxCPM-blue?logo=github",
+          "is_english": true,
+          "summary": "• VoxCPM2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "openbmb/VoxCPM2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -122,19 +146,6 @@
           "category": "AI Model"
         },
         {
-          "title": "netflix/void-model",
-          "link": "https://huggingface.co/netflix/void-model",
-          "date": "2026-04-16",
-          "source": "HuggingFace",
-          "description": "• void-model 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://colab.research.google.com/assets/colab-badge.svg",
-          "is_english": true,
-          "summary": "• void-model 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "netflix/void-model",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "baidu/ERNIE-Image-Turbo",
           "link": "https://huggingface.co/baidu/ERNIE-Image-Turbo",
           "date": "2026-04-16",
@@ -144,6 +155,19 @@
           "is_english": true,
           "summary": "• ERNIE-Image-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "baidu/ERNIE-Image-Turbo",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "netflix/void-model",
+          "link": "https://huggingface.co/netflix/void-model",
+          "date": "2026-04-16",
+          "source": "HuggingFace",
+          "description": "• void-model 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://colab.research.google.com/assets/colab-badge.svg",
+          "is_english": true,
+          "summary": "• void-model 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "netflix/void-model",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -213,19 +237,6 @@
           "category": "AI Model"
         },
         {
-          "title": "LiquidAI/LFM2.5-VL-450M",
-          "link": "https://huggingface.co/LiquidAI/LFM2.5-VL-450M",
-          "date": "2026-04-16",
-          "source": "HuggingFace",
-          "description": "• LFM2.5-VL-450M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/2b08LKpev0DNEk6DlnWkY.png",
-          "is_english": true,
-          "summary": "• LFM2.5-VL-450M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "LiquidAI/LFM2.5-VL-450M",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "LGAI-EXAONE/EXAONE-4.5-33B",
           "link": "https://huggingface.co/LGAI-EXAONE/EXAONE-4.5-33B",
           "date": "2026-04-16",
@@ -263,13 +274,134 @@
           "translated_title": "Jiunsong/supergemma4-26b-uncensored-mlx-4bit-v2",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "Comfy-Org/ERNIE-Image",
+          "link": "https://huggingface.co/Comfy-Org/ERNIE-Image",
+          "date": "2026-04-16",
+          "source": "HuggingFace",
+          "description": "• ERNIE-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• ERNIE-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Comfy-Org/ERNIE-Image",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-04-15",
-      "update_time": "2026-04-15 15:59:27",
+      "update_time": "2026-04-15 19:00:58",
       "news": [
+        {
+          "title": "The next evolution of the Agents SDK",
+          "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
+          "date": "2026-04-15",
+          "source": "OpenAI",
+          "description": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
+          "image": null,
+          "is_english": true,
+          "original_title": "The next evolution of the Agents SDK",
+          "original_summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
+          "summary": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools."
+        },
+        {
+          "title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
+          "link": "https://techcrunch.com/2026/04/15/hightouch-reaches-100m-arr-fueled-by-marketing-tools-powered-by-ai/",
+          "date": "2026-04-15",
+          "source": "TechCrunch",
+          "description": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/02/founders-photo.webp?resize=1200,1200",
+          "is_english": true,
+          "original_title": "Hightouch reaches $100M ARR fueled by marketing tools powered by AI",
+          "original_summary": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers. ",
+          "summary": "The startup says it grew its ARR by $70 million in just 20 months after launching an AI agent platform for marketers. "
+        },
+        {
+          "title": "LinkedIn data shows AI isn’t to blame for hiring decline… yet",
+          "link": "https://techcrunch.com/2026/04/15/linkedin-data-shows-ai-isnt-to-blame-for-hiring-decline-yet/",
+          "date": "2026-04-15",
+          "source": "TechCrunch",
+          "description": "LinkedIn says hiring is down 20% since 2022, but blames higher interest rates — not AI — for the slowdown.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/job-search-GettyImages-2161243486.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "LinkedIn data shows AI isn’t to blame for hiring decline… yet",
+          "original_summary": "LinkedIn says hiring is down 20% since 2022, but blames higher interest rates — not AI — for the slowdown.",
+          "summary": "LinkedIn says hiring is down 20% since 2022, but blames higher interest rates — not AI — for the slowdown."
+        },
+        {
+          "title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
+          "link": "https://techcrunch.com/2026/04/15/ai-learning-app-gizmo-levels-up-with-13m-users-and-a-22m-investment/",
+          "date": "2026-04-15",
+          "source": "TechCrunch",
+          "description": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
+          "image": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1263424631.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "AI learning app Gizmo levels up with 13M users and a $22M investment",
+          "original_summary": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding.",
+          "summary": "Gizmo, an AI-powered learning platform, has attracted more than 13 million users and just secured $22 million in Series A funding."
+        },
+        {
+          "title": "Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers",
+          "link": "https://techcrunch.com/2026/04/15/can-ai-judge-journalism-a-thiel-backed-startup-says-yes-even-if-it-risks-chilling-whistleblowers/",
+          "date": "2026-04-15",
+          "source": "TechCrunch",
+          "description": "Objection, a Thiel-backed startup, aims to use AI to judge journalism, letting users pay to challenge stories. Critics warn it could chill whistleblowers and reshape how media accountability works.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/aron-dsouza-headshot.png?resize=1200,921",
+          "is_english": true,
+          "original_title": "Can AI judge journalism? A Thiel-backed startup says yes, even if it risks chilling whistleblowers",
+          "original_summary": "Objection, a Thiel-backed startup, aims to use AI to judge journalism, letting users pay to challenge stories. Critics warn it could chill whistleblowers and reshape how media accountability works.",
+          "summary": "Objection, a Thiel-backed startup, aims to use AI to judge journalism, letting users pay to challenge stories. Critics warn it could chill whistleblowers and reshape how media accountability works."
+        },
+        {
+          "title": "Google rolls out a native Gemini app for Mac",
+          "link": "https://techcrunch.com/2026/04/15/google-rolls-out-a-native-gemini-app-for-mac/",
+          "date": "2026-04-15",
+          "source": "TechCrunch",
+          "description": "You can share anything on their screen with Gemini to get help with what they're looking at in the moment, including local files.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Google rolls out a native Gemini app for Mac",
+          "original_summary": "You can share anything on their screen with Gemini to get help with what they're looking at in the moment, including local files.",
+          "summary": "You can share anything on their screen with Gemini to get help with what they're looking at in the moment, including local files."
+        },
+        {
+          "title": "The musician-turned-biotech-founder waiting to fundraise",
+          "link": "https://techcrunch.com/podcast/the-musician-turned-biotech-founder-waiting-to-fundraise/",
+          "date": "2026-04-15",
+          "source": "TechCrunch",
+          "description": "When Grammy-nominated singer-songwriter&#160;Aloe Blacc&#160;got COVID despite being vaccinated and boosted, he tried to fund research for a better solution.&#160;What&#160;he&#160;quickly&#160;found&#160;out? You&#160;can&#8217;t&#160;just write a check in biotech. Regulators require a commercialization plan, and philanthropy&#160;doesn&#8217;t&#160;move science through clinical trials or get you a license on university IP. Now,&#160;he&#8217;s&#160;bootstrapping a cancer drug platform targetin",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/Copy-of-Stand-Together-Photo-By-Zach-Bell.jpg?resize=1200,1200",
+          "is_english": true,
+          "original_title": "The musician-turned-biotech-founder waiting to fundraise",
+          "original_summary": "When Grammy-nominated singer-songwriter&#160;Aloe Blacc&#160;got COVID despite being vaccinated and boosted, he tried to fund research for a better solution.&#160;What&#160;he&#160;quickly&#160;found&#160;out? You&#160;can&#8217;t&#160;just write a check in biotech. Regulators require a commercializ",
+          "summary": "When Grammy-nominated singer-songwriter&#160;Aloe Blacc&#160;got COVID despite being vaccinated and boosted, he tried to fund research for a better solution.&#160;What&#160;he&#160;quickly&#160;found&#160;out? You&#160;can&#8217;t&#160;just write a check in biotech. Regulators require a commercializ"
+        },
+        {
+          "title": "India’s vibe-coding startup Emergent enters OpenClaw-like AI agent space",
+          "link": "https://techcrunch.com/2026/04/15/indias-vibe-coding-startup-emergent-enters-openclaw-like-ai-agent-space/",
+          "date": "2026-04-15",
+          "source": "TechCrunch",
+          "description": "Emergent's Wingman lets users manage and automate tasks through chat on platforms like WhatsApp and Telegram.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/emergent-wingman.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "India’s vibe-coding startup Emergent enters OpenClaw-like AI agent space",
+          "original_summary": "Emergent's Wingman lets users manage and automate tasks through chat on platforms like WhatsApp and Telegram.",
+          "summary": "Emergent's Wingman lets users manage and automate tasks through chat on platforms like WhatsApp and Telegram."
+        },
+        {
+          "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+          "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
+          "date": "2026-04-15",
+          "source": "Google AI",
+          "description": "Gemini 3.1 Flash TTS is now available across Google products.",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3.1-flash-tts_blog_keywo.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
+          "original_summary": "Gemini 3.1 Flash TTS is now available across Google products.",
+          "summary": "Gemini 3.1 Flash TTS is now available across Google products."
+        },
         {
           "title": "After sale of its shoe business, Allbirds pivots to AI",
           "link": "https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai/",
@@ -7597,7 +7729,7 @@
         {
           "title": "google/gemma-4-31B-it",
           "link": "https://huggingface.co/google/gemma-4-31B-it",
-          "date": "2026-04-07",
+          "date": "2026-04-16",
           "source": "HuggingFace",
           "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -7610,7 +7742,7 @@
         {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-          "date": "2026-04-07",
+          "date": "2026-04-16",
           "source": "HuggingFace",
           "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
@@ -7623,7 +7755,7 @@
         {
           "title": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
           "link": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK",
-          "date": "2026-04-07",
+          "date": "2026-04-16",
           "source": "HuggingFace",
           "description": "• Gemma-4-31B-JANG_4M-CRACK 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK/resolve/main/dealign_logo.png",
@@ -7636,7 +7768,7 @@
         {
           "title": "netflix/void-model",
           "link": "https://huggingface.co/netflix/void-model",
-          "date": "2026-04-07",
+          "date": "2026-04-16",
           "source": "HuggingFace",
           "description": "• void-model 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://colab.research.google.com/assets/colab-badge.svg",
@@ -7662,7 +7794,7 @@
         {
           "title": "google/gemma-4-26B-A4B-it",
           "link": "https://huggingface.co/google/gemma-4-26B-A4B-it",
-          "date": "2026-04-07",
+          "date": "2026-04-16",
           "source": "HuggingFace",
           "description": "• gemma-4-26B-A4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -7675,7 +7807,7 @@
         {
           "title": "google/gemma-4-E4B-it",
           "link": "https://huggingface.co/google/gemma-4-E4B-it",
-          "date": "2026-04-07",
+          "date": "2026-04-16",
           "source": "HuggingFace",
           "description": "• gemma-4-E4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -7701,7 +7833,7 @@
         {
           "title": "k2-fsa/OmniVoice",
           "link": "https://huggingface.co/k2-fsa/OmniVoice",
-          "date": "2026-04-07",
+          "date": "2026-04-16",
           "source": "HuggingFace",
           "description": "• OmniVoice 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -7727,7 +7859,7 @@
         {
           "title": "unsloth/gemma-4-26B-A4B-it-GGUF",
           "link": "https://huggingface.co/unsloth/gemma-4-26B-A4B-it-GGUF",
-          "date": "2026-04-07",
+          "date": "2026-04-16",
           "source": "HuggingFace",
           "description": "• gemma-4-26B-A4B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
