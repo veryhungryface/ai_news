@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-04-17",
-      "update_time": "2026-04-16 18:58:38",
+      "update_time": "2026-04-16 21:35:13",
       "news": [
+        {
+          "title": "[김길원의 헬스노트] 활용도 커지는 'AI 건강검진'…\"장밋빛 환상은 경계해야\"",
+          "link": "https://www.yna.co.kr/view/AKR20260416129600530",
+          "date": "2026-04-17",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 김길원 기자 = 최근 국내 건강검진 현장의 가장 뜨거운 화두는 인공지능(AI)이다. &quot;AI가 10초 만에 폐암을 찾아냈다&quot;, ...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/04/16/AKR20260416129600530_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "[김길원의 헬스노트] 활용도 커지는 'AI 건강검진'…\"장밋빛 환상은 경계해야\"",
+          "original_summary": "(서울=연합뉴스) 김길원 기자 = 최근 국내 건강검진 현장의 가장 뜨거운 화두는 인공지능(AI)이다. &quot;AI가 10초 만에 폐암을 찾아냈다&quot;, ...",
+          "summary": "(서울=연합뉴스) 김길원 기자 = 최근 국내 건강검진 현장의 가장 뜨거운 화두는 인공지능(AI)이다. &quot;AI가 10초 만에 폐암을 찾아냈다&quot;, ..."
+        },
+        {
+          "title": "Anthropic Releases Good but not Great Claude Opus 4.7",
+          "link": "https://aibusiness.com/generative-ai/anthropic-releases-good-not-great-claude-opus-4-7",
+          "date": "2026-04-17",
+          "source": "AI Business",
+          "description": "With this release, Anthropic aims to provide a model that addresses key enterprise obstacles, including model drift and hallucinations.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt9631795c14ab0421/69e14b56061435c29a6753fd/Claude_Opus.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Anthropic Releases Good but not Great Claude Opus 4.7",
+          "original_summary": "With this release, Anthropic aims to provide a model that addresses key enterprise obstacles, including model drift and hallucinations.",
+          "summary": "With this release, Anthropic aims to provide a model that addresses key enterprise obstacles, including model drift and hallucinations."
+        },
         {
           "title": "Stellantis Ramps Up AI Strategy With Microsoft Deal",
           "link": "https://aibusiness.com/generative-ai/stellantis-ramps-ai-strategy-microsoft-deal",
@@ -93,6 +117,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Qwen/Qwen3.6-35B-A3B",
+          "link": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
+          "date": "2026-04-17",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.6-35B-A3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "baidu/ERNIE-Image",
           "link": "https://huggingface.co/baidu/ERNIE-Image",
           "date": "2026-04-17",
@@ -145,19 +182,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.6-35B-A3B",
-          "link": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
-          "date": "2026-04-17",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.6-35B-A3B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "baidu/ERNIE-Image-Turbo",
           "link": "https://huggingface.co/baidu/ERNIE-Image-Turbo",
           "date": "2026-04-17",
@@ -197,6 +221,19 @@
           "category": "AI Model"
         },
         {
+          "title": "unsloth/Qwen3.6-35B-A3B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
+          "date": "2026-04-17",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Qwen3.6-35B-A3B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "k2-fsa/OmniVoice",
           "link": "https://huggingface.co/k2-fsa/OmniVoice",
           "date": "2026-04-17",
@@ -206,32 +243,6 @@
           "is_english": true,
           "summary": "• OmniVoice 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "k2-fsa/OmniVoice",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "netflix/void-model",
-          "link": "https://huggingface.co/netflix/void-model",
-          "date": "2026-04-17",
-          "source": "HuggingFace",
-          "description": "• void-model 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://colab.research.google.com/assets/colab-badge.svg",
-          "is_english": true,
-          "summary": "• void-model 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "netflix/void-model",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "Jiunsong/supergemma4-26b-uncensored-mlx-4bit-v2",
-          "link": "https://huggingface.co/Jiunsong/supergemma4-26b-uncensored-mlx-4bit-v2",
-          "date": "2026-04-17",
-          "source": "HuggingFace",
-          "description": "• supergemma4-26b-uncensored-mlx-4bit-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• supergemma4-26b-uncensored-mlx-4bit-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jiunsong/supergemma4-26b-uncensored-mlx-4bit-v2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -249,15 +260,28 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.6-35B-A3B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
+          "title": "Jiunsong/supergemma4-26b-uncensored-mlx-4bit-v2",
+          "link": "https://huggingface.co/Jiunsong/supergemma4-26b-uncensored-mlx-4bit-v2",
           "date": "2026-04-17",
           "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "description": "• supergemma4-26b-uncensored-mlx-4bit-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Qwen3.6-35B-A3B-GGUF",
+          "summary": "• supergemma4-26b-uncensored-mlx-4bit-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jiunsong/supergemma4-26b-uncensored-mlx-4bit-v2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "netflix/void-model",
+          "link": "https://huggingface.co/netflix/void-model",
+          "date": "2026-04-17",
+          "source": "HuggingFace",
+          "description": "• void-model 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://colab.research.google.com/assets/colab-badge.svg",
+          "is_english": true,
+          "summary": "• void-model 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "netflix/void-model",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -304,8 +328,56 @@
     },
     {
       "date": "2026-04-16",
-      "update_time": "2026-04-16 18:58:36",
+      "update_time": "2026-04-16 21:35:13",
       "news": [
+        {
+          "title": "Introducing GPT-Rosalind for life sciences research",
+          "link": "https://openai.com/index/introducing-gpt-rosalind",
+          "date": "2026-04-16",
+          "source": "OpenAI",
+          "description": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Introducing GPT-Rosalind for life sciences research",
+          "original_summary": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows.",
+          "summary": "OpenAI introduces GPT-Rosalind, a frontier reasoning model built to accelerate drug discovery, genomics analysis, protein reasoning, and scientific research workflows."
+        },
+        {
+          "title": "Upscale AI in talks to raise at $2B valuation, says report",
+          "link": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
+          "date": "2026-04-16",
+          "source": "TechCrunch",
+          "description": "AI infrastructure company Upscale AI is reportedly in talks to raise its third funding round since launching just seven months ago.",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-182414392.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Upscale AI in talks to raise at $2B valuation, says report",
+          "original_summary": "AI infrastructure company Upscale AI is reportedly in talks to raise its third funding round since launching just seven months ago.",
+          "summary": "AI infrastructure company Upscale AI is reportedly in talks to raise its third funding round since launching just seven months ago."
+        },
+        {
+          "title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
+          "link": "https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/",
+          "date": "2026-04-16",
+          "source": "TechCrunch",
+          "description": "The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-16-at-12.22.07-PM.png?resize=1200,589",
+          "is_english": true,
+          "original_title": "Physical Intelligence, a hot robotics startup, says its new robot brain can figure out tasks it was never taught",
+          "original_summary": "The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain.",
+          "summary": "The new model, called π0.7, represents what the company describes as an early but meaningful step toward the long-sought goal of a general-purpose robot brain."
+        },
+        {
+          "title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
+          "link": "https://techcrunch.com/2026/04/16/openai-takes-aim-at-anthropic-with-beefed-up-codex-that-gives-it-more-power-over-your-desktop/",
+          "date": "2026-04-16",
+          "source": "TechCrunch",
+          "description": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-16-at-8.39.23-AM.png?resize=1200,670",
+          "is_english": true,
+          "original_title": "OpenAI takes aim at Anthropic with beefed-up Codex that gives it more power over your desktop",
+          "original_summary": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities. ",
+          "summary": "OpenAI's agentic coding tool has gotten a major makeover, with a variety of new powers and abilities. "
+        },
         {
           "title": "Codex for (almost) everything",
           "link": "https://openai.com/index/codex-for-almost-everything",
