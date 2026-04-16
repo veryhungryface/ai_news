@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-04-17",
-      "update_time": "2026-04-16 16:16:24",
+      "update_time": "2026-04-16 18:58:38",
       "news": [
+        {
+          "title": "Stellantis Ramps Up AI Strategy With Microsoft Deal",
+          "link": "https://aibusiness.com/generative-ai/stellantis-ramps-ai-strategy-microsoft-deal",
+          "date": "2026-04-17",
+          "source": "AI Business",
+          "description": "One of the world's biggest automakers is plunging full-on into AI.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt3ef851dddbbcb7be/69e1264af061615496ab3f88/Stellantis.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Stellantis Ramps Up AI Strategy With Microsoft Deal",
+          "original_summary": "One of the world's biggest automakers is plunging full-on into AI.",
+          "summary": "One of the world's biggest automakers is plunging full-on into AI."
+        },
         {
           "title": "Nvidia Partners with Chip Software Maker to Close Sim-to-Real Gap",
           "link": "https://aibusiness.com/robotics/nvidia-partners-chip-software-maker-close-sim-to-real-gap",
@@ -107,6 +119,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+          "link": "https://huggingface.co/Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+          "date": "2026-04-17",
+          "source": "HuggingFace",
+          "description": "• supergemma4-26b-uncensored-gguf-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• supergemma4-26b-uncensored-gguf-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
           "link": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK",
           "date": "2026-04-17",
@@ -120,15 +145,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-          "link": "https://huggingface.co/Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+          "title": "Qwen/Qwen3.6-35B-A3B",
+          "link": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
           "date": "2026-04-17",
           "source": "HuggingFace",
-          "description": "• supergemma4-26b-uncensored-gguf-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
           "is_english": true,
-          "summary": "• supergemma4-26b-uncensored-gguf-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+          "summary": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.6-35B-A3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -155,19 +180,6 @@
           "is_english": true,
           "summary": "• gemma-4-31B-it-NVFP4-turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "LilaRest/gemma-4-31B-it-NVFP4-turbo",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "Qwen/Qwen3.6-35B-A3B",
-          "link": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
-          "date": "2026-04-17",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.6-35B-A3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -237,6 +249,19 @@
           "category": "AI Model"
         },
         {
+          "title": "unsloth/Qwen3.6-35B-A3B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
+          "date": "2026-04-17",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Qwen3.6-35B-A3B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "google/gemma-4-E4B-it",
           "link": "https://huggingface.co/google/gemma-4-E4B-it",
           "date": "2026-04-17",
@@ -274,26 +299,61 @@
           "translated_title": "Comfy-Org/ERNIE-Image",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "unsloth/ERNIE-Image-Turbo-GGUF",
-          "link": "https://huggingface.co/unsloth/ERNIE-Image-Turbo-GGUF",
-          "date": "2026-04-17",
-          "source": "HuggingFace",
-          "description": "• ERNIE-Image-Turbo-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
-          "is_english": true,
-          "summary": "• ERNIE-Image-Turbo-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/ERNIE-Image-Turbo-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-04-16",
-      "update_time": "2026-04-16 16:16:23",
+      "update_time": "2026-04-16 18:58:36",
       "news": [
+        {
+          "title": "Codex for (almost) everything",
+          "link": "https://openai.com/index/codex-for-almost-everything",
+          "date": "2026-04-16",
+          "source": "OpenAI",
+          "description": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Codex for (almost) everything",
+          "original_summary": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
+          "summary": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows."
+        },
+        {
+          "title": "Anthropic CPO leaves Figma’s board after reports he will offer a competing product",
+          "link": "https://techcrunch.com/2026/04/16/anthropic-cpo-leaves-figmas-board-after-reports-he-will-offer-a-competing-product/",
+          "date": "2026-04-16",
+          "source": "TechCrunch",
+          "description": "A herald of the SAASpocalypse?",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/09/1704678804.jpg?resize=1200,799",
+          "is_english": true,
+          "original_title": "Anthropic CPO leaves Figma’s board after reports he will offer a competing product",
+          "original_summary": "A herald of the SAASpocalypse?",
+          "summary": "A herald of the SAASpocalypse?"
+        },
+        {
+          "title": "Google now lets you explore the web side-by-side with AI Mode",
+          "link": "https://techcrunch.com/2026/04/16/google-now-lets-you-explore-the-web-side-by-side-with-ai-mode/",
+          "date": "2026-04-16",
+          "source": "TechCrunch",
+          "description": "Now, when you're using AI Mode on Chrome desktop, clicking a link will open the web page side-by-side with AI Mode. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/ai-mode-google.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Google now lets you explore the web side-by-side with AI Mode",
+          "original_summary": "Now, when you're using AI Mode on Chrome desktop, clicking a link will open the web page side-by-side with AI Mode. ",
+          "summary": "Now, when you're using AI Mode on Chrome desktop, clicking a link will open the web page side-by-side with AI Mode. "
+        },
+        {
+          "title": "A new way to explore the web with AI Mode in Chrome",
+          "link": "https://blog.google/products-and-platforms/products/search/ai-mode-chrome/",
+          "date": "2026-04-16",
+          "source": "Google AI",
+          "description": "Today’s upgrades for AI Mode in Chrome transform how you interact with the web",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/AI_Mode_in_Chrome_-_Blog_header.png",
+          "is_english": true,
+          "original_title": "A new way to explore the web with AI Mode in Chrome",
+          "original_summary": "Today’s upgrades for AI Mode in Chrome transform how you interact with the web",
+          "summary": "Today’s upgrades for AI Mode in Chrome transform how you interact with the web"
+        },
         {
           "title": "InsightFinder raises $15M to help companies figure out where AI agents go wrong",
           "link": "https://techcrunch.com/2026/04/16/insightfinder-raises-15m-to-help-companies-figure-out-where-ai-agents-go-wrong/",
@@ -7873,7 +7933,7 @@
         {
           "title": "google/gemma-4-31B-it",
           "link": "https://huggingface.co/google/gemma-4-31B-it",
-          "date": "2026-04-08",
+          "date": "2026-04-17",
           "source": "HuggingFace",
           "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -7886,7 +7946,7 @@
         {
           "title": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
           "link": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK",
-          "date": "2026-04-08",
+          "date": "2026-04-17",
           "source": "HuggingFace",
           "description": "• Gemma-4-31B-JANG_4M-CRACK 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK/resolve/main/dealign_logo.png",
@@ -7912,7 +7972,7 @@
         {
           "title": "netflix/void-model",
           "link": "https://huggingface.co/netflix/void-model",
-          "date": "2026-04-08",
+          "date": "2026-04-17",
           "source": "HuggingFace",
           "description": "• void-model 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://colab.research.google.com/assets/colab-badge.svg",
@@ -7938,7 +7998,7 @@
         {
           "title": "Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled",
-          "date": "2026-04-08",
+          "date": "2026-04-17",
           "source": "HuggingFace",
           "description": "• Qwen3.5-27B-Claude-4.6-Opus-Reasoning-Distilled 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/GHkMJL6I383eIwK1qj80K.jpeg",
@@ -7951,7 +8011,7 @@
         {
           "title": "google/gemma-4-E4B-it",
           "link": "https://huggingface.co/google/gemma-4-E4B-it",
-          "date": "2026-04-08",
+          "date": "2026-04-17",
           "source": "HuggingFace",
           "description": "• gemma-4-E4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -7977,7 +8037,7 @@
         {
           "title": "k2-fsa/OmniVoice",
           "link": "https://huggingface.co/k2-fsa/OmniVoice",
-          "date": "2026-04-08",
+          "date": "2026-04-17",
           "source": "HuggingFace",
           "description": "• OmniVoice 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
