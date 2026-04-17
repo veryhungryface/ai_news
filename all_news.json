@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-04-17",
-      "update_time": "2026-04-17 07:19:52",
+      "update_time": "2026-04-17 10:05:23",
       "news": [
         {
           "title": "울주군, AI 기술 활용 공무원 역량 키운다",
@@ -513,19 +513,6 @@
           "category": "AI Model"
         },
         {
-          "title": "google/gemma-4-31B-it",
-          "link": "https://huggingface.co/google/gemma-4-31B-it",
-          "date": "2026-04-17",
-          "source": "HuggingFace",
-          "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
-          "is_english": true,
-          "summary": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/gemma-4-31B-it",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "baidu/ERNIE-Image",
           "link": "https://huggingface.co/baidu/ERNIE-Image",
           "date": "2026-04-17",
@@ -535,6 +522,19 @@
           "is_english": true,
           "summary": "• ERNIE-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "baidu/ERNIE-Image",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "google/gemma-4-31B-it",
+          "link": "https://huggingface.co/google/gemma-4-31B-it",
+          "date": "2026-04-17",
+          "source": "HuggingFace",
+          "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "is_english": true,
+          "summary": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/gemma-4-31B-it",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -617,19 +617,6 @@
           "category": "AI Model"
         },
         {
-          "title": "LilaRest/gemma-4-31B-it-NVFP4-turbo",
-          "link": "https://huggingface.co/LilaRest/gemma-4-31B-it-NVFP4-turbo",
-          "date": "2026-04-17",
-          "source": "HuggingFace",
-          "description": "• gemma-4-31B-it-NVFP4-turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/LilaRest/gemma-4-31B-it-NVFP4-turbo/resolve/main/bench/chart/benchmark.png",
-          "is_english": true,
-          "summary": "• gemma-4-31B-it-NVFP4-turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "LilaRest/gemma-4-31B-it-NVFP4-turbo",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "tencent/HY-World-2.0",
           "link": "https://huggingface.co/tencent/HY-World-2.0",
           "date": "2026-04-17",
@@ -639,6 +626,19 @@
           "is_english": true,
           "summary": "• HY-World-2.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "tencent/HY-World-2.0",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "LilaRest/gemma-4-31B-it-NVFP4-turbo",
+          "link": "https://huggingface.co/LilaRest/gemma-4-31B-it-NVFP4-turbo",
+          "date": "2026-04-17",
+          "source": "HuggingFace",
+          "description": "• gemma-4-31B-it-NVFP4-turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/LilaRest/gemma-4-31B-it-NVFP4-turbo/resolve/main/bench/chart/benchmark.png",
+          "is_english": true,
+          "summary": "• gemma-4-31B-it-NVFP4-turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "LilaRest/gemma-4-31B-it-NVFP4-turbo",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -695,19 +695,6 @@
           "category": "AI Model"
         },
         {
-          "title": "google/gemma-4-E4B-it",
-          "link": "https://huggingface.co/google/gemma-4-E4B-it",
-          "date": "2026-04-17",
-          "source": "HuggingFace",
-          "description": "• gemma-4-E4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• gemma-4-E4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/gemma-4-E4B-it",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "NucleusAI/Nucleus-Image",
           "link": "https://huggingface.co/NucleusAI/Nucleus-Image",
           "date": "2026-04-17",
@@ -717,6 +704,19 @@
           "is_english": true,
           "summary": "• Nucleus-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "NucleusAI/Nucleus-Image",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "google/gemma-4-E4B-it",
+          "link": "https://huggingface.co/google/gemma-4-E4B-it",
+          "date": "2026-04-17",
+          "source": "HuggingFace",
+          "description": "• gemma-4-E4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• gemma-4-E4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/gemma-4-E4B-it",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
