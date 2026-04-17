@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-04-17",
-      "update_time": "2026-04-17 10:05:23",
+      "update_time": "2026-04-17 12:55:35",
       "news": [
         {
           "title": "울주군, AI 기술 활용 공무원 역량 키운다",
@@ -578,19 +578,6 @@
           "category": "AI Model"
         },
         {
-          "title": "baidu/ERNIE-Image-Turbo",
-          "link": "https://huggingface.co/baidu/ERNIE-Image-Turbo",
-          "date": "2026-04-17",
-          "source": "HuggingFace",
-          "description": "• ERNIE-Image-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/5f8d780e5d083370c711f575/QRt1mPSU9SCkcxxFWQje2.jpeg",
-          "is_english": true,
-          "summary": "• ERNIE-Image-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "baidu/ERNIE-Image-Turbo",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Qwen3.6-35B-A3B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
           "date": "2026-04-17",
@@ -600,6 +587,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/Qwen3.6-35B-A3B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "baidu/ERNIE-Image-Turbo",
+          "link": "https://huggingface.co/baidu/ERNIE-Image-Turbo",
+          "date": "2026-04-17",
+          "source": "HuggingFace",
+          "description": "• ERNIE-Image-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/5f8d780e5d083370c711f575/QRt1mPSU9SCkcxxFWQje2.jpeg",
+          "is_english": true,
+          "summary": "• ERNIE-Image-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "baidu/ERNIE-Image-Turbo",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -682,19 +682,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/ERNIE-Image-Turbo-GGUF",
-          "link": "https://huggingface.co/unsloth/ERNIE-Image-Turbo-GGUF",
-          "date": "2026-04-17",
-          "source": "HuggingFace",
-          "description": "• ERNIE-Image-Turbo-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
-          "is_english": true,
-          "summary": "• ERNIE-Image-Turbo-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/ERNIE-Image-Turbo-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "NucleusAI/Nucleus-Image",
           "link": "https://huggingface.co/NucleusAI/Nucleus-Image",
           "date": "2026-04-17",
@@ -708,15 +695,28 @@
           "category": "AI Model"
         },
         {
-          "title": "google/gemma-4-E4B-it",
-          "link": "https://huggingface.co/google/gemma-4-E4B-it",
+          "title": "unsloth/ERNIE-Image-Turbo-GGUF",
+          "link": "https://huggingface.co/unsloth/ERNIE-Image-Turbo-GGUF",
           "date": "2026-04-17",
           "source": "HuggingFace",
-          "description": "• gemma-4-E4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "description": "• ERNIE-Image-Turbo-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
           "is_english": true,
-          "summary": "• gemma-4-E4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/gemma-4-E4B-it",
+          "summary": "• ERNIE-Image-Turbo-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/ERNIE-Image-Turbo-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/Lyra-2.0",
+          "link": "https://huggingface.co/nvidia/Lyra-2.0",
+          "date": "2026-04-17",
+          "source": "HuggingFace",
+          "description": "• Lyra-2.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Lyra-2.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/Lyra-2.0",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
