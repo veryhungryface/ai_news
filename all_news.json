@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-04-18",
-      "update_time": "2026-04-17 18:43:30",
+      "update_time": "2026-04-17 21:33:55",
       "news": [
         {
           "title": "The Real AI Shift Isn’t New Models. It’s Control.",
@@ -68,19 +68,6 @@
           "category": "AI Model"
         },
         {
-          "title": "zai-org/GLM-5.1",
-          "link": "https://huggingface.co/zai-org/GLM-5.1",
-          "date": "2026-04-18",
-          "source": "HuggingFace",
-          "description": "• GLM-5.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_51.png",
-          "is_english": true,
-          "summary": "• GLM-5.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "zai-org/GLM-5.1",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "baidu/ERNIE-Image",
           "link": "https://huggingface.co/baidu/ERNIE-Image",
           "date": "2026-04-18",
@@ -94,15 +81,15 @@
           "category": "AI Model"
         },
         {
-          "title": "google/gemma-4-31B-it",
-          "link": "https://huggingface.co/google/gemma-4-31B-it",
+          "title": "zai-org/GLM-5.1",
+          "link": "https://huggingface.co/zai-org/GLM-5.1",
           "date": "2026-04-18",
           "source": "HuggingFace",
-          "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "description": "• GLM-5.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_51.png",
           "is_english": true,
-          "summary": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/gemma-4-31B-it",
+          "summary": "• GLM-5.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "zai-org/GLM-5.1",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -120,15 +107,15 @@
           "category": "AI Model"
         },
         {
-          "title": "openbmb/VoxCPM2",
-          "link": "https://huggingface.co/openbmb/VoxCPM2",
+          "title": "google/gemma-4-31B-it",
+          "link": "https://huggingface.co/google/gemma-4-31B-it",
           "date": "2026-04-18",
           "source": "HuggingFace",
-          "description": "• VoxCPM2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/GitHub-VoxCPM-blue?logo=github",
+          "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
           "is_english": true,
-          "summary": "• VoxCPM2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "openbmb/VoxCPM2",
+          "summary": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/gemma-4-31B-it",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -146,15 +133,15 @@
           "category": "AI Model"
         },
         {
-          "title": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
-          "link": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK",
+          "title": "openbmb/VoxCPM2",
+          "link": "https://huggingface.co/openbmb/VoxCPM2",
           "date": "2026-04-18",
           "source": "HuggingFace",
-          "description": "• Gemma-4-31B-JANG_4M-CRACK 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK/resolve/main/dealign_logo.png",
+          "description": "• VoxCPM2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/GitHub-VoxCPM-blue?logo=github",
           "is_english": true,
-          "summary": "• Gemma-4-31B-JANG_4M-CRACK 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
+          "summary": "• VoxCPM2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "openbmb/VoxCPM2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -168,6 +155,19 @@
           "is_english": true,
           "summary": "• ERNIE-Image-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "baidu/ERNIE-Image-Turbo",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
+          "link": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK",
+          "date": "2026-04-18",
+          "source": "HuggingFace",
+          "description": "• Gemma-4-31B-JANG_4M-CRACK 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK/resolve/main/dealign_logo.png",
+          "is_english": true,
+          "summary": "• Gemma-4-31B-JANG_4M-CRACK 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -237,32 +237,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Comfy-Org/ERNIE-Image",
-          "link": "https://huggingface.co/Comfy-Org/ERNIE-Image",
-          "date": "2026-04-18",
-          "source": "HuggingFace",
-          "description": "• ERNIE-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• ERNIE-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Comfy-Org/ERNIE-Image",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "k2-fsa/OmniVoice",
-          "link": "https://huggingface.co/k2-fsa/OmniVoice",
-          "date": "2026-04-18",
-          "source": "HuggingFace",
-          "description": "• OmniVoice 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• OmniVoice 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "k2-fsa/OmniVoice",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "NucleusAI/Nucleus-Image",
           "link": "https://huggingface.co/NucleusAI/Nucleus-Image",
           "date": "2026-04-18",
@@ -272,6 +246,19 @@
           "is_english": true,
           "summary": "• Nucleus-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "NucleusAI/Nucleus-Image",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Comfy-Org/ERNIE-Image",
+          "link": "https://huggingface.co/Comfy-Org/ERNIE-Image",
+          "date": "2026-04-18",
+          "source": "HuggingFace",
+          "description": "• ERNIE-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• ERNIE-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Comfy-Org/ERNIE-Image",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -287,13 +274,170 @@
           "translated_title": "unsloth/ERNIE-Image-Turbo-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "k2-fsa/OmniVoice",
+          "link": "https://huggingface.co/k2-fsa/OmniVoice",
+          "date": "2026-04-18",
+          "source": "HuggingFace",
+          "description": "• OmniVoice 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• OmniVoice 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "k2-fsa/OmniVoice",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-04-17",
-      "update_time": "2026-04-17 18:43:30",
+      "update_time": "2026-04-17 21:33:55",
       "news": [
+        {
+          "title": "[게시판] NC AI, 아시아 주요국 대상 산업 맞춤형 AX 전략 소개 등 단신",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209426",
+          "date": "2026-04-17",
+          "source": "AI타임스",
+          "description": "■ NC AI(대표 이연수)는 아시아개발은행(ADB)과 과학기술정보통신부가 공동 주관한 글로벌 워크숍에 초청돼 아시아 주요국 정책 결정자를 대상으로 AI 혁신 기술과 비전을 발표했다고 밝혔다. 산업 맞춤형 풀스택 AI 솔루션과 제조, 국방, 유통, 콘텐츠 등 산업 현장의 효율을 극대화한 AX 사례를 공유했다. 이어 미래 핵심 기술인 피지컬 AI와 월드모델 기반 글로벌 확장 로드맵에 대해 설명했다.■ 에스투더블유(대표 서상덕)는 성남 소재 본사에서 ‘AI 시대 새로운 보안 전략: 실사례로 알아보는 대응책’을 주제로 고객사 대상 프라이",
+          "image": "https://cdn.aitimes.com/news/photo/202604/209426_211817_471.jpg",
+          "is_english": false,
+          "original_title": "[게시판] NC AI, 아시아 주요국 대상 산업 맞춤형 AX 전략 소개 등 단신",
+          "original_summary": "■ NC AI(대표 이연수)는 아시아개발은행(ADB)과 과학기술정보통신부가 공동 주관한 글로벌 워크숍에 초청돼 아시아 주요국 정책 결정자를 대상으로 AI 혁신 기술과 비전을 발표했다고 밝혔다. 산업 맞춤형 풀스택 AI 솔루션과 제조, 국방, 유통, 콘텐츠 등 산업 현장의 효율을 극대화한 AX 사례를 공유했다. 이어 미래 핵심 기술인 피지컬 AI와 월드모델 기반 글로벌 확장 로드맵에 대해 설명했다.■ 에스투더블유(대표 서상덕)는 성남 소재 본사에서 ‘AI 시대 새로운 보안 전략: 실사례로 알아보는 대응책’을 주제로 고객사 대상 프라이",
+          "summary": "■ NC AI(대표 이연수)는 아시아개발은행(ADB)과 과학기술정보통신부가 공동 주관한 글로벌 워크숍에 초청돼 아시아 주요국 정책 결정자를 대상으로 AI 혁신 기술과 비전을 발표했다고 밝혔다. 산업 맞춤형 풀스택 AI 솔루션과 제조, 국방, 유통, 콘텐츠 등 산업 현장의 효율을 극대화한 AX 사례를 공유했다. 이어 미래 핵심 기술인 피지컬 AI와 월드모델 기반 글로벌 확장 로드맵에 대해 설명했다.■ 에스투더블유(대표 서상덕)는 성남 소재 본사에서 ‘AI 시대 새로운 보안 전략: 실사례로 알아보는 대응책’을 주제로 고객사 대상 프라이"
+        },
+        {
+          "title": "[게시판] 에이아이웍스, KOICA 캄보디아 AI 에이전트 구축 사업 선정 등 단신",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209424",
+          "date": "2026-04-17",
+          "source": "AI타임스",
+          "description": "■ 에이아이웍스(대표 윤석원)는 한국국제협력단(KOICA)의 IBS(포용적 비즈니스 프로그램) 사업 수행 기관으로 선정, 저자원 언어 국가인 캄보디아를 대상으로 크메르어 기반 AI 에이전트 구축 사업에 본격 착수한다고 밝혔다. 사업 기간은 2030년 12월31일까지다. 크메르어 AI 학습 데이터 500만 문장 이상을 구축하고, AI 교육과정 운영을 통해 450명의 수료생을 배출하며, 50명 이상의 현지 강사를 양성할 계획이다.■ AI 에듀테크 전문 위버스마인드(대표 정성은)는 2025년 연결 기준 매출액 1583억원, 영업이익 30",
+          "image": "https://cdn.aitimes.com/news/photo/202604/209424_211814_3552.jpg",
+          "is_english": false,
+          "original_title": "[게시판] 에이아이웍스, KOICA 캄보디아 AI 에이전트 구축 사업 선정 등 단신",
+          "original_summary": "■ 에이아이웍스(대표 윤석원)는 한국국제협력단(KOICA)의 IBS(포용적 비즈니스 프로그램) 사업 수행 기관으로 선정, 저자원 언어 국가인 캄보디아를 대상으로 크메르어 기반 AI 에이전트 구축 사업에 본격 착수한다고 밝혔다. 사업 기간은 2030년 12월31일까지다. 크메르어 AI 학습 데이터 500만 문장 이상을 구축하고, AI 교육과정 운영을 통해 450명의 수료생을 배출하며, 50명 이상의 현지 강사를 양성할 계획이다.■ AI 에듀테크 전문 위버스마인드(대표 정성은)는 2025년 연결 기준 매출액 1583억원, 영업이익 30",
+          "summary": "■ 에이아이웍스(대표 윤석원)는 한국국제협력단(KOICA)의 IBS(포용적 비즈니스 프로그램) 사업 수행 기관으로 선정, 저자원 언어 국가인 캄보디아를 대상으로 크메르어 기반 AI 에이전트 구축 사업에 본격 착수한다고 밝혔다. 사업 기간은 2030년 12월31일까지다. 크메르어 AI 학습 데이터 500만 문장 이상을 구축하고, AI 교육과정 운영을 통해 450명의 수료생을 배출하며, 50명 이상의 현지 강사를 양성할 계획이다.■ AI 에듀테크 전문 위버스마인드(대표 정성은)는 2025년 연결 기준 매출액 1583억원, 영업이익 30"
+        },
+        {
+          "title": "광주, 찾아가는 무대 열어...\"시청이 오페라 하우스로\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209372",
+          "date": "2026-04-17",
+          "source": "AI타임스",
+          "description": "광주는 광주시립오페라단이 공연장을 벗어나 시민의 일상 속으로 들어간 ‘찾아가는 공연’으로 새로운 문화 확산 모델을 만들어가고 있다고 17일 밝혔다.군부대와 학교, 공공기관 등에서 펼쳐진 공연은 예상치 못한 공간에서 오페라를 접하는 경험을 제공하며 시민들의 호응을 얻고 있다고 전했다.무대 중심이던 오페라를 생활 공간으로 확장해 누구나 향유할 수 있는 공공 문화예술로 전환했다고 강조했다.이 같은 흐름은 공연 소비 방식의 변화를 보여준다. 광주시립오페라단은 5월과 6월에도 공연을 이어가며 접점을 넓힐 계획이다.5월19일에는 광주미디어아트",
+          "image": "https://cdn.aitimes.com/news/photo/202604/209372_211822_80.png",
+          "is_english": false,
+          "original_title": "광주, 찾아가는 무대 열어...\"시청이 오페라 하우스로\"",
+          "original_summary": "광주는 광주시립오페라단이 공연장을 벗어나 시민의 일상 속으로 들어간 ‘찾아가는 공연’으로 새로운 문화 확산 모델을 만들어가고 있다고 17일 밝혔다.군부대와 학교, 공공기관 등에서 펼쳐진 공연은 예상치 못한 공간에서 오페라를 접하는 경험을 제공하며 시민들의 호응을 얻고 있다고 전했다.무대 중심이던 오페라를 생활 공간으로 확장해 누구나 향유할 수 있는 공공 문화예술로 전환했다고 강조했다.이 같은 흐름은 공연 소비 방식의 변화를 보여준다. 광주시립오페라단은 5월과 6월에도 공연을 이어가며 접점을 넓힐 계획이다.5월19일에는 광주미디어아트",
+          "summary": "광주는 광주시립오페라단이 공연장을 벗어나 시민의 일상 속으로 들어간 ‘찾아가는 공연’으로 새로운 문화 확산 모델을 만들어가고 있다고 17일 밝혔다.군부대와 학교, 공공기관 등에서 펼쳐진 공연은 예상치 못한 공간에서 오페라를 접하는 경험을 제공하며 시민들의 호응을 얻고 있다고 전했다.무대 중심이던 오페라를 생활 공간으로 확장해 누구나 향유할 수 있는 공공 문화예술로 전환했다고 강조했다.이 같은 흐름은 공연 소비 방식의 변화를 보여준다. 광주시립오페라단은 5월과 6월에도 공연을 이어가며 접점을 넓힐 계획이다.5월19일에는 광주미디어아트"
+        },
+        {
+          "title": "광주 광산구,  청년 '체감형 정책' 대폭 강화한다.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209375",
+          "date": "2026-04-17",
+          "source": "AI타임스",
+          "description": "광주 광산구가 청년이 머물고 싶은 도시를 목표로 청년 삶 전반을 아우르는 체감형 정책 강화에 나섰다고 17일 밝혔다.광산구는 일자리와 주거, 복지, 문화, 정책 참여에 이르는 다양한 분야에서 청년의 삶을 실질적으로 뒷받침하는 지원사업을 추진하고 있다.단순 지원 항목을 늘리는 데 그치지 않고 청년이 지역 안에서 자립하고 정착할 수 있는 기반을 촘촘히 짜겠다는 방향이 이번 발표의 핵심이다.광산구는 올해 특히 자립과 사회진입에 직접 도움이 되는 사업에 힘을 싣고 있다. 대표 사업은 광산 청년온가와 청년도전지원사업이다. 광산 청년온가는 미",
+          "image": "https://cdn.aitimes.com/news/photo/202604/209375_211816_4234.png",
+          "is_english": false,
+          "original_title": "광주 광산구,  청년 '체감형 정책' 대폭 강화한다.",
+          "original_summary": "광주 광산구가 청년이 머물고 싶은 도시를 목표로 청년 삶 전반을 아우르는 체감형 정책 강화에 나섰다고 17일 밝혔다.광산구는 일자리와 주거, 복지, 문화, 정책 참여에 이르는 다양한 분야에서 청년의 삶을 실질적으로 뒷받침하는 지원사업을 추진하고 있다.단순 지원 항목을 늘리는 데 그치지 않고 청년이 지역 안에서 자립하고 정착할 수 있는 기반을 촘촘히 짜겠다는 방향이 이번 발표의 핵심이다.광산구는 올해 특히 자립과 사회진입에 직접 도움이 되는 사업에 힘을 싣고 있다. 대표 사업은 광산 청년온가와 청년도전지원사업이다. 광산 청년온가는 미",
+          "summary": "광주 광산구가 청년이 머물고 싶은 도시를 목표로 청년 삶 전반을 아우르는 체감형 정책 강화에 나섰다고 17일 밝혔다.광산구는 일자리와 주거, 복지, 문화, 정책 참여에 이르는 다양한 분야에서 청년의 삶을 실질적으로 뒷받침하는 지원사업을 추진하고 있다.단순 지원 항목을 늘리는 데 그치지 않고 청년이 지역 안에서 자립하고 정착할 수 있는 기반을 촘촘히 짜겠다는 방향이 이번 발표의 핵심이다.광산구는 올해 특히 자립과 사회진입에 직접 도움이 되는 사업에 힘을 싣고 있다. 대표 사업은 광산 청년온가와 청년도전지원사업이다. 광산 청년온가는 미"
+        },
+        {
+          "title": "매트릭스, 텍사스 '스틸하우스 솔라' 상업운전...현대차에 전력 판매",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209387",
+          "date": "2026-04-17",
+          "source": "AI타임스",
+          "description": "미국 재생에너지 개발사 매트릭스 리뉴어블스가 텍사스 벨카운티의 스틸하우스 솔라 발전소 상업운전을 시작했다.리뉴어블스나우는 16일(현지시간) 매트릭스가 210메가와트교류 용량(MWac)·281메가와트직류용량(MWdc) 규모 태양광발전소 가동과 함께 투자세액공제 자금조달, 건설금융의 장기차입 전환까지 마무리했다고 보도했다.스틸하우스 솔라 프로젝트의 총투자비는 3억8000만달러(약 5600억원)를 넘는다. 금융 구조에는 MUFG, HSBC, ING Capital LLC가 제공한 장기부채와 신용장 지원이 포함됐고, 글로벌 사모시장 투자사",
+          "image": "https://cdn.aitimes.com/news/photo/202604/209387_211768_2629.png",
+          "is_english": false,
+          "original_title": "매트릭스, 텍사스 '스틸하우스 솔라' 상업운전...현대차에 전력 판매",
+          "original_summary": "미국 재생에너지 개발사 매트릭스 리뉴어블스가 텍사스 벨카운티의 스틸하우스 솔라 발전소 상업운전을 시작했다.리뉴어블스나우는 16일(현지시간) 매트릭스가 210메가와트교류 용량(MWac)·281메가와트직류용량(MWdc) 규모 태양광발전소 가동과 함께 투자세액공제 자금조달, 건설금융의 장기차입 전환까지 마무리했다고 보도했다.스틸하우스 솔라 프로젝트의 총투자비는 3억8000만달러(약 5600억원)를 넘는다. 금융 구조에는 MUFG, HSBC, ING Capital LLC가 제공한 장기부채와 신용장 지원이 포함됐고, 글로벌 사모시장 투자사",
+          "summary": "미국 재생에너지 개발사 매트릭스 리뉴어블스가 텍사스 벨카운티의 스틸하우스 솔라 발전소 상업운전을 시작했다.리뉴어블스나우는 16일(현지시간) 매트릭스가 210메가와트교류 용량(MWac)·281메가와트직류용량(MWdc) 규모 태양광발전소 가동과 함께 투자세액공제 자금조달, 건설금융의 장기차입 전환까지 마무리했다고 보도했다.스틸하우스 솔라 프로젝트의 총투자비는 3억8000만달러(약 5600억원)를 넘는다. 금융 구조에는 MUFG, HSBC, ING Capital LLC가 제공한 장기부채와 신용장 지원이 포함됐고, 글로벌 사모시장 투자사"
+        },
+        {
+          "title": "옥스퍼드PV, 영국 SUITE 프로젝트 합류… 닛산과 손잡고 태양광 자동차 개발",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209334",
+          "date": "2026-04-17",
+          "source": "AI타임스",
+          "description": "영국 페로브스카이트-실리콘 탠덤 태양광 기술 기업 옥스퍼드PV가 차량 일체형 태양광 연구개발 프로젝트에 참여한다.리뉴어블스나우는 15일(현지시간) 옥스퍼드PV가 영국 주도의 협력형 연구개발 프로그램 \\'스위트(SUITE)\\'에 합류했다고 보도했다.스위트(Smart Use of Integrated Technology for EV)는전기차 효율과 주행거리를 높이기 위해 차량용 태양광 혁신을 앞당기는 것을 목표로 한다.전기차용 태양광 패널 설계를 목표로 하는 프로젝트로, 영국 첨단추진센터(APC)의 지원을 받는다. 이번 참여는 단순한 공동연",
+          "image": "https://cdn.aitimes.com/news/photo/202604/209334_211715_1251.png",
+          "is_english": false,
+          "original_title": "옥스퍼드PV, 영국 SUITE 프로젝트 합류… 닛산과 손잡고 태양광 자동차 개발",
+          "original_summary": "영국 페로브스카이트-실리콘 탠덤 태양광 기술 기업 옥스퍼드PV가 차량 일체형 태양광 연구개발 프로젝트에 참여한다.리뉴어블스나우는 15일(현지시간) 옥스퍼드PV가 영국 주도의 협력형 연구개발 프로그램 \\'스위트(SUITE)\\'에 합류했다고 보도했다.스위트(Smart Use of Integrated Technology for EV)는전기차 효율과 주행거리를 높이기 위해 차량용 태양광 혁신을 앞당기는 것을 목표로 한다.전기차용 태양광 패널 설계를 목표로 하는 프로젝트로, 영국 첨단추진센터(APC)의 지원을 받는다. 이번 참여는 단순한 공",
+          "summary": "영국 페로브스카이트-실리콘 탠덤 태양광 기술 기업 옥스퍼드PV가 차량 일체형 태양광 연구개발 프로젝트에 참여한다.리뉴어블스나우는 15일(현지시간) 옥스퍼드PV가 영국 주도의 협력형 연구개발 프로그램 \\'스위트(SUITE)\\'에 합류했다고 보도했다.스위트(Smart Use of Integrated Technology for EV)는전기차 효율과 주행거리를 높이기 위해 차량용 태양광 혁신을 앞당기는 것을 목표로 한다.전기차용 태양광 패널 설계를 목표로 하는 프로젝트로, 영국 첨단추진센터(APC)의 지원을 받는다. 이번 참여는 단순한 공"
+        },
+        {
+          "title": "베트남, 태양광 누적 '19GW' 돌파...성장폭은 둔화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209377",
+          "date": "2026-04-17",
+          "source": "AI타임스",
+          "description": "베트남의 누적 태양광 설비용량이 지난해 19기가와트(GW)를 넘어섰다.PV 매거진은 16일(현지시간) 국제재생에너지기구(IRENA) 통계를 인용해 베트남의 누적 태양광 설비용량이 2025년 말 기준 19GW에 도달했다고 보도했다.베트남 태양광 시장은 여전히 성장세를 이어가고 있지만, 연간 증가폭만 보면 과거보다 속도가 둔화된 흐름도 함께 나타난다.실제 증가폭은 최근 몇 년과 비교하면 다소 엇갈린다. 2025년 늘어난 586MW는 2024년의 79MW보다는 크게 많지만, 2023년의 거의 1.6GW 증가에는 미치지 못한다. 시장이 완",
+          "image": "https://cdn.aitimes.com/news/photo/202604/209377_211756_593.png",
+          "is_english": false,
+          "original_title": "베트남, 태양광 누적 '19GW' 돌파...성장폭은 둔화",
+          "original_summary": "베트남의 누적 태양광 설비용량이 지난해 19기가와트(GW)를 넘어섰다.PV 매거진은 16일(현지시간) 국제재생에너지기구(IRENA) 통계를 인용해 베트남의 누적 태양광 설비용량이 2025년 말 기준 19GW에 도달했다고 보도했다.베트남 태양광 시장은 여전히 성장세를 이어가고 있지만, 연간 증가폭만 보면 과거보다 속도가 둔화된 흐름도 함께 나타난다.실제 증가폭은 최근 몇 년과 비교하면 다소 엇갈린다. 2025년 늘어난 586MW는 2024년의 79MW보다는 크게 많지만, 2023년의 거의 1.6GW 증가에는 미치지 못한다. 시장이 완",
+          "summary": "베트남의 누적 태양광 설비용량이 지난해 19기가와트(GW)를 넘어섰다.PV 매거진은 16일(현지시간) 국제재생에너지기구(IRENA) 통계를 인용해 베트남의 누적 태양광 설비용량이 2025년 말 기준 19GW에 도달했다고 보도했다.베트남 태양광 시장은 여전히 성장세를 이어가고 있지만, 연간 증가폭만 보면 과거보다 속도가 둔화된 흐름도 함께 나타난다.실제 증가폭은 최근 몇 년과 비교하면 다소 엇갈린다. 2025년 늘어난 586MW는 2024년의 79MW보다는 크게 많지만, 2023년의 거의 1.6GW 증가에는 미치지 못한다. 시장이 완"
+        },
+        {
+          "title": "미국 커뮤니티 태양광 '10GW' 시대 개막… 역풍 뚫고 세운 금자탑",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209360",
+          "date": "2026-04-17",
+          "source": "AI타임스",
+          "description": "미국 커뮤니티 태양광 시장이 누적 설치 10기가와트(GW)를 넘어섰다.PV매거진 USA는 15일(현지시간) 우드매킨지와 미국커뮤니티솔라연합(CCSA) 최신 보고서를 인용해 미국 커뮤니티 태양광 누적 설치량이 2025년 말 10GW를 돌파했다고 보도했다.커뮤니티 태양광이란 특정 지역의 유휴 부지에 대규모 태양광 발전소를 건설, 지역 주민들이 발전소의 지분을 사거나 매달 사용료를 내고 구독하는 형태를 말한다.다만 이번 이정표는 시장이 순풍만 탄 결과는 아니다. 지난해 연간 설치량이 25% 줄어드는 추세에서 누적 규모 10GW를 처음 넘",
+          "image": "https://cdn.aitimes.com/news/photo/202604/209360_211739_112.png",
+          "is_english": false,
+          "original_title": "미국 커뮤니티 태양광 '10GW' 시대 개막… 역풍 뚫고 세운 금자탑",
+          "original_summary": "미국 커뮤니티 태양광 시장이 누적 설치 10기가와트(GW)를 넘어섰다.PV매거진 USA는 15일(현지시간) 우드매킨지와 미국커뮤니티솔라연합(CCSA) 최신 보고서를 인용해 미국 커뮤니티 태양광 누적 설치량이 2025년 말 10GW를 돌파했다고 보도했다.커뮤니티 태양광이란 특정 지역의 유휴 부지에 대규모 태양광 발전소를 건설, 지역 주민들이 발전소의 지분을 사거나 매달 사용료를 내고 구독하는 형태를 말한다.다만 이번 이정표는 시장이 순풍만 탄 결과는 아니다. 지난해 연간 설치량이 25% 줄어드는 추세에서 누적 규모 10GW를 처음 넘",
+          "summary": "미국 커뮤니티 태양광 시장이 누적 설치 10기가와트(GW)를 넘어섰다.PV매거진 USA는 15일(현지시간) 우드매킨지와 미국커뮤니티솔라연합(CCSA) 최신 보고서를 인용해 미국 커뮤니티 태양광 누적 설치량이 2025년 말 10GW를 돌파했다고 보도했다.커뮤니티 태양광이란 특정 지역의 유휴 부지에 대규모 태양광 발전소를 건설, 지역 주민들이 발전소의 지분을 사거나 매달 사용료를 내고 구독하는 형태를 말한다.다만 이번 이정표는 시장이 순풍만 탄 결과는 아니다. 지난해 연간 설치량이 25% 줄어드는 추세에서 누적 규모 10GW를 처음 넘"
+        },
+        {
+          "title": "\"태양광 패널 밑 풀이 더 맛있다? 미네소타대 연구팀의 흥미로운 결과\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209383",
+          "date": "2026-04-17",
+          "source": "AI타임스",
+          "description": "미국 연구진이 영농형태양광 환경에서도 젖소 방목용 조사료의 품질이 유지되거나 오히려 향상될 수 있다는 연구 결과를 내놨다.PV 매거진은 16일(현지시간) 미국 미네소타대 연구진이 영농형태양광 배열 아래에서 자라는 목초와 콩과 작물의 수확량과 영양가를 분석한 결과를 소개했다.이번 연구는 태양광 설비와 축산용 조사료 생산이 동시에 가능한지 살펴본 사례로, 단순히 작물이 자라는지만 본 것이 아니라 실제 사료 가치까지 비교했다.연구는 대학 인근의 30킬로와트(kW) 태양광 부지, 50kW 태양광 부지, 그리고 대조구 1곳에서 진행됐다. 3",
+          "image": "https://cdn.aitimes.com/news/photo/202604/209383_211763_442.png",
+          "is_english": false,
+          "original_title": "\"태양광 패널 밑 풀이 더 맛있다? 미네소타대 연구팀의 흥미로운 결과\"",
+          "original_summary": "미국 연구진이 영농형태양광 환경에서도 젖소 방목용 조사료의 품질이 유지되거나 오히려 향상될 수 있다는 연구 결과를 내놨다.PV 매거진은 16일(현지시간) 미국 미네소타대 연구진이 영농형태양광 배열 아래에서 자라는 목초와 콩과 작물의 수확량과 영양가를 분석한 결과를 소개했다.이번 연구는 태양광 설비와 축산용 조사료 생산이 동시에 가능한지 살펴본 사례로, 단순히 작물이 자라는지만 본 것이 아니라 실제 사료 가치까지 비교했다.연구는 대학 인근의 30킬로와트(kW) 태양광 부지, 50kW 태양광 부지, 그리고 대조구 1곳에서 진행됐다. 3",
+          "summary": "미국 연구진이 영농형태양광 환경에서도 젖소 방목용 조사료의 품질이 유지되거나 오히려 향상될 수 있다는 연구 결과를 내놨다.PV 매거진은 16일(현지시간) 미국 미네소타대 연구진이 영농형태양광 배열 아래에서 자라는 목초와 콩과 작물의 수확량과 영양가를 분석한 결과를 소개했다.이번 연구는 태양광 설비와 축산용 조사료 생산이 동시에 가능한지 살펴본 사례로, 단순히 작물이 자라는지만 본 것이 아니라 실제 사료 가치까지 비교했다.연구는 대학 인근의 30킬로와트(kW) 태양광 부지, 50kW 태양광 부지, 그리고 대조구 1곳에서 진행됐다. 3"
+        },
+        {
+          "title": "\"산 지키는 임업인 소득 보전\"… 전남, 임업직불금 혜택 확대",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209376",
+          "date": "2026-04-17",
+          "source": "AI타임스",
+          "description": "전라남도가 임업인의 소득 안정과 산림의 공익기능 유지를 위한 임업·산림 공익직접지불금 신청을 이달 말까지 받는다고 17일 밝혔다.전남은 30일까지 2026년 임업·산림 공익직접지불금 신청을 접수한다.이번 사업은 임업의 공익적 역할을 유지하면서 현장 임업인의 안정적 소득을 보전하기 위한 제도다. 신청 기한을 넘기면 지급 대상에서 제외되는 만큼 현장 안내와 접수 독려도 함께 이뤄지고 있다.신청 대상은 2019년 4월1일부터 2022년 9월30일까지 임업경영체 등록을 완료한 산지에서 직전년도 1년간 60일 이상 임업에 종사하는 등 일정",
+          "image": "https://cdn.aitimes.com/news/photo/202604/209376_211818_4937.png",
+          "is_english": false,
+          "original_title": "\"산 지키는 임업인 소득 보전\"… 전남, 임업직불금 혜택 확대",
+          "original_summary": "전라남도가 임업인의 소득 안정과 산림의 공익기능 유지를 위한 임업·산림 공익직접지불금 신청을 이달 말까지 받는다고 17일 밝혔다.전남은 30일까지 2026년 임업·산림 공익직접지불금 신청을 접수한다.이번 사업은 임업의 공익적 역할을 유지하면서 현장 임업인의 안정적 소득을 보전하기 위한 제도다. 신청 기한을 넘기면 지급 대상에서 제외되는 만큼 현장 안내와 접수 독려도 함께 이뤄지고 있다.신청 대상은 2019년 4월1일부터 2022년 9월30일까지 임업경영체 등록을 완료한 산지에서 직전년도 1년간 60일 이상 임업에 종사하는 등 일정",
+          "summary": "전라남도가 임업인의 소득 안정과 산림의 공익기능 유지를 위한 임업·산림 공익직접지불금 신청을 이달 말까지 받는다고 17일 밝혔다.전남은 30일까지 2026년 임업·산림 공익직접지불금 신청을 접수한다.이번 사업은 임업의 공익적 역할을 유지하면서 현장 임업인의 안정적 소득을 보전하기 위한 제도다. 신청 기한을 넘기면 지급 대상에서 제외되는 만큼 현장 안내와 접수 독려도 함께 이뤄지고 있다.신청 대상은 2019년 4월1일부터 2022년 9월30일까지 임업경영체 등록을 완료한 산지에서 직전년도 1년간 60일 이상 임업에 종사하는 등 일정"
+        },
+        {
+          "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
+          "link": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
+          "date": "2026-04-17",
+          "source": "TechCrunch",
+          "description": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2206295463.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
+          "original_summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI.",
+          "summary": "Kevin Weil and Bill Peebles are leaving OpenAI as the company shuts down Sora and folds its science team, signaling a sharp pivot away from consumer moonshots toward enterprise AI."
+        },
+        {
+          "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
+          "link": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
+          "date": "2026-04-17",
+          "source": "TechCrunch",
+          "description": "Returning backers a16z and Thrive are expected to lead the round.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/12/Anysphere-Cursor-Michael-Truell-.png?resize=1200,745",
+          "is_english": true,
+          "original_title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
+          "original_summary": "Returning backers a16z and Thrive are expected to lead the round.",
+          "summary": "Returning backers a16z and Thrive are expected to lead the round."
+        },
         {
           "title": "“Tokenmaxxing” is making developers less productive than they think",
           "link": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
