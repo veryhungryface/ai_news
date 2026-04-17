@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-04-18",
-      "update_time": "2026-04-17 15:50:37",
+      "update_time": "2026-04-17 18:43:30",
       "news": [
+        {
+          "title": "The Real AI Shift Isn’t New Models. It’s Control.",
+          "link": "https://aibusiness.com/generative-ai/the-real-ai-shift-isn-t-new-models-s-control-",
+          "date": "2026-04-18",
+          "source": "AI Business",
+          "description": "As AI use accelerates, the challenge is no longer building systems but managing them at scale.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltc49c7f3d8f9078d5/69e25c5914cc9a41315df706/Technology_change.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "The Real AI Shift Isn’t New Models. It’s Control.",
+          "original_summary": "As AI use accelerates, the challenge is no longer building systems but managing them at scale.",
+          "summary": "As AI use accelerates, the challenge is no longer building systems but managing them at scale."
+        },
+        {
+          "title": "OpenAI GPT-5.4-Cyber is More Open Than Claude Mythos",
+          "link": "https://aibusiness.com/generative-ai/openai-gpt-5-4-cyber-more-open-than-claude-mythos",
+          "date": "2026-04-18",
+          "source": "AI Business",
+          "description": "The model could help cybersecurity experts better prepare for attacks.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt894811c085feb020/69e25771d52b1a2c04106b56/OpenAI_logo.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "OpenAI GPT-5.4-Cyber is More Open Than Claude Mythos",
+          "original_summary": "The model could help cybersecurity experts better prepare for attacks.",
+          "summary": "The model could help cybersecurity experts better prepare for attacks."
+        },
         {
           "title": "MiniMaxAI/MiniMax-M2.7",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-M2.7",
@@ -18,19 +42,6 @@
           "category": "AI Model"
         },
         {
-          "title": "tencent/HY-Embodied-0.5",
-          "link": "https://huggingface.co/tencent/HY-Embodied-0.5",
-          "date": "2026-04-18",
-          "source": "HuggingFace",
-          "description": "• HY-Embodied-0.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/Paper-Report-red?logo=report",
-          "is_english": true,
-          "summary": "• HY-Embodied-0.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "tencent/HY-Embodied-0.5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.6-35B-A3B",
           "link": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
           "date": "2026-04-18",
@@ -40,6 +51,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.6-35B-A3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "tencent/HY-Embodied-0.5",
+          "link": "https://huggingface.co/tencent/HY-Embodied-0.5",
+          "date": "2026-04-18",
+          "source": "HuggingFace",
+          "description": "• HY-Embodied-0.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/Paper-Report-red?logo=report",
+          "is_english": true,
+          "summary": "• HY-Embodied-0.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "tencent/HY-Embodied-0.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -200,6 +224,32 @@
           "category": "AI Model"
         },
         {
+          "title": "nvidia/Lyra-2.0",
+          "link": "https://huggingface.co/nvidia/Lyra-2.0",
+          "date": "2026-04-18",
+          "source": "HuggingFace",
+          "description": "• Lyra-2.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Lyra-2.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/Lyra-2.0",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Comfy-Org/ERNIE-Image",
+          "link": "https://huggingface.co/Comfy-Org/ERNIE-Image",
+          "date": "2026-04-18",
+          "source": "HuggingFace",
+          "description": "• ERNIE-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• ERNIE-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Comfy-Org/ERNIE-Image",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "k2-fsa/OmniVoice",
           "link": "https://huggingface.co/k2-fsa/OmniVoice",
           "date": "2026-04-18",
@@ -226,19 +276,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Comfy-Org/ERNIE-Image",
-          "link": "https://huggingface.co/Comfy-Org/ERNIE-Image",
-          "date": "2026-04-18",
-          "source": "HuggingFace",
-          "description": "• ERNIE-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• ERNIE-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Comfy-Org/ERNIE-Image",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/ERNIE-Image-Turbo-GGUF",
           "link": "https://huggingface.co/unsloth/ERNIE-Image-Turbo-GGUF",
           "date": "2026-04-18",
@@ -250,26 +287,49 @@
           "translated_title": "unsloth/ERNIE-Image-Turbo-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "nvidia/Lyra-2.0",
-          "link": "https://huggingface.co/nvidia/Lyra-2.0",
-          "date": "2026-04-18",
-          "source": "HuggingFace",
-          "description": "• Lyra-2.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Lyra-2.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/Lyra-2.0",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-04-17",
-      "update_time": "2026-04-17 15:50:37",
+      "update_time": "2026-04-17 18:43:30",
       "news": [
+        {
+          "title": "“Tokenmaxxing” is making developers less productive than they think",
+          "link": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
+          "date": "2026-04-17",
+          "source": "TechCrunch",
+          "description": "There's a lot more code—but it's a lot more expensive and requires a lot more rewriting. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/code-on-a-screen.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "“Tokenmaxxing” is making developers less productive than they think",
+          "original_summary": "There's a lot more code—but it's a lot more expensive and requires a lot more rewriting. ",
+          "summary": "There's a lot more code—but it's a lot more expensive and requires a lot more rewriting. "
+        },
+        {
+          "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
+          "link": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
+          "date": "2026-04-17",
+          "source": "TechCrunch",
+          "description": "The gap between AI insiders and everyone else&#160;is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from&#160;finance apps&#160;to&#160;talk shows, a certain shoe company just&#160;rebranded as an AI infrastructure play, and Anthropic unveiled a model it says is&#160;too powerful to release publicly&#160;&#8230;but&#160;apparently not&#160;too [&#8230;]",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
+          "original_summary": "The gap between AI insiders and everyone else&#160;is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from&#160;finance apps&#160;to&#160;talk shows, a certain shoe company just&#160;rebranded as an AI infrastructure p",
+          "summary": "The gap between AI insiders and everyone else&#160;is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from&#160;finance apps&#160;to&#160;talk shows, a certain shoe company just&#160;rebranded as an AI infrastructure p"
+        },
+        {
+          "title": "Are we tokenmaxxing our way to nowhere?",
+          "link": "https://techcrunch.com/video/are-we-tokenmaxxing-our-way-to-nowhere/",
+          "date": "2026-04-17",
+          "source": "TechCrunch",
+          "description": "The gap between AI insiders and everyone else&#160;is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from&#160;finance apps&#160;to&#160;talk shows, a certain shoe company just&#160;rebranded as an AI infrastructure play, and Anthropic unveiled a model it says is&#160;too powerful to release publicly&#160;&#8230;but&#160;apparently not&#160;too [&#8230;]",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/code-on-a-screen.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "Are we tokenmaxxing our way to nowhere?",
+          "original_summary": "The gap between AI insiders and everyone else&#160;is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from&#160;finance apps&#160;to&#160;talk shows, a certain shoe company just&#160;rebranded as an AI infrastructure p",
+          "summary": "The gap between AI insiders and everyone else&#160;is widening, and the spending, suspicion, and even new vocabulary are starting to show it. While OpenAI is busy buying up everything from&#160;finance apps&#160;to&#160;talk shows, a certain shoe company just&#160;rebranded as an AI infrastructure p"
+        },
         {
           "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
           "link": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
@@ -7789,7 +7849,7 @@
         {
           "title": "google/gemma-4-31B-it",
           "link": "https://huggingface.co/google/gemma-4-31B-it",
-          "date": "2026-04-09",
+          "date": "2026-04-18",
           "source": "HuggingFace",
           "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -7802,7 +7862,7 @@
         {
           "title": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
           "link": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK",
-          "date": "2026-04-09",
+          "date": "2026-04-18",
           "source": "HuggingFace",
           "description": "• Gemma-4-31B-JANG_4M-CRACK 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK/resolve/main/dealign_logo.png",
@@ -7815,7 +7875,7 @@
         {
           "title": "zai-org/GLM-5.1",
           "link": "https://huggingface.co/zai-org/GLM-5.1",
-          "date": "2026-04-09",
+          "date": "2026-04-18",
           "source": "HuggingFace",
           "description": "• GLM-5.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_51.png",
@@ -7854,7 +7914,7 @@
         {
           "title": "openbmb/VoxCPM2",
           "link": "https://huggingface.co/openbmb/VoxCPM2",
-          "date": "2026-04-09",
+          "date": "2026-04-18",
           "source": "HuggingFace",
           "description": "• VoxCPM2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/GitHub-VoxCPM-blue?logo=github",
@@ -7893,7 +7953,7 @@
         {
           "title": "k2-fsa/OmniVoice",
           "link": "https://huggingface.co/k2-fsa/OmniVoice",
-          "date": "2026-04-09",
+          "date": "2026-04-18",
           "source": "HuggingFace",
           "description": "• OmniVoice 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
