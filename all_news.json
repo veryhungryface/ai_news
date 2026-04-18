@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-04-18",
-      "update_time": "2026-04-17 21:33:55",
+      "update_time": "2026-04-18 01:21:07",
       "news": [
+        {
+          "title": "[4월17일] '인지적 항복'의 경고...\"유능한 AI가 인간의 사고를 멈추게 한다\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209393",
+          "date": "2026-04-18",
+          "source": "AI타임스",
+          "description": "\\'인지적 항복(Cognitive Surrender)\\'이라는 단어가 등장했습니다. 펜실베이니아대학교 와튼 스쿨의 연구원들이 지난 2월 \\'사고의 속도: AI가 세상을 어떻게 바꾸고 있는가\\'라는 논문을 통해 소개한 것입니다. 저자들은 이 연구로 꽤 유명해져, 최근까지 팟캐스트에 자주 등장했습니다. 이는 인간이 AI의 답변을 접할 때, 스스로 비판적으로 사고하거나 논리적으로 추론하려는 노력을 멈추고 AI의 결과물을 비판 없이 수용한다는 것을 뜻합니다. 특히 AI가 유능해질수록 인간은 자신의 직관이나 지식보다 알고리즘의 권위를 더 높게 평가",
+          "image": "https://cdn.aitimes.com/news/photo/202604/209393_211773_2350.jpg",
+          "is_english": false,
+          "original_title": "[4월17일] '인지적 항복'의 경고...\"유능한 AI가 인간의 사고를 멈추게 한다\"",
+          "original_summary": "\\'인지적 항복(Cognitive Surrender)\\'이라는 단어가 등장했습니다. 펜실베이니아대학교 와튼 스쿨의 연구원들이 지난 2월 \\'사고의 속도: AI가 세상을 어떻게 바꾸고 있는가\\'라는 논문을 통해 소개한 것입니다. 저자들은 이 연구로 꽤 유명해져, 최근까지 팟캐스트에 자주 등장했습니다. 이는 인간이 AI의 답변을 접할 때, 스스로 비판적으로 사고하거나 논리적으로 추론하려는 노력을 멈추고 AI의 결과물을 비판 없이 수용한다는 것을 뜻합니다. 특히 AI가 유능해질수록 인간은 자신의 직관이나 지식보다 알고리즘의 권위를 더 높",
+          "summary": "\\'인지적 항복(Cognitive Surrender)\\'이라는 단어가 등장했습니다. 펜실베이니아대학교 와튼 스쿨의 연구원들이 지난 2월 \\'사고의 속도: AI가 세상을 어떻게 바꾸고 있는가\\'라는 논문을 통해 소개한 것입니다. 저자들은 이 연구로 꽤 유명해져, 최근까지 팟캐스트에 자주 등장했습니다. 이는 인간이 AI의 답변을 접할 때, 스스로 비판적으로 사고하거나 논리적으로 추론하려는 노력을 멈추고 AI의 결과물을 비판 없이 수용한다는 것을 뜻합니다. 특히 AI가 유능해질수록 인간은 자신의 직관이나 지식보다 알고리즘의 권위를 더 높"
+        },
+        {
+          "title": "‘AI 시대’ 속 어도비의 전략은?… 챗봇에 들어간 에이전트형 AI",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209421",
+          "date": "2026-04-18",
+          "source": "AI타임스",
+          "description": "AI타임스 조예주 기자 joyejuoffice@aitimes.com",
+          "image": "https://cdn.aitimes.com/news/photo/202604/209421_211810_313.jpg",
+          "is_english": false,
+          "original_title": "‘AI 시대’ 속 어도비의 전략은?… 챗봇에 들어간 에이전트형 AI",
+          "original_summary": "AI타임스 조예주 기자 joyejuoffice@aitimes.com",
+          "summary": "AI타임스 조예주 기자 joyejuoffice@aitimes.com"
+        },
         {
           "title": "The Real AI Shift Isn’t New Models. It’s Control.",
           "link": "https://aibusiness.com/generative-ai/the-real-ai-shift-isn-t-new-models-s-control-",
@@ -107,19 +131,6 @@
           "category": "AI Model"
         },
         {
-          "title": "google/gemma-4-31B-it",
-          "link": "https://huggingface.co/google/gemma-4-31B-it",
-          "date": "2026-04-18",
-          "source": "HuggingFace",
-          "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
-          "is_english": true,
-          "summary": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/gemma-4-31B-it",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Qwen3.6-35B-A3B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
           "date": "2026-04-18",
@@ -129,6 +140,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/Qwen3.6-35B-A3B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "google/gemma-4-31B-it",
+          "link": "https://huggingface.co/google/gemma-4-31B-it",
+          "date": "2026-04-18",
+          "source": "HuggingFace",
+          "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "is_english": true,
+          "summary": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/gemma-4-31B-it",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -198,19 +222,6 @@
           "category": "AI Model"
         },
         {
-          "title": "LilaRest/gemma-4-31B-it-NVFP4-turbo",
-          "link": "https://huggingface.co/LilaRest/gemma-4-31B-it-NVFP4-turbo",
-          "date": "2026-04-18",
-          "source": "HuggingFace",
-          "description": "• gemma-4-31B-it-NVFP4-turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/LilaRest/gemma-4-31B-it-NVFP4-turbo/resolve/main/bench/chart/benchmark.png",
-          "is_english": true,
-          "summary": "• gemma-4-31B-it-NVFP4-turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "LilaRest/gemma-4-31B-it-NVFP4-turbo",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Jiunsong/supergemma4-26b-uncensored-mlx-4bit-v2",
           "link": "https://huggingface.co/Jiunsong/supergemma4-26b-uncensored-mlx-4bit-v2",
           "date": "2026-04-18",
@@ -233,6 +244,19 @@
           "is_english": true,
           "summary": "• Lyra-2.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nvidia/Lyra-2.0",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "LilaRest/gemma-4-31B-it-NVFP4-turbo",
+          "link": "https://huggingface.co/LilaRest/gemma-4-31B-it-NVFP4-turbo",
+          "date": "2026-04-18",
+          "source": "HuggingFace",
+          "description": "• gemma-4-31B-it-NVFP4-turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/LilaRest/gemma-4-31B-it-NVFP4-turbo/resolve/main/bench/chart/benchmark.png",
+          "is_english": true,
+          "summary": "• gemma-4-31B-it-NVFP4-turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "LilaRest/gemma-4-31B-it-NVFP4-turbo",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -292,8 +316,32 @@
     },
     {
       "date": "2026-04-17",
-      "update_time": "2026-04-17 21:33:55",
+      "update_time": "2026-04-18 01:21:07",
       "news": [
+        {
+          "title": "아일랜드 액티베이트, 생고뱅 공장에 2.5MW 태양광 구축",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209378",
+          "date": "2026-04-17",
+          "source": "AI타임스",
+          "description": "아일랜드 태양광 설치업체 액티베이트(Activ8 Energies)가 프랑스 건축자재 기업 생고뱅의 아일랜드 계열사 공장에 태양광 설비 구축을 마쳤다.리뉴어블스나우는 16일(현지시간) 액티베이트가 카반주 킹스코트에 있는 Gyproc 제조시설에 태양광 시스템 설치를 완료했다고 보도했다.이번 설비는 공장 전력 수요의 약 15%를 충당할 것으로 예상된다. 지붕형 태양광 설치 뿐만 아니라, 제조시설 안에 현장 재생에너지를 본격 편입한 사례라는 점에서 의미가 있다.설비 규모는 2.5메가와트(MW)다. 이번 사업은 아일랜드 에너지 공급·서비스",
+          "image": "https://cdn.aitimes.com/news/photo/202604/209378_211758_1513.png",
+          "is_english": false,
+          "original_title": "아일랜드 액티베이트, 생고뱅 공장에 2.5MW 태양광 구축",
+          "original_summary": "아일랜드 태양광 설치업체 액티베이트(Activ8 Energies)가 프랑스 건축자재 기업 생고뱅의 아일랜드 계열사 공장에 태양광 설비 구축을 마쳤다.리뉴어블스나우는 16일(현지시간) 액티베이트가 카반주 킹스코트에 있는 Gyproc 제조시설에 태양광 시스템 설치를 완료했다고 보도했다.이번 설비는 공장 전력 수요의 약 15%를 충당할 것으로 예상된다. 지붕형 태양광 설치 뿐만 아니라, 제조시설 안에 현장 재생에너지를 본격 편입한 사례라는 점에서 의미가 있다.설비 규모는 2.5메가와트(MW)다. 이번 사업은 아일랜드 에너지 공급·서비스",
+          "summary": "아일랜드 태양광 설치업체 액티베이트(Activ8 Energies)가 프랑스 건축자재 기업 생고뱅의 아일랜드 계열사 공장에 태양광 설비 구축을 마쳤다.리뉴어블스나우는 16일(현지시간) 액티베이트가 카반주 킹스코트에 있는 Gyproc 제조시설에 태양광 시스템 설치를 완료했다고 보도했다.이번 설비는 공장 전력 수요의 약 15%를 충당할 것으로 예상된다. 지붕형 태양광 설치 뿐만 아니라, 제조시설 안에 현장 재생에너지를 본격 편입한 사례라는 점에서 의미가 있다.설비 규모는 2.5메가와트(MW)다. 이번 사업은 아일랜드 에너지 공급·서비스"
+        },
+        {
+          "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
+          "link": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
+          "date": "2026-04-17",
+          "source": "TechCrunch",
+          "description": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2224158119.jpg?resize=1200,837",
+          "is_english": true,
+          "original_title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
+          "original_summary": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships. ",
+          "summary": "World, which has raised eyebrows (but also a lot of interest) with its Orb-centered anonymous verification project, is looking to expand its influence via a bevy of new partnerships. "
+        },
         {
           "title": "[게시판] NC AI, 아시아 주요국 대상 산업 맞춤형 AX 전략 소개 등 단신",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=209426",
