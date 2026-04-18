@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-04-19",
-      "update_time": "2026-04-18 15:29:36",
+      "update_time": "2026-04-18 18:33:30",
       "news": [
         {
           "title": "MiniMaxAI/MiniMax-M2.7",
@@ -96,19 +96,6 @@
           "category": "AI Model"
         },
         {
-          "title": "google/gemma-4-31B-it",
-          "link": "https://huggingface.co/google/gemma-4-31B-it",
-          "date": "2026-04-19",
-          "source": "HuggingFace",
-          "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
-          "is_english": true,
-          "summary": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/gemma-4-31B-it",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "openbmb/VoxCPM2",
           "link": "https://huggingface.co/openbmb/VoxCPM2",
           "date": "2026-04-19",
@@ -118,6 +105,19 @@
           "is_english": true,
           "summary": "• VoxCPM2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "openbmb/VoxCPM2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "google/gemma-4-31B-it",
+          "link": "https://huggingface.co/google/gemma-4-31B-it",
+          "date": "2026-04-19",
+          "source": "HuggingFace",
+          "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "is_english": true,
+          "summary": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/gemma-4-31B-it",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -213,19 +213,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Jiunsong/supergemma4-26b-uncensored-mlx-4bit-v2",
-          "link": "https://huggingface.co/Jiunsong/supergemma4-26b-uncensored-mlx-4bit-v2",
-          "date": "2026-04-19",
-          "source": "HuggingFace",
-          "description": "• supergemma4-26b-uncensored-mlx-4bit-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• supergemma4-26b-uncensored-mlx-4bit-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jiunsong/supergemma4-26b-uncensored-mlx-4bit-v2",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "NucleusAI/Nucleus-Image",
           "link": "https://huggingface.co/NucleusAI/Nucleus-Image",
           "date": "2026-04-19",
@@ -252,15 +239,28 @@
           "category": "AI Model"
         },
         {
-          "title": "k2-fsa/OmniVoice",
-          "link": "https://huggingface.co/k2-fsa/OmniVoice",
+          "title": "Jiunsong/supergemma4-26b-uncensored-mlx-4bit-v2",
+          "link": "https://huggingface.co/Jiunsong/supergemma4-26b-uncensored-mlx-4bit-v2",
           "date": "2026-04-19",
           "source": "HuggingFace",
-          "description": "• OmniVoice 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "description": "• supergemma4-26b-uncensored-mlx-4bit-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• OmniVoice 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "k2-fsa/OmniVoice",
+          "summary": "• supergemma4-26b-uncensored-mlx-4bit-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jiunsong/supergemma4-26b-uncensored-mlx-4bit-v2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "OpenMOSS-Team/MOSS-TTS-Nano-100M",
+          "link": "https://huggingface.co/OpenMOSS-Team/MOSS-TTS-Nano-100M",
+          "date": "2026-04-19",
+          "source": "HuggingFace",
+          "description": "• MOSS-TTS-Nano-100M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/OpenMOSS-Team/MOSS-TTS-Nano-100M/resolve/main/./assets/images/OpenMOSS_Logo.png",
+          "is_english": true,
+          "summary": "• MOSS-TTS-Nano-100M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "OpenMOSS-Team/MOSS-TTS-Nano-100M",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -7573,7 +7573,7 @@
         {
           "title": "google/gemma-4-31B-it",
           "link": "https://huggingface.co/google/gemma-4-31B-it",
-          "date": "2026-04-10",
+          "date": "2026-04-19",
           "source": "HuggingFace",
           "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -7586,7 +7586,7 @@
         {
           "title": "zai-org/GLM-5.1",
           "link": "https://huggingface.co/zai-org/GLM-5.1",
-          "date": "2026-04-10",
+          "date": "2026-04-19",
           "source": "HuggingFace",
           "description": "• GLM-5.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_51.png",
@@ -7599,7 +7599,7 @@
         {
           "title": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
           "link": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK",
-          "date": "2026-04-10",
+          "date": "2026-04-19",
           "source": "HuggingFace",
           "description": "• Gemma-4-31B-JANG_4M-CRACK 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK/resolve/main/dealign_logo.png",
@@ -7625,7 +7625,7 @@
         {
           "title": "openbmb/VoxCPM2",
           "link": "https://huggingface.co/openbmb/VoxCPM2",
-          "date": "2026-04-10",
+          "date": "2026-04-19",
           "source": "HuggingFace",
           "description": "• VoxCPM2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/GitHub-VoxCPM-blue?logo=github",
