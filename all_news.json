@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-04-19",
-      "update_time": "2026-04-18 18:33:30",
+      "update_time": "2026-04-18 21:24:49",
       "news": [
         {
           "title": "MiniMaxAI/MiniMax-M2.7",
@@ -122,6 +122,19 @@
           "category": "AI Model"
         },
         {
+          "title": "tencent/HY-World-2.0",
+          "link": "https://huggingface.co/tencent/HY-World-2.0",
+          "date": "2026-04-19",
+          "source": "HuggingFace",
+          "description": "• HY-World-2.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/Panorama_Generation-4285F4?style=flat-square",
+          "is_english": true,
+          "summary": "• HY-World-2.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "tencent/HY-World-2.0",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "baidu/ERNIE-Image-Turbo",
           "link": "https://huggingface.co/baidu/ERNIE-Image-Turbo",
           "date": "2026-04-19",
@@ -157,19 +170,6 @@
           "is_english": true,
           "summary": "• Gemma-4-31B-JANG_4M-CRACK 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "tencent/HY-World-2.0",
-          "link": "https://huggingface.co/tencent/HY-World-2.0",
-          "date": "2026-04-19",
-          "source": "HuggingFace",
-          "description": "• HY-World-2.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/Panorama_Generation-4285F4?style=flat-square",
-          "is_english": true,
-          "summary": "• HY-World-2.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "tencent/HY-World-2.0",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +268,20 @@
     },
     {
       "date": "2026-04-18",
-      "update_time": "2026-04-18 15:29:35",
+      "update_time": "2026-04-18 21:24:49",
       "news": [
+        {
+          "title": "AI chip startup Cerebras files for IPO",
+          "link": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+          "date": "2026-04-18",
+          "source": "TechCrunch",
+          "description": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/ASW-Chip_tour-servers.jpg?resize=1200,900",
+          "is_english": true,
+          "original_title": "AI chip startup Cerebras files for IPO",
+          "original_summary": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion.",
+          "summary": "In recent months, the company announced an agreement with Amazon Web Services to use Cerebras chips in Amazon data centers, as well as a deal with OpenAI reportedly worth more than $10 billion."
+        },
         {
           "title": "젠슨 황, 미국 기술 규제에 직격탄...\"패배주의이자 광기\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=209440",
