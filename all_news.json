@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-04-18",
-      "update_time": "2026-04-18 05:07:11",
+      "update_time": "2026-04-18 06:56:41",
       "news": [
+        {
+          "title": "머스크, '테라팹' 장비 제조업체에 '광속 대응' 요청...바도체 자체 제조 본격화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209433",
+          "date": "2026-04-18",
+          "source": "AI타임스",
+          "description": "일론 머스크 CEO의 차세대 반도체 프로젝트 ‘테라팹(Terafab)’이 본격적인 준비 단계에 들어섰다. 기존 반도체 산업 질서를 뒤흔들 수 있는 초대형 구상으로 평가되지만, 업계에서는 실현 가능성을 둘러싼 회의론도 동시에 제기되고 있다.블룸버그는 17일(현지시간) 복수의 관계자를 인용, 테슬라와 스페이스X의 합작 형태로 추진되는 테라팹 프로젝트팀이 최근 글로벌 주요 반도체 장비 업체들에 가격과 납기 문의를 진행했다고 보도했다.접촉 대상에는 어댑티브 머티리얼즈, 도쿄 일렉트론, 램 리서치 등이 포함된 것으로 알려졌다.이들은 포토마스",
+          "image": "https://cdn.aitimes.com/news/photo/202604/209433_211830_06.jpg",
+          "is_english": false,
+          "original_title": "머스크, '테라팹' 장비 제조업체에 '광속 대응' 요청...바도체 자체 제조 본격화",
+          "original_summary": "일론 머스크 CEO의 차세대 반도체 프로젝트 ‘테라팹(Terafab)’이 본격적인 준비 단계에 들어섰다. 기존 반도체 산업 질서를 뒤흔들 수 있는 초대형 구상으로 평가되지만, 업계에서는 실현 가능성을 둘러싼 회의론도 동시에 제기되고 있다.블룸버그는 17일(현지시간) 복수의 관계자를 인용, 테슬라와 스페이스X의 합작 형태로 추진되는 테라팹 프로젝트팀이 최근 글로벌 주요 반도체 장비 업체들에 가격과 납기 문의를 진행했다고 보도했다.접촉 대상에는 어댑티브 머티리얼즈, 도쿄 일렉트론, 램 리서치 등이 포함된 것으로 알려졌다.이들은 포토마스",
+          "summary": "일론 머스크 CEO의 차세대 반도체 프로젝트 ‘테라팹(Terafab)’이 본격적인 준비 단계에 들어섰다. 기존 반도체 산업 질서를 뒤흔들 수 있는 초대형 구상으로 평가되지만, 업계에서는 실현 가능성을 둘러싼 회의론도 동시에 제기되고 있다.블룸버그는 17일(현지시간) 복수의 관계자를 인용, 테슬라와 스페이스X의 합작 형태로 추진되는 테라팹 프로젝트팀이 최근 글로벌 주요 반도체 장비 업체들에 가격과 납기 문의를 진행했다고 보도했다.접촉 대상에는 어댑티브 머티리얼즈, 도쿄 일렉트론, 램 리서치 등이 포함된 것으로 알려졌다.이들은 포토마스"
+        },
         {
           "title": "[내면 지도 그리기] Inner Mapping: 벚꽃 엔딩 특집 '벚꽃 이후의 지도'",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=209434",
@@ -368,19 +380,6 @@
           "category": "AI Model"
         },
         {
-          "title": "LilaRest/gemma-4-31B-it-NVFP4-turbo",
-          "link": "https://huggingface.co/LilaRest/gemma-4-31B-it-NVFP4-turbo",
-          "date": "2026-04-18",
-          "source": "HuggingFace",
-          "description": "• gemma-4-31B-it-NVFP4-turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/LilaRest/gemma-4-31B-it-NVFP4-turbo/resolve/main/bench/chart/benchmark.png",
-          "is_english": true,
-          "summary": "• gemma-4-31B-it-NVFP4-turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "LilaRest/gemma-4-31B-it-NVFP4-turbo",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/ERNIE-Image-Turbo-GGUF",
           "link": "https://huggingface.co/unsloth/ERNIE-Image-Turbo-GGUF",
           "date": "2026-04-18",
@@ -390,6 +389,19 @@
           "is_english": true,
           "summary": "• ERNIE-Image-Turbo-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/ERNIE-Image-Turbo-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "LilaRest/gemma-4-31B-it-NVFP4-turbo",
+          "link": "https://huggingface.co/LilaRest/gemma-4-31B-it-NVFP4-turbo",
+          "date": "2026-04-18",
+          "source": "HuggingFace",
+          "description": "• gemma-4-31B-it-NVFP4-turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/LilaRest/gemma-4-31B-it-NVFP4-turbo/resolve/main/bench/chart/benchmark.png",
+          "is_english": true,
+          "summary": "• gemma-4-31B-it-NVFP4-turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "LilaRest/gemma-4-31B-it-NVFP4-turbo",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
