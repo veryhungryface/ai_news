@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-04-20",
-      "update_time": "2026-04-19 18:34:28",
+      "update_time": "2026-04-19 21:26:14",
       "news": [
         {
           "title": "Qwen/Qwen3.6-35B-A3B",
@@ -268,8 +268,32 @@
     },
     {
       "date": "2026-04-19",
-      "update_time": "2026-04-19 18:34:28",
+      "update_time": "2026-04-19 21:26:14",
       "news": [
+        {
+          "title": "OpenAI’s existential questions",
+          "link": "https://techcrunch.com/2026/04/19/openais-existential-questions/",
+          "date": "2026-04-19",
+          "source": "TechCrunch",
+          "description": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2266645295.jpg?w=1024",
+          "is_english": true,
+          "original_title": "OpenAI’s existential questions",
+          "original_summary": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company.",
+          "summary": "On the latest episode of Equity, we discuss OpenAI's latest acquisitions and whether they address \"two big existential problems\" for the company."
+        },
+        {
+          "title": "The 12-month window",
+          "link": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+          "date": "2026-04-19",
+          "source": "TechCrunch",
+          "description": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/11/Elad-Gil.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "The 12-month window",
+          "original_summary": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever. ",
+          "summary": "A lot of AI startups exist partly because the foundation models haven't expanded into their category yet. As many jokingly acknowledge, that won't last forever. "
+        },
         {
           "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
           "link": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
