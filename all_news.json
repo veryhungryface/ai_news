@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-04-20",
-      "update_time": "2026-04-19 15:29:32",
+      "update_time": "2026-04-19 18:34:28",
       "news": [
         {
           "title": "Qwen/Qwen3.6-35B-A3B",
@@ -96,28 +96,15 @@
           "category": "AI Model"
         },
         {
-          "title": "zai-org/GLM-5.1",
-          "link": "https://huggingface.co/zai-org/GLM-5.1",
+          "title": "openbmb/VoxCPM2",
+          "link": "https://huggingface.co/openbmb/VoxCPM2",
           "date": "2026-04-20",
           "source": "HuggingFace",
-          "description": "• GLM-5.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_51.png",
+          "description": "• VoxCPM2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/GitHub-VoxCPM-blue?logo=github",
           "is_english": true,
-          "summary": "• GLM-5.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "zai-org/GLM-5.1",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "baidu/ERNIE-Image-Turbo",
-          "link": "https://huggingface.co/baidu/ERNIE-Image-Turbo",
-          "date": "2026-04-20",
-          "source": "HuggingFace",
-          "description": "• ERNIE-Image-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/5f8d780e5d083370c711f575/QRt1mPSU9SCkcxxFWQje2.jpeg",
-          "is_english": true,
-          "summary": "• ERNIE-Image-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "baidu/ERNIE-Image-Turbo",
+          "summary": "• VoxCPM2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "openbmb/VoxCPM2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -135,6 +122,32 @@
           "category": "AI Model"
         },
         {
+          "title": "baidu/ERNIE-Image-Turbo",
+          "link": "https://huggingface.co/baidu/ERNIE-Image-Turbo",
+          "date": "2026-04-20",
+          "source": "HuggingFace",
+          "description": "• ERNIE-Image-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/5f8d780e5d083370c711f575/QRt1mPSU9SCkcxxFWQje2.jpeg",
+          "is_english": true,
+          "summary": "• ERNIE-Image-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "baidu/ERNIE-Image-Turbo",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "zai-org/GLM-5.1",
+          "link": "https://huggingface.co/zai-org/GLM-5.1",
+          "date": "2026-04-20",
+          "source": "HuggingFace",
+          "description": "• GLM-5.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_51.png",
+          "is_english": true,
+          "summary": "• GLM-5.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "zai-org/GLM-5.1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "google/gemma-4-31B-it",
           "link": "https://huggingface.co/google/gemma-4-31B-it",
           "date": "2026-04-20",
@@ -144,19 +157,6 @@
           "is_english": true,
           "summary": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "google/gemma-4-31B-it",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "openbmb/VoxCPM2",
-          "link": "https://huggingface.co/openbmb/VoxCPM2",
-          "date": "2026-04-20",
-          "source": "HuggingFace",
-          "description": "• VoxCPM2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/GitHub-VoxCPM-blue?logo=github",
-          "is_english": true,
-          "summary": "• VoxCPM2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "openbmb/VoxCPM2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +268,32 @@
     },
     {
       "date": "2026-04-19",
-      "update_time": "2026-04-19 12:37:32",
+      "update_time": "2026-04-19 18:34:28",
       "news": [
+        {
+          "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
+          "link": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
+          "date": "2026-04-19",
+          "source": "TechCrunch",
+          "description": "Palantir's ideological bent has come under more scrutiny as it's worked with ICE and positioned itself as a defender of \"the West.\"",
+          "image": "https://techcrunch.com/wp-content/uploads/2019/05/palantir.jpg?resize=1200,640",
+          "is_english": true,
+          "original_title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
+          "original_summary": "Palantir's ideological bent has come under more scrutiny as it's worked with ICE and positioned itself as a defender of \"the West.\"",
+          "summary": "Palantir's ideological bent has come under more scrutiny as it's worked with ICE and positioned itself as a defender of \"the West.\""
+        },
+        {
+          "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
+          "link": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
+          "date": "2026-04-19",
+          "source": "TechCrunch",
+          "description": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/2603112-01_LEAF_robotaxi_01.jpg?w=1200",
+          "is_english": true,
+          "original_title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
+          "original_summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part. ",
+          "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, how AI is playing a part. "
+        },
         {
           "title": "[체험기] “20대인 내가 왜 웨어러블 로봇을?”…몇분 만에 깨진 선입견",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=209449",
@@ -6985,7 +7009,7 @@
         {
           "title": "zai-org/GLM-5.1",
           "link": "https://huggingface.co/zai-org/GLM-5.1",
-          "date": "2026-04-11",
+          "date": "2026-04-20",
           "source": "HuggingFace",
           "description": "• GLM-5.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_51.png",
@@ -6998,7 +7022,7 @@
         {
           "title": "google/gemma-4-31B-it",
           "link": "https://huggingface.co/google/gemma-4-31B-it",
-          "date": "2026-04-11",
+          "date": "2026-04-20",
           "source": "HuggingFace",
           "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -7011,7 +7035,7 @@
         {
           "title": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
           "link": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK",
-          "date": "2026-04-11",
+          "date": "2026-04-20",
           "source": "HuggingFace",
           "description": "• Gemma-4-31B-JANG_4M-CRACK 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK/resolve/main/dealign_logo.png",
@@ -7024,7 +7048,7 @@
         {
           "title": "openbmb/VoxCPM2",
           "link": "https://huggingface.co/openbmb/VoxCPM2",
-          "date": "2026-04-11",
+          "date": "2026-04-20",
           "source": "HuggingFace",
           "description": "• VoxCPM2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/GitHub-VoxCPM-blue?logo=github",
