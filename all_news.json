@@ -2,8 +2,56 @@
   "dates": [
     {
       "date": "2026-04-21",
-      "update_time": "2026-04-20 18:52:02",
+      "update_time": "2026-04-20 21:44:02",
       "news": [
+        {
+          "title": "서울시민 AI 이용률 2년만에 3배…고령층은 저조",
+          "link": "https://www.yna.co.kr/view/AKR20260420128100004",
+          "date": "2026-04-21",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 황재하 기자 = 서울시민의 인공지능(AI) 이용이 빠르게 확산하고 있지만, 고령층은 여전히 이용이 저조해 세대 간 격차가 큰 ...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/04/20/AKR20260420128100004_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "서울시민 AI 이용률 2년만에 3배…고령층은 저조",
+          "original_summary": "(서울=연합뉴스) 황재하 기자 = 서울시민의 인공지능(AI) 이용이 빠르게 확산하고 있지만, 고령층은 여전히 이용이 저조해 세대 간 격차가 큰 ...",
+          "summary": "(서울=연합뉴스) 황재하 기자 = 서울시민의 인공지능(AI) 이용이 빠르게 확산하고 있지만, 고령층은 여전히 이용이 저조해 세대 간 격차가 큰 ..."
+        },
+        {
+          "title": "[게시판] 성평등부, 제8기 중앙성별영향평가위 민간위원 신규 위촉",
+          "link": "https://www.yna.co.kr/view/AKR20260420140900530",
+          "date": "2026-04-21",
+          "source": "연합뉴스",
+          "description": "▲ 성평등가족부는 인공지능(AI) 시대에 정책 자문 기능을 강화하기 위해 제8기 중앙성별영향평가위원회 민간위원을 신규 위촉했다고 21일 밝혔다....",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/04/20/AKR20260420140900530_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "[게시판] 성평등부, 제8기 중앙성별영향평가위 민간위원 신규 위촉",
+          "original_summary": "▲ 성평등가족부는 인공지능(AI) 시대에 정책 자문 기능을 강화하기 위해 제8기 중앙성별영향평가위원회 민간위원을 신규 위촉했다고 21일 밝혔다....",
+          "summary": "▲ 성평등가족부는 인공지능(AI) 시대에 정책 자문 기능을 강화하기 위해 제8기 중앙성별영향평가위원회 민간위원을 신규 위촉했다고 21일 밝혔다...."
+        },
+        {
+          "title": "Adobe Launches AI Agent Platform for CX",
+          "link": "https://aibusiness.com/agentic-ai/adobe-launches-ai-agent-platform-for-cx",
+          "date": "2026-04-21",
+          "source": "AI Business",
+          "description": "The company is looking to bolster customer service by scaling AI agent workflows, but it's entering a noisy market.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt78e2bac3969cdc56/69e69911cb63e840319ba9a0/adobe.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Adobe Launches AI Agent Platform for CX",
+          "original_summary": "The company is looking to bolster customer service by scaling AI agent workflows, but it's entering a noisy market.",
+          "summary": "The company is looking to bolster customer service by scaling AI agent workflows, but it's entering a noisy market."
+        },
+        {
+          "title": "Siemens Trials Nvidia-Powered Humanoid",
+          "link": "https://aibusiness.com/generative-ai/siemens-trials-nvidia-powered-humanoid",
+          "date": "2026-04-21",
+          "source": "AI Business",
+          "description": "The trial, which took place at a Siemens factory in Germany, was pitched as a crucial step towards fully AI-integrated operations.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt29cde1d4995aee94/69e675766de3943ac4f83a15/Siemens.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Siemens Trials Nvidia-Powered Humanoid",
+          "original_summary": "The trial, which took place at a Siemens factory in Germany, was pitched as a crucial step towards fully AI-integrated operations.",
+          "summary": "The trial, which took place at a Siemens factory in Germany, was pitched as a crucial step towards fully AI-integrated operations."
+        },
         {
           "title": "네이버, 인도 거대 IT기업 타타 컨설팅과 MOU…\"AI·클라우드·B2C 역량 결합\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=209509",
@@ -107,15 +155,15 @@
           "category": "AI Model"
         },
         {
-          "title": "MiniMaxAI/MiniMax-M2.7",
-          "link": "https://huggingface.co/MiniMaxAI/MiniMax-M2.7",
+          "title": "moonshotai/Kimi-K2.6",
+          "link": "https://huggingface.co/moonshotai/Kimi-K2.6",
           "date": "2026-04-21",
           "source": "HuggingFace",
-          "description": "• MiniMax-M2.7 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "description": "• Kimi-K2.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/moonshotai/Kimi-K2.6/resolve/main/figures/kimi-logo.png",
           "is_english": true,
-          "summary": "• MiniMax-M2.7 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "MiniMaxAI/MiniMax-M2.7",
+          "summary": "• Kimi-K2.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "moonshotai/Kimi-K2.6",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -129,6 +177,19 @@
           "is_english": true,
           "summary": "• ERNIE-Image-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "baidu/ERNIE-Image-Turbo",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-M2.7",
+          "link": "https://huggingface.co/MiniMaxAI/MiniMax-M2.7",
+          "date": "2026-04-21",
+          "source": "HuggingFace",
+          "description": "• MiniMax-M2.7 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• MiniMax-M2.7 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "MiniMaxAI/MiniMax-M2.7",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -159,32 +220,6 @@
           "category": "AI Model"
         },
         {
-          "title": "google/gemma-4-31B-it",
-          "link": "https://huggingface.co/google/gemma-4-31B-it",
-          "date": "2026-04-21",
-          "source": "HuggingFace",
-          "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
-          "is_english": true,
-          "summary": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/gemma-4-31B-it",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "moonshotai/Kimi-K2.6",
-          "link": "https://huggingface.co/moonshotai/Kimi-K2.6",
-          "date": "2026-04-21",
-          "source": "HuggingFace",
-          "description": "• Kimi-K2.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/moonshotai/Kimi-K2.6/resolve/main/figures/kimi-logo.png",
-          "is_english": true,
-          "summary": "• Kimi-K2.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "moonshotai/Kimi-K2.6",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "date": "2026-04-21",
@@ -194,6 +229,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "google/gemma-4-31B-it",
+          "link": "https://huggingface.co/google/gemma-4-31B-it",
+          "date": "2026-04-21",
+          "source": "HuggingFace",
+          "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "is_english": true,
+          "summary": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/gemma-4-31B-it",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -276,15 +324,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.6-35B-A3B-FP8",
-          "link": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B-FP8",
+          "title": "Jackrong/Qwopus-GLM-18B-Merged-GGUF",
+          "link": "https://huggingface.co/Jackrong/Qwopus-GLM-18B-Merged-GGUF",
           "date": "2026-04-21",
           "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "description": "• Qwopus-GLM-18B-Merged-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.6-35B-A3B-FP8",
+          "summary": "• Qwopus-GLM-18B-Merged-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jackrong/Qwopus-GLM-18B-Merged-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -292,8 +340,20 @@
     },
     {
       "date": "2026-04-20",
-      "update_time": "2026-04-20 18:52:00",
+      "update_time": "2026-04-20 21:44:02",
       "news": [
+        {
+          "title": "It’s not just one thing — it’s another thing",
+          "link": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
+          "date": "2026-04-20",
+          "source": "TechCrunch",
+          "description": "This sentence construction (\"It's not just this — it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic — it's almost a guarantee.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-1680577745.jpg?resize=1200,704",
+          "is_english": true,
+          "original_title": "It’s not just one thing — it’s another thing",
+          "original_summary": "This sentence construction (\"It's not just this — it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic — it's almost a guarantee.",
+          "summary": "This sentence construction (\"It's not just this — it's that\") has become so common in AI-generated writing that it's no longer just a clue that a piece of writing may be synthetic — it's almost a guarantee."
+        },
         {
           "title": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
           "link": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
