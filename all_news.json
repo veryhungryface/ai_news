@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-04-21",
-      "update_time": "2026-04-20 16:02:10",
+      "update_time": "2026-04-20 18:52:02",
       "news": [
         {
           "title": "네이버, 인도 거대 IT기업 타타 컨설팅과 MOU…\"AI·클라우드·B2C 역량 결합\"",
@@ -94,19 +94,6 @@
           "category": "AI Model"
         },
         {
-          "title": "MiniMaxAI/MiniMax-M2.7",
-          "link": "https://huggingface.co/MiniMaxAI/MiniMax-M2.7",
-          "date": "2026-04-21",
-          "source": "HuggingFace",
-          "description": "• MiniMax-M2.7 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
-          "is_english": true,
-          "summary": "• MiniMax-M2.7 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "MiniMaxAI/MiniMax-M2.7",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
           "link": "https://huggingface.co/OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
           "date": "2026-04-21",
@@ -116,6 +103,19 @@
           "is_english": true,
           "summary": "• gemma-4-E4B-it-OBLITERATED 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-M2.7",
+          "link": "https://huggingface.co/MiniMaxAI/MiniMax-M2.7",
+          "date": "2026-04-21",
+          "source": "HuggingFace",
+          "description": "• MiniMax-M2.7 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• MiniMax-M2.7 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "MiniMaxAI/MiniMax-M2.7",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -168,6 +168,19 @@
           "is_english": true,
           "summary": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "google/gemma-4-31B-it",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "moonshotai/Kimi-K2.6",
+          "link": "https://huggingface.co/moonshotai/Kimi-K2.6",
+          "date": "2026-04-21",
+          "source": "HuggingFace",
+          "description": "• Kimi-K2.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/moonshotai/Kimi-K2.6/resolve/main/figures/kimi-logo.png",
+          "is_english": true,
+          "summary": "• Kimi-K2.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "moonshotai/Kimi-K2.6",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -274,26 +287,25 @@
           "translated_title": "Qwen/Qwen3.6-35B-A3B-FP8",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "Jackrong/Qwopus-GLM-18B-Merged-GGUF",
-          "link": "https://huggingface.co/Jackrong/Qwopus-GLM-18B-Merged-GGUF",
-          "date": "2026-04-21",
-          "source": "HuggingFace",
-          "description": "• Qwopus-GLM-18B-Merged-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwopus-GLM-18B-Merged-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jackrong/Qwopus-GLM-18B-Merged-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-04-20",
-      "update_time": "2026-04-20 16:02:10",
+      "update_time": "2026-04-20 18:52:00",
       "news": [
+        {
+          "title": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
+          "link": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
+          "date": "2026-04-20",
+          "source": "TechCrunch",
+          "description": "NSA is said to be using Anthropic's restricted Mythos AI model.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
+          "is_english": true,
+          "original_title": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
+          "original_summary": "NSA is said to be using Anthropic's restricted Mythos AI model.",
+          "summary": "NSA is said to be using Anthropic's restricted Mythos AI model."
+        },
         {
           "title": "CEO and CFO suddenly depart AI nuclear power upstart Fermi",
           "link": "https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/",
@@ -7357,7 +7369,7 @@
         {
           "title": "zai-org/GLM-5.1",
           "link": "https://huggingface.co/zai-org/GLM-5.1",
-          "date": "2026-04-12",
+          "date": "2026-04-21",
           "source": "HuggingFace",
           "description": "• GLM-5.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_51.png",
@@ -7370,7 +7382,7 @@
         {
           "title": "google/gemma-4-31B-it",
           "link": "https://huggingface.co/google/gemma-4-31B-it",
-          "date": "2026-04-12",
+          "date": "2026-04-21",
           "source": "HuggingFace",
           "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -7383,7 +7395,7 @@
         {
           "title": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
           "link": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK",
-          "date": "2026-04-12",
+          "date": "2026-04-21",
           "source": "HuggingFace",
           "description": "• Gemma-4-31B-JANG_4M-CRACK 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK/resolve/main/dealign_logo.png",
@@ -7396,7 +7408,7 @@
         {
           "title": "openbmb/VoxCPM2",
           "link": "https://huggingface.co/openbmb/VoxCPM2",
-          "date": "2026-04-12",
+          "date": "2026-04-21",
           "source": "HuggingFace",
           "description": "• VoxCPM2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/GitHub-VoxCPM-blue?logo=github",
@@ -7578,7 +7590,7 @@
         {
           "title": "tencent/HY-Embodied-0.5",
           "link": "https://huggingface.co/tencent/HY-Embodied-0.5",
-          "date": "2026-04-12",
+          "date": "2026-04-21",
           "source": "HuggingFace",
           "description": "• HY-Embodied-0.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/Paper-Report-red?logo=report",
