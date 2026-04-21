@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-04-22",
-      "update_time": "2026-04-21 16:04:40",
+      "update_time": "2026-04-21 18:57:19",
       "news": [
+        {
+          "title": "Hyundai, DeepX Partner to Develop AI Platform for Robotics",
+          "link": "https://aibusiness.com/robotics/hyundai-deepx-partner-develop-ai-platform-robotics",
+          "date": "2026-04-22",
+          "source": "AI Business",
+          "description": "The partners aim to create the core infrastructure for next-generation robotic systems.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltdab2332c9b75c143/69e7b72741f7f8419e369212/Hyundai2.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Hyundai, DeepX Partner to Develop AI Platform for Robotics",
+          "original_summary": "The partners aim to create the core infrastructure for next-generation robotic systems.",
+          "summary": "The partners aim to create the core infrastructure for next-generation robotic systems."
+        },
         {
           "title": "Neura Robotics, AWS Collaborate to Bring Physical AI to the Real World",
           "link": "https://aibusiness.com/generative-ai/neura-robotics-aws-collaborate-bring-physical-ai-real-world",
@@ -120,19 +132,6 @@
           "category": "AI Model"
         },
         {
-          "title": "baidu/ERNIE-Image-Turbo",
-          "link": "https://huggingface.co/baidu/ERNIE-Image-Turbo",
-          "date": "2026-04-22",
-          "source": "HuggingFace",
-          "description": "• ERNIE-Image-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/5f8d780e5d083370c711f575/QRt1mPSU9SCkcxxFWQje2.jpeg",
-          "is_english": true,
-          "summary": "• ERNIE-Image-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "baidu/ERNIE-Image-Turbo",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "date": "2026-04-22",
@@ -142,6 +141,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "baidu/ERNIE-Image-Turbo",
+          "link": "https://huggingface.co/baidu/ERNIE-Image-Turbo",
+          "date": "2026-04-22",
+          "source": "HuggingFace",
+          "description": "• ERNIE-Image-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/5f8d780e5d083370c711f575/QRt1mPSU9SCkcxxFWQje2.jpeg",
+          "is_english": true,
+          "summary": "• ERNIE-Image-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "baidu/ERNIE-Image-Turbo",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -250,19 +262,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Comfy-Org/ERNIE-Image",
-          "link": "https://huggingface.co/Comfy-Org/ERNIE-Image",
-          "date": "2026-04-22",
-          "source": "HuggingFace",
-          "description": "• ERNIE-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• ERNIE-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Comfy-Org/ERNIE-Image",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Jackrong/Qwopus-GLM-18B-Merged-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwopus-GLM-18B-Merged-GGUF",
           "date": "2026-04-22",
@@ -276,15 +275,28 @@
           "category": "AI Model"
         },
         {
-          "title": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
-          "link": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK",
+          "title": "Comfy-Org/ERNIE-Image",
+          "link": "https://huggingface.co/Comfy-Org/ERNIE-Image",
           "date": "2026-04-22",
           "source": "HuggingFace",
-          "description": "• Gemma-4-31B-JANG_4M-CRACK 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK/resolve/main/dealign_logo.png",
+          "description": "• ERNIE-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• Gemma-4-31B-JANG_4M-CRACK 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
+          "summary": "• ERNIE-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Comfy-Org/ERNIE-Image",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.6-35B-A3B-FP8",
+          "link": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B-FP8",
+          "date": "2026-04-22",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-35B-A3B-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• Qwen3.6-35B-A3B-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.6-35B-A3B-FP8",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -292,8 +304,32 @@
     },
     {
       "date": "2026-04-21",
-      "update_time": "2026-04-21 16:04:40",
+      "update_time": "2026-04-21 18:57:19",
       "news": [
+        {
+          "title": "Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’",
+          "link": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
+          "date": "2026-04-21",
+          "source": "TechCrunch",
+          "description": "The AI industry's mudslinging continues. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2208831528.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’",
+          "original_summary": "The AI industry's mudslinging continues. ",
+          "summary": "The AI industry's mudslinging continues. "
+        },
+        {
+          "title": "Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says",
+          "link": "https://techcrunch.com/2026/04/21/clarifai-okcupid-facial-recognition-ai-ftc-settlement/",
+          "date": "2026-04-21",
+          "source": "TechCrunch",
+          "description": "The photo deletion comes after an FTC settlement with Clarifai. The company had asked OkCupid — whose executives had invested in Clarifai — to share data in 2014, according to court documents. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-1968296977.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Clarifai deletes 3 million photos that OkCupid provided to train facial recognition AI, report says",
+          "original_summary": "The photo deletion comes after an FTC settlement with Clarifai. The company had asked OkCupid — whose executives had invested in Clarifai — to share data in 2014, according to court documents. ",
+          "summary": "The photo deletion comes after an FTC settlement with Clarifai. The company had asked OkCupid — whose executives had invested in Clarifai — to share data in 2014, according to court documents. "
+        },
         {
           "title": "AI Dungeon maker Latitude unveils Voyage, a platform for creating AI-powered RPGs",
           "link": "https://techcrunch.com/2026/04/21/voyage-is-an-ai-rpg-platform-for-creating-custom-gaming-worlds-with-ai-generated-npc-interactions/",
@@ -2708,7 +2744,7 @@
         {
           "title": "Qwen/Qwen3.6-35B-A3B-FP8",
           "link": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B-FP8",
-          "date": "2026-04-21",
+          "date": "2026-04-22",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -7861,7 +7897,7 @@
         {
           "title": "zai-org/GLM-5.1",
           "link": "https://huggingface.co/zai-org/GLM-5.1",
-          "date": "2026-04-13",
+          "date": "2026-04-22",
           "source": "HuggingFace",
           "description": "• GLM-5.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_51.png",
@@ -7874,7 +7910,7 @@
         {
           "title": "openbmb/VoxCPM2",
           "link": "https://huggingface.co/openbmb/VoxCPM2",
-          "date": "2026-04-13",
+          "date": "2026-04-22",
           "source": "HuggingFace",
           "description": "• VoxCPM2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/GitHub-VoxCPM-blue?logo=github",
@@ -7887,7 +7923,7 @@
         {
           "title": "google/gemma-4-31B-it",
           "link": "https://huggingface.co/google/gemma-4-31B-it",
-          "date": "2026-04-13",
+          "date": "2026-04-22",
           "source": "HuggingFace",
           "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -7913,7 +7949,7 @@
         {
           "title": "MiniMaxAI/MiniMax-M2.7",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-M2.7",
-          "date": "2026-04-13",
+          "date": "2026-04-22",
           "source": "HuggingFace",
           "description": "• MiniMax-M2.7 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
@@ -8056,7 +8092,7 @@
         {
           "title": "tencent/HY-Embodied-0.5",
           "link": "https://huggingface.co/tencent/HY-Embodied-0.5",
-          "date": "2026-04-13",
+          "date": "2026-04-22",
           "source": "HuggingFace",
           "description": "• HY-Embodied-0.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/Paper-Report-red?logo=report",
