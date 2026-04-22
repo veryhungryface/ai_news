@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-04-23",
-      "update_time": "2026-04-22 16:03:44",
+      "update_time": "2026-04-22 18:58:21",
       "news": [
+        {
+          "title": "Accenture Showcases Humanoid Robot Warehouse Pilot",
+          "link": "https://aibusiness.com/robotics/accenture-showcases-humanoid-robot-warehouse-pilot",
+          "date": "2026-04-23",
+          "source": "AI Business",
+          "description": "The firm is the latest global organization to try out humanoids in an industrial setting.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt78d58bfde45b416c/69e90ff375ef32c6e1f83215/Accenture.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Accenture Showcases Humanoid Robot Warehouse Pilot",
+          "original_summary": "The firm is the latest global organization to try out humanoids in an industrial setting.",
+          "summary": "The firm is the latest global organization to try out humanoids in an industrial setting."
+        },
+        {
+          "title": "SpaceX Agrees to Potential $60B Deal to Acquire Cursor",
+          "link": "https://aibusiness.com/generative-ai/spacex-agrees-potential-60b-deal-acquire-cursor",
+          "date": "2026-04-23",
+          "source": "AI Business",
+          "description": "The acquisition would give Musk a viable rival to Anthropic’s Claude Code and OpenAI’s Codex systems.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt746283818e072b71/69e9090ec43f930165b73f6f/Michael_Truell.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "SpaceX Agrees to Potential $60B Deal to Acquire Cursor",
+          "original_summary": "The acquisition would give Musk a viable rival to Anthropic’s Claude Code and OpenAI’s Codex systems.",
+          "summary": "The acquisition would give Musk a viable rival to Anthropic’s Claude Code and OpenAI’s Codex systems."
+        },
         {
           "title": "Qwen/Qwen3.6-35B-A3B",
           "link": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
@@ -83,15 +107,15 @@
           "category": "AI Model"
         },
         {
-          "title": "tencent/HY-Embodied-0.5",
-          "link": "https://huggingface.co/tencent/HY-Embodied-0.5",
+          "title": "Qwen/Qwen3.6-27B",
+          "link": "https://huggingface.co/Qwen/Qwen3.6-27B",
           "date": "2026-04-23",
           "source": "HuggingFace",
-          "description": "• HY-Embodied-0.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/Paper-Report-red?logo=report",
+          "description": "• Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
           "is_english": true,
-          "summary": "• HY-Embodied-0.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "tencent/HY-Embodied-0.5",
+          "summary": "• Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.6-27B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -109,6 +133,19 @@
           "category": "AI Model"
         },
         {
+          "title": "tencent/HY-Embodied-0.5",
+          "link": "https://huggingface.co/tencent/HY-Embodied-0.5",
+          "date": "2026-04-23",
+          "source": "HuggingFace",
+          "description": "• HY-Embodied-0.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/Paper-Report-red?logo=report",
+          "is_english": true,
+          "summary": "• HY-Embodied-0.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "tencent/HY-Embodied-0.5",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "nvidia/Lyra-2.0",
           "link": "https://huggingface.co/nvidia/Lyra-2.0",
           "date": "2026-04-23",
@@ -118,32 +155,6 @@
           "is_english": true,
           "summary": "• Lyra-2.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nvidia/Lyra-2.0",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "Qwen/Qwen3.6-27B",
-          "link": "https://huggingface.co/Qwen/Qwen3.6-27B",
-          "date": "2026-04-23",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.6-27B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "MiniMaxAI/MiniMax-M2.7",
-          "link": "https://huggingface.co/MiniMaxAI/MiniMax-M2.7",
-          "date": "2026-04-23",
-          "source": "HuggingFace",
-          "description": "• MiniMax-M2.7 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
-          "is_english": true,
-          "summary": "• MiniMax-M2.7 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "MiniMaxAI/MiniMax-M2.7",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -161,6 +172,19 @@
           "category": "AI Model"
         },
         {
+          "title": "MiniMaxAI/MiniMax-M2.7",
+          "link": "https://huggingface.co/MiniMaxAI/MiniMax-M2.7",
+          "date": "2026-04-23",
+          "source": "HuggingFace",
+          "description": "• MiniMax-M2.7 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• MiniMax-M2.7 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "MiniMaxAI/MiniMax-M2.7",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "openbmb/VoxCPM2",
           "link": "https://huggingface.co/openbmb/VoxCPM2",
           "date": "2026-04-23",
@@ -170,19 +194,6 @@
           "is_english": true,
           "summary": "• VoxCPM2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "openbmb/VoxCPM2",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "zai-org/GLM-5.1",
-          "link": "https://huggingface.co/zai-org/GLM-5.1",
-          "date": "2026-04-23",
-          "source": "HuggingFace",
-          "description": "• GLM-5.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_51.png",
-          "is_english": true,
-          "summary": "• GLM-5.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "zai-org/GLM-5.1",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -200,6 +211,32 @@
           "category": "AI Model"
         },
         {
+          "title": "zai-org/GLM-5.1",
+          "link": "https://huggingface.co/zai-org/GLM-5.1",
+          "date": "2026-04-23",
+          "source": "HuggingFace",
+          "description": "• GLM-5.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_51.png",
+          "is_english": true,
+          "summary": "• GLM-5.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "zai-org/GLM-5.1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "openai/privacy-filter",
+          "link": "https://huggingface.co/openai/privacy-filter",
+          "date": "2026-04-23",
+          "source": "HuggingFace",
+          "description": "• privacy-filter 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "is_english": true,
+          "summary": "• privacy-filter 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "openai/privacy-filter",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
           "link": "https://huggingface.co/Jiunsong/supergemma4-26b-uncensored-gguf-v2",
           "date": "2026-04-23",
@@ -209,19 +246,6 @@
           "is_english": true,
           "summary": "• supergemma4-26b-uncensored-gguf-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "NucleusAI/Nucleus-Image",
-          "link": "https://huggingface.co/NucleusAI/Nucleus-Image",
-          "date": "2026-04-23",
-          "source": "HuggingFace",
-          "description": "• Nucleus-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://storage.googleapis.com/nucleus_image_v1/Architecture_Diagram.png",
-          "is_english": true,
-          "summary": "• Nucleus-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "NucleusAI/Nucleus-Image",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,6 +263,19 @@
           "category": "AI Model"
         },
         {
+          "title": "unsloth/Qwen3.6-27B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.6-27B-GGUF",
+          "date": "2026-04-23",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• Qwen3.6-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Qwen3.6-27B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "robbyant/lingbot-map",
           "link": "https://huggingface.co/robbyant/lingbot-map",
           "date": "2026-04-23",
@@ -250,26 +287,97 @@
           "translated_title": "robbyant/lingbot-map",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "baidu/ERNIE-Image-Turbo",
-          "link": "https://huggingface.co/baidu/ERNIE-Image-Turbo",
-          "date": "2026-04-23",
-          "source": "HuggingFace",
-          "description": "• ERNIE-Image-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/5f8d780e5d083370c711f575/QRt1mPSU9SCkcxxFWQje2.jpeg",
-          "is_english": true,
-          "summary": "• ERNIE-Image-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "baidu/ERNIE-Image-Turbo",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-04-22",
-      "update_time": "2026-04-22 16:03:42",
+      "update_time": "2026-04-22 18:58:18",
       "news": [
+        {
+          "title": "Workspace agents",
+          "link": "https://openai.com/academy/workspace-agents",
+          "date": "2026-04-22",
+          "source": "OpenAI",
+          "description": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Workspace agents",
+          "original_summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations.",
+          "summary": "Learn how to build, use, and scale workspace agents in ChatGPT to automate repeatable workflows, connect tools, and streamline team operations."
+        },
+        {
+          "title": "Introducing workspace agents in ChatGPT",
+          "link": "https://openai.com/index/introducing-workspace-agents-in-chatgpt",
+          "date": "2026-04-22",
+          "source": "OpenAI",
+          "description": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Introducing workspace agents in ChatGPT",
+          "original_summary": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely.",
+          "summary": "Workspace agents in ChatGPT are Codex-powered agents that automate complex workflows, run in the cloud, and help teams scale work across tools securely."
+        },
+        {
+          "title": "Speeding up agentic workflows with WebSockets in the Responses API",
+          "link": "https://openai.com/index/speeding-up-agentic-workflows-with-websockets",
+          "date": "2026-04-22",
+          "source": "OpenAI",
+          "description": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Speeding up agentic workflows with WebSockets in the Responses API",
+          "original_summary": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency.",
+          "summary": "A deep dive into the Codex agent loop, showing how WebSockets and connection-scoped caching reduced API overhead and improved model latency."
+        },
+        {
+          "title": "Google Cloud launches two new AI chips to compete with Nvidia",
+          "link": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
+          "date": "2026-04-22",
+          "source": "TechCrunch",
+          "description": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/Google-TPU8.jpg?w=1031",
+          "is_english": true,
+          "original_title": "Google Cloud launches two new AI chips to compete with Nvidia",
+          "original_summary": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now.",
+          "summary": "Google's newest TPUs are faster and cheaper than the previous versions. But the company is still embracing Nvidia in its cloud — for now."
+        },
+        {
+          "title": "Google turns Chrome into an AI co-worker for the workplace",
+          "link": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
+          "date": "2026-04-22",
+          "source": "TechCrunch",
+          "description": "Google brings Gemini-powered \"auto browse\" capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-chrome-GettyImages-2151457378.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Google turns Chrome into an AI co-worker for the workplace",
+          "original_summary": "Google brings Gemini-powered \"auto browse\" capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more.",
+          "summary": "Google brings Gemini-powered \"auto browse\" capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more."
+        },
+        {
+          "title": "Google makes an interesting choice with its new agent-building tool for enterprises",
+          "link": "https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/",
+          "date": "2026-04-22",
+          "source": "TechCrunch",
+          "description": "Gemini Enterprise Agent Platform takes an interesting approach: It is geared for IT and technical users.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2266466589.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Google makes an interesting choice with its new agent-building tool for enterprises",
+          "original_summary": "Gemini Enterprise Agent Platform takes an interesting approach: It is geared for IT and technical users.",
+          "summary": "Gemini Enterprise Agent Platform takes an interesting approach: It is geared for IT and technical users."
+        },
+        {
+          "title": "AI Overviews are coming to your Gmail at work",
+          "link": "https://techcrunch.com/2026/04/22/ai-overviews-are-coming-to-your-gmail-at-work/",
+          "date": "2026-04-22",
+          "source": "TechCrunch",
+          "description": "The AI Overviews will offer instant summaries pulled from across multiple emails.  ",
+          "image": "https://techcrunch.com/wp-content/uploads/2020/10/gmail-icon-2020-ios.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "AI Overviews are coming to your Gmail at work",
+          "original_summary": "The AI Overviews will offer instant summaries pulled from across multiple emails.  ",
+          "summary": "The AI Overviews will offer instant summaries pulled from across multiple emails.  "
+        },
         {
           "title": "Introducing OpenAI Privacy Filter",
           "link": "https://openai.com/index/introducing-openai-privacy-filter",
@@ -8089,7 +8197,7 @@
         {
           "title": "zai-org/GLM-5.1",
           "link": "https://huggingface.co/zai-org/GLM-5.1",
-          "date": "2026-04-14",
+          "date": "2026-04-23",
           "source": "HuggingFace",
           "description": "• GLM-5.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_51.png",
@@ -8102,7 +8210,7 @@
         {
           "title": "openbmb/VoxCPM2",
           "link": "https://huggingface.co/openbmb/VoxCPM2",
-          "date": "2026-04-14",
+          "date": "2026-04-23",
           "source": "HuggingFace",
           "description": "• VoxCPM2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/GitHub-VoxCPM-blue?logo=github",
@@ -8115,7 +8223,7 @@
         {
           "title": "MiniMaxAI/MiniMax-M2.7",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-M2.7",
-          "date": "2026-04-14",
+          "date": "2026-04-23",
           "source": "HuggingFace",
           "description": "• MiniMax-M2.7 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
@@ -8128,7 +8236,7 @@
         {
           "title": "google/gemma-4-31B-it",
           "link": "https://huggingface.co/google/gemma-4-31B-it",
-          "date": "2026-04-14",
+          "date": "2026-04-23",
           "source": "HuggingFace",
           "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -8167,7 +8275,7 @@
         {
           "title": "tencent/HY-Embodied-0.5",
           "link": "https://huggingface.co/tencent/HY-Embodied-0.5",
-          "date": "2026-04-14",
+          "date": "2026-04-23",
           "source": "HuggingFace",
           "description": "• HY-Embodied-0.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/Paper-Report-red?logo=report",
