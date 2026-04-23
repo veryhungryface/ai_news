@@ -2,8 +2,68 @@
   "dates": [
     {
       "date": "2026-04-23",
-      "update_time": "2026-04-23 10:15:11",
+      "update_time": "2026-04-23 13:00:29",
       "news": [
+        {
+          "title": "알리바바, 15배나 큰 모델보다 코딩 앞선 '큐원3.6-27B' 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209657",
+          "date": "2026-04-23",
+          "source": "AI타임스",
+          "description": "알리바바가 코딩 에이전트 작업에서 최고 수준을 기록한 매개변수 270억개의 경량 모델을 공개했다.알리바바는 22일(현지시간) 새로운 오픈소스 AI 모델 ‘큐원3.6-27B(Qwen3.6-27B)’를 공개했다. 전문가 혼합(MoE) 방식이 아닌, 큐원3.6 시리즈 최초의 완전 밀집(Dense) 구조 모델이다.특히, 자율형 코딩(agentic coding) 분야에서 강력한 성능을 보여주는 것이 특징이다.270억개의 매개변수에도 불구하고, 15배 이상 큰 대표 모델 \\'큐원3.5-397B-A17B\\'를 주요 코딩 벤치마크에서 모두 앞서는 성",
+          "image": "https://cdn.aitimes.com/news/photo/202604/209657_212105_026.png",
+          "is_english": false,
+          "original_title": "알리바바, 15배나 큰 모델보다 코딩 앞선 '큐원3.6-27B' 출시",
+          "original_summary": "알리바바가 코딩 에이전트 작업에서 최고 수준을 기록한 매개변수 270억개의 경량 모델을 공개했다.알리바바는 22일(현지시간) 새로운 오픈소스 AI 모델 ‘큐원3.6-27B(Qwen3.6-27B)’를 공개했다. 전문가 혼합(MoE) 방식이 아닌, 큐원3.6 시리즈 최초의 완전 밀집(Dense) 구조 모델이다.특히, 자율형 코딩(agentic coding) 분야에서 강력한 성능을 보여주는 것이 특징이다.270억개의 매개변수에도 불구하고, 15배 이상 큰 대표 모델 \\'큐원3.5-397B-A17B\\'를 주요 코딩 벤치마크에서 모두 앞서는",
+          "summary": "알리바바가 코딩 에이전트 작업에서 최고 수준을 기록한 매개변수 270억개의 경량 모델을 공개했다.알리바바는 22일(현지시간) 새로운 오픈소스 AI 모델 ‘큐원3.6-27B(Qwen3.6-27B)’를 공개했다. 전문가 혼합(MoE) 방식이 아닌, 큐원3.6 시리즈 최초의 완전 밀집(Dense) 구조 모델이다.특히, 자율형 코딩(agentic coding) 분야에서 강력한 성능을 보여주는 것이 특징이다.270억개의 매개변수에도 불구하고, 15배 이상 큰 대표 모델 \\'큐원3.5-397B-A17B\\'를 주요 코딩 벤치마크에서 모두 앞서는"
+        },
+        {
+          "title": "샤오미, 최상위 모델 '미모-V2.5-프로' 공개...세계 5위까지 상승",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209656",
+          "date": "2026-04-23",
+          "source": "AI타임스",
+          "description": "샤오미가 불과 한달 만에 기존 ‘미모-V2-프로(MiMo-V2-Pro)’를 크게 능가하는 최고 수준의 AI 모델을 선보이며, 에이전트형 AI 분야에서 글로벌 선두권 모델들과의 격차를 빠르게 좁히고 있다. 샤오미는 22일(현지시간) 복잡한 장기 작업과 고난도 개발 업무를 자율적으로 수행하도록 에이전트형 AI에 최적화된 AI 모델 ‘미모-V2.5-프로’와 ‘미모-V2.5’를 퍼블릭 베타로 공개했다.웹 검색, 코드 실행, 파일 입출력, API 호출 등 다양한 도구를 활용해 여러 단계를 거치는 작업을 수행하면서도 초기 목표를 유지하는 능력",
+          "image": "https://cdn.aitimes.com/news/photo/202604/209656_212103_3112.png",
+          "is_english": false,
+          "original_title": "샤오미, 최상위 모델 '미모-V2.5-프로' 공개...세계 5위까지 상승",
+          "original_summary": "샤오미가 불과 한달 만에 기존 ‘미모-V2-프로(MiMo-V2-Pro)’를 크게 능가하는 최고 수준의 AI 모델을 선보이며, 에이전트형 AI 분야에서 글로벌 선두권 모델들과의 격차를 빠르게 좁히고 있다. 샤오미는 22일(현지시간) 복잡한 장기 작업과 고난도 개발 업무를 자율적으로 수행하도록 에이전트형 AI에 최적화된 AI 모델 ‘미모-V2.5-프로’와 ‘미모-V2.5’를 퍼블릭 베타로 공개했다.웹 검색, 코드 실행, 파일 입출력, API 호출 등 다양한 도구를 활용해 여러 단계를 거치는 작업을 수행하면서도 초기 목표를 유지하는 능력",
+          "summary": "샤오미가 불과 한달 만에 기존 ‘미모-V2-프로(MiMo-V2-Pro)’를 크게 능가하는 최고 수준의 AI 모델을 선보이며, 에이전트형 AI 분야에서 글로벌 선두권 모델들과의 격차를 빠르게 좁히고 있다. 샤오미는 22일(현지시간) 복잡한 장기 작업과 고난도 개발 업무를 자율적으로 수행하도록 에이전트형 AI에 최적화된 AI 모델 ‘미모-V2.5-프로’와 ‘미모-V2.5’를 퍼블릭 베타로 공개했다.웹 검색, 코드 실행, 파일 입출력, API 호출 등 다양한 도구를 활용해 여러 단계를 거치는 작업을 수행하면서도 초기 목표를 유지하는 능력"
+        },
+        {
+          "title": "오픈AI, 챗GPT에 '워크스페이스 에이전트' 도입...\"조직형 AI로 전환\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209646",
+          "date": "2026-04-23",
+          "source": "AI타임스",
+          "description": "오픈AI가 최근 테스트 중이던 챗GPT의 상시 구동 자율 에이전트 기능 ‘에르메스(Hermes)’를 ‘워크스페이스 에이전트(Workspace Agents)’라는 이름으로 공식 출시했다.오픈AI는 22일(현지시간) 조직 단위 협업을 위한 새로운 AI 에이전트 기능 ‘워크스페이스 에이전트(Workspace Agents)’를 챗GPT에 도입했다고 밝혔다.개인 생산성 도구를 넘어, 팀 전체의 업무 흐름을 자동화하고 공유하는 ‘조직형 AI’로의 전환이다.워크스페이스 에이전트는 GPT의 진화된 형태로, \\'코덱스(Codex)\\' 기반 클라우드 환",
+          "image": "https://cdn.aitimes.com/news/photo/202604/209646_212089_2055.jpg",
+          "is_english": false,
+          "original_title": "오픈AI, 챗GPT에 '워크스페이스 에이전트' 도입...\"조직형 AI로 전환\"",
+          "original_summary": "오픈AI가 최근 테스트 중이던 챗GPT의 상시 구동 자율 에이전트 기능 ‘에르메스(Hermes)’를 ‘워크스페이스 에이전트(Workspace Agents)’라는 이름으로 공식 출시했다.오픈AI는 22일(현지시간) 조직 단위 협업을 위한 새로운 AI 에이전트 기능 ‘워크스페이스 에이전트(Workspace Agents)’를 챗GPT에 도입했다고 밝혔다.개인 생산성 도구를 넘어, 팀 전체의 업무 흐름을 자동화하고 공유하는 ‘조직형 AI’로의 전환이다.워크스페이스 에이전트는 GPT의 진화된 형태로, \\'코덱스(Codex)\\' 기반 클라우드",
+          "summary": "오픈AI가 최근 테스트 중이던 챗GPT의 상시 구동 자율 에이전트 기능 ‘에르메스(Hermes)’를 ‘워크스페이스 에이전트(Workspace Agents)’라는 이름으로 공식 출시했다.오픈AI는 22일(현지시간) 조직 단위 협업을 위한 새로운 AI 에이전트 기능 ‘워크스페이스 에이전트(Workspace Agents)’를 챗GPT에 도입했다고 밝혔다.개인 생산성 도구를 넘어, 팀 전체의 업무 흐름을 자동화하고 공유하는 ‘조직형 AI’로의 전환이다.워크스페이스 에이전트는 GPT의 진화된 형태로, \\'코덱스(Codex)\\' 기반 클라우드"
+        },
+        {
+          "title": "탁구 로봇, 10년 경력 이상 엘리트 선수 꺾어...\"AI·로봇공학의 획기적 성과\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209676",
+          "date": "2026-04-23",
+          "source": "AI타임스",
+          "description": "인간 고수급 선수들과의 탁구 경기에서 승리를 거두는 로봇이 등장하며, 피지컬 AI 기술이 새로운 전환점을 맞고 있다.소니 AI는 22일(현지시간) 엘리트 및 프로 탁구 선수들과 경쟁할 수 있는 최초의 자율 로봇 ‘에이스(Ace)’를 공개했다. 이번 연구는 국제 학술지 네이처에 게재되며 AI 및 로봇공학 분야에서 성과를 인정받았다.에이스는 카메라 기반 시각 센서와 강화 학습(RL), 고속 로봇 하드웨어를 결합한 시스템으로, 공의 위치와 속도, 회전을 실시간으로 파악하고 적절한 타구를 결정한다.크레인 형태의 로봇 팔 끝에 라켓이 장착된",
+          "image": "https://cdn.aitimes.com/news/photo/202604/209676_212126_4932.png",
+          "is_english": false,
+          "original_title": "탁구 로봇, 10년 경력 이상 엘리트 선수 꺾어...\"AI·로봇공학의 획기적 성과\"",
+          "original_summary": "인간 고수급 선수들과의 탁구 경기에서 승리를 거두는 로봇이 등장하며, 피지컬 AI 기술이 새로운 전환점을 맞고 있다.소니 AI는 22일(현지시간) 엘리트 및 프로 탁구 선수들과 경쟁할 수 있는 최초의 자율 로봇 ‘에이스(Ace)’를 공개했다. 이번 연구는 국제 학술지 네이처에 게재되며 AI 및 로봇공학 분야에서 성과를 인정받았다.에이스는 카메라 기반 시각 센서와 강화 학습(RL), 고속 로봇 하드웨어를 결합한 시스템으로, 공의 위치와 속도, 회전을 실시간으로 파악하고 적절한 타구를 결정한다.크레인 형태의 로봇 팔 끝에 라켓이 장착된",
+          "summary": "인간 고수급 선수들과의 탁구 경기에서 승리를 거두는 로봇이 등장하며, 피지컬 AI 기술이 새로운 전환점을 맞고 있다.소니 AI는 22일(현지시간) 엘리트 및 프로 탁구 선수들과 경쟁할 수 있는 최초의 자율 로봇 ‘에이스(Ace)’를 공개했다. 이번 연구는 국제 학술지 네이처에 게재되며 AI 및 로봇공학 분야에서 성과를 인정받았다.에이스는 카메라 기반 시각 센서와 강화 학습(RL), 고속 로봇 하드웨어를 결합한 시스템으로, 공의 위치와 속도, 회전을 실시간으로 파악하고 적절한 타구를 결정한다.크레인 형태의 로봇 팔 끝에 라켓이 장착된"
+        },
+        {
+          "title": "Beehiiv rolls out new creator tools, including webinars and customizable paywalls",
+          "link": "https://techcrunch.com/2026/04/23/beehiiv-rolls-out-new-creator-tools-including-webinars-and-customizable-paywalls/",
+          "date": "2026-04-23",
+          "source": "TechCrunch",
+          "description": "Beehiiv is clearly done being just a newsletter platform based on today's launch of a new webinar feature, customizable paywalls, and more.",
+          "image": "https://techcrunch.com/wp-content/uploads/2018/06/GettyImages-155283357.jpg?resize=1200,808",
+          "is_english": true,
+          "original_title": "Beehiiv rolls out new creator tools, including webinars and customizable paywalls",
+          "original_summary": "Beehiiv is clearly done being just a newsletter platform based on today's launch of a new webinar feature, customizable paywalls, and more.",
+          "summary": "Beehiiv is clearly done being just a newsletter platform based on today's launch of a new webinar feature, customizable paywalls, and more."
+        },
         {
           "title": "'오픈클로' 확장의 한계...\"안정성 문제로 업데이트 중단·구형 버전 사용 중\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=209677",
@@ -657,19 +717,6 @@
           "category": "AI Model"
         },
         {
-          "title": "tencent/HY-World-2.0",
-          "link": "https://huggingface.co/tencent/HY-World-2.0",
-          "date": "2026-04-23",
-          "source": "HuggingFace",
-          "description": "• HY-World-2.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/Panorama_Generation-4285F4?style=flat-square",
-          "is_english": true,
-          "summary": "• HY-World-2.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "tencent/HY-World-2.0",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "openai/privacy-filter",
           "link": "https://huggingface.co/openai/privacy-filter",
           "date": "2026-04-23",
@@ -679,6 +726,19 @@
           "is_english": true,
           "summary": "• privacy-filter 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "openai/privacy-filter",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "tencent/HY-World-2.0",
+          "link": "https://huggingface.co/tencent/HY-World-2.0",
+          "date": "2026-04-23",
+          "source": "HuggingFace",
+          "description": "• HY-World-2.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/Panorama_Generation-4285F4?style=flat-square",
+          "is_english": true,
+          "summary": "• HY-World-2.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "tencent/HY-World-2.0",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -735,19 +795,6 @@
           "category": "AI Model"
         },
         {
-          "title": "openbmb/VoxCPM2",
-          "link": "https://huggingface.co/openbmb/VoxCPM2",
-          "date": "2026-04-23",
-          "source": "HuggingFace",
-          "description": "• VoxCPM2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/GitHub-VoxCPM-blue?logo=github",
-          "is_english": true,
-          "summary": "• VoxCPM2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "openbmb/VoxCPM2",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Jackrong/Qwopus-GLM-18B-Merged-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwopus-GLM-18B-Merged-GGUF",
           "date": "2026-04-23",
@@ -761,15 +808,15 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/Lyra-2.0",
-          "link": "https://huggingface.co/nvidia/Lyra-2.0",
+          "title": "openbmb/VoxCPM2",
+          "link": "https://huggingface.co/openbmb/VoxCPM2",
           "date": "2026-04-23",
           "source": "HuggingFace",
-          "description": "• Lyra-2.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• VoxCPM2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/GitHub-VoxCPM-blue?logo=github",
           "is_english": true,
-          "summary": "• Lyra-2.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/Lyra-2.0",
+          "summary": "• VoxCPM2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "openbmb/VoxCPM2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -783,6 +830,19 @@
           "is_english": true,
           "summary": "• ERNIE-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "baidu/ERNIE-Image",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/Lyra-2.0",
+          "link": "https://huggingface.co/nvidia/Lyra-2.0",
+          "date": "2026-04-23",
+          "source": "HuggingFace",
+          "description": "• Lyra-2.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Lyra-2.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/Lyra-2.0",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -852,15 +912,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-          "link": "https://huggingface.co/Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+          "title": "z-lab/Qwen3.6-35B-A3B-DFlash",
+          "link": "https://huggingface.co/z-lab/Qwen3.6-35B-A3B-DFlash",
           "date": "2026-04-23",
           "source": "HuggingFace",
-          "description": "• supergemma4-26b-uncensored-gguf-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• Qwen3.6-35B-A3B-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/z-lab/Qwen3.6-35B-A3B-DFlash/resolve/main/assets/dflash_system.png",
           "is_english": true,
-          "summary": "• supergemma4-26b-uncensored-gguf-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+          "summary": "• Qwen3.6-35B-A3B-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "z-lab/Qwen3.6-35B-A3B-DFlash",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
