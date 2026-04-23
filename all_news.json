@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-04-24",
-      "update_time": "2026-04-23 18:55:21",
+      "update_time": "2026-04-23 21:38:20",
       "news": [
         {
           "title": "AWS Bets on Frontier Agents as the Next Era of Enterprise AI",
@@ -185,19 +185,6 @@
           "category": "AI Model"
         },
         {
-          "title": "baidu/ERNIE-Image",
-          "link": "https://huggingface.co/baidu/ERNIE-Image",
-          "date": "2026-04-24",
-          "source": "HuggingFace",
-          "description": "• ERNIE-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/5f8d780e5d083370c711f575/QRt1mPSU9SCkcxxFWQje2.jpeg",
-          "is_english": true,
-          "summary": "• ERNIE-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "baidu/ERNIE-Image",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "link": "https://huggingface.co/hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "date": "2026-04-24",
@@ -207,6 +194,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "baidu/ERNIE-Image",
+          "link": "https://huggingface.co/baidu/ERNIE-Image",
+          "date": "2026-04-24",
+          "source": "HuggingFace",
+          "description": "• ERNIE-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/5f8d780e5d083370c711f575/QRt1mPSU9SCkcxxFWQje2.jpeg",
+          "is_english": true,
+          "summary": "• ERNIE-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "baidu/ERNIE-Image",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -237,6 +237,19 @@
           "category": "AI Model"
         },
         {
+          "title": "inclusionAI/LLaDA2.0-Uni",
+          "link": "https://huggingface.co/inclusionAI/LLaDA2.0-Uni",
+          "date": "2026-04-24",
+          "source": "HuggingFace",
+          "description": "• LLaDA2.0-Uni 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/inclusionAI/LLaDA2.0-Uni/resolve/main/./assets/llada_logo.png",
+          "is_english": true,
+          "summary": "• LLaDA2.0-Uni 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "inclusionAI/LLaDA2.0-Uni",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "zai-org/GLM-5.1",
           "link": "https://huggingface.co/zai-org/GLM-5.1",
           "date": "2026-04-24",
@@ -263,19 +276,6 @@
           "category": "AI Model"
         },
         {
-          "title": "inclusionAI/LLaDA2.0-Uni",
-          "link": "https://huggingface.co/inclusionAI/LLaDA2.0-Uni",
-          "date": "2026-04-24",
-          "source": "HuggingFace",
-          "description": "• LLaDA2.0-Uni 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/inclusionAI/LLaDA2.0-Uni/resolve/main/./assets/llada_logo.png",
-          "is_english": true,
-          "summary": "• LLaDA2.0-Uni 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "inclusionAI/LLaDA2.0-Uni",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "z-lab/Qwen3.6-35B-A3B-DFlash",
           "link": "https://huggingface.co/z-lab/Qwen3.6-35B-A3B-DFlash",
           "date": "2026-04-24",
@@ -292,8 +292,140 @@
     },
     {
       "date": "2026-04-23",
-      "update_time": "2026-04-23 18:55:21",
+      "update_time": "2026-04-23 21:38:20",
       "news": [
+        {
+          "title": "한전KDN, 베트남 EVN-ICT와 ‘디지털 에너지 전환’ 위해 맞손",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209680",
+          "date": "2026-04-23",
+          "source": "AI타임스",
+          "description": "글로벌 에너지ICT 전문 공기업 한전KDN(사장 박상형)은 베트남 EVN-ICT과 22일 베트남 하노이에 위치한 베트남 국영전력회사(EVN) 본사에서 협력 강화 회의를 개최했다고 밝혔다.이날 업무 협력 강화 회의는 지난해 7월 양사가 체결한 업무협약(MOU)의 후속 조치이자 그간의 협력 성과를 점검하고 전략적 기술 협력 강화와 구체적 협력 방안을 도출하기 위해 추진됐다.한전KDN과 EVN-ICT는 업무협약(MOU) 체결 후 기술교류회와 회의를 통해 신뢰를 쌓아왔으며 단순한 기술 교류를 넘어 베트남 현지의 전력 환경에 최적화된 솔루션",
+          "image": "https://cdn.aitimes.com/news/photo/202604/209680_212135_2733.jpg",
+          "is_english": false,
+          "original_title": "한전KDN, 베트남 EVN-ICT와 ‘디지털 에너지 전환’ 위해 맞손",
+          "original_summary": "글로벌 에너지ICT 전문 공기업 한전KDN(사장 박상형)은 베트남 EVN-ICT과 22일 베트남 하노이에 위치한 베트남 국영전력회사(EVN) 본사에서 협력 강화 회의를 개최했다고 밝혔다.이날 업무 협력 강화 회의는 지난해 7월 양사가 체결한 업무협약(MOU)의 후속 조치이자 그간의 협력 성과를 점검하고 전략적 기술 협력 강화와 구체적 협력 방안을 도출하기 위해 추진됐다.한전KDN과 EVN-ICT는 업무협약(MOU) 체결 후 기술교류회와 회의를 통해 신뢰를 쌓아왔으며 단순한 기술 교류를 넘어 베트남 현지의 전력 환경에 최적화된 솔루션",
+          "summary": "글로벌 에너지ICT 전문 공기업 한전KDN(사장 박상형)은 베트남 EVN-ICT과 22일 베트남 하노이에 위치한 베트남 국영전력회사(EVN) 본사에서 협력 강화 회의를 개최했다고 밝혔다.이날 업무 협력 강화 회의는 지난해 7월 양사가 체결한 업무협약(MOU)의 후속 조치이자 그간의 협력 성과를 점검하고 전략적 기술 협력 강화와 구체적 협력 방안을 도출하기 위해 추진됐다.한전KDN과 EVN-ICT는 업무협약(MOU) 체결 후 기술교류회와 회의를 통해 신뢰를 쌓아왔으며 단순한 기술 교류를 넘어 베트남 현지의 전력 환경에 최적화된 솔루션"
+        },
+        {
+          "title": "GPT-5.5 System Card",
+          "link": "https://openai.com/index/gpt-5-5-system-card",
+          "date": "2026-04-23",
+          "source": "OpenAI",
+          "description": "",
+          "image": null,
+          "is_english": true,
+          "original_title": "GPT-5.5 System Card",
+          "original_summary": "",
+          "summary": ""
+        },
+        {
+          "title": "What is Codex?",
+          "link": "https://openai.com/academy/what-is-codex",
+          "date": "2026-04-23",
+          "source": "OpenAI",
+          "description": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
+          "image": null,
+          "is_english": true,
+          "original_title": "What is Codex?",
+          "original_summary": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards.",
+          "summary": "Learn how Codex helps you go beyond chat by automating tasks, connecting tools, and producing real outputs like docs and dashboards."
+        },
+        {
+          "title": "Automations",
+          "link": "https://openai.com/academy/codex-automations",
+          "date": "2026-04-23",
+          "source": "OpenAI",
+          "description": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Automations",
+          "original_summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort.",
+          "summary": "Learn how to automate tasks in Codex using schedules and triggers to create reports, summaries, and recurring workflows without manual effort."
+        },
+        {
+          "title": "Plugins and skills",
+          "link": "https://openai.com/academy/codex-plugins-and-skills",
+          "date": "2026-04-23",
+          "source": "OpenAI",
+          "description": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Plugins and skills",
+          "original_summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results.",
+          "summary": "Learn how to use Codex plugins and skills to connect tools, access data, and follow repeatable workflows to automate tasks and improve results."
+        },
+        {
+          "title": "Working with Codex",
+          "link": "https://openai.com/academy/working-with-codex",
+          "date": "2026-04-23",
+          "source": "OpenAI",
+          "description": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Working with Codex",
+          "original_summary": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance.",
+          "summary": "Learn how to set up your Codex workspace, create threads and projects, manage files, and start completing tasks with step-by-step guidance."
+        },
+        {
+          "title": "How to get started with Codex",
+          "link": "https://openai.com/academy/codex-how-to-start",
+          "date": "2026-04-23",
+          "source": "OpenAI",
+          "description": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
+          "image": null,
+          "is_english": true,
+          "original_title": "How to get started with Codex",
+          "original_summary": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance.",
+          "summary": "Learn how to get started with Codex by setting up projects, creating threads, and completing your first tasks with step-by-step guidance."
+        },
+        {
+          "title": "Codex settings",
+          "link": "https://openai.com/academy/codex-settings",
+          "date": "2026-04-23",
+          "source": "OpenAI",
+          "description": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Codex settings",
+          "original_summary": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow.",
+          "summary": "Learn how to configure Codex settings, including personalization, detail level, and permissions, to run tasks smoothly and customize your workflow."
+        },
+        {
+          "title": "Top 10 uses for Codex at work",
+          "link": "https://openai.com/academy/top-10-use-cases-codex-for-work",
+          "date": "2026-04-23",
+          "source": "OpenAI",
+          "description": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Top 10 uses for Codex at work",
+          "original_summary": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows.",
+          "summary": "Explore 10 practical Codex use cases to automate tasks, create deliverables, and turn real inputs into outputs across tools, files, and workflows."
+        },
+        {
+          "title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
+          "link": "https://techcrunch.com/2026/04/23/bret-taylors-sierra-buys-yc-backed-ai-startup-fragment/",
+          "date": "2026-04-23",
+          "source": "TechCrunch",
+          "description": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2022/10/AP22166762615783.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Bret Taylor’s Sierra buys YC-backed AI startup Fragment",
+          "original_summary": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment. ",
+          "summary": "Sierra, the AI customer service agent startup founded by technologist Bret Taylor, announced today that it has acquired the YC-backed French startup Fragment. "
+        },
+        {
+          "title": "Meet Noscroll, an AI bot that does your doomscrolling for you",
+          "link": "https://techcrunch.com/2026/04/23/meet-noscroll-an-ai-bot-that-does-your-doomscrolling-for-you/",
+          "date": "2026-04-23",
+          "source": "TechCrunch",
+          "description": "Noscroll wants to cure doomscrolling with an AI bot that reads the internet for you.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/doomscrolling-GettyImages-2195349954.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Meet Noscroll, an AI bot that does your doomscrolling for you",
+          "original_summary": "Noscroll wants to cure doomscrolling with an AI bot that reads the internet for you.",
+          "summary": "Noscroll wants to cure doomscrolling with an AI bot that reads the internet for you."
+        },
         {
           "title": "Introducing GPT-5.5",
           "link": "https://openai.com/index/introducing-gpt-5-5",
