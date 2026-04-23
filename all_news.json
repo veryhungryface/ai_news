@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-04-24",
-      "update_time": "2026-04-23 16:25:17",
+      "update_time": "2026-04-23 18:55:21",
       "news": [
+        {
+          "title": "AWS Bets on Frontier Agents as the Next Era of Enterprise AI",
+          "link": "https://aibusiness.com/agentic-ai/aws-bets-frontier-agents-as-next-era-enterprise-ai",
+          "date": "2026-04-24",
+          "source": "AI Business",
+          "description": "The tech giant is positioning autonomous, long-running agents as the next defining shift in enterprise AI.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt6f408896c0fba534/69ea60e8c43f93849bb7431b/London_Summit.png?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "AWS Bets on Frontier Agents as the Next Era of Enterprise AI",
+          "original_summary": "The tech giant is positioning autonomous, long-running agents as the next defining shift in enterprise AI.",
+          "summary": "The tech giant is positioning autonomous, long-running agents as the next defining shift in enterprise AI."
+        },
+        {
+          "title": "Microsoft to Spend $18B on AI Infrastructure in Australia",
+          "link": "https://aibusiness.com/generative-ai/microsoft-spend-18b-ai-infrastructure-australia",
+          "date": "2026-04-24",
+          "source": "AI Business",
+          "description": "The planned outlay comes after the tech giant recently made significant AI investments in Asia.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt7fcdd07087545e06/69ea4b765ac9bab50e51ee53/Microsoft_Australia.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Microsoft to Spend $18B on AI Infrastructure in Australia",
+          "original_summary": "The planned outlay comes after the tech giant recently made significant AI investments in Asia.",
+          "summary": "The planned outlay comes after the tech giant recently made significant AI investments in Asia."
+        },
         {
           "title": "Qwen/Qwen3.6-35B-A3B",
           "link": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
@@ -44,19 +68,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.6-35B-A3B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
-          "date": "2026-04-24",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Qwen3.6-35B-A3B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "openai/privacy-filter",
           "link": "https://huggingface.co/openai/privacy-filter",
           "date": "2026-04-24",
@@ -66,6 +77,19 @@
           "is_english": true,
           "summary": "• privacy-filter 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "openai/privacy-filter",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/Qwen3.6-35B-A3B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
+          "date": "2026-04-24",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Qwen3.6-35B-A3B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -174,6 +198,19 @@
           "category": "AI Model"
         },
         {
+          "title": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+          "link": "https://huggingface.co/hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+          "date": "2026-04-24",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/Follow%20on-X-000000?style=flat-square&logo=x",
+          "is_english": true,
+          "summary": "• Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "MiniMaxAI/MiniMax-M2.7",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-M2.7",
           "date": "2026-04-24",
@@ -196,19 +233,6 @@
           "is_english": true,
           "summary": "• Lyra-2.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nvidia/Lyra-2.0",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "link": "https://huggingface.co/hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "date": "2026-04-24",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/Follow%20on-X-000000?style=flat-square&logo=x",
-          "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,19 +263,6 @@
           "category": "AI Model"
         },
         {
-          "title": "z-lab/Qwen3.6-35B-A3B-DFlash",
-          "link": "https://huggingface.co/z-lab/Qwen3.6-35B-A3B-DFlash",
-          "date": "2026-04-24",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/z-lab/Qwen3.6-35B-A3B-DFlash/resolve/main/assets/dflash_system.png",
-          "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "z-lab/Qwen3.6-35B-A3B-DFlash",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "inclusionAI/LLaDA2.0-Uni",
           "link": "https://huggingface.co/inclusionAI/LLaDA2.0-Uni",
           "date": "2026-04-24",
@@ -263,13 +274,74 @@
           "translated_title": "inclusionAI/LLaDA2.0-Uni",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "z-lab/Qwen3.6-35B-A3B-DFlash",
+          "link": "https://huggingface.co/z-lab/Qwen3.6-35B-A3B-DFlash",
+          "date": "2026-04-24",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-35B-A3B-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/z-lab/Qwen3.6-35B-A3B-DFlash/resolve/main/assets/dflash_system.png",
+          "is_english": true,
+          "summary": "• Qwen3.6-35B-A3B-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "z-lab/Qwen3.6-35B-A3B-DFlash",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-04-23",
-      "update_time": "2026-04-23 16:25:11",
+      "update_time": "2026-04-23 18:55:21",
       "news": [
+        {
+          "title": "Introducing GPT-5.5",
+          "link": "https://openai.com/index/introducing-gpt-5-5",
+          "date": "2026-04-23",
+          "source": "OpenAI",
+          "description": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Introducing GPT-5.5",
+          "original_summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
+          "summary": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools."
+        },
+        {
+          "title": "GPT-5.5 Bio Bug Bounty",
+          "link": "https://openai.com/index/gpt-5-5-bio-bug-bounty",
+          "date": "2026-04-23",
+          "source": "OpenAI",
+          "description": "Explore the GPT-5.5 Bio Bug Bounty: a red-teaming challenge to find universal jailbreaks for bio safety risks, with rewards up to $25,000.",
+          "image": null,
+          "is_english": true,
+          "original_title": "GPT-5.5 Bio Bug Bounty",
+          "original_summary": "Explore the GPT-5.5 Bio Bug Bounty: a red-teaming challenge to find universal jailbreaks for bio safety risks, with rewards up to $25,000.",
+          "summary": "Explore the GPT-5.5 Bio Bug Bounty: a red-teaming challenge to find universal jailbreaks for bio safety risks, with rewards up to $25,000."
+        },
+        {
+          "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘superapp’",
+          "link": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
+          "date": "2026-04-23",
+          "source": "TechCrunch",
+          "description": "OpenAI says its latest model offers increased capabilities across a broad variety of categories. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2182154299.jpg?w=1024",
+          "is_english": true,
+          "original_title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘superapp’",
+          "original_summary": "OpenAI says its latest model offers increased capabilities across a broad variety of categories. ",
+          "summary": "OpenAI says its latest model offers increased capabilities across a broad variety of categories. "
+        },
+        {
+          "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
+          "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
+          "date": "2026-04-23",
+          "source": "Google AI",
+          "description": "Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/What_is_a_TPU_social.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "Here’s how our TPUs power increasingly demanding AI workloads.",
+          "original_summary": "Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
+          "summary": "Learn how Google’s TPUs power increasingly demanding AI workloads with this new video."
+        },
         {
           "title": "Era raises $11M to build a software platform for AI gadgets",
           "link": "https://techcrunch.com/2026/04/23/era-computer-raises-11m-to-build-a-software-platform-for-ai-gadgets/",
@@ -8269,7 +8341,7 @@
         {
           "title": "MiniMaxAI/MiniMax-M2.7",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-M2.7",
-          "date": "2026-04-15",
+          "date": "2026-04-24",
           "source": "HuggingFace",
           "description": "• MiniMax-M2.7 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
@@ -8295,7 +8367,7 @@
         {
           "title": "zai-org/GLM-5.1",
           "link": "https://huggingface.co/zai-org/GLM-5.1",
-          "date": "2026-04-15",
+          "date": "2026-04-24",
           "source": "HuggingFace",
           "description": "• GLM-5.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_51.png",
@@ -8308,7 +8380,7 @@
         {
           "title": "openbmb/VoxCPM2",
           "link": "https://huggingface.co/openbmb/VoxCPM2",
-          "date": "2026-04-15",
+          "date": "2026-04-24",
           "source": "HuggingFace",
           "description": "• VoxCPM2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/GitHub-VoxCPM-blue?logo=github",
@@ -8321,7 +8393,7 @@
         {
           "title": "google/gemma-4-31B-it",
           "link": "https://huggingface.co/google/gemma-4-31B-it",
-          "date": "2026-04-15",
+          "date": "2026-04-24",
           "source": "HuggingFace",
           "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
