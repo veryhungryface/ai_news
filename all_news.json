@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-04-25",
-      "update_time": "2026-04-24 18:37:14",
+      "update_time": "2026-04-24 21:39:20",
       "news": [
         {
           "title": "Canadian, German AI Startups Join Forces to Challenge US Dominance",
@@ -132,19 +132,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.6-35B-A3B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
-          "date": "2026-04-25",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Qwen3.6-35B-A3B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Qwen3.6-27B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.6-27B-GGUF",
           "date": "2026-04-25",
@@ -154,6 +141,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/Qwen3.6-27B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/Qwen3.6-35B-A3B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
+          "date": "2026-04-25",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Qwen3.6-35B-A3B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -275,6 +275,19 @@
           "category": "AI Model"
         },
         {
+          "title": "tencent/Hy3-preview",
+          "link": "https://huggingface.co/tencent/Hy3-preview",
+          "date": "2026-04-25",
+          "source": "HuggingFace",
+          "description": "• Hy3-preview 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/License-Tencent%20Hy%20Community-blue",
+          "is_english": true,
+          "summary": "• Hy3-preview 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "tencent/Hy3-preview",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "robbyant/lingbot-map",
           "link": "https://huggingface.co/robbyant/lingbot-map",
           "date": "2026-04-25",
@@ -286,26 +299,37 @@
           "translated_title": "robbyant/lingbot-map",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "baidu/ERNIE-Image",
-          "link": "https://huggingface.co/baidu/ERNIE-Image",
-          "date": "2026-04-25",
-          "source": "HuggingFace",
-          "description": "• ERNIE-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/5f8d780e5d083370c711f575/QRt1mPSU9SCkcxxFWQje2.jpeg",
-          "is_english": true,
-          "summary": "• ERNIE-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "baidu/ERNIE-Image",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-04-24",
-      "update_time": "2026-04-24 18:37:14",
+      "update_time": "2026-04-24 21:39:18",
       "news": [
+        {
+          "title": "Meta’s loss is Thinking Machines’ gain",
+          "link": "https://techcrunch.com/2026/04/24/metas-loss-is-thinking-machines-gain/",
+          "date": "2026-04-24",
+          "source": "TechCrunch",
+          "description": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-1730510668.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Meta’s loss is Thinking Machines’ gain",
+          "original_summary": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street.",
+          "summary": "Meta has been poaching talent from Thinking Machines Lab. But it's a two-way street."
+        },
+        {
+          "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
+          "link": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+          "date": "2026-04-24",
+          "source": "TechCrunch",
+          "description": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/ComfyUI-Co-founders-1.png?resize=1200,790",
+          "is_english": true,
+          "original_title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
+          "original_summary": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million.",
+          "summary": "ComfyUI, whose tools give creators more control over AI image, video, and audio generation, just raised $30 million."
+        },
         {
           "title": "Google to invest up to $40B in Anthropic in cash and compute",
           "link": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
