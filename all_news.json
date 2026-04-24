@@ -2,8 +2,56 @@
   "dates": [
     {
       "date": "2026-04-24",
-      "update_time": "2026-04-24 10:15:35",
+      "update_time": "2026-04-24 12:59:11",
       "news": [
+        {
+          "title": "앤트로픽 \"클로드 성능 저하는 '하네스' 때문...의도적으로 낮춘 적 없어\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209714",
+          "date": "2026-04-24",
+          "source": "AI타임스",
+          "description": "앤트로픽이 최근 개발자 커뮤니티에서 제기된 \\'클로드 성능 저하\\' 논란과 관련해 공식적으로 문제를 인정하고 원인과 해결책을 공개했다.앤트로픽은 23일(현지시간) 공식 기술 보고서를 통해 이번 AI 성능 저하 문제의 원인이 모델 자체가 아니라 이를 둘러싼 제품 레이어’ 이른바 ‘하네스(harness)’ 변경에서 비롯됐다고 밝혔다.먼저 “모델 성능을 의도적으로 낮춘 적은 없다”라며, API와 추론(inference) 계층에는 문제가 없었다고 강조했다.이번 논란은 최신 모델인 \\'클로드 오퍼스 4.7\\' 출시 이후 불거졌다. 이전보다 추론 능",
+          "image": "https://cdn.aitimes.com/news/photo/202604/209714_212177_2424.png",
+          "is_english": false,
+          "original_title": "앤트로픽 \"클로드 성능 저하는 '하네스' 때문...의도적으로 낮춘 적 없어\"",
+          "original_summary": "앤트로픽이 최근 개발자 커뮤니티에서 제기된 \\'클로드 성능 저하\\' 논란과 관련해 공식적으로 문제를 인정하고 원인과 해결책을 공개했다.앤트로픽은 23일(현지시간) 공식 기술 보고서를 통해 이번 AI 성능 저하 문제의 원인이 모델 자체가 아니라 이를 둘러싼 제품 레이어’ 이른바 ‘하네스(harness)’ 변경에서 비롯됐다고 밝혔다.먼저 “모델 성능을 의도적으로 낮춘 적은 없다”라며, API와 추론(inference) 계층에는 문제가 없었다고 강조했다.이번 논란은 최신 모델인 \\'클로드 오퍼스 4.7\\' 출시 이후 불거졌다. 이전보다 ",
+          "summary": "앤트로픽이 최근 개발자 커뮤니티에서 제기된 \\'클로드 성능 저하\\' 논란과 관련해 공식적으로 문제를 인정하고 원인과 해결책을 공개했다.앤트로픽은 23일(현지시간) 공식 기술 보고서를 통해 이번 AI 성능 저하 문제의 원인이 모델 자체가 아니라 이를 둘러싼 제품 레이어’ 이른바 ‘하네스(harness)’ 변경에서 비롯됐다고 밝혔다.먼저 “모델 성능을 의도적으로 낮춘 적은 없다”라며, API와 추론(inference) 계층에는 문제가 없었다고 강조했다.이번 논란은 최신 모델인 \\'클로드 오퍼스 4.7\\' 출시 이후 불거졌다. 이전보다 "
+        },
+        {
+          "title": "문샷, 300개 에이전트 동시 운영하는 '키미 K2.6 에이전트 스웜' 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209726",
+          "date": "2026-04-24",
+          "source": "AI타임스",
+          "description": "단일 AI 모델이 순차적으로 작업을 수행하던 기존 방식이 한계에 직면한 가운데, 새로운 패러다임인 ‘에이전트 군집’ 구조가 등장하며 생산성의 판을 뒤흔들고 있다. 문샷 AI는 22일(현지시간) \\'키미 K2.6(Kimi K2.6)\\'에서 최대 300개의 하위 에이전트를 동시에 운영하며 최대 4000단계에 달하는 작업을 병렬 처리할 수 있는 ‘에이전트 스웜(Agent Swarm)’을 공개했다.에이전트 스웜은 하나의 중앙 ‘오케스트레이터(Orchestrator)’가 전체 작업을 분석하고 이를 여러 하위 작업으로 분해한 뒤, 각 작업을 전문",
+          "image": "https://cdn.aitimes.com/news/photo/202604/209726_212201_612.jpg",
+          "is_english": false,
+          "original_title": "문샷, 300개 에이전트 동시 운영하는 '키미 K2.6 에이전트 스웜' 공개",
+          "original_summary": "단일 AI 모델이 순차적으로 작업을 수행하던 기존 방식이 한계에 직면한 가운데, 새로운 패러다임인 ‘에이전트 군집’ 구조가 등장하며 생산성의 판을 뒤흔들고 있다. 문샷 AI는 22일(현지시간) \\'키미 K2.6(Kimi K2.6)\\'에서 최대 300개의 하위 에이전트를 동시에 운영하며 최대 4000단계에 달하는 작업을 병렬 처리할 수 있는 ‘에이전트 스웜(Agent Swarm)’을 공개했다.에이전트 스웜은 하나의 중앙 ‘오케스트레이터(Orchestrator)’가 전체 작업을 분석하고 이를 여러 하위 작업으로 분해한 뒤, 각 작업을 ",
+          "summary": "단일 AI 모델이 순차적으로 작업을 수행하던 기존 방식이 한계에 직면한 가운데, 새로운 패러다임인 ‘에이전트 군집’ 구조가 등장하며 생산성의 판을 뒤흔들고 있다. 문샷 AI는 22일(현지시간) \\'키미 K2.6(Kimi K2.6)\\'에서 최대 300개의 하위 에이전트를 동시에 운영하며 최대 4000단계에 달하는 작업을 병렬 처리할 수 있는 ‘에이전트 스웜(Agent Swarm)’을 공개했다.에이전트 스웜은 하나의 중앙 ‘오케스트레이터(Orchestrator)’가 전체 작업을 분석하고 이를 여러 하위 작업으로 분해한 뒤, 각 작업을 "
+        },
+        {
+          "title": "텐센트, 오픈AI 연구원 영입 후 첫 모델 'Hy3' 출시...\"작지만 강력\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209709",
+          "date": "2026-04-24",
+          "source": "AI타임스",
+          "description": "오픈AI 연구원 출신 야오순위가 최고 AI 과학자로 합류한 텐센트가 첫 AI 모델을 공개했다. 프론티어 연구소들의 최근 트렌드와 달리 소형 모델이지만, 성능은 꽤 강력한 것으로 나타났다.텐센트는 23일(현지시간) 차세대 AI 모델 ‘Hy3 프리뷰(Hy3 preview)’를 공개했다.기존 훈위안(Hunyuan) 모델 체계를 사실상 ‘재구축’한 결과물로, 성능과 비용 효율, 실제 활용성을 동시에 끌어올린 것이 특징이다. 총 매개변수는 2950억개로, 최근 1조개가 넘는 다른 중국 기업의 플래그십 모델과는 차이가 있다. 특히, 실제 연산",
+          "image": "https://cdn.aitimes.com/news/photo/202604/209709_212172_1333.png",
+          "is_english": true,
+          "original_title": "텐센트, 오픈AI 연구원 영입 후 첫 모델 'Hy3' 출시...\"작지만 강력\"",
+          "original_summary": "오픈AI 연구원 출신 야오순위가 최고 AI 과학자로 합류한 텐센트가 첫 AI 모델을 공개했다. 프론티어 연구소들의 최근 트렌드와 달리 소형 모델이지만, 성능은 꽤 강력한 것으로 나타났다.텐센트는 23일(현지시간) 차세대 AI 모델 ‘Hy3 프리뷰(Hy3 preview)’를 공개했다.기존 훈위안(Hunyuan) 모델 체계를 사실상 ‘재구축’한 결과물로, 성능과 비용 효율, 실제 활용성을 동시에 끌어올린 것이 특징이다. 총 매개변수는 2950억개로, 최근 1조개가 넘는 다른 중국 기업의 플래그십 모델과는 차이가 있다. 특히, 실제 연산",
+          "summary": "오픈AI 연구원 출신 야오순위가 최고 AI 과학자로 합류한 텐센트가 첫 AI 모델을 공개했다. 프론티어 연구소들의 최근 트렌드와 달리 소형 모델이지만, 성능은 꽤 강력한 것으로 나타났다.텐센트는 23일(현지시간) 차세대 AI 모델 ‘Hy3 프리뷰(Hy3 preview)’를 공개했다.기존 훈위안(Hunyuan) 모델 체계를 사실상 ‘재구축’한 결과물로, 성능과 비용 효율, 실제 활용성을 동시에 끌어올린 것이 특징이다. 총 매개변수는 2950억개로, 최근 1조개가 넘는 다른 중국 기업의 플래그십 모델과는 차이가 있다. 특히, 실제 연산"
+        },
+        {
+          "title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
+          "link": "https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/",
+          "date": "2026-04-24",
+          "source": "TechCrunch",
+          "description": "Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun.",
+          "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721",
+          "is_english": true,
+          "original_title": "In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs",
+          "original_summary": "Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun.",
+          "summary": "Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun."
+        },
         {
           "title": "강원대, 'AI·GPU 센터' 개소…AI First 캠퍼스 구축 본격 추진",
           "link": "https://www.yna.co.kr/view/AKR20260424151900062",
@@ -487,19 +535,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.6-35B-A3B",
-          "link": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
-          "date": "2026-04-24",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.6-35B-A3B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.6-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.6-27B",
           "date": "2026-04-24",
@@ -509,6 +544,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.6-27B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.6-35B-A3B",
+          "link": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
+          "date": "2026-04-24",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.6-35B-A3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -630,15 +678,15 @@
           "category": "AI Model"
         },
         {
-          "title": "openbmb/VoxCPM2",
-          "link": "https://huggingface.co/openbmb/VoxCPM2",
+          "title": "deepseek-ai/DeepSeek-V4-Pro-Base",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-Base",
           "date": "2026-04-24",
           "source": "HuggingFace",
-          "description": "• VoxCPM2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/GitHub-VoxCPM-blue?logo=github",
+          "description": "• DeepSeek-V4-Pro-Base AI 모델 공개\n• HuggingFace에서 트렌딩 중\n• 다운로드 및 상세 정보는 링크에서\n• 최신 오픈소스 AI 기술",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• VoxCPM2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "openbmb/VoxCPM2",
+          "summary": "• DeepSeek-V4-Pro-Base AI 모델 공개\n• HuggingFace에서 트렌딩 중\n• 다운로드 및 상세 정보는 링크에서\n• 최신 오픈소스 AI 기술",
+          "translated_title": "deepseek-ai/DeepSeek-V4-Pro-Base",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -652,19 +700,6 @@
           "is_english": true,
           "summary": "• Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "deepseek-ai/DeepSeek-V4-Pro-Base",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-Base",
-          "date": "2026-04-24",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Pro-Base AI 모델 공개\n• HuggingFace에서 트렌딩 중\n• 다운로드 및 상세 정보는 링크에서\n• 최신 오픈소스 AI 기술",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• DeepSeek-V4-Pro-Base AI 모델 공개\n• HuggingFace에서 트렌딩 중\n• 다운로드 및 상세 정보는 링크에서\n• 최신 오픈소스 AI 기술",
-          "translated_title": "deepseek-ai/DeepSeek-V4-Pro-Base",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -704,6 +739,19 @@
           "is_english": true,
           "summary": "• MiniMax-M2.7 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "MiniMaxAI/MiniMax-M2.7",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.6-27B-FP8",
+          "link": "https://huggingface.co/Qwen/Qwen3.6-27B-FP8",
+          "date": "2026-04-24",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-27B-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• Qwen3.6-27B-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.6-27B-FP8",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
