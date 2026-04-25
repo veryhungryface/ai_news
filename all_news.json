@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-04-26",
-      "update_time": "2026-04-25 15:32:31",
+      "update_time": "2026-04-25 18:35:57",
       "news": [
         {
           "title": "deepseek-ai/DeepSeek-V4-Pro",
@@ -161,19 +161,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Jackrong/Qwopus-GLM-18B-Merged-GGUF",
-          "link": "https://huggingface.co/Jackrong/Qwopus-GLM-18B-Merged-GGUF",
-          "date": "2026-04-26",
-          "source": "HuggingFace",
-          "description": "• Qwopus-GLM-18B-Merged-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwopus-GLM-18B-Merged-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jackrong/Qwopus-GLM-18B-Merged-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "google/gemma-4-31B-it",
           "link": "https://huggingface.co/google/gemma-4-31B-it",
           "date": "2026-04-26",
@@ -209,6 +196,19 @@
           "is_english": true,
           "summary": "• LLaDA2.0-Uni 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "inclusionAI/LLaDA2.0-Uni",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Jackrong/Qwopus-GLM-18B-Merged-GGUF",
+          "link": "https://huggingface.co/Jackrong/Qwopus-GLM-18B-Merged-GGUF",
+          "date": "2026-04-26",
+          "source": "HuggingFace",
+          "description": "• Qwopus-GLM-18B-Merged-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwopus-GLM-18B-Merged-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jackrong/Qwopus-GLM-18B-Merged-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +268,32 @@
     },
     {
       "date": "2026-04-25",
-      "update_time": "2026-04-25 15:32:31",
+      "update_time": "2026-04-25 18:35:57",
       "news": [
+        {
+          "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+          "link": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+          "date": "2026-04-25",
+          "source": "TechCrunch",
+          "description": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2194585161.jpg?w=1024",
+          "is_english": true,
+          "original_title": "OpenAI CEO apologizes to Tumbler Ridge community",
+          "original_summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting.",
+          "summary": "In a letter to the residents of Tumbler Ridge, Canada, OpenAI CEO Sam Altman said he is “deeply sorry” that his company failed to alert law enforcement about the suspect in a recent mass shooting."
+        },
+        {
+          "title": "Why Cohere is merging with Aleph Alpha",
+          "link": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+          "date": "2026-04-25",
+          "source": "TechCrunch",
+          "description": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1757707025.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Why Cohere is merging with Aleph Alpha",
+          "original_summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players.",
+          "summary": "Canadian AI startup Cohere is taking over Germany-based Aleph Alpha with support from Lidl’s owner, Schwarz Group. With the blessing of their governments, the companies intend to offer a sovereign alternative to enterprises in an AI landscape dominated by American players."
+        },
         {
           "title": "Why Tokyo is the most important tech destination of 2026",
           "link": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
@@ -7878,7 +7902,7 @@
         {
           "title": "google/gemma-4-31B-it",
           "link": "https://huggingface.co/google/gemma-4-31B-it",
-          "date": "2026-04-17",
+          "date": "2026-04-26",
           "source": "HuggingFace",
           "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -7956,7 +7980,7 @@
         {
           "title": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
           "link": "https://huggingface.co/OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
-          "date": "2026-04-17",
+          "date": "2026-04-26",
           "source": "HuggingFace",
           "description": "• gemma-4-E4B-it-OBLITERATED 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -7969,7 +7993,7 @@
         {
           "title": "tencent/HY-World-2.0",
           "link": "https://huggingface.co/tencent/HY-World-2.0",
-          "date": "2026-04-17",
+          "date": "2026-04-26",
           "source": "HuggingFace",
           "description": "• HY-World-2.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/Panorama_Generation-4285F4?style=flat-square",
