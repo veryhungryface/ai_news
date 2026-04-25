@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-04-26",
-      "update_time": "2026-04-25 18:35:57",
+      "update_time": "2026-04-25 21:27:56",
       "news": [
         {
           "title": "deepseek-ai/DeepSeek-V4-Pro",
@@ -96,19 +96,6 @@
           "category": "AI Model"
         },
         {
-          "title": "tencent/HY-World-2.0",
-          "link": "https://huggingface.co/tencent/HY-World-2.0",
-          "date": "2026-04-26",
-          "source": "HuggingFace",
-          "description": "• HY-World-2.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/Panorama_Generation-4285F4?style=flat-square",
-          "is_english": true,
-          "summary": "• HY-World-2.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "tencent/HY-World-2.0",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Qwen3.6-35B-A3B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
           "date": "2026-04-26",
@@ -118,6 +105,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/Qwen3.6-35B-A3B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "tencent/HY-World-2.0",
+          "link": "https://huggingface.co/tencent/HY-World-2.0",
+          "date": "2026-04-26",
+          "source": "HuggingFace",
+          "description": "• HY-World-2.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/Panorama_Generation-4285F4?style=flat-square",
+          "is_english": true,
+          "summary": "• HY-World-2.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "tencent/HY-World-2.0",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -161,6 +161,19 @@
           "category": "AI Model"
         },
         {
+          "title": "inclusionAI/LLaDA2.0-Uni",
+          "link": "https://huggingface.co/inclusionAI/LLaDA2.0-Uni",
+          "date": "2026-04-26",
+          "source": "HuggingFace",
+          "description": "• LLaDA2.0-Uni 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/inclusionAI/LLaDA2.0-Uni/resolve/main/./assets/llada_logo.png",
+          "is_english": true,
+          "summary": "• LLaDA2.0-Uni 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "inclusionAI/LLaDA2.0-Uni",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "google/gemma-4-31B-it",
           "link": "https://huggingface.co/google/gemma-4-31B-it",
           "date": "2026-04-26",
@@ -183,19 +196,6 @@
           "is_english": true,
           "summary": "• Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "inclusionAI/LLaDA2.0-Uni",
-          "link": "https://huggingface.co/inclusionAI/LLaDA2.0-Uni",
-          "date": "2026-04-26",
-          "source": "HuggingFace",
-          "description": "• LLaDA2.0-Uni 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/inclusionAI/LLaDA2.0-Uni/resolve/main/./assets/llada_logo.png",
-          "is_english": true,
-          "summary": "• LLaDA2.0-Uni 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "inclusionAI/LLaDA2.0-Uni",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +268,20 @@
     },
     {
       "date": "2026-04-25",
-      "update_time": "2026-04-25 18:35:57",
+      "update_time": "2026-04-25 21:27:56",
       "news": [
+        {
+          "title": "Maine’s governor vetoes data center moratorium",
+          "link": "https://techcrunch.com/2026/04/25/maines-governor-vetoes-data-center-moratorium/",
+          "date": "2026-04-25",
+          "source": "TechCrunch",
+          "description": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Maine’s governor vetoes data center moratorium",
+          "original_summary": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027.",
+          "summary": "L.D. 307 would have imposed the country’s first statewide moratorium on new data centers — lasting, in this case, until November 1, 2027."
+        },
         {
           "title": "OpenAI CEO apologizes to Tumbler Ridge community",
           "link": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
