@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-04-25",
-      "update_time": "2026-04-24 21:39:20",
+      "update_time": "2026-04-25 01:23:43",
       "news": [
+        {
+          "title": "[4월24일] \"GPT-5.5가 더 정직해서 클로드 4.7를 이겼다?\"...'벤딩벤치'가 보여준 전략의 차이",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209711",
+          "date": "2026-04-25",
+          "source": "AI타임스",
+          "description": "샘 알트먼 오픈AI CEO는 \\'GPT-5.5\\'를 출시한 직후 X를 통해 앤돈 랩스(Andon Labs)의 게시물을 공유했습니다. 새로운 모델이 안돈 랩스의 \\'벤딩벤치 아레나(Vending-Bench Arena)\\'에서 앤트로픽의 \\'클로드 오퍼스 4.7\\'을 이겼다는 내용이었습니다.벤딩벤치는 AI에게 벤딩머신 운영을 맡겼을 경우, 얼마나 많은 수익을 낼 수 있는지 테스트하는 것입니다. 앤돈 랩스는 지난해 앤트로픽 매점 운영을 \\'클로드\\'에게 맡긴 실험으로 잘 알려져 있습니다.이에 따르면, GPT-5.5는 이 실험에서 7980달러를 벌어,",
+          "image": "https://cdn.aitimes.com/news/photo/202604/209711_212168_4652.png",
+          "is_english": true,
+          "original_title": "[4월24일] \"GPT-5.5가 더 정직해서 클로드 4.7를 이겼다?\"...'벤딩벤치'가 보여준 전략의 차이",
+          "original_summary": "샘 알트먼 오픈AI CEO는 \\'GPT-5.5\\'를 출시한 직후 X를 통해 앤돈 랩스(Andon Labs)의 게시물을 공유했습니다. 새로운 모델이 안돈 랩스의 \\'벤딩벤치 아레나(Vending-Bench Arena)\\'에서 앤트로픽의 \\'클로드 오퍼스 4.7\\'을 이겼다는 내용이었습니다.벤딩벤치는 AI에게 벤딩머신 운영을 맡겼을 경우, 얼마나 많은 수익을 낼 수 있는지 테스트하는 것입니다. 앤돈 랩스는 지난해 앤트로픽 매점 운영을 \\'클로드\\'에게 맡긴 실험으로 잘 알려져 있습니다.이에 따르면, GPT-5.5는 이 실험에서 7980",
+          "summary": "샘 알트먼 오픈AI CEO는 \\'GPT-5.5\\'를 출시한 직후 X를 통해 앤돈 랩스(Andon Labs)의 게시물을 공유했습니다. 새로운 모델이 안돈 랩스의 \\'벤딩벤치 아레나(Vending-Bench Arena)\\'에서 앤트로픽의 \\'클로드 오퍼스 4.7\\'을 이겼다는 내용이었습니다.벤딩벤치는 AI에게 벤딩머신 운영을 맡겼을 경우, 얼마나 많은 수익을 낼 수 있는지 테스트하는 것입니다. 앤돈 랩스는 지난해 앤트로픽 매점 운영을 \\'클로드\\'에게 맡긴 실험으로 잘 알려져 있습니다.이에 따르면, GPT-5.5는 이 실험에서 7980"
+        },
+        {
+          "title": "10년 베테랑 엘리트 선수도 이겼다… 로봇의 놀라운 탁구 실력",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209732",
+          "date": "2026-04-25",
+          "source": "AI타임스",
+          "description": "AI타임스 조예주 기자 joyejuoffice@aitimes.com",
+          "image": "https://cdn.aitimes.com/news/photo/202604/209732_212207_379.jpg",
+          "is_english": false,
+          "original_title": "10년 베테랑 엘리트 선수도 이겼다… 로봇의 놀라운 탁구 실력",
+          "original_summary": "AI타임스 조예주 기자 joyejuoffice@aitimes.com",
+          "summary": "AI타임스 조예주 기자 joyejuoffice@aitimes.com"
+        },
         {
           "title": "Canadian, German AI Startups Join Forces to Challenge US Dominance",
           "link": "https://aibusiness.com/generative-ai/canadian-german-ai-startups-forces-challenge-us-dominance",
@@ -93,19 +117,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.6-35B-A3B",
-          "link": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
-          "date": "2026-04-25",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.6-35B-A3B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "deepseek-ai/DeepSeek-V4-Flash",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
           "date": "2026-04-25",
@@ -119,15 +130,15 @@
           "category": "AI Model"
         },
         {
-          "title": "tencent/HY-World-2.0",
-          "link": "https://huggingface.co/tencent/HY-World-2.0",
+          "title": "Qwen/Qwen3.6-35B-A3B",
+          "link": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
           "date": "2026-04-25",
           "source": "HuggingFace",
-          "description": "• HY-World-2.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/Panorama_Generation-4285F4?style=flat-square",
+          "description": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
           "is_english": true,
-          "summary": "• HY-World-2.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "tencent/HY-World-2.0",
+          "summary": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.6-35B-A3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -141,6 +152,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/Qwen3.6-27B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "tencent/HY-World-2.0",
+          "link": "https://huggingface.co/tencent/HY-World-2.0",
+          "date": "2026-04-25",
+          "source": "HuggingFace",
+          "description": "• HY-World-2.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/Panorama_Generation-4285F4?style=flat-square",
+          "is_english": true,
+          "summary": "• HY-World-2.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "tencent/HY-World-2.0",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -288,15 +312,15 @@
           "category": "AI Model"
         },
         {
-          "title": "robbyant/lingbot-map",
-          "link": "https://huggingface.co/robbyant/lingbot-map",
+          "title": "z-lab/Qwen3.6-35B-A3B-DFlash",
+          "link": "https://huggingface.co/z-lab/Qwen3.6-35B-A3B-DFlash",
           "date": "2026-04-25",
           "source": "HuggingFace",
-          "description": "• lingbot-map 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/static/v1?label=Paper&message=arXiv&color=red&logo=arxiv",
+          "description": "• Qwen3.6-35B-A3B-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/z-lab/Qwen3.6-35B-A3B-DFlash/resolve/main/assets/dflash_system.png",
           "is_english": true,
-          "summary": "• lingbot-map 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "robbyant/lingbot-map",
+          "summary": "• Qwen3.6-35B-A3B-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "z-lab/Qwen3.6-35B-A3B-DFlash",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -2358,7 +2382,7 @@
         {
           "title": "z-lab/Qwen3.6-35B-A3B-DFlash",
           "link": "https://huggingface.co/z-lab/Qwen3.6-35B-A3B-DFlash",
-          "date": "2026-04-24",
+          "date": "2026-04-25",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/z-lab/Qwen3.6-35B-A3B-DFlash/resolve/main/assets/dflash_system.png",
