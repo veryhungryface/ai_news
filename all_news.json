@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-04-27",
-      "update_time": "2026-04-26 18:37:01",
+      "update_time": "2026-04-26 21:29:17",
       "news": [
+        {
+          "title": "서울AI재단, MIT와 손잡고 시각데이터 기반 AI 연구 착수",
+          "link": "https://www.yna.co.kr/view/AKR20260424162900004",
+          "date": "2026-04-27",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 황재하 기자 = 서울AI재단은 매사추세츠공대(MIT) 센서블 시티 랩과 공동으로 &apos;공공 공간 시각데이터 기반 인공지능 기술&apos;(...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/04/24/AKR20260424162900004_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "서울AI재단, MIT와 손잡고 시각데이터 기반 AI 연구 착수",
+          "original_summary": "(서울=연합뉴스) 황재하 기자 = 서울AI재단은 매사추세츠공대(MIT) 센서블 시티 랩과 공동으로 &apos;공공 공간 시각데이터 기반 인공지능 기술&apos;(...",
+          "summary": "(서울=연합뉴스) 황재하 기자 = 서울AI재단은 매사추세츠공대(MIT) 센서블 시티 랩과 공동으로 &apos;공공 공간 시각데이터 기반 인공지능 기술&apos;(..."
+        },
         {
           "title": "deepseek-ai/DeepSeek-V4-Pro",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
@@ -148,19 +160,6 @@
           "category": "AI Model"
         },
         {
-          "title": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
-          "link": "https://huggingface.co/OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
-          "date": "2026-04-27",
-          "source": "HuggingFace",
-          "description": "• gemma-4-E4B-it-OBLITERATED 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• gemma-4-E4B-it-OBLITERATED 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "link": "https://huggingface.co/hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "date": "2026-04-27",
@@ -196,6 +195,19 @@
           "is_english": true,
           "summary": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "google/gemma-4-31B-it",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
+          "link": "https://huggingface.co/OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
+          "date": "2026-04-27",
+          "source": "HuggingFace",
+          "description": "• gemma-4-E4B-it-OBLITERATED 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• gemma-4-E4B-it-OBLITERATED 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
