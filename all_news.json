@@ -2,8 +2,44 @@
   "dates": [
     {
       "date": "2026-04-28",
-      "update_time": "2026-04-27 19:03:53",
+      "update_time": "2026-04-27 21:45:28",
       "news": [
+        {
+          "title": "최교진 교육장관, 수원제일평생학교 방문…성인 AI문해교육 참관",
+          "link": "https://www.yna.co.kr/view/AKR20260427117100530",
+          "date": "2026-04-28",
+          "source": "연합뉴스",
+          "description": "(세종=연합뉴스) 고상민 기자 = 최교진 교육부 장관은 28일 경기 수원시에 있는 수원제일평생학교를 방문해 성인을 대상으로 한 인공지능(AI)·...",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/04/17/PYH2026041702800001301_P2.jpg",
+          "is_english": false,
+          "original_title": "최교진 교육장관, 수원제일평생학교 방문…성인 AI문해교육 참관",
+          "original_summary": "(세종=연합뉴스) 고상민 기자 = 최교진 교육부 장관은 28일 경기 수원시에 있는 수원제일평생학교를 방문해 성인을 대상으로 한 인공지능(AI)·...",
+          "summary": "(세종=연합뉴스) 고상민 기자 = 최교진 교육부 장관은 28일 경기 수원시에 있는 수원제일평생학교를 방문해 성인을 대상으로 한 인공지능(AI)·..."
+        },
+        {
+          "title": "서울시, 일본 도쿄도와 디지털 협력 맞손…행정 분야 AI 활용 등",
+          "link": "https://www.yna.co.kr/view/AKR20260427144500004",
+          "date": "2026-04-28",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 황재하 기자 = 서울시는 이달 27일 일본 도쿄 빅사이트에서 열린 &apos;스시테크 도쿄 2026&apos;에서 도쿄도와 디지털 분야 협력 업...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/04/27/AKR20260427144500004_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "서울시, 일본 도쿄도와 디지털 협력 맞손…행정 분야 AI 활용 등",
+          "original_summary": "(서울=연합뉴스) 황재하 기자 = 서울시는 이달 27일 일본 도쿄 빅사이트에서 열린 &apos;스시테크 도쿄 2026&apos;에서 도쿄도와 디지털 분야 협력 업...",
+          "summary": "(서울=연합뉴스) 황재하 기자 = 서울시는 이달 27일 일본 도쿄 빅사이트에서 열린 &apos;스시테크 도쿄 2026&apos;에서 도쿄도와 디지털 분야 협력 업..."
+        },
+        {
+          "title": "[샷!] \"인생 정보 몽땅 털려\"…집단소송 움직임",
+          "link": "https://www.yna.co.kr/view/AKR20260427077400011",
+          "date": "2026-04-28",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 강민지 인턴기자 = &quot;내 얼굴 사진과 프로필이 AI 딥페이크 합성물이나 로맨스 스캠 사기에 무단으로 사용될 수 있다는 생각에 ...",
+          "image": "https://img.yna.co.kr/photo/cms/2022/07/27/74/PCM20220727000274990_P2.jpg",
+          "is_english": false,
+          "original_title": "[샷!] \"인생 정보 몽땅 털려\"…집단소송 움직임",
+          "original_summary": "(서울=연합뉴스) 강민지 인턴기자 = &quot;내 얼굴 사진과 프로필이 AI 딥페이크 합성물이나 로맨스 스캠 사기에 무단으로 사용될 수 있다는 생각에 ...",
+          "summary": "(서울=연합뉴스) 강민지 인턴기자 = &quot;내 얼굴 사진과 프로필이 AI 딥페이크 합성물이나 로맨스 스캠 사기에 무단으로 사용될 수 있다는 생각에 ..."
+        },
         {
           "title": "Meta Taps Solar Energy to Power Data Centers",
           "link": "https://aibusiness.com/generative-ai/meta-taps-solar-energy-power-data-centers",
@@ -56,19 +92,6 @@
           "category": "AI Model"
         },
         {
-          "title": "moonshotai/Kimi-K2.6",
-          "link": "https://huggingface.co/moonshotai/Kimi-K2.6",
-          "date": "2026-04-28",
-          "source": "HuggingFace",
-          "description": "• Kimi-K2.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/moonshotai/Kimi-K2.6/resolve/main/figures/kimi-logo.png",
-          "is_english": true,
-          "summary": "• Kimi-K2.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "moonshotai/Kimi-K2.6",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "deepseek-ai/DeepSeek-V4-Flash",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
           "date": "2026-04-28",
@@ -78,6 +101,19 @@
           "is_english": true,
           "summary": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "deepseek-ai/DeepSeek-V4-Flash",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "moonshotai/Kimi-K2.6",
+          "link": "https://huggingface.co/moonshotai/Kimi-K2.6",
+          "date": "2026-04-28",
+          "source": "HuggingFace",
+          "description": "• Kimi-K2.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/moonshotai/Kimi-K2.6/resolve/main/figures/kimi-logo.png",
+          "is_english": true,
+          "summary": "• Kimi-K2.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "moonshotai/Kimi-K2.6",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -173,19 +209,6 @@
           "category": "AI Model"
         },
         {
-          "title": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "link": "https://huggingface.co/hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "date": "2026-04-28",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/Follow%20on-X-000000?style=flat-square&logo=x",
-          "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "tencent/Hy3-preview",
           "link": "https://huggingface.co/tencent/Hy3-preview",
           "date": "2026-04-28",
@@ -195,6 +218,19 @@
           "is_english": true,
           "summary": "• Hy3-preview 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "tencent/Hy3-preview",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+          "link": "https://huggingface.co/hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+          "date": "2026-04-28",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/Follow%20on-X-000000?style=flat-square&logo=x",
+          "is_english": true,
+          "summary": "• Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -225,19 +261,6 @@
           "category": "AI Model"
         },
         {
-          "title": "google/gemma-4-31B-it",
-          "link": "https://huggingface.co/google/gemma-4-31B-it",
-          "date": "2026-04-28",
-          "source": "HuggingFace",
-          "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
-          "is_english": true,
-          "summary": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/gemma-4-31B-it",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
           "link": "https://huggingface.co/OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
           "date": "2026-04-28",
@@ -247,6 +270,19 @@
           "is_english": true,
           "summary": "• gemma-4-E4B-it-OBLITERATED 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "google/gemma-4-31B-it",
+          "link": "https://huggingface.co/google/gemma-4-31B-it",
+          "date": "2026-04-28",
+          "source": "HuggingFace",
+          "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "is_english": true,
+          "summary": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/gemma-4-31B-it",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -280,8 +316,20 @@
     },
     {
       "date": "2026-04-27",
-      "update_time": "2026-04-27 19:03:52",
+      "update_time": "2026-04-27 21:45:28",
       "news": [
+        {
+          "title": "OpenAI available at FedRAMP Moderate",
+          "link": "https://openai.com/index/openai-available-at-fedramp-moderate",
+          "date": "2026-04-27",
+          "source": "OpenAI",
+          "description": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
+          "image": null,
+          "is_english": true,
+          "original_title": "OpenAI available at FedRAMP Moderate",
+          "original_summary": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies.",
+          "summary": "OpenAI is available at FedRAMP Moderate authorization for ChatGPT Enterprise and the OpenAI API, enabling secure AI adoption for U.S. federal agencies."
+        },
         {
           "title": "An open-source spec for orchestration: Symphony",
           "link": "https://openai.com/index/open-source-codex-orchestration-symphony",
