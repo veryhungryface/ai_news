@@ -2,8 +2,44 @@
   "dates": [
     {
       "date": "2026-04-27",
-      "update_time": "2026-04-27 10:54:04",
+      "update_time": "2026-04-27 13:17:20",
       "news": [
+        {
+          "title": "The next phase of the Microsoft OpenAI partnership",
+          "link": "https://openai.com/index/next-phase-of-microsoft-partnership",
+          "date": "2026-04-27",
+          "source": "OpenAI",
+          "description": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
+          "image": null,
+          "is_english": true,
+          "original_title": "The next phase of the Microsoft OpenAI partnership",
+          "original_summary": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale.",
+          "summary": "OpenAI and Microsoft announce an amended agreement that simplifies the partnership, adds long-term clarity, and supports continued AI innovation at scale."
+        },
+        {
+          "title": "OpenAI could be making a phone with AI agents replacing apps",
+          "link": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+          "date": "2026-04-27",
+          "source": "TechCrunch",
+          "description": "The phone could go in mass production in 2028, an analyst says.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2206295463.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "OpenAI could be making a phone with AI agents replacing apps",
+          "original_summary": "The phone could go in mass production in 2028, an analyst says.",
+          "summary": "The phone could go in mass production in 2028, an analyst says."
+        },
+        {
+          "title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-genai-intensive-course-vibe-coding-june-2026/",
+          "date": "2026-04-27",
+          "source": "Google AI",
+          "description": "Google is bringing back its 5-Day AI Agents Intensive Course with Kaggle and registration is open.",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Vibe_Coding_Course_herosocial.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "Join the new AI Agents Vibe Coding Course from Google and Kaggle",
+          "original_summary": "Google is bringing back its 5-Day AI Agents Intensive Course with Kaggle and registration is open.",
+          "summary": "Google is bringing back its 5-Day AI Agents Intensive Course with Kaggle and registration is open."
+        },
         {
           "title": "사카나 AI, 단순 모델 호출 넘어 모델 가중치 섞는 ‘진화형 오케스트레이션’ 공개",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=209787",
@@ -583,19 +619,6 @@
           "category": "AI Model"
         },
         {
-          "title": "openai/privacy-filter",
-          "link": "https://huggingface.co/openai/privacy-filter",
-          "date": "2026-04-27",
-          "source": "HuggingFace",
-          "description": "• privacy-filter 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
-          "is_english": true,
-          "summary": "• privacy-filter 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "openai/privacy-filter",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.6-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.6-27B",
           "date": "2026-04-27",
@@ -605,6 +628,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.6-27B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "openai/privacy-filter",
+          "link": "https://huggingface.co/openai/privacy-filter",
+          "date": "2026-04-27",
+          "source": "HuggingFace",
+          "description": "• privacy-filter 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "is_english": true,
+          "summary": "• privacy-filter 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "openai/privacy-filter",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -622,19 +658,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.6-35B-A3B",
-          "link": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
-          "date": "2026-04-27",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.6-35B-A3B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Qwen3.6-27B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.6-27B-GGUF",
           "date": "2026-04-27",
@@ -644,6 +667,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/Qwen3.6-27B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.6-35B-A3B",
+          "link": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
+          "date": "2026-04-27",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.6-35B-A3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -726,19 +762,6 @@
           "category": "AI Model"
         },
         {
-          "title": "deepseek-ai/DeepSeek-V4-Flash-Base",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Base",
-          "date": "2026-04-27",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Flash-Base AI 모델 공개\n• HuggingFace에서 트렌딩 중\n• 다운로드 및 상세 정보는 링크에서\n• 최신 오픈소스 AI 기술",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• DeepSeek-V4-Flash-Base AI 모델 공개\n• HuggingFace에서 트렌딩 중\n• 다운로드 및 상세 정보는 링크에서\n• 최신 오픈소스 AI 기술",
-          "translated_title": "deepseek-ai/DeepSeek-V4-Flash-Base",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "tencent/Hy3-preview",
           "link": "https://huggingface.co/tencent/Hy3-preview",
           "date": "2026-04-27",
@@ -748,6 +771,19 @@
           "is_english": true,
           "summary": "• Hy3-preview 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "tencent/Hy3-preview",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-Base",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Base",
+          "date": "2026-04-27",
+          "source": "HuggingFace",
+          "description": "• DeepSeek-V4-Flash-Base AI 모델 공개\n• HuggingFace에서 트렌딩 중\n• 다운로드 및 상세 정보는 링크에서\n• 최신 오픈소스 AI 기술",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• DeepSeek-V4-Flash-Base AI 모델 공개\n• HuggingFace에서 트렌딩 중\n• 다운로드 및 상세 정보는 링크에서\n• 최신 오픈소스 AI 기술",
+          "translated_title": "deepseek-ai/DeepSeek-V4-Flash-Base",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -791,19 +827,6 @@
           "category": "AI Model"
         },
         {
-          "title": "tencent/HY-World-2.0",
-          "link": "https://huggingface.co/tencent/HY-World-2.0",
-          "date": "2026-04-27",
-          "source": "HuggingFace",
-          "description": "• HY-World-2.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/Panorama_Generation-4285F4?style=flat-square",
-          "is_english": true,
-          "summary": "• HY-World-2.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "tencent/HY-World-2.0",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "z-lab/Qwen3.6-35B-A3B-DFlash",
           "link": "https://huggingface.co/z-lab/Qwen3.6-35B-A3B-DFlash",
           "date": "2026-04-27",
@@ -813,6 +836,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-35B-A3B-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "z-lab/Qwen3.6-35B-A3B-DFlash",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "tencent/HY-World-2.0",
+          "link": "https://huggingface.co/tencent/HY-World-2.0",
+          "date": "2026-04-27",
+          "source": "HuggingFace",
+          "description": "• HY-World-2.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/Panorama_Generation-4285F4?style=flat-square",
+          "is_english": true,
+          "summary": "• HY-World-2.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "tencent/HY-World-2.0",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
