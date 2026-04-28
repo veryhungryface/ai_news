@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-04-29",
-      "update_time": "2026-04-28 16:47:01",
+      "update_time": "2026-04-28 19:19:37",
       "news": [
         {
           "title": "deepseek-ai/DeepSeek-V4-Pro",
@@ -57,19 +57,6 @@
           "category": "AI Model"
         },
         {
-          "title": "moonshotai/Kimi-K2.6",
-          "link": "https://huggingface.co/moonshotai/Kimi-K2.6",
-          "date": "2026-04-29",
-          "source": "HuggingFace",
-          "description": "• Kimi-K2.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/moonshotai/Kimi-K2.6/resolve/main/figures/kimi-logo.png",
-          "is_english": true,
-          "summary": "• Kimi-K2.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "moonshotai/Kimi-K2.6",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Qwen3.6-27B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.6-27B-GGUF",
           "date": "2026-04-29",
@@ -79,6 +66,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/Qwen3.6-27B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "moonshotai/Kimi-K2.6",
+          "link": "https://huggingface.co/moonshotai/Kimi-K2.6",
+          "date": "2026-04-29",
+          "source": "HuggingFace",
+          "description": "• Kimi-K2.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/moonshotai/Kimi-K2.6/resolve/main/figures/kimi-logo.png",
+          "is_english": true,
+          "summary": "• Kimi-K2.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "moonshotai/Kimi-K2.6",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -96,19 +96,6 @@
           "category": "AI Model"
         },
         {
-          "title": "deepseek-ai/DeepSeek-V4-Pro-Base",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-Base",
-          "date": "2026-04-29",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Pro-Base AI 모델 공개\n• HuggingFace에서 트렌딩 중\n• 다운로드 및 상세 정보는 링크에서\n• 최신 오픈소스 AI 기술",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• DeepSeek-V4-Pro-Base AI 모델 공개\n• HuggingFace에서 트렌딩 중\n• 다운로드 및 상세 정보는 링크에서\n• 최신 오픈소스 AI 기술",
-          "translated_title": "deepseek-ai/DeepSeek-V4-Pro-Base",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "XiaomiMiMo/MiMo-V2.5-Pro",
           "link": "https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro",
           "date": "2026-04-29",
@@ -122,15 +109,15 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.6-35B-A3B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
+          "title": "deepseek-ai/DeepSeek-V4-Pro-Base",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-Base",
           "date": "2026-04-29",
           "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "description": "• DeepSeek-V4-Pro-Base AI 모델 공개\n• HuggingFace에서 트렌딩 중\n• 다운로드 및 상세 정보는 링크에서\n• 최신 오픈소스 AI 기술",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Qwen3.6-35B-A3B-GGUF",
+          "summary": "• DeepSeek-V4-Pro-Base AI 모델 공개\n• HuggingFace에서 트렌딩 중\n• 다운로드 및 상세 정보는 링크에서\n• 최신 오픈소스 AI 기술",
+          "translated_title": "deepseek-ai/DeepSeek-V4-Pro-Base",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -144,6 +131,19 @@
           "is_english": true,
           "summary": "• LLaDA2.0-Uni 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "inclusionAI/LLaDA2.0-Uni",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/Qwen3.6-35B-A3B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
+          "date": "2026-04-29",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Qwen3.6-35B-A3B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -200,19 +200,6 @@
           "category": "AI Model"
         },
         {
-          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-04-29",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "z-lab/Qwen3.6-27B-DFlash",
           "link": "https://huggingface.co/z-lab/Qwen3.6-27B-DFlash",
           "date": "2026-04-29",
@@ -222,6 +209,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-27B-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "z-lab/Qwen3.6-27B-DFlash",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "date": "2026-04-29",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +268,44 @@
     },
     {
       "date": "2026-04-28",
-      "update_time": "2026-04-28 16:47:01",
+      "update_time": "2026-04-28 19:19:37",
       "news": [
+        {
+          "title": "OpenAI models, Codex, and Managed Agents come to AWS",
+          "link": "https://openai.com/index/openai-on-aws",
+          "date": "2026-04-28",
+          "source": "OpenAI",
+          "description": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+          "image": null,
+          "is_english": true,
+          "original_title": "OpenAI models, Codex, and Managed Agents come to AWS",
+          "original_summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments.",
+          "summary": "OpenAI GPT models, Codex, and Managed Agents are now available on AWS, enabling enterprises to build secure AI in their AWS environments."
+        },
+        {
+          "title": "Amazon launches an AI-powered audio Q&A experience on product pages",
+          "link": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
+          "date": "2026-04-28",
+          "source": "TechCrunch",
+          "description": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/Amazon-Jointhe-chat-AI.jpeg?resize=1200,675",
+          "is_english": true,
+          "original_title": "Amazon launches an AI-powered audio Q&A experience on product pages",
+          "original_summary": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses. ",
+          "summary": "Amazon's new \"Join the chat\" feature lets you ask questions about products and receive AI-powered audio responses. "
+        },
+        {
+          "title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
+          "link": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+          "date": "2026-04-28",
+          "source": "TechCrunch",
+          "description": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.",
+          "image": "https://techcrunch.com/wp-content/uploads/2018/12/GettyImages-1080946342.jpeg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Google expands Pentagon’s access to its AI after Anthropic’s refusal",
+          "original_summary": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department.",
+          "summary": "After Anthropic refused to allow the DoD to use its AI for domestic mass surveillance and autonomous weapons, Google has signed a new contract with the department."
+        },
         {
           "title": "Lovable launches its vibe coding app on iOS and Android",
           "link": "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/",
@@ -8137,7 +8173,7 @@
         {
           "title": "Qwen/Qwen3.6-35B-A3B",
           "link": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
-          "date": "2026-04-20",
+          "date": "2026-04-29",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -8163,7 +8199,7 @@
         {
           "title": "unsloth/Qwen3.6-35B-A3B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
-          "date": "2026-04-20",
+          "date": "2026-04-29",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -8267,7 +8303,7 @@
         {
           "title": "google/gemma-4-31B-it",
           "link": "https://huggingface.co/google/gemma-4-31B-it",
-          "date": "2026-04-20",
+          "date": "2026-04-29",
           "source": "HuggingFace",
           "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -8306,7 +8342,7 @@
         {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-04-20",
+          "date": "2026-04-29",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
