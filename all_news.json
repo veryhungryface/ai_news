@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-04-29",
-      "update_time": "2026-04-28 19:19:37",
+      "update_time": "2026-04-28 21:50:07",
       "news": [
+        {
+          "title": "Meta Scales AI Infrastructure With AWS Chip Deal",
+          "link": "https://aibusiness.com/agentic-ai/meta-scales-ai-infrastructure-aws-chip-deal",
+          "date": "2026-04-29",
+          "source": "AI Business",
+          "description": "The deal is the latest in a spate of major chip pacts as tech giants race to scale up AI compute.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltfb04050d3b5d6aae/69f114ea279f0a11137463b2/Meta.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Meta Scales AI Infrastructure With AWS Chip Deal",
+          "original_summary": "The deal is the latest in a spate of major chip pacts as tech giants race to scale up AI compute.",
+          "summary": "The deal is the latest in a spate of major chip pacts as tech giants race to scale up AI compute."
+        },
         {
           "title": "deepseek-ai/DeepSeek-V4-Pro",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
@@ -239,19 +251,6 @@
           "category": "AI Model"
         },
         {
-          "title": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "link": "https://huggingface.co/hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "date": "2026-04-29",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/Follow%20on-X-000000?style=flat-square&logo=x",
-          "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "XiaomiMiMo/MiMo-V2.5",
           "link": "https://huggingface.co/XiaomiMiMo/MiMo-V2.5",
           "date": "2026-04-29",
@@ -263,13 +262,38 @@
           "translated_title": "XiaomiMiMo/MiMo-V2.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+          "link": "https://huggingface.co/hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+          "date": "2026-04-29",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/Follow%20on-X-000000?style=flat-square&logo=x",
+          "is_english": true,
+          "summary": "• Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "hesamation/Qwen3.6-35B-A3B-Claude-4.6-Opus-Reasoning-Distilled-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-04-28",
-      "update_time": "2026-04-28 19:19:37",
+      "update_time": "2026-04-28 21:50:07",
       "news": [
+        {
+          "title": "Amazon is already offering new OpenAI products on AWS",
+          "link": "https://techcrunch.com/2026/04/28/amazon-is-already-offering-new-openai-products-on-aws/",
+          "date": "2026-04-28",
+          "source": "TechCrunch",
+          "description": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/Data-center-ChatGPT.png?resize=1200,600",
+          "is_english": true,
+          "original_title": "Amazon is already offering new OpenAI products on AWS",
+          "original_summary": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service.",
+          "summary": "A day after OpenAI got Microsoft to agree to end exclusive rights, AWS announced a slate of OpenAI model offerings, including a new agent service."
+        },
         {
           "title": "OpenAI models, Codex, and Managed Agents come to AWS",
           "link": "https://openai.com/index/openai-on-aws",
