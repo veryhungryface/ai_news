@@ -2,8 +2,44 @@
   "dates": [
     {
       "date": "2026-04-28",
-      "update_time": "2026-04-28 10:54:28",
+      "update_time": "2026-04-28 13:28:00",
       "news": [
+        {
+          "title": "BCI startup Neurable looks to license its ‘mind-reading’ tech for consumer wearables",
+          "link": "https://techcrunch.com/2026/04/28/bci-startup-neurable-looks-to-license-its-mind-reading-tech-for-consumer-wearables/",
+          "date": "2026-04-28",
+          "source": "TechCrunch",
+          "description": "The startup specializes in \"non-invasive\" \"mind-reading\" tech—a kind of neural data collection that, its CEO hopes, will have all sorts of consumer applications. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2255262571.jpg?w=1024",
+          "is_english": true,
+          "original_title": "BCI startup Neurable looks to license its ‘mind-reading’ tech for consumer wearables",
+          "original_summary": "The startup specializes in \"non-invasive\" \"mind-reading\" tech—a kind of neural data collection that, its CEO hopes, will have all sorts of consumer applications. ",
+          "summary": "The startup specializes in \"non-invasive\" \"mind-reading\" tech—a kind of neural data collection that, its CEO hopes, will have all sorts of consumer applications. "
+        },
+        {
+          "title": "Red Hat’s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
+          "link": "https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/",
+          "date": "2026-04-28",
+          "source": "TechCrunch",
+          "description": "Tank OS puts OpenClaw AI agents into a container that let's it run reliably and more safely, especially for those running fleets of them.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/Red-Hat-Sally-OMalley.jpg?w=960",
+          "is_english": true,
+          "original_title": "Red Hat’s OpenClaw maintainer just made enterprise Claw deployments a lot safer",
+          "original_summary": "Tank OS puts OpenClaw AI agents into a container that let's it run reliably and more safely, especially for those running fleets of them.",
+          "summary": "Tank OS puts OpenClaw AI agents into a container that let's it run reliably and more safely, especially for those running fleets of them."
+        },
+        {
+          "title": "Otter’s new feature lets users search across their enterprise tools",
+          "link": "https://techcrunch.com/2026/04/28/otters-new-feature-lets-users-search-across-their-enterprise-tools/",
+          "date": "2026-04-28",
+          "source": "TechCrunch",
+          "description": "Otter is also releasing a new Windows app that can capture meeting notes without joining one",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/Otter-feat.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "Otter’s new feature lets users search across their enterprise tools",
+          "original_summary": "Otter is also releasing a new Windows app that can capture meeting notes without joining one",
+          "summary": "Otter is also releasing a new Windows app that can capture meeting notes without joining one"
+        },
         {
           "title": "MS 깃허브, 사용량 기반 요금제로 AI 가격 정책 변경",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=209849",
@@ -735,19 +771,6 @@
           "category": "AI Model"
         },
         {
-          "title": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
-          "link": "https://huggingface.co/HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-04-28",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-27B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.6-27B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "XiaomiMiMo/MiMo-V2.5-Pro",
           "link": "https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro",
           "date": "2026-04-28",
@@ -757,6 +780,19 @@
           "is_english": true,
           "summary": "• MiMo-V2.5-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "XiaomiMiMo/MiMo-V2.5-Pro",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
+          "link": "https://huggingface.co/HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
+          "date": "2026-04-28",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-27B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.6-27B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -852,15 +888,15 @@
           "category": "AI Model"
         },
         {
-          "title": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
-          "link": "https://huggingface.co/OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
+          "title": "XiaomiMiMo/MiMo-V2.5",
+          "link": "https://huggingface.co/XiaomiMiMo/MiMo-V2.5",
           "date": "2026-04-28",
           "source": "HuggingFace",
-          "description": "• gemma-4-E4B-it-OBLITERATED 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• MiMo-V2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/XiaomiMiMo/MiMo/raw/main/figures/Xiaomi_MiMo.png?raw=true",
           "is_english": true,
-          "summary": "• gemma-4-E4B-it-OBLITERATED 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "OBLITERATUS/gemma-4-E4B-it-OBLITERATED",
+          "summary": "• MiMo-V2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "XiaomiMiMo/MiMo-V2.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
