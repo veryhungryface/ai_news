@@ -2,8 +2,56 @@
   "dates": [
     {
       "date": "2026-04-29",
-      "update_time": "2026-04-29 10:47:18",
+      "update_time": "2026-04-29 13:22:24",
       "news": [
+        {
+          "title": "Cybersecurity in the Intelligence Age",
+          "link": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+          "date": "2026-04-29",
+          "source": "OpenAI",
+          "description": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Cybersecurity in the Intelligence Age",
+          "original_summary": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
+          "summary": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems."
+        },
+        {
+          "title": "Firestorm Labs raises $82M to take drone factories into the field",
+          "link": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/",
+          "date": "2026-04-29",
+          "source": "TechCrunch",
+          "description": "A defense startup just raised $82 million to put drone factories inside shipping containers and bring manufacturing to the front lines.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/DSC07538.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "Firestorm Labs raises $82M to take drone factories into the field",
+          "original_summary": "A defense startup just raised $82 million to put drone factories inside shipping containers and bring manufacturing to the front lines.",
+          "summary": "A defense startup just raised $82 million to put drone factories inside shipping containers and bring manufacturing to the front lines."
+        },
+        {
+          "title": "Meet Shapes, the app bringing humans and AI into the same group chats",
+          "link": "https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/",
+          "date": "2026-04-29",
+          "source": "TechCrunch",
+          "description": "Think Discord chats, but with AI characters in addition to humans. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2270785056.jpg?resize=1200,686",
+          "is_english": true,
+          "original_title": "Meet Shapes, the app bringing humans and AI into the same group chats",
+          "original_summary": "Think Discord chats, but with AI characters in addition to humans. ",
+          "summary": "Think Discord chats, but with AI characters in addition to humans. "
+        },
+        {
+          "title": "Humanoid Bots to Start Airport Pilot in Japan",
+          "link": "https://aibusiness.com/robotics/humanoid-bots-start-airport-pilot-japan",
+          "date": "2026-04-29",
+          "source": "AI Business",
+          "description": "The latest real-world robot application joins a host of other workplace trial runs of the autonomous machines.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltfc446ee25503b023/69f1fe510638c21202aa56b6/Humanoid5.png?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Humanoid Bots to Start Airport Pilot in Japan",
+          "original_summary": "The latest real-world robot application joins a host of other workplace trial runs of the autonomous machines.",
+          "summary": "The latest real-world robot application joins a host of other workplace trial runs of the autonomous machines."
+        },
         {
           "title": "텐센트, 최신 'Hy3' 강화학습 과정에 '클로드' 활용 논란",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=209889",
@@ -748,19 +796,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.6-35B-A3B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
-          "date": "2026-04-29",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Qwen3.6-35B-A3B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "tencent/Hy3-preview",
           "link": "https://huggingface.co/tencent/Hy3-preview",
           "date": "2026-04-29",
@@ -770,6 +805,19 @@
           "is_english": true,
           "summary": "• Hy3-preview 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "tencent/Hy3-preview",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/Qwen3.6-35B-A3B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
+          "date": "2026-04-29",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Qwen3.6-35B-A3B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -852,15 +900,15 @@
           "category": "AI Model"
         },
         {
-          "title": "google/gemma-4-31B-it",
-          "link": "https://huggingface.co/google/gemma-4-31B-it",
+          "title": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
+          "link": "https://huggingface.co/nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
           "date": "2026-04-29",
           "source": "HuggingFace",
-          "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "description": "• Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/gemma-4-31B-it",
+          "summary": "• Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
