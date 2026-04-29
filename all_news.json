@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-04-30",
-      "update_time": "2026-04-29 19:08:47",
+      "update_time": "2026-04-29 21:52:14",
       "news": [
+        {
+          "title": "구글 첫 해외 AI 캠퍼스, 서울 강남에 연내 문 연다",
+          "link": "https://www.yna.co.kr/view/AKR20260429163600017",
+          "date": "2026-04-30",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 한상용 권하영 기자 = 구글 딥마인드가 서울 강남구에 인공지능(AI) 협력 거점인 &apos;구글 AI 캠퍼스&apos;를 연내 개소하기로 하면...",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/04/29/PYH2026042914650001300_P2.jpg",
+          "is_english": false,
+          "original_title": "구글 첫 해외 AI 캠퍼스, 서울 강남에 연내 문 연다",
+          "original_summary": "(서울=연합뉴스) 한상용 권하영 기자 = 구글 딥마인드가 서울 강남구에 인공지능(AI) 협력 거점인 &apos;구글 AI 캠퍼스&apos;를 연내 개소하기로 하면...",
+          "summary": "(서울=연합뉴스) 한상용 권하영 기자 = 구글 딥마인드가 서울 강남구에 인공지능(AI) 협력 거점인 &apos;구글 AI 캠퍼스&apos;를 연내 개소하기로 하면..."
+        },
+        {
+          "title": "18세 창립자의 '1인 AI 기업' 셀론이 투자사를 사로잡은 비결은",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209942",
+          "date": "2026-04-30",
+          "source": "AI타임스",
+          "description": "18세의 대표가 설립한 1인 기업이 시드 투자를 유치해 화제다. 놀라운 것은 이번이 첫번째 창업이 아니라는 점이다.AI 스타트업 셀론은 29일 프라이머와 더벤처스로부터 시드 투자를 유치했다고 밝혔다. 규모는 비공개다.이번 투자에 참여한 두 곳은 국내를 대표하는 스타트업 액셀러레이터다. 이들로부터 투자받았다는 것은 사업 모델의 잠재력을 높게 평가받았다는 것을 의미한다.2025년 9월 설립된 셀론은 18세인 장준하 대표가 혼자서 이끌고 있다. 제품 개발과 사업 개발을 전부 직접 진행한다.\\\"초기 제품 방향을 빠르게 검증해야 하는 만큼,",
+          "image": "https://cdn.aitimes.com/news/photo/202604/209942_212481_1753.png",
+          "is_english": false,
+          "original_title": "18세 창립자의 '1인 AI 기업' 셀론이 투자사를 사로잡은 비결은",
+          "original_summary": "18세의 대표가 설립한 1인 기업이 시드 투자를 유치해 화제다. 놀라운 것은 이번이 첫번째 창업이 아니라는 점이다.AI 스타트업 셀론은 29일 프라이머와 더벤처스로부터 시드 투자를 유치했다고 밝혔다. 규모는 비공개다.이번 투자에 참여한 두 곳은 국내를 대표하는 스타트업 액셀러레이터다. 이들로부터 투자받았다는 것은 사업 모델의 잠재력을 높게 평가받았다는 것을 의미한다.2025년 9월 설립된 셀론은 18세인 장준하 대표가 혼자서 이끌고 있다. 제품 개발과 사업 개발을 전부 직접 진행한다.\\\"초기 제품 방향을 빠르게 검증해야 하는 만큼,",
+          "summary": "18세의 대표가 설립한 1인 기업이 시드 투자를 유치해 화제다. 놀라운 것은 이번이 첫번째 창업이 아니라는 점이다.AI 스타트업 셀론은 29일 프라이머와 더벤처스로부터 시드 투자를 유치했다고 밝혔다. 규모는 비공개다.이번 투자에 참여한 두 곳은 국내를 대표하는 스타트업 액셀러레이터다. 이들로부터 투자받았다는 것은 사업 모델의 잠재력을 높게 평가받았다는 것을 의미한다.2025년 9월 설립된 셀론은 18세인 장준하 대표가 혼자서 이끌고 있다. 제품 개발과 사업 개발을 전부 직접 진행한다.\\\"초기 제품 방향을 빠르게 검증해야 하는 만큼,"
+        },
         {
           "title": "AWS Launches Managed Agents with OpenAI Partnership",
           "link": "https://aibusiness.com/agentic-ai/aws-launches-managed-agents-openai-partnership",
@@ -42,19 +66,6 @@
           "category": "AI Model"
         },
         {
-          "title": "openai/privacy-filter",
-          "link": "https://huggingface.co/openai/privacy-filter",
-          "date": "2026-04-30",
-          "source": "HuggingFace",
-          "description": "• privacy-filter 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
-          "is_english": true,
-          "summary": "• privacy-filter 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "openai/privacy-filter",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "deepseek-ai/DeepSeek-V4-Flash",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
           "date": "2026-04-30",
@@ -64,6 +75,19 @@
           "is_english": true,
           "summary": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "deepseek-ai/DeepSeek-V4-Flash",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "openai/privacy-filter",
+          "link": "https://huggingface.co/openai/privacy-filter",
+          "date": "2026-04-30",
+          "source": "HuggingFace",
+          "description": "• privacy-filter 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "is_english": true,
+          "summary": "• privacy-filter 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "openai/privacy-filter",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -159,19 +183,6 @@
           "category": "AI Model"
         },
         {
-          "title": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
-          "link": "https://huggingface.co/HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-04-30",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-27B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.6-27B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "tencent/Hy3-preview",
           "link": "https://huggingface.co/tencent/Hy3-preview",
           "date": "2026-04-30",
@@ -181,6 +192,19 @@
           "is_english": true,
           "summary": "• Hy3-preview 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "tencent/Hy3-preview",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
+          "link": "https://huggingface.co/HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
+          "date": "2026-04-30",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-27B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.6-27B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -292,8 +316,32 @@
     },
     {
       "date": "2026-04-29",
-      "update_time": "2026-04-29 19:08:47",
+      "update_time": "2026-04-29 21:52:14",
       "news": [
+        {
+          "title": "Google gains 25M subscriptions in Q1, driven by YouTube and Google One",
+          "link": "https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/",
+          "date": "2026-04-29",
+          "source": "TechCrunch",
+          "description": "Google added 25M paid subscriptions in Q1, reaching 350M total, as YouTube and Google One grow. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-1149449083.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Google gains 25M subscriptions in Q1, driven by YouTube and Google One",
+          "original_summary": "Google added 25M paid subscriptions in Q1, reaching 350M total, as YouTube and Google One grow. ",
+          "summary": "Google added 25M paid subscriptions in Q1, reaching 350M total, as YouTube and Google One grow. "
+        },
+        {
+          "title": "Solving the “Whac-a-mole dilemma”: A smarter way to debias AI vision models",
+          "link": "https://news.mit.edu/2026/smarter-way-to-debias-ai-vision-models-0429",
+          "date": "2026-04-29",
+          "source": "MIT News",
+          "description": "A new debiasing technique called WRING avoids creating or amplifying biases that can occur with existing debiasing approaches.",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/mit-jameel-clinic-WRING-bias.jpg?itok=XH5m_j1t",
+          "is_english": true,
+          "original_title": "Solving the “Whac-a-mole dilemma”: A smarter way to debias AI vision models",
+          "original_summary": "A new debiasing technique called WRING avoids creating or amplifying biases that can occur with existing debiasing approaches.",
+          "summary": "A new debiasing technique called WRING avoids creating or amplifying biases that can occur with existing debiasing approaches."
+        },
         {
           "title": "Is AI video just a prequel? Runway’s CEO thinks world models are next",
           "link": "https://techcrunch.com/podcast/equity-podcast-runway-ceo-cristobal-valenzuela-ai-video-world-models/",
