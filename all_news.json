@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-04-30",
-      "update_time": "2026-04-29 16:24:20",
+      "update_time": "2026-04-29 19:08:47",
       "news": [
+        {
+          "title": "AWS Launches Managed Agents with OpenAI Partnership",
+          "link": "https://aibusiness.com/agentic-ai/aws-launches-managed-agents-openai-partnership",
+          "date": "2026-04-30",
+          "source": "AI Business",
+          "description": "The service eliminates the need for customers to choose underlying models when building agents.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt6ff4ce4c53bf5bb1/69f24e681d1c510610ec2149/Bedrock.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "AWS Launches Managed Agents with OpenAI Partnership",
+          "original_summary": "The service eliminates the need for customers to choose underlying models when building agents.",
+          "summary": "The service eliminates the need for customers to choose underlying models when building agents."
+        },
         {
           "title": "Scout AI Raises $100M to Build ‘AI Brain' for Autonomous Warfare",
           "link": "https://aibusiness.com/robotics/scout-ai-raises-100m-build-ai-brain-autonomous-warfare",
@@ -69,19 +81,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.6-27B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.6-27B-GGUF",
-          "date": "2026-04-30",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.6-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Qwen3.6-27B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "moonshotai/Kimi-K2.6",
           "link": "https://huggingface.co/moonshotai/Kimi-K2.6",
           "date": "2026-04-30",
@@ -91,6 +90,19 @@
           "is_english": true,
           "summary": "• Kimi-K2.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "moonshotai/Kimi-K2.6",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/Qwen3.6-27B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.6-27B-GGUF",
+          "date": "2026-04-30",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• Qwen3.6-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Qwen3.6-27B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -280,8 +292,56 @@
     },
     {
       "date": "2026-04-29",
-      "update_time": "2026-04-29 13:22:24",
+      "update_time": "2026-04-29 19:08:47",
       "news": [
+        {
+          "title": "Is AI video just a prequel? Runway’s CEO thinks world models are next",
+          "link": "https://techcrunch.com/podcast/equity-podcast-runway-ceo-cristobal-valenzuela-ai-video-world-models/",
+          "date": "2026-04-29",
+          "source": "TechCrunch",
+          "description": "AI-generated video has gone from novelty to creative tool almost overnight, and Runway has a front row seat to the shift. The New York-based company has raised close to $860 million at a $5.3 billion valuation, and its models are going toe-to-toe with the most well-funded labs in the world, including Google and OpenAI.   The technology goes way beyond [&#8230;]",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2250760741.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Is AI video just a prequel? Runway’s CEO thinks world models are next",
+          "original_summary": "AI-generated video has gone from novelty to creative tool almost overnight, and Runway has a front row seat to the shift. The New York-based company has raised close to $860 million at a $5.3 billion valuation, and its models are going toe-to-toe with the most well-funded labs in the world, includin",
+          "summary": "AI-generated video has gone from novelty to creative tool almost overnight, and Runway has a front row seat to the shift. The New York-based company has raised close to $860 million at a $5.3 billion valuation, and its models are going toe-to-toe with the most well-funded labs in the world, includin"
+        },
+        {
+          "title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
+          "link": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/",
+          "date": "2026-04-29",
+          "source": "TechCrunch",
+          "description": "The AI agent-tool startup founded by former Twitter CEO Parag Agrawal has raised $100 million, led by Sequoia, months after raising a previous $100 million.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/Parag-Agrawal-Parallel.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
+          "original_summary": "The AI agent-tool startup founded by former Twitter CEO Parag Agrawal has raised $100 million, led by Sequoia, months after raising a previous $100 million.",
+          "summary": "The AI agent-tool startup founded by former Twitter CEO Parag Agrawal has raised $100 million, led by Sequoia, months after raising a previous $100 million."
+        },
+        {
+          "title": "Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality",
+          "link": "https://techcrunch.com/2026/04/29/google-photos-uses-ai-to-make-the-iconic-closet-from-clueless-a-reality/",
+          "date": "2026-04-29",
+          "source": "TechCrunch",
+          "description": "Google says the new feature will leverage AI technology to automatically create a copy of your wardrobe that's based on the pieces of clothing appearing in your Google Photos library.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/clueless-closet.webp?w=1200",
+          "is_english": true,
+          "original_title": "Google Photos uses AI to make the iconic closet from ‘Clueless’ a reality",
+          "original_summary": "Google says the new feature will leverage AI technology to automatically create a copy of your wardrobe that's based on the pieces of clothing appearing in your Google Photos library.",
+          "summary": "Google says the new feature will leverage AI technology to automatically create a copy of your wardrobe that's based on the pieces of clothing appearing in your Google Photos library."
+        },
+        {
+          "title": "More Gemini features are coming to Google TV",
+          "link": "https://techcrunch.com/2026/04/29/more-gemini-features-are-coming-to-google-tv/",
+          "date": "2026-04-29",
+          "source": "TechCrunch",
+          "description": "Google TV just got more Gemini features, including the ability to transform photos and videos with tools Nano Banana and Veo. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/09/GoogleTV-2024.png?resize=1200,591",
+          "is_english": true,
+          "original_title": "More Gemini features are coming to Google TV",
+          "original_summary": "Google TV just got more Gemini features, including the ability to transform photos and videos with tools Nano Banana and Veo. ",
+          "summary": "Google TV just got more Gemini features, including the ability to transform photos and videos with tools Nano Banana and Veo. "
+        },
         {
           "title": "Cybersecurity in the Intelligence Age",
           "link": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
@@ -8245,7 +8305,7 @@
         {
           "title": "Qwen/Qwen3.6-35B-A3B",
           "link": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
-          "date": "2026-04-21",
+          "date": "2026-04-30",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -8271,7 +8331,7 @@
         {
           "title": "unsloth/Qwen3.6-35B-A3B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
-          "date": "2026-04-21",
+          "date": "2026-04-30",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -8401,7 +8461,7 @@
         {
           "title": "google/gemma-4-31B-it",
           "link": "https://huggingface.co/google/gemma-4-31B-it",
-          "date": "2026-04-21",
+          "date": "2026-04-30",
           "source": "HuggingFace",
           "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
