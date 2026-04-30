@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-05-01",
-      "update_time": "2026-04-30 19:05:34",
+      "update_time": "2026-04-30 21:47:13",
       "news": [
+        {
+          "title": "[AI돋보기] AI가 쪼갠 일자리…'대량실업' 아닌 '직무 분해'",
+          "link": "https://www.yna.co.kr/view/AKR20260430123800017",
+          "date": "2026-05-01",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 심재훈 기자 = 1일 노동절을 맞았지만 우리나라 근로자들은 인공지능(AI)의 등장으로 직업 정체성이 불투명해지면서 불안감이 커...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/04/30/AKR20260430123800017_05_i_P2.jpg",
+          "is_english": false,
+          "original_title": "[AI돋보기] AI가 쪼갠 일자리…'대량실업' 아닌 '직무 분해'",
+          "original_summary": "(서울=연합뉴스) 심재훈 기자 = 1일 노동절을 맞았지만 우리나라 근로자들은 인공지능(AI)의 등장으로 직업 정체성이 불투명해지면서 불안감이 커...",
+          "summary": "(서울=연합뉴스) 심재훈 기자 = 1일 노동절을 맞았지만 우리나라 근로자들은 인공지능(AI)의 등장으로 직업 정체성이 불투명해지면서 불안감이 커..."
+        },
         {
           "title": "Mistral’s Model Lets You Vibe Long-Running Code in the Cloud",
           "link": "https://aibusiness.com/agentic-ai/mistral-s-model-vibe-long-running-code-in-the-cloud",
@@ -108,19 +120,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.6-27B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.6-27B-GGUF",
-          "date": "2026-05-01",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.6-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Qwen3.6-27B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.6-35B-A3B",
           "link": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
           "date": "2026-05-01",
@@ -130,6 +129,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.6-35B-A3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/Qwen3.6-27B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.6-27B-GGUF",
+          "date": "2026-05-01",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• Qwen3.6-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Qwen3.6-27B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -173,19 +185,6 @@
           "category": "AI Model"
         },
         {
-          "title": "XiaomiMiMo/MiMo-V2.5",
-          "link": "https://huggingface.co/XiaomiMiMo/MiMo-V2.5",
-          "date": "2026-05-01",
-          "source": "HuggingFace",
-          "description": "• MiMo-V2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/XiaomiMiMo/MiMo/raw/main/figures/Xiaomi_MiMo.png?raw=true",
-          "is_english": true,
-          "summary": "• MiMo-V2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "XiaomiMiMo/MiMo-V2.5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "mistralai/Mistral-Medium-3.5-128B",
           "link": "https://huggingface.co/mistralai/Mistral-Medium-3.5-128B",
           "date": "2026-05-01",
@@ -208,6 +207,19 @@
           "is_english": true,
           "summary": "• Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "XiaomiMiMo/MiMo-V2.5",
+          "link": "https://huggingface.co/XiaomiMiMo/MiMo-V2.5",
+          "date": "2026-05-01",
+          "source": "HuggingFace",
+          "description": "• MiMo-V2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/XiaomiMiMo/MiMo/raw/main/figures/Xiaomi_MiMo.png?raw=true",
+          "is_english": true,
+          "summary": "• MiMo-V2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "XiaomiMiMo/MiMo-V2.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -280,8 +292,32 @@
     },
     {
       "date": "2026-04-30",
-      "update_time": "2026-04-30 19:05:33",
+      "update_time": "2026-04-30 21:47:13",
       "news": [
+        {
+          "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
+          "link": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
+          "date": "2026-04-30",
+          "source": "TechCrunch",
+          "description": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf and now have dueling ad campaigns.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/jude-law-for-legora.jpeg?resize=1200,831",
+          "is_english": true,
+          "original_title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
+          "original_summary": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf and now have dueling ad campaigns.",
+          "summary": "The two wildly fast-growing rivals have raised massive sums, pushed into each other's home turf and now have dueling ad campaigns."
+        },
+        {
+          "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
+          "link": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+          "date": "2026-04-30",
+          "source": "TechCrunch",
+          "description": "OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-14-at-7.00.44-PM.png?resize=1200,783",
+          "is_english": true,
+          "original_title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
+          "original_summary": "OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first.",
+          "summary": "OpenAI will begin rolling out its cybersecurity testing tool, GPT-5.5 Cyber only \"to critical cyber defenders\" at first."
+        },
         {
           "title": "Introducing Advanced Account Security",
           "link": "https://openai.com/index/advanced-account-security",
