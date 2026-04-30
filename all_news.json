@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-05-01",
-      "update_time": "2026-04-30 16:13:31",
+      "update_time": "2026-04-30 19:05:34",
       "news": [
+        {
+          "title": "Mistral’s Model Lets You Vibe Long-Running Code in the Cloud",
+          "link": "https://aibusiness.com/agentic-ai/mistral-s-model-vibe-long-running-code-in-the-cloud",
+          "date": "2026-05-01",
+          "source": "AI Business",
+          "description": "Mistral's approach prioritizes natural language interactions, making coding more accessible while allowing for integration with existing code repositories.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltad139596e7951626/69f39fd1322ba67703950637/Mistral_AI.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Mistral’s Model Lets You Vibe Long-Running Code in the Cloud",
+          "original_summary": "Mistral's approach prioritizes natural language interactions, making coding more accessible while allowing for integration with existing code repositories.",
+          "summary": "Mistral's approach prioritizes natural language interactions, making coding more accessible while allowing for integration with existing code repositories."
+        },
         {
           "title": "deepseek-ai/DeepSeek-V4-Pro",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
@@ -200,19 +212,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.6-35B-A3B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
-          "date": "2026-05-01",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Qwen3.6-35B-A3B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "poolside/Laguna-XS.2",
           "link": "https://huggingface.co/poolside/Laguna-XS.2",
           "date": "2026-05-01",
@@ -222,6 +221,19 @@
           "is_english": true,
           "summary": "• Laguna-XS.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "poolside/Laguna-XS.2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/Qwen3.6-35B-A3B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
+          "date": "2026-05-01",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Qwen3.6-35B-A3B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,19 +251,6 @@
           "category": "AI Model"
         },
         {
-          "title": "tencent/Hy3-preview",
-          "link": "https://huggingface.co/tencent/Hy3-preview",
-          "date": "2026-05-01",
-          "source": "HuggingFace",
-          "description": "• Hy3-preview 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/License-Tencent%20Hy%20Community-blue",
-          "is_english": true,
-          "summary": "• Hy3-preview 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "tencent/Hy3-preview",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "inclusionAI/Ling-2.6-flash",
           "link": "https://huggingface.co/inclusionAI/Ling-2.6-flash",
           "date": "2026-05-01",
@@ -263,13 +262,98 @@
           "translated_title": "inclusionAI/Ling-2.6-flash",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "google/gemma-4-31B-it",
+          "link": "https://huggingface.co/google/gemma-4-31B-it",
+          "date": "2026-05-01",
+          "source": "HuggingFace",
+          "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "is_english": true,
+          "summary": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/gemma-4-31B-it",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-04-30",
-      "update_time": "2026-04-30 16:13:29",
+      "update_time": "2026-04-30 19:05:33",
       "news": [
+        {
+          "title": "Introducing Advanced Account Security",
+          "link": "https://openai.com/index/advanced-account-security",
+          "date": "2026-04-30",
+          "source": "OpenAI",
+          "description": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Introducing Advanced Account Security",
+          "original_summary": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover.",
+          "summary": "Introducing Advanced Account Security: phishing-resistant login, stronger recovery, and enhanced protections to safeguard sensitive data and prevent account takeover."
+        },
+        {
+          "title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
+          "link": "https://techcrunch.com/2026/04/30/openai-announces-new-advanced-security-for-chatgpt-accounts-including-a-partnership-with-yubico/",
+          "date": "2026-04-30",
+          "source": "TechCrunch",
+          "description": "OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/OopenAI-how-to-1.jpg?resize=1200,600",
+          "is_english": true,
+          "original_title": "OpenAI announces new advanced security for ChatGPT accounts, including a partnership with Yubico",
+          "original_summary": "OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico. ",
+          "summary": "OpenAI is launching additional opt-in protections for ChatGPT accounts. The new security initiative includes a new partnership with security key provider Yubico. "
+        },
+        {
+          "title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
+          "link": "https://techcrunch.com/2026/04/30/elon-musk-testifies-that-xai-trained-grok-on-openai-models/",
+          "date": "2026-04-30",
+          "source": "TechCrunch",
+          "description": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/musk-court-2273245544.jpg?resize=1200,801",
+          "is_english": true,
+          "original_title": "Elon Musk testifies that xAI trained Grok on OpenAI models",
+          "original_summary": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models.",
+          "summary": "\"Distillation\" is a hot topic as frontier labs try to prevent smaller competitors from copying their models."
+        },
+        {
+          "title": "FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder",
+          "link": "https://techcrunch.com/2026/04/30/fda-approval-fundraising-and-the-reality-of-building-in-healthcare-according-to-bioticsai-founder/",
+          "date": "2026-04-30",
+          "source": "TechCrunch",
+          "description": "BioticsAI CEO Robhy Bustami joined Isabelle Johannessen on Build Mode to discuss how the company has navigated a highly regulated space and kept the team motivated while cutting through all the red tape.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/bms2e11-featured.png?resize=1200,675",
+          "is_english": true,
+          "original_title": "FDA approval, fundraising, and the reality of building in healthcare according to BioticsAI founder",
+          "original_summary": "BioticsAI CEO Robhy Bustami joined Isabelle Johannessen on Build Mode to discuss how the company has navigated a highly regulated space and kept the team motivated while cutting through all the red tape.",
+          "summary": "BioticsAI CEO Robhy Bustami joined Isabelle Johannessen on Build Mode to discuss how the company has navigated a highly regulated space and kept the team motivated while cutting through all the red tape."
+        },
+        {
+          "title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
+          "link": "https://techcrunch.com/2026/04/30/googles-gemini-ai-assistant-is-hitting-the-road-in-millions-of-vehicles/",
+          "date": "2026-04-30",
+          "source": "TechCrunch",
+          "description": "The move signals Google’s push to bring more advanced, conversational AI into the driving experience.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/Gemini-google-vehicles.jpeg?w=1200",
+          "is_english": true,
+          "original_title": "Google’s Gemini AI assistant is hitting the road in millions of vehicles",
+          "original_summary": "The move signals Google’s push to bring more advanced, conversational AI into the driving experience.",
+          "summary": "The move signals Google’s push to bring more advanced, conversational AI into the driving experience."
+        },
+        {
+          "title": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
+          "link": "https://techcrunch.com/2026/04/30/stripe-link-digital-wallet-ai-agents-shopping/",
+          "date": "2026-04-30",
+          "source": "TechCrunch",
+          "description": "Link lets users connect cards, banks, and subscriptions, then authorize AI agents to spend securely via approval flows. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/link-2026-04-30-at-1.04.31-PM.jpg?resize=1200,659",
+          "is_english": true,
+          "original_title": "Stripe introduces Link, a digital wallet that autonomous AI agents can use, too",
+          "original_summary": "Link lets users connect cards, banks, and subscriptions, then authorize AI agents to spend securely via approval flows. ",
+          "summary": "Link lets users connect cards, banks, and subscriptions, then authorize AI agents to spend securely via approval flows. "
+        },
         {
           "title": "Salesforce is crowdsourcing its AI roadmap — with customers",
           "link": "https://techcrunch.com/2026/04/30/salesforce-is-crowdsourcing-its-ai-roadmap-with-customers/",
@@ -8173,7 +8257,7 @@
         {
           "title": "Qwen/Qwen3.6-35B-A3B",
           "link": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
-          "date": "2026-04-22",
+          "date": "2026-05-01",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -8186,7 +8270,7 @@
         {
           "title": "moonshotai/Kimi-K2.6",
           "link": "https://huggingface.co/moonshotai/Kimi-K2.6",
-          "date": "2026-04-22",
+          "date": "2026-05-01",
           "source": "HuggingFace",
           "description": "• Kimi-K2.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/moonshotai/Kimi-K2.6/resolve/main/figures/kimi-logo.png",
@@ -8199,7 +8283,7 @@
         {
           "title": "unsloth/Qwen3.6-35B-A3B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
-          "date": "2026-04-22",
+          "date": "2026-05-01",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -8303,7 +8387,7 @@
         {
           "title": "google/gemma-4-31B-it",
           "link": "https://huggingface.co/google/gemma-4-31B-it",
-          "date": "2026-04-22",
+          "date": "2026-05-01",
           "source": "HuggingFace",
           "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
