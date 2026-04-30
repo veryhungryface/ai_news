@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-04-30",
-      "update_time": "2026-04-30 10:46:25",
+      "update_time": "2026-04-30 13:19:53",
       "news": [
+        {
+          "title": "Meta says its business AI now facilitates 10 million conversations a week",
+          "link": "https://techcrunch.com/2026/04/30/meta-says-its-business-ai-now-facilitates-10-million-conversations-a-week/",
+          "date": "2026-04-30",
+          "source": "TechCrunch",
+          "description": "Meta said over 8 billion advertisers have used at least one of its gen AI tools",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2194278734.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Meta says its business AI now facilitates 10 million conversations a week",
+          "original_summary": "Meta said over 8 billion advertisers have used at least one of its gen AI tools",
+          "summary": "Meta said over 8 billion advertisers have used at least one of its gen AI tools"
+        },
         {
           "title": "구글도 ‘제미나이’ 앱 광고 검토…AI 챗봇 수익, 광고가 중심되나",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=210000",
@@ -724,19 +736,6 @@
           "category": "AI Model"
         },
         {
-          "title": "tencent/Hy3-preview",
-          "link": "https://huggingface.co/tencent/Hy3-preview",
-          "date": "2026-04-30",
-          "source": "HuggingFace",
-          "description": "• Hy3-preview 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/License-Tencent%20Hy%20Community-blue",
-          "is_english": true,
-          "summary": "• Hy3-preview 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "tencent/Hy3-preview",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "talkie-lm/talkie-1930-13b-it",
           "link": "https://huggingface.co/talkie-lm/talkie-1930-13b-it",
           "date": "2026-04-30",
@@ -746,19 +745,6 @@
           "is_english": true,
           "summary": "• talkie-1930-13b-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "talkie-lm/talkie-1930-13b-it",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "unsloth/Qwen3.6-35B-A3B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
-          "date": "2026-04-30",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Qwen3.6-35B-A3B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -776,6 +762,19 @@
           "category": "AI Model"
         },
         {
+          "title": "unsloth/Qwen3.6-35B-A3B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
+          "date": "2026-04-30",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Qwen3.6-35B-A3B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
           "link": "https://huggingface.co/nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
           "date": "2026-04-30",
@@ -785,6 +784,19 @@
           "is_english": true,
           "summary": "• Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "mistralai/Mistral-Medium-3.5-128B",
+          "link": "https://huggingface.co/mistralai/Mistral-Medium-3.5-128B",
+          "date": "2026-04-30",
+          "source": "HuggingFace",
+          "description": "• Mistral-Medium-3.5-128B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Mistral-Medium-3.5-128B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "mistralai/Mistral-Medium-3.5-128B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -815,15 +827,15 @@
           "category": "AI Model"
         },
         {
-          "title": "mistralai/Mistral-Medium-3.5-128B",
-          "link": "https://huggingface.co/mistralai/Mistral-Medium-3.5-128B",
+          "title": "tencent/Hy3-preview",
+          "link": "https://huggingface.co/tencent/Hy3-preview",
           "date": "2026-04-30",
           "source": "HuggingFace",
-          "description": "• Mistral-Medium-3.5-128B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• Hy3-preview 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/License-Tencent%20Hy%20Community-blue",
           "is_english": true,
-          "summary": "• Mistral-Medium-3.5-128B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "mistralai/Mistral-Medium-3.5-128B",
+          "summary": "• Hy3-preview 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "tencent/Hy3-preview",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
