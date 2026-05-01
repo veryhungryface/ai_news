@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-05-02",
-      "update_time": "2026-05-01 18:57:08",
+      "update_time": "2026-05-01 21:42:50",
       "news": [
         {
           "title": "AI Demand Is Outpacing the Scaffolding to Support It",
@@ -95,19 +95,6 @@
           "category": "AI Model"
         },
         {
-          "title": "moonshotai/Kimi-K2.6",
-          "link": "https://huggingface.co/moonshotai/Kimi-K2.6",
-          "date": "2026-05-02",
-          "source": "HuggingFace",
-          "description": "• Kimi-K2.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/moonshotai/Kimi-K2.6/resolve/main/figures/kimi-logo.png",
-          "is_english": true,
-          "summary": "• Kimi-K2.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "moonshotai/Kimi-K2.6",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
           "link": "https://huggingface.co/nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
           "date": "2026-05-02",
@@ -130,6 +117,19 @@
           "is_english": true,
           "summary": "• talkie-1930-13b-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "talkie-lm/talkie-1930-13b-it",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "moonshotai/Kimi-K2.6",
+          "link": "https://huggingface.co/moonshotai/Kimi-K2.6",
+          "date": "2026-05-02",
+          "source": "HuggingFace",
+          "description": "• Kimi-K2.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/moonshotai/Kimi-K2.6/resolve/main/figures/kimi-logo.png",
+          "is_english": true,
+          "summary": "• Kimi-K2.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "moonshotai/Kimi-K2.6",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
