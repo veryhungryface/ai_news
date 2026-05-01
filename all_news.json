@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-05-02",
-      "update_time": "2026-05-01 15:46:11",
+      "update_time": "2026-05-01 18:57:08",
       "news": [
+        {
+          "title": "AI Demand Is Outpacing the Scaffolding to Support It",
+          "link": "https://aibusiness.com/generative-ai/ai-demand-outpacing-the-scaffolding-support-it",
+          "date": "2026-05-02",
+          "source": "AI Business",
+          "description": "From data center capacity to enterprise governance, the systems surrounding AI are struggling to keep pace with demand.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt03e754a41e0ac897/69f4d67e0638c29b5aaa5f22/Demand.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "AI Demand Is Outpacing the Scaffolding to Support It",
+          "original_summary": "From data center capacity to enterprise governance, the systems surrounding AI are struggling to keep pace with demand.",
+          "summary": "From data center capacity to enterprise governance, the systems surrounding AI are struggling to keep pace with demand."
+        },
         {
           "title": "deepseek-ai/DeepSeek-V4-Pro",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
@@ -31,19 +43,6 @@
           "category": "AI Model"
         },
         {
-          "title": "deepseek-ai/DeepSeek-V4-Flash",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
-          "date": "2026-05-02",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
-          "is_english": true,
-          "summary": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepseek-ai/DeepSeek-V4-Flash",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "XiaomiMiMo/MiMo-V2.5-Pro",
           "link": "https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro",
           "date": "2026-05-02",
@@ -53,6 +52,19 @@
           "is_english": true,
           "summary": "• MiMo-V2.5-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "XiaomiMiMo/MiMo-V2.5-Pro",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
+          "date": "2026-05-02",
+          "source": "HuggingFace",
+          "description": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
+          "is_english": true,
+          "summary": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepseek-ai/DeepSeek-V4-Flash",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -96,19 +108,6 @@
           "category": "AI Model"
         },
         {
-          "title": "talkie-lm/talkie-1930-13b-it",
-          "link": "https://huggingface.co/talkie-lm/talkie-1930-13b-it",
-          "date": "2026-05-02",
-          "source": "HuggingFace",
-          "description": "• talkie-1930-13b-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• talkie-1930-13b-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "talkie-lm/talkie-1930-13b-it",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
           "link": "https://huggingface.co/nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
           "date": "2026-05-02",
@@ -118,6 +117,19 @@
           "is_english": true,
           "summary": "• Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "talkie-lm/talkie-1930-13b-it",
+          "link": "https://huggingface.co/talkie-lm/talkie-1930-13b-it",
+          "date": "2026-05-02",
+          "source": "HuggingFace",
+          "description": "• talkie-1930-13b-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• talkie-1930-13b-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "talkie-lm/talkie-1930-13b-it",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -135,19 +147,6 @@
           "category": "AI Model"
         },
         {
-          "title": "z-lab/Qwen3.6-27B-DFlash",
-          "link": "https://huggingface.co/z-lab/Qwen3.6-27B-DFlash",
-          "date": "2026-05-02",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-27B-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.6-27B-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "z-lab/Qwen3.6-27B-DFlash",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "poolside/Laguna-XS.2",
           "link": "https://huggingface.co/poolside/Laguna-XS.2",
           "date": "2026-05-02",
@@ -157,6 +156,19 @@
           "is_english": true,
           "summary": "• Laguna-XS.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "poolside/Laguna-XS.2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "z-lab/Qwen3.6-27B-DFlash",
+          "link": "https://huggingface.co/z-lab/Qwen3.6-27B-DFlash",
+          "date": "2026-05-02",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-27B-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.6-27B-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "z-lab/Qwen3.6-27B-DFlash",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -226,19 +238,6 @@
           "category": "AI Model"
         },
         {
-          "title": "google/gemma-4-31B-it",
-          "link": "https://huggingface.co/google/gemma-4-31B-it",
-          "date": "2026-05-02",
-          "source": "HuggingFace",
-          "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
-          "is_english": true,
-          "summary": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/gemma-4-31B-it",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "sensenova/SenseNova-U1-8B-MoT",
           "link": "https://huggingface.co/sensenova/SenseNova-U1-8B-MoT",
           "date": "2026-05-02",
@@ -248,6 +247,19 @@
           "is_english": true,
           "summary": "• SenseNova-U1-8B-MoT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "sensenova/SenseNova-U1-8B-MoT",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "google/gemma-4-31B-it",
+          "link": "https://huggingface.co/google/gemma-4-31B-it",
+          "date": "2026-05-02",
+          "source": "HuggingFace",
+          "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "is_english": true,
+          "summary": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/gemma-4-31B-it",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +280,44 @@
     },
     {
       "date": "2026-05-01",
-      "update_time": "2026-05-01 15:46:11",
+      "update_time": "2026-05-01 18:57:08",
       "news": [
+        {
+          "title": "Did you know you can’t steal a charity? Don’t worry. Elon Musk will remind you.",
+          "link": "https://techcrunch.com/podcast/did-you-know-you-cant-steal-a-charity-dont-worry-elon-musk-will-remind-you/",
+          "date": "2026-05-01",
+          "source": "TechCrunch",
+          "description": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it&#8217;s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come. Musk&#8217;s argument against OpenAI? By converting the company to a for-profit model, Sam Altman betrayed the “nonprofit for the [&#8230;]",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/musk-court-2273245544.jpg?resize=1200,801",
+          "is_english": true,
+          "original_title": "Did you know you can’t steal a charity? Don’t worry. Elon Musk will remind you.",
+          "original_summary": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it&#8217;s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come. Musk&#8217;s argument against OpenAI? By converting",
+          "summary": "Elon Musk spent the better part of three days on the witness stand this week in his lawsuit against OpenAI, and it&#8217;s already getting messy. Emails, texts, and his own tweets are surfacing in court, and there are plenty more witnesses to come. Musk&#8217;s argument against OpenAI? By converting"
+        },
+        {
+          "title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+          "link": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+          "date": "2026-05-01",
+          "source": "TechCrunch",
+          "description": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
+          "image": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1292192586.jpg?resize=1200,900",
+          "is_english": true,
+          "original_title": "Pentagon inks deals with Nvidia, Microsoft, and AWS to deploy AI on classified networks",
+          "original_summary": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models.",
+          "summary": "The deals come as the DOD has doubled down on diversifying its exposure to AI vendors in the wake of its controversial dispute with Anthropic over usage terms of its AI models."
+        },
+        {
+          "title": "Musk v. Altman is just getting started",
+          "link": "https://techcrunch.com/video/musk-v-altman-is-just-getting-started/",
+          "date": "2026-05-01",
+          "source": "TechCrunch",
+          "description": "Elon Musk spent the better part of three days&#160;on the witness stand&#160;this week&#160;in his lawsuit against OpenAI, and&#160;it&#8217;s&#160;already getting messy. Emails, texts, and&#160;his own tweets&#160;are surfacing in court, and there are plenty more witnesses to come. Musk&#8217;s argument against OpenAI? By converting the company to a for-profit model, Sam Altman betrayed the “nonprofit for the [&#8230;]",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2213399157.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Musk v. Altman is just getting started",
+          "original_summary": "Elon Musk spent the better part of three days&#160;on the witness stand&#160;this week&#160;in his lawsuit against OpenAI, and&#160;it&#8217;s&#160;already getting messy. Emails, texts, and&#160;his own tweets&#160;are surfacing in court, and there are plenty more witnesses to come. Musk&#8217;s arg",
+          "summary": "Elon Musk spent the better part of three days&#160;on the witness stand&#160;this week&#160;in his lawsuit against OpenAI, and&#160;it&#8217;s&#160;already getting messy. Emails, texts, and&#160;his own tweets&#160;are surfacing in court, and there are plenty more witnesses to come. Musk&#8217;s arg"
+        },
         {
           "title": "\"GPT-5.5 사이버보안 능력, 미소스와 동등...타 모델도 곧 따라올 것\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=210015",
@@ -7789,7 +7837,7 @@
         {
           "title": "Qwen/Qwen3.6-35B-A3B",
           "link": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
-          "date": "2026-04-23",
+          "date": "2026-05-02",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -7802,7 +7850,7 @@
         {
           "title": "moonshotai/Kimi-K2.6",
           "link": "https://huggingface.co/moonshotai/Kimi-K2.6",
-          "date": "2026-04-23",
+          "date": "2026-05-02",
           "source": "HuggingFace",
           "description": "• Kimi-K2.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/moonshotai/Kimi-K2.6/resolve/main/figures/kimi-logo.png",
@@ -7815,7 +7863,7 @@
         {
           "title": "unsloth/Qwen3.6-35B-A3B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
-          "date": "2026-04-23",
+          "date": "2026-05-02",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -7867,7 +7915,7 @@
         {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-04-23",
+          "date": "2026-05-02",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -7906,7 +7954,7 @@
         {
           "title": "google/gemma-4-31B-it",
           "link": "https://huggingface.co/google/gemma-4-31B-it",
-          "date": "2026-04-23",
+          "date": "2026-05-02",
           "source": "HuggingFace",
           "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
