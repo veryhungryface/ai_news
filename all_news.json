@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-05-01",
-      "update_time": "2026-04-30 21:47:13",
+      "update_time": "2026-05-01 01:59:42",
       "news": [
+        {
+          "title": "제주교육청, 고교생 AI 인재 양성 프로그램 운영",
+          "link": "https://www.yna.co.kr/view/AKR20260430168100056",
+          "date": "2026-05-01",
+          "source": "연합뉴스",
+          "description": "(제주=연합뉴스) 김호천 기자 = 제주도교육청은 고등학생 대상 인공지능(AI) 인재 양성 프로그램을 운영한다고 1일 밝혔다.",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/04/30/AKR20260430168100056_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "제주교육청, 고교생 AI 인재 양성 프로그램 운영",
+          "original_summary": "(제주=연합뉴스) 김호천 기자 = 제주도교육청은 고등학생 대상 인공지능(AI) 인재 양성 프로그램을 운영한다고 1일 밝혔다.",
+          "summary": "(제주=연합뉴스) 김호천 기자 = 제주도교육청은 고등학생 대상 인공지능(AI) 인재 양성 프로그램을 운영한다고 1일 밝혔다."
+        },
+        {
+          "title": "[4월30일] GPT-5.5의 ‘고블린’ 논란…AI는 왜 엉뚱한 말을 하게 됐나",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209975",
+          "date": "2026-05-01",
+          "source": "AI타임스",
+          "description": "최근 오픈AI에서는 \\'고블린\\'이라는 단어가 화제가 됐습니다.arb8020이라는 X 사용자가 28일(현지시간) 밝힌 바에 따르면, \\'GPT-5.5\\'의 시스템 프롬프트에는 \\\"고블린, 그렘린, 너구리, 트롤, 오우거, 비둘기 또는 기타 동물이나 생물에 대한 이야기는 사용자의 질문과 절대적으로 명확하게 관련이 있는 경우가 아니면 절대 하지 말라\\\"라는 지침이 포함돼 있습니다. 이 문장은 무려 4번이나 등장합니다.또 비즈니스 인사이더에 따르면, 며칠 전 일부 사용자들이 게시한 GPT-5.5와의 대화 스크린샷에도 이러한 생물에 대한 언급이 포함",
+          "image": "https://cdn.aitimes.com/news/photo/202604/209975_212510_4031.png",
+          "is_english": false,
+          "original_title": "[4월30일] GPT-5.5의 ‘고블린’ 논란…AI는 왜 엉뚱한 말을 하게 됐나",
+          "original_summary": "최근 오픈AI에서는 \\'고블린\\'이라는 단어가 화제가 됐습니다.arb8020이라는 X 사용자가 28일(현지시간) 밝힌 바에 따르면, \\'GPT-5.5\\'의 시스템 프롬프트에는 \\\"고블린, 그렘린, 너구리, 트롤, 오우거, 비둘기 또는 기타 동물이나 생물에 대한 이야기는 사용자의 질문과 절대적으로 명확하게 관련이 있는 경우가 아니면 절대 하지 말라\\\"라는 지침이 포함돼 있습니다. 이 문장은 무려 4번이나 등장합니다.또 비즈니스 인사이더에 따르면, 며칠 전 일부 사용자들이 게시한 GPT-5.5와의 대화 스크린샷에도 이러한 생물에 대한 ",
+          "summary": "최근 오픈AI에서는 \\'고블린\\'이라는 단어가 화제가 됐습니다.arb8020이라는 X 사용자가 28일(현지시간) 밝힌 바에 따르면, \\'GPT-5.5\\'의 시스템 프롬프트에는 \\\"고블린, 그렘린, 너구리, 트롤, 오우거, 비둘기 또는 기타 동물이나 생물에 대한 이야기는 사용자의 질문과 절대적으로 명확하게 관련이 있는 경우가 아니면 절대 하지 말라\\\"라는 지침이 포함돼 있습니다. 이 문장은 무려 4번이나 등장합니다.또 비즈니스 인사이더에 따르면, 며칠 전 일부 사용자들이 게시한 GPT-5.5와의 대화 스크린샷에도 이러한 생물에 대한 "
+        },
         {
           "title": "[AI돋보기] AI가 쪼갠 일자리…'대량실업' 아닌 '직무 분해'",
           "link": "https://www.yna.co.kr/view/AKR20260430123800017",
@@ -133,19 +157,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.6-27B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.6-27B-GGUF",
-          "date": "2026-05-01",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.6-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Qwen3.6-27B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "deepseek-ai/DeepSeek-V4-Flash-Base",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Base",
           "date": "2026-05-01",
@@ -159,15 +170,15 @@
           "category": "AI Model"
         },
         {
-          "title": "z-lab/Qwen3.6-27B-DFlash",
-          "link": "https://huggingface.co/z-lab/Qwen3.6-27B-DFlash",
+          "title": "mistralai/Mistral-Medium-3.5-128B",
+          "link": "https://huggingface.co/mistralai/Mistral-Medium-3.5-128B",
           "date": "2026-05-01",
           "source": "HuggingFace",
-          "description": "• Qwen3.6-27B-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "description": "• Mistral-Medium-3.5-128B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• Qwen3.6-27B-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "z-lab/Qwen3.6-27B-DFlash",
+          "summary": "• Mistral-Medium-3.5-128B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "mistralai/Mistral-Medium-3.5-128B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -185,15 +196,15 @@
           "category": "AI Model"
         },
         {
-          "title": "mistralai/Mistral-Medium-3.5-128B",
-          "link": "https://huggingface.co/mistralai/Mistral-Medium-3.5-128B",
+          "title": "z-lab/Qwen3.6-27B-DFlash",
+          "link": "https://huggingface.co/z-lab/Qwen3.6-27B-DFlash",
           "date": "2026-05-01",
           "source": "HuggingFace",
-          "description": "• Mistral-Medium-3.5-128B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "description": "• Qwen3.6-27B-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• Mistral-Medium-3.5-128B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "mistralai/Mistral-Medium-3.5-128B",
+          "summary": "• Qwen3.6-27B-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "z-lab/Qwen3.6-27B-DFlash",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -224,6 +235,19 @@
           "category": "AI Model"
         },
         {
+          "title": "unsloth/Qwen3.6-27B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.6-27B-GGUF",
+          "date": "2026-05-01",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• Qwen3.6-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Qwen3.6-27B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "poolside/Laguna-XS.2",
           "link": "https://huggingface.co/poolside/Laguna-XS.2",
           "date": "2026-05-01",
@@ -250,19 +274,6 @@
           "category": "AI Model"
         },
         {
-          "title": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
-          "link": "https://huggingface.co/HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-05-01",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-27B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.6-27B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "inclusionAI/Ling-2.6-flash",
           "link": "https://huggingface.co/inclusionAI/Ling-2.6-flash",
           "date": "2026-05-01",
@@ -272,6 +283,19 @@
           "is_english": true,
           "summary": "• Ling-2.6-flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "inclusionAI/Ling-2.6-flash",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
+          "link": "https://huggingface.co/HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
+          "date": "2026-05-01",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-27B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.6-27B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HauhauCS/Qwen3.6-27B-Uncensored-HauhauCS-Aggressive",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -292,8 +316,44 @@
     },
     {
       "date": "2026-04-30",
-      "update_time": "2026-04-30 21:47:13",
+      "update_time": "2026-05-01 01:59:42",
       "news": [
+        {
+          "title": "광주, ‘G-유니콘 경진대회’ 개최...유망 창업기업 5곳 ‘유니콘’ 키운다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210001",
+          "date": "2026-04-30",
+          "source": "AI타임스",
+          "description": "광주가 지역 유망 창업기업 5개사를 선정해 ‘유니콘 기업’으로 육성한다.광주시(시장 강기정)는 29일 오후 빛고을창업스테이션(STA·G, 스테이지)에서 G-유니콘 기업 선정을 위한 ‘G-유니콘 육성 프로그램 참여기업 경진대회’를 개최했다고 밝혔다.G-유니콘 육성사업은 2023년부터 추진 중인 광주시 대표 창업지원 프로그램으로, 기술력과 성장성을 갖춘 스타트업의 스케일업과 글로벌 시장 진출을 지원한다.지원 대상은 업력 7년 이내(신기술창업 10년 이내)로 광주지역에 본사를 둔 기업 가운데 누적 투자유치 금액이 5억원 이상인 기업이다.",
+          "image": "https://cdn.aitimes.com/news/photo/202605/210001_212545_1257.jpg",
+          "is_english": false,
+          "original_title": "광주, ‘G-유니콘 경진대회’ 개최...유망 창업기업 5곳 ‘유니콘’ 키운다",
+          "original_summary": "광주가 지역 유망 창업기업 5개사를 선정해 ‘유니콘 기업’으로 육성한다.광주시(시장 강기정)는 29일 오후 빛고을창업스테이션(STA·G, 스테이지)에서 G-유니콘 기업 선정을 위한 ‘G-유니콘 육성 프로그램 참여기업 경진대회’를 개최했다고 밝혔다.G-유니콘 육성사업은 2023년부터 추진 중인 광주시 대표 창업지원 프로그램으로, 기술력과 성장성을 갖춘 스타트업의 스케일업과 글로벌 시장 진출을 지원한다.지원 대상은 업력 7년 이내(신기술창업 10년 이내)로 광주지역에 본사를 둔 기업 가운데 누적 투자유치 금액이 5억원 이상인 기업이다.",
+          "summary": "광주가 지역 유망 창업기업 5개사를 선정해 ‘유니콘 기업’으로 육성한다.광주시(시장 강기정)는 29일 오후 빛고을창업스테이션(STA·G, 스테이지)에서 G-유니콘 기업 선정을 위한 ‘G-유니콘 육성 프로그램 참여기업 경진대회’를 개최했다고 밝혔다.G-유니콘 육성사업은 2023년부터 추진 중인 광주시 대표 창업지원 프로그램으로, 기술력과 성장성을 갖춘 스타트업의 스케일업과 글로벌 시장 진출을 지원한다.지원 대상은 업력 7년 이내(신기술창업 10년 이내)로 광주지역에 본사를 둔 기업 가운데 누적 투자유치 금액이 5억원 이상인 기업이다."
+        },
+        {
+          "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
+          "link": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
+          "date": "2026-04-30",
+          "source": "TechCrunch",
+          "description": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
+          "original_summary": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter. ",
+          "summary": "Anthropic is asking investors to submit allocations for the AI company’s latest fundraise within the next 48 hours, according to sources familiar with the matter. "
+        },
+        {
+          "title": "Apple was surprised by AI-driven demand for Macs",
+          "link": "https://techcrunch.com/2026/04/30/apple-was-surprised-by-ai-driven-demand-for-macs/",
+          "date": "2026-04-30",
+          "source": "TechCrunch",
+          "description": "Apple said it will be supply-constrained on Mac mini, Studio, and Neo in the next quarter, too. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/11/CMC_8152.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Apple was surprised by AI-driven demand for Macs",
+          "original_summary": "Apple said it will be supply-constrained on Mac mini, Studio, and Neo in the next quarter, too. ",
+          "summary": "Apple said it will be supply-constrained on Mac mini, Studio, and Neo in the next quarter, too. "
+        },
         {
           "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
           "link": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
