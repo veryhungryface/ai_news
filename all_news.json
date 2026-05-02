@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-05-03",
-      "update_time": "2026-05-02 18:42:47",
+      "update_time": "2026-05-02 21:30:50",
       "news": [
         {
           "title": "deepseek-ai/DeepSeek-V4-Pro",
@@ -148,19 +148,6 @@
           "category": "AI Model"
         },
         {
-          "title": "moonshotai/Kimi-K2.6",
-          "link": "https://huggingface.co/moonshotai/Kimi-K2.6",
-          "date": "2026-05-03",
-          "source": "HuggingFace",
-          "description": "• Kimi-K2.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/moonshotai/Kimi-K2.6/resolve/main/figures/kimi-logo.png",
-          "is_english": true,
-          "summary": "• Kimi-K2.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "moonshotai/Kimi-K2.6",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "inclusionAI/Ling-2.6-flash",
           "link": "https://huggingface.co/inclusionAI/Ling-2.6-flash",
           "date": "2026-05-03",
@@ -170,6 +157,19 @@
           "is_english": true,
           "summary": "• Ling-2.6-flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "inclusionAI/Ling-2.6-flash",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "moonshotai/Kimi-K2.6",
+          "link": "https://huggingface.co/moonshotai/Kimi-K2.6",
+          "date": "2026-05-03",
+          "source": "HuggingFace",
+          "description": "• Kimi-K2.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/moonshotai/Kimi-K2.6/resolve/main/figures/kimi-logo.png",
+          "is_english": true,
+          "summary": "• Kimi-K2.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "moonshotai/Kimi-K2.6",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
