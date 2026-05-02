@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-05-02",
-      "update_time": "2026-05-02 07:19:10",
+      "update_time": "2026-05-02 09:53:19",
       "news": [
         {
           "title": "화웨이, 엔비디아 중국 공백 틈타 AI 칩 판매 60% 증가 예상",
@@ -203,19 +203,6 @@
           "category": "AI Model"
         },
         {
-          "title": "talkie-lm/talkie-1930-13b-it",
-          "link": "https://huggingface.co/talkie-lm/talkie-1930-13b-it",
-          "date": "2026-05-02",
-          "source": "HuggingFace",
-          "description": "• talkie-1930-13b-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• talkie-1930-13b-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "talkie-lm/talkie-1930-13b-it",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
           "link": "https://huggingface.co/nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
           "date": "2026-05-02",
@@ -225,6 +212,19 @@
           "is_english": true,
           "summary": "• Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "talkie-lm/talkie-1930-13b-it",
+          "link": "https://huggingface.co/talkie-lm/talkie-1930-13b-it",
+          "date": "2026-05-02",
+          "source": "HuggingFace",
+          "description": "• talkie-1930-13b-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• talkie-1930-13b-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "talkie-lm/talkie-1930-13b-it",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,19 +268,6 @@
           "category": "AI Model"
         },
         {
-          "title": "z-lab/Qwen3.6-27B-DFlash",
-          "link": "https://huggingface.co/z-lab/Qwen3.6-27B-DFlash",
-          "date": "2026-05-02",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-27B-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.6-27B-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "z-lab/Qwen3.6-27B-DFlash",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.6-35B-A3B",
           "link": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
           "date": "2026-05-02",
@@ -290,6 +277,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.6-35B-A3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "z-lab/Qwen3.6-27B-DFlash",
+          "link": "https://huggingface.co/z-lab/Qwen3.6-27B-DFlash",
+          "date": "2026-05-02",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-27B-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.6-27B-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "z-lab/Qwen3.6-27B-DFlash",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
