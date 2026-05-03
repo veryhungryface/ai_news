@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-05-04",
-      "update_time": "2026-05-03 18:43:12",
+      "update_time": "2026-05-03 21:32:44",
       "news": [
+        {
+          "title": "녹조 예측에도 AI 활용…오늘부터 '정밀예측' 제공",
+          "link": "https://www.yna.co.kr/view/AKR20260501049400530",
+          "date": "2026-05-04",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 이재영 기자 = 녹조 예측에도 인공지능(AI)이 활용된다. ",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2025/08/29/PYH2025082905630005300_P2.jpg",
+          "is_english": false,
+          "original_title": "녹조 예측에도 AI 활용…오늘부터 '정밀예측' 제공",
+          "original_summary": "(서울=연합뉴스) 이재영 기자 = 녹조 예측에도 인공지능(AI)이 활용된다. ",
+          "summary": "(서울=연합뉴스) 이재영 기자 = 녹조 예측에도 인공지능(AI)이 활용된다. "
+        },
         {
           "title": "deepseek-ai/DeepSeek-V4-Pro",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
@@ -213,19 +225,6 @@
           "category": "AI Model"
         },
         {
-          "title": "z-lab/Qwen3.6-27B-DFlash",
-          "link": "https://huggingface.co/z-lab/Qwen3.6-27B-DFlash",
-          "date": "2026-05-04",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-27B-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.6-27B-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "z-lab/Qwen3.6-27B-DFlash",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "SeeSee21/Z-Anime",
           "link": "https://huggingface.co/SeeSee21/Z-Anime",
           "date": "2026-05-04",
@@ -235,6 +234,19 @@
           "is_english": true,
           "summary": "• Z-Anime 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "SeeSee21/Z-Anime",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "z-lab/Qwen3.6-27B-DFlash",
+          "link": "https://huggingface.co/z-lab/Qwen3.6-27B-DFlash",
+          "date": "2026-05-04",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-27B-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.6-27B-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "z-lab/Qwen3.6-27B-DFlash",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +280,20 @@
     },
     {
       "date": "2026-05-03",
-      "update_time": "2026-05-03 18:43:12",
+      "update_time": "2026-05-03 21:32:44",
       "news": [
+        {
+          "title": "‘This is fine’ creator says AI startup stole his art",
+          "link": "https://techcrunch.com/2026/05/03/this-is-fine-creator-says-ai-startup-stole-his-art/",
+          "date": "2026-05-03",
+          "source": "TechCrunch",
+          "description": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2241691471.jpg?w=1024",
+          "is_english": true,
+          "original_title": "‘This is fine’ creator says AI startup stole his art",
+          "original_summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\"",
+          "summary": "The ad comes from Artisan, the AI startup behind billboards urging businesses to \"stop hiring humans.\""
+        },
         {
           "title": "In Harvard study, AI offered more accurate diagnoses than emergency room doctors",
           "link": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
