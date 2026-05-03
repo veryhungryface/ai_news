@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-05-03",
-      "update_time": "2026-05-02 21:30:50",
+      "update_time": "2026-05-03 01:51:54",
       "news": [
+        {
+          "title": "제주교육청, AI 교수학습 플랫폼 '바당' 활용법 교육",
+          "link": "https://www.yna.co.kr/view/AKR20260430124200056",
+          "date": "2026-05-03",
+          "source": "연합뉴스",
+          "description": "(제주=연합뉴스) 김호천 기자 = 제주도교육청은 인공지능(AI) 맞춤형 교수학습 플랫폼 &apos;바당&apos;(BADANG)의 현장 활용도를 높이기 위한 교원...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/04/30/AKR20260430124200056_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "제주교육청, AI 교수학습 플랫폼 '바당' 활용법 교육",
+          "original_summary": "(제주=연합뉴스) 김호천 기자 = 제주도교육청은 인공지능(AI) 맞춤형 교수학습 플랫폼 &apos;바당&apos;(BADANG)의 현장 활용도를 높이기 위한 교원...",
+          "summary": "(제주=연합뉴스) 김호천 기자 = 제주도교육청은 인공지능(AI) 맞춤형 교수학습 플랫폼 &apos;바당&apos;(BADANG)의 현장 활용도를 높이기 위한 교원..."
+        },
         {
           "title": "deepseek-ai/DeepSeek-V4-Pro",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
@@ -57,19 +69,6 @@
           "category": "AI Model"
         },
         {
-          "title": "deepseek-ai/DeepSeek-V4-Flash",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
-          "date": "2026-05-03",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
-          "is_english": true,
-          "summary": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepseek-ai/DeepSeek-V4-Flash",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "mistralai/Mistral-Medium-3.5-128B",
           "link": "https://huggingface.co/mistralai/Mistral-Medium-3.5-128B",
           "date": "2026-05-03",
@@ -79,6 +78,19 @@
           "is_english": true,
           "summary": "• Mistral-Medium-3.5-128B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "mistralai/Mistral-Medium-3.5-128B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
+          "date": "2026-05-03",
+          "source": "HuggingFace",
+          "description": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
+          "is_english": true,
+          "summary": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepseek-ai/DeepSeek-V4-Flash",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -174,15 +186,15 @@
           "category": "AI Model"
         },
         {
-          "title": "z-lab/Qwen3.6-27B-DFlash",
-          "link": "https://huggingface.co/z-lab/Qwen3.6-27B-DFlash",
+          "title": "sensenova/SenseNova-U1-8B-MoT",
+          "link": "https://huggingface.co/sensenova/SenseNova-U1-8B-MoT",
           "date": "2026-05-03",
           "source": "HuggingFace",
-          "description": "• Qwen3.6-27B-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• SenseNova-U1-8B-MoT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/arXiv-Coming-b31b1b.svg",
           "is_english": true,
-          "summary": "• Qwen3.6-27B-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "z-lab/Qwen3.6-27B-DFlash",
+          "summary": "• SenseNova-U1-8B-MoT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "sensenova/SenseNova-U1-8B-MoT",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -200,15 +212,15 @@
           "category": "AI Model"
         },
         {
-          "title": "sensenova/SenseNova-U1-8B-MoT",
-          "link": "https://huggingface.co/sensenova/SenseNova-U1-8B-MoT",
+          "title": "z-lab/Qwen3.6-27B-DFlash",
+          "link": "https://huggingface.co/z-lab/Qwen3.6-27B-DFlash",
           "date": "2026-05-03",
           "source": "HuggingFace",
-          "description": "• SenseNova-U1-8B-MoT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/arXiv-Coming-b31b1b.svg",
+          "description": "• Qwen3.6-27B-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• SenseNova-U1-8B-MoT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "sensenova/SenseNova-U1-8B-MoT",
+          "summary": "• Qwen3.6-27B-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "z-lab/Qwen3.6-27B-DFlash",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -226,19 +238,6 @@
           "category": "AI Model"
         },
         {
-          "title": "google/gemma-4-31B-it",
-          "link": "https://huggingface.co/google/gemma-4-31B-it",
-          "date": "2026-05-03",
-          "source": "HuggingFace",
-          "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
-          "is_english": true,
-          "summary": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/gemma-4-31B-it",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "inclusionAI/Ling-2.6-1T",
           "link": "https://huggingface.co/inclusionAI/Ling-2.6-1T",
           "date": "2026-05-03",
@@ -248,6 +247,19 @@
           "is_english": true,
           "summary": "• Ling-2.6-1T 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "inclusionAI/Ling-2.6-1T",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "google/gemma-4-31B-it",
+          "link": "https://huggingface.co/google/gemma-4-31B-it",
+          "date": "2026-05-03",
+          "source": "HuggingFace",
+          "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "is_english": true,
+          "summary": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/gemma-4-31B-it",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +280,20 @@
     },
     {
       "date": "2026-05-02",
-      "update_time": "2026-05-02 18:42:47",
+      "update_time": "2026-05-03 01:51:54",
       "news": [
+        {
+          "title": "AI-generated actors and scripts are now ineligible for Oscars",
+          "link": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+          "date": "2026-05-02",
+          "source": "TechCrunch",
+          "description": "Bad news for Tilly Norwood.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2266014829.jpg?w=1024",
+          "is_english": true,
+          "original_title": "AI-generated actors and scripts are now ineligible for Oscars",
+          "original_summary": "Bad news for Tilly Norwood.",
+          "summary": "Bad news for Tilly Norwood."
+        },
         {
           "title": "The best AI dictation apps, tested and ranked",
           "link": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
