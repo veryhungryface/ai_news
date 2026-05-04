@@ -2,8 +2,80 @@
   "dates": [
     {
       "date": "2026-05-04",
-      "update_time": "2026-05-04 05:55:33",
+      "update_time": "2026-05-04 08:16:27",
       "news": [
+        {
+          "title": "오픈AI, GPT-5.5 프롬프트 가이드 공개...\"길게 지시하지 않아도 충분\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210050",
+          "date": "2026-05-04",
+          "source": "AI타임스",
+          "description": "오픈AI가 최신 모델 GPT-5.5를 위한 프롬프트 가이드를 공개하며, AI 활용 방식의 근본적인 변화가 필요하다고 밝혔다. 핵심은 복잡한 지시 대신 ‘결과 중심’의 간결한 요청이다. 오픈AI는 1일(현지시간) ‘GPT-5.5 프롬프트 가이드’를 통해 프롬프트를 일종의 ‘운영 계약(contract)’으로 설계할 것을 권장했다.즉, 모델의 수행 과정을 세세하게 통제하기보다 ▲목표 결과 ▲성공 기준 ▲제약 조건 ▲활용 가능한 근거 ▲출력 형식 ▲중단 조건을 명확히 제시하면, GPT-5.5가 스스로 최적의 해결 경로를 선택한다는 설명이다",
+          "image": "https://cdn.aitimes.com/news/photo/202605/210050_212647_5737.jpg",
+          "is_english": false,
+          "original_title": "오픈AI, GPT-5.5 프롬프트 가이드 공개...\"길게 지시하지 않아도 충분\"",
+          "original_summary": "오픈AI가 최신 모델 GPT-5.5를 위한 프롬프트 가이드를 공개하며, AI 활용 방식의 근본적인 변화가 필요하다고 밝혔다. 핵심은 복잡한 지시 대신 ‘결과 중심’의 간결한 요청이다. 오픈AI는 1일(현지시간) ‘GPT-5.5 프롬프트 가이드’를 통해 프롬프트를 일종의 ‘운영 계약(contract)’으로 설계할 것을 권장했다.즉, 모델의 수행 과정을 세세하게 통제하기보다 ▲목표 결과 ▲성공 기준 ▲제약 조건 ▲활용 가능한 근거 ▲출력 형식 ▲중단 조건을 명확히 제시하면, GPT-5.5가 스스로 최적의 해결 경로를 선택한다는 설명이다",
+          "summary": "오픈AI가 최신 모델 GPT-5.5를 위한 프롬프트 가이드를 공개하며, AI 활용 방식의 근본적인 변화가 필요하다고 밝혔다. 핵심은 복잡한 지시 대신 ‘결과 중심’의 간결한 요청이다. 오픈AI는 1일(현지시간) ‘GPT-5.5 프롬프트 가이드’를 통해 프롬프트를 일종의 ‘운영 계약(contract)’으로 설계할 것을 권장했다.즉, 모델의 수행 과정을 세세하게 통제하기보다 ▲목표 결과 ▲성공 기준 ▲제약 조건 ▲활용 가능한 근거 ▲출력 형식 ▲중단 조건을 명확히 제시하면, GPT-5.5가 스스로 최적의 해결 경로를 선택한다는 설명이다"
+        },
+        {
+          "title": "알리바바, 호퍼 GPU에서 모델 속도 3배 향상하는 ‘플래시QLA’ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209983",
+          "date": "2026-05-04",
+          "source": "AI타임스",
+          "description": "대형언어모델(LLM)의 성능 경쟁이 모델 구조나 하드웨어를 넘어 실제 연산을 수행하는 ‘GPU 커널’ 영역으로까지 확장되고 있다. 알리바바가 이를 통해 모델 추론 속도를 최대 3배까지 가속하는 기술을 공개했다.알리바바는 29일(현지시간) 저수준 연산 최적화를 통해 엔비디아의 \\'호퍼(Hopper)\\' GPU에서 최대 3배의 속도 향상을 구현할 수 있는 고성능 선형 어텐션 커널 라이브러리 ‘플래시QLA(FlashQLA)’를 공개했다. 플래시QLA 코드는 깃허브에서 오픈소스로 제공된다GPU 커널은 AI 모델 안에서 실제 계산을 처리하는 핵",
+          "image": "https://cdn.aitimes.com/news/photo/202604/209983_212526_2620.png",
+          "is_english": false,
+          "original_title": "알리바바, 호퍼 GPU에서 모델 속도 3배 향상하는 ‘플래시QLA’ 공개",
+          "original_summary": "대형언어모델(LLM)의 성능 경쟁이 모델 구조나 하드웨어를 넘어 실제 연산을 수행하는 ‘GPU 커널’ 영역으로까지 확장되고 있다. 알리바바가 이를 통해 모델 추론 속도를 최대 3배까지 가속하는 기술을 공개했다.알리바바는 29일(현지시간) 저수준 연산 최적화를 통해 엔비디아의 \\'호퍼(Hopper)\\' GPU에서 최대 3배의 속도 향상을 구현할 수 있는 고성능 선형 어텐션 커널 라이브러리 ‘플래시QLA(FlashQLA)’를 공개했다. 플래시QLA 코드는 깃허브에서 오픈소스로 제공된다GPU 커널은 AI 모델 안에서 실제 계산을 처리하는",
+          "summary": "대형언어모델(LLM)의 성능 경쟁이 모델 구조나 하드웨어를 넘어 실제 연산을 수행하는 ‘GPU 커널’ 영역으로까지 확장되고 있다. 알리바바가 이를 통해 모델 추론 속도를 최대 3배까지 가속하는 기술을 공개했다.알리바바는 29일(현지시간) 저수준 연산 최적화를 통해 엔비디아의 \\'호퍼(Hopper)\\' GPU에서 최대 3배의 속도 향상을 구현할 수 있는 고성능 선형 어텐션 커널 라이브러리 ‘플래시QLA(FlashQLA)’를 공개했다. 플래시QLA 코드는 깃허브에서 오픈소스로 제공된다GPU 커널은 AI 모델 안에서 실제 계산을 처리하는"
+        },
+        {
+          "title": "미국 1000조 투자에  압박 커진 중국… \"컴퓨팅 파워 확보에 총력\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210047",
+          "date": "2026-05-04",
+          "source": "AI타임스",
+          "description": "미국 주요 빅테크 기업들의 AI 투자액이 올해 7000억달러(약 1029조원)를 넘어설 것으로 전망되면서, 중국도 AI 투자 확대 압박이 커지고 있다는 분석이 제기됐다. 사우스차이나모닝포스트는 30일(현지시간) 모건 스탠리 보고서를 인용, 올해 중국 클라우드 기업들의 AI 투자 규모는 1050억달러(약 154조원)로 추정된다고 보도했다.미국에서는 사상 최대 규모의 투자가 예정돼 있다. 구글과 마이크로소프트는 올해 각각 1900억달러(약 279조원) 규모의 설비투자를 집행할 계획이며, 메타는 투자 전망치를 1450억달러(약 213조원",
+          "image": "https://cdn.aitimes.com/news/photo/202605/210047_212604_4812.jpg",
+          "is_english": false,
+          "original_title": "미국 1000조 투자에  압박 커진 중국… \"컴퓨팅 파워 확보에 총력\"",
+          "original_summary": "미국 주요 빅테크 기업들의 AI 투자액이 올해 7000억달러(약 1029조원)를 넘어설 것으로 전망되면서, 중국도 AI 투자 확대 압박이 커지고 있다는 분석이 제기됐다. 사우스차이나모닝포스트는 30일(현지시간) 모건 스탠리 보고서를 인용, 올해 중국 클라우드 기업들의 AI 투자 규모는 1050억달러(약 154조원)로 추정된다고 보도했다.미국에서는 사상 최대 규모의 투자가 예정돼 있다. 구글과 마이크로소프트는 올해 각각 1900억달러(약 279조원) 규모의 설비투자를 집행할 계획이며, 메타는 투자 전망치를 1450억달러(약 213조원",
+          "summary": "미국 주요 빅테크 기업들의 AI 투자액이 올해 7000억달러(약 1029조원)를 넘어설 것으로 전망되면서, 중국도 AI 투자 확대 압박이 커지고 있다는 분석이 제기됐다. 사우스차이나모닝포스트는 30일(현지시간) 모건 스탠리 보고서를 인용, 올해 중국 클라우드 기업들의 AI 투자 규모는 1050억달러(약 154조원)로 추정된다고 보도했다.미국에서는 사상 최대 규모의 투자가 예정돼 있다. 구글과 마이크로소프트는 올해 각각 1900억달러(약 279조원) 규모의 설비투자를 집행할 계획이며, 메타는 투자 전망치를 1450억달러(약 213조원"
+        },
+        {
+          "title": "애플, '비전 프로' 후속 개발 중단...'M5' 부진에 스마트 안경으로 선회",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210048",
+          "date": "2026-05-04",
+          "source": "AI타임스",
+          "description": "애플이 혼합현실(MR) 헤드셋 ‘비전 프로(Vision Pro)’ 사업에서 사실상 철수한 것으로 전해졌다. 최신 칩을 탑재한 후속 모델에도 불구하고 시장 반응이 되살아나지 않자, 애플의 공간 컴퓨팅 전략이 스마트 안경 중심으로 재편되고 있다는 분석이다.맥루머스에 따르면, 애플은 2025년 10월 비전 프로에 \\'M5\\' 칩을 탑재하고 착용감을 개선한 신형 모델을 선보였지만 소비자 관심을 되돌리는 데는 실패했다.성능 측면에서는 120헤르츠(Hz) 주사율 지원, 렌더링 픽셀 증가, 배터리 사용 시간 30분 증가 등 개선이 이뤄졌으나, 여전",
+          "image": "https://cdn.aitimes.com/news/photo/202605/210048_212607_716.jpg",
+          "is_english": false,
+          "original_title": "애플, '비전 프로' 후속 개발 중단...'M5' 부진에 스마트 안경으로 선회",
+          "original_summary": "애플이 혼합현실(MR) 헤드셋 ‘비전 프로(Vision Pro)’ 사업에서 사실상 철수한 것으로 전해졌다. 최신 칩을 탑재한 후속 모델에도 불구하고 시장 반응이 되살아나지 않자, 애플의 공간 컴퓨팅 전략이 스마트 안경 중심으로 재편되고 있다는 분석이다.맥루머스에 따르면, 애플은 2025년 10월 비전 프로에 \\'M5\\' 칩을 탑재하고 착용감을 개선한 신형 모델을 선보였지만 소비자 관심을 되돌리는 데는 실패했다.성능 측면에서는 120헤르츠(Hz) 주사율 지원, 렌더링 픽셀 증가, 배터리 사용 시간 30분 증가 등 개선이 이뤄졌으나, ",
+          "summary": "애플이 혼합현실(MR) 헤드셋 ‘비전 프로(Vision Pro)’ 사업에서 사실상 철수한 것으로 전해졌다. 최신 칩을 탑재한 후속 모델에도 불구하고 시장 반응이 되살아나지 않자, 애플의 공간 컴퓨팅 전략이 스마트 안경 중심으로 재편되고 있다는 분석이다.맥루머스에 따르면, 애플은 2025년 10월 비전 프로에 \\'M5\\' 칩을 탑재하고 착용감을 개선한 신형 모델을 선보였지만 소비자 관심을 되돌리는 데는 실패했다.성능 측면에서는 120헤르츠(Hz) 주사율 지원, 렌더링 픽셀 증가, 배터리 사용 시간 30분 증가 등 개선이 이뤄졌으나, "
+        },
+        {
+          "title": "애플 '바이브 코딩' 앱 규제에 스타트업 반발...“심사 기준 구시대적\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210063",
+          "date": "2026-05-04",
+          "source": "AI타임스",
+          "description": "애플이 ‘바이브 코딩’ 앱에 대한 앱스토어 심사 과정에서 일관성 없는 규정을 적용하고 있다는 지적이 제기되며 논란이 커지고 있다. 스타트업과 투자자들은 AI로 누구나 앱을 만들 수 있는 시대에, 애플이 현실을 따라가지 못하고 있다고 비판했다.3일(현지시간) 파이낸셜 타임스에 따르면, AI 코딩 플랫폼 레플릿(Replit)은 아이폰 앱 업데이트가 차단됐다고 밝혔다. 스타트업 애니싱(Anything)도 앱이 애플 승인 이후에도 반복적으로 삭제되는 일을 겪었다고 주장했다.이들 사례는 애플이 AI를 활용해 코드 생성과 앱 실행을 가능하게",
+          "image": "https://cdn.aitimes.com/news/photo/202605/210063_212622_1829.jpg",
+          "is_english": false,
+          "original_title": "애플 '바이브 코딩' 앱 규제에 스타트업 반발...“심사 기준 구시대적\"",
+          "original_summary": "애플이 ‘바이브 코딩’ 앱에 대한 앱스토어 심사 과정에서 일관성 없는 규정을 적용하고 있다는 지적이 제기되며 논란이 커지고 있다. 스타트업과 투자자들은 AI로 누구나 앱을 만들 수 있는 시대에, 애플이 현실을 따라가지 못하고 있다고 비판했다.3일(현지시간) 파이낸셜 타임스에 따르면, AI 코딩 플랫폼 레플릿(Replit)은 아이폰 앱 업데이트가 차단됐다고 밝혔다. 스타트업 애니싱(Anything)도 앱이 애플 승인 이후에도 반복적으로 삭제되는 일을 겪었다고 주장했다.이들 사례는 애플이 AI를 활용해 코드 생성과 앱 실행을 가능하게",
+          "summary": "애플이 ‘바이브 코딩’ 앱에 대한 앱스토어 심사 과정에서 일관성 없는 규정을 적용하고 있다는 지적이 제기되며 논란이 커지고 있다. 스타트업과 투자자들은 AI로 누구나 앱을 만들 수 있는 시대에, 애플이 현실을 따라가지 못하고 있다고 비판했다.3일(현지시간) 파이낸셜 타임스에 따르면, AI 코딩 플랫폼 레플릿(Replit)은 아이폰 앱 업데이트가 차단됐다고 밝혔다. 스타트업 애니싱(Anything)도 앱이 애플 승인 이후에도 반복적으로 삭제되는 일을 겪었다고 주장했다.이들 사례는 애플이 AI를 활용해 코드 생성과 앱 실행을 가능하게"
+        },
+        {
+          "title": "애리조나에 4GW ‘청정 에너지 단지’ 들어선다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210055",
+          "date": "2026-05-04",
+          "source": "AI타임스",
+          "description": "미국 애리조나의 대형 전력사 솔트리버프로젝트(SRP)가 태양광과 배터리 저장장치를 합쳐 4기가와트(GW) 규모로 확충하는 대형 전력구매계약(PPA)을 맺었다.PV 매거진은 1일(현지시간) SRP가 넥스트에라 에너지 리소시스(NextEra Energy Resources)와 계약을 맺고, 애리조나에 신규 태양광 3000메가와트(MW)와 배터리 에너지 저장장치 1000MW를 2027년까지 개발하기로 했다고 보도했다.석탄발전 퇴출 일정에 맞춰 청정전원과 저장장치를 한꺼번에 늘리는 포트폴리오 재편에 따른 것이다. 새 설비는 최대 출력 기준",
+          "image": "https://cdn.aitimes.com/news/photo/202605/210055_212612_4546.png",
+          "is_english": false,
+          "original_title": "애리조나에 4GW ‘청정 에너지 단지’ 들어선다",
+          "original_summary": "미국 애리조나의 대형 전력사 솔트리버프로젝트(SRP)가 태양광과 배터리 저장장치를 합쳐 4기가와트(GW) 규모로 확충하는 대형 전력구매계약(PPA)을 맺었다.PV 매거진은 1일(현지시간) SRP가 넥스트에라 에너지 리소시스(NextEra Energy Resources)와 계약을 맺고, 애리조나에 신규 태양광 3000메가와트(MW)와 배터리 에너지 저장장치 1000MW를 2027년까지 개발하기로 했다고 보도했다.석탄발전 퇴출 일정에 맞춰 청정전원과 저장장치를 한꺼번에 늘리는 포트폴리오 재편에 따른 것이다. 새 설비는 최대 출력 기준",
+          "summary": "미국 애리조나의 대형 전력사 솔트리버프로젝트(SRP)가 태양광과 배터리 저장장치를 합쳐 4기가와트(GW) 규모로 확충하는 대형 전력구매계약(PPA)을 맺었다.PV 매거진은 1일(현지시간) SRP가 넥스트에라 에너지 리소시스(NextEra Energy Resources)와 계약을 맺고, 애리조나에 신규 태양광 3000메가와트(MW)와 배터리 에너지 저장장치 1000MW를 2027년까지 개발하기로 했다고 보도했다.석탄발전 퇴출 일정에 맞춰 청정전원과 저장장치를 한꺼번에 늘리는 포트폴리오 재편에 따른 것이다. 새 설비는 최대 출력 기준"
+        },
         {
           "title": "[인사] 동의대",
           "link": "https://www.yna.co.kr/view/AKR20260504096600051",
@@ -346,19 +418,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.6-27B",
-          "link": "https://huggingface.co/Qwen/Qwen3.6-27B",
-          "date": "2026-05-04",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.6-27B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
           "link": "https://huggingface.co/nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
           "date": "2026-05-04",
@@ -368,6 +427,19 @@
           "is_english": true,
           "summary": "• Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.6-27B",
+          "link": "https://huggingface.co/Qwen/Qwen3.6-27B",
+          "date": "2026-05-04",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.6-27B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -398,19 +470,6 @@
           "category": "AI Model"
         },
         {
-          "title": "deepseek-ai/DeepSeek-V4-Flash",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
-          "date": "2026-05-04",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
-          "is_english": true,
-          "summary": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepseek-ai/DeepSeek-V4-Flash",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "inclusionAI/Ling-2.6-flash",
           "link": "https://huggingface.co/inclusionAI/Ling-2.6-flash",
           "date": "2026-05-04",
@@ -420,6 +479,19 @@
           "is_english": true,
           "summary": "• Ling-2.6-flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "inclusionAI/Ling-2.6-flash",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
+          "date": "2026-05-04",
+          "source": "HuggingFace",
+          "description": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
+          "is_english": true,
+          "summary": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepseek-ai/DeepSeek-V4-Flash",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -437,6 +509,19 @@
           "category": "AI Model"
         },
         {
+          "title": "SulphurAI/Sulphur-2-base",
+          "link": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+          "date": "2026-05-04",
+          "source": "HuggingFace",
+          "description": "• Sulphur-2-base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Sulphur-2-base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "SulphurAI/Sulphur-2-base",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "sensenova/SenseNova-U1-8B-MoT",
           "link": "https://huggingface.co/sensenova/SenseNova-U1-8B-MoT",
           "date": "2026-05-04",
@@ -450,15 +535,15 @@
           "category": "AI Model"
         },
         {
-          "title": "SulphurAI/Sulphur-2-base",
-          "link": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+          "title": "inclusionAI/Ling-2.6-1T",
+          "link": "https://huggingface.co/inclusionAI/Ling-2.6-1T",
           "date": "2026-05-04",
           "source": "HuggingFace",
-          "description": "• Sulphur-2-base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• Ling-2.6-1T 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*4QxcQrBlTiAAAAAAQXAAAAgAemJ7AQ/original",
           "is_english": true,
-          "summary": "• Sulphur-2-base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "SulphurAI/Sulphur-2-base",
+          "summary": "• Ling-2.6-1T 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "inclusionAI/Ling-2.6-1T",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -485,19 +570,6 @@
           "is_english": true,
           "summary": "• Qwen3.6-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/Qwen3.6-27B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "inclusionAI/Ling-2.6-1T",
-          "link": "https://huggingface.co/inclusionAI/Ling-2.6-1T",
-          "date": "2026-05-04",
-          "source": "HuggingFace",
-          "description": "• Ling-2.6-1T 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*4QxcQrBlTiAAAAAAQXAAAAgAemJ7AQ/original",
-          "is_english": true,
-          "summary": "• Ling-2.6-1T 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "inclusionAI/Ling-2.6-1T",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
