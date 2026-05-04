@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-05-04",
-      "update_time": "2026-05-04 08:16:27",
+      "update_time": "2026-05-04 10:56:15",
       "news": [
+        {
+          "title": "[부고] 김종훈(대구상공회의소 지식재산센터장)씨 모친상",
+          "link": "https://www.yna.co.kr/view/AKR20260504146500053",
+          "date": "2026-05-04",
+          "source": "연합뉴스",
+          "description": "▲ 공기선씨 별세, 김종훈(대구상공회의소 지식재산센터장)·종민(소방청 중앙119구조본부 기장)씨 모친상, 이화정(대구시청 AI기반팀장)·박은경(...",
+          "image": "https://r.yna.co.kr/global/home/v01/img/yonhapnews_logo_1200x800_kr01.jpg",
+          "is_english": false,
+          "original_title": "[부고] 김종훈(대구상공회의소 지식재산센터장)씨 모친상",
+          "original_summary": "▲ 공기선씨 별세, 김종훈(대구상공회의소 지식재산센터장)·종민(소방청 중앙119구조본부 기장)씨 모친상, 이화정(대구시청 AI기반팀장)·박은경(...",
+          "summary": "▲ 공기선씨 별세, 김종훈(대구상공회의소 지식재산센터장)·종민(소방청 중앙119구조본부 기장)씨 모친상, 이화정(대구시청 AI기반팀장)·박은경(..."
+        },
+        {
+          "title": "응급환자 내뱉는 모호한 말 의학용어로 즉시 바꾸는 AI 개발",
+          "link": "https://www.yna.co.kr/view/AKR20260504136000053",
+          "date": "2026-05-04",
+          "source": "연합뉴스",
+          "description": "(대구=연합뉴스) 박세진 기자 = 칠곡경북대병원은 응급의학과 김창호 교수 연구팀 등이 응급 현장에서 환자의 모호한 표현을 정확한 의학 용어로 실...",
+          "image": "https://img.yna.co.kr/photo/cms/2026/01/16/58/PCM20260116000058053_P2.jpg",
+          "is_english": false,
+          "original_title": "응급환자 내뱉는 모호한 말 의학용어로 즉시 바꾸는 AI 개발",
+          "original_summary": "(대구=연합뉴스) 박세진 기자 = 칠곡경북대병원은 응급의학과 김창호 교수 연구팀 등이 응급 현장에서 환자의 모호한 표현을 정확한 의학 용어로 실...",
+          "summary": "(대구=연합뉴스) 박세진 기자 = 칠곡경북대병원은 응급의학과 김창호 교수 연구팀 등이 응급 현장에서 환자의 모호한 표현을 정확한 의학 용어로 실..."
+        },
         {
           "title": "오픈AI, GPT-5.5 프롬프트 가이드 공개...\"길게 지시하지 않아도 충분\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=210050",
@@ -496,19 +520,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.6-35B-A3B",
-          "link": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
-          "date": "2026-05-04",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.6-35B-A3B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "SulphurAI/Sulphur-2-base",
           "link": "https://huggingface.co/SulphurAI/Sulphur-2-base",
           "date": "2026-05-04",
@@ -518,6 +529,19 @@
           "is_english": true,
           "summary": "• Sulphur-2-base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "SulphurAI/Sulphur-2-base",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.6-35B-A3B",
+          "link": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
+          "date": "2026-05-04",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.6-35B-A3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -574,6 +598,19 @@
           "category": "AI Model"
         },
         {
+          "title": "ibm-granite/granite-4.1-8b",
+          "link": "https://huggingface.co/ibm-granite/granite-4.1-8b",
+          "date": "2026-05-04",
+          "source": "HuggingFace",
+          "description": "• granite-4.1-8b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://mot.isitopen.ai/modules/mof/assets/badge_class3_qualified.png",
+          "is_english": true,
+          "summary": "• granite-4.1-8b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "ibm-granite/granite-4.1-8b",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "moonshotai/Kimi-K2.6",
           "link": "https://huggingface.co/moonshotai/Kimi-K2.6",
           "date": "2026-05-04",
@@ -587,28 +624,15 @@
           "category": "AI Model"
         },
         {
-          "title": "z-lab/Qwen3.6-27B-DFlash",
-          "link": "https://huggingface.co/z-lab/Qwen3.6-27B-DFlash",
+          "title": "google/gemma-4-31B-it",
+          "link": "https://huggingface.co/google/gemma-4-31B-it",
           "date": "2026-05-04",
           "source": "HuggingFace",
-          "description": "• Qwen3.6-27B-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
           "is_english": true,
-          "summary": "• Qwen3.6-27B-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "z-lab/Qwen3.6-27B-DFlash",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
-          "link": "https://huggingface.co/unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
-          "date": "2026-05-04",
-          "source": "HuggingFace",
-          "description": "• NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
-          "is_english": true,
-          "summary": "• NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
+          "summary": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/gemma-4-31B-it",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
