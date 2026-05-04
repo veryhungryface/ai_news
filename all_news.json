@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-05-05",
-      "update_time": "2026-05-04 19:13:39",
+      "update_time": "2026-05-04 21:53:17",
       "news": [
         {
           "title": "Pentagon Seals AI Deal with Eight Major Vendors, but Anthropic Out",
@@ -121,19 +121,6 @@
           "category": "AI Model"
         },
         {
-          "title": "XiaomiMiMo/MiMo-V2.5",
-          "link": "https://huggingface.co/XiaomiMiMo/MiMo-V2.5",
-          "date": "2026-05-05",
-          "source": "HuggingFace",
-          "description": "• MiMo-V2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/XiaomiMiMo/MiMo/raw/main/figures/Xiaomi_MiMo.png?raw=true",
-          "is_english": true,
-          "summary": "• MiMo-V2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "XiaomiMiMo/MiMo-V2.5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "SulphurAI/Sulphur-2-base",
           "link": "https://huggingface.co/SulphurAI/Sulphur-2-base",
           "date": "2026-05-05",
@@ -143,6 +130,19 @@
           "is_english": true,
           "summary": "• Sulphur-2-base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "SulphurAI/Sulphur-2-base",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "XiaomiMiMo/MiMo-V2.5",
+          "link": "https://huggingface.co/XiaomiMiMo/MiMo-V2.5",
+          "date": "2026-05-05",
+          "source": "HuggingFace",
+          "description": "• MiMo-V2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/XiaomiMiMo/MiMo/raw/main/figures/Xiaomi_MiMo.png?raw=true",
+          "is_english": true,
+          "summary": "• MiMo-V2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "XiaomiMiMo/MiMo-V2.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -251,19 +251,6 @@
           "category": "AI Model"
         },
         {
-          "title": "z-lab/Qwen3.6-27B-DFlash",
-          "link": "https://huggingface.co/z-lab/Qwen3.6-27B-DFlash",
-          "date": "2026-05-05",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-27B-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.6-27B-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "z-lab/Qwen3.6-27B-DFlash",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "inclusionAI/Ling-2.6-flash",
           "link": "https://huggingface.co/inclusionAI/Ling-2.6-flash",
           "date": "2026-05-05",
@@ -275,13 +262,38 @@
           "translated_title": "inclusionAI/Ling-2.6-flash",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "z-lab/Qwen3.6-27B-DFlash",
+          "link": "https://huggingface.co/z-lab/Qwen3.6-27B-DFlash",
+          "date": "2026-05-05",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-27B-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.6-27B-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "z-lab/Qwen3.6-27B-DFlash",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-05-04",
-      "update_time": "2026-05-04 19:13:39",
+      "update_time": "2026-05-04 21:53:17",
       "news": [
+        {
+          "title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
+          "link": "https://blog.google/innovation-and-ai/technology/developers-tools/event-driven-webhooks/",
+          "date": "2026-05-04",
+          "source": "Google AI",
+          "description": "Event-Driven Webhooks are a push-based notification system that eliminates the need for inefficient polling.",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/WebhooksGeminiAPI-hero.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "Reduce friction and latency for long-running jobs with Webhooks in Gemini API",
+          "original_summary": "Event-Driven Webhooks are a push-based notification system that eliminates the need for inefficient polling.",
+          "summary": "Event-Driven Webhooks are a push-based notification system that eliminates the need for inefficient polling."
+        },
         {
           "title": "How OpenAI delivers low-latency voice AI at scale",
           "link": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale",
