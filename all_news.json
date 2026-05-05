@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-05-05",
-      "update_time": "2026-05-05 07:53:42",
+      "update_time": "2026-05-05 10:27:57",
       "news": [
+        {
+          "title": "IBM Pursues Enterprise AI With Agents for Hybrid Cloud, Mainframes",
+          "link": "https://aibusiness.com/generative-ai/ibm-pursues-enterprise-ai-agents-hybrid-cloud-mainframes",
+          "date": "2026-05-05",
+          "source": "AI Business",
+          "description": "The long-established tech vendor is retaining its multi-model strategy while fortifying its on-premises AI offerings and the Watsonx Orchestrate system for agents.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltad3e0cd29b59510b/69f90d5f2331cafed4f36269/IBM.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "IBM Pursues Enterprise AI With Agents for Hybrid Cloud, Mainframes",
+          "original_summary": "The long-established tech vendor is retaining its multi-model strategy while fortifying its on-premises AI offerings and the Watsonx Orchestrate system for agents.",
+          "summary": "The long-established tech vendor is retaining its multi-model strategy while fortifying its on-premises AI offerings and the Watsonx Orchestrate system for agents."
+        },
+        {
+          "title": "A New Way of Searching for Jobs with LinkedIn",
+          "link": "https://aibusiness.com/generative-ai/a-new-way-of-searching-jobs-with-linkedin",
+          "date": "2026-05-05",
+          "source": "AI Business",
+          "description": "LinkedIn has transitioned from keyword-based search to AI-driven semantic search that lets users search using natural language.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt944329e43d0ff4fc/69f9ba9e81ac095b7ffa5b4c/LinkedIn.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "A New Way of Searching for Jobs with LinkedIn",
+          "original_summary": "LinkedIn has transitioned from keyword-based search to AI-driven semantic search that lets users search using natural language.",
+          "summary": "LinkedIn has transitioned from keyword-based search to AI-driven semantic search that lets users search using natural language."
+        },
         {
           "title": "메타, '더 오래 생각'하며 고품질 데이터 생성하는 ‘오토데이터’ 공개",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=210084",
@@ -383,19 +407,6 @@
           "category": "AI Model"
         },
         {
-          "title": "talkie-lm/talkie-1930-13b-it",
-          "link": "https://huggingface.co/talkie-lm/talkie-1930-13b-it",
-          "date": "2026-05-05",
-          "source": "HuggingFace",
-          "description": "• talkie-1930-13b-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• talkie-1930-13b-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "talkie-lm/talkie-1930-13b-it",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "SulphurAI/Sulphur-2-base",
           "link": "https://huggingface.co/SulphurAI/Sulphur-2-base",
           "date": "2026-05-05",
@@ -405,6 +416,19 @@
           "is_english": true,
           "summary": "• Sulphur-2-base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "SulphurAI/Sulphur-2-base",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "talkie-lm/talkie-1930-13b-it",
+          "link": "https://huggingface.co/talkie-lm/talkie-1930-13b-it",
+          "date": "2026-05-05",
+          "source": "HuggingFace",
+          "description": "• talkie-1930-13b-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• talkie-1930-13b-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "talkie-lm/talkie-1930-13b-it",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -435,19 +459,6 @@
           "category": "AI Model"
         },
         {
-          "title": "sensenova/SenseNova-U1-8B-MoT",
-          "link": "https://huggingface.co/sensenova/SenseNova-U1-8B-MoT",
-          "date": "2026-05-05",
-          "source": "HuggingFace",
-          "description": "• SenseNova-U1-8B-MoT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/arXiv-Coming-b31b1b.svg",
-          "is_english": true,
-          "summary": "• SenseNova-U1-8B-MoT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "sensenova/SenseNova-U1-8B-MoT",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "SeeSee21/Z-Anime",
           "link": "https://huggingface.co/SeeSee21/Z-Anime",
           "date": "2026-05-05",
@@ -457,6 +468,19 @@
           "is_english": true,
           "summary": "• Z-Anime 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "SeeSee21/Z-Anime",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "sensenova/SenseNova-U1-8B-MoT",
+          "link": "https://huggingface.co/sensenova/SenseNova-U1-8B-MoT",
+          "date": "2026-05-05",
+          "source": "HuggingFace",
+          "description": "• SenseNova-U1-8B-MoT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/arXiv-Coming-b31b1b.svg",
+          "is_english": true,
+          "summary": "• SenseNova-U1-8B-MoT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "sensenova/SenseNova-U1-8B-MoT",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -487,19 +511,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.6-27B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.6-27B-GGUF",
-          "date": "2026-05-05",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.6-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Qwen3.6-27B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
           "link": "https://huggingface.co/unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
           "date": "2026-05-05",
@@ -509,6 +520,19 @@
           "is_english": true,
           "summary": "• NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/NVIDIA-Nemotron-3-Nano-Omni-30B-A3B-Reasoning-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/Qwen3.6-27B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.6-27B-GGUF",
+          "date": "2026-05-05",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• Qwen3.6-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Qwen3.6-27B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -552,15 +576,15 @@
           "category": "AI Model"
         },
         {
-          "title": "google/gemma-4-31B-it",
-          "link": "https://huggingface.co/google/gemma-4-31B-it",
+          "title": "TenStrip/LTX2.3-10Eros",
+          "link": "https://huggingface.co/TenStrip/LTX2.3-10Eros",
           "date": "2026-05-05",
           "source": "HuggingFace",
-          "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "description": "• LTX2.3-10Eros 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/gemma-4-31B-it",
+          "summary": "• LTX2.3-10Eros 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "TenStrip/LTX2.3-10Eros",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
