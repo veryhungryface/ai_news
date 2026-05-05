@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-05-06",
-      "update_time": "2026-05-05 19:04:52",
+      "update_time": "2026-05-05 21:53:41",
       "news": [
+        {
+          "title": "어버이날 AI시대 신풍속도는?…움직이는 옛 사진·손주 이모티콘",
+          "link": "https://www.yna.co.kr/view/AKR20260504077400004",
+          "date": "2026-05-06",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 정지수 기자 = 인공지능(AI) 서비스가 일상 깊숙이 파고들며 어버이날의 &apos;효도 풍속도&apos;가 진화하고 있다.",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/05/04/AKR20260504077400004_02_i_P2.gif",
+          "is_english": false,
+          "original_title": "어버이날 AI시대 신풍속도는?…움직이는 옛 사진·손주 이모티콘",
+          "original_summary": "(서울=연합뉴스) 정지수 기자 = 인공지능(AI) 서비스가 일상 깊숙이 파고들며 어버이날의 &apos;효도 풍속도&apos;가 진화하고 있다.",
+          "summary": "(서울=연합뉴스) 정지수 기자 = 인공지능(AI) 서비스가 일상 깊숙이 파고들며 어버이날의 &apos;효도 풍속도&apos;가 진화하고 있다."
+        },
+        {
+          "title": "서울시, 소상공인 온라인 판로 개척 돕는다…AI 분석 지원",
+          "link": "https://www.yna.co.kr/view/AKR20260505042400004",
+          "date": "2026-05-06",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 황재하 기자 = 서울시는 소상공인들에게 인공지능(AI)에 기반한 데이터 분석과 전담 프로젝트 매니저(PM)를 지원하는 &apos;소상공...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/05/05/AKR20260505042400004_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "서울시, 소상공인 온라인 판로 개척 돕는다…AI 분석 지원",
+          "original_summary": "(서울=연합뉴스) 황재하 기자 = 서울시는 소상공인들에게 인공지능(AI)에 기반한 데이터 분석과 전담 프로젝트 매니저(PM)를 지원하는 &apos;소상공...",
+          "summary": "(서울=연합뉴스) 황재하 기자 = 서울시는 소상공인들에게 인공지능(AI)에 기반한 데이터 분석과 전담 프로젝트 매니저(PM)를 지원하는 &apos;소상공..."
+        },
         {
           "title": "SoundHound Launches Self-Learning AI Agent Platform",
           "link": "https://aibusiness.com/agentic-ai/soundhound-launches-self-learning-ai-agent-platform",
@@ -133,19 +157,6 @@
           "category": "AI Model"
         },
         {
-          "title": "talkie-lm/talkie-1930-13b-it",
-          "link": "https://huggingface.co/talkie-lm/talkie-1930-13b-it",
-          "date": "2026-05-06",
-          "source": "HuggingFace",
-          "description": "• talkie-1930-13b-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• talkie-1930-13b-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "talkie-lm/talkie-1930-13b-it",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "SeeSee21/Z-Anime",
           "link": "https://huggingface.co/SeeSee21/Z-Anime",
           "date": "2026-05-06",
@@ -155,6 +166,19 @@
           "is_english": true,
           "summary": "• Z-Anime 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "SeeSee21/Z-Anime",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "talkie-lm/talkie-1930-13b-it",
+          "link": "https://huggingface.co/talkie-lm/talkie-1930-13b-it",
+          "date": "2026-05-06",
+          "source": "HuggingFace",
+          "description": "• talkie-1930-13b-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• talkie-1930-13b-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "talkie-lm/talkie-1930-13b-it",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -292,8 +316,44 @@
     },
     {
       "date": "2026-05-05",
-      "update_time": "2026-05-05 19:04:52",
+      "update_time": "2026-05-05 21:53:41",
       "news": [
+        {
+          "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
+          "link": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+          "date": "2026-05-05",
+          "source": "TechCrunch",
+          "description": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/ai-apps-GettyImages-2214375253.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
+          "original_summary": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks. ",
+          "summary": "With Apple's latest operating system updates, users will reportedly have their pick of which third-party AI models they want to use for a host of tasks. "
+        },
+        {
+          "title": "ASML CEO Christophe Fouquet on his company’s monopoly: no one is coming for us",
+          "link": "https://techcrunch.com/2026/05/05/asml-ceo-christophe-fouquet-no-one-is-coming-for-us/",
+          "date": "2026-05-05",
+          "source": "TechCrunch",
+          "description": "Christophe Fouquet, who became ASML's CEO in 2024 after more than a decade at the company, sat down with this editor on the rooftop deck of his Beverly Hills hotel Tuesday morning ahead of his appearance at the Milken Institute Global Conference. Dressed in a blue suit and white shirt, he was relaxed — even when the conversation turned to the rivals.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2250757778.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "ASML CEO Christophe Fouquet on his company’s monopoly: no one is coming for us",
+          "original_summary": "Christophe Fouquet, who became ASML's CEO in 2024 after more than a decade at the company, sat down with this editor on the rooftop deck of his Beverly Hills hotel Tuesday morning ahead of his appearance at the Milken Institute Global Conference. Dressed in a blue suit and white shirt, he was relaxe",
+          "summary": "Christophe Fouquet, who became ASML's CEO in 2024 after more than a decade at the company, sat down with this editor on the rooftop deck of his Beverly Hills hotel Tuesday morning ahead of his appearance at the Milken Institute Global Conference. Dressed in a blue suit and white shirt, he was relaxe"
+        },
+        {
+          "title": "Games people — and machines — play: Untangling strategic reasoning to advance AI",
+          "link": "https://news.mit.edu/2026/untangling-strategic-reasoning-to-advance-ai-gabriele-farina-0505",
+          "date": "2026-05-05",
+          "source": "MIT News",
+          "description": "Assistant Professor Gabriele Farina mines the foundations of decision-making in complex multi-agent scenarios.",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202604/mit-eecs-lids-Gabriele-Farina.JPG?itok=1UkrX-oG",
+          "is_english": true,
+          "original_title": "Games people — and machines — play: Untangling strategic reasoning to advance AI",
+          "original_summary": "Assistant Professor Gabriele Farina mines the foundations of decision-making in complex multi-agent scenarios.",
+          "summary": "Assistant Professor Gabriele Farina mines the foundations of decision-making in complex multi-agent scenarios."
+        },
         {
           "title": "GPT-5.5 Instant System Card",
           "link": "https://openai.com/index/gpt-5-5-instant-system-card",
