@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-05-06",
-      "update_time": "2026-05-06 10:56:39",
+      "update_time": "2026-05-06 13:28:59",
       "news": [
+        {
+          "title": "Nvidia Taps Robotics Ecosystem to Scale Physical AI",
+          "link": "https://aibusiness.com/robotics/nvidia-taps-robotics-ecosystem-scale-physical-ai",
+          "date": "2026-05-06",
+          "source": "AI Business",
+          "description": "Akhil Docca, head of robotics product marketing at Nvidia, on how the vendor is looking to accelerate physical AI adoption.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt3ac752037c216354/69fb3c51a64ae2ca9498219f/Physical_AI.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Nvidia Taps Robotics Ecosystem to Scale Physical AI",
+          "original_summary": "Akhil Docca, head of robotics product marketing at Nvidia, on how the vendor is looking to accelerate physical AI adoption.",
+          "summary": "Akhil Docca, head of robotics product marketing at Nvidia, on how the vendor is looking to accelerate physical AI adoption."
+        },
         {
           "title": "[AI픽] AI로 중증외상 환자 케어…ICT 규제 특례 4건 지정",
           "link": "https://www.yna.co.kr/view/AKR20260506164000017",
@@ -719,19 +731,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
-          "link": "https://huggingface.co/nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
-          "date": "2026-05-06",
-          "source": "HuggingFace",
-          "description": "• Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.6-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.6-27B",
           "date": "2026-05-06",
@@ -745,15 +744,15 @@
           "category": "AI Model"
         },
         {
-          "title": "poolside/Laguna-XS.2",
-          "link": "https://huggingface.co/poolside/Laguna-XS.2",
+          "title": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
+          "link": "https://huggingface.co/nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
           "date": "2026-05-06",
           "source": "HuggingFace",
-          "description": "• Laguna-XS.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://poolside.ai/assets/laguna/laguna-xs2-banner.svg",
+          "description": "• Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• Laguna-XS.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "poolside/Laguna-XS.2",
+          "summary": "• Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -771,19 +770,6 @@
           "category": "AI Model"
         },
         {
-          "title": "deepseek-ai/DeepSeek-V4-Flash",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
-          "date": "2026-05-06",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
-          "is_english": true,
-          "summary": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepseek-ai/DeepSeek-V4-Flash",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "TenStrip/LTX2.3-10Eros",
           "link": "https://huggingface.co/TenStrip/LTX2.3-10Eros",
           "date": "2026-05-06",
@@ -797,15 +783,28 @@
           "category": "AI Model"
         },
         {
-          "title": "talkie-lm/talkie-1930-13b-it",
-          "link": "https://huggingface.co/talkie-lm/talkie-1930-13b-it",
+          "title": "deepseek-ai/DeepSeek-V4-Flash",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
           "date": "2026-05-06",
           "source": "HuggingFace",
-          "description": "• talkie-1930-13b-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
           "is_english": true,
-          "summary": "• talkie-1930-13b-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "talkie-lm/talkie-1930-13b-it",
+          "summary": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepseek-ai/DeepSeek-V4-Flash",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "poolside/Laguna-XS.2",
+          "link": "https://huggingface.co/poolside/Laguna-XS.2",
+          "date": "2026-05-06",
+          "source": "HuggingFace",
+          "description": "• Laguna-XS.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://poolside.ai/assets/laguna/laguna-xs2-banner.svg",
+          "is_english": true,
+          "summary": "• Laguna-XS.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "poolside/Laguna-XS.2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -849,15 +848,15 @@
           "category": "AI Model"
         },
         {
-          "title": "AngelSlim/Hy-MT1.5-1.8B-1.25bit",
-          "link": "https://huggingface.co/AngelSlim/Hy-MT1.5-1.8B-1.25bit",
+          "title": "talkie-lm/talkie-1930-13b-it",
+          "link": "https://huggingface.co/talkie-lm/talkie-1930-13b-it",
           "date": "2026-05-06",
           "source": "HuggingFace",
-          "description": "• Hy-MT1.5-1.8B-1.25bit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/Tencent/AngelSlim/blob/main/docs/source/assets/logos/angelslim_logo.png?raw=true",
+          "description": "• talkie-1930-13b-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• Hy-MT1.5-1.8B-1.25bit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "AngelSlim/Hy-MT1.5-1.8B-1.25bit",
+          "summary": "• talkie-1930-13b-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "talkie-lm/talkie-1930-13b-it",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -871,6 +870,19 @@
           "is_english": true,
           "summary": "• gemma-4-31B-it-assistant 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "google/gemma-4-31B-it-assistant",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "AngelSlim/Hy-MT1.5-1.8B-1.25bit",
+          "link": "https://huggingface.co/AngelSlim/Hy-MT1.5-1.8B-1.25bit",
+          "date": "2026-05-06",
+          "source": "HuggingFace",
+          "description": "• Hy-MT1.5-1.8B-1.25bit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/Tencent/AngelSlim/blob/main/docs/source/assets/logos/angelslim_logo.png?raw=true",
+          "is_english": true,
+          "summary": "• Hy-MT1.5-1.8B-1.25bit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "AngelSlim/Hy-MT1.5-1.8B-1.25bit",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -904,8 +916,20 @@
     },
     {
       "date": "2026-05-05",
-      "update_time": "2026-05-06 01:51:57",
+      "update_time": "2026-05-06 13:28:58",
       "news": [
+        {
+          "title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+          "link": "https://openai.com/index/mrc-supercomputer-networking",
+          "date": "2026-05-05",
+          "source": "OpenAI",
+          "description": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Unlocking large scale AI training networks with MRC (Multipath Reliable Connection)",
+          "original_summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters.",
+          "summary": "OpenAI introduces MRC (Multipath Reliable Connection), a new supercomputer networking protocol released via OCP to improve resilience and performance in large-scale AI training clusters."
+        },
         {
           "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
           "link": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
