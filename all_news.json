@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-05-07",
-      "update_time": "2026-05-06 16:23:49",
+      "update_time": "2026-05-06 19:21:47",
       "news": [
+        {
+          "title": "SAP Plans to Turn Spreadsheet AI Startup Into Top Frontier Lab",
+          "link": "https://aibusiness.com/generative-ai/sap-plans-turn-spreadsheet-ai-startup-top-frontier-lab",
+          "date": "2026-05-07",
+          "source": "AI Business",
+          "description": "The move indicates that the German enterprise software giant is intent on growing its own in-house AI capabilities.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt80d61e1ecb856f7e/69fb7a6734504cded2ea00d2/SAP2.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "SAP Plans to Turn Spreadsheet AI Startup Into Top Frontier Lab",
+          "original_summary": "The move indicates that the German enterprise software giant is intent on growing its own in-house AI capabilities.",
+          "summary": "The move indicates that the German enterprise software giant is intent on growing its own in-house AI capabilities."
+        },
         {
           "title": "Nvidia, Corning Partner on Large-Scale AI infrastructure Buildout",
           "link": "https://aibusiness.com/generative-ai/nvidia-corning-partner-large-scale-ai-infrastructure-buildout",
@@ -43,19 +55,6 @@
           "category": "AI Model"
         },
         {
-          "title": "mistralai/Mistral-Medium-3.5-128B",
-          "link": "https://huggingface.co/mistralai/Mistral-Medium-3.5-128B",
-          "date": "2026-05-07",
-          "source": "HuggingFace",
-          "description": "• Mistral-Medium-3.5-128B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Mistral-Medium-3.5-128B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "mistralai/Mistral-Medium-3.5-128B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "openai/privacy-filter",
           "link": "https://huggingface.co/openai/privacy-filter",
           "date": "2026-05-07",
@@ -69,15 +68,15 @@
           "category": "AI Model"
         },
         {
-          "title": "XiaomiMiMo/MiMo-V2.5-Pro",
-          "link": "https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro",
+          "title": "mistralai/Mistral-Medium-3.5-128B",
+          "link": "https://huggingface.co/mistralai/Mistral-Medium-3.5-128B",
           "date": "2026-05-07",
           "source": "HuggingFace",
-          "description": "• MiMo-V2.5-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/XiaomiMiMo/MiMo/raw/main/figures/Xiaomi_MiMo.png?raw=true",
+          "description": "• Mistral-Medium-3.5-128B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• MiMo-V2.5-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "XiaomiMiMo/MiMo-V2.5-Pro",
+          "summary": "• Mistral-Medium-3.5-128B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "mistralai/Mistral-Medium-3.5-128B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -95,6 +94,19 @@
           "category": "AI Model"
         },
         {
+          "title": "XiaomiMiMo/MiMo-V2.5-Pro",
+          "link": "https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro",
+          "date": "2026-05-07",
+          "source": "HuggingFace",
+          "description": "• MiMo-V2.5-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/XiaomiMiMo/MiMo/raw/main/figures/Xiaomi_MiMo.png?raw=true",
+          "is_english": true,
+          "summary": "• MiMo-V2.5-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "XiaomiMiMo/MiMo-V2.5-Pro",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Qwen/Qwen3.6-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.6-27B",
           "date": "2026-05-07",
@@ -104,19 +116,6 @@
           "is_english": true,
           "summary": "• Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.6-27B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "Qwen/Qwen3.6-35B-A3B",
-          "link": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
-          "date": "2026-05-07",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.6-35B-A3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -134,28 +133,15 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
-          "link": "https://huggingface.co/nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
+          "title": "Qwen/Qwen3.6-35B-A3B",
+          "link": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
           "date": "2026-05-07",
           "source": "HuggingFace",
-          "description": "• Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
           "is_english": true,
-          "summary": "• Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "deepseek-ai/DeepSeek-V4-Flash",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
-          "date": "2026-05-07",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
-          "is_english": true,
-          "summary": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepseek-ai/DeepSeek-V4-Flash",
+          "summary": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.6-35B-A3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -173,6 +159,32 @@
           "category": "AI Model"
         },
         {
+          "title": "deepseek-ai/DeepSeek-V4-Flash",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
+          "date": "2026-05-07",
+          "source": "HuggingFace",
+          "description": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
+          "is_english": true,
+          "summary": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepseek-ai/DeepSeek-V4-Flash",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
+          "link": "https://huggingface.co/nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
+          "date": "2026-05-07",
+          "source": "HuggingFace",
+          "description": "• Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "poolside/Laguna-XS.2",
           "link": "https://huggingface.co/poolside/Laguna-XS.2",
           "date": "2026-05-07",
@@ -182,19 +194,6 @@
           "is_english": true,
           "summary": "• Laguna-XS.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "poolside/Laguna-XS.2",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "talkie-lm/talkie-1930-13b-it",
-          "link": "https://huggingface.co/talkie-lm/talkie-1930-13b-it",
-          "date": "2026-05-07",
-          "source": "HuggingFace",
-          "description": "• talkie-1930-13b-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• talkie-1930-13b-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "talkie-lm/talkie-1930-13b-it",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -212,28 +211,15 @@
           "category": "AI Model"
         },
         {
-          "title": "ibm-granite/granite-4.1-8b",
-          "link": "https://huggingface.co/ibm-granite/granite-4.1-8b",
+          "title": "talkie-lm/talkie-1930-13b-it",
+          "link": "https://huggingface.co/talkie-lm/talkie-1930-13b-it",
           "date": "2026-05-07",
           "source": "HuggingFace",
-          "description": "• granite-4.1-8b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://mot.isitopen.ai/modules/mof/assets/badge_class3_qualified.png",
+          "description": "• talkie-1930-13b-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• granite-4.1-8b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ibm-granite/granite-4.1-8b",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "ibm-granite/granite-4.1-30b",
-          "link": "https://huggingface.co/ibm-granite/granite-4.1-30b",
-          "date": "2026-05-07",
-          "source": "HuggingFace",
-          "description": "• granite-4.1-30b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://mot.isitopen.ai/modules/mof/assets/badge_class3_qualified.png",
-          "is_english": true,
-          "summary": "• granite-4.1-30b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ibm-granite/granite-4.1-30b",
+          "summary": "• talkie-1930-13b-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "talkie-lm/talkie-1930-13b-it",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -251,6 +237,19 @@
           "category": "AI Model"
         },
         {
+          "title": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
+          "link": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK",
+          "date": "2026-05-07",
+          "source": "HuggingFace",
+          "description": "• Gemma-4-31B-JANG_4M-CRACK 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK/resolve/main/vmlx-banner.png",
+          "is_english": true,
+          "summary": "• Gemma-4-31B-JANG_4M-CRACK 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "google/gemma-4-31B-it",
           "link": "https://huggingface.co/google/gemma-4-31B-it",
           "date": "2026-05-07",
@@ -264,15 +263,28 @@
           "category": "AI Model"
         },
         {
-          "title": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
-          "link": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK",
+          "title": "Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF",
+          "link": "https://huggingface.co/Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF",
           "date": "2026-05-07",
           "source": "HuggingFace",
-          "description": "• Gemma-4-31B-JANG_4M-CRACK 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK/resolve/main/vmlx-banner.png",
+          "description": "• Qwen3.5-9B-DeepSeek-V4-Flash-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/J3m3YKzmCmDtbKOZNPCW-.png",
           "is_english": true,
-          "summary": "• Gemma-4-31B-JANG_4M-CRACK 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
+          "summary": "• Qwen3.5-9B-DeepSeek-V4-Flash-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "z-lab/Qwen3.6-27B-DFlash",
+          "link": "https://huggingface.co/z-lab/Qwen3.6-27B-DFlash",
+          "date": "2026-05-07",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-27B-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.6-27B-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "z-lab/Qwen3.6-27B-DFlash",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -280,8 +292,56 @@
     },
     {
       "date": "2026-05-06",
-      "update_time": "2026-05-06 16:23:47",
+      "update_time": "2026-05-06 19:21:46",
       "news": [
+        {
+          "title": "Introducing ChatGPT Futures: Class of 2026",
+          "link": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
+          "date": "2026-05-06",
+          "source": "OpenAI",
+          "description": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Introducing ChatGPT Futures: Class of 2026",
+          "original_summary": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT.",
+          "summary": "Meet the ChatGPT Futures Class of 2026—26 student innovators using AI to build, research, and drive real-world impact. Discover how this generation is redefining learning, creativity, and opportunity with ChatGPT."
+        },
+        {
+          "title": "How Elon Musk left OpenAI, according to Greg Brockman",
+          "link": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
+          "date": "2026-05-06",
+          "source": "TechCrunch",
+          "description": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273248471.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "How Elon Musk left OpenAI, according to Greg Brockman",
+          "original_summary": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI. ",
+          "summary": "Cutthroat negotiations between startup founders are rarely shared so publicly, especially when a company becomes as world-changing as OpenAI. "
+        },
+        {
+          "title": "SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas",
+          "link": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
+          "date": "2026-05-06",
+          "source": "TechCrunch",
+          "description": "The project would be a \"multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,\" according to the proposal.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1240619050.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas",
+          "original_summary": "The project would be a \"multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,\" according to the proposal.",
+          "summary": "The project would be a \"multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,\" according to the proposal."
+        },
+        {
+          "title": "DeepSeek could hit $45B valuation from its first investment round",
+          "link": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
+          "date": "2026-05-06",
+          "source": "TechCrunch",
+          "description": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like those from OpenAI and Anthropic. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2272184430.jpg?w=1024",
+          "is_english": true,
+          "original_title": "DeepSeek could hit $45B valuation from its first investment round",
+          "original_summary": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like those from OpenAI and Anthropic. ",
+          "summary": "The Chinese AI lab came to prominence in early 2025 after launching a large language model that trained on a fraction of the compute power and at a fraction of the cost of the big U.S. models like those from OpenAI and Anthropic. "
+        },
         {
           "title": "How frontier enterprises are building an AI advantage",
           "link": "https://openai.com/index/introducing-b2b-signals",
@@ -7393,7 +7453,7 @@
         {
           "title": "deepseek-ai/DeepSeek-V4-Pro",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
-          "date": "2026-04-28",
+          "date": "2026-05-07",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
@@ -7406,7 +7466,7 @@
         {
           "title": "openai/privacy-filter",
           "link": "https://huggingface.co/openai/privacy-filter",
-          "date": "2026-04-28",
+          "date": "2026-05-07",
           "source": "HuggingFace",
           "description": "• privacy-filter 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -7419,7 +7479,7 @@
         {
           "title": "Qwen/Qwen3.6-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.6-27B",
-          "date": "2026-04-28",
+          "date": "2026-05-07",
           "source": "HuggingFace",
           "description": "• Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -7432,7 +7492,7 @@
         {
           "title": "deepseek-ai/DeepSeek-V4-Flash",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
-          "date": "2026-04-28",
+          "date": "2026-05-07",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
@@ -7458,7 +7518,7 @@
         {
           "title": "unsloth/Qwen3.6-27B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.6-27B-GGUF",
-          "date": "2026-04-28",
+          "date": "2026-05-07",
           "source": "HuggingFace",
           "description": "• Qwen3.6-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -7471,7 +7531,7 @@
         {
           "title": "Qwen/Qwen3.6-35B-A3B",
           "link": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
-          "date": "2026-04-28",
+          "date": "2026-05-07",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -7601,7 +7661,7 @@
         {
           "title": "z-lab/Qwen3.6-27B-DFlash",
           "link": "https://huggingface.co/z-lab/Qwen3.6-27B-DFlash",
-          "date": "2026-05-06",
+          "date": "2026-05-07",
           "source": "HuggingFace",
           "description": "• Qwen3.6-27B-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -7627,7 +7687,7 @@
         {
           "title": "google/gemma-4-31B-it",
           "link": "https://huggingface.co/google/gemma-4-31B-it",
-          "date": "2026-04-28",
+          "date": "2026-05-07",
           "source": "HuggingFace",
           "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
