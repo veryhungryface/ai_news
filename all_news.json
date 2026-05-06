@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-05-07",
-      "update_time": "2026-05-06 19:21:47",
+      "update_time": "2026-05-06 21:51:22",
       "news": [
+        {
+          "title": "OpenAI Launches Training Spec to Boost Large-Scale AI",
+          "link": "https://aibusiness.com/generative-ai/openai-launches-training-spec-boost-large-scale-ai",
+          "date": "2026-05-07",
+          "source": "AI Business",
+          "description": "The protocol is designed to improve GPU performance as AI compute ramps up.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blteb6135d38463bf30/69fba3096733f7856f38b781/Sam_Altman.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "OpenAI Launches Training Spec to Boost Large-Scale AI",
+          "original_summary": "The protocol is designed to improve GPU performance as AI compute ramps up.",
+          "summary": "The protocol is designed to improve GPU performance as AI compute ramps up."
+        },
         {
           "title": "SAP Plans to Turn Spreadsheet AI Startup Into Top Frontier Lab",
           "link": "https://aibusiness.com/generative-ai/sap-plans-turn-spreadsheet-ai-startup-top-frontier-lab",
@@ -211,19 +223,6 @@
           "category": "AI Model"
         },
         {
-          "title": "talkie-lm/talkie-1930-13b-it",
-          "link": "https://huggingface.co/talkie-lm/talkie-1930-13b-it",
-          "date": "2026-05-07",
-          "source": "HuggingFace",
-          "description": "• talkie-1930-13b-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• talkie-1930-13b-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "talkie-lm/talkie-1930-13b-it",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Qwen3.6-27B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.6-27B-GGUF",
           "date": "2026-05-07",
@@ -233,19 +232,6 @@
           "is_english": true,
           "summary": "• Qwen3.6-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/Qwen3.6-27B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
-          "link": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK",
-          "date": "2026-05-07",
-          "source": "HuggingFace",
-          "description": "• Gemma-4-31B-JANG_4M-CRACK 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK/resolve/main/vmlx-banner.png",
-          "is_english": true,
-          "summary": "• Gemma-4-31B-JANG_4M-CRACK 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -263,6 +249,19 @@
           "category": "AI Model"
         },
         {
+          "title": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
+          "link": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK",
+          "date": "2026-05-07",
+          "source": "HuggingFace",
+          "description": "• Gemma-4-31B-JANG_4M-CRACK 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK/resolve/main/vmlx-banner.png",
+          "is_english": true,
+          "summary": "• Gemma-4-31B-JANG_4M-CRACK 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF",
           "date": "2026-05-07",
@@ -272,6 +271,19 @@
           "is_english": true,
           "summary": "• Qwen3.5-9B-DeepSeek-V4-Flash-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Jackrong/Qwen3.5-9B-DeepSeek-V4-Flash-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "talkie-lm/talkie-1930-13b-it",
+          "link": "https://huggingface.co/talkie-lm/talkie-1930-13b-it",
+          "date": "2026-05-07",
+          "source": "HuggingFace",
+          "description": "• talkie-1930-13b-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• talkie-1930-13b-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "talkie-lm/talkie-1930-13b-it",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -292,8 +304,44 @@
     },
     {
       "date": "2026-05-06",
-      "update_time": "2026-05-06 19:21:46",
+      "update_time": "2026-05-06 21:51:22",
       "news": [
+        {
+          "title": "‘AI교육 전면개편’...광주AI사관학교 7기 대장정",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210161",
+          "date": "2026-05-06",
+          "source": "AI타임스",
+          "description": "올해 교육체계와 투자구조를 전면 개편한 AI 인재양성의 요람 ‘광주인공지능사관학교’가 산업 현장을 선도할 융합 핵심인재 육성을 위한 8개월간의 대장정에 돌입했다.광주시(시장 강기정)는 6일 전남 진도 쏠비치에서 강기정 시장을 비롯해 오상진 인공지능산업융합사업단장, 장병탁 서울대 AI연구원장(사관학교 교장), 교육생 220명 등이 참석한 가운데 ‘광주인공지능사관학교 제7기 입교식 및 오리엔테이션’을 개최했다.AI사관학교 7기는 인공지능 산업의 질적 도약기에 발맞춰 기술적 전문성과 현장 적용 능력을 동시에 갖춘 ‘AI 고급 과정’으로",
+          "image": "https://cdn.aitimes.com/news/photo/202605/210161_212746_1140.jpg",
+          "is_english": false,
+          "original_title": "‘AI교육 전면개편’...광주AI사관학교 7기 대장정",
+          "original_summary": "올해 교육체계와 투자구조를 전면 개편한 AI 인재양성의 요람 ‘광주인공지능사관학교’가 산업 현장을 선도할 융합 핵심인재 육성을 위한 8개월간의 대장정에 돌입했다.광주시(시장 강기정)는 6일 전남 진도 쏠비치에서 강기정 시장을 비롯해 오상진 인공지능산업융합사업단장, 장병탁 서울대 AI연구원장(사관학교 교장), 교육생 220명 등이 참석한 가운데 ‘광주인공지능사관학교 제7기 입교식 및 오리엔테이션’을 개최했다.AI사관학교 7기는 인공지능 산업의 질적 도약기에 발맞춰 기술적 전문성과 현장 적용 능력을 동시에 갖춘 ‘AI 고급 과정’으로",
+          "summary": "올해 교육체계와 투자구조를 전면 개편한 AI 인재양성의 요람 ‘광주인공지능사관학교’가 산업 현장을 선도할 융합 핵심인재 육성을 위한 8개월간의 대장정에 돌입했다.광주시(시장 강기정)는 6일 전남 진도 쏠비치에서 강기정 시장을 비롯해 오상진 인공지능산업융합사업단장, 장병탁 서울대 AI연구원장(사관학교 교장), 교육생 220명 등이 참석한 가운데 ‘광주인공지능사관학교 제7기 입교식 및 오리엔테이션’을 개최했다.AI사관학교 7기는 인공지능 산업의 질적 도약기에 발맞춰 기술적 전문성과 현장 적용 능력을 동시에 갖춘 ‘AI 고급 과정’으로"
+        },
+        {
+          "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
+          "link": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+          "date": "2026-05-06",
+          "source": "TechCrunch",
+          "description": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-647104884.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
+          "original_summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat. ",
+          "summary": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat. "
+        },
+        {
+          "title": "Is xAI a neocloud now?",
+          "link": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+          "date": "2026-05-06",
+          "source": "TechCrunch",
+          "description": "xAI's real business may be more about building data centers than training AI models. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2256968212.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Is xAI a neocloud now?",
+          "original_summary": "xAI's real business may be more about building data centers than training AI models. ",
+          "summary": "xAI's real business may be more about building data centers than training AI models. "
+        },
         {
           "title": "Introducing ChatGPT Futures: Class of 2026",
           "link": "https://openai.com/index/introducing-chatgpt-futures-class-of-2026",
