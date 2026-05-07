@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-05-08",
-      "update_time": "2026-05-07 19:25:42",
+      "update_time": "2026-05-07 21:45:34",
       "news": [
+        {
+          "title": "\"내 자식이나 다름없지\"…어버이날 독거노인 곁 채우는 AI 로봇",
+          "link": "https://www.yna.co.kr/view/AKR20260507169800004",
+          "date": "2026-05-08",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 한지은 기자 = &quot;할머니, 다녀오셨어요? 보고 싶었어요!&quot;",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/05/07/AKR20260507169800004_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "\"내 자식이나 다름없지\"…어버이날 독거노인 곁 채우는 AI 로봇",
+          "original_summary": "(서울=연합뉴스) 한지은 기자 = &quot;할머니, 다녀오셨어요? 보고 싶었어요!&quot;",
+          "summary": "(서울=연합뉴스) 한지은 기자 = &quot;할머니, 다녀오셨어요? 보고 싶었어요!&quot;"
+        },
+        {
+          "title": "서울복지재단, 돌봄서비스 '디지털 전환' 지원사업 기관 선정",
+          "link": "https://www.yna.co.kr/view/AKR20260507142100004",
+          "date": "2026-05-08",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 황재하 기자 = 서울시복지재단은 &apos;2026년 돌봄서비스 디지털 전환 지원 사업&apos;을 시행할 6개 기관을 선정하고 사업을 본격화한...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/05/07/AKR20260507142100004_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "서울복지재단, 돌봄서비스 '디지털 전환' 지원사업 기관 선정",
+          "original_summary": "(서울=연합뉴스) 황재하 기자 = 서울시복지재단은 &apos;2026년 돌봄서비스 디지털 전환 지원 사업&apos;을 시행할 6개 기관을 선정하고 사업을 본격화한...",
+          "summary": "(서울=연합뉴스) 황재하 기자 = 서울시복지재단은 &apos;2026년 돌봄서비스 디지털 전환 지원 사업&apos;을 시행할 6개 기관을 선정하고 사업을 본격화한..."
+        },
         {
           "title": "AWS Launches Agentic AI Payment Capabilities",
           "link": "https://aibusiness.com/agentic-ai/aws-launches-agentic-ai-payment-capabilities",
@@ -160,19 +184,6 @@
           "category": "AI Model"
         },
         {
-          "title": "deepseek-ai/DeepSeek-V4-Flash",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
-          "date": "2026-05-08",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
-          "is_english": true,
-          "summary": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepseek-ai/DeepSeek-V4-Flash",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "sensenova/SenseNova-U1-8B-MoT",
           "link": "https://huggingface.co/sensenova/SenseNova-U1-8B-MoT",
           "date": "2026-05-08",
@@ -186,15 +197,15 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
-          "link": "https://huggingface.co/nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
+          "title": "deepseek-ai/DeepSeek-V4-Flash",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
           "date": "2026-05-08",
           "source": "HuggingFace",
-          "description": "• Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
           "is_english": true,
-          "summary": "• Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
+          "summary": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepseek-ai/DeepSeek-V4-Flash",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -208,6 +219,19 @@
           "is_english": true,
           "summary": "• Gemma-4-31B-JANG_4M-CRACK 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
+          "link": "https://huggingface.co/nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
+          "date": "2026-05-08",
+          "source": "HuggingFace",
+          "description": "• Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -264,15 +288,15 @@
           "category": "AI Model"
         },
         {
-          "title": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
-          "link": "https://huggingface.co/DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
+          "title": "unsloth/Qwen3.6-35B-A3B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
           "date": "2026-05-08",
           "source": "HuggingFace",
-          "description": "• Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF/resolve/main/qwen-vl.gif",
+          "description": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
           "is_english": true,
-          "summary": "• Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
+          "summary": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Qwen3.6-35B-A3B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -280,8 +304,56 @@
     },
     {
       "date": "2026-05-07",
-      "update_time": "2026-05-07 19:25:40",
+      "update_time": "2026-05-07 21:45:34",
       "news": [
+        {
+          "title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+          "link": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber",
+          "date": "2026-05-07",
+          "source": "OpenAI",
+          "description": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber",
+          "original_summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure.",
+          "summary": "OpenAI expands Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber, helping verified defenders accelerate vulnerability research and protect critical infrastructure."
+        },
+        {
+          "title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
+          "link": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+          "date": "2026-05-07",
+          "source": "TechCrunch",
+          "description": "AI startup Pit is led by the cofounders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/Pit-team-2.-Photo-by-Hugo-Thambert.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Voi founders’ new AI startup Pit has become the latest rising star out of Stockholm",
+          "original_summary": "AI startup Pit is led by the cofounders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round. ",
+          "summary": "AI startup Pit is led by the cofounders of European scooter giant Voi and backed by a16z, which is leading the startup’s $16 million seed round. "
+        },
+        {
+          "title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
+          "link": "https://techcrunch.com/2026/05/07/openai-introduces-new-trusted-contact-safeguard-for-cases-of-possible-self-harm/",
+          "date": "2026-05-07",
+          "source": "TechCrunch",
+          "description": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+          "is_english": true,
+          "original_title": "OpenAI introduces new ‘Trusted Contact’ safeguard for cases of possible self-harm",
+          "original_summary": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm. ",
+          "summary": "The company is expanding its efforts to protect ChatGPT users in cases where conversations may turn to self-harm. "
+        },
+        {
+          "title": "Perplexity’s Personal Computer is now available to everyone on Mac",
+          "link": "https://techcrunch.com/2026/05/07/perplexitys-personal-computer-is-now-available-everyone-on-mac/",
+          "date": "2026-05-07",
+          "source": "TechCrunch",
+          "description": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/personal-computer.jpeg?w=1199",
+          "is_english": true,
+          "original_title": "Perplexity’s Personal Computer is now available to everyone on Mac",
+          "original_summary": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone. ",
+          "summary": "Perplexity's Personal Computer brings AI agents to your Mac, and is now open to everyone. "
+        },
         {
           "title": "Advancing voice intelligence with new models in the API",
           "link": "https://openai.com/index/advancing-voice-intelligence-with-new-models-in-the-api",
@@ -7789,7 +7861,7 @@
         {
           "title": "unsloth/Qwen3.6-35B-A3B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
-          "date": "2026-04-29",
+          "date": "2026-05-08",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
