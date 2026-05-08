@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-05-09",
-      "update_time": "2026-05-08 19:03:34",
+      "update_time": "2026-05-08 21:50:00",
       "news": [
+        {
+          "title": "[샷!] 당신도 'AI 흙수저'입니까",
+          "link": "https://www.yna.co.kr/view/AKR20260506150400011",
+          "date": "2026-05-09",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 강민지 인턴기자 = &quot;클로드의 고성능 유료 모델을 쓰려면 한 달에 거의 30만원을 내야 하는데, 제가 과외로 버는 돈이 딱 그...",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/02/26/PYH2026022613020001300_P2.jpg",
+          "is_english": false,
+          "original_title": "[샷!] 당신도 'AI 흙수저'입니까",
+          "original_summary": "(서울=연합뉴스) 강민지 인턴기자 = &quot;클로드의 고성능 유료 모델을 쓰려면 한 달에 거의 30만원을 내야 하는데, 제가 과외로 버는 돈이 딱 그...",
+          "summary": "(서울=연합뉴스) 강민지 인턴기자 = &quot;클로드의 고성능 유료 모델을 쓰려면 한 달에 거의 30만원을 내야 하는데, 제가 과외로 버는 돈이 딱 그..."
+        },
         {
           "title": "SulphurAI/Sulphur-2-base",
           "link": "https://huggingface.co/SulphurAI/Sulphur-2-base",
@@ -226,15 +238,15 @@
           "category": "AI Model"
         },
         {
-          "title": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
-          "link": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK",
+          "title": "unsloth/Qwen3.6-35B-A3B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
           "date": "2026-05-09",
           "source": "HuggingFace",
-          "description": "• Gemma-4-31B-JANG_4M-CRACK 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK/resolve/main/vmlx-banner.png",
+          "description": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
           "is_english": true,
-          "summary": "• Gemma-4-31B-JANG_4M-CRACK 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
+          "summary": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Qwen3.6-35B-A3B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -252,15 +264,15 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.6-35B-A3B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
+          "title": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
+          "link": "https://huggingface.co/DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
           "date": "2026-05-09",
           "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "description": "• Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF/resolve/main/qwen-vl.gif",
           "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Qwen3.6-35B-A3B-GGUF",
+          "summary": "• Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "DavidAU/Qwen3.6-27B-Heretic-Uncensored-FINETUNE-NEO-CODE-Di-IMatrix-MAX-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -268,8 +280,32 @@
     },
     {
       "date": "2026-05-08",
-      "update_time": "2026-05-08 19:03:34",
+      "update_time": "2026-05-08 21:49:58",
       "news": [
+        {
+          "title": "Running Codex safely at OpenAI",
+          "link": "https://openai.com/index/running-codex-safely",
+          "date": "2026-05-08",
+          "source": "OpenAI",
+          "description": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Running Codex safely at OpenAI",
+          "original_summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption.",
+          "summary": "How OpenAI runs Codex securely with sandboxing, approvals, network policies, and agent-native telemetry to support safe and compliant coding agent adoption."
+        },
+        {
+          "title": "Intel’s comeback story is even wilder than it seems",
+          "link": "https://techcrunch.com/2026/05/08/intels-comeback-story-is-even-wilder-than-it-seems/",
+          "date": "2026-05-08",
+          "source": "TechCrunch",
+          "description": "Intel's stock has risen a stunning 490% over the past year, a bet by Wall Street that may be running well ahead of the company's actual turnaround.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/HFTb6BbbcAANe5y-e1775584097859.jpeg?w=597",
+          "is_english": true,
+          "original_title": "Intel’s comeback story is even wilder than it seems",
+          "original_summary": "Intel's stock has risen a stunning 490% over the past year, a bet by Wall Street that may be running well ahead of the company's actual turnaround.",
+          "summary": "Intel's stock has risen a stunning 490% over the past year, a bet by Wall Street that may be running well ahead of the company's actual turnaround."
+        },
         {
           "title": "Cloudflare says AI made 1,100 jobs obsolete, even as revenue hit a record high",
           "link": "https://techcrunch.com/2026/05/08/cloudflare-says-ai-made-1100-jobs-obsolete-even-as-revenue-hit-a-record-high/",
