@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-05-08",
-      "update_time": "2026-05-08 10:17:42",
+      "update_time": "2026-05-08 13:07:16",
       "news": [
+        {
+          "title": "Beijing lab at $20B as AI investors look to China",
+          "link": "https://aibusiness.com/generative-ai/beijing-lab-20b-ai-investors-look-to-china",
+          "date": "2026-05-08",
+          "source": "AI Business",
+          "description": "The 2023 startup is the developer of the popular Kimi generative AI model.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt4e7cacafbcc8dbbf/69fdd715b6c1a9a20327a9ff/kimi-icon.ByIGCGon.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Beijing lab at $20B as AI investors look to China",
+          "original_summary": "The 2023 startup is the developer of the popular Kimi generative AI model.",
+          "summary": "The 2023 startup is the developer of the popular Kimi generative AI model."
+        },
         {
           "title": "파이어폭스, '미소스' 투입 한달 만에 보안 버그 271개 수정",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=210268",
@@ -662,19 +674,6 @@
           "category": "AI Model"
         },
         {
-          "title": "mistralai/Mistral-Medium-3.5-128B",
-          "link": "https://huggingface.co/mistralai/Mistral-Medium-3.5-128B",
-          "date": "2026-05-08",
-          "source": "HuggingFace",
-          "description": "• Mistral-Medium-3.5-128B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Mistral-Medium-3.5-128B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "mistralai/Mistral-Medium-3.5-128B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.6-35B-A3B",
           "link": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
           "date": "2026-05-08",
@@ -684,6 +683,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.6-35B-A3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "mistralai/Mistral-Medium-3.5-128B",
+          "link": "https://huggingface.co/mistralai/Mistral-Medium-3.5-128B",
+          "date": "2026-05-08",
+          "source": "HuggingFace",
+          "description": "• Mistral-Medium-3.5-128B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Mistral-Medium-3.5-128B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "mistralai/Mistral-Medium-3.5-128B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -714,19 +726,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.6-27B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.6-27B-GGUF",
-          "date": "2026-05-08",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.6-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Qwen3.6-27B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "deepseek-ai/DeepSeek-V4-Flash",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
           "date": "2026-05-08",
@@ -740,15 +739,15 @@
           "category": "AI Model"
         },
         {
-          "title": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
-          "link": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK",
+          "title": "unsloth/Qwen3.6-27B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.6-27B-GGUF",
           "date": "2026-05-08",
           "source": "HuggingFace",
-          "description": "• Gemma-4-31B-JANG_4M-CRACK 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK/resolve/main/vmlx-banner.png",
+          "description": "• Qwen3.6-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
           "is_english": true,
-          "summary": "• Gemma-4-31B-JANG_4M-CRACK 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
+          "summary": "• Qwen3.6-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Qwen3.6-27B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -766,6 +765,19 @@
           "category": "AI Model"
         },
         {
+          "title": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
+          "link": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK",
+          "date": "2026-05-08",
+          "source": "HuggingFace",
+          "description": "• Gemma-4-31B-JANG_4M-CRACK 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/dealignai/Gemma-4-31B-JANG_4M-CRACK/resolve/main/vmlx-banner.png",
+          "is_english": true,
+          "summary": "• Gemma-4-31B-JANG_4M-CRACK 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "dealignai/Gemma-4-31B-JANG_4M-CRACK",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
           "link": "https://huggingface.co/nvidia/Nemotron-3-Nano-Omni-30B-A3B-Reasoning-BF16",
           "date": "2026-05-08",
@@ -779,19 +791,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.6-35B-A3B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
-          "date": "2026-05-08",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Qwen3.6-35B-A3B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Jackrong/Qwopus3.6-35B-A3B-v1-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwopus3.6-35B-A3B-v1-GGUF",
           "date": "2026-05-08",
@@ -801,6 +800,19 @@
           "is_english": true,
           "summary": "• Qwopus3.6-35B-A3B-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Jackrong/Qwopus3.6-35B-A3B-v1-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/Qwen3.6-35B-A3B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
+          "date": "2026-05-08",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Qwen3.6-35B-A3B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
