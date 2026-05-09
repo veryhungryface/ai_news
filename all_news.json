@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-05-10",
-      "update_time": "2026-05-09 18:44:08",
+      "update_time": "2026-05-09 21:34:02",
       "news": [
         {
           "title": "SulphurAI/Sulphur-2-base",
@@ -18,19 +18,6 @@
           "category": "AI Model"
         },
         {
-          "title": "deepseek-ai/DeepSeek-V4-Pro",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
-          "date": "2026-05-10",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
-          "is_english": true,
-          "summary": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepseek-ai/DeepSeek-V4-Pro",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Zyphra/ZAYA1-8B",
           "link": "https://huggingface.co/Zyphra/ZAYA1-8B",
           "date": "2026-05-10",
@@ -40,6 +27,19 @@
           "is_english": true,
           "summary": "• ZAYA1-8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Zyphra/ZAYA1-8B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Pro",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+          "date": "2026-05-10",
+          "source": "HuggingFace",
+          "description": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
+          "is_english": true,
+          "summary": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepseek-ai/DeepSeek-V4-Pro",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -148,15 +148,15 @@
           "category": "AI Model"
         },
         {
-          "title": "deepseek-ai/DeepSeek-V4-Flash",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
+          "title": "HiDream-ai/HiDream-O1-Image",
+          "link": "https://huggingface.co/HiDream-ai/HiDream-O1-Image",
           "date": "2026-05-10",
           "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
+          "description": "• HiDream-O1-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/HiDream-ai/HiDream-O1-Image/resolve/main/assets/leaderboard.png",
           "is_english": true,
-          "summary": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepseek-ai/DeepSeek-V4-Flash",
+          "summary": "• HiDream-O1-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HiDream-ai/HiDream-O1-Image",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -187,28 +187,15 @@
           "category": "AI Model"
         },
         {
-          "title": "sensenova/SenseNova-U1-8B-MoT",
-          "link": "https://huggingface.co/sensenova/SenseNova-U1-8B-MoT",
+          "title": "deepseek-ai/DeepSeek-V4-Flash",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
           "date": "2026-05-10",
           "source": "HuggingFace",
-          "description": "• SenseNova-U1-8B-MoT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/arXiv-Coming-b31b1b.svg",
+          "description": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
           "is_english": true,
-          "summary": "• SenseNova-U1-8B-MoT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "sensenova/SenseNova-U1-8B-MoT",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "HiDream-ai/HiDream-O1-Image",
-          "link": "https://huggingface.co/HiDream-ai/HiDream-O1-Image",
-          "date": "2026-05-10",
-          "source": "HuggingFace",
-          "description": "• HiDream-O1-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/HiDream-ai/HiDream-O1-Image/resolve/main/assets/leaderboard.png",
-          "is_english": true,
-          "summary": "• HiDream-O1-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HiDream-ai/HiDream-O1-Image",
+          "summary": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepseek-ai/DeepSeek-V4-Flash",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -226,6 +213,19 @@
           "category": "AI Model"
         },
         {
+          "title": "sensenova/SenseNova-U1-8B-MoT",
+          "link": "https://huggingface.co/sensenova/SenseNova-U1-8B-MoT",
+          "date": "2026-05-10",
+          "source": "HuggingFace",
+          "description": "• SenseNova-U1-8B-MoT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/arXiv-Coming-b31b1b.svg",
+          "is_english": true,
+          "summary": "• SenseNova-U1-8B-MoT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "sensenova/SenseNova-U1-8B-MoT",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "unsloth/Qwen3.6-27B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.6-27B-GGUF",
           "date": "2026-05-10",
@@ -239,19 +239,6 @@
           "category": "AI Model"
         },
         {
-          "title": "AngelSlim/Hy-MT1.5-1.8B-1.25bit",
-          "link": "https://huggingface.co/AngelSlim/Hy-MT1.5-1.8B-1.25bit",
-          "date": "2026-05-10",
-          "source": "HuggingFace",
-          "description": "• Hy-MT1.5-1.8B-1.25bit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/Tencent/AngelSlim/blob/main/docs/source/assets/logos/angelslim_logo.png?raw=true",
-          "is_english": true,
-          "summary": "• Hy-MT1.5-1.8B-1.25bit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "AngelSlim/Hy-MT1.5-1.8B-1.25bit",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "froggeric/Qwen-Fixed-Chat-Templates",
           "link": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
           "date": "2026-05-10",
@@ -261,6 +248,19 @@
           "is_english": true,
           "summary": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "froggeric/Qwen-Fixed-Chat-Templates",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "AngelSlim/Hy-MT1.5-1.8B-1.25bit",
+          "link": "https://huggingface.co/AngelSlim/Hy-MT1.5-1.8B-1.25bit",
+          "date": "2026-05-10",
+          "source": "HuggingFace",
+          "description": "• Hy-MT1.5-1.8B-1.25bit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/Tencent/AngelSlim/blob/main/docs/source/assets/logos/angelslim_logo.png?raw=true",
+          "is_english": true,
+          "summary": "• Hy-MT1.5-1.8B-1.25bit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "AngelSlim/Hy-MT1.5-1.8B-1.25bit",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
