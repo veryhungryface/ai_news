@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-05-09",
-      "update_time": "2026-05-09 05:39:52",
+      "update_time": "2026-05-09 07:42:00",
       "news": [
         {
           "title": "AI로 증거 찾아낸 검사…대검 형사부 1호 '특별성과 포상'",
@@ -280,32 +280,6 @@
           "category": "AI Model"
         },
         {
-          "title": "sensenova/SenseNova-U1-8B-MoT",
-          "link": "https://huggingface.co/sensenova/SenseNova-U1-8B-MoT",
-          "date": "2026-05-09",
-          "source": "HuggingFace",
-          "description": "• SenseNova-U1-8B-MoT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/arXiv-Coming-b31b1b.svg",
-          "is_english": true,
-          "summary": "• SenseNova-U1-8B-MoT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "sensenova/SenseNova-U1-8B-MoT",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "google/gemma-4-31B-it",
-          "link": "https://huggingface.co/google/gemma-4-31B-it",
-          "date": "2026-05-09",
-          "source": "HuggingFace",
-          "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
-          "is_english": true,
-          "summary": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/gemma-4-31B-it",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "deepseek-ai/DeepSeek-V4-Flash",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
           "date": "2026-05-09",
@@ -319,6 +293,19 @@
           "category": "AI Model"
         },
         {
+          "title": "sensenova/SenseNova-U1-8B-MoT",
+          "link": "https://huggingface.co/sensenova/SenseNova-U1-8B-MoT",
+          "date": "2026-05-09",
+          "source": "HuggingFace",
+          "description": "• SenseNova-U1-8B-MoT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/arXiv-Coming-b31b1b.svg",
+          "is_english": true,
+          "summary": "• SenseNova-U1-8B-MoT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "sensenova/SenseNova-U1-8B-MoT",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "google/gemma-4-26B-A4B-it-assistant",
           "link": "https://huggingface.co/google/gemma-4-26B-A4B-it-assistant",
           "date": "2026-05-09",
@@ -328,6 +315,19 @@
           "is_english": true,
           "summary": "• gemma-4-26B-A4B-it-assistant 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "google/gemma-4-26B-A4B-it-assistant",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "google/gemma-4-31B-it",
+          "link": "https://huggingface.co/google/gemma-4-31B-it",
+          "date": "2026-05-09",
+          "source": "HuggingFace",
+          "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "is_english": true,
+          "summary": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/gemma-4-31B-it",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
