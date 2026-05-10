@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-05-11",
-      "update_time": "2026-05-10 18:45:18",
+      "update_time": "2026-05-10 21:38:45",
       "news": [
+        {
+          "title": "교육부, AI·DX 선도할 전문대 사업단 24개 선정",
+          "link": "https://www.yna.co.kr/view/AKR20260508151400530",
+          "date": "2026-05-11",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 노재현 기자 = 교육부와 한국연구재단은 11일 &apos;2026학년도 에이아이디(AID·AI+Digital) 전환 중점 전문대학 지원...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/05/08/AKR20260508151400530_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "교육부, AI·DX 선도할 전문대 사업단 24개 선정",
+          "original_summary": "(서울=연합뉴스) 노재현 기자 = 교육부와 한국연구재단은 11일 &apos;2026학년도 에이아이디(AID·AI+Digital) 전환 중점 전문대학 지원...",
+          "summary": "(서울=연합뉴스) 노재현 기자 = 교육부와 한국연구재단은 11일 &apos;2026학년도 에이아이디(AID·AI+Digital) 전환 중점 전문대학 지원..."
+        },
+        {
+          "title": "서울시, 경단녀 1천800명에 구직지원금…AI 교육·인턴십 연계",
+          "link": "https://www.yna.co.kr/view/AKR20260510032700004",
+          "date": "2026-05-11",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 김동규 기자 = 서울시는 경력 보유 여성의 재취업을 돕는 &apos;서울커리업 프로젝트&apos;의 구직지원금 2차 지원 대상 1천800명을 오...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/05/10/AKR20260510032700004_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "서울시, 경단녀 1천800명에 구직지원금…AI 교육·인턴십 연계",
+          "original_summary": "(서울=연합뉴스) 김동규 기자 = 서울시는 경력 보유 여성의 재취업을 돕는 &apos;서울커리업 프로젝트&apos;의 구직지원금 2차 지원 대상 1천800명을 오...",
+          "summary": "(서울=연합뉴스) 김동규 기자 = 서울시는 경력 보유 여성의 재취업을 돕는 &apos;서울커리업 프로젝트&apos;의 구직지원금 2차 지원 대상 1천800명을 오..."
+        },
         {
           "title": "SulphurAI/Sulphur-2-base",
           "link": "https://huggingface.co/SulphurAI/Sulphur-2-base",
@@ -57,19 +81,6 @@
           "category": "AI Model"
         },
         {
-          "title": "SeeSee21/Z-Anime",
-          "link": "https://huggingface.co/SeeSee21/Z-Anime",
-          "date": "2026-05-11",
-          "source": "HuggingFace",
-          "description": "• Z-Anime 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/SeeSee21/Z-Anime/resolve/main/images/cover.png",
-          "is_english": true,
-          "summary": "• Z-Anime 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "SeeSee21/Z-Anime",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "HiDream-ai/HiDream-O1-Image",
           "link": "https://huggingface.co/HiDream-ai/HiDream-O1-Image",
           "date": "2026-05-11",
@@ -79,6 +90,19 @@
           "is_english": true,
           "summary": "• HiDream-O1-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "HiDream-ai/HiDream-O1-Image",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "SeeSee21/Z-Anime",
+          "link": "https://huggingface.co/SeeSee21/Z-Anime",
+          "date": "2026-05-11",
+          "source": "HuggingFace",
+          "description": "• Z-Anime 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/SeeSee21/Z-Anime/resolve/main/images/cover.png",
+          "is_english": true,
+          "summary": "• Z-Anime 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "SeeSee21/Z-Anime",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -148,19 +172,6 @@
           "category": "AI Model"
         },
         {
-          "title": "deepseek-ai/DeepSeek-V4-Flash",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
-          "date": "2026-05-11",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
-          "is_english": true,
-          "summary": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepseek-ai/DeepSeek-V4-Flash",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Jackrong/Qwopus3.6-35B-A3B-v1-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwopus3.6-35B-A3B-v1-GGUF",
           "date": "2026-05-11",
@@ -170,6 +181,19 @@
           "is_english": true,
           "summary": "• Qwopus3.6-35B-A3B-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Jackrong/Qwopus3.6-35B-A3B-v1-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
+          "date": "2026-05-11",
+          "source": "HuggingFace",
+          "description": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
+          "is_english": true,
+          "summary": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepseek-ai/DeepSeek-V4-Flash",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,19 +263,6 @@
           "category": "AI Model"
         },
         {
-          "title": "mistralai/Mistral-Medium-3.5-128B",
-          "link": "https://huggingface.co/mistralai/Mistral-Medium-3.5-128B",
-          "date": "2026-05-11",
-          "source": "HuggingFace",
-          "description": "• Mistral-Medium-3.5-128B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Mistral-Medium-3.5-128B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "mistralai/Mistral-Medium-3.5-128B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Qwen3.6-27B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.6-27B-GGUF",
           "date": "2026-05-11",
@@ -263,13 +274,50 @@
           "translated_title": "unsloth/Qwen3.6-27B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "mistralai/Mistral-Medium-3.5-128B",
+          "link": "https://huggingface.co/mistralai/Mistral-Medium-3.5-128B",
+          "date": "2026-05-11",
+          "source": "HuggingFace",
+          "description": "• Mistral-Medium-3.5-128B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Mistral-Medium-3.5-128B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "mistralai/Mistral-Medium-3.5-128B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-05-10",
-      "update_time": "2026-05-10 15:42:50",
+      "update_time": "2026-05-10 21:38:45",
       "news": [
+        {
+          "title": "Get ready for the whisper-filled office of the future",
+          "link": "https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/",
+          "date": "2026-05-10",
+          "source": "TechCrunch",
+          "description": "How will work setups change if we spend more and more time talking to our computers?",
+          "image": "https://techcrunch.com/wp-content/uploads/2022/12/GettyImages-84164497.jpg?resize=1200,798",
+          "is_english": true,
+          "original_title": "Get ready for the whisper-filled office of the future",
+          "original_summary": "How will work setups change if we spend more and more time talking to our computers?",
+          "summary": "How will work setups change if we spend more and more time talking to our computers?"
+        },
+        {
+          "title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
+          "link": "https://techcrunch.com/2026/05/10/anthropic-says-evil-portrayals-of-ai-were-responsible-for-claudes-blackmail-attempts/",
+          "date": "2026-05-10",
+          "source": "TechCrunch",
+          "description": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Anthropic says ‘evil’ portrayals of AI were responsible for Claude’s blackmail attempts",
+          "original_summary": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic.",
+          "summary": "Fictional portrayals of artificial intelligence can have a real effect on AI models, according to Anthropic."
+        },
         {
           "title": "브록먼 \"에이전트 코딩 비중 80%...이제는 비개발자까지 확산\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=210305",
