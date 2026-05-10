@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-05-10",
-      "update_time": "2026-05-10 05:55:20",
+      "update_time": "2026-05-10 07:56:20",
       "news": [
+        {
+          "title": "전 세계 9000개 대학 마비시킨 '캔버스' 해킹…기말고사 도중 \"비트코인 내놔\" 협박",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210302",
+          "date": "2026-05-10",
+          "source": "AI타임스",
+          "description": "전 세계 수천개의 교육 기관이 사용하는 학습 관리 시스템(LMS) \\'캔버스(Canvas)\\'가 대규모 사이버 공격을 받아 마비됐다. 기말고사 기간과 맞물린 이번 사태로 미국 명문대를 포함한 전 세계 대학가가 혼란에 빠졌다.9일(현지시간) 블룸버그와 워싱턴포스트 등에 따르면, 이번 공격의 배후를 자처한 해킹 그룹 \\'샤이니헌터스(ShinyHunters)\\'는 6일까지 몸값을 지불하지 않으면 도난당한 데이터를 공개하겠다고 캔버스 운영사 인스트럭처(Instructure)를 협박했다.보안 전문 플랫폼 랜섬웨어라이브는 이번 공격으로 하버드, 프린",
+          "image": "https://cdn.aitimes.com/news/photo/202605/210302_212930_3857.jpg",
+          "is_english": false,
+          "original_title": "전 세계 9000개 대학 마비시킨 '캔버스' 해킹…기말고사 도중 \"비트코인 내놔\" 협박",
+          "original_summary": "전 세계 수천개의 교육 기관이 사용하는 학습 관리 시스템(LMS) \\'캔버스(Canvas)\\'가 대규모 사이버 공격을 받아 마비됐다. 기말고사 기간과 맞물린 이번 사태로 미국 명문대를 포함한 전 세계 대학가가 혼란에 빠졌다.9일(현지시간) 블룸버그와 워싱턴포스트 등에 따르면, 이번 공격의 배후를 자처한 해킹 그룹 \\'샤이니헌터스(ShinyHunters)\\'는 6일까지 몸값을 지불하지 않으면 도난당한 데이터를 공개하겠다고 캔버스 운영사 인스트럭처(Instructure)를 협박했다.보안 전문 플랫폼 랜섬웨어라이브는 이번 공격으로 하버드",
+          "summary": "전 세계 수천개의 교육 기관이 사용하는 학습 관리 시스템(LMS) \\'캔버스(Canvas)\\'가 대규모 사이버 공격을 받아 마비됐다. 기말고사 기간과 맞물린 이번 사태로 미국 명문대를 포함한 전 세계 대학가가 혼란에 빠졌다.9일(현지시간) 블룸버그와 워싱턴포스트 등에 따르면, 이번 공격의 배후를 자처한 해킹 그룹 \\'샤이니헌터스(ShinyHunters)\\'는 6일까지 몸값을 지불하지 않으면 도난당한 데이터를 공개하겠다고 캔버스 운영사 인스트럭처(Instructure)를 협박했다.보안 전문 플랫폼 랜섬웨어라이브는 이번 공격으로 하버드"
+        },
         {
           "title": "KAIST, 리튬금속 배터리 '망가지는 순간' 포착…성능↓ 원인규명",
           "link": "https://www.yna.co.kr/view/AKR20260508063100063",
@@ -177,19 +189,6 @@
           "category": "AI Model"
         },
         {
-          "title": "TenStrip/LTX2.3-10Eros",
-          "link": "https://huggingface.co/TenStrip/LTX2.3-10Eros",
-          "date": "2026-05-10",
-          "source": "HuggingFace",
-          "description": "• LTX2.3-10Eros 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• LTX2.3-10Eros 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "TenStrip/LTX2.3-10Eros",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "google/gemma-4-31B-it-assistant",
           "link": "https://huggingface.co/google/gemma-4-31B-it-assistant",
           "date": "2026-05-10",
@@ -199,6 +198,19 @@
           "is_english": true,
           "summary": "• gemma-4-31B-it-assistant 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "google/gemma-4-31B-it-assistant",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "TenStrip/LTX2.3-10Eros",
+          "link": "https://huggingface.co/TenStrip/LTX2.3-10Eros",
+          "date": "2026-05-10",
+          "source": "HuggingFace",
+          "description": "• LTX2.3-10Eros 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• LTX2.3-10Eros 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "TenStrip/LTX2.3-10Eros",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -255,19 +267,6 @@
           "category": "AI Model"
         },
         {
-          "title": "XiaomiMiMo/MiMo-V2.5-Pro",
-          "link": "https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro",
-          "date": "2026-05-10",
-          "source": "HuggingFace",
-          "description": "• MiMo-V2.5-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/XiaomiMiMo/MiMo/raw/main/figures/Xiaomi_MiMo.png?raw=true",
-          "is_english": true,
-          "summary": "• MiMo-V2.5-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "XiaomiMiMo/MiMo-V2.5-Pro",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "google/gemma-4-26B-A4B-it-assistant",
           "link": "https://huggingface.co/google/gemma-4-26B-A4B-it-assistant",
           "date": "2026-05-10",
@@ -277,6 +276,19 @@
           "is_english": true,
           "summary": "• gemma-4-26B-A4B-it-assistant 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "google/gemma-4-26B-A4B-it-assistant",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "XiaomiMiMo/MiMo-V2.5-Pro",
+          "link": "https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro",
+          "date": "2026-05-10",
+          "source": "HuggingFace",
+          "description": "• MiMo-V2.5-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/XiaomiMiMo/MiMo/raw/main/figures/Xiaomi_MiMo.png?raw=true",
+          "is_english": true,
+          "summary": "• MiMo-V2.5-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "XiaomiMiMo/MiMo-V2.5-Pro",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -320,19 +332,6 @@
           "category": "AI Model"
         },
         {
-          "title": "mistralai/Mistral-Medium-3.5-128B",
-          "link": "https://huggingface.co/mistralai/Mistral-Medium-3.5-128B",
-          "date": "2026-05-10",
-          "source": "HuggingFace",
-          "description": "• Mistral-Medium-3.5-128B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Mistral-Medium-3.5-128B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "mistralai/Mistral-Medium-3.5-128B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "sensenova/SenseNova-U1-8B-MoT",
           "link": "https://huggingface.co/sensenova/SenseNova-U1-8B-MoT",
           "date": "2026-05-10",
@@ -342,6 +341,19 @@
           "is_english": true,
           "summary": "• SenseNova-U1-8B-MoT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "sensenova/SenseNova-U1-8B-MoT",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "mistralai/Mistral-Medium-3.5-128B",
+          "link": "https://huggingface.co/mistralai/Mistral-Medium-3.5-128B",
+          "date": "2026-05-10",
+          "source": "HuggingFace",
+          "description": "• Mistral-Medium-3.5-128B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Mistral-Medium-3.5-128B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "mistralai/Mistral-Medium-3.5-128B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
