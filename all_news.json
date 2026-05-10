@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-05-10",
-      "update_time": "2026-05-10 10:05:38",
+      "update_time": "2026-05-10 12:54:19",
       "news": [
+        {
+          "title": "앤트로픽이 '클로드'의 협박을 막기 위해 사용한 방법은",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210303",
+          "date": "2026-05-10",
+          "source": "AI타임스",
+          "description": "앤트로픽이 지난해 실험에서 드러난 AI 모델의 \\'협박\\' 현상을 완전히 제거했다고 밝혔다. 그리고 협박이 일어난 이유와 제거 방법을 소개했다.앤트로픽은 9일(현지시간) \\'클로드에게 이유를 가르치기(Teaching Claude why)\\'라는 정렬 연구 결과를 공개했다. 이는 지난해 6월 발표한 \\'에이전트 정렬 불일치(agentic misalignment)\\'의 후속 연구 결과다.당시에는 서밋 브리지라는 가상의 회사가 AI 폐쇄 계획을 세운 상태에서 AI에게 회사 이메일 시스템 제어권을 넘겨주는 실험이었다. AI는 가상의 임원인 카일 존슨",
+          "image": "https://cdn.aitimes.com/news/photo/202605/210303_212931_4523.png",
+          "is_english": false,
+          "original_title": "앤트로픽이 '클로드'의 협박을 막기 위해 사용한 방법은",
+          "original_summary": "앤트로픽이 지난해 실험에서 드러난 AI 모델의 \\'협박\\' 현상을 완전히 제거했다고 밝혔다. 그리고 협박이 일어난 이유와 제거 방법을 소개했다.앤트로픽은 9일(현지시간) \\'클로드에게 이유를 가르치기(Teaching Claude why)\\'라는 정렬 연구 결과를 공개했다. 이는 지난해 6월 발표한 \\'에이전트 정렬 불일치(agentic misalignment)\\'의 후속 연구 결과다.당시에는 서밋 브리지라는 가상의 회사가 AI 폐쇄 계획을 세운 상태에서 AI에게 회사 이메일 시스템 제어권을 넘겨주는 실험이었다. AI는 가상의 임원인",
+          "summary": "앤트로픽이 지난해 실험에서 드러난 AI 모델의 \\'협박\\' 현상을 완전히 제거했다고 밝혔다. 그리고 협박이 일어난 이유와 제거 방법을 소개했다.앤트로픽은 9일(현지시간) \\'클로드에게 이유를 가르치기(Teaching Claude why)\\'라는 정렬 연구 결과를 공개했다. 이는 지난해 6월 발표한 \\'에이전트 정렬 불일치(agentic misalignment)\\'의 후속 연구 결과다.당시에는 서밋 브리지라는 가상의 회사가 AI 폐쇄 계획을 세운 상태에서 AI에게 회사 이메일 시스템 제어권을 넘겨주는 실험이었다. AI는 가상의 임원인"
+        },
         {
           "title": "비즈크러시 \"음성 인식 AI로 실리콘 밸리 공략...미팅 데이터 자산화 시대 열 것\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=210077",
@@ -212,19 +224,6 @@
           "category": "AI Model"
         },
         {
-          "title": "SeeSee21/Z-Anime",
-          "link": "https://huggingface.co/SeeSee21/Z-Anime",
-          "date": "2026-05-10",
-          "source": "HuggingFace",
-          "description": "• Z-Anime 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/SeeSee21/Z-Anime/resolve/main/images/cover.png",
-          "is_english": true,
-          "summary": "• Z-Anime 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "SeeSee21/Z-Anime",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "google/gemma-4-31B-it-assistant",
           "link": "https://huggingface.co/google/gemma-4-31B-it-assistant",
           "date": "2026-05-10",
@@ -234,6 +233,19 @@
           "is_english": true,
           "summary": "• gemma-4-31B-it-assistant 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "google/gemma-4-31B-it-assistant",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "SeeSee21/Z-Anime",
+          "link": "https://huggingface.co/SeeSee21/Z-Anime",
+          "date": "2026-05-10",
+          "source": "HuggingFace",
+          "description": "• Z-Anime 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/SeeSee21/Z-Anime/resolve/main/images/cover.png",
+          "is_english": true,
+          "summary": "• Z-Anime 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "SeeSee21/Z-Anime",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -303,19 +315,6 @@
           "category": "AI Model"
         },
         {
-          "title": "XiaomiMiMo/MiMo-V2.5-Pro",
-          "link": "https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro",
-          "date": "2026-05-10",
-          "source": "HuggingFace",
-          "description": "• MiMo-V2.5-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/XiaomiMiMo/MiMo/raw/main/figures/Xiaomi_MiMo.png?raw=true",
-          "is_english": true,
-          "summary": "• MiMo-V2.5-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "XiaomiMiMo/MiMo-V2.5-Pro",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "google/gemma-4-26B-A4B-it-assistant",
           "link": "https://huggingface.co/google/gemma-4-26B-A4B-it-assistant",
           "date": "2026-05-10",
@@ -329,19 +328,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Jackrong/Qwopus3.6-35B-A3B-v1-GGUF",
-          "link": "https://huggingface.co/Jackrong/Qwopus3.6-35B-A3B-v1-GGUF",
-          "date": "2026-05-10",
-          "source": "HuggingFace",
-          "description": "• Qwopus3.6-35B-A3B-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/ztbyGV_zGhzcLuTCSVyq3.png",
-          "is_english": true,
-          "summary": "• Qwopus3.6-35B-A3B-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jackrong/Qwopus3.6-35B-A3B-v1-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "deepseek-ai/DeepSeek-V4-Flash",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
           "date": "2026-05-10",
@@ -351,6 +337,32 @@
           "is_english": true,
           "summary": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "deepseek-ai/DeepSeek-V4-Flash",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "XiaomiMiMo/MiMo-V2.5-Pro",
+          "link": "https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro",
+          "date": "2026-05-10",
+          "source": "HuggingFace",
+          "description": "• MiMo-V2.5-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/XiaomiMiMo/MiMo/raw/main/figures/Xiaomi_MiMo.png?raw=true",
+          "is_english": true,
+          "summary": "• MiMo-V2.5-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "XiaomiMiMo/MiMo-V2.5-Pro",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Jackrong/Qwopus3.6-35B-A3B-v1-GGUF",
+          "link": "https://huggingface.co/Jackrong/Qwopus3.6-35B-A3B-v1-GGUF",
+          "date": "2026-05-10",
+          "source": "HuggingFace",
+          "description": "• Qwopus3.6-35B-A3B-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/ztbyGV_zGhzcLuTCSVyq3.png",
+          "is_english": true,
+          "summary": "• Qwopus3.6-35B-A3B-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jackrong/Qwopus3.6-35B-A3B-v1-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -420,15 +432,15 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.6-35B-A3B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-GGUF",
+          "title": "unsloth/Qwen3.6-27B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.6-27B-GGUF",
           "date": "2026-05-10",
           "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "description": "• Qwen3.6-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
           "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Qwen3.6-35B-A3B-GGUF",
+          "summary": "• Qwen3.6-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Qwen3.6-27B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
