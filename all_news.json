@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-05-12",
-      "update_time": "2026-05-11 17:18:41",
+      "update_time": "2026-05-11 19:27:02",
       "news": [
         {
           "title": "SulphurAI/Sulphur-2-base",
@@ -187,15 +187,15 @@
           "category": "AI Model"
         },
         {
-          "title": "sensenova/SenseNova-U1-8B-MoT",
-          "link": "https://huggingface.co/sensenova/SenseNova-U1-8B-MoT",
+          "title": "Supertone/supertonic-3",
+          "link": "https://huggingface.co/Supertone/supertonic-3",
           "date": "2026-05-12",
           "source": "HuggingFace",
-          "description": "• SenseNova-U1-8B-MoT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/arXiv-Coming-b31b1b.svg",
+          "description": "• supertonic-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/Supertone/supertonic-3/resolve/main/img/Supertonic3_HeroImage.png",
           "is_english": true,
-          "summary": "• SenseNova-U1-8B-MoT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "sensenova/SenseNova-U1-8B-MoT",
+          "summary": "• supertonic-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Supertone/supertonic-3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -213,6 +213,32 @@
           "category": "AI Model"
         },
         {
+          "title": "openbmb/MiniCPM-V-4.6",
+          "link": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
+          "date": "2026-05-12",
+          "source": "HuggingFace",
+          "description": "• MiniCPM-V-4.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://raw.githubusercontent.com/openbmb/MiniCPM-V/main/assets/minicpmv4.6/instruct.png",
+          "is_english": true,
+          "summary": "• MiniCPM-V-4.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "openbmb/MiniCPM-V-4.6",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "sensenova/SenseNova-U1-8B-MoT",
+          "link": "https://huggingface.co/sensenova/SenseNova-U1-8B-MoT",
+          "date": "2026-05-12",
+          "source": "HuggingFace",
+          "description": "• SenseNova-U1-8B-MoT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/arXiv-Coming-b31b1b.svg",
+          "is_english": true,
+          "summary": "• SenseNova-U1-8B-MoT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "sensenova/SenseNova-U1-8B-MoT",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "k2-fsa/OmniVoice",
           "link": "https://huggingface.co/k2-fsa/OmniVoice",
           "date": "2026-05-12",
@@ -226,19 +252,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Supertone/supertonic-3",
-          "link": "https://huggingface.co/Supertone/supertonic-3",
-          "date": "2026-05-12",
-          "source": "HuggingFace",
-          "description": "• supertonic-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/Supertone/supertonic-3/resolve/main/img/Supertonic3_HeroImage.png",
-          "is_english": true,
-          "summary": "• supertonic-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Supertone/supertonic-3",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "HiDream-ai/HiDream-O1-Image-Dev",
           "link": "https://huggingface.co/HiDream-ai/HiDream-O1-Image-Dev",
           "date": "2026-05-12",
@@ -248,19 +261,6 @@
           "is_english": true,
           "summary": "• HiDream-O1-Image-Dev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "HiDream-ai/HiDream-O1-Image-Dev",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "AngelSlim/Hy-MT1.5-1.8B-1.25bit",
-          "link": "https://huggingface.co/AngelSlim/Hy-MT1.5-1.8B-1.25bit",
-          "date": "2026-05-12",
-          "source": "HuggingFace",
-          "description": "• Hy-MT1.5-1.8B-1.25bit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/Tencent/AngelSlim/blob/main/docs/source/assets/logos/angelslim_logo.png?raw=true",
-          "is_english": true,
-          "summary": "• Hy-MT1.5-1.8B-1.25bit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "AngelSlim/Hy-MT1.5-1.8B-1.25bit",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -7285,7 +7285,7 @@
         {
           "title": "deepseek-ai/DeepSeek-V4-Pro",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
-          "date": "2026-05-03",
+          "date": "2026-05-12",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
@@ -7298,7 +7298,7 @@
         {
           "title": "openai/privacy-filter",
           "link": "https://huggingface.co/openai/privacy-filter",
-          "date": "2026-05-03",
+          "date": "2026-05-12",
           "source": "HuggingFace",
           "description": "• privacy-filter 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -7337,7 +7337,7 @@
         {
           "title": "Qwen/Qwen3.6-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.6-27B",
-          "date": "2026-05-03",
+          "date": "2026-05-12",
           "source": "HuggingFace",
           "description": "• Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -7363,7 +7363,7 @@
         {
           "title": "deepseek-ai/DeepSeek-V4-Flash",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
-          "date": "2026-05-03",
+          "date": "2026-05-12",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
@@ -7428,7 +7428,7 @@
         {
           "title": "Qwen/Qwen3.6-35B-A3B",
           "link": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
-          "date": "2026-05-03",
+          "date": "2026-05-12",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -7441,7 +7441,7 @@
         {
           "title": "sensenova/SenseNova-U1-8B-MoT",
           "link": "https://huggingface.co/sensenova/SenseNova-U1-8B-MoT",
-          "date": "2026-05-03",
+          "date": "2026-05-12",
           "source": "HuggingFace",
           "description": "• SenseNova-U1-8B-MoT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/arXiv-Coming-b31b1b.svg",
@@ -7519,7 +7519,7 @@
         {
           "title": "google/gemma-4-31B-it",
           "link": "https://huggingface.co/google/gemma-4-31B-it",
-          "date": "2026-05-03",
+          "date": "2026-05-12",
           "source": "HuggingFace",
           "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
