@@ -2,8 +2,44 @@
   "dates": [
     {
       "date": "2026-05-11",
-      "update_time": "2026-05-11 11:58:06",
+      "update_time": "2026-05-11 14:36:28",
       "news": [
+        {
+          "title": "OpenAI launches DeployCo to help businesses build around intelligence",
+          "link": "https://openai.com/index/openai-launches-the-deployment-company",
+          "date": "2026-05-11",
+          "source": "OpenAI",
+          "description": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
+          "image": null,
+          "is_english": true,
+          "original_title": "OpenAI launches DeployCo to help businesses build around intelligence",
+          "original_summary": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact.",
+          "summary": "OpenAI launches DeployCo, a new enterprise deployment company built to help organizations bring frontier AI into production and turn it into measurable business impact."
+        },
+        {
+          "title": "There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
+          "link": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
+          "date": "2026-05-11",
+          "source": "TechCrunch",
+          "description": "Cowboy Space Corporation wants to put data centers in orbit. First, it has to build the rockets to get them there. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/Cowbow-Space-Company-photo.jpeg?resize=1200,960",
+          "is_english": true,
+          "original_title": "There aren’t enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
+          "original_summary": "Cowboy Space Corporation wants to put data centers in orbit. First, it has to build the rockets to get them there. ",
+          "summary": "Cowboy Space Corporation wants to put data centers in orbit. First, it has to build the rockets to get them there. "
+        },
+        {
+          "title": "Nvidia in $2.1B Deal With Data Center Provider IREN",
+          "link": "https://aibusiness.com/generative-ai/nvidia-2-1b-deal-with-data-center-provider-iren",
+          "date": "2026-05-11",
+          "source": "AI Business",
+          "description": "The partnership is among a startling wave of multi-billion-dollar AI compute arrangements between tech giants and neocloud vendors.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt94fa10445a2994fe/6a01c72273396984fd14d35d/Nvidia_logo.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Nvidia in $2.1B Deal With Data Center Provider IREN",
+          "original_summary": "The partnership is among a startling wave of multi-billion-dollar AI compute arrangements between tech giants and neocloud vendors.",
+          "summary": "The partnership is among a startling wave of multi-billion-dollar AI compute arrangements between tech giants and neocloud vendors."
+        },
         {
           "title": "미소스, METR 자율성 평가서 '16시간' 기록...\"측정 한계 돌파\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=210315",
@@ -485,19 +521,6 @@
           "summary": "(서울=연합뉴스) 김동규 기자 = 서울시는 경력 보유 여성의 재취업을 돕는 &apos;서울커리업 프로젝트&apos;의 구직지원금 2차 지원 대상 1천800명을 오..."
         },
         {
-          "title": "SulphurAI/Sulphur-2-base",
-          "link": "https://huggingface.co/SulphurAI/Sulphur-2-base",
-          "date": "2026-05-11",
-          "source": "HuggingFace",
-          "description": "• Sulphur-2-base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Sulphur-2-base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "SulphurAI/Sulphur-2-base",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Zyphra/ZAYA1-8B",
           "link": "https://huggingface.co/Zyphra/ZAYA1-8B",
           "date": "2026-05-11",
@@ -507,6 +530,19 @@
           "is_english": true,
           "summary": "• ZAYA1-8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Zyphra/ZAYA1-8B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "SulphurAI/Sulphur-2-base",
+          "link": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+          "date": "2026-05-11",
+          "source": "HuggingFace",
+          "description": "• Sulphur-2-base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Sulphur-2-base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "SulphurAI/Sulphur-2-base",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -667,6 +703,19 @@
           "category": "AI Model"
         },
         {
+          "title": "froggeric/Qwen-Fixed-Chat-Templates",
+          "link": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
+          "date": "2026-05-11",
+          "source": "HuggingFace",
+          "description": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "froggeric/Qwen-Fixed-Chat-Templates",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "sensenova/SenseNova-U1-8B-MoT",
           "link": "https://huggingface.co/sensenova/SenseNova-U1-8B-MoT",
           "date": "2026-05-11",
@@ -680,15 +729,15 @@
           "category": "AI Model"
         },
         {
-          "title": "froggeric/Qwen-Fixed-Chat-Templates",
-          "link": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
+          "title": "Supertone/supertonic-3",
+          "link": "https://huggingface.co/Supertone/supertonic-3",
           "date": "2026-05-11",
           "source": "HuggingFace",
-          "description": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "description": "• supertonic-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/Supertone/supertonic-3/resolve/main/img/Supertonic3_HeroImage.png",
           "is_english": true,
-          "summary": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "froggeric/Qwen-Fixed-Chat-Templates",
+          "summary": "• supertonic-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Supertone/supertonic-3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -715,19 +764,6 @@
           "is_english": true,
           "summary": "• Hy-MT1.5-1.8B-1.25bit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "AngelSlim/Hy-MT1.5-1.8B-1.25bit",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "XiaomiMiMo/MiMo-V2.5-Pro",
-          "link": "https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro",
-          "date": "2026-05-11",
-          "source": "HuggingFace",
-          "description": "• MiMo-V2.5-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/XiaomiMiMo/MiMo/raw/main/figures/Xiaomi_MiMo.png?raw=true",
-          "is_english": true,
-          "summary": "• MiMo-V2.5-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "XiaomiMiMo/MiMo-V2.5-Pro",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
