@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-05-12",
-      "update_time": "2026-05-11 19:27:02",
+      "update_time": "2026-05-11 21:57:45",
       "news": [
+        {
+          "title": "[게시판] 서울교육청, 방과 후·돌봄 강사 8천명 온라인 연수",
+          "link": "https://www.yna.co.kr/view/AKR20260511137000530",
+          "date": "2026-05-12",
+          "source": "연합뉴스",
+          "description": "▲ 서울시교육청은 방과 후·돌봄 강사 8천여 명을 대상으로 11월까지 온라인 연수를 운영한다고 12일 밝혔다. 교육 중립성, 인공지능(AI) 활...",
+          "image": "https://img.yna.co.kr/photo/cms/2026/04/01/84/PCM20260401000084990_P2.jpg",
+          "is_english": false,
+          "original_title": "[게시판] 서울교육청, 방과 후·돌봄 강사 8천명 온라인 연수",
+          "original_summary": "▲ 서울시교육청은 방과 후·돌봄 강사 8천여 명을 대상으로 11월까지 온라인 연수를 운영한다고 12일 밝혔다. 교육 중립성, 인공지능(AI) 활...",
+          "summary": "▲ 서울시교육청은 방과 후·돌봄 강사 8천여 명을 대상으로 11월까지 온라인 연수를 운영한다고 12일 밝혔다. 교육 중립성, 인공지능(AI) 활..."
+        },
+        {
+          "title": "OpenAI Launches AI Consulting Company, Following Anthropic",
+          "link": "https://aibusiness.com/generative-ai/openai-launches-ai-consulting-company-anthropic",
+          "date": "2026-05-12",
+          "source": "AI Business",
+          "description": "The offshoot enables the vendor to address the challenges enterprises face when deploying AI technology.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt3e21d962ce3ce6a6/6a0246ed751e95096d8c06bb/OpenAI_logo.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "OpenAI Launches AI Consulting Company, Following Anthropic",
+          "original_summary": "The offshoot enables the vendor to address the challenges enterprises face when deploying AI technology.",
+          "summary": "The offshoot enables the vendor to address the challenges enterprises face when deploying AI technology."
+        },
         {
           "title": "SulphurAI/Sulphur-2-base",
           "link": "https://huggingface.co/SulphurAI/Sulphur-2-base",
@@ -92,6 +116,19 @@
           "is_english": true,
           "summary": "• privacy-filter 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "openai/privacy-filter",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "openbmb/MiniCPM-V-4.6",
+          "link": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
+          "date": "2026-05-12",
+          "source": "HuggingFace",
+          "description": "• MiniCPM-V-4.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://raw.githubusercontent.com/openbmb/MiniCPM-V/main/assets/minicpmv4.6/instruct.png",
+          "is_english": true,
+          "summary": "• MiniCPM-V-4.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "openbmb/MiniCPM-V-4.6",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -200,32 +237,6 @@
           "category": "AI Model"
         },
         {
-          "title": "google/gemma-4-31B-it",
-          "link": "https://huggingface.co/google/gemma-4-31B-it",
-          "date": "2026-05-12",
-          "source": "HuggingFace",
-          "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
-          "is_english": true,
-          "summary": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/gemma-4-31B-it",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "openbmb/MiniCPM-V-4.6",
-          "link": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
-          "date": "2026-05-12",
-          "source": "HuggingFace",
-          "description": "• MiniCPM-V-4.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/openbmb/MiniCPM-V/main/assets/minicpmv4.6/instruct.png",
-          "is_english": true,
-          "summary": "• MiniCPM-V-4.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "openbmb/MiniCPM-V-4.6",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "sensenova/SenseNova-U1-8B-MoT",
           "link": "https://huggingface.co/sensenova/SenseNova-U1-8B-MoT",
           "date": "2026-05-12",
@@ -235,6 +246,19 @@
           "is_english": true,
           "summary": "• SenseNova-U1-8B-MoT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "sensenova/SenseNova-U1-8B-MoT",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "google/gemma-4-31B-it",
+          "link": "https://huggingface.co/google/gemma-4-31B-it",
+          "date": "2026-05-12",
+          "source": "HuggingFace",
+          "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "is_english": true,
+          "summary": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/gemma-4-31B-it",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
