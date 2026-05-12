@@ -2,8 +2,56 @@
   "dates": [
     {
       "date": "2026-05-12",
-      "update_time": "2026-05-12 11:12:42",
+      "update_time": "2026-05-12 13:53:52",
       "news": [
+        {
+          "title": "HD현대중 노조, 올해 교섭안 확정…AI 대응 요구안도 마련",
+          "link": "https://www.yna.co.kr/view/AKR20260512181100057",
+          "date": "2026-05-12",
+          "source": "연합뉴스",
+          "description": "(울산=연합뉴스) 김근주 기자 = HD현대중공업 노동조합은 월 기본급 14만9천600원(호봉승급분 제외) 인상을 포함한 올해 임금 및 단체협약 ...",
+          "image": "https://img.yna.co.kr/photo/cms/2024/06/05/25/PCM20240605000025990_P2.jpg",
+          "is_english": false,
+          "original_title": "HD현대중 노조, 올해 교섭안 확정…AI 대응 요구안도 마련",
+          "original_summary": "(울산=연합뉴스) 김근주 기자 = HD현대중공업 노동조합은 월 기본급 14만9천600원(호봉승급분 제외) 인상을 포함한 올해 임금 및 단체협약 ...",
+          "summary": "(울산=연합뉴스) 김근주 기자 = HD현대중공업 노동조합은 월 기본급 14만9천600원(호봉승급분 제외) 인상을 포함한 올해 임금 및 단체협약 ..."
+        },
+        {
+          "title": "Dessn raises $6M for its production focused design tool",
+          "link": "https://techcrunch.com/2026/05/12/dessn-raises-6m-for-its-production-focused-design-tool/",
+          "date": "2026-05-12",
+          "source": "TechCrunch",
+          "description": "A new startup called Dessn has raised $6M to build AI-powered design tools that work directly with production codebases. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-01-at-6.45.13-PM.jpeg?resize=1200,560",
+          "is_english": true,
+          "original_title": "Dessn raises $6M for its production focused design tool",
+          "original_summary": "A new startup called Dessn has raised $6M to build AI-powered design tools that work directly with production codebases. ",
+          "summary": "A new startup called Dessn has raised $6M to build AI-powered design tools that work directly with production codebases. "
+        },
+        {
+          "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
+          "link": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+          "date": "2026-05-12",
+          "source": "TechCrunch",
+          "description": "Vapi says its enterprise business has grown 10-fold since early 2025 as companies shift customer support and sales calls to AI agents.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/vapi-founders-jordan-dearsley-nikhil-gupta.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
+          "original_summary": "Vapi says its enterprise business has grown 10-fold since early 2025 as companies shift customer support and sales calls to AI agents.",
+          "summary": "Vapi says its enterprise business has grown 10-fold since early 2025 as companies shift customer support and sales calls to AI agents."
+        },
+        {
+          "title": "Nscale Gets $790M in Financing for Norway AI Buildout",
+          "link": "https://aibusiness.com/data-centers/nscale-gets-790m-financing-norway-ai-buildout",
+          "date": "2026-05-12",
+          "source": "AI Business",
+          "description": "The capital infusion marks another milestone in the rapid rise of the neocloud startup.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt7031b2a436ac5833/6a032d3bb1c3076898cdbde5/New_data_center.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Nscale Gets $790M in Financing for Norway AI Buildout",
+          "original_summary": "The capital infusion marks another milestone in the rapid rise of the neocloud startup.",
+          "summary": "The capital infusion marks another milestone in the rapid rise of the neocloud startup."
+        },
         {
           "title": "방미통위, AI 유해정보 대응 착수…민관협의회 출범",
           "link": "https://www.yna.co.kr/view/AKR20260512165200017",
@@ -768,19 +816,6 @@
           "category": "AI Model"
         },
         {
-          "title": "openai/privacy-filter",
-          "link": "https://huggingface.co/openai/privacy-filter",
-          "date": "2026-05-12",
-          "source": "HuggingFace",
-          "description": "• privacy-filter 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
-          "is_english": true,
-          "summary": "• privacy-filter 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "openai/privacy-filter",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "TenStrip/LTX2.3-10Eros",
           "link": "https://huggingface.co/TenStrip/LTX2.3-10Eros",
           "date": "2026-05-12",
@@ -790,6 +825,19 @@
           "is_english": true,
           "summary": "• LTX2.3-10Eros 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "TenStrip/LTX2.3-10Eros",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "openai/privacy-filter",
+          "link": "https://huggingface.co/openai/privacy-filter",
+          "date": "2026-05-12",
+          "source": "HuggingFace",
+          "description": "• privacy-filter 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "is_english": true,
+          "summary": "• privacy-filter 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "openai/privacy-filter",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
