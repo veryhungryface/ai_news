@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-05-13",
-      "update_time": "2026-05-12 19:27:49",
+      "update_time": "2026-05-12 22:03:05",
       "news": [
+        {
+          "title": "How finance teams use Codex",
+          "link": "https://openai.com/academy/codex-for-work/how-finance-teams-use-codex",
+          "date": "2026-05-13",
+          "source": "OpenAI",
+          "description": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
+          "image": null,
+          "is_english": true,
+          "original_title": "How finance teams use Codex",
+          "original_summary": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
+          "summary": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs."
+        },
+        {
+          "title": "OpenAI Launches Daybreak, a New Initiative to Challenge Glasswing",
+          "link": "https://aibusiness.com/cybersecurity/openai-launches-daybreak-new-initiative-challenge-glasswing",
+          "date": "2026-05-13",
+          "source": "AI Business",
+          "description": "While Daybreak is a step toward more effective AI cybersecurity, more still needs to be done in the security arena, as models often create new vulnerabilities that leave enterprises exposed.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt5e503f275ae24d63/6a0392b516cab281219308e8/OpenAI.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "OpenAI Launches Daybreak, a New Initiative to Challenge Glasswing",
+          "original_summary": "While Daybreak is a step toward more effective AI cybersecurity, more still needs to be done in the security arena, as models often create new vulnerabilities that leave enterprises exposed.",
+          "summary": "While Daybreak is a step toward more effective AI cybersecurity, more still needs to be done in the security arena, as models often create new vulnerabilities that leave enterprises exposed."
+        },
         {
           "title": "Startup That Aims to Widen Access to Compute Draws $1.3B",
           "link": "https://aibusiness.com/data-centers/startup-that-aims-widen-access-compute-draws-1-3b",
@@ -82,19 +106,6 @@
           "category": "AI Model"
         },
         {
-          "title": "google/gemma-4-31B-it-assistant",
-          "link": "https://huggingface.co/google/gemma-4-31B-it-assistant",
-          "date": "2026-05-13",
-          "source": "HuggingFace",
-          "description": "• gemma-4-31B-it-assistant 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• gemma-4-31B-it-assistant 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/gemma-4-31B-it-assistant",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "SeeSee21/Z-Anime",
           "link": "https://huggingface.co/SeeSee21/Z-Anime",
           "date": "2026-05-13",
@@ -104,6 +115,19 @@
           "is_english": true,
           "summary": "• Z-Anime 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "SeeSee21/Z-Anime",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "google/gemma-4-31B-it-assistant",
+          "link": "https://huggingface.co/google/gemma-4-31B-it-assistant",
+          "date": "2026-05-13",
+          "source": "HuggingFace",
+          "description": "• gemma-4-31B-it-assistant 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• gemma-4-31B-it-assistant 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/gemma-4-31B-it-assistant",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -147,19 +171,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Jackrong/Qwopus3.6-35B-A3B-v1-GGUF",
-          "link": "https://huggingface.co/Jackrong/Qwopus3.6-35B-A3B-v1-GGUF",
-          "date": "2026-05-13",
-          "source": "HuggingFace",
-          "description": "• Qwopus3.6-35B-A3B-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/ztbyGV_zGhzcLuTCSVyq3.png",
-          "is_english": true,
-          "summary": "• Qwopus3.6-35B-A3B-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jackrong/Qwopus3.6-35B-A3B-v1-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Supertone/supertonic-3",
           "link": "https://huggingface.co/Supertone/supertonic-3",
           "date": "2026-05-13",
@@ -169,6 +180,19 @@
           "is_english": true,
           "summary": "• supertonic-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Supertone/supertonic-3",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Jackrong/Qwopus3.6-35B-A3B-v1-GGUF",
+          "link": "https://huggingface.co/Jackrong/Qwopus3.6-35B-A3B-v1-GGUF",
+          "date": "2026-05-13",
+          "source": "HuggingFace",
+          "description": "• Qwopus3.6-35B-A3B-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/ztbyGV_zGhzcLuTCSVyq3.png",
+          "is_english": true,
+          "summary": "• Qwopus3.6-35B-A3B-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jackrong/Qwopus3.6-35B-A3B-v1-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -199,19 +223,6 @@
           "category": "AI Model"
         },
         {
-          "title": "google/gemma-4-26B-A4B-it-assistant",
-          "link": "https://huggingface.co/google/gemma-4-26B-A4B-it-assistant",
-          "date": "2026-05-13",
-          "source": "HuggingFace",
-          "description": "• gemma-4-26B-A4B-it-assistant 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• gemma-4-26B-A4B-it-assistant 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/gemma-4-26B-A4B-it-assistant",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "froggeric/Qwen-Fixed-Chat-Templates",
           "link": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
           "date": "2026-05-13",
@@ -225,15 +236,15 @@
           "category": "AI Model"
         },
         {
-          "title": "google/gemma-4-31B-it",
-          "link": "https://huggingface.co/google/gemma-4-31B-it",
+          "title": "google/gemma-4-26B-A4B-it-assistant",
+          "link": "https://huggingface.co/google/gemma-4-26B-A4B-it-assistant",
           "date": "2026-05-13",
           "source": "HuggingFace",
-          "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "description": "• gemma-4-26B-A4B-it-assistant 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/gemma-4-31B-it",
+          "summary": "• gemma-4-26B-A4B-it-assistant 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/gemma-4-26B-A4B-it-assistant",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -247,6 +258,19 @@
           "is_english": true,
           "summary": "• SenseNova-U1-8B-MoT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "sensenova/SenseNova-U1-8B-MoT",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "google/gemma-4-31B-it",
+          "link": "https://huggingface.co/google/gemma-4-31B-it",
+          "date": "2026-05-13",
+          "source": "HuggingFace",
+          "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "is_english": true,
+          "summary": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/gemma-4-31B-it",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -280,8 +304,32 @@
     },
     {
       "date": "2026-05-12",
-      "update_time": "2026-05-12 19:27:48",
+      "update_time": "2026-05-12 22:03:05",
       "news": [
+        {
+          "title": "How NVIDIA engineers and researchers build with Codex",
+          "link": "https://openai.com/index/nvidia",
+          "date": "2026-05-12",
+          "source": "OpenAI",
+          "description": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+          "image": null,
+          "is_english": true,
+          "original_title": "How NVIDIA engineers and researchers build with Codex",
+          "original_summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+          "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments."
+        },
+        {
+          "title": "AutoScout24 scales engineering with AI-powered workflows",
+          "link": "https://openai.com/index/autoscout24",
+          "date": "2026-05-12",
+          "source": "OpenAI",
+          "description": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
+          "image": null,
+          "is_english": true,
+          "original_title": "AutoScout24 scales engineering with AI-powered workflows",
+          "original_summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
+          "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption."
+        },
         {
           "title": "What Parameter Golf taught us about AI-assisted research",
           "link": "https://openai.com/index/what-parameter-golf-taught-us",
