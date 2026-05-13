@@ -2,8 +2,68 @@
   "dates": [
     {
       "date": "2026-05-13",
-      "update_time": "2026-05-13 11:26:34",
+      "update_time": "2026-05-13 14:05:17",
       "news": [
+        {
+          "title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
+          "link": "https://techcrunch.com/2026/05/13/anthropic-now-has-more-business-customers-than-openai-according-to-ramp-data/",
+          "date": "2026-05-13",
+          "source": "TechCrunch",
+          "description": "For the first time, Anthropic has more verified business customers than OpenAI, according to this month’s AI Index from the fintech firm Ramp. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/modi-openai-anthropic-2261854815.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Anthropic now has more business customers than OpenAI, according to Ramp data",
+          "original_summary": "For the first time, Anthropic has more verified business customers than OpenAI, according to this month’s AI Index from the fintech firm Ramp. ",
+          "summary": "For the first time, Anthropic has more verified business customers than OpenAI, according to this month’s AI Index from the fintech firm Ramp. "
+        },
+        {
+          "title": "Introducing the 6 stages at TechCrunch Disrupt 2026 — built for today’s tougher startup market",
+          "link": "https://techcrunch.com/2026/05/13/introducing-the-6-stages-of-techcrunch-disrupt-2026-built-for-todays-tougher-startup-market/",
+          "date": "2026-05-13",
+          "source": "TechCrunch",
+          "description": "From October 13-15, TechCrunch Disrupt 2026 will feature 200+ sessions across six stages, led by 250+ tech leaders shaping the industry today. Register now to save up to $410, plus 50% off a second pass.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/TC26_Disrupt_Stage_Article_Headers_1920x1080.png?resize=1200,675",
+          "is_english": true,
+          "original_title": "Introducing the 6 stages at TechCrunch Disrupt 2026 — built for today’s tougher startup market",
+          "original_summary": "From October 13-15, TechCrunch Disrupt 2026 will feature 200+ sessions across six stages, led by 250+ tech leaders shaping the industry today. Register now to save up to $410, plus 50% off a second pass.",
+          "summary": "From October 13-15, TechCrunch Disrupt 2026 will feature 200+ sessions across six stages, led by 250+ tech leaders shaping the industry today. Register now to save up to $410, plus 50% off a second pass."
+        },
+        {
+          "title": "Poppy debuts a proactive AI assistant to help organize your digital life",
+          "link": "https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/",
+          "date": "2026-05-13",
+          "source": "TechCrunch",
+          "description": "Poppy is an AI-powered app that connects your calendar, email, messages, and other services to surface reminders, suggestions, and tasks based on what’s happening in your life.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/poppy-header.jpeg?resize=1200,727",
+          "is_english": true,
+          "original_title": "Poppy debuts a proactive AI assistant to help organize your digital life",
+          "original_summary": "Poppy is an AI-powered app that connects your calendar, email, messages, and other services to surface reminders, suggestions, and tasks based on what’s happening in your life.",
+          "summary": "Poppy is an AI-powered app that connects your calendar, email, messages, and other services to surface reminders, suggestions, and tasks based on what’s happening in your life."
+        },
+        {
+          "title": "Adaption aims big with AutoScientist, an AI tool that helps models train themselves",
+          "link": "https://techcrunch.com/2026/05/13/adaption-aims-big-with-autoscientist-an-ai-tool-that-helps-models-train-themselves/",
+          "date": "2026-05-13",
+          "source": "TechCrunch",
+          "description": "Adaption's new AutoScientist tool is designed to let models adapt to specific capabilities quickly through an automated approach to conventional fine-tuning.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/03/Sara-Hooker_headshot.jpg?resize=900,1200",
+          "is_english": true,
+          "original_title": "Adaption aims big with AutoScientist, an AI tool that helps models train themselves",
+          "original_summary": "Adaption's new AutoScientist tool is designed to let models adapt to specific capabilities quickly through an automated approach to conventional fine-tuning.",
+          "summary": "Adaption's new AutoScientist tool is designed to let models adapt to specific capabilities quickly through an automated approach to conventional fine-tuning."
+        },
+        {
+          "title": "Bosch, Researchers Develop AI for Humanoid Dexterity",
+          "link": "https://aibusiness.com/robotics/bosch-researchers-develop-ai-humanoid-dexterity",
+          "date": "2026-05-13",
+          "source": "AI Business",
+          "description": "The teams say the new “touch dreaming” system can boost humanoid robot success rates by 90.9%.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt770d3a0ebcc5473e/6a04838568d6d90b216e75fc/Humanoidnew.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Bosch, Researchers Develop AI for Humanoid Dexterity",
+          "original_summary": "The teams say the new “touch dreaming” system can boost humanoid robot success rates by 90.9%.",
+          "summary": "The teams say the new “touch dreaming” system can boost humanoid robot success rates by 90.9%."
+        },
         {
           "title": "실리콘밸리로 간 부산 고교생들, 엔비디아 AI 자격증 도전",
           "link": "https://www.yna.co.kr/view/AKR20260513155400051",
@@ -844,19 +904,6 @@
           "category": "AI Model"
         },
         {
-          "title": "openai/privacy-filter",
-          "link": "https://huggingface.co/openai/privacy-filter",
-          "date": "2026-05-13",
-          "source": "HuggingFace",
-          "description": "• privacy-filter 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
-          "is_english": true,
-          "summary": "• privacy-filter 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "openai/privacy-filter",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "deepseek-ai/DeepSeek-V4-Flash",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
           "date": "2026-05-13",
@@ -866,6 +913,19 @@
           "is_english": true,
           "summary": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "deepseek-ai/DeepSeek-V4-Flash",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "openai/privacy-filter",
+          "link": "https://huggingface.co/openai/privacy-filter",
+          "date": "2026-05-13",
+          "source": "HuggingFace",
+          "description": "• privacy-filter 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "is_english": true,
+          "summary": "• privacy-filter 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "openai/privacy-filter",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -909,19 +969,6 @@
           "category": "AI Model"
         },
         {
-          "title": "havenoammo/Qwen3.6-27B-MTP-UD-GGUF",
-          "link": "https://huggingface.co/havenoammo/Qwen3.6-27B-MTP-UD-GGUF",
-          "date": "2026-05-13",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-27B-MTP-UD-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.6-27B-MTP-UD-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "havenoammo/Qwen3.6-27B-MTP-UD-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Qwen3.6-27B-MTP-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.6-27B-MTP-GGUF",
           "date": "2026-05-13",
@@ -957,6 +1004,19 @@
           "is_english": true,
           "summary": "• SenseNova-U1-8B-MoT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "sensenova/SenseNova-U1-8B-MoT",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "havenoammo/Qwen3.6-27B-MTP-UD-GGUF",
+          "link": "https://huggingface.co/havenoammo/Qwen3.6-27B-MTP-UD-GGUF",
+          "date": "2026-05-13",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-27B-MTP-UD-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.6-27B-MTP-UD-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "havenoammo/Qwen3.6-27B-MTP-UD-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
