@@ -20,8 +20,20 @@
     },
     {
       "date": "2026-05-14",
-      "update_time": "2026-05-13 19:30:35",
+      "update_time": "2026-05-13 22:04:27",
       "news": [
+        {
+          "title": "'메타 AI' 1년 만에 국내 출시...'뮤즈 스파크' 기반",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210484",
+          "date": "2026-05-14",
+          "source": "AI타임스",
+          "description": "\\'메타 AI(Meta AI)\\'가 국내 출시됐다. 21025년 4월 미국에서 출시된 뒤 약 1년여 만이다.메타는 13일부터 국내 이용자들이 메타 AI 앱과 웹사이트에서 메타 AI를 이용할 수 있다고 밝혔다. 앱은 구글 플레이스토어와 애플 앱스토어에서 내려받을 수 있다.메타 AI는 메타 슈퍼인텔리전스 랩스(MSL)가 개발한 첫번째 모델인 \\'뮤즈 스파크\\'를 기반으로 구동된다.빠른 답변을 제공하는 \\'인스턴트 모드\\'와 더 깊이 있는 추론을 지원하는 \\'깊이 생각하기 모드\\'를 제공한다. 이를 통해 간단한 질문에 대한 빠른 답변부터 복잡한 문제",
+          "image": "https://cdn.aitimes.com/news/photo/202605/210484_213146_5733.png",
+          "is_english": true,
+          "original_title": "'메타 AI' 1년 만에 국내 출시...'뮤즈 스파크' 기반",
+          "original_summary": "\\'메타 AI(Meta AI)\\'가 국내 출시됐다. 21025년 4월 미국에서 출시된 뒤 약 1년여 만이다.메타는 13일부터 국내 이용자들이 메타 AI 앱과 웹사이트에서 메타 AI를 이용할 수 있다고 밝혔다. 앱은 구글 플레이스토어와 애플 앱스토어에서 내려받을 수 있다.메타 AI는 메타 슈퍼인텔리전스 랩스(MSL)가 개발한 첫번째 모델인 \\'뮤즈 스파크\\'를 기반으로 구동된다.빠른 답변을 제공하는 \\'인스턴트 모드\\'와 더 깊이 있는 추론을 지원하는 \\'깊이 생각하기 모드\\'를 제공한다. 이를 통해 간단한 질문에 대한 빠른 답변부터",
+          "summary": "\\'메타 AI(Meta AI)\\'가 국내 출시됐다. 21025년 4월 미국에서 출시된 뒤 약 1년여 만이다.메타는 13일부터 국내 이용자들이 메타 AI 앱과 웹사이트에서 메타 AI를 이용할 수 있다고 밝혔다. 앱은 구글 플레이스토어와 애플 앱스토어에서 내려받을 수 있다.메타 AI는 메타 슈퍼인텔리전스 랩스(MSL)가 개발한 첫번째 모델인 \\'뮤즈 스파크\\'를 기반으로 구동된다.빠른 답변을 제공하는 \\'인스턴트 모드\\'와 더 깊이 있는 추론을 지원하는 \\'깊이 생각하기 모드\\'를 제공한다. 이를 통해 간단한 질문에 대한 빠른 답변부터"
+        },
         {
           "title": "Anthropic Further Targets Legal With New Connectors",
           "link": "https://aibusiness.com/generative-ai/anthropic-further-targets-legal-new-connectors",
@@ -178,19 +190,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Jackrong/Qwopus3.6-35B-A3B-v1-GGUF",
-          "link": "https://huggingface.co/Jackrong/Qwopus3.6-35B-A3B-v1-GGUF",
-          "date": "2026-05-14",
-          "source": "HuggingFace",
-          "description": "• Qwopus3.6-35B-A3B-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/ztbyGV_zGhzcLuTCSVyq3.png",
-          "is_english": true,
-          "summary": "• Qwopus3.6-35B-A3B-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jackrong/Qwopus3.6-35B-A3B-v1-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Qwen3.6-27B-MTP-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.6-27B-MTP-GGUF",
           "date": "2026-05-14",
@@ -217,19 +216,6 @@
           "category": "AI Model"
         },
         {
-          "title": "froggeric/Qwen-Fixed-Chat-Templates",
-          "link": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
-          "date": "2026-05-14",
-          "source": "HuggingFace",
-          "description": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "froggeric/Qwen-Fixed-Chat-Templates",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.6-35B-A3B",
           "link": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
           "date": "2026-05-14",
@@ -239,6 +225,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.6-35B-A3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "froggeric/Qwen-Fixed-Chat-Templates",
+          "link": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
+          "date": "2026-05-14",
+          "source": "HuggingFace",
+          "description": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "froggeric/Qwen-Fixed-Chat-Templates",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -282,6 +281,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Jackrong/Qwopus3.6-35B-A3B-v1-GGUF",
+          "link": "https://huggingface.co/Jackrong/Qwopus3.6-35B-A3B-v1-GGUF",
+          "date": "2026-05-14",
+          "source": "HuggingFace",
+          "description": "• Qwopus3.6-35B-A3B-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/ztbyGV_zGhzcLuTCSVyq3.png",
+          "is_english": true,
+          "summary": "• Qwopus3.6-35B-A3B-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jackrong/Qwopus3.6-35B-A3B-v1-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "sensenova/SenseNova-U1-8B-MoT",
           "link": "https://huggingface.co/sensenova/SenseNova-U1-8B-MoT",
           "date": "2026-05-14",
@@ -298,8 +310,44 @@
     },
     {
       "date": "2026-05-13",
-      "update_time": "2026-05-13 19:30:33",
+      "update_time": "2026-05-13 22:04:27",
       "news": [
+        {
+          "title": "광양경자청, 중국 안후이성 과학자 기업가 협회와 업무협약 체결",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210483",
+          "date": "2026-05-13",
+          "source": "AI타임스",
+          "description": "광양만권경제자유구역청(청장 구충곤)은 12일 중국 안후이성 허페이에서 이차전지·ESS 분야 글로벌 기업인 고션테크를 방문해 투자상담을 진행하고, 안후이성과학자기업가협회와 업무협약을 체결했다고 밝혔다.업무협약을 체결한 안후이성과학자기업가협회는 1988년 설립된 안후이성 대표 경제단체로 전력·자동차·에너지·식품 등 68개 업종 6000여개 회원사와 1100여명의 전문학자로 구성돼 있다.이번 협약은 ▲회원사 대상 GFEZ 투자환경 소개 및 관내 입주기업과 협회 회원사 간 기업 교류 ▲한·중 기업 간 투자유치 상호 협력 ▲광양만권 투자 시",
+          "image": "https://cdn.aitimes.com/news/photo/202605/210483_213144_37.jpg",
+          "is_english": false,
+          "original_title": "광양경자청, 중국 안후이성 과학자 기업가 협회와 업무협약 체결",
+          "original_summary": "광양만권경제자유구역청(청장 구충곤)은 12일 중국 안후이성 허페이에서 이차전지·ESS 분야 글로벌 기업인 고션테크를 방문해 투자상담을 진행하고, 안후이성과학자기업가협회와 업무협약을 체결했다고 밝혔다.업무협약을 체결한 안후이성과학자기업가협회는 1988년 설립된 안후이성 대표 경제단체로 전력·자동차·에너지·식품 등 68개 업종 6000여개 회원사와 1100여명의 전문학자로 구성돼 있다.이번 협약은 ▲회원사 대상 GFEZ 투자환경 소개 및 관내 입주기업과 협회 회원사 간 기업 교류 ▲한·중 기업 간 투자유치 상호 협력 ▲광양만권 투자 시",
+          "summary": "광양만권경제자유구역청(청장 구충곤)은 12일 중국 안후이성 허페이에서 이차전지·ESS 분야 글로벌 기업인 고션테크를 방문해 투자상담을 진행하고, 안후이성과학자기업가협회와 업무협약을 체결했다고 밝혔다.업무협약을 체결한 안후이성과학자기업가협회는 1988년 설립된 안후이성 대표 경제단체로 전력·자동차·에너지·식품 등 68개 업종 6000여개 회원사와 1100여명의 전문학자로 구성돼 있다.이번 협약은 ▲회원사 대상 GFEZ 투자환경 소개 및 관내 입주기업과 협회 회원사 간 기업 교류 ▲한·중 기업 간 투자유치 상호 협력 ▲광양만권 투자 시"
+        },
+        {
+          "title": "Notion just turned its workspace into a hub for AI agents",
+          "link": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+          "date": "2026-05-13",
+          "source": "TechCrunch",
+          "description": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/Notion-Developer-Platform.jpg?w=686",
+          "is_english": true,
+          "original_title": "Notion just turned its workspace into a hub for AI agents",
+          "original_summary": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
+          "summary": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software."
+        },
+        {
+          "title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
+          "link": "https://techcrunch.com/2026/05/13/musks-xai-is-running-nearly-50-gas-turbines-unchecked-at-its-mississippi-data-center/",
+          "date": "2026-05-13",
+          "source": "TechCrunch",
+          "description": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Musk’s xAI is running nearly 50 gas turbines unchecked at its Mississippi data center",
+          "original_summary": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants.",
+          "summary": "Gas turbines at xAI's Colossus 2 data center have drawn a lawsuit over the company's use of \"mobile\" gas turbines as power plants."
+        },
         {
           "title": "Anthropic’s Cat Wu says that, in the future, AI will anticipate your needs before you know what they are",
           "link": "https://techcrunch.com/2026/05/13/anthropics-cat-wu-says-that-in-the-future-ai-will-anticipate-your-needs-before-you-know-what-they-are/",
@@ -7493,7 +7541,7 @@
         {
           "title": "deepseek-ai/DeepSeek-V4-Pro",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
-          "date": "2026-05-06",
+          "date": "2026-05-14",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
@@ -7519,7 +7567,7 @@
         {
           "title": "SulphurAI/Sulphur-2-base",
           "link": "https://huggingface.co/SulphurAI/Sulphur-2-base",
-          "date": "2026-05-06",
+          "date": "2026-05-14",
           "source": "HuggingFace",
           "description": "• Sulphur-2-base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -7532,7 +7580,7 @@
         {
           "title": "openai/privacy-filter",
           "link": "https://huggingface.co/openai/privacy-filter",
-          "date": "2026-05-06",
+          "date": "2026-05-14",
           "source": "HuggingFace",
           "description": "• privacy-filter 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -7545,7 +7593,7 @@
         {
           "title": "SeeSee21/Z-Anime",
           "link": "https://huggingface.co/SeeSee21/Z-Anime",
-          "date": "2026-05-06",
+          "date": "2026-05-14",
           "source": "HuggingFace",
           "description": "• Z-Anime 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/SeeSee21/Z-Anime/resolve/main/images/cover.png",
@@ -7571,7 +7619,7 @@
         {
           "title": "Qwen/Qwen3.6-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.6-27B",
-          "date": "2026-05-06",
+          "date": "2026-05-14",
           "source": "HuggingFace",
           "description": "• Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -7597,7 +7645,7 @@
         {
           "title": "Qwen/Qwen3.6-35B-A3B",
           "link": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
-          "date": "2026-05-06",
+          "date": "2026-05-14",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -7623,7 +7671,7 @@
         {
           "title": "deepseek-ai/DeepSeek-V4-Flash",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
-          "date": "2026-05-06",
+          "date": "2026-05-14",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
@@ -7675,7 +7723,7 @@
         {
           "title": "sensenova/SenseNova-U1-8B-MoT",
           "link": "https://huggingface.co/sensenova/SenseNova-U1-8B-MoT",
-          "date": "2026-05-06",
+          "date": "2026-05-14",
           "source": "HuggingFace",
           "description": "• SenseNova-U1-8B-MoT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/arXiv-Coming-b31b1b.svg",
