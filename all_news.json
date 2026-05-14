@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-05-15",
-      "update_time": "2026-05-14 19:27:09",
+      "update_time": "2026-05-14 22:00:45",
       "news": [
+        {
+          "title": "[글로컬] AI와 리얼돌이 결합하면…'독버섯' 예방책 필요",
+          "link": "https://www.yna.co.kr/view/AKR20260513151000546",
+          "date": "2026-05-15",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 한승호 선임기자 = 신종 코로나바이러스 감염증(코로나19)이 확산하던 2020년 5월 프로축구 K리그가 개막했지만 무관중 경기...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/05/13/AKR20260513151000546_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "[글로컬] AI와 리얼돌이 결합하면…'독버섯' 예방책 필요",
+          "original_summary": "(서울=연합뉴스) 한승호 선임기자 = 신종 코로나바이러스 감염증(코로나19)이 확산하던 2020년 5월 프로축구 K리그가 개막했지만 무관중 경기...",
+          "summary": "(서울=연합뉴스) 한승호 선임기자 = 신종 코로나바이러스 감염증(코로나19)이 확산하던 2020년 5월 프로축구 K리그가 개막했지만 무관중 경기..."
+        },
+        {
+          "title": "[샷!] 교복 입히고 성적 요구까지…",
+          "link": "https://www.yna.co.kr/view/AKR20260513090300011",
+          "date": "2026-05-15",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 강민지 인턴기자 = 인공지능(AI) 딥페이크(첨단 이미지 조작 기술)를 이용한 아동 성착취물이 문제가 되는 가운데 아예 채팅 ...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/05/13/AKR20260513090300011_09_i_P2.jpg",
+          "is_english": false,
+          "original_title": "[샷!] 교복 입히고 성적 요구까지…",
+          "original_summary": "(서울=연합뉴스) 강민지 인턴기자 = 인공지능(AI) 딥페이크(첨단 이미지 조작 기술)를 이용한 아동 성착취물이 문제가 되는 가운데 아예 채팅 ...",
+          "summary": "(서울=연합뉴스) 강민지 인턴기자 = 인공지능(AI) 딥페이크(첨단 이미지 조작 기술)를 이용한 아동 성착취물이 문제가 되는 가운데 아예 채팅 ..."
+        },
         {
           "title": "Building a safe, effective sandbox to enable Codex on Windows",
           "link": "https://openai.com/index/building-codex-windows-sandbox",
@@ -212,19 +236,6 @@
           "category": "AI Model"
         },
         {
-          "title": "openai/privacy-filter",
-          "link": "https://huggingface.co/openai/privacy-filter",
-          "date": "2026-05-15",
-          "source": "HuggingFace",
-          "description": "• privacy-filter 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
-          "is_english": true,
-          "summary": "• privacy-filter 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "openai/privacy-filter",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "google/gemma-4-31B-it-assistant",
           "link": "https://huggingface.co/google/gemma-4-31B-it-assistant",
           "date": "2026-05-15",
@@ -234,6 +245,19 @@
           "is_english": true,
           "summary": "• gemma-4-31B-it-assistant 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "google/gemma-4-31B-it-assistant",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "openai/privacy-filter",
+          "link": "https://huggingface.co/openai/privacy-filter",
+          "date": "2026-05-15",
+          "source": "HuggingFace",
+          "description": "• privacy-filter 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "is_english": true,
+          "summary": "• privacy-filter 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "openai/privacy-filter",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -280,8 +304,80 @@
     },
     {
       "date": "2026-05-14",
-      "update_time": "2026-05-14 19:27:09",
+      "update_time": "2026-05-14 22:00:45",
       "news": [
+        {
+          "title": "'AI, 이제는 성과다'…AI 실전 컨퍼런스 ‘엔터프라이즈 AI 서울 2026’ 개최",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210548",
+          "date": "2026-05-14",
+          "source": "AI타임스",
+          "description": "국내 최대 AI 컨퍼런스인 ‘AI 서밋 서울’ 주관사이자 MIT 테크놀로지 리뷰 한국판 발행사인 디엠케이글로벌은 오는 26일 서울 양재 엘타워 5층 오르체홀에서 엔터프라이즈 AI 실전 컨퍼런스 ‘엔터프라이즈 AI 서울 2026’을 개최한다고 밝혔다.올해 행사는 ‘AI, 도입을 넘어 성과로‘라는 주제로 기업들이 ‘무엇을 어떻게 도입했느냐’보다 ‘얼마나 실질적인 성과로 이어졌느냐’가 본격적인 평가 기준이 되는 단계에 진입한 상황을 반영하고 있다. 이번 행사는 AI가 실제 업무 현장에서 어떻게 생산성을 끌어올릴 수 있는지 그 구체적 방안",
+          "image": "https://cdn.aitimes.com/news/photo/202605/210548_213229_4718.png",
+          "is_english": false,
+          "original_title": "'AI, 이제는 성과다'…AI 실전 컨퍼런스 ‘엔터프라이즈 AI 서울 2026’ 개최",
+          "original_summary": "국내 최대 AI 컨퍼런스인 ‘AI 서밋 서울’ 주관사이자 MIT 테크놀로지 리뷰 한국판 발행사인 디엠케이글로벌은 오는 26일 서울 양재 엘타워 5층 오르체홀에서 엔터프라이즈 AI 실전 컨퍼런스 ‘엔터프라이즈 AI 서울 2026’을 개최한다고 밝혔다.올해 행사는 ‘AI, 도입을 넘어 성과로‘라는 주제로 기업들이 ‘무엇을 어떻게 도입했느냐’보다 ‘얼마나 실질적인 성과로 이어졌느냐’가 본격적인 평가 기준이 되는 단계에 진입한 상황을 반영하고 있다. 이번 행사는 AI가 실제 업무 현장에서 어떻게 생산성을 끌어올릴 수 있는지 그 구체적 방안",
+          "summary": "국내 최대 AI 컨퍼런스인 ‘AI 서밋 서울’ 주관사이자 MIT 테크놀로지 리뷰 한국판 발행사인 디엠케이글로벌은 오는 26일 서울 양재 엘타워 5층 오르체홀에서 엔터프라이즈 AI 실전 컨퍼런스 ‘엔터프라이즈 AI 서울 2026’을 개최한다고 밝혔다.올해 행사는 ‘AI, 도입을 넘어 성과로‘라는 주제로 기업들이 ‘무엇을 어떻게 도입했느냐’보다 ‘얼마나 실질적인 성과로 이어졌느냐’가 본격적인 평가 기준이 되는 단계에 진입한 상황을 반영하고 있다. 이번 행사는 AI가 실제 업무 현장에서 어떻게 생산성을 끌어올릴 수 있는지 그 구체적 방안"
+        },
+        {
+          "title": "Work with Codex from anywhere",
+          "link": "https://openai.com/index/work-with-codex-from-anywhere",
+          "date": "2026-05-14",
+          "source": "OpenAI",
+          "description": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Work with Codex from anywhere",
+          "original_summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
+          "summary": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments."
+        },
+        {
+          "title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
+          "link": "https://techcrunch.com/2026/05/14/elon-musks-spacexai-has-been-bleeding-staff-since-its-merger/",
+          "date": "2026-05-14",
+          "source": "TechCrunch",
+          "description": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259661359.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Elon Musk’s SpaceXAI has been bleeding staff since its merger",
+          "original_summary": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
+          "summary": "More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives."
+        },
+        {
+          "title": "OpenAI says Codex is coming to your phone",
+          "link": "https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/",
+          "date": "2026-05-14",
+          "source": "TechCrunch",
+          "description": "The update gives users enhanced flexibility over how they can manage their workflows. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/App-view.png?resize=1200,675",
+          "is_english": true,
+          "original_title": "OpenAI says Codex is coming to your phone",
+          "original_summary": "The update gives users enhanced flexibility over how they can manage their workflows. ",
+          "summary": "The update gives users enhanced flexibility over how they can manage their workflows. "
+        },
+        {
+          "title": "What happens when AI starts building itself?",
+          "link": "https://techcrunch.com/2026/05/14/what-happens-when-ai-starts-building-itself/",
+          "date": "2026-05-14",
+          "source": "TechCrunch",
+          "description": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2157738833.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "What happens when AI starts building itself?",
+          "original_summary": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products.",
+          "summary": "Richard Socher's new $650 million startup wants to build an AI that can research and improve itself indefinitely — and he insists it will actually ship products."
+        },
+        {
+          "title": "Two from MIT named 2026 Knight-Hennessy Scholars",
+          "link": "https://news.mit.edu/2026/knight-hennessy-scholars-0514",
+          "date": "2026-05-14",
+          "source": "MIT News",
+          "description": "The prestigious fellowship funds graduate studies at Stanford University.",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/MIT-Knight-Hennessy2026-jiang-li.jpg?itok=_hiXai7A",
+          "is_english": true,
+          "original_title": "Two from MIT named 2026 Knight-Hennessy Scholars",
+          "original_summary": "The prestigious fellowship funds graduate studies at Stanford University.",
+          "summary": "The prestigious fellowship funds graduate studies at Stanford University."
+        },
         {
           "title": "Helping ChatGPT better recognize context in sensitive conversations",
           "link": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
