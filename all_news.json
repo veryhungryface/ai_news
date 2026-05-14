@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-05-15",
-      "update_time": "2026-05-14 16:55:47",
+      "update_time": "2026-05-14 19:27:09",
       "news": [
         {
           "title": "Building a safe, effective sandbox to enable Codex on Windows",
@@ -43,19 +43,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Zyphra/ZAYA1-8B",
-          "link": "https://huggingface.co/Zyphra/ZAYA1-8B",
-          "date": "2026-05-15",
-          "source": "HuggingFace",
-          "description": "• ZAYA1-8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/65c05e75c084467acab2f84a/f5tbexK3BumixnJuBZxo_.png",
-          "is_english": true,
-          "summary": "• ZAYA1-8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Zyphra/ZAYA1-8B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "HiDream-ai/HiDream-O1-Image",
           "link": "https://huggingface.co/HiDream-ai/HiDream-O1-Image",
           "date": "2026-05-15",
@@ -65,6 +52,19 @@
           "is_english": true,
           "summary": "• HiDream-O1-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "HiDream-ai/HiDream-O1-Image",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Zyphra/ZAYA1-8B",
+          "link": "https://huggingface.co/Zyphra/ZAYA1-8B",
+          "date": "2026-05-15",
+          "source": "HuggingFace",
+          "description": "• ZAYA1-8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/65c05e75c084467acab2f84a/f5tbexK3BumixnJuBZxo_.png",
+          "is_english": true,
+          "summary": "• ZAYA1-8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Zyphra/ZAYA1-8B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -160,15 +160,15 @@
           "category": "AI Model"
         },
         {
-          "title": "froggeric/Qwen-Fixed-Chat-Templates",
-          "link": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
+          "title": "Qwen/Qwen3.6-27B",
+          "link": "https://huggingface.co/Qwen/Qwen3.6-27B",
           "date": "2026-05-15",
           "source": "HuggingFace",
-          "description": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "description": "• Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
           "is_english": true,
-          "summary": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "froggeric/Qwen-Fixed-Chat-Templates",
+          "summary": "• Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.6-27B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -186,19 +186,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.6-27B",
-          "link": "https://huggingface.co/Qwen/Qwen3.6-27B",
-          "date": "2026-05-15",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.6-27B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "HiDream-ai/HiDream-O1-Image-Dev",
           "link": "https://huggingface.co/HiDream-ai/HiDream-O1-Image-Dev",
           "date": "2026-05-15",
@@ -212,15 +199,15 @@
           "category": "AI Model"
         },
         {
-          "title": "google/gemma-4-31B-it-assistant",
-          "link": "https://huggingface.co/google/gemma-4-31B-it-assistant",
+          "title": "froggeric/Qwen-Fixed-Chat-Templates",
+          "link": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
           "date": "2026-05-15",
           "source": "HuggingFace",
-          "description": "• gemma-4-31B-it-assistant 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
           "is_english": true,
-          "summary": "• gemma-4-31B-it-assistant 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/gemma-4-31B-it-assistant",
+          "summary": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "froggeric/Qwen-Fixed-Chat-Templates",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -234,6 +221,19 @@
           "is_english": true,
           "summary": "• privacy-filter 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "openai/privacy-filter",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "google/gemma-4-31B-it-assistant",
+          "link": "https://huggingface.co/google/gemma-4-31B-it-assistant",
+          "date": "2026-05-15",
+          "source": "HuggingFace",
+          "description": "• gemma-4-31B-it-assistant 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• gemma-4-31B-it-assistant 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/gemma-4-31B-it-assistant",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -280,8 +280,44 @@
     },
     {
       "date": "2026-05-14",
-      "update_time": "2026-05-14 16:55:45",
+      "update_time": "2026-05-14 19:27:09",
       "news": [
+        {
+          "title": "Helping ChatGPT better recognize context in sensitive conversations",
+          "link": "https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations",
+          "date": "2026-05-14",
+          "source": "OpenAI",
+          "description": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Helping ChatGPT better recognize context in sensitive conversations",
+          "original_summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely.",
+          "summary": "Learn how new ChatGPT safety updates improve context awareness in sensitive conversations, helping detect risk over time and respond more safely."
+        },
+        {
+          "title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
+          "link": "https://techcrunch.com/2026/05/14/openai-is-reportedly-preparing-legal-action-against-apple-it-wouldnt-be-the-first-partner-to-feel-burned/",
+          "date": "2026-05-14",
+          "source": "TechCrunch",
+          "description": "According to Bloomberg, OpenAI has enlisted an outside law firm to work through its options.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/10/Screenshot-2025-10-06-at-1.13.28PM.png?resize=1200,670",
+          "is_english": true,
+          "original_title": "OpenAI is reportedly preparing legal action against Apple; it wouldn’t be the first partner to feel burned",
+          "original_summary": "According to Bloomberg, OpenAI has enlisted an outside law firm to work through its options.",
+          "summary": "According to Bloomberg, OpenAI has enlisted an outside law firm to work through its options."
+        },
+        {
+          "title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+          "link": "https://techcrunch.com/2026/05/14/clawdmeter-turns-your-claude-code-usage-stats-into-a-tiny-desktop-dashboard/",
+          "date": "2026-05-14",
+          "source": "TechCrunch",
+          "description": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/clawdmeter-edit.png?resize=1200,827",
+          "is_english": true,
+          "original_title": "Clawdmeter turns your Claude Code usage stats into a tiny desktop dashboard",
+          "original_summary": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users.",
+          "summary": "A new open source gadget called Clawdmeter turns Claude Code usage stats into a tiny desktop dashboard for AI coding power users."
+        },
         {
           "title": "Cerebras raises $5.5B, kicking off 2026’s IPO season with a bang",
           "link": "https://techcrunch.com/2026/05/14/cerebras-raises-5-5b-kicking-off-2026s-ipo-season-with-a-bang/",
