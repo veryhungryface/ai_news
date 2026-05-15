@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-05-16",
-      "update_time": "2026-05-15 16:46:36",
+      "update_time": "2026-05-15 19:16:35",
       "news": [
         {
           "title": "Prompt: The More Operational AI Becomes, the Bigger the Security Challenge",
@@ -41,19 +41,6 @@
           "summary": "With the deal, the companies are seeking to expand Claude’s position as the enterprise AI model of choice."
         },
         {
-          "title": "SulphurAI/Sulphur-2-base",
-          "link": "https://huggingface.co/SulphurAI/Sulphur-2-base",
-          "date": "2026-05-16",
-          "source": "HuggingFace",
-          "description": "• Sulphur-2-base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Sulphur-2-base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "SulphurAI/Sulphur-2-base",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "openbmb/MiniCPM-V-4.6",
           "link": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
           "date": "2026-05-16",
@@ -63,6 +50,19 @@
           "is_english": true,
           "summary": "• MiniCPM-V-4.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "openbmb/MiniCPM-V-4.6",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "SulphurAI/Sulphur-2-base",
+          "link": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+          "date": "2026-05-16",
+          "source": "HuggingFace",
+          "description": "• Sulphur-2-base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Sulphur-2-base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "SulphurAI/Sulphur-2-base",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -171,19 +171,6 @@
           "category": "AI Model"
         },
         {
-          "title": "TenStrip/LTX2.3-10Eros",
-          "link": "https://huggingface.co/TenStrip/LTX2.3-10Eros",
-          "date": "2026-05-16",
-          "source": "HuggingFace",
-          "description": "• LTX2.3-10Eros 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• LTX2.3-10Eros 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "TenStrip/LTX2.3-10Eros",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "froggeric/Qwen-Fixed-Chat-Templates",
           "link": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
           "date": "2026-05-16",
@@ -193,6 +180,19 @@
           "is_english": true,
           "summary": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "froggeric/Qwen-Fixed-Chat-Templates",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "TenStrip/LTX2.3-10Eros",
+          "link": "https://huggingface.co/TenStrip/LTX2.3-10Eros",
+          "date": "2026-05-16",
+          "source": "HuggingFace",
+          "description": "• LTX2.3-10Eros 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• LTX2.3-10Eros 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "TenStrip/LTX2.3-10Eros",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -223,19 +223,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.6-27B",
-          "link": "https://huggingface.co/Qwen/Qwen3.6-27B",
-          "date": "2026-05-16",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.6-27B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "jackxinning/Leanly_AI",
           "link": "https://huggingface.co/jackxinning/Leanly_AI",
           "date": "2026-05-16",
@@ -249,15 +236,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-          "link": "https://huggingface.co/Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+          "title": "Qwen/Qwen3.6-27B",
+          "link": "https://huggingface.co/Qwen/Qwen3.6-27B",
           "date": "2026-05-16",
           "source": "HuggingFace",
-          "description": "• supergemma4-26b-uncensored-gguf-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
           "is_english": true,
-          "summary": "• supergemma4-26b-uncensored-gguf-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+          "summary": "• Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.6-27B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -275,6 +262,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+          "link": "https://huggingface.co/Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+          "date": "2026-05-16",
+          "source": "HuggingFace",
+          "description": "• supergemma4-26b-uncensored-gguf-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• supergemma4-26b-uncensored-gguf-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "RuneXX/LTX-2.3-Workflows",
           "link": "https://huggingface.co/RuneXX/LTX-2.3-Workflows",
           "date": "2026-05-16",
@@ -288,15 +288,15 @@
           "category": "AI Model"
         },
         {
-          "title": "k2-fsa/OmniVoice",
-          "link": "https://huggingface.co/k2-fsa/OmniVoice",
+          "title": "ResembleAI/Dramabox",
+          "link": "https://huggingface.co/ResembleAI/Dramabox",
           "date": "2026-05-16",
           "source": "HuggingFace",
-          "description": "• OmniVoice 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "description": "• Dramabox 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/discord/1377773249798344776?label=join%20discord&logo=discord&style=flat",
           "is_english": true,
-          "summary": "• OmniVoice 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "k2-fsa/OmniVoice",
+          "summary": "• Dramabox 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "ResembleAI/Dramabox",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -304,8 +304,20 @@
     },
     {
       "date": "2026-05-15",
-      "update_time": "2026-05-15 16:46:36",
+      "update_time": "2026-05-15 19:16:33",
       "news": [
+        {
+          "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
+          "link": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
+          "date": "2026-05-15",
+          "source": "TechCrunch",
+          "description": "Lake Tahoe, Silicon Valley's favorite ski spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-1370931116.jpeg?resize=1200,801",
+          "is_english": true,
+          "original_title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
+          "original_summary": "Lake Tahoe, Silicon Valley's favorite ski spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
+          "summary": "Lake Tahoe, Silicon Valley's favorite ski spot, is about to get hit with higher energy prices as AI drives demand for electricity."
+        },
         {
           "title": "A new personal finance experience in ChatGPT",
           "link": "https://openai.com/index/personal-finance-chatgpt",
@@ -8341,7 +8353,7 @@
         {
           "title": "deepseek-ai/DeepSeek-V4-Pro",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
-          "date": "2026-05-07",
+          "date": "2026-05-16",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
@@ -8354,7 +8366,7 @@
         {
           "title": "SulphurAI/Sulphur-2-base",
           "link": "https://huggingface.co/SulphurAI/Sulphur-2-base",
-          "date": "2026-05-07",
+          "date": "2026-05-16",
           "source": "HuggingFace",
           "description": "• Sulphur-2-base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -8380,7 +8392,7 @@
         {
           "title": "SeeSee21/Z-Anime",
           "link": "https://huggingface.co/SeeSee21/Z-Anime",
-          "date": "2026-05-07",
+          "date": "2026-05-16",
           "source": "HuggingFace",
           "description": "• Z-Anime 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/SeeSee21/Z-Anime/resolve/main/images/cover.png",
@@ -8419,7 +8431,7 @@
         {
           "title": "TenStrip/LTX2.3-10Eros",
           "link": "https://huggingface.co/TenStrip/LTX2.3-10Eros",
-          "date": "2026-05-07",
+          "date": "2026-05-16",
           "source": "HuggingFace",
           "description": "• LTX2.3-10Eros 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -8445,7 +8457,7 @@
         {
           "title": "Qwen/Qwen3.6-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.6-27B",
-          "date": "2026-05-07",
+          "date": "2026-05-16",
           "source": "HuggingFace",
           "description": "• Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -8471,7 +8483,7 @@
         {
           "title": "Qwen/Qwen3.6-35B-A3B",
           "link": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
-          "date": "2026-05-07",
+          "date": "2026-05-16",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -8484,7 +8496,7 @@
         {
           "title": "deepseek-ai/DeepSeek-V4-Flash",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
-          "date": "2026-05-07",
+          "date": "2026-05-16",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
