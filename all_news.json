@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-05-16",
-      "update_time": "2026-05-15 19:16:35",
+      "update_time": "2026-05-15 21:49:53",
       "news": [
+        {
+          "title": "광주, 18일부터 ‘고유가 피해지원금’ 2차 신청…1인당 15만원 지급",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210553",
+          "date": "2026-05-16",
+          "source": "AI타임스",
+          "description": "광주시가 고유가와 고물가로 어려움을 겪는 시민을 지원하기 위해 오는 18일부터 ‘고유가 피해지원금’ 2차 신청과 지급을 시작한다.신청 기간은 7월3일까지이며, 지급 대상은 2026년 3월30일 기준 소득하위 70% 시민이다.대상 시민에게는 1인당 15만원이 지급된다. 지난 1차 신청 기간에 신청하지 못한 기초수급자와 차상위·한부모가족도 이번 기간에 신청할 수 있다.2차 지급 대상은 건강보험료 기준으로 선정된다. 정부는 2026년 3월 부과된 건강보험료 본인부담금 가구 합산액을 기준으로 소득하위 70%를 선별한다. 재산세 과세표준 합",
+          "image": "https://cdn.aitimes.com/news/photo/202605/210553_213237_2731.png",
+          "is_english": false,
+          "original_title": "광주, 18일부터 ‘고유가 피해지원금’ 2차 신청…1인당 15만원 지급",
+          "original_summary": "광주시가 고유가와 고물가로 어려움을 겪는 시민을 지원하기 위해 오는 18일부터 ‘고유가 피해지원금’ 2차 신청과 지급을 시작한다.신청 기간은 7월3일까지이며, 지급 대상은 2026년 3월30일 기준 소득하위 70% 시민이다.대상 시민에게는 1인당 15만원이 지급된다. 지난 1차 신청 기간에 신청하지 못한 기초수급자와 차상위·한부모가족도 이번 기간에 신청할 수 있다.2차 지급 대상은 건강보험료 기준으로 선정된다. 정부는 2026년 3월 부과된 건강보험료 본인부담금 가구 합산액을 기준으로 소득하위 70%를 선별한다. 재산세 과세표준 합",
+          "summary": "광주시가 고유가와 고물가로 어려움을 겪는 시민을 지원하기 위해 오는 18일부터 ‘고유가 피해지원금’ 2차 신청과 지급을 시작한다.신청 기간은 7월3일까지이며, 지급 대상은 2026년 3월30일 기준 소득하위 70% 시민이다.대상 시민에게는 1인당 15만원이 지급된다. 지난 1차 신청 기간에 신청하지 못한 기초수급자와 차상위·한부모가족도 이번 기간에 신청할 수 있다.2차 지급 대상은 건강보험료 기준으로 선정된다. 정부는 2026년 3월 부과된 건강보험료 본인부담금 가구 합산액을 기준으로 소득하위 70%를 선별한다. 재산세 과세표준 합"
+        },
         {
           "title": "Prompt: The More Operational AI Becomes, the Bigger the Security Challenge",
           "link": "https://aibusiness.com/generative-ai/the-more-operational-ai-becomes-bigger-security-challenge",
@@ -184,19 +196,6 @@
           "category": "AI Model"
         },
         {
-          "title": "TenStrip/LTX2.3-10Eros",
-          "link": "https://huggingface.co/TenStrip/LTX2.3-10Eros",
-          "date": "2026-05-16",
-          "source": "HuggingFace",
-          "description": "• LTX2.3-10Eros 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• LTX2.3-10Eros 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "TenStrip/LTX2.3-10Eros",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "HiDream-ai/HiDream-O1-Image-Dev",
           "link": "https://huggingface.co/HiDream-ai/HiDream-O1-Image-Dev",
           "date": "2026-05-16",
@@ -206,6 +205,19 @@
           "is_english": true,
           "summary": "• HiDream-O1-Image-Dev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "HiDream-ai/HiDream-O1-Image-Dev",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "TenStrip/LTX2.3-10Eros",
+          "link": "https://huggingface.co/TenStrip/LTX2.3-10Eros",
+          "date": "2026-05-16",
+          "source": "HuggingFace",
+          "description": "• LTX2.3-10Eros 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• LTX2.3-10Eros 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "TenStrip/LTX2.3-10Eros",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -223,19 +235,6 @@
           "category": "AI Model"
         },
         {
-          "title": "jackxinning/Leanly_AI",
-          "link": "https://huggingface.co/jackxinning/Leanly_AI",
-          "date": "2026-05-16",
-          "source": "HuggingFace",
-          "description": "• Leanly_AI 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Leanly_AI 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "jackxinning/Leanly_AI",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.6-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.6-27B",
           "date": "2026-05-16",
@@ -249,15 +248,15 @@
           "category": "AI Model"
         },
         {
-          "title": "deepseek-ai/DeepSeek-V4-Flash",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
+          "title": "jackxinning/Leanly_AI",
+          "link": "https://huggingface.co/jackxinning/Leanly_AI",
           "date": "2026-05-16",
           "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
+          "description": "• Leanly_AI 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
           "is_english": true,
-          "summary": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepseek-ai/DeepSeek-V4-Flash",
+          "summary": "• Leanly_AI 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "jackxinning/Leanly_AI",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -275,15 +274,15 @@
           "category": "AI Model"
         },
         {
-          "title": "RuneXX/LTX-2.3-Workflows",
-          "link": "https://huggingface.co/RuneXX/LTX-2.3-Workflows",
+          "title": "deepseek-ai/DeepSeek-V4-Flash",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
           "date": "2026-05-16",
           "source": "HuggingFace",
-          "description": "• LTX-2.3-Workflows 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
           "is_english": true,
-          "summary": "• LTX-2.3-Workflows 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "RuneXX/LTX-2.3-Workflows",
+          "summary": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepseek-ai/DeepSeek-V4-Flash",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -299,13 +298,38 @@
           "translated_title": "ResembleAI/Dramabox",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "RuneXX/LTX-2.3-Workflows",
+          "link": "https://huggingface.co/RuneXX/LTX-2.3-Workflows",
+          "date": "2026-05-16",
+          "source": "HuggingFace",
+          "description": "• LTX-2.3-Workflows 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• LTX-2.3-Workflows 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "RuneXX/LTX-2.3-Workflows",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-05-15",
-      "update_time": "2026-05-15 19:16:33",
+      "update_time": "2026-05-15 21:49:53",
       "news": [
+        {
+          "title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
+          "link": "https://techcrunch.com/podcast/the-openai-trial-wraps-up-and-the-musk-founder-machine-keeps-spinning/",
+          "date": "2026-05-15",
+          "source": "TechCrunch",
+          "description": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question:&#160;can we trust the people in charge of AI?&#160;All of this is playing out as SpaceX charges toward what could be one of the largest IPOs in American history, with&#160;a whole generation&#160;of founders&#160;already spinning out [&#8230;]",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544149.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "The OpenAI trial wraps up, and the Musk founder machine keeps spinning",
+          "original_summary": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question:&#160;can we trust the people in charge of AI?&#160;All of this is playing out as SpaceX charges toward what could be one of the largest IPOs in American history, with&#160;a whole generati",
+          "summary": "The Musk v. Altman trial came to a close this week, and the final arguments kept circling back to one question:&#160;can we trust the people in charge of AI?&#160;All of this is playing out as SpaceX charges toward what could be one of the largest IPOs in American history, with&#160;a whole generati"
+        },
         {
           "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
           "link": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
