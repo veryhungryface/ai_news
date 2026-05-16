@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-05-16",
-      "update_time": "2026-05-16 05:45:13",
+      "update_time": "2026-05-16 07:48:55",
       "news": [
         {
           "title": "스페이스X, IPO 일정 앞당겨…이르면 6월12일 나스닥 상장",
@@ -305,19 +305,6 @@
           "category": "AI Model"
         },
         {
-          "title": "HiDream-ai/HiDream-O1-Image-Dev",
-          "link": "https://huggingface.co/HiDream-ai/HiDream-O1-Image-Dev",
-          "date": "2026-05-16",
-          "source": "HuggingFace",
-          "description": "• HiDream-O1-Image-Dev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/HiDream-ai/HiDream-O1-Image-Dev/resolve/main/assets/leaderboard.png",
-          "is_english": true,
-          "summary": "• HiDream-O1-Image-Dev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HiDream-ai/HiDream-O1-Image-Dev",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.6-35B-A3B",
           "link": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
           "date": "2026-05-16",
@@ -344,19 +331,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.6-27B",
-          "link": "https://huggingface.co/Qwen/Qwen3.6-27B",
-          "date": "2026-05-16",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.6-27B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
           "link": "https://huggingface.co/Jiunsong/supergemma4-26b-uncensored-gguf-v2",
           "date": "2026-05-16",
@@ -370,15 +344,15 @@
           "category": "AI Model"
         },
         {
-          "title": "deepseek-ai/DeepSeek-V4-Flash",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
+          "title": "Qwen/Qwen3.6-27B",
+          "link": "https://huggingface.co/Qwen/Qwen3.6-27B",
           "date": "2026-05-16",
           "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
+          "description": "• Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
           "is_english": true,
-          "summary": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepseek-ai/DeepSeek-V4-Flash",
+          "summary": "• Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.6-27B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -396,6 +370,19 @@
           "category": "AI Model"
         },
         {
+          "title": "HiDream-ai/HiDream-O1-Image-Dev",
+          "link": "https://huggingface.co/HiDream-ai/HiDream-O1-Image-Dev",
+          "date": "2026-05-16",
+          "source": "HuggingFace",
+          "description": "• HiDream-O1-Image-Dev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/HiDream-ai/HiDream-O1-Image-Dev/resolve/main/assets/leaderboard.png",
+          "is_english": true,
+          "summary": "• HiDream-O1-Image-Dev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HiDream-ai/HiDream-O1-Image-Dev",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "RuneXX/LTX-2.3-Workflows",
           "link": "https://huggingface.co/RuneXX/LTX-2.3-Workflows",
           "date": "2026-05-16",
@@ -407,13 +394,62 @@
           "translated_title": "RuneXX/LTX-2.3-Workflows",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
+          "date": "2026-05-16",
+          "source": "HuggingFace",
+          "description": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
+          "is_english": true,
+          "summary": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepseek-ai/DeepSeek-V4-Flash",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-05-15",
-      "update_time": "2026-05-16 01:59:42",
+      "update_time": "2026-05-16 07:48:55",
       "news": [
+        {
+          "title": "How sales teams use Codex",
+          "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+          "date": "2026-05-15",
+          "source": "OpenAI",
+          "description": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+          "image": null,
+          "is_english": true,
+          "original_title": "How sales teams use Codex",
+          "original_summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+          "summary": "See how sales teams can use Codex to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
+        },
+        {
+          "title": "How business operations teams use Codex",
+          "link": "https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex",
+          "date": "2026-05-15",
+          "source": "OpenAI",
+          "description": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+          "image": null,
+          "is_english": true,
+          "original_title": "How business operations teams use Codex",
+          "original_summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs.",
+          "summary": "See how business operations teams can use Codex to create initiative briefs, strategy updates, leadership decision packets, progress updates, and more from real work inputs."
+        },
+        {
+          "title": "How data science teams use Codex",
+          "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+          "date": "2026-05-15",
+          "source": "OpenAI",
+          "description": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+          "image": null,
+          "is_english": true,
+          "original_title": "How data science teams use Codex",
+          "original_summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+          "summary": "See how data science teams can use Codex to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
+        },
         {
           "title": "Databricks brings GPT-5.5 to enterprise agent workflows",
           "link": "https://openai.com/index/databricks",
