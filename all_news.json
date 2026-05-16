@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-05-16",
-      "update_time": "2026-05-16 01:59:44",
+      "update_time": "2026-05-16 05:45:13",
       "news": [
         {
           "title": "스페이스X, IPO 일정 앞당겨…이르면 6월12일 나스닥 상장",
@@ -292,19 +292,6 @@
           "category": "AI Model"
         },
         {
-          "title": "HiDream-ai/HiDream-O1-Image-Dev",
-          "link": "https://huggingface.co/HiDream-ai/HiDream-O1-Image-Dev",
-          "date": "2026-05-16",
-          "source": "HuggingFace",
-          "description": "• HiDream-O1-Image-Dev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/HiDream-ai/HiDream-O1-Image-Dev/resolve/main/assets/leaderboard.png",
-          "is_english": true,
-          "summary": "• HiDream-O1-Image-Dev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HiDream-ai/HiDream-O1-Image-Dev",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "TenStrip/LTX2.3-10Eros",
           "link": "https://huggingface.co/TenStrip/LTX2.3-10Eros",
           "date": "2026-05-16",
@@ -318,6 +305,19 @@
           "category": "AI Model"
         },
         {
+          "title": "HiDream-ai/HiDream-O1-Image-Dev",
+          "link": "https://huggingface.co/HiDream-ai/HiDream-O1-Image-Dev",
+          "date": "2026-05-16",
+          "source": "HuggingFace",
+          "description": "• HiDream-O1-Image-Dev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/HiDream-ai/HiDream-O1-Image-Dev/resolve/main/assets/leaderboard.png",
+          "is_english": true,
+          "summary": "• HiDream-O1-Image-Dev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HiDream-ai/HiDream-O1-Image-Dev",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Qwen/Qwen3.6-35B-A3B",
           "link": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
           "date": "2026-05-16",
@@ -327,6 +327,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.6-35B-A3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "ResembleAI/Dramabox",
+          "link": "https://huggingface.co/ResembleAI/Dramabox",
+          "date": "2026-05-16",
+          "source": "HuggingFace",
+          "description": "• Dramabox 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/discord/1377773249798344776?label=join%20discord&logo=discord&style=flat",
+          "is_english": true,
+          "summary": "• Dramabox 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "ResembleAI/Dramabox",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -357,19 +370,6 @@
           "category": "AI Model"
         },
         {
-          "title": "ResembleAI/Dramabox",
-          "link": "https://huggingface.co/ResembleAI/Dramabox",
-          "date": "2026-05-16",
-          "source": "HuggingFace",
-          "description": "• Dramabox 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/discord/1377773249798344776?label=join%20discord&logo=discord&style=flat",
-          "is_english": true,
-          "summary": "• Dramabox 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ResembleAI/Dramabox",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "deepseek-ai/DeepSeek-V4-Flash",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
           "date": "2026-05-16",
@@ -383,19 +383,6 @@
           "category": "AI Model"
         },
         {
-          "title": "RuneXX/LTX-2.3-Workflows",
-          "link": "https://huggingface.co/RuneXX/LTX-2.3-Workflows",
-          "date": "2026-05-16",
-          "source": "HuggingFace",
-          "description": "• LTX-2.3-Workflows 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• LTX-2.3-Workflows 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "RuneXX/LTX-2.3-Workflows",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "TencentARC/Pixal3D",
           "link": "https://huggingface.co/TencentARC/Pixal3D",
           "date": "2026-05-16",
@@ -405,6 +392,19 @@
           "is_english": true,
           "summary": "• Pixal3D 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "TencentARC/Pixal3D",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "RuneXX/LTX-2.3-Workflows",
+          "link": "https://huggingface.co/RuneXX/LTX-2.3-Workflows",
+          "date": "2026-05-16",
+          "source": "HuggingFace",
+          "description": "• LTX-2.3-Workflows 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• LTX-2.3-Workflows 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "RuneXX/LTX-2.3-Workflows",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
