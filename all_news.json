@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-05-17",
-      "update_time": "2026-05-16 18:49:28",
+      "update_time": "2026-05-16 21:39:45",
       "news": [
+        {
+          "title": "\"시술하고 정말 예뻐졌어요\"…알고보니 AI 생성 가짜 후기",
+          "link": "https://www.yna.co.kr/view/AKR20260516034500004",
+          "date": "2026-05-17",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 김채린 기자 = &quot;쌍꺼풀 절개, 코 성형하신 고객님. 정말 예뻐지셨어요&quot;, &quot;얼굴이 작아 보이는 레이어드 컷으로 디자인해드렸어...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/05/16/AKR20260516034500004_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "\"시술하고 정말 예뻐졌어요\"…알고보니 AI 생성 가짜 후기",
+          "original_summary": "(서울=연합뉴스) 김채린 기자 = &quot;쌍꺼풀 절개, 코 성형하신 고객님. 정말 예뻐지셨어요&quot;, &quot;얼굴이 작아 보이는 레이어드 컷으로 디자인해드렸어...",
+          "summary": "(서울=연합뉴스) 김채린 기자 = &quot;쌍꺼풀 절개, 코 성형하신 고객님. 정말 예뻐지셨어요&quot;, &quot;얼굴이 작아 보이는 레이어드 컷으로 디자인해드렸어..."
+        },
         {
           "title": "openbmb/MiniCPM-V-4.6",
           "link": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
@@ -57,19 +69,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Zyphra/ZAYA1-8B",
-          "link": "https://huggingface.co/Zyphra/ZAYA1-8B",
-          "date": "2026-05-17",
-          "source": "HuggingFace",
-          "description": "• ZAYA1-8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/65c05e75c084467acab2f84a/f5tbexK3BumixnJuBZxo_.png",
-          "is_english": true,
-          "summary": "• ZAYA1-8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Zyphra/ZAYA1-8B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Qwen3.6-27B-MTP-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.6-27B-MTP-GGUF",
           "date": "2026-05-17",
@@ -79,6 +78,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-27B-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/Qwen3.6-27B-MTP-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Zyphra/ZAYA1-8B",
+          "link": "https://huggingface.co/Zyphra/ZAYA1-8B",
+          "date": "2026-05-17",
+          "source": "HuggingFace",
+          "description": "• ZAYA1-8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/65c05e75c084467acab2f84a/f5tbexK3BumixnJuBZxo_.png",
+          "is_english": true,
+          "summary": "• ZAYA1-8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Zyphra/ZAYA1-8B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -161,19 +173,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-          "link": "https://huggingface.co/Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-          "date": "2026-05-17",
-          "source": "HuggingFace",
-          "description": "• supergemma4-26b-uncensored-gguf-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• supergemma4-26b-uncensored-gguf-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "TencentARC/Pixal3D",
           "link": "https://huggingface.co/TencentARC/Pixal3D",
           "date": "2026-05-17",
@@ -187,28 +186,15 @@
           "category": "AI Model"
         },
         {
-          "title": "TenStrip/LTX2.3-10Eros",
-          "link": "https://huggingface.co/TenStrip/LTX2.3-10Eros",
+          "title": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+          "link": "https://huggingface.co/Jiunsong/supergemma4-26b-uncensored-gguf-v2",
           "date": "2026-05-17",
           "source": "HuggingFace",
-          "description": "• LTX2.3-10Eros 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "description": "• supergemma4-26b-uncensored-gguf-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• LTX2.3-10Eros 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "TenStrip/LTX2.3-10Eros",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "Qwen/Qwen3.6-35B-A3B",
-          "link": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
-          "date": "2026-05-17",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.6-35B-A3B",
+          "summary": "• supergemma4-26b-uncensored-gguf-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -226,6 +212,32 @@
           "category": "AI Model"
         },
         {
+          "title": "Qwen/Qwen3.6-35B-A3B",
+          "link": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
+          "date": "2026-05-17",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.6-35B-A3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "TenStrip/LTX2.3-10Eros",
+          "link": "https://huggingface.co/TenStrip/LTX2.3-10Eros",
+          "date": "2026-05-17",
+          "source": "HuggingFace",
+          "description": "• LTX2.3-10Eros 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• LTX2.3-10Eros 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "TenStrip/LTX2.3-10Eros",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Qwen/Qwen3.6-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.6-27B",
           "date": "2026-05-17",
@@ -235,19 +247,6 @@
           "is_english": true,
           "summary": "• Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.6-27B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "RuneXX/LTX-2.3-Workflows",
-          "link": "https://huggingface.co/RuneXX/LTX-2.3-Workflows",
-          "date": "2026-05-17",
-          "source": "HuggingFace",
-          "description": "• LTX-2.3-Workflows 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• LTX-2.3-Workflows 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "RuneXX/LTX-2.3-Workflows",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -263,13 +262,50 @@
           "translated_title": "antirez/deepseek-v4-gguf",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "RuneXX/LTX-2.3-Workflows",
+          "link": "https://huggingface.co/RuneXX/LTX-2.3-Workflows",
+          "date": "2026-05-17",
+          "source": "HuggingFace",
+          "description": "• LTX-2.3-Workflows 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• LTX-2.3-Workflows 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "RuneXX/LTX-2.3-Workflows",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-05-16",
-      "update_time": "2026-05-16 15:48:35",
+      "update_time": "2026-05-16 21:39:45",
       "news": [
+        {
+          "title": "The haves and have nots of the AI gold rush",
+          "link": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
+          "date": "2026-05-16",
+          "source": "TechCrunch",
+          "description": "The vibes around the current AI boom aren't great, even in the tech industry.",
+          "image": "https://techcrunch.com/wp-content/uploads/2019/06/GettyImages-958260352.jpg?resize=1200,1074",
+          "is_english": true,
+          "original_title": "The haves and have nots of the AI gold rush",
+          "original_summary": "The vibes around the current AI boom aren't great, even in the tech industry.",
+          "summary": "The vibes around the current AI boom aren't great, even in the tech industry."
+        },
+        {
+          "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+          "link": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
+          "date": "2026-05-16",
+          "source": "TechCrunch",
+          "description": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/02/business-research-getty.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
+          "original_summary": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers.",
+          "summary": "ArXiv is doing more to crack down on the careless use of large language models in scientific papers."
+        },
         {
           "title": "넷플릭스, 'AI 애니메이션' 직접 만든다…전문 스튜디오 설립",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=210605",
