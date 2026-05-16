@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-05-17",
-      "update_time": "2026-05-16 15:48:35",
+      "update_time": "2026-05-16 18:49:28",
       "news": [
         {
           "title": "openbmb/MiniCPM-V-4.6",
@@ -174,15 +174,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.6-35B-A3B",
-          "link": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
+          "title": "TencentARC/Pixal3D",
+          "link": "https://huggingface.co/TencentARC/Pixal3D",
           "date": "2026-05-17",
           "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "description": "• Pixal3D 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.6-35B-A3B",
+          "summary": "• Pixal3D 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "TencentARC/Pixal3D",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -200,15 +200,15 @@
           "category": "AI Model"
         },
         {
-          "title": "TencentARC/Pixal3D",
-          "link": "https://huggingface.co/TencentARC/Pixal3D",
+          "title": "Qwen/Qwen3.6-35B-A3B",
+          "link": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
           "date": "2026-05-17",
           "source": "HuggingFace",
-          "description": "• Pixal3D 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
           "is_english": true,
-          "summary": "• Pixal3D 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "TencentARC/Pixal3D",
+          "summary": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.6-35B-A3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -252,15 +252,15 @@
           "category": "AI Model"
         },
         {
-          "title": "google/gemma-4-31B-it",
-          "link": "https://huggingface.co/google/gemma-4-31B-it",
+          "title": "antirez/deepseek-v4-gguf",
+          "link": "https://huggingface.co/antirez/deepseek-v4-gguf",
           "date": "2026-05-17",
           "source": "HuggingFace",
-          "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "description": "• deepseek-v4-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/gemma-4-31B-it",
+          "summary": "• deepseek-v4-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "antirez/deepseek-v4-gguf",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -7717,7 +7717,7 @@
         {
           "title": "SulphurAI/Sulphur-2-base",
           "link": "https://huggingface.co/SulphurAI/Sulphur-2-base",
-          "date": "2026-05-08",
+          "date": "2026-05-17",
           "source": "HuggingFace",
           "description": "• Sulphur-2-base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -7730,7 +7730,7 @@
         {
           "title": "deepseek-ai/DeepSeek-V4-Pro",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
-          "date": "2026-05-08",
+          "date": "2026-05-17",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
@@ -7743,7 +7743,7 @@
         {
           "title": "Zyphra/ZAYA1-8B",
           "link": "https://huggingface.co/Zyphra/ZAYA1-8B",
-          "date": "2026-05-08",
+          "date": "2026-05-17",
           "source": "HuggingFace",
           "description": "• ZAYA1-8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/65c05e75c084467acab2f84a/f5tbexK3BumixnJuBZxo_.png",
@@ -7769,7 +7769,7 @@
         {
           "title": "SeeSee21/Z-Anime",
           "link": "https://huggingface.co/SeeSee21/Z-Anime",
-          "date": "2026-05-08",
+          "date": "2026-05-17",
           "source": "HuggingFace",
           "description": "• Z-Anime 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/SeeSee21/Z-Anime/resolve/main/images/cover.png",
@@ -7782,7 +7782,7 @@
         {
           "title": "TenStrip/LTX2.3-10Eros",
           "link": "https://huggingface.co/TenStrip/LTX2.3-10Eros",
-          "date": "2026-05-08",
+          "date": "2026-05-17",
           "source": "HuggingFace",
           "description": "• LTX2.3-10Eros 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -7821,7 +7821,7 @@
         {
           "title": "Qwen/Qwen3.6-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.6-27B",
-          "date": "2026-05-08",
+          "date": "2026-05-17",
           "source": "HuggingFace",
           "description": "• Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -7834,7 +7834,7 @@
         {
           "title": "Qwen/Qwen3.6-35B-A3B",
           "link": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
-          "date": "2026-05-08",
+          "date": "2026-05-17",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -7886,7 +7886,7 @@
         {
           "title": "deepseek-ai/DeepSeek-V4-Flash",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
-          "date": "2026-05-08",
+          "date": "2026-05-17",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
