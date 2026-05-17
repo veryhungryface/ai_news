@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-05-18",
-      "update_time": "2026-05-17 18:53:46",
+      "update_time": "2026-05-17 21:44:57",
       "news": [
         {
           "title": "openbmb/MiniCPM-V-4.6",
@@ -57,19 +57,6 @@
           "category": "AI Model"
         },
         {
-          "title": "HiDream-ai/HiDream-O1-Image",
-          "link": "https://huggingface.co/HiDream-ai/HiDream-O1-Image",
-          "date": "2026-05-18",
-          "source": "HuggingFace",
-          "description": "• HiDream-O1-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/HiDream-ai/HiDream-O1-Image/resolve/main/assets/leaderboard.png",
-          "is_english": true,
-          "summary": "• HiDream-O1-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HiDream-ai/HiDream-O1-Image",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
           "date": "2026-05-18",
@@ -79,6 +66,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-35B-A3B-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "HiDream-ai/HiDream-O1-Image",
+          "link": "https://huggingface.co/HiDream-ai/HiDream-O1-Image",
+          "date": "2026-05-18",
+          "source": "HuggingFace",
+          "description": "• HiDream-O1-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/HiDream-ai/HiDream-O1-Image/resolve/main/assets/leaderboard.png",
+          "is_english": true,
+          "summary": "• HiDream-O1-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HiDream-ai/HiDream-O1-Image",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -161,19 +161,6 @@
           "category": "AI Model"
         },
         {
-          "title": "SeeSee21/Z-Anime",
-          "link": "https://huggingface.co/SeeSee21/Z-Anime",
-          "date": "2026-05-18",
-          "source": "HuggingFace",
-          "description": "• Z-Anime 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/SeeSee21/Z-Anime/resolve/main/images/cover.png",
-          "is_english": true,
-          "summary": "• Z-Anime 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "SeeSee21/Z-Anime",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
           "link": "https://huggingface.co/Jiunsong/supergemma4-26b-uncensored-gguf-v2",
           "date": "2026-05-18",
@@ -183,6 +170,19 @@
           "is_english": true,
           "summary": "• supergemma4-26b-uncensored-gguf-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Jiunsong/supergemma4-26b-uncensored-gguf-v2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "SeeSee21/Z-Anime",
+          "link": "https://huggingface.co/SeeSee21/Z-Anime",
+          "date": "2026-05-18",
+          "source": "HuggingFace",
+          "description": "• Z-Anime 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/SeeSee21/Z-Anime/resolve/main/images/cover.png",
+          "is_english": true,
+          "summary": "• Z-Anime 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "SeeSee21/Z-Anime",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -226,19 +226,6 @@
           "category": "AI Model"
         },
         {
-          "title": "TenStrip/LTX2.3-10Eros",
-          "link": "https://huggingface.co/TenStrip/LTX2.3-10Eros",
-          "date": "2026-05-18",
-          "source": "HuggingFace",
-          "description": "• LTX2.3-10Eros 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• LTX2.3-10Eros 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "TenStrip/LTX2.3-10Eros",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.6-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.6-27B",
           "date": "2026-05-18",
@@ -252,15 +239,28 @@
           "category": "AI Model"
         },
         {
-          "title": "antirez/deepseek-v4-gguf",
-          "link": "https://huggingface.co/antirez/deepseek-v4-gguf",
+          "title": "TenStrip/LTX2.3-10Eros",
+          "link": "https://huggingface.co/TenStrip/LTX2.3-10Eros",
           "date": "2026-05-18",
           "source": "HuggingFace",
-          "description": "• deepseek-v4-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• LTX2.3-10Eros 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
           "is_english": true,
-          "summary": "• deepseek-v4-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "antirez/deepseek-v4-gguf",
+          "summary": "• LTX2.3-10Eros 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "TenStrip/LTX2.3-10Eros",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "microsoft/Fara-7B",
+          "link": "https://huggingface.co/microsoft/Fara-7B",
+          "date": "2026-05-18",
+          "source": "HuggingFace",
+          "description": "• Fara-7B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/Microsoft-Project-0078D4?logo=microsoft",
+          "is_english": true,
+          "summary": "• Fara-7B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "microsoft/Fara-7B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -268,8 +268,32 @@
     },
     {
       "date": "2026-05-17",
-      "update_time": "2026-05-17 18:53:46",
+      "update_time": "2026-05-17 21:44:55",
       "news": [
+        {
+          "title": "Apple’s Siri revamp could include auto-deleting chats",
+          "link": "https://techcrunch.com/2026/05/17/apples-siri-revamp-could-include-auto-deleting-chats/",
+          "date": "2026-05-17",
+          "source": "TechCrunch",
+          "description": "Privacy will be a major theme when Apple unveils a new version of Siri.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/10/apple-siri-header.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Apple’s Siri revamp could include auto-deleting chats",
+          "original_summary": "Privacy will be a major theme when Apple unveils a new version of Siri.",
+          "summary": "Privacy will be a major theme when Apple unveils a new version of Siri."
+        },
+        {
+          "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+          "link": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+          "date": "2026-05-17",
+          "source": "TechCrunch",
+          "description": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273245180.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+          "original_summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy.",
+          "summary": "A big theme in the trial’s final days was whether OpenAI CEO Sam Altman is trustworthy."
+        },
         {
           "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
           "link": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
