@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-05-19",
-      "update_time": "2026-05-19 11:55:09",
+      "update_time": "2026-05-19 14:35:12",
       "news": [
+        {
+          "title": "Stellantis, Accenture, Nvidia to Accelerate AI-Driven Auto Production",
+          "link": "https://aibusiness.com/generative-ai/stellantis-accenture-nvidia-accelerate-ai-driven-car-production",
+          "date": "2026-05-19",
+          "source": "AI Business",
+          "description": "The project is automaker Stellantis’ latest AI initiative.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt7ef2e3b11ead992f/6a0c698c1c0bcd833209dc73/Stellantis.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Stellantis, Accenture, Nvidia to Accelerate AI-Driven Auto Production",
+          "original_summary": "The project is automaker Stellantis’ latest AI initiative.",
+          "summary": "The project is automaker Stellantis’ latest AI initiative."
+        },
+        {
+          "title": "How Dataminr Kept the Human in the Loop",
+          "link": "https://aibusiness.com/generative-ai/how-dataminr-kept-the-human-in-the-loop",
+          "date": "2026-05-19",
+          "source": "AI Business",
+          "description": "The company has AI handle most alerts, while retaining human oversight for nuanced situations.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt46b495912a4c2930/6a0c51a6ba545bac1857efd4/intelligence.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "How Dataminr Kept the Human in the Loop",
+          "original_summary": "The company has AI handle most alerts, while retaining human oversight for nuanced situations.",
+          "summary": "The company has AI handle most alerts, while retaining human oversight for nuanced situations."
+        },
         {
           "title": "MS 내부의 경고 \"AI 에이전트, 깃허브 저장소 역할 대체할 수도\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=210696",
@@ -610,6 +634,19 @@
           "category": "AI Model"
         },
         {
+          "title": "bytedance-research/Lance",
+          "link": "https://huggingface.co/bytedance-research/Lance",
+          "date": "2026-05-19",
+          "source": "HuggingFace",
+          "description": "• Lance 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/bytedance-research/Lance/resolve/main/assets/logo/lance-logo.webp",
+          "is_english": true,
+          "summary": "• Lance 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "bytedance-research/Lance",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "circlestone-labs/Anima",
           "link": "https://huggingface.co/circlestone-labs/Anima",
           "date": "2026-05-19",
@@ -645,19 +682,6 @@
           "is_english": true,
           "summary": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "deepseek-ai/DeepSeek-V4-Pro",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "bytedance-research/Lance",
-          "link": "https://huggingface.co/bytedance-research/Lance",
-          "date": "2026-05-19",
-          "source": "HuggingFace",
-          "description": "• Lance 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/bytedance-research/Lance/resolve/main/assets/logo/lance-logo.webp",
-          "is_english": true,
-          "summary": "• Lance 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "bytedance-research/Lance",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -727,15 +751,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Zyphra/ZAYA1-8B",
-          "link": "https://huggingface.co/Zyphra/ZAYA1-8B",
+          "title": "Cactus-Compute/needle",
+          "link": "https://huggingface.co/Cactus-Compute/needle",
           "date": "2026-05-19",
           "source": "HuggingFace",
-          "description": "• ZAYA1-8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/65c05e75c084467acab2f84a/f5tbexK3BumixnJuBZxo_.png",
+          "description": "• needle 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• ZAYA1-8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Zyphra/ZAYA1-8B",
+          "summary": "• needle 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Cactus-Compute/needle",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -753,28 +777,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Cactus-Compute/needle",
-          "link": "https://huggingface.co/Cactus-Compute/needle",
+          "title": "Zyphra/ZAYA1-8B",
+          "link": "https://huggingface.co/Zyphra/ZAYA1-8B",
           "date": "2026-05-19",
           "source": "HuggingFace",
-          "description": "• needle 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• ZAYA1-8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/65c05e75c084467acab2f84a/f5tbexK3BumixnJuBZxo_.png",
           "is_english": true,
-          "summary": "• needle 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Cactus-Compute/needle",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "ScenemaAI/scenema-audio",
-          "link": "https://huggingface.co/ScenemaAI/scenema-audio",
-          "date": "2026-05-19",
-          "source": "HuggingFace",
-          "description": "• scenema-audio 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• scenema-audio 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ScenemaAI/scenema-audio",
+          "summary": "• ZAYA1-8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Zyphra/ZAYA1-8B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -788,6 +799,19 @@
           "is_english": true,
           "summary": "• Fara-7B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "microsoft/Fara-7B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "ScenemaAI/scenema-audio",
+          "link": "https://huggingface.co/ScenemaAI/scenema-audio",
+          "date": "2026-05-19",
+          "source": "HuggingFace",
+          "description": "• scenema-audio 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• scenema-audio 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "ScenemaAI/scenema-audio",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
