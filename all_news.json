@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-05-21",
-      "update_time": "2026-05-20 20:01:22",
+      "update_time": "2026-05-20 22:19:43",
       "news": [
         {
           "title": "Alibaba Aims for Independence with New AI Chips, Model",
@@ -147,19 +147,6 @@
           "category": "AI Model"
         },
         {
-          "title": "deepseek-ai/DeepSeek-V4-Pro",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
-          "date": "2026-05-21",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
-          "is_english": true,
-          "summary": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepseek-ai/DeepSeek-V4-Pro",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Jackrong/Qwopus3.5-9B-Coder-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwopus3.5-9B-Coder-GGUF",
           "date": "2026-05-21",
@@ -169,6 +156,19 @@
           "is_english": true,
           "summary": "• Qwopus3.5-9B-Coder-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Jackrong/Qwopus3.5-9B-Coder-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Pro",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+          "date": "2026-05-21",
+          "source": "HuggingFace",
+          "description": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
+          "is_english": true,
+          "summary": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepseek-ai/DeepSeek-V4-Pro",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -264,15 +264,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.6-35B-A3B",
-          "link": "https://huggingface.co/Qwen/Qwen3.6-35B-A3B",
+          "title": "google/gemma-4-31B-it",
+          "link": "https://huggingface.co/google/gemma-4-31B-it",
           "date": "2026-05-21",
           "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
           "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.6-35B-A3B",
+          "summary": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/gemma-4-31B-it",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -280,8 +280,80 @@
     },
     {
       "date": "2026-05-20",
-      "update_time": "2026-05-20 20:01:22",
+      "update_time": "2026-05-20 22:19:43",
       "news": [
+        {
+          "title": "How Ramp engineers accelerate code review with Codex",
+          "link": "https://openai.com/index/ramp",
+          "date": "2026-05-20",
+          "source": "OpenAI",
+          "description": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+          "image": null,
+          "is_english": true,
+          "original_title": "How Ramp engineers accelerate code review with Codex",
+          "original_summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours.",
+          "summary": "How Ramp engineers use Codex with GPT-5.5 to review code and ship improvements, allowing them to get substantive feedback in minutes instead of hours."
+        },
+        {
+          "title": "Nvidia posts another record quarter, reveals $43 billion of holdings in startups",
+          "link": "https://techcrunch.com/2026/05/20/nvidia-posts-another-record-quarter-reveals-43-billion-of-holdings-in-startups/",
+          "date": "2026-05-20",
+          "source": "TechCrunch",
+          "description": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/jensen-huang-gtc-getty.jpg?resize=1200,781",
+          "is_english": true,
+          "original_title": "Nvidia posts another record quarter, reveals $43 billion of holdings in startups",
+          "original_summary": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter.",
+          "summary": "Nvidia announced another record revenue figure after market close on Wednesday, but forecasted that revenue growth would slow in the following quarter."
+        },
+        {
+          "title": "Musk’s xAI is being sued over its data center generators. Now, it’s buying $2.8B more.",
+          "link": "https://techcrunch.com/2026/05/20/musks-xai-is-being-sued-over-its-data-center-generators-now-its-buying-2-8b-more/",
+          "date": "2026-05-20",
+          "source": "TechCrunch",
+          "description": "Elon Muks's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Musk’s xAI is being sued over its data center generators. Now, it’s buying $2.8B more.",
+          "original_summary": "Elon Muks's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing.",
+          "summary": "Elon Muks's xAI said it will buy $2.8 billion worth of natural gas turbines over the next three years, according to SpaceX's IPO filing."
+        },
+        {
+          "title": "Anthropic will pay xAI $1.25B per month for compute",
+          "link": "https://techcrunch.com/2026/05/20/anthropic-will-pay-xai-1-25-billion-per-month-for-compute/",
+          "date": "2026-05-20",
+          "source": "TechCrunch",
+          "description": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2223576505.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Anthropic will pay xAI $1.25B per month for compute",
+          "original_summary": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth.",
+          "summary": "Elon Musk's xAI surprised the AI world when it made a deal to sell compute to Anthropic. Now we know how much it's worth."
+        },
+        {
+          "title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
+          "link": "https://techcrunch.com/2026/05/20/openai-claims-it-solved-an-80-year-old-math-problem-for-real-this-time/",
+          "date": "2026-05-20",
+          "source": "TechCrunch",
+          "description": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing claim are backing it up.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/Erdos-problems.png?resize=1200,863",
+          "is_english": true,
+          "original_title": "OpenAI claims it solved an 80-year-old math problem — for real this time",
+          "original_summary": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing claim are backing it up.",
+          "summary": "OpenAI claims its reasoning model disproved a geometry conjecture unsolved since 1946 — and this time, the mathematicians who exposed its last embarrassing claim are backing it up."
+        },
+        {
+          "title": "We’re announcing new community investments in Missouri.",
+          "link": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/missouri-programs/",
+          "date": "2026-05-20",
+          "source": "Google AI",
+          "description": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/MissouriSocial.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "We’re announcing new community investments in Missouri.",
+          "original_summary": "We’re helping build the state’s next-generation workforce and investing in energy programs.",
+          "summary": "We’re helping build the state’s next-generation workforce and investing in energy programs."
+        },
         {
           "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
           "link": "https://openai.com/index/model-disproves-discrete-geometry-conjecture",
@@ -8813,7 +8885,7 @@
         {
           "title": "google/gemma-4-31B-it",
           "link": "https://huggingface.co/google/gemma-4-31B-it",
-          "date": "2026-05-12",
+          "date": "2026-05-21",
           "source": "HuggingFace",
           "description": "• gemma-4-31B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
