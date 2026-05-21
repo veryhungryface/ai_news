@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-05-22",
-      "update_time": "2026-05-21 17:26:23",
+      "update_time": "2026-05-21 19:42:40",
       "news": [
         {
           "title": "SpaceX IPO Filing Opens Up xAI Finances",
@@ -94,19 +94,6 @@
           "category": "AI Model"
         },
         {
-          "title": "circlestone-labs/Anima",
-          "link": "https://huggingface.co/circlestone-labs/Anima",
-          "date": "2026-05-22",
-          "source": "HuggingFace",
-          "description": "• Anima 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/circlestone-labs/Anima/resolve/main/montage.jpg",
-          "is_english": true,
-          "summary": "• Anima 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "circlestone-labs/Anima",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "sapientinc/HRM-Text-1B",
           "link": "https://huggingface.co/sapientinc/HRM-Text-1B",
           "date": "2026-05-22",
@@ -116,6 +103,19 @@
           "is_english": true,
           "summary": "• HRM-Text-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "sapientinc/HRM-Text-1B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "circlestone-labs/Anima",
+          "link": "https://huggingface.co/circlestone-labs/Anima",
+          "date": "2026-05-22",
+          "source": "HuggingFace",
+          "description": "• Anima 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/circlestone-labs/Anima/resolve/main/montage.jpg",
+          "is_english": true,
+          "summary": "• Anima 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "circlestone-labs/Anima",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -224,19 +224,6 @@
           "category": "AI Model"
         },
         {
-          "title": "HiDream-ai/HiDream-O1-Image",
-          "link": "https://huggingface.co/HiDream-ai/HiDream-O1-Image",
-          "date": "2026-05-22",
-          "source": "HuggingFace",
-          "description": "• HiDream-O1-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/HiDream-ai/HiDream-O1-Image/resolve/main/assets/leaderboard.png",
-          "is_english": true,
-          "summary": "• HiDream-O1-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HiDream-ai/HiDream-O1-Image",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "microsoft/Fara-7B",
           "link": "https://huggingface.co/microsoft/Fara-7B",
           "date": "2026-05-22",
@@ -246,6 +233,19 @@
           "is_english": true,
           "summary": "• Fara-7B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "microsoft/Fara-7B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "HiDream-ai/HiDream-O1-Image",
+          "link": "https://huggingface.co/HiDream-ai/HiDream-O1-Image",
+          "date": "2026-05-22",
+          "source": "HuggingFace",
+          "description": "• HiDream-O1-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/HiDream-ai/HiDream-O1-Image/resolve/main/assets/leaderboard.png",
+          "is_english": true,
+          "summary": "• HiDream-O1-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HiDream-ai/HiDream-O1-Image",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -292,8 +292,32 @@
     },
     {
       "date": "2026-05-21",
-      "update_time": "2026-05-21 17:26:22",
+      "update_time": "2026-05-21 19:42:40",
       "news": [
+        {
+          "title": "Six search engines worth trying now that Google isn’t really Google anymore",
+          "link": "https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/",
+          "date": "2026-05-21",
+          "source": "TechCrunch",
+          "description": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2151663494.jpg?resize=1200,801",
+          "is_english": true,
+          "original_title": "Six search engines worth trying now that Google isn’t really Google anymore",
+          "original_summary": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming. ",
+          "summary": "Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming. "
+        },
+        {
+          "title": "Trump delays AI security executive order: ‘I don’t want to get in the way of that leading’",
+          "link": "https://techcrunch.com/2026/05/21/trump-delays-ai-security-executive-order-i-dont-want-to-get-in-the-way-of-that-leading/",
+          "date": "2026-05-21",
+          "source": "TechCrunch",
+          "description": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2225249178.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Trump delays AI security executive order: ‘I don’t want to get in the way of that leading’",
+          "original_summary": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language.",
+          "summary": "President Trump delayed signing an executive order that would have required pre-release government security reviews of AI models, citing dissatisfaction with the order's language."
+        },
         {
           "title": "AdventHealth advances whole-person care with OpenAI",
           "link": "https://openai.com/index/adventhealth",
@@ -8425,7 +8449,7 @@
         {
           "title": "SulphurAI/Sulphur-2-base",
           "link": "https://huggingface.co/SulphurAI/Sulphur-2-base",
-          "date": "2026-05-13",
+          "date": "2026-05-22",
           "source": "HuggingFace",
           "description": "• Sulphur-2-base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -8451,7 +8475,7 @@
         {
           "title": "openbmb/MiniCPM-V-4.6",
           "link": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
-          "date": "2026-05-13",
+          "date": "2026-05-22",
           "source": "HuggingFace",
           "description": "• MiniCPM-V-4.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/openbmb/MiniCPM-V/main/assets/minicpmv4.6/instruct.png",
@@ -8464,7 +8488,7 @@
         {
           "title": "HiDream-ai/HiDream-O1-Image",
           "link": "https://huggingface.co/HiDream-ai/HiDream-O1-Image",
-          "date": "2026-05-13",
+          "date": "2026-05-22",
           "source": "HuggingFace",
           "description": "• HiDream-O1-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/HiDream-ai/HiDream-O1-Image/resolve/main/assets/leaderboard.png",
@@ -8477,7 +8501,7 @@
         {
           "title": "deepseek-ai/DeepSeek-V4-Pro",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
-          "date": "2026-05-13",
+          "date": "2026-05-22",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
@@ -8503,7 +8527,7 @@
         {
           "title": "Supertone/supertonic-3",
           "link": "https://huggingface.co/Supertone/supertonic-3",
-          "date": "2026-05-13",
+          "date": "2026-05-22",
           "source": "HuggingFace",
           "description": "• supertonic-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/Supertone/supertonic-3/resolve/main/img/Supertonic3_HeroImage.png",
@@ -8568,7 +8592,7 @@
         {
           "title": "deepseek-ai/DeepSeek-V4-Flash",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
-          "date": "2026-05-13",
+          "date": "2026-05-22",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
@@ -8607,7 +8631,7 @@
         {
           "title": "froggeric/Qwen-Fixed-Chat-Templates",
           "link": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
-          "date": "2026-05-13",
+          "date": "2026-05-22",
           "source": "HuggingFace",
           "description": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
