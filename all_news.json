@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-05-23",
-      "update_time": "2026-05-22 19:22:39",
+      "update_time": "2026-05-22 21:58:21",
       "news": [
         {
           "title": "Prompt: AI’s Next Challenge Is Proving the Payoff",
@@ -121,6 +121,19 @@
           "category": "AI Model"
         },
         {
+          "title": "tencent/Hy-MT2-30B-A3B",
+          "link": "https://huggingface.co/tencent/Hy-MT2-30B-A3B",
+          "date": "2026-05-23",
+          "source": "HuggingFace",
+          "description": "• Hy-MT2-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Tencent%20Hy-ffc107?color=ffc107&logoColor=white",
+          "is_english": true,
+          "summary": "• Hy-MT2-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "tencent/Hy-MT2-30B-A3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
           "date": "2026-05-23",
@@ -143,19 +156,6 @@
           "is_english": true,
           "summary": "• command-a-plus-05-2026-w4a4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "CohereLabs/command-a-plus-05-2026-w4a4",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "tencent/Hy-MT2-30B-A3B",
-          "link": "https://huggingface.co/tencent/Hy-MT2-30B-A3B",
-          "date": "2026-05-23",
-          "source": "HuggingFace",
-          "description": "• Hy-MT2-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Tencent%20Hy-ffc107?color=ffc107&logoColor=white",
-          "is_english": true,
-          "summary": "• Hy-MT2-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "tencent/Hy-MT2-30B-A3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -251,15 +251,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.6-27B",
-          "link": "https://huggingface.co/Qwen/Qwen3.6-27B",
+          "title": "Efficient-Large-Model/SANA-WM_bidirectional",
+          "link": "https://huggingface.co/Efficient-Large-Model/SANA-WM_bidirectional",
           "date": "2026-05-23",
           "source": "HuggingFace",
-          "description": "• Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "description": "• SANA-WM_bidirectional 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
           "is_english": true,
-          "summary": "• Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.6-27B",
+          "summary": "• SANA-WM_bidirectional 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Efficient-Large-Model/SANA-WM_bidirectional",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -280,8 +280,32 @@
     },
     {
       "date": "2026-05-22",
-      "update_time": "2026-05-22 19:22:39",
+      "update_time": "2026-05-22 21:58:20",
       "news": [
+        {
+          "title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
+          "link": "https://techcrunch.com/2026/05/22/google-goes-for-the-glitter-with-disco-ball-icons-are-yall-sure-you-still-want-this/",
+          "date": "2026-05-22",
+          "source": "TechCrunch",
+          "description": "You can now disco ball-ify your entire Pixel homescreen, says Google.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-22-at-2.46.43-PM.jpg?resize=1200,965",
+          "is_english": true,
+          "original_title": "Google goes for the glitter with disco-ball icons: ‘Are y’all sure you still want this?’",
+          "original_summary": "You can now disco ball-ify your entire Pixel homescreen, says Google.",
+          "summary": "You can now disco ball-ify your entire Pixel homescreen, says Google."
+        },
+        {
+          "title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
+          "link": "https://techcrunch.com/2026/05/22/how-vcs-and-founders-use-inflated-arr-to-kingmake-ai-startups/",
+          "date": "2026-05-22",
+          "source": "TechCrunch",
+          "description": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/Pinocchio-ARR-nose2.png?resize=1200,800",
+          "is_english": true,
+          "original_title": "How VCs and founders use inflated ‘ARR’ to crown AI startups",
+          "original_summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware.",
+          "summary": "Some AI startups are stretching traditional revenue metrics when talking about progress publicly. And their investors are fully aware."
+        },
         {
           "title": "Elon Musk can’t hear you over the sound of his $1.75 trillion IPO",
           "link": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
