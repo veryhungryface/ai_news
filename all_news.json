@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-05-23",
-      "update_time": "2026-05-22 17:02:05",
+      "update_time": "2026-05-22 19:22:39",
       "news": [
         {
           "title": "Prompt: AI’s Next Challenge Is Proving the Payoff",
@@ -134,19 +134,6 @@
           "category": "AI Model"
         },
         {
-          "title": "circlestone-labs/Anima",
-          "link": "https://huggingface.co/circlestone-labs/Anima",
-          "date": "2026-05-23",
-          "source": "HuggingFace",
-          "description": "• Anima 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/circlestone-labs/Anima/resolve/main/montage.jpg",
-          "is_english": true,
-          "summary": "• Anima 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "circlestone-labs/Anima",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "CohereLabs/command-a-plus-05-2026-w4a4",
           "link": "https://huggingface.co/CohereLabs/command-a-plus-05-2026-w4a4",
           "date": "2026-05-23",
@@ -156,6 +143,32 @@
           "is_english": true,
           "summary": "• command-a-plus-05-2026-w4a4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "CohereLabs/command-a-plus-05-2026-w4a4",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "tencent/Hy-MT2-30B-A3B",
+          "link": "https://huggingface.co/tencent/Hy-MT2-30B-A3B",
+          "date": "2026-05-23",
+          "source": "HuggingFace",
+          "description": "• Hy-MT2-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Tencent%20Hy-ffc107?color=ffc107&logoColor=white",
+          "is_english": true,
+          "summary": "• Hy-MT2-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "tencent/Hy-MT2-30B-A3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "circlestone-labs/Anima",
+          "link": "https://huggingface.co/circlestone-labs/Anima",
+          "date": "2026-05-23",
+          "source": "HuggingFace",
+          "description": "• Anima 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/circlestone-labs/Anima/resolve/main/montage.jpg",
+          "is_english": true,
+          "summary": "• Anima 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "circlestone-labs/Anima",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -199,19 +212,6 @@
           "category": "AI Model"
         },
         {
-          "title": "tencent/Hy-MT2-30B-A3B",
-          "link": "https://huggingface.co/tencent/Hy-MT2-30B-A3B",
-          "date": "2026-05-23",
-          "source": "HuggingFace",
-          "description": "• Hy-MT2-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Tencent%20Hy-ffc107?color=ffc107&logoColor=white",
-          "is_english": true,
-          "summary": "• Hy-MT2-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "tencent/Hy-MT2-30B-A3B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "deepseek-ai/DeepSeek-V4-Pro",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
           "date": "2026-05-23",
@@ -251,6 +251,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Qwen/Qwen3.6-27B",
+          "link": "https://huggingface.co/Qwen/Qwen3.6-27B",
+          "date": "2026-05-23",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.6-27B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "deepseek-ai/DeepSeek-V4-Flash",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
           "date": "2026-05-23",
@@ -262,26 +275,49 @@
           "translated_title": "deepseek-ai/DeepSeek-V4-Flash",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "HiDream-ai/HiDream-O1-Image",
-          "link": "https://huggingface.co/HiDream-ai/HiDream-O1-Image",
-          "date": "2026-05-23",
-          "source": "HuggingFace",
-          "description": "• HiDream-O1-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/HiDream-ai/HiDream-O1-Image/resolve/main/assets/leaderboard.png",
-          "is_english": true,
-          "summary": "• HiDream-O1-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HiDream-ai/HiDream-O1-Image",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-05-22",
-      "update_time": "2026-05-22 17:02:05",
+      "update_time": "2026-05-22 19:22:39",
       "news": [
+        {
+          "title": "Elon Musk can’t hear you over the sound of his $1.75 trillion IPO",
+          "link": "https://techcrunch.com/podcast/elon-musk-cant-hear-you-over-the-sound-of-his-1-75-trillion-ipo/",
+          "date": "2026-05-22",
+          "source": "TechCrunch",
+          "description": "The SpaceX S-1 is finally here, and the story it tells goes&#160;way further&#160;than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a&#160;$28 trillion&#160;total addressable market, a pay package tied to&#160;establishing&#160;a Mars colony, and a valuation target that would make it the largest IPO in American [&#8230;]",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2275592313.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Elon Musk can’t hear you over the sound of his $1.75 trillion IPO",
+          "original_summary": "The SpaceX S-1 is finally here, and the story it tells goes&#160;way further&#160;than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a&#160;$28 trillion&#160;total addressable market, a pay package tied to&#160;establishing&#160;a Mars colony,",
+          "summary": "The SpaceX S-1 is finally here, and the story it tells goes&#160;way further&#160;than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a&#160;$28 trillion&#160;total addressable market, a pay package tied to&#160;establishing&#160;a Mars colony,"
+        },
+        {
+          "title": "SpaceX files to go public, and the math requires a little faith",
+          "link": "https://techcrunch.com/video/spacex-files-to-go-public-and-the-math-requires-a-little-faith/",
+          "date": "2026-05-22",
+          "source": "TechCrunch",
+          "description": "The SpaceX S-1 is finally here, and the story it tells goes&#160;way further&#160;than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a&#160;$28 trillion&#160;total addressable market, a pay package tied to&#160;establishing&#160;a Mars colony, and a valuation target that would make it the largest IPO in American [&#8230;]",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2074390033.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "SpaceX files to go public, and the math requires a little faith",
+          "original_summary": "The SpaceX S-1 is finally here, and the story it tells goes&#160;way further&#160;than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a&#160;$28 trillion&#160;total addressable market, a pay package tied to&#160;establishing&#160;a Mars colony,",
+          "summary": "The SpaceX S-1 is finally here, and the story it tells goes&#160;way further&#160;than rockets. The filing runs to 36 pages of risk factors alone, and the numbers inside match the ambition: a&#160;$28 trillion&#160;total addressable market, a pay package tied to&#160;establishing&#160;a Mars colony,"
+        },
+        {
+          "title": "Catch up on the Dialogues stage at Google I/O 2026.",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
+          "date": "2026-05-22",
+          "source": "Google AI",
+          "description": "A recap of the 2026 I/O Dialogues, where leaders discuss the future of AI, quantum computing, robotics and creativity.",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IO26_Dialogues_3z680sK.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "Catch up on the Dialogues stage at Google I/O 2026.",
+          "original_summary": "A recap of the 2026 I/O Dialogues, where leaders discuss the future of AI, quantum computing, robotics and creativity.",
+          "summary": "A recap of the 2026 I/O Dialogues, where leaders discuss the future of AI, quantum computing, robotics and creativity."
+        },
         {
           "title": "OpenAI named a Leader in enterprise coding agents by Gartner",
           "link": "https://openai.com/index/gartner-2026-agentic-coding-leader",
@@ -8005,7 +8041,7 @@
         {
           "title": "SulphurAI/Sulphur-2-base",
           "link": "https://huggingface.co/SulphurAI/Sulphur-2-base",
-          "date": "2026-05-14",
+          "date": "2026-05-23",
           "source": "HuggingFace",
           "description": "• Sulphur-2-base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -8018,7 +8054,7 @@
         {
           "title": "openbmb/MiniCPM-V-4.6",
           "link": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
-          "date": "2026-05-14",
+          "date": "2026-05-23",
           "source": "HuggingFace",
           "description": "• MiniCPM-V-4.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/openbmb/MiniCPM-V/main/assets/minicpmv4.6/instruct.png",
@@ -8057,7 +8093,7 @@
         {
           "title": "deepseek-ai/DeepSeek-V4-Pro",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
-          "date": "2026-05-14",
+          "date": "2026-05-23",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
@@ -8070,7 +8106,7 @@
         {
           "title": "Supertone/supertonic-3",
           "link": "https://huggingface.co/Supertone/supertonic-3",
-          "date": "2026-05-14",
+          "date": "2026-05-23",
           "source": "HuggingFace",
           "description": "• supertonic-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/Supertone/supertonic-3/resolve/main/img/Supertonic3_HeroImage.png",
@@ -8096,7 +8132,7 @@
         {
           "title": "unsloth/Qwen3.6-27B-MTP-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.6-27B-MTP-GGUF",
-          "date": "2026-05-14",
+          "date": "2026-05-23",
           "source": "HuggingFace",
           "description": "• Qwen3.6-27B-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -8148,7 +8184,7 @@
         {
           "title": "Qwen/Qwen3.6-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.6-27B",
-          "date": "2026-05-14",
+          "date": "2026-05-23",
           "source": "HuggingFace",
           "description": "• Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -8161,7 +8197,7 @@
         {
           "title": "deepseek-ai/DeepSeek-V4-Flash",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
-          "date": "2026-05-14",
+          "date": "2026-05-23",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
@@ -8174,7 +8210,7 @@
         {
           "title": "froggeric/Qwen-Fixed-Chat-Templates",
           "link": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
-          "date": "2026-05-14",
+          "date": "2026-05-23",
           "source": "HuggingFace",
           "description": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
