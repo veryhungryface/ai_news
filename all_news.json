@@ -2,8 +2,116 @@
   "dates": [
     {
       "date": "2026-05-22",
-      "update_time": "2026-05-22 06:40:08",
+      "update_time": "2026-05-22 11:38:01",
       "news": [
+        {
+          "title": "주요 AI 기업, 전 세계 컴퓨팅 절반 장악...구글이 25%로 1위",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210854",
+          "date": "2026-05-22",
+          "source": "AI타임스",
+          "description": "글로벌 AI 컴퓨팅 시장의 주도권이 소수 프론티어 모델 기업으로 급격히 쏠리고 있다는 분석이 나왔다. 예상과 달리 현재는 이들의 점유율이 절반 미만이지만, 공격적인 확장세가 이어지면서 앞으로 성패는 실질적인 수익성에 의해 결정될 것이라는 전망이다.비영리 단체인 에포크 AI는 22일 보고서를 통해 최첨단 연구소들이 활용하지 않는 AI 컴퓨팅 자원이 아직 많다고 밝혔다.이에 따르면, 2025년 말 기준 주요 AI 기업 중 컴퓨팅을 가장 많이 사용하는 곳은 구글이다. 엔비디아 \\'H100\\' GPU(H100e) 기준으로 400만장의 용량을",
+          "image": "https://cdn.aitimes.com/news/photo/202605/210854_213639_3954.png",
+          "is_english": false,
+          "original_title": "주요 AI 기업, 전 세계 컴퓨팅 절반 장악...구글이 25%로 1위",
+          "original_summary": "글로벌 AI 컴퓨팅 시장의 주도권이 소수 프론티어 모델 기업으로 급격히 쏠리고 있다는 분석이 나왔다. 예상과 달리 현재는 이들의 점유율이 절반 미만이지만, 공격적인 확장세가 이어지면서 앞으로 성패는 실질적인 수익성에 의해 결정될 것이라는 전망이다.비영리 단체인 에포크 AI는 22일 보고서를 통해 최첨단 연구소들이 활용하지 않는 AI 컴퓨팅 자원이 아직 많다고 밝혔다.이에 따르면, 2025년 말 기준 주요 AI 기업 중 컴퓨팅을 가장 많이 사용하는 곳은 구글이다. 엔비디아 \\'H100\\' GPU(H100e) 기준으로 400만장의 용량",
+          "summary": "글로벌 AI 컴퓨팅 시장의 주도권이 소수 프론티어 모델 기업으로 급격히 쏠리고 있다는 분석이 나왔다. 예상과 달리 현재는 이들의 점유율이 절반 미만이지만, 공격적인 확장세가 이어지면서 앞으로 성패는 실질적인 수익성에 의해 결정될 것이라는 전망이다.비영리 단체인 에포크 AI는 22일 보고서를 통해 최첨단 연구소들이 활용하지 않는 AI 컴퓨팅 자원이 아직 많다고 밝혔다.이에 따르면, 2025년 말 기준 주요 AI 기업 중 컴퓨팅을 가장 많이 사용하는 곳은 구글이다. 엔비디아 \\'H100\\' GPU(H100e) 기준으로 400만장의 용량"
+        },
+        {
+          "title": "코히어, H100 2장으로 구동하는 에이전트용 모델 '커맨드 A+' 오픈 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210841",
+          "date": "2026-05-22",
+          "source": "AI타임스",
+          "description": "코히어가 기업용 AI 에이전트 업무에 특화된 오픈소스 대형언어모델(LLM) ‘커맨드 A+(Command A+)’를 공개했다. 적은 연산 자원으로도 고성능 추론과 멀티모달 작업을 수행할 수 있도록 설계된 것이 특징이다.코히어는 20일(현지시간) 아파치 2.0 라이선스로 무료 상업적 활용이 가능한 커맨드 A+를 출시했다.텍스트·이미지·도구 사용(tool use)을 동시에 처리할 수 있는 멀티모달 AI 모델로, 기존 ‘커맨드 A’ ‘커맨드 A 리즈닝(Reasoning)’ ‘커맨드 A 비전(Vision)’ ‘커맨드 A 트랜슬레이트(Tran",
+          "image": "https://cdn.aitimes.com/news/photo/202605/210841_213622_425.png",
+          "is_english": false,
+          "original_title": "코히어, H100 2장으로 구동하는 에이전트용 모델 '커맨드 A+' 오픈 출시",
+          "original_summary": "코히어가 기업용 AI 에이전트 업무에 특화된 오픈소스 대형언어모델(LLM) ‘커맨드 A+(Command A+)’를 공개했다. 적은 연산 자원으로도 고성능 추론과 멀티모달 작업을 수행할 수 있도록 설계된 것이 특징이다.코히어는 20일(현지시간) 아파치 2.0 라이선스로 무료 상업적 활용이 가능한 커맨드 A+를 출시했다.텍스트·이미지·도구 사용(tool use)을 동시에 처리할 수 있는 멀티모달 AI 모델로, 기존 ‘커맨드 A’ ‘커맨드 A 리즈닝(Reasoning)’ ‘커맨드 A 비전(Vision)’ ‘커맨드 A 트랜슬레이트(Tran",
+          "summary": "코히어가 기업용 AI 에이전트 업무에 특화된 오픈소스 대형언어모델(LLM) ‘커맨드 A+(Command A+)’를 공개했다. 적은 연산 자원으로도 고성능 추론과 멀티모달 작업을 수행할 수 있도록 설계된 것이 특징이다.코히어는 20일(현지시간) 아파치 2.0 라이선스로 무료 상업적 활용이 가능한 커맨드 A+를 출시했다.텍스트·이미지·도구 사용(tool use)을 동시에 처리할 수 있는 멀티모달 AI 모델로, 기존 ‘커맨드 A’ ‘커맨드 A 리즈닝(Reasoning)’ ‘커맨드 A 비전(Vision)’ ‘커맨드 A 트랜슬레이트(Tran"
+        },
+        {
+          "title": "한컴·LG AI연구원, '챗엑사원' 앞세워 공공시장 공략 나선다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210847",
+          "date": "2026-05-22",
+          "source": "AI타임스",
+          "description": "한컴(대표 김연수)은 LG AI연구원과 전략적 사업 얼라이언스 협약을 체결하고, 자체 AI 에이전트를 생성형 AI 플랫폼 \\'챗엑사원(ChatEXAONE)\\'에 공급한다고 22일 밝혔다. 한컴의 AI 에이전트가 외부 AI 플랫폼에 정식 탑재되는 것은 이번이 처음이다.이번 협약은 지난 2024년 12월 체결한 업무협약(MOU)을 한 단계 격상한 것으로, 기술·서비스·플랫폼 전반으로 협력 범위를 넓혔다.한컴의 문서 AI 기술과 LG AI연구원의 AI 모델 \\'엑사원(EXAONE)\\' 기반 서비스 인프라를 결합해 공공 및 민간 고객을 위한 통합",
+          "image": "https://cdn.aitimes.com/news/photo/202605/210847_213645_1953.jpeg",
+          "is_english": false,
+          "original_title": "한컴·LG AI연구원, '챗엑사원' 앞세워 공공시장 공략 나선다",
+          "original_summary": "한컴(대표 김연수)은 LG AI연구원과 전략적 사업 얼라이언스 협약을 체결하고, 자체 AI 에이전트를 생성형 AI 플랫폼 \\'챗엑사원(ChatEXAONE)\\'에 공급한다고 22일 밝혔다. 한컴의 AI 에이전트가 외부 AI 플랫폼에 정식 탑재되는 것은 이번이 처음이다.이번 협약은 지난 2024년 12월 체결한 업무협약(MOU)을 한 단계 격상한 것으로, 기술·서비스·플랫폼 전반으로 협력 범위를 넓혔다.한컴의 문서 AI 기술과 LG AI연구원의 AI 모델 \\'엑사원(EXAONE)\\' 기반 서비스 인프라를 결합해 공공 및 민간 고객을 위",
+          "summary": "한컴(대표 김연수)은 LG AI연구원과 전략적 사업 얼라이언스 협약을 체결하고, 자체 AI 에이전트를 생성형 AI 플랫폼 \\'챗엑사원(ChatEXAONE)\\'에 공급한다고 22일 밝혔다. 한컴의 AI 에이전트가 외부 AI 플랫폼에 정식 탑재되는 것은 이번이 처음이다.이번 협약은 지난 2024년 12월 체결한 업무협약(MOU)을 한 단계 격상한 것으로, 기술·서비스·플랫폼 전반으로 협력 범위를 넓혔다.한컴의 문서 AI 기술과 LG AI연구원의 AI 모델 \\'엑사원(EXAONE)\\' 기반 서비스 인프라를 결합해 공공 및 민간 고객을 위"
+        },
+        {
+          "title": "미 국방부, 앤트로픽 공백 메우기 착수… 오픈AI·구글 모델 실전 테스트",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210846",
+          "date": "2026-05-22",
+          "source": "AI타임스",
+          "description": "미국 국방부가 앤트로픽 \\'클로드\\'의 퇴출 직후 군사 작전에 활용할 차세대 AI 모델 평가 작업에 착수한 것으로 알려졌다. 여기에는 오픈AI와 구글의 모델이 포함됐다.21일(현지시간) 블룸버그에 따르면, 미 국방부는 지난 3월 초부터 내부 ‘파워 유저(power user)’로 분류되는 25명을 대상으로 다양한 AI 모델 성능 테스트를 진행하고 있다.이번 시험은 피트 헤그세스 국방부 장관이 앤트로픽을 공급망 위험 업체로 지정한 직후 시작됐다.미 국방부는 이란 관련 기밀 작전에 사용된 디지털 임무통제 플랫폼 ‘메이븐 스마트 시스템(Mav",
+          "image": "https://cdn.aitimes.com/news/photo/202605/210846_213632_4939.jpg",
+          "is_english": false,
+          "original_title": "미 국방부, 앤트로픽 공백 메우기 착수… 오픈AI·구글 모델 실전 테스트",
+          "original_summary": "미국 국방부가 앤트로픽 \\'클로드\\'의 퇴출 직후 군사 작전에 활용할 차세대 AI 모델 평가 작업에 착수한 것으로 알려졌다. 여기에는 오픈AI와 구글의 모델이 포함됐다.21일(현지시간) 블룸버그에 따르면, 미 국방부는 지난 3월 초부터 내부 ‘파워 유저(power user)’로 분류되는 25명을 대상으로 다양한 AI 모델 성능 테스트를 진행하고 있다.이번 시험은 피트 헤그세스 국방부 장관이 앤트로픽을 공급망 위험 업체로 지정한 직후 시작됐다.미 국방부는 이란 관련 기밀 작전에 사용된 디지털 임무통제 플랫폼 ‘메이븐 스마트 시스템(M",
+          "summary": "미국 국방부가 앤트로픽 \\'클로드\\'의 퇴출 직후 군사 작전에 활용할 차세대 AI 모델 평가 작업에 착수한 것으로 알려졌다. 여기에는 오픈AI와 구글의 모델이 포함됐다.21일(현지시간) 블룸버그에 따르면, 미 국방부는 지난 3월 초부터 내부 ‘파워 유저(power user)’로 분류되는 25명을 대상으로 다양한 AI 모델 성능 테스트를 진행하고 있다.이번 시험은 피트 헤그세스 국방부 장관이 앤트로픽을 공급망 위험 업체로 지정한 직후 시작됐다.미 국방부는 이란 관련 기밀 작전에 사용된 디지털 임무통제 플랫폼 ‘메이븐 스마트 시스템(M"
+        },
+        {
+          "title": "[게시판] 위버스브레인, SK ‘K-AI 얼라이언스’ 합류 등 단신",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210857",
+          "date": "2026-05-22",
+          "source": "AI타임스",
+          "description": "■ AI 교육 전문 위버스브레인(대표 조세원, 이용국)은 SK그룹이 주도하는 국내 AI 기업 연합체 ‘K-AI 얼라이언스’에 합류했다고 밝혔다. 위버스브레인은 대화형 AI 기술력과 발화 데이터 기반 역량을 연합체 내 협력 모델에 접목하고, 기술 교류와 공동 사업화 방안을 모색할 계획이다. ■ 데이원컴퍼니(대표 신해동, 김동혁)는 국비지원 교육기관 커널아카데미가 대학생 AI 크루 ‘유니커(Uniker)’의 참가자를 모집한다고 밝혔다. 유니커는 일반적인 마케팅 중심 대외활동과 달리 서포터즈형 해커톤 방식으로 운영된다. ‘대학 생활을 2",
+          "image": "https://cdn.aitimes.com/news/photo/202605/210857_213644_746.png",
+          "is_english": false,
+          "original_title": "[게시판] 위버스브레인, SK ‘K-AI 얼라이언스’ 합류 등 단신",
+          "original_summary": "■ AI 교육 전문 위버스브레인(대표 조세원, 이용국)은 SK그룹이 주도하는 국내 AI 기업 연합체 ‘K-AI 얼라이언스’에 합류했다고 밝혔다. 위버스브레인은 대화형 AI 기술력과 발화 데이터 기반 역량을 연합체 내 협력 모델에 접목하고, 기술 교류와 공동 사업화 방안을 모색할 계획이다. ■ 데이원컴퍼니(대표 신해동, 김동혁)는 국비지원 교육기관 커널아카데미가 대학생 AI 크루 ‘유니커(Uniker)’의 참가자를 모집한다고 밝혔다. 유니커는 일반적인 마케팅 중심 대외활동과 달리 서포터즈형 해커톤 방식으로 운영된다. ‘대학 생활을 2",
+          "summary": "■ AI 교육 전문 위버스브레인(대표 조세원, 이용국)은 SK그룹이 주도하는 국내 AI 기업 연합체 ‘K-AI 얼라이언스’에 합류했다고 밝혔다. 위버스브레인은 대화형 AI 기술력과 발화 데이터 기반 역량을 연합체 내 협력 모델에 접목하고, 기술 교류와 공동 사업화 방안을 모색할 계획이다. ■ 데이원컴퍼니(대표 신해동, 김동혁)는 국비지원 교육기관 커널아카데미가 대학생 AI 크루 ‘유니커(Uniker)’의 참가자를 모집한다고 밝혔다. 유니커는 일반적인 마케팅 중심 대외활동과 달리 서포터즈형 해커톤 방식으로 운영된다. ‘대학 생활을 2"
+        },
+        {
+          "title": "[게시판] SKT, 사내 AI 해커톤 ‘AX 챌린지’ 진행 등 단신",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210852",
+          "date": "2026-05-22",
+          "source": "AI타임스",
+          "description": "■ SK텔레콤(대표 정재헌)은 임직원 주도 AI 전환(AX)를 위한 사내 AI 해커톤 ‘AX 챌린지’를 진행했다고 밝혔다. 이번 챌린지는 총 54개팀, 115명이 참여했으며 개발된 서비스는 사내 AX 지원 플랫폼인 ‘AXMS’와 연계해 업무 현장에 적용된다. 우수작은 에이닷 엑스 케이원(A.X K1) 기반 오토 품질 관리 시스템 ‘오토파일럿’ 등이 선정됐다.■ 라이드플럭스 정하욱 부대표는 지난 19일 열린 ‘제61회 발명의 날’ 기념식에서 대통령 표창을 수상했다고 밝혔다. 지식재산처가 주최하고 한국발명진흥회가 주관하는 이번 행사에서",
+          "image": "https://cdn.aitimes.com/news/photo/202605/210852_213642_4430.jpg",
+          "is_english": true,
+          "original_title": "[게시판] SKT, 사내 AI 해커톤 ‘AX 챌린지’ 진행 등 단신",
+          "original_summary": "■ SK텔레콤(대표 정재헌)은 임직원 주도 AI 전환(AX)를 위한 사내 AI 해커톤 ‘AX 챌린지’를 진행했다고 밝혔다. 이번 챌린지는 총 54개팀, 115명이 참여했으며 개발된 서비스는 사내 AX 지원 플랫폼인 ‘AXMS’와 연계해 업무 현장에 적용된다. 우수작은 에이닷 엑스 케이원(A.X K1) 기반 오토 품질 관리 시스템 ‘오토파일럿’ 등이 선정됐다.■ 라이드플럭스 정하욱 부대표는 지난 19일 열린 ‘제61회 발명의 날’ 기념식에서 대통령 표창을 수상했다고 밝혔다. 지식재산처가 주최하고 한국발명진흥회가 주관하는 이번 행사에서",
+          "summary": "■ SK텔레콤(대표 정재헌)은 임직원 주도 AI 전환(AX)를 위한 사내 AI 해커톤 ‘AX 챌린지’를 진행했다고 밝혔다. 이번 챌린지는 총 54개팀, 115명이 참여했으며 개발된 서비스는 사내 AX 지원 플랫폼인 ‘AXMS’와 연계해 업무 현장에 적용된다. 우수작은 에이닷 엑스 케이원(A.X K1) 기반 오토 품질 관리 시스템 ‘오토파일럿’ 등이 선정됐다.■ 라이드플럭스 정하욱 부대표는 지난 19일 열린 ‘제61회 발명의 날’ 기념식에서 대통령 표창을 수상했다고 밝혔다. 지식재산처가 주최하고 한국발명진흥회가 주관하는 이번 행사에서"
+        },
+        {
+          "title": "테슬라 FSD, 3년 만에 만리장성 넘었다...중국서 공식 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210843",
+          "date": "2026-05-22",
+          "source": "AI타임스",
+          "description": "테슬라가 수년간의 지연 끝에 중국 시장에서 ‘FSD(Full Self-Driving)’ 기능을 공식 출시했다. 중국 토종 전기차 업체들이 이미 자체 자율주행 기술을 앞세워 시장을 선점한 가운데 테슬라가 뒤늦게 반격에 나선 것이다. 테슬라는 21일(현지시간) X를 통해 중국을 포함한 10개 시장에서 ‘FSD 감독형(FSD Supervised)’ 기능을 사용할 수 있다고 발표했다.테슬라가 중국 내 FSD 제공 사실을 공식 확인한 것은 이번이 처음이다.이번 발표는 일론 머스크 CEO가 미국 경제사절단으로 도널드 트럼프 미국 대통령의 중국",
+          "image": "https://cdn.aitimes.com/news/photo/202605/210843_213628_298.jpg",
+          "is_english": false,
+          "original_title": "테슬라 FSD, 3년 만에 만리장성 넘었다...중국서 공식 출시",
+          "original_summary": "테슬라가 수년간의 지연 끝에 중국 시장에서 ‘FSD(Full Self-Driving)’ 기능을 공식 출시했다. 중국 토종 전기차 업체들이 이미 자체 자율주행 기술을 앞세워 시장을 선점한 가운데 테슬라가 뒤늦게 반격에 나선 것이다. 테슬라는 21일(현지시간) X를 통해 중국을 포함한 10개 시장에서 ‘FSD 감독형(FSD Supervised)’ 기능을 사용할 수 있다고 발표했다.테슬라가 중국 내 FSD 제공 사실을 공식 확인한 것은 이번이 처음이다.이번 발표는 일론 머스크 CEO가 미국 경제사절단으로 도널드 트럼프 미국 대통령의 중국",
+          "summary": "테슬라가 수년간의 지연 끝에 중국 시장에서 ‘FSD(Full Self-Driving)’ 기능을 공식 출시했다. 중국 토종 전기차 업체들이 이미 자체 자율주행 기술을 앞세워 시장을 선점한 가운데 테슬라가 뒤늦게 반격에 나선 것이다. 테슬라는 21일(현지시간) X를 통해 중국을 포함한 10개 시장에서 ‘FSD 감독형(FSD Supervised)’ 기능을 사용할 수 있다고 발표했다.테슬라가 중국 내 FSD 제공 사실을 공식 확인한 것은 이번이 처음이다.이번 발표는 일론 머스크 CEO가 미국 경제사절단으로 도널드 트럼프 미국 대통령의 중국"
+        },
+        {
+          "title": "베어로보틱스, 협업형 AI 서빙로봇 ‘서비 큐’ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210855",
+          "date": "2026-05-22",
+          "source": "AI타임스",
+          "description": "피지컬 AI 전문 베어로보틱스(대표 하정우)는 지난 16~19일 미국 시카고에서 열린 ‘NRA 2026’에서 협업형 AI 서빙로봇 신제품 ‘서비 큐(Servi Q)’를 공개했다고 밝혔다.NRA는 전 세계 외식업 관계자와 주요 기업들이 참가하는 전시회다. 이번에 공개된 서비 큐는 외식업 현장의 운영 효율과 서비스 속도를 높이기 위한 ‘차세대 서빙로봇’이라는 설명이다. 소프트뱅크 로보틱스와의 협업을 통해 개발됐다.베어로보틱스 서비 라인업 가운데 가장 콤팩트한 제품으로, 45cm 폭의 좁은 통로에서도 안정적인 자율주행이 가능하도록 설계됐",
+          "image": "https://cdn.aitimes.com/news/photo/202605/210855_213643_5137.jpeg",
+          "is_english": false,
+          "original_title": "베어로보틱스, 협업형 AI 서빙로봇 ‘서비 큐’ 공개",
+          "original_summary": "피지컬 AI 전문 베어로보틱스(대표 하정우)는 지난 16~19일 미국 시카고에서 열린 ‘NRA 2026’에서 협업형 AI 서빙로봇 신제품 ‘서비 큐(Servi Q)’를 공개했다고 밝혔다.NRA는 전 세계 외식업 관계자와 주요 기업들이 참가하는 전시회다. 이번에 공개된 서비 큐는 외식업 현장의 운영 효율과 서비스 속도를 높이기 위한 ‘차세대 서빙로봇’이라는 설명이다. 소프트뱅크 로보틱스와의 협업을 통해 개발됐다.베어로보틱스 서비 라인업 가운데 가장 콤팩트한 제품으로, 45cm 폭의 좁은 통로에서도 안정적인 자율주행이 가능하도록 설계됐",
+          "summary": "피지컬 AI 전문 베어로보틱스(대표 하정우)는 지난 16~19일 미국 시카고에서 열린 ‘NRA 2026’에서 협업형 AI 서빙로봇 신제품 ‘서비 큐(Servi Q)’를 공개했다고 밝혔다.NRA는 전 세계 외식업 관계자와 주요 기업들이 참가하는 전시회다. 이번에 공개된 서비 큐는 외식업 현장의 운영 효율과 서비스 속도를 높이기 위한 ‘차세대 서빙로봇’이라는 설명이다. 소프트뱅크 로보틱스와의 협업을 통해 개발됐다.베어로보틱스 서비 라인업 가운데 가장 콤팩트한 제품으로, 45cm 폭의 좁은 통로에서도 안정적인 자율주행이 가능하도록 설계됐"
+        },
+        {
+          "title": "티디지-스패로우, 개발부터 운영까지 ‘엔드투엔드 보안 체계’ 구축 협력",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210853",
+          "date": "2026-05-22",
+          "source": "AI타임스",
+          "description": "AI 클라우드 전문 티디지(사장 이문형)는 애플리케이션 보안 전문 스패로우(대표 장일수)와 ‘소프트웨어 공급망 보안 강화’ 계약을 체결했다고 22일 밝혔다.양사는 이번 계약에 따라 소프트웨어 구성요소의 투명성을 확보, SBOM(Software Bill of Materials) 기반 보안체계를 구축한다는 계획이다. 개발부터 운영까지 보안 역량을 통합한 ‘개발, 보안, 운영(DevSecOps) 환경을 구현할 예정이다.티디지는 클라우드 및 인프라 운영 노하우에 스패로우의 SAST(정적분석), DAST(동적분석), SCA(소프트웨어 구성분",
+          "image": "https://cdn.aitimes.com/news/photo/202605/210853_213638_3849.png",
+          "is_english": false,
+          "original_title": "티디지-스패로우, 개발부터 운영까지 ‘엔드투엔드 보안 체계’ 구축 협력",
+          "original_summary": "AI 클라우드 전문 티디지(사장 이문형)는 애플리케이션 보안 전문 스패로우(대표 장일수)와 ‘소프트웨어 공급망 보안 강화’ 계약을 체결했다고 22일 밝혔다.양사는 이번 계약에 따라 소프트웨어 구성요소의 투명성을 확보, SBOM(Software Bill of Materials) 기반 보안체계를 구축한다는 계획이다. 개발부터 운영까지 보안 역량을 통합한 ‘개발, 보안, 운영(DevSecOps) 환경을 구현할 예정이다.티디지는 클라우드 및 인프라 운영 노하우에 스패로우의 SAST(정적분석), DAST(동적분석), SCA(소프트웨어 구성분",
+          "summary": "AI 클라우드 전문 티디지(사장 이문형)는 애플리케이션 보안 전문 스패로우(대표 장일수)와 ‘소프트웨어 공급망 보안 강화’ 계약을 체결했다고 22일 밝혔다.양사는 이번 계약에 따라 소프트웨어 구성요소의 투명성을 확보, SBOM(Software Bill of Materials) 기반 보안체계를 구축한다는 계획이다. 개발부터 운영까지 보안 역량을 통합한 ‘개발, 보안, 운영(DevSecOps) 환경을 구현할 예정이다.티디지는 클라우드 및 인프라 운영 노하우에 스패로우의 SAST(정적분석), DAST(동적분석), SCA(소프트웨어 구성분"
+        },
         {
           "title": "소방청장 \"AI 기술로 현장 대응력 강화…소방대원 안전도 확보\"",
           "link": "https://www.yna.co.kr/view/AKR20260522107300530",
@@ -306,19 +414,6 @@
           "category": "AI Model"
         },
         {
-          "title": "openbmb/MiniCPM-V-4.6",
-          "link": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
-          "date": "2026-05-22",
-          "source": "HuggingFace",
-          "description": "• MiniCPM-V-4.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/openbmb/MiniCPM-V/main/assets/minicpmv4.6/instruct.png",
-          "is_english": true,
-          "summary": "• MiniCPM-V-4.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "openbmb/MiniCPM-V-4.6",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Supertone/supertonic-3",
           "link": "https://huggingface.co/Supertone/supertonic-3",
           "date": "2026-05-22",
@@ -328,6 +423,19 @@
           "is_english": true,
           "summary": "• supertonic-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Supertone/supertonic-3",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "openbmb/MiniCPM-V-4.6",
+          "link": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
+          "date": "2026-05-22",
+          "source": "HuggingFace",
+          "description": "• MiniCPM-V-4.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://raw.githubusercontent.com/openbmb/MiniCPM-V/main/assets/minicpmv4.6/instruct.png",
+          "is_english": true,
+          "summary": "• MiniCPM-V-4.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "openbmb/MiniCPM-V-4.6",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -345,15 +453,15 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.6-27B-MTP-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.6-27B-MTP-GGUF",
+          "title": "tencent/Hy-MT2-1.8B",
+          "link": "https://huggingface.co/tencent/Hy-MT2-1.8B",
           "date": "2026-05-22",
           "source": "HuggingFace",
-          "description": "• Qwen3.6-27B-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "description": "• Hy-MT2-1.8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Tencent%20Hy-ffc107?color=ffc107&logoColor=white",
           "is_english": true,
-          "summary": "• Qwen3.6-27B-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Qwen3.6-27B-MTP-GGUF",
+          "summary": "• Hy-MT2-1.8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "tencent/Hy-MT2-1.8B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -384,28 +492,15 @@
           "category": "AI Model"
         },
         {
-          "title": "circlestone-labs/Anima",
-          "link": "https://huggingface.co/circlestone-labs/Anima",
+          "title": "unsloth/Qwen3.6-27B-MTP-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.6-27B-MTP-GGUF",
           "date": "2026-05-22",
           "source": "HuggingFace",
-          "description": "• Anima 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/circlestone-labs/Anima/resolve/main/montage.jpg",
+          "description": "• Qwen3.6-27B-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
           "is_english": true,
-          "summary": "• Anima 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "circlestone-labs/Anima",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "tencent/Hy-MT2-1.8B",
-          "link": "https://huggingface.co/tencent/Hy-MT2-1.8B",
-          "date": "2026-05-22",
-          "source": "HuggingFace",
-          "description": "• Hy-MT2-1.8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Tencent%20Hy-ffc107?color=ffc107&logoColor=white",
-          "is_english": true,
-          "summary": "• Hy-MT2-1.8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "tencent/Hy-MT2-1.8B",
+          "summary": "• Qwen3.6-27B-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Qwen3.6-27B-MTP-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -423,6 +518,19 @@
           "category": "AI Model"
         },
         {
+          "title": "circlestone-labs/Anima",
+          "link": "https://huggingface.co/circlestone-labs/Anima",
+          "date": "2026-05-22",
+          "source": "HuggingFace",
+          "description": "• Anima 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/circlestone-labs/Anima/resolve/main/montage.jpg",
+          "is_english": true,
+          "summary": "• Anima 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "circlestone-labs/Anima",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "froggeric/Qwen-Fixed-Chat-Templates",
           "link": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
           "date": "2026-05-22",
@@ -432,19 +540,6 @@
           "is_english": true,
           "summary": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "froggeric/Qwen-Fixed-Chat-Templates",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "ResembleAI/Dramabox",
-          "link": "https://huggingface.co/ResembleAI/Dramabox",
-          "date": "2026-05-22",
-          "source": "HuggingFace",
-          "description": "• Dramabox 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/discord/1377773249798344776?label=join%20discord&logo=discord&style=flat",
-          "is_english": true,
-          "summary": "• Dramabox 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ResembleAI/Dramabox",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -475,6 +570,19 @@
           "category": "AI Model"
         },
         {
+          "title": "ResembleAI/Dramabox",
+          "link": "https://huggingface.co/ResembleAI/Dramabox",
+          "date": "2026-05-22",
+          "source": "HuggingFace",
+          "description": "• Dramabox 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/discord/1377773249798344776?label=join%20discord&logo=discord&style=flat",
+          "is_english": true,
+          "summary": "• Dramabox 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "ResembleAI/Dramabox",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "deepseek-ai/DeepSeek-V4-Pro",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
           "date": "2026-05-22",
@@ -501,6 +609,19 @@
           "category": "AI Model"
         },
         {
+          "title": "tencent/Hy-MT2-30B-A3B",
+          "link": "https://huggingface.co/tencent/Hy-MT2-30B-A3B",
+          "date": "2026-05-22",
+          "source": "HuggingFace",
+          "description": "• Hy-MT2-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Tencent%20Hy-ffc107?color=ffc107&logoColor=white",
+          "is_english": true,
+          "summary": "• Hy-MT2-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "tencent/Hy-MT2-30B-A3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "CohereLabs/command-a-plus-05-2026-bf16",
           "link": "https://huggingface.co/CohereLabs/command-a-plus-05-2026-bf16",
           "date": "2026-05-22",
@@ -523,19 +644,6 @@
           "is_english": true,
           "summary": "• HiDream-O1-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "HiDream-ai/HiDream-O1-Image",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "deepseek-ai/DeepSeek-V4-Flash",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
-          "date": "2026-05-22",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
-          "is_english": true,
-          "summary": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepseek-ai/DeepSeek-V4-Flash",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
