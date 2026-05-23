@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-05-23",
-      "update_time": "2026-05-23 02:01:21",
+      "update_time": "2026-05-23 05:59:20",
       "news": [
+        {
+          "title": "중국 “외국 투자 거부 강요 안 해”…하지만 글로벌 자본 철수 본격화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210863",
+          "date": "2026-05-23",
+          "source": "AI타임스",
+          "description": "중국 정부가 자국 기술 기업에 외국 자본의 투자를 거부하도록 강요한 적이 없다고 공식 부인했다. 그러나 시장에서는 이미 미·중 기술 패권 갈등에 따른 규제 압박에 따라 글로벌 자본의 이탈과 인프라 매각이 본격화하는 모양새다.중국 경제 정책을 총괄하는 국가발전개혁위원회(NDRC)의 리차오 대변인은 22일 브리핑을 통해 외국인 투자가 중국 법률을 준수하고 국가 안보를 위협하지 않는 한 여전히 환영받을 것이라고 밝혔다.리 대변인은 \\\"우리는 중국 기술 기업에 외국인 투자를 받지 말라고 요구한 적이 없다\\\"라고 말했다. 그러나 \\\"동시에 외국인",
+          "image": "https://cdn.aitimes.com/news/photo/202605/210863_213651_5033.jpg",
+          "is_english": false,
+          "original_title": "중국 “외국 투자 거부 강요 안 해”…하지만 글로벌 자본 철수 본격화",
+          "original_summary": "중국 정부가 자국 기술 기업에 외국 자본의 투자를 거부하도록 강요한 적이 없다고 공식 부인했다. 그러나 시장에서는 이미 미·중 기술 패권 갈등에 따른 규제 압박에 따라 글로벌 자본의 이탈과 인프라 매각이 본격화하는 모양새다.중국 경제 정책을 총괄하는 국가발전개혁위원회(NDRC)의 리차오 대변인은 22일 브리핑을 통해 외국인 투자가 중국 법률을 준수하고 국가 안보를 위협하지 않는 한 여전히 환영받을 것이라고 밝혔다.리 대변인은 \\\"우리는 중국 기술 기업에 외국인 투자를 받지 말라고 요구한 적이 없다\\\"라고 말했다. 그러나 \\\"동시에 ",
+          "summary": "중국 정부가 자국 기술 기업에 외국 자본의 투자를 거부하도록 강요한 적이 없다고 공식 부인했다. 그러나 시장에서는 이미 미·중 기술 패권 갈등에 따른 규제 압박에 따라 글로벌 자본의 이탈과 인프라 매각이 본격화하는 모양새다.중국 경제 정책을 총괄하는 국가발전개혁위원회(NDRC)의 리차오 대변인은 22일 브리핑을 통해 외국인 투자가 중국 법률을 준수하고 국가 안보를 위협하지 않는 한 여전히 환영받을 것이라고 밝혔다.리 대변인은 \\\"우리는 중국 기술 기업에 외국인 투자를 받지 말라고 요구한 적이 없다\\\"라고 말했다. 그러나 \\\"동시에 "
+        },
         {
           "title": "메타, 한달 새 앱 2개 기습 출시…\"AI로 수십개 개발\" 현실화하나",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=210861",
@@ -153,6 +165,19 @@
           "category": "AI Model"
         },
         {
+          "title": "NemoStation/Marlin-2B",
+          "link": "https://huggingface.co/NemoStation/Marlin-2B",
+          "date": "2026-05-23",
+          "source": "HuggingFace",
+          "description": "• Marlin-2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Marlin-2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "NemoStation/Marlin-2B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "SulphurAI/Sulphur-2-base",
           "link": "https://huggingface.co/SulphurAI/Sulphur-2-base",
           "date": "2026-05-23",
@@ -166,15 +191,15 @@
           "category": "AI Model"
         },
         {
-          "title": "NemoStation/Marlin-2B",
-          "link": "https://huggingface.co/NemoStation/Marlin-2B",
+          "title": "tencent/Hy-MT2-30B-A3B",
+          "link": "https://huggingface.co/tencent/Hy-MT2-30B-A3B",
           "date": "2026-05-23",
           "source": "HuggingFace",
-          "description": "• Marlin-2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "description": "• Hy-MT2-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Tencent%20Hy-ffc107?color=ffc107&logoColor=white",
           "is_english": true,
-          "summary": "• Marlin-2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "NemoStation/Marlin-2B",
+          "summary": "• Hy-MT2-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "tencent/Hy-MT2-30B-A3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -201,19 +226,6 @@
           "is_english": true,
           "summary": "• Qwen3.6-27B-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/Qwen3.6-27B-MTP-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "tencent/Hy-MT2-30B-A3B",
-          "link": "https://huggingface.co/tencent/Hy-MT2-30B-A3B",
-          "date": "2026-05-23",
-          "source": "HuggingFace",
-          "description": "• Hy-MT2-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Tencent%20Hy-ffc107?color=ffc107&logoColor=white",
-          "is_english": true,
-          "summary": "• Hy-MT2-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "tencent/Hy-MT2-30B-A3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -283,19 +295,6 @@
           "category": "AI Model"
         },
         {
-          "title": "ResembleAI/Dramabox",
-          "link": "https://huggingface.co/ResembleAI/Dramabox",
-          "date": "2026-05-23",
-          "source": "HuggingFace",
-          "description": "• Dramabox 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/discord/1377773249798344776?label=join%20discord&logo=discord&style=flat",
-          "is_english": true,
-          "summary": "• Dramabox 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ResembleAI/Dramabox",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "deepseek-ai/DeepSeek-V4-Pro",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
           "date": "2026-05-23",
@@ -309,15 +308,15 @@
           "category": "AI Model"
         },
         {
-          "title": "TencentARC/Pixal3D",
-          "link": "https://huggingface.co/TencentARC/Pixal3D",
+          "title": "ResembleAI/Dramabox",
+          "link": "https://huggingface.co/ResembleAI/Dramabox",
           "date": "2026-05-23",
           "source": "HuggingFace",
-          "description": "• Pixal3D 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• Dramabox 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/discord/1377773249798344776?label=join%20discord&logo=discord&style=flat",
           "is_english": true,
-          "summary": "• Pixal3D 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "TencentARC/Pixal3D",
+          "summary": "• Dramabox 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "ResembleAI/Dramabox",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -335,6 +334,19 @@
           "category": "AI Model"
         },
         {
+          "title": "TencentARC/Pixal3D",
+          "link": "https://huggingface.co/TencentARC/Pixal3D",
+          "date": "2026-05-23",
+          "source": "HuggingFace",
+          "description": "• Pixal3D 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Pixal3D 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "TencentARC/Pixal3D",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Efficient-Large-Model/SANA-WM_bidirectional",
           "link": "https://huggingface.co/Efficient-Large-Model/SANA-WM_bidirectional",
           "date": "2026-05-23",
@@ -348,15 +360,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.6-27B",
-          "link": "https://huggingface.co/Qwen/Qwen3.6-27B",
+          "title": "deepseek-ai/DeepSeek-V4-Flash",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
           "date": "2026-05-23",
           "source": "HuggingFace",
-          "description": "• Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "description": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
           "is_english": true,
-          "summary": "• Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.6-27B",
+          "summary": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepseek-ai/DeepSeek-V4-Flash",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
