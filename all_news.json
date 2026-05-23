@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-05-24",
-      "update_time": "2026-05-23 18:54:31",
+      "update_time": "2026-05-23 21:43:48",
       "news": [
         {
           "title": "bytedance-research/Lance",
@@ -57,19 +57,6 @@
           "category": "AI Model"
         },
         {
-          "title": "openbmb/MiniCPM-V-4.6",
-          "link": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
-          "date": "2026-05-24",
-          "source": "HuggingFace",
-          "description": "• MiniCPM-V-4.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/openbmb/MiniCPM-V/main/assets/minicpmv4.6/instruct.png",
-          "is_english": true,
-          "summary": "• MiniCPM-V-4.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "openbmb/MiniCPM-V-4.6",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "NemoStation/Marlin-2B",
           "link": "https://huggingface.co/NemoStation/Marlin-2B",
           "date": "2026-05-24",
@@ -79,6 +66,19 @@
           "is_english": true,
           "summary": "• Marlin-2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "NemoStation/Marlin-2B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "openbmb/MiniCPM-V-4.6",
+          "link": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
+          "date": "2026-05-24",
+          "source": "HuggingFace",
+          "description": "• MiniCPM-V-4.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://raw.githubusercontent.com/openbmb/MiniCPM-V/main/assets/minicpmv4.6/instruct.png",
+          "is_english": true,
+          "summary": "• MiniCPM-V-4.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "openbmb/MiniCPM-V-4.6",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -200,19 +200,6 @@
           "category": "AI Model"
         },
         {
-          "title": "ResembleAI/Dramabox",
-          "link": "https://huggingface.co/ResembleAI/Dramabox",
-          "date": "2026-05-24",
-          "source": "HuggingFace",
-          "description": "• Dramabox 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/discord/1377773249798344776?label=join%20discord&logo=discord&style=flat",
-          "is_english": true,
-          "summary": "• Dramabox 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ResembleAI/Dramabox",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "tencent/Hy-MT2-7B",
           "link": "https://huggingface.co/tencent/Hy-MT2-7B",
           "date": "2026-05-24",
@@ -222,6 +209,19 @@
           "is_english": true,
           "summary": "• Hy-MT2-7B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "tencent/Hy-MT2-7B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "ResembleAI/Dramabox",
+          "link": "https://huggingface.co/ResembleAI/Dramabox",
+          "date": "2026-05-24",
+          "source": "HuggingFace",
+          "description": "• Dramabox 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/discord/1377773249798344776?label=join%20discord&logo=discord&style=flat",
+          "is_english": true,
+          "summary": "• Dramabox 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "ResembleAI/Dramabox",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
