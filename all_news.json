@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-05-23",
-      "update_time": "2026-05-23 05:59:20",
+      "update_time": "2026-05-23 08:16:16",
       "news": [
+        {
+          "title": "[AI 이슈트렌드] 삼성전자 파업·스타벅스 '5·18 비하' 파문에 관심 집중",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210867",
+          "date": "2026-05-23",
+          "source": "AI타임스",
+          "description": "AI타임스와 이스트에이드의 5월 셋째 주(5월 15일~21일) 이슈 분석 결과, 대기업 파업과 역사 비하 논란, 국내외 주요 정세 등이 상위권을 차지했다.이번 주는 ‘삼성전자 파업 긴급조정(30.67%)’이 압도적 검색량을 기록했다.총파업 직전 극적으로 노사 잠정 합의안이 도출되며 파업은 일시 유보됐다. 노조는 오는 27일까지 찬반투표를 실시하나, DS 부문과 DX·비메모리 부문 간 성과급 격차가 최대 10배에 달해 내부 부결 움직임도 예고됐다.삼성전자 주주 단체도 주주총회 결의 없이 이루어진 합의라며 무효 소송을 제기하고 나섰으며",
+          "image": "https://cdn.aitimes.com/news/photo/202605/210867_213657_495.jpg",
+          "is_english": false,
+          "original_title": "[AI 이슈트렌드] 삼성전자 파업·스타벅스 '5·18 비하' 파문에 관심 집중",
+          "original_summary": "AI타임스와 이스트에이드의 5월 셋째 주(5월 15일~21일) 이슈 분석 결과, 대기업 파업과 역사 비하 논란, 국내외 주요 정세 등이 상위권을 차지했다.이번 주는 ‘삼성전자 파업 긴급조정(30.67%)’이 압도적 검색량을 기록했다.총파업 직전 극적으로 노사 잠정 합의안이 도출되며 파업은 일시 유보됐다. 노조는 오는 27일까지 찬반투표를 실시하나, DS 부문과 DX·비메모리 부문 간 성과급 격차가 최대 10배에 달해 내부 부결 움직임도 예고됐다.삼성전자 주주 단체도 주주총회 결의 없이 이루어진 합의라며 무효 소송을 제기하고 나섰으며",
+          "summary": "AI타임스와 이스트에이드의 5월 셋째 주(5월 15일~21일) 이슈 분석 결과, 대기업 파업과 역사 비하 논란, 국내외 주요 정세 등이 상위권을 차지했다.이번 주는 ‘삼성전자 파업 긴급조정(30.67%)’이 압도적 검색량을 기록했다.총파업 직전 극적으로 노사 잠정 합의안이 도출되며 파업은 일시 유보됐다. 노조는 오는 27일까지 찬반투표를 실시하나, DS 부문과 DX·비메모리 부문 간 성과급 격차가 최대 10배에 달해 내부 부결 움직임도 예고됐다.삼성전자 주주 단체도 주주총회 결의 없이 이루어진 합의라며 무효 소송을 제기하고 나섰으며"
+        },
+        {
+          "title": "[AI카툰] Bob, Senior IT guy - 밥, VC와 데이트하기",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210869",
+          "date": "2026-05-23",
+          "source": "AI타임스",
+          "description": "글·그림 Dr. Alf",
+          "image": "https://cdn.aitimes.com/news/photo/202605/210869_213658_2858.png",
+          "is_english": true,
+          "original_title": "[AI카툰] Bob, Senior IT guy - 밥, VC와 데이트하기",
+          "original_summary": "글·그림 Dr. Alf",
+          "summary": "글·그림 Dr. Alf"
+        },
         {
           "title": "중국 “외국 투자 거부 강요 안 해”…하지만 글로벌 자본 철수 본격화",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=210863",
@@ -139,19 +163,6 @@
           "category": "AI Model"
         },
         {
-          "title": "openbmb/MiniCPM-V-4.6",
-          "link": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
-          "date": "2026-05-23",
-          "source": "HuggingFace",
-          "description": "• MiniCPM-V-4.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/openbmb/MiniCPM-V/main/assets/minicpmv4.6/instruct.png",
-          "is_english": true,
-          "summary": "• MiniCPM-V-4.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "openbmb/MiniCPM-V-4.6",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "tencent/Hy-MT2-1.8B",
           "link": "https://huggingface.co/tencent/Hy-MT2-1.8B",
           "date": "2026-05-23",
@@ -165,28 +176,15 @@
           "category": "AI Model"
         },
         {
-          "title": "NemoStation/Marlin-2B",
-          "link": "https://huggingface.co/NemoStation/Marlin-2B",
+          "title": "openbmb/MiniCPM-V-4.6",
+          "link": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
           "date": "2026-05-23",
           "source": "HuggingFace",
-          "description": "• Marlin-2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "description": "• MiniCPM-V-4.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://raw.githubusercontent.com/openbmb/MiniCPM-V/main/assets/minicpmv4.6/instruct.png",
           "is_english": true,
-          "summary": "• Marlin-2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "NemoStation/Marlin-2B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "SulphurAI/Sulphur-2-base",
-          "link": "https://huggingface.co/SulphurAI/Sulphur-2-base",
-          "date": "2026-05-23",
-          "source": "HuggingFace",
-          "description": "• Sulphur-2-base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Sulphur-2-base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "SulphurAI/Sulphur-2-base",
+          "summary": "• MiniCPM-V-4.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "openbmb/MiniCPM-V-4.6",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -204,6 +202,19 @@
           "category": "AI Model"
         },
         {
+          "title": "NemoStation/Marlin-2B",
+          "link": "https://huggingface.co/NemoStation/Marlin-2B",
+          "date": "2026-05-23",
+          "source": "HuggingFace",
+          "description": "• Marlin-2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Marlin-2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "NemoStation/Marlin-2B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "sapientinc/HRM-Text-1B",
           "link": "https://huggingface.co/sapientinc/HRM-Text-1B",
           "date": "2026-05-23",
@@ -213,6 +224,19 @@
           "is_english": true,
           "summary": "• HRM-Text-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "sapientinc/HRM-Text-1B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "SulphurAI/Sulphur-2-base",
+          "link": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+          "date": "2026-05-23",
+          "source": "HuggingFace",
+          "description": "• Sulphur-2-base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Sulphur-2-base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "SulphurAI/Sulphur-2-base",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -256,19 +280,6 @@
           "category": "AI Model"
         },
         {
-          "title": "circlestone-labs/Anima",
-          "link": "https://huggingface.co/circlestone-labs/Anima",
-          "date": "2026-05-23",
-          "source": "HuggingFace",
-          "description": "• Anima 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/circlestone-labs/Anima/resolve/main/montage.jpg",
-          "is_english": true,
-          "summary": "• Anima 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "circlestone-labs/Anima",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Jackrong/Qwopus3.5-9B-Coder-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwopus3.5-9B-Coder-GGUF",
           "date": "2026-05-23",
@@ -278,6 +289,19 @@
           "is_english": true,
           "summary": "• Qwopus3.5-9B-Coder-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Jackrong/Qwopus3.5-9B-Coder-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "circlestone-labs/Anima",
+          "link": "https://huggingface.co/circlestone-labs/Anima",
+          "date": "2026-05-23",
+          "source": "HuggingFace",
+          "description": "• Anima 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/circlestone-labs/Anima/resolve/main/montage.jpg",
+          "is_english": true,
+          "summary": "• Anima 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "circlestone-labs/Anima",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
