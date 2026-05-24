@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-05-24",
-      "update_time": "2026-05-24 06:28:04",
+      "update_time": "2026-05-24 10:25:57",
       "news": [
         {
           "title": "MS, 차세대 브라우저 에이전트 ‘파라1.5’ 공개…\"오픈AI·구글 성능 추월\"",
@@ -280,19 +280,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Jackrong/Qwopus3.5-9B-Coder-GGUF",
-          "link": "https://huggingface.co/Jackrong/Qwopus3.5-9B-Coder-GGUF",
-          "date": "2026-05-24",
-          "source": "HuggingFace",
-          "description": "• Qwopus3.5-9B-Coder-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/8qFQVuCxbgkWqKa2B_Vph.jpeg",
-          "is_english": true,
-          "summary": "• Qwopus3.5-9B-Coder-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jackrong/Qwopus3.5-9B-Coder-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "circlestone-labs/Anima",
           "link": "https://huggingface.co/circlestone-labs/Anima",
           "date": "2026-05-24",
@@ -315,6 +302,19 @@
           "is_english": true,
           "summary": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "deepseek-ai/DeepSeek-V4-Pro",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Jackrong/Qwopus3.5-9B-Coder-GGUF",
+          "link": "https://huggingface.co/Jackrong/Qwopus3.5-9B-Coder-GGUF",
+          "date": "2026-05-24",
+          "source": "HuggingFace",
+          "description": "• Qwopus3.5-9B-Coder-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/66309bd090589b7c65950665/8qFQVuCxbgkWqKa2B_Vph.jpeg",
+          "is_english": true,
+          "summary": "• Qwopus3.5-9B-Coder-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jackrong/Qwopus3.5-9B-Coder-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
