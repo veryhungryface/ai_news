@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-05-25",
-      "update_time": "2026-05-24 19:00:30",
+      "update_time": "2026-05-24 21:45:17",
       "news": [
         {
           "title": "bytedance-research/Lance",
@@ -239,15 +239,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Jackrong/Qwopus3.6-27B-v2-GGUF",
-          "link": "https://huggingface.co/Jackrong/Qwopus3.6-27B-v2-GGUF",
+          "title": "meituan-longcat/LongCat-Video-Avatar-1.5",
+          "link": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
           "date": "2026-05-25",
           "source": "HuggingFace",
-          "description": "• Qwopus3.6-27B-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "description": "• LongCat-Video-Avatar-1.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5/resolve/main/assets/logo.png",
           "is_english": true,
-          "summary": "• Qwopus3.6-27B-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jackrong/Qwopus3.6-27B-v2-GGUF",
+          "summary": "• LongCat-Video-Avatar-1.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "meituan-longcat/LongCat-Video-Avatar-1.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +268,20 @@
     },
     {
       "date": "2026-05-24",
-      "update_time": "2026-05-24 15:55:00",
+      "update_time": "2026-05-24 21:45:15",
       "news": [
+        {
+          "title": "Everyone is navigating AI security in real time — even Google",
+          "link": "https://techcrunch.com/2026/05/24/everyone-is-navigating-ai-security-in-real-time-even-google/",
+          "date": "2026-05-24",
+          "source": "TechCrunch",
+          "description": "We're in the transition period -- all of us.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2266466589.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Everyone is navigating AI security in real time — even Google",
+          "original_summary": "We're in the transition period -- all of us.",
+          "summary": "We're in the transition period -- all of us."
+        },
         {
           "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
           "link": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
