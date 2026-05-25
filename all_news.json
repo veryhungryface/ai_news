@@ -2,21 +2,8 @@
   "dates": [
     {
       "date": "2026-05-26",
-      "update_time": "2026-05-25 19:15:09",
+      "update_time": "2026-05-25 22:01:04",
       "news": [
-        {
-          "title": "bytedance-research/Lance",
-          "link": "https://huggingface.co/bytedance-research/Lance",
-          "date": "2026-05-26",
-          "source": "HuggingFace",
-          "description": "• Lance 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/bytedance-research/Lance/resolve/main/assets/logo/lance-logo.webp",
-          "is_english": true,
-          "summary": "• Lance 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "bytedance-research/Lance",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
         {
           "title": "tencent/Hy-MT2-1.8B",
           "link": "https://huggingface.co/tencent/Hy-MT2-1.8B",
@@ -27,6 +14,19 @@
           "is_english": true,
           "summary": "• Hy-MT2-1.8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "tencent/Hy-MT2-1.8B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "bytedance-research/Lance",
+          "link": "https://huggingface.co/bytedance-research/Lance",
+          "date": "2026-05-26",
+          "source": "HuggingFace",
+          "description": "• Lance 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/bytedance-research/Lance/resolve/main/assets/logo/lance-logo.webp",
+          "is_english": true,
+          "summary": "• Lance 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "bytedance-research/Lance",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -226,19 +226,6 @@
           "category": "AI Model"
         },
         {
-          "title": "froggeric/Qwen-Fixed-Chat-Templates",
-          "link": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
-          "date": "2026-05-26",
-          "source": "HuggingFace",
-          "description": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "froggeric/Qwen-Fixed-Chat-Templates",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "CohereLabs/command-a-plus-05-2026-bf16",
           "link": "https://huggingface.co/CohereLabs/command-a-plus-05-2026-bf16",
           "date": "2026-05-26",
@@ -261,6 +248,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-35B-A3B-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "froggeric/Qwen-Fixed-Chat-Templates",
+          "link": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
+          "date": "2026-05-26",
+          "source": "HuggingFace",
+          "description": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "froggeric/Qwen-Fixed-Chat-Templates",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
