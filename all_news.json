@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-05-26",
-      "update_time": "2026-05-25 16:58:41",
+      "update_time": "2026-05-25 19:15:09",
       "news": [
         {
           "title": "bytedance-research/Lance",
@@ -83,6 +83,19 @@
           "category": "AI Model"
         },
         {
+          "title": "meituan-longcat/LongCat-Video-Avatar-1.5",
+          "link": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
+          "date": "2026-05-26",
+          "source": "HuggingFace",
+          "description": "• LongCat-Video-Avatar-1.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5/resolve/main/assets/logo.png",
+          "is_english": true,
+          "summary": "• LongCat-Video-Avatar-1.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "meituan-longcat/LongCat-Video-Avatar-1.5",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "SulphurAI/Sulphur-2-base",
           "link": "https://huggingface.co/SulphurAI/Sulphur-2-base",
           "date": "2026-05-26",
@@ -105,19 +118,6 @@
           "is_english": true,
           "summary": "• command-a-plus-05-2026-w4a4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "CohereLabs/command-a-plus-05-2026-w4a4",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "meituan-longcat/LongCat-Video-Avatar-1.5",
-          "link": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
-          "date": "2026-05-26",
-          "source": "HuggingFace",
-          "description": "• LongCat-Video-Avatar-1.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5/resolve/main/assets/logo.png",
-          "is_english": true,
-          "summary": "• LongCat-Video-Avatar-1.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "meituan-longcat/LongCat-Video-Avatar-1.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,19 +239,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
-          "date": "2026-05-26",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "CohereLabs/command-a-plus-05-2026-bf16",
           "link": "https://huggingface.co/CohereLabs/command-a-plus-05-2026-bf16",
           "date": "2026-05-26",
@@ -263,13 +250,38 @@
           "translated_title": "CohereLabs/command-a-plus-05-2026-bf16",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
+          "date": "2026-05-26",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-35B-A3B-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• Qwen3.6-35B-A3B-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-05-25",
-      "update_time": "2026-05-25 16:58:41",
+      "update_time": "2026-05-25 19:15:09",
       "news": [
+        {
+          "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+          "link": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+          "date": "2026-05-25",
+          "source": "OpenAI",
+          "description": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
+          "image": null,
+          "is_english": true,
+          "original_title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+          "original_summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency.",
+          "summary": "OpenAI partners with Grupo Folha and Grupo UOL to bring trusted Brazilian journalism to ChatGPT, expanding access to news with attribution and transparency."
+        },
         {
           "title": "에이아이매틱스 \"차량 52만대 검증 온디바이스AI, 산업 표준 될 것\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=210894",
@@ -6985,7 +6997,7 @@
         {
           "title": "openbmb/MiniCPM-V-4.6",
           "link": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
-          "date": "2026-05-17",
+          "date": "2026-05-26",
           "source": "HuggingFace",
           "description": "• MiniCPM-V-4.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/openbmb/MiniCPM-V/main/assets/minicpmv4.6/instruct.png",
@@ -6998,7 +7010,7 @@
         {
           "title": "SulphurAI/Sulphur-2-base",
           "link": "https://huggingface.co/SulphurAI/Sulphur-2-base",
-          "date": "2026-05-17",
+          "date": "2026-05-26",
           "source": "HuggingFace",
           "description": "• Sulphur-2-base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -7011,7 +7023,7 @@
         {
           "title": "Supertone/supertonic-3",
           "link": "https://huggingface.co/Supertone/supertonic-3",
-          "date": "2026-05-17",
+          "date": "2026-05-26",
           "source": "HuggingFace",
           "description": "• supertonic-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/Supertone/supertonic-3/resolve/main/img/Supertonic3_HeroImage.png",
@@ -7037,7 +7049,7 @@
         {
           "title": "unsloth/Qwen3.6-27B-MTP-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.6-27B-MTP-GGUF",
-          "date": "2026-05-17",
+          "date": "2026-05-26",
           "source": "HuggingFace",
           "description": "• Qwen3.6-27B-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -7050,7 +7062,7 @@
         {
           "title": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
-          "date": "2026-05-17",
+          "date": "2026-05-26",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -7063,7 +7075,7 @@
         {
           "title": "deepseek-ai/DeepSeek-V4-Pro",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
-          "date": "2026-05-17",
+          "date": "2026-05-26",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
@@ -7089,7 +7101,7 @@
         {
           "title": "circlestone-labs/Anima",
           "link": "https://huggingface.co/circlestone-labs/Anima",
-          "date": "2026-05-17",
+          "date": "2026-05-26",
           "source": "HuggingFace",
           "description": "• Anima 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/circlestone-labs/Anima/resolve/main/montage.jpg",
@@ -7115,7 +7127,7 @@
         {
           "title": "froggeric/Qwen-Fixed-Chat-Templates",
           "link": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
-          "date": "2026-05-17",
+          "date": "2026-05-26",
           "source": "HuggingFace",
           "description": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
