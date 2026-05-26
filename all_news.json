@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-05-27",
-      "update_time": "2026-05-26 19:55:39",
+      "update_time": "2026-05-26 22:15:11",
       "news": [
+        {
+          "title": "[5월26일] AI 기업의 IPO 러시…\"자금은 충분, 이제는 ROI\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210919",
+          "date": "2026-05-27",
+          "source": "AI타임스",
+          "description": "지난주 스페이스X의 기업공개(IPO) 신청을 시작으로 올해에는 미국 사상 최대 규모의 IPO 러시가 펼쳐지게 됐습니다.앤트로픽은 오는 10월 상장을 추진하고 있으며, 오픈AI는 이보다 앞서 신청할 가능성이 거론되고 있습니다.하지만 디 인포메이션에 따르면, 샘 알트먼 오픈AI CEO는 지난주 회사 전체 회의를 통해 IPO를 신청하더라도 실제 상장은 보류할 수도 있다고 시사했습니다. 그는 기업공개(IPO) 신청과 상장 준비는 다르다고 지적하며, 회사가 준비될 때까지 상장하지 않을 것이라고 말했다는 것입니다.어쨌거나 현재 미국 시장은 초",
+          "image": "https://cdn.aitimes.com/news/photo/202605/210919_213721_647.png",
+          "is_english": true,
+          "original_title": "[5월26일] AI 기업의 IPO 러시…\"자금은 충분, 이제는 ROI\"",
+          "original_summary": "지난주 스페이스X의 기업공개(IPO) 신청을 시작으로 올해에는 미국 사상 최대 규모의 IPO 러시가 펼쳐지게 됐습니다.앤트로픽은 오는 10월 상장을 추진하고 있으며, 오픈AI는 이보다 앞서 신청할 가능성이 거론되고 있습니다.하지만 디 인포메이션에 따르면, 샘 알트먼 오픈AI CEO는 지난주 회사 전체 회의를 통해 IPO를 신청하더라도 실제 상장은 보류할 수도 있다고 시사했습니다. 그는 기업공개(IPO) 신청과 상장 준비는 다르다고 지적하며, 회사가 준비될 때까지 상장하지 않을 것이라고 말했다는 것입니다.어쨌거나 현재 미국 시장은 초",
+          "summary": "지난주 스페이스X의 기업공개(IPO) 신청을 시작으로 올해에는 미국 사상 최대 규모의 IPO 러시가 펼쳐지게 됐습니다.앤트로픽은 오는 10월 상장을 추진하고 있으며, 오픈AI는 이보다 앞서 신청할 가능성이 거론되고 있습니다.하지만 디 인포메이션에 따르면, 샘 알트먼 오픈AI CEO는 지난주 회사 전체 회의를 통해 IPO를 신청하더라도 실제 상장은 보류할 수도 있다고 시사했습니다. 그는 기업공개(IPO) 신청과 상장 준비는 다르다고 지적하며, 회사가 준비될 때까지 상장하지 않을 것이라고 말했다는 것입니다.어쨌거나 현재 미국 시장은 초"
+        },
+        {
+          "title": "집안일 로봇보다는 서비스 로봇… ‘반구조화 공간’ 노린 중국의 휴머노이드",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210948",
+          "date": "2026-05-27",
+          "source": "AI타임스",
+          "description": "AI타임스 조예주 기자 joyejuoffice@aitimes.com",
+          "image": "https://cdn.aitimes.com/news/photo/202605/210948_213757_198.jpg",
+          "is_english": false,
+          "original_title": "집안일 로봇보다는 서비스 로봇… ‘반구조화 공간’ 노린 중국의 휴머노이드",
+          "original_summary": "AI타임스 조예주 기자 joyejuoffice@aitimes.com",
+          "summary": "AI타임스 조예주 기자 joyejuoffice@aitimes.com"
+        },
         {
           "title": "Anthropic Update Underscores Power of AI Flaw Finder Mythos",
           "link": "https://aibusiness.com/generative-ai/anthropic-update-underscores-power-ai-flaw-finder-mythos",
@@ -198,19 +222,6 @@
           "category": "AI Model"
         },
         {
-          "title": "numind/NuExtract3",
-          "link": "https://huggingface.co/numind/NuExtract3",
-          "date": "2026-05-27",
-          "source": "HuggingFace",
-          "description": "• NuExtract3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/numind/NuExtract3/resolve/main/header.svg",
-          "is_english": true,
-          "summary": "• NuExtract3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "numind/NuExtract3",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "circlestone-labs/Anima",
           "link": "https://huggingface.co/circlestone-labs/Anima",
           "date": "2026-05-27",
@@ -220,6 +231,19 @@
           "is_english": true,
           "summary": "• Anima 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "circlestone-labs/Anima",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "numind/NuExtract3",
+          "link": "https://huggingface.co/numind/NuExtract3",
+          "date": "2026-05-27",
+          "source": "HuggingFace",
+          "description": "• NuExtract3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/numind/NuExtract3/resolve/main/header.svg",
+          "is_english": true,
+          "summary": "• NuExtract3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "numind/NuExtract3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -263,19 +287,6 @@
           "category": "AI Model"
         },
         {
-          "title": "froggeric/Qwen-Fixed-Chat-Templates",
-          "link": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
-          "date": "2026-05-27",
-          "source": "HuggingFace",
-          "description": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "froggeric/Qwen-Fixed-Chat-Templates",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
           "date": "2026-05-27",
@@ -285,6 +296,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-35B-A3B-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/Qwen3.6-35B-A3B-MTP-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "froggeric/Qwen-Fixed-Chat-Templates",
+          "link": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
+          "date": "2026-05-27",
+          "source": "HuggingFace",
+          "description": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "froggeric/Qwen-Fixed-Chat-Templates",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
