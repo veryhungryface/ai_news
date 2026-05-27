@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-05-28",
-      "update_time": "2026-05-27 17:51:14",
+      "update_time": "2026-05-27 19:58:53",
       "news": [
         {
           "title": "Nvidia Signals $150B Spend in Taiwan",
@@ -30,19 +30,6 @@
           "category": "AI Model"
         },
         {
-          "title": "meituan-longcat/LongCat-Video-Avatar-1.5",
-          "link": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
-          "date": "2026-05-28",
-          "source": "HuggingFace",
-          "description": "• LongCat-Video-Avatar-1.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5/resolve/main/assets/logo.png",
-          "is_english": true,
-          "summary": "• LongCat-Video-Avatar-1.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "meituan-longcat/LongCat-Video-Avatar-1.5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "openbmb/MiniCPM5-1B",
           "link": "https://huggingface.co/openbmb/MiniCPM5-1B",
           "date": "2026-05-28",
@@ -52,6 +39,19 @@
           "is_english": true,
           "summary": "• MiniCPM5-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "openbmb/MiniCPM5-1B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "meituan-longcat/LongCat-Video-Avatar-1.5",
+          "link": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
+          "date": "2026-05-28",
+          "source": "HuggingFace",
+          "description": "• LongCat-Video-Avatar-1.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5/resolve/main/assets/logo.png",
+          "is_english": true,
+          "summary": "• LongCat-Video-Avatar-1.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "meituan-longcat/LongCat-Video-Avatar-1.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -108,19 +108,6 @@
           "category": "AI Model"
         },
         {
-          "title": "CohereLabs/command-a-plus-05-2026-w4a4",
-          "link": "https://huggingface.co/CohereLabs/command-a-plus-05-2026-w4a4",
-          "date": "2026-05-28",
-          "source": "HuggingFace",
-          "description": "• command-a-plus-05-2026-w4a4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• command-a-plus-05-2026-w4a4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "CohereLabs/command-a-plus-05-2026-w4a4",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "deepseek-ai/DeepSeek-V4-Pro",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
           "date": "2026-05-28",
@@ -130,6 +117,19 @@
           "is_english": true,
           "summary": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "deepseek-ai/DeepSeek-V4-Pro",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "CohereLabs/command-a-plus-05-2026-w4a4",
+          "link": "https://huggingface.co/CohereLabs/command-a-plus-05-2026-w4a4",
+          "date": "2026-05-28",
+          "source": "HuggingFace",
+          "description": "• command-a-plus-05-2026-w4a4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• command-a-plus-05-2026-w4a4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "CohereLabs/command-a-plus-05-2026-w4a4",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -186,19 +186,6 @@
           "category": "AI Model"
         },
         {
-          "title": "numind/NuExtract3",
-          "link": "https://huggingface.co/numind/NuExtract3",
-          "date": "2026-05-28",
-          "source": "HuggingFace",
-          "description": "• NuExtract3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/numind/NuExtract3/resolve/main/header.svg",
-          "is_english": true,
-          "summary": "• NuExtract3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "numind/NuExtract3",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "tencent/Hy-MT2-1.8B",
           "link": "https://huggingface.co/tencent/Hy-MT2-1.8B",
           "date": "2026-05-28",
@@ -208,6 +195,19 @@
           "is_english": true,
           "summary": "• Hy-MT2-1.8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "tencent/Hy-MT2-1.8B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "numind/NuExtract3",
+          "link": "https://huggingface.co/numind/NuExtract3",
+          "date": "2026-05-28",
+          "source": "HuggingFace",
+          "description": "• NuExtract3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/numind/NuExtract3/resolve/main/header.svg",
+          "is_english": true,
+          "summary": "• NuExtract3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "numind/NuExtract3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -251,19 +251,6 @@
           "category": "AI Model"
         },
         {
-          "title": "microsoft/Lens-Turbo",
-          "link": "https://huggingface.co/microsoft/Lens-Turbo",
-          "date": "2026-05-28",
-          "source": "HuggingFace",
-          "description": "• Lens-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/microsoft/Lens-Turbo/resolve/main/assets/teaser.webp",
-          "is_english": true,
-          "summary": "• Lens-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "microsoft/Lens-Turbo",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "microsoft/Lens",
           "link": "https://huggingface.co/microsoft/Lens",
           "date": "2026-05-28",
@@ -275,13 +262,74 @@
           "translated_title": "microsoft/Lens",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "microsoft/Lens-Turbo",
+          "link": "https://huggingface.co/microsoft/Lens-Turbo",
+          "date": "2026-05-28",
+          "source": "HuggingFace",
+          "description": "• Lens-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/microsoft/Lens-Turbo/resolve/main/assets/teaser.webp",
+          "is_english": true,
+          "summary": "• Lens-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "microsoft/Lens-Turbo",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-05-27",
-      "update_time": "2026-05-27 17:51:11",
+      "update_time": "2026-05-27 19:58:53",
       "news": [
+        {
+          "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
+          "link": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
+          "date": "2026-05-27",
+          "source": "TechCrunch",
+          "description": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adoption.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/07/money-firehose.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
+          "original_summary": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adoption.",
+          "summary": "Payroll service provider Remote recently surpassed $300 million in annual recurring revenue (ARR) and became cash-flow positive, thanks to a 50% increase in revenue per employee resulting from AI adoption."
+        },
+        {
+          "title": "Your SEO strategy is optimized for a search engine that no longer exists.",
+          "link": "https://techcrunch.com/podcast/your-seo-strategy-is-optimized-for-a-search-engine-that-no-longer-exists/",
+          "date": "2026-05-27",
+          "source": "TechCrunch",
+          "description": "Google I/O made it official: AI-generated answers are now front and&#160;center&#160;in search, and most brands have almost no visibility into how AI is describing them to their customers.&#160;For anyone who has spent years building a strategy around 10 blue links, the rules just changed in a pretty significant way.&#160; On this episode of TechCrunch&#8217;s Equity podcast, Rebecca [&#8230;]",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/google-ai-sign-Getty.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Your SEO strategy is optimized for a search engine that no longer exists.",
+          "original_summary": "Google I/O made it official: AI-generated answers are now front and&#160;center&#160;in search, and most brands have almost no visibility into how AI is describing them to their customers.&#160;For anyone who has spent years building a strategy around 10 blue links, the rules just changed in a prett",
+          "summary": "Google I/O made it official: AI-generated answers are now front and&#160;center&#160;in search, and most brands have almost no visibility into how AI is describing them to their customers.&#160;For anyone who has spent years building a strategy around 10 blue links, the rules just changed in a prett"
+        },
+        {
+          "title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
+          "link": "https://techcrunch.com/2026/05/27/meta-officially-launches-instagram-facebook-and-whatsapp-subscriptions-with-more-to-come-including-ai-plans/",
+          "date": "2026-05-27",
+          "source": "TechCrunch",
+          "description": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader “Meta One” subscription brand.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-apps-GettyImages-2164040793.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Meta launches Instagram, Facebook, and WhatsApp subscriptions, with more to come, including AI plans",
+          "original_summary": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader “Meta One” subscription brand.",
+          "summary": "Meta is rolling out paid subscription plans for Instagram, Facebook, and WhatsApp worldwide, while also testing new AI, creator, and business-focused offerings under its broader “Meta One” subscription brand."
+        },
+        {
+          "title": "ClickHouse triples annualized revenue to $250M, charting a path toward an IPO",
+          "link": "https://techcrunch.com/2026/05/27/clickhouse-triples-annualized-revenue-to-250m-charting-a-path-toward-an-ipo/",
+          "date": "2026-05-27",
+          "source": "TechCrunch",
+          "description": "The database provider is eyeing a public debut within the next few years.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-27-at-5.53.09-AM.png?resize=1200,788",
+          "is_english": true,
+          "original_title": "ClickHouse triples annualized revenue to $250M, charting a path toward an IPO",
+          "original_summary": "The database provider is eyeing a public debut within the next few years.",
+          "summary": "The database provider is eyeing a public debut within the next few years."
+        },
         {
           "title": "Building self-improving tax agents with Codex",
           "link": "https://openai.com/index/building-self-improving-tax-agents-with-codex",
@@ -7465,7 +7513,7 @@
         {
           "title": "SulphurAI/Sulphur-2-base",
           "link": "https://huggingface.co/SulphurAI/Sulphur-2-base",
-          "date": "2026-05-19",
+          "date": "2026-05-28",
           "source": "HuggingFace",
           "description": "• Sulphur-2-base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -7478,7 +7526,7 @@
         {
           "title": "openbmb/MiniCPM-V-4.6",
           "link": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
-          "date": "2026-05-19",
+          "date": "2026-05-28",
           "source": "HuggingFace",
           "description": "• MiniCPM-V-4.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/openbmb/MiniCPM-V/main/assets/minicpmv4.6/instruct.png",
@@ -7491,7 +7539,7 @@
         {
           "title": "Supertone/supertonic-3",
           "link": "https://huggingface.co/Supertone/supertonic-3",
-          "date": "2026-05-19",
+          "date": "2026-05-28",
           "source": "HuggingFace",
           "description": "• supertonic-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/Supertone/supertonic-3/resolve/main/img/Supertonic3_HeroImage.png",
@@ -7504,7 +7552,7 @@
         {
           "title": "unsloth/Qwen3.6-27B-MTP-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.6-27B-MTP-GGUF",
-          "date": "2026-05-19",
+          "date": "2026-05-28",
           "source": "HuggingFace",
           "description": "• Qwen3.6-27B-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -7543,7 +7591,7 @@
         {
           "title": "circlestone-labs/Anima",
           "link": "https://huggingface.co/circlestone-labs/Anima",
-          "date": "2026-05-19",
+          "date": "2026-05-28",
           "source": "HuggingFace",
           "description": "• Anima 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/circlestone-labs/Anima/resolve/main/montage.jpg",
@@ -7569,7 +7617,7 @@
         {
           "title": "deepseek-ai/DeepSeek-V4-Pro",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
-          "date": "2026-05-19",
+          "date": "2026-05-28",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
