@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-05-28",
-      "update_time": "2026-05-27 19:58:53",
+      "update_time": "2026-05-27 22:25:02",
       "news": [
         {
           "title": "Nvidia Signals $150B Spend in Taiwan",
@@ -121,19 +121,6 @@
           "category": "AI Model"
         },
         {
-          "title": "CohereLabs/command-a-plus-05-2026-w4a4",
-          "link": "https://huggingface.co/CohereLabs/command-a-plus-05-2026-w4a4",
-          "date": "2026-05-28",
-          "source": "HuggingFace",
-          "description": "• command-a-plus-05-2026-w4a4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• command-a-plus-05-2026-w4a4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "CohereLabs/command-a-plus-05-2026-w4a4",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "SulphurAI/Sulphur-2-base",
           "link": "https://huggingface.co/SulphurAI/Sulphur-2-base",
           "date": "2026-05-28",
@@ -156,6 +143,19 @@
           "is_english": true,
           "summary": "• Qwopus3.6-27B-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Jackrong/Qwopus3.6-27B-v2-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "CohereLabs/command-a-plus-05-2026-w4a4",
+          "link": "https://huggingface.co/CohereLabs/command-a-plus-05-2026-w4a4",
+          "date": "2026-05-28",
+          "source": "HuggingFace",
+          "description": "• command-a-plus-05-2026-w4a4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• command-a-plus-05-2026-w4a4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "CohereLabs/command-a-plus-05-2026-w4a4",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -199,15 +199,15 @@
           "category": "AI Model"
         },
         {
-          "title": "numind/NuExtract3",
-          "link": "https://huggingface.co/numind/NuExtract3",
+          "title": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
+          "link": "https://huggingface.co/Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
           "date": "2026-05-28",
           "source": "HuggingFace",
-          "description": "• NuExtract3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/numind/NuExtract3/resolve/main/header.svg",
+          "description": "• Qwopus3.6-27B-v2-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• NuExtract3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "numind/NuExtract3",
+          "summary": "• Qwopus3.6-27B-v2-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -225,15 +225,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
-          "link": "https://huggingface.co/Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
+          "title": "numind/NuExtract3",
+          "link": "https://huggingface.co/numind/NuExtract3",
           "date": "2026-05-28",
           "source": "HuggingFace",
-          "description": "• Qwopus3.6-27B-v2-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• NuExtract3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/numind/NuExtract3/resolve/main/header.svg",
           "is_english": true,
-          "summary": "• Qwopus3.6-27B-v2-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
+          "summary": "• NuExtract3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "numind/NuExtract3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -280,8 +280,44 @@
     },
     {
       "date": "2026-05-27",
-      "update_time": "2026-05-27 19:58:53",
+      "update_time": "2026-05-27 22:25:01",
       "news": [
+        {
+          "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+          "link": "https://openai.com/index/cisco",
+          "date": "2026-05-27",
+          "source": "OpenAI",
+          "description": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+          "original_summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
+          "summary": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation."
+        },
+        {
+          "title": "Warp’s big bet on building open source with GPT-5.5",
+          "link": "https://openai.com/index/warp",
+          "date": "2026-05-27",
+          "source": "OpenAI",
+          "description": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Warp’s big bet on building open source with GPT-5.5",
+          "original_summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows.",
+          "summary": "Warp uses GPT-5.5 and OpenAI models to coordinate coding agents across local, cloud, and open-source development workflows."
+        },
+        {
+          "title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+          "link": "https://techcrunch.com/2026/05/27/in-more-good-news-for-amazon-snowflake-signs-6b-deal-with-aws-for-ai-cpu-chips/",
+          "date": "2026-05-27",
+          "source": "TechCrunch",
+          "description": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
+          "is_english": true,
+          "original_title": "In more good news for Amazon, Snowflake signs $6B deal with AWS for AI CPU chips",
+          "original_summary": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice.",
+          "summary": "Snowflake has signed a new, enormous five-year deal with Amazon to secure chips for AI usage. Nvidia is once again being put on notice."
+        },
         {
           "title": "Payroll startup Remote says it grew revenue 50% per employee without adding headcount",
           "link": "https://techcrunch.com/2026/05/27/payroll-startup-remote-says-it-grew-revenue-50-per-employee-without-adding-headcount/",
