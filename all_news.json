@@ -2,8 +2,56 @@
   "dates": [
     {
       "date": "2026-05-29",
-      "update_time": "2026-05-28 17:56:34",
+      "update_time": "2026-05-28 20:06:25",
       "news": [
+        {
+          "title": "IBM and Red Hat Invest $5 Billion to Make Open Source More Secure",
+          "link": "https://aibusiness.com/generative-ai/ibm-red-hat-invest-5-billion-make-open-source-more-secure",
+          "date": "2026-05-29",
+          "source": "AI Business",
+          "description": "The project follows Anthropic’s still-unreleased Mythos AI cybersecurity model, which uncovered serious security holes in software systems.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt03971638146fb1b9/6a189cfa02f591395723ff2b/IBM.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "IBM and Red Hat Invest $5 Billion to Make Open Source More Secure",
+          "original_summary": "The project follows Anthropic’s still-unreleased Mythos AI cybersecurity model, which uncovered serious security holes in software systems.",
+          "summary": "The project follows Anthropic’s still-unreleased Mythos AI cybersecurity model, which uncovered serious security holes in software systems."
+        },
+        {
+          "title": "Mistral AI, Digital Realty Partner to Scale European AI Infrastructure",
+          "link": "https://aibusiness.com/generative-ai/mistral-ai-digital-realty-partner-scale-european-ai-infrastructure",
+          "date": "2026-05-29",
+          "source": "AI Business",
+          "description": "The French startup has secured 10 megawatts of compute at Digital Realty’s Paris South campus.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt299da5ade935cdb6/6a1893944c25b53b321e23d4/mistral_logo.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Mistral AI, Digital Realty Partner to Scale European AI Infrastructure",
+          "original_summary": "The French startup has secured 10 megawatts of compute at Digital Realty’s Paris South campus.",
+          "summary": "The French startup has secured 10 megawatts of compute at Digital Realty’s Paris South campus."
+        },
+        {
+          "title": "AI Coding Startup Now Valued at $26 billion",
+          "link": "https://aibusiness.com/generative-ai/ai-coding-startup-valued-at-26-billion",
+          "date": "2026-05-29",
+          "source": "AI Business",
+          "description": "The new funding is the latest milestone for the fast-growing vendor and underscores the strength of the AI coding market.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt1b42fd06838daa20/6a18909ab7999fda7222aa55/Cognition_PrimaryLockup_Black_(1).png?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "AI Coding Startup Now Valued at $26 billion",
+          "original_summary": "The new funding is the latest milestone for the fast-growing vendor and underscores the strength of the AI coding market.",
+          "summary": "The new funding is the latest milestone for the fast-growing vendor and underscores the strength of the AI coding market."
+        },
+        {
+          "title": "AWS Rebuilds OpenSearch Serverless, Intros Agent Skills",
+          "link": "https://aibusiness.com/generative-ai/aws-rebuilds-opensearch-serverless-intros-agent-skills",
+          "date": "2026-05-29",
+          "source": "AI Business",
+          "description": "The update positions OpenSearch as foundational infrastructure for enterprises, enabling faster, scalable search.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltc0adf3cb40bcb2be/6a18891710506330ba3a400d/aws-logo-rgb_(1).png?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "AWS Rebuilds OpenSearch Serverless, Intros Agent Skills",
+          "original_summary": "The update positions OpenSearch as foundational infrastructure for enterprises, enabling faster, scalable search.",
+          "summary": "The update positions OpenSearch as foundational infrastructure for enterprises, enabling faster, scalable search."
+        },
         {
           "title": "openbmb/MiniCPM5-1B",
           "link": "https://huggingface.co/openbmb/MiniCPM5-1B",
@@ -109,6 +157,19 @@
           "category": "AI Model"
         },
         {
+          "title": "nvidia/LocateAnything-3B",
+          "link": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "date": "2026-05-29",
+          "source": "HuggingFace",
+          "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
+          "is_english": true,
+          "summary": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/LocateAnything-3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Jackrong/Qwopus3.6-27B-v2-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwopus3.6-27B-v2-GGUF",
           "date": "2026-05-29",
@@ -131,19 +192,6 @@
           "is_english": true,
           "summary": "• PiD 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nvidia/PiD",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "nvidia/LocateAnything-3B",
-          "link": "https://huggingface.co/nvidia/LocateAnything-3B",
-          "date": "2026-05-29",
-          "source": "HuggingFace",
-          "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
-          "is_english": true,
-          "summary": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/LocateAnything-3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -187,19 +235,6 @@
           "category": "AI Model"
         },
         {
-          "title": "openbmb/MiniCPM-V-4.6",
-          "link": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
-          "date": "2026-05-29",
-          "source": "HuggingFace",
-          "description": "• MiniCPM-V-4.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/openbmb/MiniCPM-V/main/assets/minicpmv4.6/instruct.png",
-          "is_english": true,
-          "summary": "• MiniCPM-V-4.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "openbmb/MiniCPM-V-4.6",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "tencent/Hy-MT2-1.8B",
           "link": "https://huggingface.co/tencent/Hy-MT2-1.8B",
           "date": "2026-05-29",
@@ -222,6 +257,19 @@
           "is_english": true,
           "summary": "• Lens 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "microsoft/Lens",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "openbmb/MiniCPM-V-4.6",
+          "link": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
+          "date": "2026-05-29",
+          "source": "HuggingFace",
+          "description": "• MiniCPM-V-4.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://raw.githubusercontent.com/openbmb/MiniCPM-V/main/assets/minicpmv4.6/instruct.png",
+          "is_english": true,
+          "summary": "• MiniCPM-V-4.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "openbmb/MiniCPM-V-4.6",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +316,32 @@
     },
     {
       "date": "2026-05-28",
-      "update_time": "2026-05-28 17:56:34",
+      "update_time": "2026-05-28 20:06:24",
       "news": [
+        {
+          "title": "Anthropic raises $65 Billion, nears $1T valuation ahead of IPO",
+          "link": "https://techcrunch.com/2026/05/28/anthropic-raises-65-billion-nears-1t-valuation-ahead-of-ipo/",
+          "date": "2026-05-28",
+          "source": "TechCrunch",
+          "description": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/09/Screenshot-2025-09-02-at-12.22.37PM.png?resize=1200,671",
+          "is_english": true,
+          "original_title": "Anthropic raises $65 Billion, nears $1T valuation ahead of IPO",
+          "original_summary": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO.",
+          "summary": "Anthropic has closed a $65 billion Series H round at a $965 billion post-money valuation, marking what could be the AI startup's final private fundraise before a highly anticipated IPO."
+        },
+        {
+          "title": "Just like gold and oil, we’ll soon be able to trade AI token futures",
+          "link": "https://techcrunch.com/2026/05/28/just-like-gold-and-oil-well-soon-be-able-to-trade-ai-token-futures/",
+          "date": "2026-05-28",
+          "source": "TechCrunch",
+          "description": "Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material input, like electricity or bandwidth. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-640351099.jpg?resize=1200,849",
+          "is_english": true,
+          "original_title": "Just like gold and oil, we’ll soon be able to trade AI token futures",
+          "original_summary": "Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material input, like electricity or bandwidth. ",
+          "summary": "Large exchanges are designing derivative products around AI tokens, which are increasingly being considered less a computational output and more a raw material input, like electricity or bandwidth. "
+        },
         {
           "title": "OpenAI’s Frontier Governance Framework",
           "link": "https://openai.com/index/openai-frontier-governance-framework",
@@ -7393,7 +7465,7 @@
         {
           "title": "bytedance-research/Lance",
           "link": "https://huggingface.co/bytedance-research/Lance",
-          "date": "2026-05-20",
+          "date": "2026-05-29",
           "source": "HuggingFace",
           "description": "• Lance 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/bytedance-research/Lance/resolve/main/assets/logo/lance-logo.webp",
@@ -7406,7 +7478,7 @@
         {
           "title": "SulphurAI/Sulphur-2-base",
           "link": "https://huggingface.co/SulphurAI/Sulphur-2-base",
-          "date": "2026-05-20",
+          "date": "2026-05-29",
           "source": "HuggingFace",
           "description": "• Sulphur-2-base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -7419,7 +7491,7 @@
         {
           "title": "openbmb/MiniCPM-V-4.6",
           "link": "https://huggingface.co/openbmb/MiniCPM-V-4.6",
-          "date": "2026-05-20",
+          "date": "2026-05-29",
           "source": "HuggingFace",
           "description": "• MiniCPM-V-4.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/openbmb/MiniCPM-V/main/assets/minicpmv4.6/instruct.png",
@@ -7432,7 +7504,7 @@
         {
           "title": "Supertone/supertonic-3",
           "link": "https://huggingface.co/Supertone/supertonic-3",
-          "date": "2026-05-20",
+          "date": "2026-05-29",
           "source": "HuggingFace",
           "description": "• supertonic-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/Supertone/supertonic-3/resolve/main/img/Supertonic3_HeroImage.png",
@@ -7445,7 +7517,7 @@
         {
           "title": "unsloth/Qwen3.6-27B-MTP-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.6-27B-MTP-GGUF",
-          "date": "2026-05-20",
+          "date": "2026-05-29",
           "source": "HuggingFace",
           "description": "• Qwen3.6-27B-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -7458,7 +7530,7 @@
         {
           "title": "circlestone-labs/Anima",
           "link": "https://huggingface.co/circlestone-labs/Anima",
-          "date": "2026-05-20",
+          "date": "2026-05-29",
           "source": "HuggingFace",
           "description": "• Anima 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/circlestone-labs/Anima/resolve/main/montage.jpg",
@@ -7523,7 +7595,7 @@
         {
           "title": "deepseek-ai/DeepSeek-V4-Pro",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
-          "date": "2026-05-20",
+          "date": "2026-05-29",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
