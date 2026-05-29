@@ -2,8 +2,236 @@
   "dates": [
     {
       "date": "2026-05-29",
-      "update_time": "2026-05-29 02:07:11",
+      "update_time": "2026-05-29 06:45:48",
       "news": [
+        {
+          "title": "강원대병원, AI 진료 예약센터 운영…24시간 비대면 예약 지원",
+          "link": "https://www.yna.co.kr/view/AKR20260529114800062",
+          "date": "2026-05-29",
+          "source": "연합뉴스",
+          "description": "(춘천=연합뉴스) 강태현 기자 = 강원대학교병원은 환자 중심의 스마트 의료 서비스 강화를 위해 인공지능(AI) 진료 예약센터를 내달 1일부터 운...",
+          "image": "https://img.yna.co.kr/photo/cms/2020/06/29/57/PCM20200629000157990_P2.jpg",
+          "is_english": false,
+          "original_title": "강원대병원, AI 진료 예약센터 운영…24시간 비대면 예약 지원",
+          "original_summary": "(춘천=연합뉴스) 강태현 기자 = 강원대학교병원은 환자 중심의 스마트 의료 서비스 강화를 위해 인공지능(AI) 진료 예약센터를 내달 1일부터 운...",
+          "summary": "(춘천=연합뉴스) 강태현 기자 = 강원대학교병원은 환자 중심의 스마트 의료 서비스 강화를 위해 인공지능(AI) 진료 예약센터를 내달 1일부터 운..."
+        },
+        {
+          "title": "플리토, 실시간 AI 통역에 ‘기록’ 더했다… ‘챗 트랜스레이션 노트테이킹’ 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211110",
+          "date": "2026-05-29",
+          "source": "AI타임스",
+          "description": "플리토(대표 이정수)는 실시간 AI 통역-번역 솔루션 ‘챗 트랜스레이션(Chat Translation)’에 발화 내용을 기록하고 구조화하는 ‘노트테이킹(Note-taking)’기능을 새롭게 추가했다고 29일 밝혔다.챗 트랜스레이션은 플리토가 축적한 언어 데이터와 STT(Speech-to-Text) 엔진, 인공신경망 기계번역(NMT), 대형언어모델(LLM)을 결합한 AI 통역 및 번역 솔루션이다. 온오프라인 환경에서 실시간 다국어 커뮤니케이션이 가능하다. 이번에 추가돤 노트테이킹의 핵심은 다국어 발화의 실시간 텍스트화 및 구조화다.",
+          "image": "https://cdn.aitimes.com/news/photo/202605/211110_213960_405.jpeg",
+          "is_english": false,
+          "original_title": "플리토, 실시간 AI 통역에 ‘기록’ 더했다… ‘챗 트랜스레이션 노트테이킹’ 출시",
+          "original_summary": "플리토(대표 이정수)는 실시간 AI 통역-번역 솔루션 ‘챗 트랜스레이션(Chat Translation)’에 발화 내용을 기록하고 구조화하는 ‘노트테이킹(Note-taking)’기능을 새롭게 추가했다고 29일 밝혔다.챗 트랜스레이션은 플리토가 축적한 언어 데이터와 STT(Speech-to-Text) 엔진, 인공신경망 기계번역(NMT), 대형언어모델(LLM)을 결합한 AI 통역 및 번역 솔루션이다. 온오프라인 환경에서 실시간 다국어 커뮤니케이션이 가능하다. 이번에 추가돤 노트테이킹의 핵심은 다국어 발화의 실시간 텍스트화 및 구조화다.",
+          "summary": "플리토(대표 이정수)는 실시간 AI 통역-번역 솔루션 ‘챗 트랜스레이션(Chat Translation)’에 발화 내용을 기록하고 구조화하는 ‘노트테이킹(Note-taking)’기능을 새롭게 추가했다고 29일 밝혔다.챗 트랜스레이션은 플리토가 축적한 언어 데이터와 STT(Speech-to-Text) 엔진, 인공신경망 기계번역(NMT), 대형언어모델(LLM)을 결합한 AI 통역 및 번역 솔루션이다. 온오프라인 환경에서 실시간 다국어 커뮤니케이션이 가능하다. 이번에 추가돤 노트테이킹의 핵심은 다국어 발화의 실시간 텍스트화 및 구조화다."
+        },
+        {
+          "title": "저커버그 \"GPU 남으면 외부에 임대 가능\"…메타, 클라우드 사업 진출 시사",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211076",
+          "date": "2026-05-29",
+          "source": "AI타임스",
+          "description": "마크 저커버그 메타 CEO가 AI 데이터센터 투자 확대 과정에서 컴퓨팅 자원이 남게 되면, 이를 외부 기업에 판매하는 클라우드 사업 진출 가능성을 공식적으로 언급했다.CNBC에 따르면, 저커버그 CEO는 28일(현지시간) 열린 메타 연례 주주총회에서 클라우드 컴퓨팅 시장 진출 가능성을 묻는 말에 대해 “충분히 가능한 선택지”라고 답했다.그는 “거의 매주 외부 기업들이 메타에 API 서비스를 제공해 달라거나, 남는 연산 자원을 프리미엄 가격에 구매할 수 있는지 문의하고 있다”라고 밝혔다.AI 경쟁이 본격화하면서 메타는 아마존이나 마이",
+          "image": "https://cdn.aitimes.com/news/photo/202605/211076_213931_567.png",
+          "is_english": false,
+          "original_title": "저커버그 \"GPU 남으면 외부에 임대 가능\"…메타, 클라우드 사업 진출 시사",
+          "original_summary": "마크 저커버그 메타 CEO가 AI 데이터센터 투자 확대 과정에서 컴퓨팅 자원이 남게 되면, 이를 외부 기업에 판매하는 클라우드 사업 진출 가능성을 공식적으로 언급했다.CNBC에 따르면, 저커버그 CEO는 28일(현지시간) 열린 메타 연례 주주총회에서 클라우드 컴퓨팅 시장 진출 가능성을 묻는 말에 대해 “충분히 가능한 선택지”라고 답했다.그는 “거의 매주 외부 기업들이 메타에 API 서비스를 제공해 달라거나, 남는 연산 자원을 프리미엄 가격에 구매할 수 있는지 문의하고 있다”라고 밝혔다.AI 경쟁이 본격화하면서 메타는 아마존이나 마이",
+          "summary": "마크 저커버그 메타 CEO가 AI 데이터센터 투자 확대 과정에서 컴퓨팅 자원이 남게 되면, 이를 외부 기업에 판매하는 클라우드 사업 진출 가능성을 공식적으로 언급했다.CNBC에 따르면, 저커버그 CEO는 28일(현지시간) 열린 메타 연례 주주총회에서 클라우드 컴퓨팅 시장 진출 가능성을 묻는 말에 대해 “충분히 가능한 선택지”라고 답했다.그는 “거의 매주 외부 기업들이 메타에 API 서비스를 제공해 달라거나, 남는 연산 자원을 프리미엄 가격에 구매할 수 있는지 문의하고 있다”라고 밝혔다.AI 경쟁이 본격화하면서 메타는 아마존이나 마이"
+        },
+        {
+          "title": "유네스코 세계유산위 앞두고 외신기자단 순천만 방문",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211105",
+          "date": "2026-05-29",
+          "source": "AI타임스",
+          "description": "순천만이 제48차 유네스코 세계유산위원회 부산 개최를 계기로 외신기자단에 순천형 갯벌 관리 모델을 소개했다.순천은 국가유산청이 주최한 외신 프레스투어 참가자들이 순천만을 방문해 생태회복과 블루카본, 주민참여 기반의 보전정책을 살펴봤다고 29일 밝혔다.미국, 이탈리아, 프랑스, 일본, 중국 등 7개국 10개 매체 소속 외신기자단과 정부정책 담당자 등 20여명이 참여했다. 28일 순천만을 시작으로 여수와 고흥 갯벌을 차례로 방문한다.방문의 핵심 공간인 여자만권역은 순천만 보전정책의 확장성을 보여주는 지역이다. 2021년 보성·순천 갯벌",
+          "image": "https://cdn.aitimes.com/news/photo/202605/211105_213959_365.jpg",
+          "is_english": false,
+          "original_title": "유네스코 세계유산위 앞두고 외신기자단 순천만 방문",
+          "original_summary": "순천만이 제48차 유네스코 세계유산위원회 부산 개최를 계기로 외신기자단에 순천형 갯벌 관리 모델을 소개했다.순천은 국가유산청이 주최한 외신 프레스투어 참가자들이 순천만을 방문해 생태회복과 블루카본, 주민참여 기반의 보전정책을 살펴봤다고 29일 밝혔다.미국, 이탈리아, 프랑스, 일본, 중국 등 7개국 10개 매체 소속 외신기자단과 정부정책 담당자 등 20여명이 참여했다. 28일 순천만을 시작으로 여수와 고흥 갯벌을 차례로 방문한다.방문의 핵심 공간인 여자만권역은 순천만 보전정책의 확장성을 보여주는 지역이다. 2021년 보성·순천 갯벌",
+          "summary": "순천만이 제48차 유네스코 세계유산위원회 부산 개최를 계기로 외신기자단에 순천형 갯벌 관리 모델을 소개했다.순천은 국가유산청이 주최한 외신 프레스투어 참가자들이 순천만을 방문해 생태회복과 블루카본, 주민참여 기반의 보전정책을 살펴봤다고 29일 밝혔다.미국, 이탈리아, 프랑스, 일본, 중국 등 7개국 10개 매체 소속 외신기자단과 정부정책 담당자 등 20여명이 참여했다. 28일 순천만을 시작으로 여수와 고흥 갯벌을 차례로 방문한다.방문의 핵심 공간인 여자만권역은 순천만 보전정책의 확장성을 보여주는 지역이다. 2021년 보성·순천 갯벌"
+        },
+        {
+          "title": "코난테크놀로지, 산업 특화 AI 안경 '비전플로우' 연내 출시 목표",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211103",
+          "date": "2026-05-29",
+          "source": "AI타임스",
+          "description": "코난테크놀로지(대표 김영섬)는 AI 안경 기반 원격 작업지원 에이전트 ‘비전플로우(VisionFlow)\\'를 선보인다고 29일 밝혔다.비전플로우는 일상 대화나 정보 검색에 초점을 맞춘 기존 소비자용 AI 안경과 달리, 산업 현장 작업자에 초점을 맞춘 것이 특징이다.기계 응시만으로 상황을 진단하고, 단계별 작업 가이드를 실시간 가상 패널로 띄워주는 등 \\'시각 지능 에이전트\\' 역할을 한다. 이를 통해 현장 근로자는 핸즈프리 환경에서 표준작업절차서(SOP)를 확인하며 안전하고 신속하게 작업을 완수할 수 있다는 설명이다.자체 대형언어모델(L",
+          "image": "https://cdn.aitimes.com/news/photo/202605/211103_213957_1548.jpg",
+          "is_english": false,
+          "original_title": "코난테크놀로지, 산업 특화 AI 안경 '비전플로우' 연내 출시 목표",
+          "original_summary": "코난테크놀로지(대표 김영섬)는 AI 안경 기반 원격 작업지원 에이전트 ‘비전플로우(VisionFlow)\\'를 선보인다고 29일 밝혔다.비전플로우는 일상 대화나 정보 검색에 초점을 맞춘 기존 소비자용 AI 안경과 달리, 산업 현장 작업자에 초점을 맞춘 것이 특징이다.기계 응시만으로 상황을 진단하고, 단계별 작업 가이드를 실시간 가상 패널로 띄워주는 등 \\'시각 지능 에이전트\\' 역할을 한다. 이를 통해 현장 근로자는 핸즈프리 환경에서 표준작업절차서(SOP)를 확인하며 안전하고 신속하게 작업을 완수할 수 있다는 설명이다.자체 대형언어모",
+          "summary": "코난테크놀로지(대표 김영섬)는 AI 안경 기반 원격 작업지원 에이전트 ‘비전플로우(VisionFlow)\\'를 선보인다고 29일 밝혔다.비전플로우는 일상 대화나 정보 검색에 초점을 맞춘 기존 소비자용 AI 안경과 달리, 산업 현장 작업자에 초점을 맞춘 것이 특징이다.기계 응시만으로 상황을 진단하고, 단계별 작업 가이드를 실시간 가상 패널로 띄워주는 등 \\'시각 지능 에이전트\\' 역할을 한다. 이를 통해 현장 근로자는 핸즈프리 환경에서 표준작업절차서(SOP)를 확인하며 안전하고 신속하게 작업을 완수할 수 있다는 설명이다.자체 대형언어모"
+        },
+        {
+          "title": "산업부, 'AI 로봇 얼라이언스' 1년 성과 점검...\"현장 확산·국산화 가시화\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211100",
+          "date": "2026-05-29",
+          "source": "AI타임스",
+          "description": "산업통상부(장관 김정관)는 정부 출범 1주년을 맞아 \\'제2회 M.AX(제조 AI 전환) 컨퍼런스\\'를 열고 AI 로봇 얼라이언스의 주요 성과를 공유했다고 29일 밝혔다.로봇 분야는 디든로보틱스의 AI 기반 4족 용접로봇, 로보스의 비전AI 기반 축산물 처리 로봇, 뉴빌리티의 자율주행 순찰로봇 등이 현장에 빠르게 확산되고 있다고 전했다.산업공정 특화 휴머노이드 분야에서는 에이로봇, 홀리데이로보틱스, 로보티즈 등이 개발을 본격화해 2028년 상용화를 목표로 하고 있다. 현재 HD현대삼호, HD현대중공업, SK에너지, BGF리테일 등은 제",
+          "image": "https://cdn.aitimes.com/news/photo/202605/211100_213954_5230.jpg",
+          "is_english": false,
+          "original_title": "산업부, 'AI 로봇 얼라이언스' 1년 성과 점검...\"현장 확산·국산화 가시화\"",
+          "original_summary": "산업통상부(장관 김정관)는 정부 출범 1주년을 맞아 \\'제2회 M.AX(제조 AI 전환) 컨퍼런스\\'를 열고 AI 로봇 얼라이언스의 주요 성과를 공유했다고 29일 밝혔다.로봇 분야는 디든로보틱스의 AI 기반 4족 용접로봇, 로보스의 비전AI 기반 축산물 처리 로봇, 뉴빌리티의 자율주행 순찰로봇 등이 현장에 빠르게 확산되고 있다고 전했다.산업공정 특화 휴머노이드 분야에서는 에이로봇, 홀리데이로보틱스, 로보티즈 등이 개발을 본격화해 2028년 상용화를 목표로 하고 있다. 현재 HD현대삼호, HD현대중공업, SK에너지, BGF리테일 등은",
+          "summary": "산업통상부(장관 김정관)는 정부 출범 1주년을 맞아 \\'제2회 M.AX(제조 AI 전환) 컨퍼런스\\'를 열고 AI 로봇 얼라이언스의 주요 성과를 공유했다고 29일 밝혔다.로봇 분야는 디든로보틱스의 AI 기반 4족 용접로봇, 로보스의 비전AI 기반 축산물 처리 로봇, 뉴빌리티의 자율주행 순찰로봇 등이 현장에 빠르게 확산되고 있다고 전했다.산업공정 특화 휴머노이드 분야에서는 에이로봇, 홀리데이로보틱스, 로보티즈 등이 개발을 본격화해 2028년 상용화를 목표로 하고 있다. 현재 HD현대삼호, HD현대중공업, SK에너지, BGF리테일 등은"
+        },
+        {
+          "title": "앤트로픽, 구글 TPU 확보 위해 54조 초대형 대출 추진...\"사상 최대 규모\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211081",
+          "date": "2026-05-29",
+          "source": "AI타임스",
+          "description": "앤트로픽이 AI 인프라 확장을 위해 약 360억달러(약 54조원) 규모의 초대형 부채 조달에 나선다. 이는 AI 칩 구매를 위한 금융 거래 가운데 사상 최대 규모 중 하나다.28일(현지시간) 블룸버그에 따르면, 아폴로 글로벌 매니지먼트와 블랙스톤은 앤트로픽의 AI 인프라 구축을 지원하기 위해 추가 투자자 유치 작업을 진행 중이다. 조달된 자금은 구글의 TPU 구매에 사용될 예정이다. 앤트로픽은 이 TPU를 직접 보유하는 대신, 임대해 활용할 계획이다.TPU는 최근 AI 학습과 추론 시장에서 존재감을 키우고 있다. 또 구글의 TPU",
+          "image": "https://cdn.aitimes.com/news/photo/202605/211081_213933_3026.jpg",
+          "is_english": false,
+          "original_title": "앤트로픽, 구글 TPU 확보 위해 54조 초대형 대출 추진...\"사상 최대 규모\"",
+          "original_summary": "앤트로픽이 AI 인프라 확장을 위해 약 360억달러(약 54조원) 규모의 초대형 부채 조달에 나선다. 이는 AI 칩 구매를 위한 금융 거래 가운데 사상 최대 규모 중 하나다.28일(현지시간) 블룸버그에 따르면, 아폴로 글로벌 매니지먼트와 블랙스톤은 앤트로픽의 AI 인프라 구축을 지원하기 위해 추가 투자자 유치 작업을 진행 중이다. 조달된 자금은 구글의 TPU 구매에 사용될 예정이다. 앤트로픽은 이 TPU를 직접 보유하는 대신, 임대해 활용할 계획이다.TPU는 최근 AI 학습과 추론 시장에서 존재감을 키우고 있다. 또 구글의 TPU",
+          "summary": "앤트로픽이 AI 인프라 확장을 위해 약 360억달러(약 54조원) 규모의 초대형 부채 조달에 나선다. 이는 AI 칩 구매를 위한 금융 거래 가운데 사상 최대 규모 중 하나다.28일(현지시간) 블룸버그에 따르면, 아폴로 글로벌 매니지먼트와 블랙스톤은 앤트로픽의 AI 인프라 구축을 지원하기 위해 추가 투자자 유치 작업을 진행 중이다. 조달된 자금은 구글의 TPU 구매에 사용될 예정이다. 앤트로픽은 이 TPU를 직접 보유하는 대신, 임대해 활용할 계획이다.TPU는 최근 AI 학습과 추론 시장에서 존재감을 키우고 있다. 또 구글의 TPU"
+        },
+        {
+          "title": "MS, 2일 ‘빌드’서 자체 코딩 모델 공개 예정…\"가성비로 승부\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211075",
+          "date": "2026-05-29",
+          "source": "AI타임스",
+          "description": "마이크로소프트(MS)가 6월2일(현지시간) 미국 샌프란시스코에서 열리는 연례 개발자 행사 ‘빌드(Build)’에서 자체 개발한 새로운 AI 모델 제품군을 공개한다. 코딩 특화 모델부터 추론·음성·이미지 생성 모델까지 다양한 AI 라인업이 포함될 예정이다.디 인포메이션에 따르면, MS는 이번 행사에서 깃허브 코파일럿(GitHub Copilot) 경쟁력 강화를 위한 새로운 코딩 모델을 공개할 계획이다.깃허브 코파일럿은 초기 AI 코딩 시장을 선도했지만, 최근 앤트로픽의 ‘클로드 코드’와 커서 등에 밀리며 점유율 경쟁이 치열해진 상태다.",
+          "image": "https://cdn.aitimes.com/news/photo/202605/211075_213926_4022.jpg",
+          "is_english": false,
+          "original_title": "MS, 2일 ‘빌드’서 자체 코딩 모델 공개 예정…\"가성비로 승부\"",
+          "original_summary": "마이크로소프트(MS)가 6월2일(현지시간) 미국 샌프란시스코에서 열리는 연례 개발자 행사 ‘빌드(Build)’에서 자체 개발한 새로운 AI 모델 제품군을 공개한다. 코딩 특화 모델부터 추론·음성·이미지 생성 모델까지 다양한 AI 라인업이 포함될 예정이다.디 인포메이션에 따르면, MS는 이번 행사에서 깃허브 코파일럿(GitHub Copilot) 경쟁력 강화를 위한 새로운 코딩 모델을 공개할 계획이다.깃허브 코파일럿은 초기 AI 코딩 시장을 선도했지만, 최근 앤트로픽의 ‘클로드 코드’와 커서 등에 밀리며 점유율 경쟁이 치열해진 상태다.",
+          "summary": "마이크로소프트(MS)가 6월2일(현지시간) 미국 샌프란시스코에서 열리는 연례 개발자 행사 ‘빌드(Build)’에서 자체 개발한 새로운 AI 모델 제품군을 공개한다. 코딩 특화 모델부터 추론·음성·이미지 생성 모델까지 다양한 AI 라인업이 포함될 예정이다.디 인포메이션에 따르면, MS는 이번 행사에서 깃허브 코파일럿(GitHub Copilot) 경쟁력 강화를 위한 새로운 코딩 모델을 공개할 계획이다.깃허브 코파일럿은 초기 AI 코딩 시장을 선도했지만, 최근 앤트로픽의 ‘클로드 코드’와 커서 등에 밀리며 점유율 경쟁이 치열해진 상태다."
+        },
+        {
+          "title": "목포어울림도서관, 6월 어린이 대상 '북스포츠' 프로그램 운영",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211090",
+          "date": "2026-05-29",
+          "source": "AI타임스",
+          "description": "목포어울림도서관이 6월 어린이를 대상으로 독서와 신체활동을 결합한 특별 프로그램을 운영한다고 29일 밝혔다.목포어울림도서관은 4세부터 7세 어린이를 대상으로 ‘북스포츠’ 특별프로그램을 마련한다.이번 프로그램은 가상현실(VR) 기술과 동화구연을 접목한 체험형 동화구연, 놀이와 운동 활동을 통해 신체 발달과 사회성 향상을 돕는 튼튼아이 놀이체육으로 구성된다. 어린이들이 동화 속 주인공이 되어 이야기를 직접 체험하고, 다양한 신체활동에 참여하며 독서에 대한 흥미와 표현력을 키울 수 있도록 설계됐다.참여 신청은 6월2일부터 목포시통합도서관",
+          "image": "https://cdn.aitimes.com/news/photo/202605/211090_213950_2223.jpg",
+          "is_english": false,
+          "original_title": "목포어울림도서관, 6월 어린이 대상 '북스포츠' 프로그램 운영",
+          "original_summary": "목포어울림도서관이 6월 어린이를 대상으로 독서와 신체활동을 결합한 특별 프로그램을 운영한다고 29일 밝혔다.목포어울림도서관은 4세부터 7세 어린이를 대상으로 ‘북스포츠’ 특별프로그램을 마련한다.이번 프로그램은 가상현실(VR) 기술과 동화구연을 접목한 체험형 동화구연, 놀이와 운동 활동을 통해 신체 발달과 사회성 향상을 돕는 튼튼아이 놀이체육으로 구성된다. 어린이들이 동화 속 주인공이 되어 이야기를 직접 체험하고, 다양한 신체활동에 참여하며 독서에 대한 흥미와 표현력을 키울 수 있도록 설계됐다.참여 신청은 6월2일부터 목포시통합도서관",
+          "summary": "목포어울림도서관이 6월 어린이를 대상으로 독서와 신체활동을 결합한 특별 프로그램을 운영한다고 29일 밝혔다.목포어울림도서관은 4세부터 7세 어린이를 대상으로 ‘북스포츠’ 특별프로그램을 마련한다.이번 프로그램은 가상현실(VR) 기술과 동화구연을 접목한 체험형 동화구연, 놀이와 운동 활동을 통해 신체 발달과 사회성 향상을 돕는 튼튼아이 놀이체육으로 구성된다. 어린이들이 동화 속 주인공이 되어 이야기를 직접 체험하고, 다양한 신체활동에 참여하며 독서에 대한 흥미와 표현력을 키울 수 있도록 설계됐다.참여 신청은 6월2일부터 목포시통합도서관"
+        },
+        {
+          "title": "여수 \"고유가 피해지원금, 8월 말까지 꼭 사용하세요\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211082",
+          "date": "2026-05-29",
+          "source": "AI타임스",
+          "description": "여수시가 고유가 피해지원금 사용 기한을 앞두고 시민 안내와 홍보를 강화한다고 29일 밝혔다.여수는 시민 가계 부담 완화를 위해 추진 중인 고유가 피해지원금 지급률이 90%를 넘어서면서, 사용 기한인 8월31일까지 지원금을 모두 사용할 수 있도록 안내에 나섰다.고유가 피해지원금은 영세 소상공인 보호와 골목상권 활성화를 위해 연 매출 30억원 이하 매장에서 사용할 수 있다. 대형마트와 백화점, 대형병원, 유흥업소 등에서는 사용이 제한되며, 전통시장과 소규모 골목상권을 중심으로 이용할 수 있다.여수사랑상품권 형태로 지급된 지원금은 여수사",
+          "image": "https://cdn.aitimes.com/news/photo/202605/211082_213939_4950.jpg",
+          "is_english": false,
+          "original_title": "여수 \"고유가 피해지원금, 8월 말까지 꼭 사용하세요\"",
+          "original_summary": "여수시가 고유가 피해지원금 사용 기한을 앞두고 시민 안내와 홍보를 강화한다고 29일 밝혔다.여수는 시민 가계 부담 완화를 위해 추진 중인 고유가 피해지원금 지급률이 90%를 넘어서면서, 사용 기한인 8월31일까지 지원금을 모두 사용할 수 있도록 안내에 나섰다.고유가 피해지원금은 영세 소상공인 보호와 골목상권 활성화를 위해 연 매출 30억원 이하 매장에서 사용할 수 있다. 대형마트와 백화점, 대형병원, 유흥업소 등에서는 사용이 제한되며, 전통시장과 소규모 골목상권을 중심으로 이용할 수 있다.여수사랑상품권 형태로 지급된 지원금은 여수사",
+          "summary": "여수시가 고유가 피해지원금 사용 기한을 앞두고 시민 안내와 홍보를 강화한다고 29일 밝혔다.여수는 시민 가계 부담 완화를 위해 추진 중인 고유가 피해지원금 지급률이 90%를 넘어서면서, 사용 기한인 8월31일까지 지원금을 모두 사용할 수 있도록 안내에 나섰다.고유가 피해지원금은 영세 소상공인 보호와 골목상권 활성화를 위해 연 매출 30억원 이하 매장에서 사용할 수 있다. 대형마트와 백화점, 대형병원, 유흥업소 등에서는 사용이 제한되며, 전통시장과 소규모 골목상권을 중심으로 이용할 수 있다.여수사랑상품권 형태로 지급된 지원금은 여수사"
+        },
+        {
+          "title": "STT GDC \"한국 AI 도입 ROI 효과 독보적이나 인프라는 하위권\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211062",
+          "date": "2026-05-29",
+          "source": "AI타임스",
+          "description": "한국은 AI 도입을 통한 투자수익률(ROI)이 아시아 최고 수준이지만, 이를 뒷받침할 인프라는 여전히 초기 단계라는 조사 결과가 나왔다.ST테레미디어 글로벌 데이터 센터(STT GDC)는 싱가포르 시장조사기관 에코시스템과 아시아태평양(APAC) 지역 9개국의 AI 인프라 현황을 조사한 ‘마인드 더 갭(Mind the Gap): AI 인프라 준비도 격차’ 보고서를 28일 발표했다.이번 조사는 APAC 디지털 조직 리더 600명 이상을 대상으로 진행됐으며, 국내 응답자는 60명이 포함됐다.■ 성과 체감과 예산 투입은 활발…\\\"인프라 실행",
+          "image": "https://cdn.aitimes.com/news/photo/202605/211062_213908_2153.png",
+          "is_english": true,
+          "original_title": "STT GDC \"한국 AI 도입 ROI 효과 독보적이나 인프라는 하위권\"",
+          "original_summary": "한국은 AI 도입을 통한 투자수익률(ROI)이 아시아 최고 수준이지만, 이를 뒷받침할 인프라는 여전히 초기 단계라는 조사 결과가 나왔다.ST테레미디어 글로벌 데이터 센터(STT GDC)는 싱가포르 시장조사기관 에코시스템과 아시아태평양(APAC) 지역 9개국의 AI 인프라 현황을 조사한 ‘마인드 더 갭(Mind the Gap): AI 인프라 준비도 격차’ 보고서를 28일 발표했다.이번 조사는 APAC 디지털 조직 리더 600명 이상을 대상으로 진행됐으며, 국내 응답자는 60명이 포함됐다.■ 성과 체감과 예산 투입은 활발…\\\"인프라 실",
+          "summary": "한국은 AI 도입을 통한 투자수익률(ROI)이 아시아 최고 수준이지만, 이를 뒷받침할 인프라는 여전히 초기 단계라는 조사 결과가 나왔다.ST테레미디어 글로벌 데이터 센터(STT GDC)는 싱가포르 시장조사기관 에코시스템과 아시아태평양(APAC) 지역 9개국의 AI 인프라 현황을 조사한 ‘마인드 더 갭(Mind the Gap): AI 인프라 준비도 격차’ 보고서를 28일 발표했다.이번 조사는 APAC 디지털 조직 리더 600명 이상을 대상으로 진행됐으며, 국내 응답자는 60명이 포함됐다.■ 성과 체감과 예산 투입은 활발…\\\"인프라 실"
+        },
+        {
+          "title": "노타, 퀄컴 엣지 AI 디바이스서 피지컬 AI 모델 최적화 구현",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211080",
+          "date": "2026-05-29",
+          "source": "AI타임스",
+          "description": "노타(대표 채명수)는 피지컬 AI 구현의 핵심 기술인 비전-언어-행동 모델(VLA)을 엣지 AI 디바이스에서 효율적으로 구동하는 성과를 발표했다고 29일 밝혔다.노타는 퀄컴의 최신 엣지 AI 디바이스 드래곤윙(Dragonwing) IQ-9075 환경에서 VLA 모델 \\'SmolVLA 0.45B\\'를 작동시키는 데 성공했다.모델 전체를 압축하는 대신 인식·이해 단계는 그대로 유지하면서 실제 로봇 동작을 생성하는 마지막 단계를 집중적으로 최적화했다. 특히 로봇 동작 생성 단계의 반복 연산을 줄이는 실시간 추론 최적화와 퀄컴 엣지 AI 디바",
+          "image": "https://cdn.aitimes.com/news/photo/202605/211080_213934_4048.png",
+          "is_english": false,
+          "original_title": "노타, 퀄컴 엣지 AI 디바이스서 피지컬 AI 모델 최적화 구현",
+          "original_summary": "노타(대표 채명수)는 피지컬 AI 구현의 핵심 기술인 비전-언어-행동 모델(VLA)을 엣지 AI 디바이스에서 효율적으로 구동하는 성과를 발표했다고 29일 밝혔다.노타는 퀄컴의 최신 엣지 AI 디바이스 드래곤윙(Dragonwing) IQ-9075 환경에서 VLA 모델 \\'SmolVLA 0.45B\\'를 작동시키는 데 성공했다.모델 전체를 압축하는 대신 인식·이해 단계는 그대로 유지하면서 실제 로봇 동작을 생성하는 마지막 단계를 집중적으로 최적화했다. 특히 로봇 동작 생성 단계의 반복 연산을 줄이는 실시간 추론 최적화와 퀄컴 엣지 AI ",
+          "summary": "노타(대표 채명수)는 피지컬 AI 구현의 핵심 기술인 비전-언어-행동 모델(VLA)을 엣지 AI 디바이스에서 효율적으로 구동하는 성과를 발표했다고 29일 밝혔다.노타는 퀄컴의 최신 엣지 AI 디바이스 드래곤윙(Dragonwing) IQ-9075 환경에서 VLA 모델 \\'SmolVLA 0.45B\\'를 작동시키는 데 성공했다.모델 전체를 압축하는 대신 인식·이해 단계는 그대로 유지하면서 실제 로봇 동작을 생성하는 마지막 단계를 집중적으로 최적화했다. 특히 로봇 동작 생성 단계의 반복 연산을 줄이는 실시간 추론 최적화와 퀄컴 엣지 AI "
+        },
+        {
+          "title": "삼성전자, 세계 최초 'HBM4E’ 샘플 출하...\"전작 대비 성능 20% 향상\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211073",
+          "date": "2026-05-29",
+          "source": "AI타임스",
+          "description": "삼성전자는 차세대 AI 가속기의 핵심 부품인 ‘HBM4E 12단’ 샘플을 글로벌 고객사에 공급했다고 29일 밝혔다.삼성전자는 지난 2월 HBM4 양산 출하에 성공한 가운데, 수개월 만에 차세대 HBM4E 공급을 개시하며 고대역폭 메모리 시장의 기술 리더십을 증명했다는 설명이다.HBM4E의 핀당 동작 속도는 최대 16Gbps로, 전작 HBM4 대비 20% 이상 향상됐다. 단일 스택 기준 초당 3.6TB의 대역폭을 제공해 대형언어모델(LLM)과 차세대 AI 시스템의 연산 속도를 크게 끌어올렸다.용량 측면에서도 HBM4E 12단 제품은",
+          "image": "https://cdn.aitimes.com/news/photo/202605/211073_213925_3032.jpg",
+          "is_english": true,
+          "original_title": "삼성전자, 세계 최초 'HBM4E’ 샘플 출하...\"전작 대비 성능 20% 향상\"",
+          "original_summary": "삼성전자는 차세대 AI 가속기의 핵심 부품인 ‘HBM4E 12단’ 샘플을 글로벌 고객사에 공급했다고 29일 밝혔다.삼성전자는 지난 2월 HBM4 양산 출하에 성공한 가운데, 수개월 만에 차세대 HBM4E 공급을 개시하며 고대역폭 메모리 시장의 기술 리더십을 증명했다는 설명이다.HBM4E의 핀당 동작 속도는 최대 16Gbps로, 전작 HBM4 대비 20% 이상 향상됐다. 단일 스택 기준 초당 3.6TB의 대역폭을 제공해 대형언어모델(LLM)과 차세대 AI 시스템의 연산 속도를 크게 끌어올렸다.용량 측면에서도 HBM4E 12단 제품은",
+          "summary": "삼성전자는 차세대 AI 가속기의 핵심 부품인 ‘HBM4E 12단’ 샘플을 글로벌 고객사에 공급했다고 29일 밝혔다.삼성전자는 지난 2월 HBM4 양산 출하에 성공한 가운데, 수개월 만에 차세대 HBM4E 공급을 개시하며 고대역폭 메모리 시장의 기술 리더십을 증명했다는 설명이다.HBM4E의 핀당 동작 속도는 최대 16Gbps로, 전작 HBM4 대비 20% 이상 향상됐다. 단일 스택 기준 초당 3.6TB의 대역폭을 제공해 대형언어모델(LLM)과 차세대 AI 시스템의 연산 속도를 크게 끌어올렸다.용량 측면에서도 HBM4E 12단 제품은"
+        },
+        {
+          "title": "오픈AI, 국내 경영진 초청 '이그젝 서밋'서 엔터프라이즈 AI 전략 공유",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211074",
+          "date": "2026-05-29",
+          "source": "AI타임스",
+          "description": "오픈AI는 국내 주요 기업 경영진 130여명을 초청해 \\'이그젝 서밋\\'을 열고, 엔터프라이즈 AI의 실제 적용과 확산 방안을 논의했다고 29일 밝혔다.\\'업무 현장에서의 인텔리전스\\'를 주제로 27일 열린 행사는 제이슨 권 최고 전략책임자(CSO), 애슐리 크레이머 엔터프라이즈 부문 부사장, 김경훈 한국 총괄 대표 등 오픈AI 글로벌 및 지역 리더들이 참석했다.주요 세션에서는 코덱스, 워크스페이스 에이전트, 포워드 디플로이드 엔지니어링(FDE)을 중심으로 AI가 소프트웨어 개발, 업무 자동화, 복잡한 비즈니스 문제 해결 등에 활용되는 방",
+          "image": "https://cdn.aitimes.com/news/photo/202605/211074_213929_4946.jpg",
+          "is_english": false,
+          "original_title": "오픈AI, 국내 경영진 초청 '이그젝 서밋'서 엔터프라이즈 AI 전략 공유",
+          "original_summary": "오픈AI는 국내 주요 기업 경영진 130여명을 초청해 \\'이그젝 서밋\\'을 열고, 엔터프라이즈 AI의 실제 적용과 확산 방안을 논의했다고 29일 밝혔다.\\'업무 현장에서의 인텔리전스\\'를 주제로 27일 열린 행사는 제이슨 권 최고 전략책임자(CSO), 애슐리 크레이머 엔터프라이즈 부문 부사장, 김경훈 한국 총괄 대표 등 오픈AI 글로벌 및 지역 리더들이 참석했다.주요 세션에서는 코덱스, 워크스페이스 에이전트, 포워드 디플로이드 엔지니어링(FDE)을 중심으로 AI가 소프트웨어 개발, 업무 자동화, 복잡한 비즈니스 문제 해결 등에 활용",
+          "summary": "오픈AI는 국내 주요 기업 경영진 130여명을 초청해 \\'이그젝 서밋\\'을 열고, 엔터프라이즈 AI의 실제 적용과 확산 방안을 논의했다고 29일 밝혔다.\\'업무 현장에서의 인텔리전스\\'를 주제로 27일 열린 행사는 제이슨 권 최고 전략책임자(CSO), 애슐리 크레이머 엔터프라이즈 부문 부사장, 김경훈 한국 총괄 대표 등 오픈AI 글로벌 및 지역 리더들이 참석했다.주요 세션에서는 코덱스, 워크스페이스 에이전트, 포워드 디플로이드 엔지니어링(FDE)을 중심으로 AI가 소프트웨어 개발, 업무 자동화, 복잡한 비즈니스 문제 해결 등에 활용"
+        },
+        {
+          "title": "전남, 1분기 합계출산율 1.30명 ‘전국 1위’…출생아 수도 15.3% 증가",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211072",
+          "date": "2026-05-29",
+          "source": "AI타임스",
+          "description": "전라남도는 올해 1분기 합계출산율이 전국 17개 시·도 가운데 가장 높은 1.30명을 기록했다고 29일 밝혔다. 전남은 국가데이터처가 발표한 ‘2026년 3월 인구동향’을 분석한 결과, 2026년 1분기 합계출산율이 2023년 이후 이어온 전국 1위 흐름을 유지했다.출생아 수도 증가했다. 전남의 1분기 출생아 수는 2569명으로, 전년 동기 2228명보다 341명 늘었다. 증가율은 15.3%다. 전남도는 임신·출산·양육 지원 정책이 출산 친화 환경 조성에 영향을 준 것으로 보고 있다.전남은 지난해부터 전남 출생아를 대상으로 18년간",
+          "image": "https://cdn.aitimes.com/news/photo/202605/211072_213927_4413.jpg",
+          "is_english": false,
+          "original_title": "전남, 1분기 합계출산율 1.30명 ‘전국 1위’…출생아 수도 15.3% 증가",
+          "original_summary": "전라남도는 올해 1분기 합계출산율이 전국 17개 시·도 가운데 가장 높은 1.30명을 기록했다고 29일 밝혔다. 전남은 국가데이터처가 발표한 ‘2026년 3월 인구동향’을 분석한 결과, 2026년 1분기 합계출산율이 2023년 이후 이어온 전국 1위 흐름을 유지했다.출생아 수도 증가했다. 전남의 1분기 출생아 수는 2569명으로, 전년 동기 2228명보다 341명 늘었다. 증가율은 15.3%다. 전남도는 임신·출산·양육 지원 정책이 출산 친화 환경 조성에 영향을 준 것으로 보고 있다.전남은 지난해부터 전남 출생아를 대상으로 18년간",
+          "summary": "전라남도는 올해 1분기 합계출산율이 전국 17개 시·도 가운데 가장 높은 1.30명을 기록했다고 29일 밝혔다. 전남은 국가데이터처가 발표한 ‘2026년 3월 인구동향’을 분석한 결과, 2026년 1분기 합계출산율이 2023년 이후 이어온 전국 1위 흐름을 유지했다.출생아 수도 증가했다. 전남의 1분기 출생아 수는 2569명으로, 전년 동기 2228명보다 341명 늘었다. 증가율은 15.3%다. 전남도는 임신·출산·양육 지원 정책이 출산 친화 환경 조성에 영향을 준 것으로 보고 있다.전남은 지난해부터 전남 출생아를 대상으로 18년간"
+        },
+        {
+          "title": "높은 DC/AC 비율 태양광 발전소일수록 '모듈 노후화' 변수 고려해야",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211079",
+          "date": "2026-05-29",
+          "source": "AI타임스",
+          "description": "태양광 모듈의 성능 저하가 장기적으로는 인버터 클리핑 손실을 줄일 수 있다는 분석이 나왔다. 시간이 지나면서 모듈 출력이 낮아지면 인버터 용량을 초과하는 전력도 줄어들기 때문이다.슬로바키아 태양광 데이터·시뮬레이션 기업 솔라기스는 28일(현지시간) 유럽 PVPMC 워크숍에서 발표한 연구를 통해 태양광 모듈 열화가 발전소 수명 기간의 인버터 클리핑 손실과 발전량 예측에 영향을 준다고 밝혔다.클리핑은 태양광 모듈의 직류(DC) 출력이 인버터의 교류(AC) 변환 용량을 넘을 때 발생하는 손실이다.일반적으로 태양광 발전소는 발전량을 늘리기",
+          "image": "https://cdn.aitimes.com/news/photo/202605/211079_213932_2934.png",
+          "is_english": false,
+          "original_title": "높은 DC/AC 비율 태양광 발전소일수록 '모듈 노후화' 변수 고려해야",
+          "original_summary": "태양광 모듈의 성능 저하가 장기적으로는 인버터 클리핑 손실을 줄일 수 있다는 분석이 나왔다. 시간이 지나면서 모듈 출력이 낮아지면 인버터 용량을 초과하는 전력도 줄어들기 때문이다.슬로바키아 태양광 데이터·시뮬레이션 기업 솔라기스는 28일(현지시간) 유럽 PVPMC 워크숍에서 발표한 연구를 통해 태양광 모듈 열화가 발전소 수명 기간의 인버터 클리핑 손실과 발전량 예측에 영향을 준다고 밝혔다.클리핑은 태양광 모듈의 직류(DC) 출력이 인버터의 교류(AC) 변환 용량을 넘을 때 발생하는 손실이다.일반적으로 태양광 발전소는 발전량을 늘리기",
+          "summary": "태양광 모듈의 성능 저하가 장기적으로는 인버터 클리핑 손실을 줄일 수 있다는 분석이 나왔다. 시간이 지나면서 모듈 출력이 낮아지면 인버터 용량을 초과하는 전력도 줄어들기 때문이다.슬로바키아 태양광 데이터·시뮬레이션 기업 솔라기스는 28일(현지시간) 유럽 PVPMC 워크숍에서 발표한 연구를 통해 태양광 모듈 열화가 발전소 수명 기간의 인버터 클리핑 손실과 발전량 예측에 영향을 준다고 밝혔다.클리핑은 태양광 모듈의 직류(DC) 출력이 인버터의 교류(AC) 변환 용량을 넘을 때 발생하는 손실이다.일반적으로 태양광 발전소는 발전량을 늘리기"
+        },
+        {
+          "title": "독일 전력망 요금 개편 추진… 태양광 확대가 불러온 ‘비용 형평성’ 딜레마",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211070",
+          "date": "2026-05-29",
+          "source": "AI타임스",
+          "description": "독일이 재생에너지 확대와 분산형 전력 시스템 확산에 맞춰 전력망 요금 체계 개편을 추진한다. 태양광·풍력 보급이 늘고 자가소비형 설비가 확산되면서, 기존처럼 최종 소비자가 대부분의 망 비용을 부담하는 구조로는 계통 확장 비용을 공정하게 나누기 어렵다는 판단이다.28일(현지시간) 리뉴어블스나우에 따르면, 독일 연방네트워크청(BNetzA)은 전력망 요금 개편 예비안을 내고 프로슈머 부담 조정, 발전사업자 계통요금 도입, 배터리에너지저장장치(BESS) 면제 유지 등을 검토하고 있다.현재 독일 전력망 요금은 최종 전력 소비자가 대부분 부담",
+          "image": "https://cdn.aitimes.com/news/photo/202605/211070_213923_031.jpg",
+          "is_english": false,
+          "original_title": "독일 전력망 요금 개편 추진… 태양광 확대가 불러온 ‘비용 형평성’ 딜레마",
+          "original_summary": "독일이 재생에너지 확대와 분산형 전력 시스템 확산에 맞춰 전력망 요금 체계 개편을 추진한다. 태양광·풍력 보급이 늘고 자가소비형 설비가 확산되면서, 기존처럼 최종 소비자가 대부분의 망 비용을 부담하는 구조로는 계통 확장 비용을 공정하게 나누기 어렵다는 판단이다.28일(현지시간) 리뉴어블스나우에 따르면, 독일 연방네트워크청(BNetzA)은 전력망 요금 개편 예비안을 내고 프로슈머 부담 조정, 발전사업자 계통요금 도입, 배터리에너지저장장치(BESS) 면제 유지 등을 검토하고 있다.현재 독일 전력망 요금은 최종 전력 소비자가 대부분 부담",
+          "summary": "독일이 재생에너지 확대와 분산형 전력 시스템 확산에 맞춰 전력망 요금 체계 개편을 추진한다. 태양광·풍력 보급이 늘고 자가소비형 설비가 확산되면서, 기존처럼 최종 소비자가 대부분의 망 비용을 부담하는 구조로는 계통 확장 비용을 공정하게 나누기 어렵다는 판단이다.28일(현지시간) 리뉴어블스나우에 따르면, 독일 연방네트워크청(BNetzA)은 전력망 요금 개편 예비안을 내고 프로슈머 부담 조정, 발전사업자 계통요금 도입, 배터리에너지저장장치(BESS) 면제 유지 등을 검토하고 있다.현재 독일 전력망 요금은 최종 전력 소비자가 대부분 부담"
+        },
+        {
+          "title": "“안전장치 없으면 중단하라”… 호주, AI 데이터센터 ‘전력 흡수’ 경고등",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211068",
+          "date": "2026-05-29",
+          "source": "AI타임스",
+          "description": "호주에서 AI 데이터센터 확대가 재생에너지 전환 속도를 늦출 수 있다는 경고가 나왔다. 데이터센터가 신규 재생에너지 설비를 충분히 늘리지 않은 채 전력망에 대규모 부하를 더하면, 기존 전력망의 청정전력 물량을 흡수하고 가스발전 의존을 키울 수 있다는 지적이다.그린피스 호주와 기후 분석가 케탄 조시는 28일 보고서 ‘에너지 뱀파이어: 호주를 빨아들이는 AI 데이터센터’를 인용해 이같이 전했다.데이터센터가 새 재생에너지 전원을 충분히 추가하지 않은 상태에서 전력을 소비하면, 다른 소비자를 위해 공급될 청정전력을 끌어다 쓰는 구조가 될",
+          "image": "https://cdn.aitimes.com/news/photo/202605/211068_213920_2419.jpg",
+          "is_english": false,
+          "original_title": "“안전장치 없으면 중단하라”… 호주, AI 데이터센터 ‘전력 흡수’ 경고등",
+          "original_summary": "호주에서 AI 데이터센터 확대가 재생에너지 전환 속도를 늦출 수 있다는 경고가 나왔다. 데이터센터가 신규 재생에너지 설비를 충분히 늘리지 않은 채 전력망에 대규모 부하를 더하면, 기존 전력망의 청정전력 물량을 흡수하고 가스발전 의존을 키울 수 있다는 지적이다.그린피스 호주와 기후 분석가 케탄 조시는 28일 보고서 ‘에너지 뱀파이어: 호주를 빨아들이는 AI 데이터센터’를 인용해 이같이 전했다.데이터센터가 새 재생에너지 전원을 충분히 추가하지 않은 상태에서 전력을 소비하면, 다른 소비자를 위해 공급될 청정전력을 끌어다 쓰는 구조가 될",
+          "summary": "호주에서 AI 데이터센터 확대가 재생에너지 전환 속도를 늦출 수 있다는 경고가 나왔다. 데이터센터가 신규 재생에너지 설비를 충분히 늘리지 않은 채 전력망에 대규모 부하를 더하면, 기존 전력망의 청정전력 물량을 흡수하고 가스발전 의존을 키울 수 있다는 지적이다.그린피스 호주와 기후 분석가 케탄 조시는 28일 보고서 ‘에너지 뱀파이어: 호주를 빨아들이는 AI 데이터센터’를 인용해 이같이 전했다.데이터센터가 새 재생에너지 전원을 충분히 추가하지 않은 상태에서 전력을 소비하면, 다른 소비자를 위해 공급될 청정전력을 끌어다 쓰는 구조가 될"
+        },
+        {
+          "title": "연방 불확실성 뚫고 달린다… 뉴욕주, 태양광 보급에 3000억 투입",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211071",
+          "date": "2026-05-29",
+          "source": "AI타임스",
+          "description": "뉴욕주가 2027 회계연도 예산에서 태양광 신규 보급과 전력망 개선을 주요 과제로 다루고 있다.솔라파워월드는 28일(현지시간) 캐시 호컬 뉴욕주지사와 주의회가 확정한 2027 회계연도 예산에 뉴욕주에너지연구개발청(NYSERDA)의 ‘NY 선(Sun)’ 프로그램 지원금 2억달러(약 3005억원)가 포함됐다고 전했다. 이 재원은 옥상 태양광과 커뮤니티솔라 보급에 쓰일 예정이다.뉴욕주 2027 회계연도 예산안은 호컬 주지사가 2026년 1월20일 공개했고, 주정부 예산은 2026년 5월 말 최종 처리됐다. 뉴욕주 회계연도는 4월1일 시작",
+          "image": "https://cdn.aitimes.com/news/photo/202605/211071_213924_143.png",
+          "is_english": false,
+          "original_title": "연방 불확실성 뚫고 달린다… 뉴욕주, 태양광 보급에 3000억 투입",
+          "original_summary": "뉴욕주가 2027 회계연도 예산에서 태양광 신규 보급과 전력망 개선을 주요 과제로 다루고 있다.솔라파워월드는 28일(현지시간) 캐시 호컬 뉴욕주지사와 주의회가 확정한 2027 회계연도 예산에 뉴욕주에너지연구개발청(NYSERDA)의 ‘NY 선(Sun)’ 프로그램 지원금 2억달러(약 3005억원)가 포함됐다고 전했다. 이 재원은 옥상 태양광과 커뮤니티솔라 보급에 쓰일 예정이다.뉴욕주 2027 회계연도 예산안은 호컬 주지사가 2026년 1월20일 공개했고, 주정부 예산은 2026년 5월 말 최종 처리됐다. 뉴욕주 회계연도는 4월1일 시작",
+          "summary": "뉴욕주가 2027 회계연도 예산에서 태양광 신규 보급과 전력망 개선을 주요 과제로 다루고 있다.솔라파워월드는 28일(현지시간) 캐시 호컬 뉴욕주지사와 주의회가 확정한 2027 회계연도 예산에 뉴욕주에너지연구개발청(NYSERDA)의 ‘NY 선(Sun)’ 프로그램 지원금 2억달러(약 3005억원)가 포함됐다고 전했다. 이 재원은 옥상 태양광과 커뮤니티솔라 보급에 쓰일 예정이다.뉴욕주 2027 회계연도 예산안은 호컬 주지사가 2026년 1월20일 공개했고, 주정부 예산은 2026년 5월 말 최종 처리됐다. 뉴욕주 회계연도는 4월1일 시작"
+        },
         {
           "title": "[테크스냅] 엘리스그룹, 강원교육청 생성형 비서 사업 수주",
           "link": "https://www.yna.co.kr/view/AKR20260529060400017",
@@ -210,19 +438,6 @@
           "category": "AI Model"
         },
         {
-          "title": "bytedance-research/Lance",
-          "link": "https://huggingface.co/bytedance-research/Lance",
-          "date": "2026-05-29",
-          "source": "HuggingFace",
-          "description": "• Lance 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/bytedance-research/Lance/resolve/main/assets/logo/lance-logo.webp",
-          "is_english": true,
-          "summary": "• Lance 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "bytedance-research/Lance",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "meituan-longcat/LongCat-Video-Avatar-1.5",
           "link": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
           "date": "2026-05-29",
@@ -232,6 +447,19 @@
           "is_english": true,
           "summary": "• LongCat-Video-Avatar-1.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "meituan-longcat/LongCat-Video-Avatar-1.5",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "bytedance-research/Lance",
+          "link": "https://huggingface.co/bytedance-research/Lance",
+          "date": "2026-05-29",
+          "source": "HuggingFace",
+          "description": "• Lance 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/bytedance-research/Lance/resolve/main/assets/logo/lance-logo.webp",
+          "is_english": true,
+          "summary": "• Lance 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "bytedance-research/Lance",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -249,19 +477,6 @@
           "category": "AI Model"
         },
         {
-          "title": "NemoStation/Marlin-2B",
-          "link": "https://huggingface.co/NemoStation/Marlin-2B",
-          "date": "2026-05-29",
-          "source": "HuggingFace",
-          "description": "• Marlin-2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Marlin-2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "NemoStation/Marlin-2B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nvidia/LocateAnything-3B",
           "link": "https://huggingface.co/nvidia/LocateAnything-3B",
           "date": "2026-05-29",
@@ -271,6 +486,19 @@
           "is_english": true,
           "summary": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nvidia/LocateAnything-3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "NemoStation/Marlin-2B",
+          "link": "https://huggingface.co/NemoStation/Marlin-2B",
+          "date": "2026-05-29",
+          "source": "HuggingFace",
+          "description": "• Marlin-2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Marlin-2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "NemoStation/Marlin-2B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -288,19 +516,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Supertone/supertonic-3",
-          "link": "https://huggingface.co/Supertone/supertonic-3",
-          "date": "2026-05-29",
-          "source": "HuggingFace",
-          "description": "• supertonic-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/Supertone/supertonic-3/resolve/main/img/Supertonic3_HeroImage.png",
-          "is_english": true,
-          "summary": "• supertonic-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Supertone/supertonic-3",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "sapientinc/HRM-Text-1B",
           "link": "https://huggingface.co/sapientinc/HRM-Text-1B",
           "date": "2026-05-29",
@@ -310,6 +525,19 @@
           "is_english": true,
           "summary": "• HRM-Text-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "sapientinc/HRM-Text-1B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Supertone/supertonic-3",
+          "link": "https://huggingface.co/Supertone/supertonic-3",
+          "date": "2026-05-29",
+          "source": "HuggingFace",
+          "description": "• supertonic-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/Supertone/supertonic-3/resolve/main/img/Supertonic3_HeroImage.png",
+          "is_english": true,
+          "summary": "• supertonic-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Supertone/supertonic-3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -340,19 +568,6 @@
           "category": "AI Model"
         },
         {
-          "title": "SulphurAI/Sulphur-2-base",
-          "link": "https://huggingface.co/SulphurAI/Sulphur-2-base",
-          "date": "2026-05-29",
-          "source": "HuggingFace",
-          "description": "• Sulphur-2-base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Sulphur-2-base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "SulphurAI/Sulphur-2-base",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
           "date": "2026-05-29",
@@ -366,6 +581,19 @@
           "category": "AI Model"
         },
         {
+          "title": "SulphurAI/Sulphur-2-base",
+          "link": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+          "date": "2026-05-29",
+          "source": "HuggingFace",
+          "description": "• Sulphur-2-base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Sulphur-2-base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "SulphurAI/Sulphur-2-base",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "unsloth/Qwen3.6-27B-MTP-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.6-27B-MTP-GGUF",
           "date": "2026-05-29",
@@ -375,6 +603,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-27B-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/Qwen3.6-27B-MTP-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "LiquidAI/LFM2.5-8B-A1B",
+          "link": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
+          "date": "2026-05-29",
+          "source": "HuggingFace",
+          "description": "• LFM2.5-8B-A1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/qUZVGkns1bg3sZUShBbhv.png",
+          "is_english": true,
+          "summary": "• LFM2.5-8B-A1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "LiquidAI/LFM2.5-8B-A1B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -431,19 +672,6 @@
           "category": "AI Model"
         },
         {
-          "title": "LiquidAI/LFM2.5-8B-A1B",
-          "link": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
-          "date": "2026-05-29",
-          "source": "HuggingFace",
-          "description": "• LFM2.5-8B-A1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/qUZVGkns1bg3sZUShBbhv.png",
-          "is_english": true,
-          "summary": "• LFM2.5-8B-A1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "LiquidAI/LFM2.5-8B-A1B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.6-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.6-27B",
           "date": "2026-05-29",
@@ -460,8 +688,20 @@
     },
     {
       "date": "2026-05-28",
-      "update_time": "2026-05-29 02:07:10",
+      "update_time": "2026-05-29 06:45:47",
       "news": [
+        {
+          "title": "MUFG aims to become AI-native with OpenAI",
+          "link": "https://openai.com/index/mufg",
+          "date": "2026-05-28",
+          "source": "OpenAI",
+          "description": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+          "image": null,
+          "is_english": true,
+          "original_title": "MUFG aims to become AI-native with OpenAI",
+          "original_summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale.",
+          "summary": "MUFG uses ChatGPT Enterprise to build an AI-native organization, improve workflows, and deliver new AI-powered financial services at scale."
+        },
         {
           "title": "How Endava builds an agentic organization with Codex",
           "link": "https://openai.com/index/endava",
