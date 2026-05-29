@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-05-30",
-      "update_time": "2026-05-29 18:00:30",
+      "update_time": "2026-05-29 20:28:01",
       "news": [
         {
           "title": "All-New Waymo Robotaxi Finally Debuts",
@@ -54,19 +54,6 @@
           "category": "AI Model"
         },
         {
-          "title": "meituan-longcat/LongCat-Video-Avatar-1.5",
-          "link": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
-          "date": "2026-05-30",
-          "source": "HuggingFace",
-          "description": "• LongCat-Video-Avatar-1.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5/resolve/main/assets/logo.png",
-          "is_english": true,
-          "summary": "• LongCat-Video-Avatar-1.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "meituan-longcat/LongCat-Video-Avatar-1.5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nvidia/LocateAnything-3B",
           "link": "https://huggingface.co/nvidia/LocateAnything-3B",
           "date": "2026-05-30",
@@ -76,6 +63,19 @@
           "is_english": true,
           "summary": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nvidia/LocateAnything-3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "meituan-longcat/LongCat-Video-Avatar-1.5",
+          "link": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
+          "date": "2026-05-30",
+          "source": "HuggingFace",
+          "description": "• LongCat-Video-Avatar-1.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5/resolve/main/assets/logo.png",
+          "is_english": true,
+          "summary": "• LongCat-Video-Avatar-1.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "meituan-longcat/LongCat-Video-Avatar-1.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -106,6 +106,19 @@
           "category": "AI Model"
         },
         {
+          "title": "LiquidAI/LFM2.5-8B-A1B",
+          "link": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
+          "date": "2026-05-30",
+          "source": "HuggingFace",
+          "description": "• LFM2.5-8B-A1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/qUZVGkns1bg3sZUShBbhv.png",
+          "is_english": true,
+          "summary": "• LFM2.5-8B-A1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "LiquidAI/LFM2.5-8B-A1B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "deepseek-ai/DeepSeek-V4-Pro",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
           "date": "2026-05-30",
@@ -128,19 +141,6 @@
           "is_english": true,
           "summary": "• Marlin-2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "NemoStation/Marlin-2B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "LiquidAI/LFM2.5-8B-A1B",
-          "link": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
-          "date": "2026-05-30",
-          "source": "HuggingFace",
-          "description": "• LFM2.5-8B-A1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/qUZVGkns1bg3sZUShBbhv.png",
-          "is_english": true,
-          "summary": "• LFM2.5-8B-A1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "LiquidAI/LFM2.5-8B-A1B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -184,19 +184,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Jackrong/Qwopus3.6-27B-v2-GGUF",
-          "link": "https://huggingface.co/Jackrong/Qwopus3.6-27B-v2-GGUF",
-          "date": "2026-05-30",
-          "source": "HuggingFace",
-          "description": "• Qwopus3.6-27B-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwopus3.6-27B-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jackrong/Qwopus3.6-27B-v2-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Supertone/supertonic-3",
           "link": "https://huggingface.co/Supertone/supertonic-3",
           "date": "2026-05-30",
@@ -206,6 +193,19 @@
           "is_english": true,
           "summary": "• supertonic-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Supertone/supertonic-3",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Jackrong/Qwopus3.6-27B-v2-GGUF",
+          "link": "https://huggingface.co/Jackrong/Qwopus3.6-27B-v2-GGUF",
+          "date": "2026-05-30",
+          "source": "HuggingFace",
+          "description": "• Qwopus3.6-27B-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwopus3.6-27B-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jackrong/Qwopus3.6-27B-v2-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -304,8 +304,44 @@
     },
     {
       "date": "2026-05-29",
-      "update_time": "2026-05-29 18:00:30",
+      "update_time": "2026-05-29 20:28:01",
       "news": [
+        {
+          "title": "How Braintrust turns customer requests into code with Codex",
+          "link": "https://openai.com/index/braintrust",
+          "date": "2026-05-29",
+          "source": "OpenAI",
+          "description": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
+          "image": null,
+          "is_english": true,
+          "original_title": "How Braintrust turns customer requests into code with Codex",
+          "original_summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster.",
+          "summary": "How Braintrust engineers use Codex with GPT-5.5 to run experiments and code faster."
+        },
+        {
+          "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+          "link": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+          "date": "2026-05-29",
+          "source": "TechCrunch",
+          "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-ai-generated-eb728837-4a65-4ce4-b814-abd0c140d20c.jpg?w=1024",
+          "is_english": true,
+          "original_title": "So you’ve heard these AI terms and nodded along; let’s fix that",
+          "original_summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+          "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
+        },
+        {
+          "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+          "date": "2026-05-29",
+          "source": "Google AI",
+          "description": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/IOQuiz2026_social.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+          "original_summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements.",
+          "summary": "We used Google AI Studio to vibe code a quiz about our top I/O 2026 announcements."
+        },
         {
           "title": "Boston Children’s uses AI to unlock new diagnoses",
           "link": "https://openai.com/index/boston-childrens-hospital",
@@ -7249,7 +7285,7 @@
         {
           "title": "bytedance-research/Lance",
           "link": "https://huggingface.co/bytedance-research/Lance",
-          "date": "2026-05-21",
+          "date": "2026-05-30",
           "source": "HuggingFace",
           "description": "• Lance 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/bytedance-research/Lance/resolve/main/assets/logo/lance-logo.webp",
@@ -7262,7 +7298,7 @@
         {
           "title": "Supertone/supertonic-3",
           "link": "https://huggingface.co/Supertone/supertonic-3",
-          "date": "2026-05-21",
+          "date": "2026-05-30",
           "source": "HuggingFace",
           "description": "• supertonic-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/Supertone/supertonic-3/resolve/main/img/Supertonic3_HeroImage.png",
@@ -7275,7 +7311,7 @@
         {
           "title": "SulphurAI/Sulphur-2-base",
           "link": "https://huggingface.co/SulphurAI/Sulphur-2-base",
-          "date": "2026-05-21",
+          "date": "2026-05-30",
           "source": "HuggingFace",
           "description": "• Sulphur-2-base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -7301,7 +7337,7 @@
         {
           "title": "unsloth/Qwen3.6-27B-MTP-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.6-27B-MTP-GGUF",
-          "date": "2026-05-21",
+          "date": "2026-05-30",
           "source": "HuggingFace",
           "description": "• Qwen3.6-27B-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -7327,7 +7363,7 @@
         {
           "title": "sapientinc/HRM-Text-1B",
           "link": "https://huggingface.co/sapientinc/HRM-Text-1B",
-          "date": "2026-05-21",
+          "date": "2026-05-30",
           "source": "HuggingFace",
           "description": "• HRM-Text-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/sapientinc/HRM-Text-1B/resolve/main/banner.jpg",
@@ -7353,7 +7389,7 @@
         {
           "title": "NemoStation/Marlin-2B",
           "link": "https://huggingface.co/NemoStation/Marlin-2B",
-          "date": "2026-05-21",
+          "date": "2026-05-30",
           "source": "HuggingFace",
           "description": "• Marlin-2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
@@ -7405,7 +7441,7 @@
         {
           "title": "deepseek-ai/DeepSeek-V4-Pro",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
-          "date": "2026-05-21",
+          "date": "2026-05-30",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
