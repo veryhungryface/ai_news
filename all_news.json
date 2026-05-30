@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-05-31",
-      "update_time": "2026-05-30 15:58:47",
+      "update_time": "2026-05-30 18:58:42",
       "news": [
         {
           "title": "openbmb/MiniCPM5-1B",
@@ -200,19 +200,6 @@
           "category": "AI Model"
         },
         {
-          "title": "numind/NuExtract3",
-          "link": "https://huggingface.co/numind/NuExtract3",
-          "date": "2026-05-31",
-          "source": "HuggingFace",
-          "description": "• NuExtract3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/numind/NuExtract3/resolve/main/header.svg",
-          "is_english": true,
-          "summary": "• NuExtract3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "numind/NuExtract3",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Qwen3.6-27B-MTP-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.6-27B-MTP-GGUF",
           "date": "2026-05-31",
@@ -222,6 +209,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-27B-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/Qwen3.6-27B-MTP-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "numind/NuExtract3",
+          "link": "https://huggingface.co/numind/NuExtract3",
+          "date": "2026-05-31",
+          "source": "HuggingFace",
+          "description": "• NuExtract3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/numind/NuExtract3/resolve/main/header.svg",
+          "is_english": true,
+          "summary": "• NuExtract3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "numind/NuExtract3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +268,32 @@
     },
     {
       "date": "2026-05-30",
-      "update_time": "2026-05-30 15:58:47",
+      "update_time": "2026-05-30 18:58:42",
       "news": [
+        {
+          "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+          "link": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+          "date": "2026-05-30",
+          "source": "TechCrunch",
+          "description": "The golden age of Microsoft's Github Copilot appears to be at an end.",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/11/github-copilot-chat-2.webp?w=1200",
+          "is_english": true,
+          "original_title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+          "original_summary": "The golden age of Microsoft's Github Copilot appears to be at an end.",
+          "summary": "The golden age of Microsoft's Github Copilot appears to be at an end."
+        },
+        {
+          "title": "Meta is reportedly developing an AI pendant",
+          "link": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+          "date": "2026-05-30",
+          "source": "TechCrunch",
+          "description": "Meta seems to be making big bets on AI-powered hardware.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Meta is reportedly developing an AI pendant",
+          "original_summary": "Meta seems to be making big bets on AI-powered hardware.",
+          "summary": "Meta seems to be making big bets on AI-powered hardware."
+        },
         {
           "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
           "link": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
@@ -7021,7 +7045,7 @@
         {
           "title": "bytedance-research/Lance",
           "link": "https://huggingface.co/bytedance-research/Lance",
-          "date": "2026-05-22",
+          "date": "2026-05-31",
           "source": "HuggingFace",
           "description": "• Lance 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/bytedance-research/Lance/resolve/main/assets/logo/lance-logo.webp",
@@ -7034,7 +7058,7 @@
         {
           "title": "Supertone/supertonic-3",
           "link": "https://huggingface.co/Supertone/supertonic-3",
-          "date": "2026-05-22",
+          "date": "2026-05-31",
           "source": "HuggingFace",
           "description": "• supertonic-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/Supertone/supertonic-3/resolve/main/img/Supertonic3_HeroImage.png",
@@ -7060,7 +7084,7 @@
         {
           "title": "SulphurAI/Sulphur-2-base",
           "link": "https://huggingface.co/SulphurAI/Sulphur-2-base",
-          "date": "2026-05-22",
+          "date": "2026-05-31",
           "source": "HuggingFace",
           "description": "• Sulphur-2-base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -7086,7 +7110,7 @@
         {
           "title": "NemoStation/Marlin-2B",
           "link": "https://huggingface.co/NemoStation/Marlin-2B",
-          "date": "2026-05-22",
+          "date": "2026-05-31",
           "source": "HuggingFace",
           "description": "• Marlin-2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
@@ -7099,7 +7123,7 @@
         {
           "title": "sapientinc/HRM-Text-1B",
           "link": "https://huggingface.co/sapientinc/HRM-Text-1B",
-          "date": "2026-05-22",
+          "date": "2026-05-31",
           "source": "HuggingFace",
           "description": "• HRM-Text-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/sapientinc/HRM-Text-1B/resolve/main/banner.jpg",
@@ -7112,7 +7136,7 @@
         {
           "title": "unsloth/Qwen3.6-27B-MTP-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.6-27B-MTP-GGUF",
-          "date": "2026-05-22",
+          "date": "2026-05-31",
           "source": "HuggingFace",
           "description": "• Qwen3.6-27B-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -7203,7 +7227,7 @@
         {
           "title": "deepseek-ai/DeepSeek-V4-Pro",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
-          "date": "2026-05-22",
+          "date": "2026-05-31",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
