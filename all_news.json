@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-05-31",
-      "update_time": "2026-05-30 18:58:42",
+      "update_time": "2026-05-30 21:51:21",
       "news": [
+        {
+          "title": "AI발 '초과이익' 재분배론 부상…시장경제 원칙 훼손 지적도",
+          "link": "https://www.yna.co.kr/view/AKR20260529127000530",
+          "date": "2026-05-31",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 한혜원 옥성구 기자 = 인공지능(AI) 특수로 삼성전자와 SK하이닉스 등 반도체 기업의 수익이 급증하면서 초과이익을 노동자 간...",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/05/27/PYH2026052708370001300_P2.jpg",
+          "is_english": false,
+          "original_title": "AI발 '초과이익' 재분배론 부상…시장경제 원칙 훼손 지적도",
+          "original_summary": "(서울=연합뉴스) 한혜원 옥성구 기자 = 인공지능(AI) 특수로 삼성전자와 SK하이닉스 등 반도체 기업의 수익이 급증하면서 초과이익을 노동자 간...",
+          "summary": "(서울=연합뉴스) 한혜원 옥성구 기자 = 인공지능(AI) 특수로 삼성전자와 SK하이닉스 등 반도체 기업의 수익이 급증하면서 초과이익을 노동자 간..."
+        },
         {
           "title": "openbmb/MiniCPM5-1B",
           "link": "https://huggingface.co/openbmb/MiniCPM5-1B",
@@ -57,19 +69,6 @@
           "category": "AI Model"
         },
         {
-          "title": "bytedance-research/Lance",
-          "link": "https://huggingface.co/bytedance-research/Lance",
-          "date": "2026-05-31",
-          "source": "HuggingFace",
-          "description": "• Lance 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/bytedance-research/Lance/resolve/main/assets/logo/lance-logo.webp",
-          "is_english": true,
-          "summary": "• Lance 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "bytedance-research/Lance",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "LiquidAI/LFM2.5-8B-A1B",
           "link": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
           "date": "2026-05-31",
@@ -83,15 +82,15 @@
           "category": "AI Model"
         },
         {
-          "title": "deepseek-ai/DeepSeek-V4-Pro",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+          "title": "bytedance-research/Lance",
+          "link": "https://huggingface.co/bytedance-research/Lance",
           "date": "2026-05-31",
           "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
+          "description": "• Lance 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/bytedance-research/Lance/resolve/main/assets/logo/lance-logo.webp",
           "is_english": true,
-          "summary": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepseek-ai/DeepSeek-V4-Pro",
+          "summary": "• Lance 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "bytedance-research/Lance",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -105,6 +104,19 @@
           "is_english": true,
           "summary": "• PiD 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nvidia/PiD",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Pro",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+          "date": "2026-05-31",
+          "source": "HuggingFace",
+          "description": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
+          "is_english": true,
+          "summary": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepseek-ai/DeepSeek-V4-Pro",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -148,19 +160,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Supertone/supertonic-3",
-          "link": "https://huggingface.co/Supertone/supertonic-3",
-          "date": "2026-05-31",
-          "source": "HuggingFace",
-          "description": "• supertonic-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/Supertone/supertonic-3/resolve/main/img/Supertonic3_HeroImage.png",
-          "is_english": true,
-          "summary": "• supertonic-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Supertone/supertonic-3",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "stepfun-ai/Step-3.7-Flash",
           "link": "https://huggingface.co/stepfun-ai/Step-3.7-Flash",
           "date": "2026-05-31",
@@ -174,15 +173,15 @@
           "category": "AI Model"
         },
         {
-          "title": "SulphurAI/Sulphur-2-base",
-          "link": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+          "title": "Supertone/supertonic-3",
+          "link": "https://huggingface.co/Supertone/supertonic-3",
           "date": "2026-05-31",
           "source": "HuggingFace",
-          "description": "• Sulphur-2-base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• supertonic-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/Supertone/supertonic-3/resolve/main/img/Supertonic3_HeroImage.png",
           "is_english": true,
-          "summary": "• Sulphur-2-base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "SulphurAI/Sulphur-2-base",
+          "summary": "• supertonic-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Supertone/supertonic-3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -196,6 +195,19 @@
           "is_english": true,
           "summary": "• LFM2.5-8B-A1B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "LiquidAI/LFM2.5-8B-A1B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "SulphurAI/Sulphur-2-base",
+          "link": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+          "date": "2026-05-31",
+          "source": "HuggingFace",
+          "description": "• Sulphur-2-base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Sulphur-2-base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "SulphurAI/Sulphur-2-base",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -226,19 +238,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
-          "link": "https://huggingface.co/Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
-          "date": "2026-05-31",
-          "source": "HuggingFace",
-          "description": "• Qwopus3.6-27B-v2-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwopus3.6-27B-v2-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.6-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.6-27B",
           "date": "2026-05-31",
@@ -248,6 +247,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.6-27B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
+          "link": "https://huggingface.co/Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
+          "date": "2026-05-31",
+          "source": "HuggingFace",
+          "description": "• Qwopus3.6-27B-v2-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwopus3.6-27B-v2-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
