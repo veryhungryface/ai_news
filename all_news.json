@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-06-01",
-      "update_time": "2026-05-31 19:01:43",
+      "update_time": "2026-05-31 21:49:20",
       "news": [
         {
           "title": "openbmb/MiniCPM5-1B",
@@ -109,19 +109,6 @@
           "category": "AI Model"
         },
         {
-          "title": "sapientinc/HRM-Text-1B",
-          "link": "https://huggingface.co/sapientinc/HRM-Text-1B",
-          "date": "2026-06-01",
-          "source": "HuggingFace",
-          "description": "• HRM-Text-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/sapientinc/HRM-Text-1B/resolve/main/banner.jpg",
-          "is_english": true,
-          "summary": "• HRM-Text-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "sapientinc/HRM-Text-1B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "stepfun-ai/Step-3.7-Flash",
           "link": "https://huggingface.co/stepfun-ai/Step-3.7-Flash",
           "date": "2026-06-01",
@@ -131,6 +118,19 @@
           "is_english": true,
           "summary": "• Step-3.7-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "stepfun-ai/Step-3.7-Flash",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "sapientinc/HRM-Text-1B",
+          "link": "https://huggingface.co/sapientinc/HRM-Text-1B",
+          "date": "2026-06-01",
+          "source": "HuggingFace",
+          "description": "• HRM-Text-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/sapientinc/HRM-Text-1B/resolve/main/banner.jpg",
+          "is_english": true,
+          "summary": "• HRM-Text-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "sapientinc/HRM-Text-1B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -148,19 +148,6 @@
           "category": "AI Model"
         },
         {
-          "title": "LiquidAI/LFM2.5-8B-A1B-GGUF",
-          "link": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B-GGUF",
-          "date": "2026-06-01",
-          "source": "HuggingFace",
-          "description": "• LFM2.5-8B-A1B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/2b08LKpev0DNEk6DlnWkY.png",
-          "is_english": true,
-          "summary": "• LFM2.5-8B-A1B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "LiquidAI/LFM2.5-8B-A1B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "tencent/Hy-MT2-30B-A3B",
           "link": "https://huggingface.co/tencent/Hy-MT2-30B-A3B",
           "date": "2026-06-01",
@@ -170,6 +157,19 @@
           "is_english": true,
           "summary": "• Hy-MT2-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "tencent/Hy-MT2-30B-A3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "LiquidAI/LFM2.5-8B-A1B-GGUF",
+          "link": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B-GGUF",
+          "date": "2026-06-01",
+          "source": "HuggingFace",
+          "description": "• LFM2.5-8B-A1B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/2b08LKpev0DNEk6DlnWkY.png",
+          "is_english": true,
+          "summary": "• LFM2.5-8B-A1B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "LiquidAI/LFM2.5-8B-A1B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +268,20 @@
     },
     {
       "date": "2026-05-31",
-      "update_time": "2026-05-31 15:59:43",
+      "update_time": "2026-05-31 21:49:20",
       "news": [
+        {
+          "title": "Erin Brockovich takes aim at data center secrecy",
+          "link": "https://techcrunch.com/2026/05/31/erin-brockovich-takes-aim-at-data-center-secrecy/",
+          "date": "2026-05-31",
+          "source": "TechCrunch",
+          "description": "Environmental activist Erin Brockovich has a new mission.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Erin Brockovich takes aim at data center secrecy",
+          "original_summary": "Environmental activist Erin Brockovich has a new mission.",
+          "summary": "Environmental activist Erin Brockovich has a new mission."
+        },
         {
           "title": "Making sense of the debate over AI psychosis",
           "link": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
