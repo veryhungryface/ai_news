@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-06-02",
-      "update_time": "2026-06-01 19:51:52",
+      "update_time": "2026-06-01 22:55:34",
       "news": [
+        {
+          "title": "앤트로픽, 비공개 IPO 신청서 제출…오픈AI보다 먼저 주도권 확보",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211223",
+          "date": "2026-06-02",
+          "source": "AI타임스",
+          "description": "앤트로픽이 미국 증시 상장을 위한 비공개 기업공개(IPO) 신청서를 제출했다. 오픈AI보다 먼저 상장 절차에 돌입함으로써 시장 주도권을 선점하겠다는 의도다.앤트로픽은 1일(현지시간) 공지를 통해 이날 미국 증권거래위원회(SEC)에 IPO를 위한 예비 등록신고서(S-1)를 제출했다고 발표했다. 주식 수와 가격은 아직 정해지지 않았다고 덧붙였다.이번 상장 추진에 앞서 앤트로픽은 몸값을 크게 끌어올렸다. 지난달 28일 발표한 시리즈 H 라운드에서는 650억달러(약 98조원)의 자금을 조달하며 기업 가치 9650억달러(약 1460조원)를",
+          "image": "https://cdn.aitimes.com/news/photo/202606/211223_214112_1553.jpg",
+          "is_english": false,
+          "original_title": "앤트로픽, 비공개 IPO 신청서 제출…오픈AI보다 먼저 주도권 확보",
+          "original_summary": "앤트로픽이 미국 증시 상장을 위한 비공개 기업공개(IPO) 신청서를 제출했다. 오픈AI보다 먼저 상장 절차에 돌입함으로써 시장 주도권을 선점하겠다는 의도다.앤트로픽은 1일(현지시간) 공지를 통해 이날 미국 증권거래위원회(SEC)에 IPO를 위한 예비 등록신고서(S-1)를 제출했다고 발표했다. 주식 수와 가격은 아직 정해지지 않았다고 덧붙였다.이번 상장 추진에 앞서 앤트로픽은 몸값을 크게 끌어올렸다. 지난달 28일 발표한 시리즈 H 라운드에서는 650억달러(약 98조원)의 자금을 조달하며 기업 가치 9650억달러(약 1460조원)를",
+          "summary": "앤트로픽이 미국 증시 상장을 위한 비공개 기업공개(IPO) 신청서를 제출했다. 오픈AI보다 먼저 상장 절차에 돌입함으로써 시장 주도권을 선점하겠다는 의도다.앤트로픽은 1일(현지시간) 공지를 통해 이날 미국 증권거래위원회(SEC)에 IPO를 위한 예비 등록신고서(S-1)를 제출했다고 발표했다. 주식 수와 가격은 아직 정해지지 않았다고 덧붙였다.이번 상장 추진에 앞서 앤트로픽은 몸값을 크게 끌어올렸다. 지난달 28일 발표한 시리즈 H 라운드에서는 650억달러(약 98조원)의 자금을 조달하며 기업 가치 9650억달러(약 1460조원)를"
+        },
+        {
+          "title": "Anthropic’s IPO Filing and How It Affects Its Responsible AI Stance",
+          "link": "https://aibusiness.com/generative-ai/anthropic-s-ipo-filing-how-affects-responsible-ai-stance",
+          "date": "2026-06-02",
+          "source": "AI Business",
+          "description": "The IPO reflects the vendor’s accomplishments, even with its responsible AI stance.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt90943a44d8b7656d/6a1df4f0a5c0c3b7e3d339f2/Anthropic.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Anthropic’s IPO Filing and How It Affects Its Responsible AI Stance",
+          "original_summary": "The IPO reflects the vendor’s accomplishments, even with its responsible AI stance.",
+          "summary": "The IPO reflects the vendor’s accomplishments, even with its responsible AI stance."
+        },
         {
           "title": "Nvidia Taps Unitree for Humanoid Robot Platform",
           "link": "https://aibusiness.com/robotics/nvidia-taps-unitree-humanoid-robot-platform",
@@ -94,19 +118,6 @@
           "category": "AI Model"
         },
         {
-          "title": "deepseek-ai/DeepSeek-V4-Pro",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
-          "date": "2026-06-02",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
-          "is_english": true,
-          "summary": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepseek-ai/DeepSeek-V4-Pro",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "stepfun-ai/Step-3.7-Flash",
           "link": "https://huggingface.co/stepfun-ai/Step-3.7-Flash",
           "date": "2026-06-02",
@@ -116,6 +127,19 @@
           "is_english": true,
           "summary": "• Step-3.7-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "stepfun-ai/Step-3.7-Flash",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Pro",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+          "date": "2026-06-02",
+          "source": "HuggingFace",
+          "description": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
+          "is_english": true,
+          "summary": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepseek-ai/DeepSeek-V4-Pro",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -146,19 +170,6 @@
           "category": "AI Model"
         },
         {
-          "title": "sapientinc/HRM-Text-1B",
-          "link": "https://huggingface.co/sapientinc/HRM-Text-1B",
-          "date": "2026-06-02",
-          "source": "HuggingFace",
-          "description": "• HRM-Text-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/sapientinc/HRM-Text-1B/resolve/main/banner.jpg",
-          "is_english": true,
-          "summary": "• HRM-Text-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "sapientinc/HRM-Text-1B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "PaddlePaddle/PaddleOCR-VL-1.6",
           "link": "https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.6",
           "date": "2026-06-02",
@@ -181,6 +192,19 @@
           "is_english": true,
           "summary": "• LFM2.5-8B-A1B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "LiquidAI/LFM2.5-8B-A1B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "sapientinc/HRM-Text-1B",
+          "link": "https://huggingface.co/sapientinc/HRM-Text-1B",
+          "date": "2026-06-02",
+          "source": "HuggingFace",
+          "description": "• HRM-Text-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/sapientinc/HRM-Text-1B/resolve/main/banner.jpg",
+          "is_english": true,
+          "summary": "• HRM-Text-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "sapientinc/HRM-Text-1B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -263,19 +287,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.6-27B",
-          "link": "https://huggingface.co/Qwen/Qwen3.6-27B",
-          "date": "2026-06-02",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
-          "is_english": true,
-          "summary": "• Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.6-27B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
           "date": "2026-06-02",
@@ -287,13 +298,62 @@
           "translated_title": "Jackrong/Qwopus3.6-27B-v2-MTP-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.6-27B",
+          "link": "https://huggingface.co/Qwen/Qwen3.6-27B",
+          "date": "2026-06-02",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
+          "is_english": true,
+          "summary": "• Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.6-27B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-06-01",
-      "update_time": "2026-06-01 19:51:52",
+      "update_time": "2026-06-01 22:55:34",
       "news": [
+        {
+          "title": "OpenAI frontier models and Codex are now available on AWS",
+          "link": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws",
+          "date": "2026-06-01",
+          "source": "OpenAI",
+          "description": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
+          "image": null,
+          "is_english": true,
+          "original_title": "OpenAI frontier models and Codex are now available on AWS",
+          "original_summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
+          "summary": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production."
+        },
+        {
+          "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+          "link": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+          "date": "2026-06-01",
+          "source": "TechCrunch",
+          "description": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205761886.jpg?resize=1200,828",
+          "is_english": true,
+          "original_title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+          "original_summary": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big.",
+          "summary": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big."
+        },
+        {
+          "title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+          "link": "https://techcrunch.com/2026/06/01/florida-sues-openai-sam-altman-in-first-of-its-kind-lawsuit-over-violent-incidents/",
+          "date": "2026-06-01",
+          "source": "TechCrunch",
+          "description": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2273245180.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Florida sues OpenAI, Sam Altman, in first-of-its-kind lawsuit over violent incidents",
+          "original_summary": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident. ",
+          "summary": "The lawsuit partially revolves around a shooting at Florida State University last year, and ChatGPT's alleged role in the incident. "
+        },
         {
           "title": "Building the infrastructure for the Intelligence Age in Michigan",
           "link": "https://openai.com/index/stargate-michigan-data-center",
@@ -7237,7 +7297,7 @@
         {
           "title": "bytedance-research/Lance",
           "link": "https://huggingface.co/bytedance-research/Lance",
-          "date": "2026-05-24",
+          "date": "2026-06-02",
           "source": "HuggingFace",
           "description": "• Lance 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/bytedance-research/Lance/resolve/main/assets/logo/lance-logo.webp",
@@ -7263,7 +7323,7 @@
         {
           "title": "Supertone/supertonic-3",
           "link": "https://huggingface.co/Supertone/supertonic-3",
-          "date": "2026-05-24",
+          "date": "2026-06-02",
           "source": "HuggingFace",
           "description": "• supertonic-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/Supertone/supertonic-3/resolve/main/img/Supertonic3_HeroImage.png",
@@ -7276,7 +7336,7 @@
         {
           "title": "tencent/Hy-MT2-30B-A3B",
           "link": "https://huggingface.co/tencent/Hy-MT2-30B-A3B",
-          "date": "2026-05-24",
+          "date": "2026-06-02",
           "source": "HuggingFace",
           "description": "• Hy-MT2-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Tencent%20Hy-ffc107?color=ffc107&logoColor=white",
@@ -7289,7 +7349,7 @@
         {
           "title": "NemoStation/Marlin-2B",
           "link": "https://huggingface.co/NemoStation/Marlin-2B",
-          "date": "2026-05-24",
+          "date": "2026-06-02",
           "source": "HuggingFace",
           "description": "• Marlin-2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
@@ -7302,7 +7362,7 @@
         {
           "title": "sapientinc/HRM-Text-1B",
           "link": "https://huggingface.co/sapientinc/HRM-Text-1B",
-          "date": "2026-05-24",
+          "date": "2026-06-02",
           "source": "HuggingFace",
           "description": "• HRM-Text-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/sapientinc/HRM-Text-1B/resolve/main/banner.jpg",
@@ -7315,7 +7375,7 @@
         {
           "title": "SulphurAI/Sulphur-2-base",
           "link": "https://huggingface.co/SulphurAI/Sulphur-2-base",
-          "date": "2026-05-24",
+          "date": "2026-06-02",
           "source": "HuggingFace",
           "description": "• Sulphur-2-base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -7341,7 +7401,7 @@
         {
           "title": "unsloth/Qwen3.6-27B-MTP-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.6-27B-MTP-GGUF",
-          "date": "2026-05-24",
+          "date": "2026-06-02",
           "source": "HuggingFace",
           "description": "• Qwen3.6-27B-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -7393,7 +7453,7 @@
         {
           "title": "deepseek-ai/DeepSeek-V4-Pro",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
-          "date": "2026-05-24",
+          "date": "2026-06-02",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
