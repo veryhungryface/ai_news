@@ -2,8 +2,236 @@
   "dates": [
     {
       "date": "2026-06-02",
-      "update_time": "2026-06-02 07:17:12",
+      "update_time": "2026-06-02 12:34:24",
       "news": [
+        {
+          "title": "방한하는 젠슨 황, 8일 서울대 찾는다…\"학생들 만나고 싶다\"",
+          "link": "https://www.yna.co.kr/view/AKR20260602161600004",
+          "date": "2026-06-02",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 윤민혁 기자 = 젠슨 황 엔비디아 최고경영자(CEO)가 이번 방한 기간 중 서울대학교 AI(인공지능) 연구원과 로보틱스 연구소...",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/01/06/PYH2026010601860001300_P2.jpg",
+          "is_english": false,
+          "original_title": "방한하는 젠슨 황, 8일 서울대 찾는다…\"학생들 만나고 싶다\"",
+          "original_summary": "(서울=연합뉴스) 윤민혁 기자 = 젠슨 황 엔비디아 최고경영자(CEO)가 이번 방한 기간 중 서울대학교 AI(인공지능) 연구원과 로보틱스 연구소...",
+          "summary": "(서울=연합뉴스) 윤민혁 기자 = 젠슨 황 엔비디아 최고경영자(CEO)가 이번 방한 기간 중 서울대학교 AI(인공지능) 연구원과 로보틱스 연구소..."
+        },
+        {
+          "title": "GPT-5.5·제미나이 능가한 ‘미니맥스 M3’ 출시...\"가격은 5~10%에 불과\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211258",
+          "date": "2026-06-02",
+          "source": "AI타임스",
+          "description": "미니맥스가 차세대 플래그십 모델 ‘미니맥스 M3(MiniMax M3)’를 공개했다. 일부 핵심 벤치마크에서 \\'GPT-5.5\\'와 \\'제미나이 3.1 프로\\'를 앞서는 성능을 기록하면서도, 비용은 미국 주요 폐쇄형 모델의 5~10% 수준에 불과하다는 사실로 주목받았다.미니맥스는 1일(현지시간) 최대 100만 토큰의 초장문 컨텍스트 처리, 이미지와 비디오 입력을 기본 지원하는 네이티브 멀티모달 기능, 고성능 코딩·데스크톱 컴퓨터 조작 에이전트 역량을 결합한 오픈 웨이트(open-weight) 모델 ‘미니맥스-M3’를 공개했다.핵심 기술은 새",
+          "image": "https://cdn.aitimes.com/news/photo/202606/211258_214156_5716.png",
+          "is_english": true,
+          "original_title": "GPT-5.5·제미나이 능가한 ‘미니맥스 M3’ 출시...\"가격은 5~10%에 불과\"",
+          "original_summary": "미니맥스가 차세대 플래그십 모델 ‘미니맥스 M3(MiniMax M3)’를 공개했다. 일부 핵심 벤치마크에서 \\'GPT-5.5\\'와 \\'제미나이 3.1 프로\\'를 앞서는 성능을 기록하면서도, 비용은 미국 주요 폐쇄형 모델의 5~10% 수준에 불과하다는 사실로 주목받았다.미니맥스는 1일(현지시간) 최대 100만 토큰의 초장문 컨텍스트 처리, 이미지와 비디오 입력을 기본 지원하는 네이티브 멀티모달 기능, 고성능 코딩·데스크톱 컴퓨터 조작 에이전트 역량을 결합한 오픈 웨이트(open-weight) 모델 ‘미니맥스-M3’를 공개했다.핵심 기",
+          "summary": "미니맥스가 차세대 플래그십 모델 ‘미니맥스 M3(MiniMax M3)’를 공개했다. 일부 핵심 벤치마크에서 \\'GPT-5.5\\'와 \\'제미나이 3.1 프로\\'를 앞서는 성능을 기록하면서도, 비용은 미국 주요 폐쇄형 모델의 5~10% 수준에 불과하다는 사실로 주목받았다.미니맥스는 1일(현지시간) 최대 100만 토큰의 초장문 컨텍스트 처리, 이미지와 비디오 입력을 기본 지원하는 네이티브 멀티모달 기능, 고성능 코딩·데스크톱 컴퓨터 조작 에이전트 역량을 결합한 오픈 웨이트(open-weight) 모델 ‘미니맥스-M3’를 공개했다.핵심 기"
+        },
+        {
+          "title": "\"영수증 찍으면 자동 정산\"…애플, WWDC서 차세대 결제 기능 공개 전망",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211268",
+          "date": "2026-06-02",
+          "source": "AI타임스",
+          "description": "애플이 아이폰 사용자들이 식사비나 모임 비용을 손쉽게 나눠 낼 수 있는 새로운 결제 기능을 준비하고 있는 것으로 알려졌다. 영수증을 촬영하면 각자 부담할 금액을 자동으로 계산하고 즉시 송금 요청까지 보낼 수 있는 기능으로, 애플이 금융 서비스 영역을 확대하는 동시에 기존 송금·정산 앱 시장에 도전하는 행보로 평가된다.블룸버그에 따르면, 애플은 오는 8일(현지시간) 개최되는 연례 개발자 행사 \\'WWDC\\'에서 이 기능을 공개하고, 차세대 아이폰 운영체제인 iOS 27에 포함할 계획이다.새로운 기능은 단체 식사나 여행, 모임 등에서 발생",
+          "image": "https://cdn.aitimes.com/news/photo/202606/211268_214165_1022.jpg",
+          "is_english": false,
+          "original_title": "\"영수증 찍으면 자동 정산\"…애플, WWDC서 차세대 결제 기능 공개 전망",
+          "original_summary": "애플이 아이폰 사용자들이 식사비나 모임 비용을 손쉽게 나눠 낼 수 있는 새로운 결제 기능을 준비하고 있는 것으로 알려졌다. 영수증을 촬영하면 각자 부담할 금액을 자동으로 계산하고 즉시 송금 요청까지 보낼 수 있는 기능으로, 애플이 금융 서비스 영역을 확대하는 동시에 기존 송금·정산 앱 시장에 도전하는 행보로 평가된다.블룸버그에 따르면, 애플은 오는 8일(현지시간) 개최되는 연례 개발자 행사 \\'WWDC\\'에서 이 기능을 공개하고, 차세대 아이폰 운영체제인 iOS 27에 포함할 계획이다.새로운 기능은 단체 식사나 여행, 모임 등에서 ",
+          "summary": "애플이 아이폰 사용자들이 식사비나 모임 비용을 손쉽게 나눠 낼 수 있는 새로운 결제 기능을 준비하고 있는 것으로 알려졌다. 영수증을 촬영하면 각자 부담할 금액을 자동으로 계산하고 즉시 송금 요청까지 보낼 수 있는 기능으로, 애플이 금융 서비스 영역을 확대하는 동시에 기존 송금·정산 앱 시장에 도전하는 행보로 평가된다.블룸버그에 따르면, 애플은 오는 8일(현지시간) 개최되는 연례 개발자 행사 \\'WWDC\\'에서 이 기능을 공개하고, 차세대 아이폰 운영체제인 iOS 27에 포함할 계획이다.새로운 기능은 단체 식사나 여행, 모임 등에서 "
+        },
+        {
+          "title": "\"중국 군부, 수년간 엔비디아 AI 칩 전방위 확보\"…핵무기·사이버전 활용 정황 드러나",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211266",
+          "date": "2026-06-02",
+          "source": "AI타임스",
+          "description": "중국 군 관련 조달 기록을 분석한 새로운 보고서를 통해 중국 인민해방군(PLA)이 수년간 엔비디아의 고성능 AI 칩을 적극적으로 확보하려 했다는 정황을 드러났다. 이는 “중국군은 엔비디아 칩에 의존하지 않는다”라고 주장한 젠슨 황 엔비디아 CEO의 말과는 반대라 논란이 예상된다.1일(현지시간) 뉴욕타임스에 따르면, 중국 기업 정보 분석 플랫폼인 와이어스크인이 2019년부터 2025년까지의 중국 조달 기록을 분석한 결과, 중국군은 미국의 수출 통제가 시행된 이후에도 엔비디아 AI 칩 확보 노력을 지속한 것으로 나타났다.보고서에 따르면",
+          "image": "https://cdn.aitimes.com/news/photo/202606/211266_214164_534.jpg",
+          "is_english": false,
+          "original_title": "\"중국 군부, 수년간 엔비디아 AI 칩 전방위 확보\"…핵무기·사이버전 활용 정황 드러나",
+          "original_summary": "중국 군 관련 조달 기록을 분석한 새로운 보고서를 통해 중국 인민해방군(PLA)이 수년간 엔비디아의 고성능 AI 칩을 적극적으로 확보하려 했다는 정황을 드러났다. 이는 “중국군은 엔비디아 칩에 의존하지 않는다”라고 주장한 젠슨 황 엔비디아 CEO의 말과는 반대라 논란이 예상된다.1일(현지시간) 뉴욕타임스에 따르면, 중국 기업 정보 분석 플랫폼인 와이어스크인이 2019년부터 2025년까지의 중국 조달 기록을 분석한 결과, 중국군은 미국의 수출 통제가 시행된 이후에도 엔비디아 AI 칩 확보 노력을 지속한 것으로 나타났다.보고서에 따르면",
+          "summary": "중국 군 관련 조달 기록을 분석한 새로운 보고서를 통해 중국 인민해방군(PLA)이 수년간 엔비디아의 고성능 AI 칩을 적극적으로 확보하려 했다는 정황을 드러났다. 이는 “중국군은 엔비디아 칩에 의존하지 않는다”라고 주장한 젠슨 황 엔비디아 CEO의 말과는 반대라 논란이 예상된다.1일(현지시간) 뉴욕타임스에 따르면, 중국 기업 정보 분석 플랫폼인 와이어스크인이 2019년부터 2025년까지의 중국 조달 기록을 분석한 결과, 중국군은 미국의 수출 통제가 시행된 이후에도 엔비디아 AI 칩 확보 노력을 지속한 것으로 나타났다.보고서에 따르면"
+        },
+        {
+          "title": "앤트로픽 '미소스', 몇 주 쓰는데 수백만달러...\"비싸도 투자 가치 충분\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211262",
+          "date": "2026-06-02",
+          "source": "AI타임스",
+          "description": "‘미소스(Mythos)’가 앤트로픽의 예고대로 몇주간 사용하는 데만 수백만달러의 비용이 발생한 것으로 알려졌다. 그러나, 기존 보안 도구보다 훨씬 많은 취약점을 발견하면서 기업들은 오히려 관련 예산을 확대할 준비에 나서고 있다.1일(현지시간) 디 인포메이션에 따르면, 사이버보안 기업 팔로알토 네트웍스는 최근 미소스를 활용해 자체 소스코드를 분석해 3주 만에 20개 이상의 심각한 취약점을 발견했다. 이는 기존 보안 도구로 찾을 수 있는 수준보다 약 5배 많은 수치다.성과만큼 비용도 막대했다. 샘 루빈 팔로알토 위협 인텔리전스 부문 책",
+          "image": "https://cdn.aitimes.com/news/photo/202606/211262_214161_2916.jpg",
+          "is_english": false,
+          "original_title": "앤트로픽 '미소스', 몇 주 쓰는데 수백만달러...\"비싸도 투자 가치 충분\"",
+          "original_summary": "‘미소스(Mythos)’가 앤트로픽의 예고대로 몇주간 사용하는 데만 수백만달러의 비용이 발생한 것으로 알려졌다. 그러나, 기존 보안 도구보다 훨씬 많은 취약점을 발견하면서 기업들은 오히려 관련 예산을 확대할 준비에 나서고 있다.1일(현지시간) 디 인포메이션에 따르면, 사이버보안 기업 팔로알토 네트웍스는 최근 미소스를 활용해 자체 소스코드를 분석해 3주 만에 20개 이상의 심각한 취약점을 발견했다. 이는 기존 보안 도구로 찾을 수 있는 수준보다 약 5배 많은 수치다.성과만큼 비용도 막대했다. 샘 루빈 팔로알토 위협 인텔리전스 부문 책",
+          "summary": "‘미소스(Mythos)’가 앤트로픽의 예고대로 몇주간 사용하는 데만 수백만달러의 비용이 발생한 것으로 알려졌다. 그러나, 기존 보안 도구보다 훨씬 많은 취약점을 발견하면서 기업들은 오히려 관련 예산을 확대할 준비에 나서고 있다.1일(현지시간) 디 인포메이션에 따르면, 사이버보안 기업 팔로알토 네트웍스는 최근 미소스를 활용해 자체 소스코드를 분석해 3주 만에 20개 이상의 심각한 취약점을 발견했다. 이는 기존 보안 도구로 찾을 수 있는 수준보다 약 5배 많은 수치다.성과만큼 비용도 막대했다. 샘 루빈 팔로알토 위협 인텔리전스 부문 책"
+        },
+        {
+          "title": "[게시판] SKB, 사내 에이전트 개발 플랫폼 실무 적용 등 단신",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211269",
+          "date": "2026-06-02",
+          "source": "AI타임스",
+          "description": "■ SK브로드밴드(대표 김성수)는 구성원 누구나 AI 에이전트를 직접 만들고 업무에 투입할 수 있는 환경을 구축했다고 밝혔다. 사내 네트워크 조직과 AT·DT 센터가 협력해 네트워크 데이터 분석 및 코딩 지원 기능을 갖춘 ‘플레이그라운드’ 플랫폼을 지난 2월 구축했다는 설명이다. 현재 이를 통해 개발 및 운영 중인 AI 앱은 약 600여 개에 달하며, 이 가운데 스스로 상황을 판단하고 행동까지 수행하는 AI 에이전트 30여개도 현장에 적용됐다.■ 딥엑스(대표 김녹원)는 대만 타이베이에서 개막한 ‘컴퓨텍스 2026’에서 에이수스(AS",
+          "image": "https://cdn.aitimes.com/news/photo/202606/211269_214167_1316.jpeg",
+          "is_english": false,
+          "original_title": "[게시판] SKB, 사내 에이전트 개발 플랫폼 실무 적용 등 단신",
+          "original_summary": "■ SK브로드밴드(대표 김성수)는 구성원 누구나 AI 에이전트를 직접 만들고 업무에 투입할 수 있는 환경을 구축했다고 밝혔다. 사내 네트워크 조직과 AT·DT 센터가 협력해 네트워크 데이터 분석 및 코딩 지원 기능을 갖춘 ‘플레이그라운드’ 플랫폼을 지난 2월 구축했다는 설명이다. 현재 이를 통해 개발 및 운영 중인 AI 앱은 약 600여 개에 달하며, 이 가운데 스스로 상황을 판단하고 행동까지 수행하는 AI 에이전트 30여개도 현장에 적용됐다.■ 딥엑스(대표 김녹원)는 대만 타이베이에서 개막한 ‘컴퓨텍스 2026’에서 에이수스(AS",
+          "summary": "■ SK브로드밴드(대표 김성수)는 구성원 누구나 AI 에이전트를 직접 만들고 업무에 투입할 수 있는 환경을 구축했다고 밝혔다. 사내 네트워크 조직과 AT·DT 센터가 협력해 네트워크 데이터 분석 및 코딩 지원 기능을 갖춘 ‘플레이그라운드’ 플랫폼을 지난 2월 구축했다는 설명이다. 현재 이를 통해 개발 및 운영 중인 AI 앱은 약 600여 개에 달하며, 이 가운데 스스로 상황을 판단하고 행동까지 수행하는 AI 에이전트 30여개도 현장에 적용됐다.■ 딥엑스(대표 김녹원)는 대만 타이베이에서 개막한 ‘컴퓨텍스 2026’에서 에이수스(AS"
+        },
+        {
+          "title": "[게시판] 엘리스그룹, 과기부 'AI 선도 인재양성 사업' 선정 등 단신",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211265",
+          "date": "2026-06-02",
+          "source": "AI타임스",
+          "description": "■ 엘리스그룹(대표 김재원)은 과학기술정보통신부와 정보통신기획평가원(IITP)이 추진하는 ‘생성AI 선도 인재양성 사업’의 주관기관으로 선정됐다고 밝혔다. AI 석·박사급 인재 양성을 목표로 하는 이번 사업은 2029년 12월까지 4년간 진행된다. 엘리스그룹은 모듈형 AI 데이터센터 ‘엘리스 AI PMDC’와 교육 실습 플랫폼 ‘엘리스LXP’, 산업 특화 AI 모델 ‘헬피’ 등을 연구·실증 플랫폼으로 지원할 예정이다.■ 리얼월드(대표 류중희)는 오는 4일까지 대만 타이베이에서 열리는 \\'엔비디아 GTC 타이베이\\'에 참가해 로보틱스 파",
+          "image": "https://cdn.aitimes.com/news/photo/202606/211265_214166_1226.jpg",
+          "is_english": false,
+          "original_title": "[게시판] 엘리스그룹, 과기부 'AI 선도 인재양성 사업' 선정 등 단신",
+          "original_summary": "■ 엘리스그룹(대표 김재원)은 과학기술정보통신부와 정보통신기획평가원(IITP)이 추진하는 ‘생성AI 선도 인재양성 사업’의 주관기관으로 선정됐다고 밝혔다. AI 석·박사급 인재 양성을 목표로 하는 이번 사업은 2029년 12월까지 4년간 진행된다. 엘리스그룹은 모듈형 AI 데이터센터 ‘엘리스 AI PMDC’와 교육 실습 플랫폼 ‘엘리스LXP’, 산업 특화 AI 모델 ‘헬피’ 등을 연구·실증 플랫폼으로 지원할 예정이다.■ 리얼월드(대표 류중희)는 오는 4일까지 대만 타이베이에서 열리는 \\'엔비디아 GTC 타이베이\\'에 참가해 로보틱스",
+          "summary": "■ 엘리스그룹(대표 김재원)은 과학기술정보통신부와 정보통신기획평가원(IITP)이 추진하는 ‘생성AI 선도 인재양성 사업’의 주관기관으로 선정됐다고 밝혔다. AI 석·박사급 인재 양성을 목표로 하는 이번 사업은 2029년 12월까지 4년간 진행된다. 엘리스그룹은 모듈형 AI 데이터센터 ‘엘리스 AI PMDC’와 교육 실습 플랫폼 ‘엘리스LXP’, 산업 특화 AI 모델 ‘헬피’ 등을 연구·실증 플랫폼으로 지원할 예정이다.■ 리얼월드(대표 류중희)는 오는 4일까지 대만 타이베이에서 열리는 \\'엔비디아 GTC 타이베이\\'에 참가해 로보틱스"
+        },
+        {
+          "title": "구글, AI 인프라 구축에 120조 증자…버크셔도 15조 거액 베팅",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211243",
+          "date": "2026-06-02",
+          "source": "AI타임스",
+          "description": "구글이 AI 인프라 구축을 위한 대규모 자금 조달에 나선다. 구글은 최대 800억달러(약 120조원) 규모의 주식 발행 계획을 발표했으며, 이 가운데 100억달러(약 15조원)는 버크셔 해서웨이가 직접 투자하기로 했다..구글은 1일(현지시간) 기업과 소비자들로부터 AI 서비스 수요가 공급 능력을 초과할 정도로 급증하고 있다며, 이를 충족하기 위해 대규모 자금 조달을 추진한다고 발표했다.“AI가 구글의 새로운 확장 국면을 이끌고 있다”라며 “앞으로 거대한 성장 기회를 지원하기 위해 핵심 인프라 투자를 확대할 것”이라고 설명했다.이번",
+          "image": "https://cdn.aitimes.com/news/photo/202606/211243_214135_3239.jpg",
+          "is_english": false,
+          "original_title": "구글, AI 인프라 구축에 120조 증자…버크셔도 15조 거액 베팅",
+          "original_summary": "구글이 AI 인프라 구축을 위한 대규모 자금 조달에 나선다. 구글은 최대 800억달러(약 120조원) 규모의 주식 발행 계획을 발표했으며, 이 가운데 100억달러(약 15조원)는 버크셔 해서웨이가 직접 투자하기로 했다..구글은 1일(현지시간) 기업과 소비자들로부터 AI 서비스 수요가 공급 능력을 초과할 정도로 급증하고 있다며, 이를 충족하기 위해 대규모 자금 조달을 추진한다고 발표했다.“AI가 구글의 새로운 확장 국면을 이끌고 있다”라며 “앞으로 거대한 성장 기회를 지원하기 위해 핵심 인프라 투자를 확대할 것”이라고 설명했다.이번",
+          "summary": "구글이 AI 인프라 구축을 위한 대규모 자금 조달에 나선다. 구글은 최대 800억달러(약 120조원) 규모의 주식 발행 계획을 발표했으며, 이 가운데 100억달러(약 15조원)는 버크셔 해서웨이가 직접 투자하기로 했다..구글은 1일(현지시간) 기업과 소비자들로부터 AI 서비스 수요가 공급 능력을 초과할 정도로 급증하고 있다며, 이를 충족하기 위해 대규모 자금 조달을 추진한다고 발표했다.“AI가 구글의 새로운 확장 국면을 이끌고 있다”라며 “앞으로 거대한 성장 기회를 지원하기 위해 핵심 인프라 투자를 확대할 것”이라고 설명했다.이번"
+        },
+        {
+          "title": "노타, '엔비디아 파트너 데이' 패널 참여...“피지컬·엣지 AI 최적화 논의”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211263",
+          "date": "2026-06-02",
+          "source": "AI타임스",
+          "description": "노타(대표 채명수)는 김태호 최고 기술책임자(CTO) 겸 공동 창립자가 대만에서 열린 ‘엔비디아 아태지역(APAC) 로보틱스 및 엣지 AI 파트너 데이’의 패널 토크 세션에 참여했다고 2일 밝혔다.이번 행사는 피지컬 AI, 스마트시티, 산업 현장 지능화, 비전 AI 에이전트 등에 대한 발전 방향을 논의하기 위해 마련됐으며, 노타는 국내 기업으로는 유일하게 패널로 초청됐다.세션에서는 도시, 도로, 항만 등 실제 현장에서 상황을 실시간으로 인지·대응하는 피지컬 AI의 역할과 이를 구현하기 위한 엣지 AI 기술의 중요성이 의제로 다뤄졌다",
+          "image": "https://cdn.aitimes.com/news/photo/202606/211263_214160_2138.jpg",
+          "is_english": false,
+          "original_title": "노타, '엔비디아 파트너 데이' 패널 참여...“피지컬·엣지 AI 최적화 논의”",
+          "original_summary": "노타(대표 채명수)는 김태호 최고 기술책임자(CTO) 겸 공동 창립자가 대만에서 열린 ‘엔비디아 아태지역(APAC) 로보틱스 및 엣지 AI 파트너 데이’의 패널 토크 세션에 참여했다고 2일 밝혔다.이번 행사는 피지컬 AI, 스마트시티, 산업 현장 지능화, 비전 AI 에이전트 등에 대한 발전 방향을 논의하기 위해 마련됐으며, 노타는 국내 기업으로는 유일하게 패널로 초청됐다.세션에서는 도시, 도로, 항만 등 실제 현장에서 상황을 실시간으로 인지·대응하는 피지컬 AI의 역할과 이를 구현하기 위한 엣지 AI 기술의 중요성이 의제로 다뤄졌다",
+          "summary": "노타(대표 채명수)는 김태호 최고 기술책임자(CTO) 겸 공동 창립자가 대만에서 열린 ‘엔비디아 아태지역(APAC) 로보틱스 및 엣지 AI 파트너 데이’의 패널 토크 세션에 참여했다고 2일 밝혔다.이번 행사는 피지컬 AI, 스마트시티, 산업 현장 지능화, 비전 AI 에이전트 등에 대한 발전 방향을 논의하기 위해 마련됐으며, 노타는 국내 기업으로는 유일하게 패널로 초청됐다.세션에서는 도시, 도로, 항만 등 실제 현장에서 상황을 실시간으로 인지·대응하는 피지컬 AI의 역할과 이를 구현하기 위한 엣지 AI 기술의 중요성이 의제로 다뤄졌다"
+        },
+        {
+          "title": "소프트뱅크, 도요타 제치고 일본 시총 1위...AI 열풍에 기업 지형도 변화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211255",
+          "date": "2026-06-02",
+          "source": "AI타임스",
+          "description": "AI 열풍이 일본 기업 지형도까지 바꿔놓고 있다. 손정의 회장이 이끄는 소프트뱅크가 시가총액 기준으로 20여년 만에 도요타를 제치고 일본 최대 상장기업에 올랐다. 블룸버그에 따르면, 소프트뱅크는 1일 일본 자동차 산업의 상징인 도요타를 제치고 일본 증시 시가총액 1위 기업으로 올라섰다. 이날 도쿄증시에서 소프트뱅크 주가는 14% 이상 급등하며 사상 최고가로 거래를 마쳤다. 이에 따라 시가총액은 약 48조8000억엔(약 462조원) 수준으로 확대되며 약 45조9000억엔(약 43조원) 규모의 도요타를 넘어섰다.자사주를 포함한 일본식",
+          "image": "https://cdn.aitimes.com/news/photo/202606/211255_214150_5746.jpg",
+          "is_english": false,
+          "original_title": "소프트뱅크, 도요타 제치고 일본 시총 1위...AI 열풍에 기업 지형도 변화",
+          "original_summary": "AI 열풍이 일본 기업 지형도까지 바꿔놓고 있다. 손정의 회장이 이끄는 소프트뱅크가 시가총액 기준으로 20여년 만에 도요타를 제치고 일본 최대 상장기업에 올랐다. 블룸버그에 따르면, 소프트뱅크는 1일 일본 자동차 산업의 상징인 도요타를 제치고 일본 증시 시가총액 1위 기업으로 올라섰다. 이날 도쿄증시에서 소프트뱅크 주가는 14% 이상 급등하며 사상 최고가로 거래를 마쳤다. 이에 따라 시가총액은 약 48조8000억엔(약 462조원) 수준으로 확대되며 약 45조9000억엔(약 43조원) 규모의 도요타를 넘어섰다.자사주를 포함한 일본식",
+          "summary": "AI 열풍이 일본 기업 지형도까지 바꿔놓고 있다. 손정의 회장이 이끄는 소프트뱅크가 시가총액 기준으로 20여년 만에 도요타를 제치고 일본 최대 상장기업에 올랐다. 블룸버그에 따르면, 소프트뱅크는 1일 일본 자동차 산업의 상징인 도요타를 제치고 일본 증시 시가총액 1위 기업으로 올라섰다. 이날 도쿄증시에서 소프트뱅크 주가는 14% 이상 급등하며 사상 최고가로 거래를 마쳤다. 이에 따라 시가총액은 약 48조8000억엔(약 462조원) 수준으로 확대되며 약 45조9000억엔(약 43조원) 규모의 도요타를 넘어섰다.자사주를 포함한 일본식"
+        },
+        {
+          "title": "플로리다주, 오픈AI·알트먼 제소…“챗GPT 위험 알고도 무책임 출시”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211247",
+          "date": "2026-06-02",
+          "source": "AI타임스",
+          "description": "미국 플로리다주가 오픈AI와 CEO 샘 알트먼을 상대로 대규모 소송을 제기했다. 챗GPT가 총기 난사범의 범행을 돕고 취약 계층의 자살을 부추겼으며, 청소년들을 중독시키는 위험한 제품임에도 안전한 서비스인 것처럼 홍보했다는 주장이다. 이는 미국 주정부가 오픈AI를 상대로 제기한 첫 번째 소송이다.제임스 우트마이어 플로리다주 법무부 장관은 1일(현지시간) 플로리다주 법원에 제출한 83페이지 분량의 소장에서 오픈AI가 챗GPT의 위험성을 인지하고도 AI 경쟁에서 우위를 차지하기 위해 제품을 무책임하게 출시했다고 주장했다.소장에 따르면,",
+          "image": "https://cdn.aitimes.com/news/photo/202606/211247_214139_5112.jpg",
+          "is_english": false,
+          "original_title": "플로리다주, 오픈AI·알트먼 제소…“챗GPT 위험 알고도 무책임 출시”",
+          "original_summary": "미국 플로리다주가 오픈AI와 CEO 샘 알트먼을 상대로 대규모 소송을 제기했다. 챗GPT가 총기 난사범의 범행을 돕고 취약 계층의 자살을 부추겼으며, 청소년들을 중독시키는 위험한 제품임에도 안전한 서비스인 것처럼 홍보했다는 주장이다. 이는 미국 주정부가 오픈AI를 상대로 제기한 첫 번째 소송이다.제임스 우트마이어 플로리다주 법무부 장관은 1일(현지시간) 플로리다주 법원에 제출한 83페이지 분량의 소장에서 오픈AI가 챗GPT의 위험성을 인지하고도 AI 경쟁에서 우위를 차지하기 위해 제품을 무책임하게 출시했다고 주장했다.소장에 따르면,",
+          "summary": "미국 플로리다주가 오픈AI와 CEO 샘 알트먼을 상대로 대규모 소송을 제기했다. 챗GPT가 총기 난사범의 범행을 돕고 취약 계층의 자살을 부추겼으며, 청소년들을 중독시키는 위험한 제품임에도 안전한 서비스인 것처럼 홍보했다는 주장이다. 이는 미국 주정부가 오픈AI를 상대로 제기한 첫 번째 소송이다.제임스 우트마이어 플로리다주 법무부 장관은 1일(현지시간) 플로리다주 법원에 제출한 83페이지 분량의 소장에서 오픈AI가 챗GPT의 위험성을 인지하고도 AI 경쟁에서 우위를 차지하기 위해 제품을 무책임하게 출시했다고 주장했다.소장에 따르면,"
+        },
+        {
+          "title": "프랑스, 164조 규모 외자 유치…절반은 소프트뱅크의 '데이터센터' 투자",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211250",
+          "date": "2026-06-02",
+          "source": "AI타임스",
+          "description": "프랑스가 AI 시대의 핵심 인프라인 데이터센터 유치를 앞세워 대규모 해외 투자 확보에 성공했다. 에마뉘엘 마크롱 대통령이 주도하는 ‘츄즈 프랑스(Choose France) 서밋’에서 총 930억유로(약 164조원) 규모의 투자 계획이 공개된 가운데, 일본 소프트뱅크가 단일 프로젝트로 450억유로(약 79조원)를 투자해 프랑스를 유럽 AI 허브로 육성하는 데 힘을 보탠다.프랑스 정부는 1일(현지시간) 열린 ‘츄즈 프랑스 서밋’에서 총 71개 프로젝트를 공개하며 930억유로 규모의 외국인 투자 유치를 발표했다. 이는 행사 시작 이후 최",
+          "image": "https://cdn.aitimes.com/news/photo/202606/211250_214145_2225.png",
+          "is_english": false,
+          "original_title": "프랑스, 164조 규모 외자 유치…절반은 소프트뱅크의 '데이터센터' 투자",
+          "original_summary": "프랑스가 AI 시대의 핵심 인프라인 데이터센터 유치를 앞세워 대규모 해외 투자 확보에 성공했다. 에마뉘엘 마크롱 대통령이 주도하는 ‘츄즈 프랑스(Choose France) 서밋’에서 총 930억유로(약 164조원) 규모의 투자 계획이 공개된 가운데, 일본 소프트뱅크가 단일 프로젝트로 450억유로(약 79조원)를 투자해 프랑스를 유럽 AI 허브로 육성하는 데 힘을 보탠다.프랑스 정부는 1일(현지시간) 열린 ‘츄즈 프랑스 서밋’에서 총 71개 프로젝트를 공개하며 930억유로 규모의 외국인 투자 유치를 발표했다. 이는 행사 시작 이후 최",
+          "summary": "프랑스가 AI 시대의 핵심 인프라인 데이터센터 유치를 앞세워 대규모 해외 투자 확보에 성공했다. 에마뉘엘 마크롱 대통령이 주도하는 ‘츄즈 프랑스(Choose France) 서밋’에서 총 930억유로(약 164조원) 규모의 투자 계획이 공개된 가운데, 일본 소프트뱅크가 단일 프로젝트로 450억유로(약 79조원)를 투자해 프랑스를 유럽 AI 허브로 육성하는 데 힘을 보탠다.프랑스 정부는 1일(현지시간) 열린 ‘츄즈 프랑스 서밋’에서 총 71개 프로젝트를 공개하며 930억유로 규모의 외국인 투자 유치를 발표했다. 이는 행사 시작 이후 최"
+        },
+        {
+          "title": "[AI&빅데이터쇼] 뉴로저니, 멀티모달 AI 리서치 플랫폼 ‘뉴트로픽’ 첫 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211254",
+          "date": "2026-06-02",
+          "source": "AI타임스",
+          "description": "뉴로저니(대표 이현우)는 10~12일 서울 코엑스에서 열리는 \\'AI&빅데이터쇼\\'에 참가해 멀티모달 AI 리서치 플랫폼 \\'뉴트로픽(Neutropic)\\'을 처음 선보인다고 밝혔다.뉴로저니는 서울 AI 허브 공동관 참가기업으로 합류해, 공동관 내 부스에서 실제 연구 시나리오 바탕의 라이브 시연과 감성 분석 결과 리포트 생성 과정을 직접 체험할 수 있도록 지원할 예정이다. 대학·기업 연구자, 데이터 기반 의사결정이 필요한 산업 담당자를 주요 타깃으로 한다.특히, 처음 선보이는 \\'뉴트로픽\\'은 리서치 설계부터 변수 설정, 데이터 업로드, 분석",
+          "image": "https://cdn.aitimes.com/news/photo/202606/211254_214146_2235.jpg",
+          "is_english": false,
+          "original_title": "[AI&빅데이터쇼] 뉴로저니, 멀티모달 AI 리서치 플랫폼 ‘뉴트로픽’ 첫 공개",
+          "original_summary": "뉴로저니(대표 이현우)는 10~12일 서울 코엑스에서 열리는 \\'AI&빅데이터쇼\\'에 참가해 멀티모달 AI 리서치 플랫폼 \\'뉴트로픽(Neutropic)\\'을 처음 선보인다고 밝혔다.뉴로저니는 서울 AI 허브 공동관 참가기업으로 합류해, 공동관 내 부스에서 실제 연구 시나리오 바탕의 라이브 시연과 감성 분석 결과 리포트 생성 과정을 직접 체험할 수 있도록 지원할 예정이다. 대학·기업 연구자, 데이터 기반 의사결정이 필요한 산업 담당자를 주요 타깃으로 한다.특히, 처음 선보이는 \\'뉴트로픽\\'은 리서치 설계부터 변수 설정, 데이터 업",
+          "summary": "뉴로저니(대표 이현우)는 10~12일 서울 코엑스에서 열리는 \\'AI&빅데이터쇼\\'에 참가해 멀티모달 AI 리서치 플랫폼 \\'뉴트로픽(Neutropic)\\'을 처음 선보인다고 밝혔다.뉴로저니는 서울 AI 허브 공동관 참가기업으로 합류해, 공동관 내 부스에서 실제 연구 시나리오 바탕의 라이브 시연과 감성 분석 결과 리포트 생성 과정을 직접 체험할 수 있도록 지원할 예정이다. 대학·기업 연구자, 데이터 기반 의사결정이 필요한 산업 담당자를 주요 타깃으로 한다.특히, 처음 선보이는 \\'뉴트로픽\\'은 리서치 설계부터 변수 설정, 데이터 업"
+        },
+        {
+          "title": "[AI&빅데이터쇼] 일레븐랩스, 음성 AI 에이전트 시연...''에이전틱 음성 미래 선보인다\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211252",
+          "date": "2026-06-02",
+          "source": "AI타임스",
+          "description": "일레븐랩스는 오는 10~12일 서울 코엑스에서 개최되는 \\'제15회 스마트테크 코리아(STK 2026)’에 참가해 첨단 음성 AI 기술을 선보인다고 밝혔다.전시 부스는 일레븐랩스의 AI 음성 에이전트 플랫폼인 ‘일레븐에이전트(ElevenAgents)’와의 실시간 소통 공간 중심으로 꾸며진다. 방문객들은 AI 에이전트와 직접 소통하며 실제 비즈니스 워크플로우 내에서의 실용성을 현장에서 직접 확인해 볼 수 있다.특히, 행사 둘째날 컨퍼런스 세션에서는 홍상원 일레븐랩스 총괄이 ‘일레븐랩스가 여는 음성 AI 시대’라는 주제로 발표를 진행한다",
+          "image": "https://cdn.aitimes.com/news/photo/202606/211252_214142_449.png",
+          "is_english": false,
+          "original_title": "[AI&빅데이터쇼] 일레븐랩스, 음성 AI 에이전트 시연...''에이전틱 음성 미래 선보인다\"",
+          "original_summary": "일레븐랩스는 오는 10~12일 서울 코엑스에서 개최되는 \\'제15회 스마트테크 코리아(STK 2026)’에 참가해 첨단 음성 AI 기술을 선보인다고 밝혔다.전시 부스는 일레븐랩스의 AI 음성 에이전트 플랫폼인 ‘일레븐에이전트(ElevenAgents)’와의 실시간 소통 공간 중심으로 꾸며진다. 방문객들은 AI 에이전트와 직접 소통하며 실제 비즈니스 워크플로우 내에서의 실용성을 현장에서 직접 확인해 볼 수 있다.특히, 행사 둘째날 컨퍼런스 세션에서는 홍상원 일레븐랩스 총괄이 ‘일레븐랩스가 여는 음성 AI 시대’라는 주제로 발표를 진행한",
+          "summary": "일레븐랩스는 오는 10~12일 서울 코엑스에서 개최되는 \\'제15회 스마트테크 코리아(STK 2026)’에 참가해 첨단 음성 AI 기술을 선보인다고 밝혔다.전시 부스는 일레븐랩스의 AI 음성 에이전트 플랫폼인 ‘일레븐에이전트(ElevenAgents)’와의 실시간 소통 공간 중심으로 꾸며진다. 방문객들은 AI 에이전트와 직접 소통하며 실제 비즈니스 워크플로우 내에서의 실용성을 현장에서 직접 확인해 볼 수 있다.특히, 행사 둘째날 컨퍼런스 세션에서는 홍상원 일레븐랩스 총괄이 ‘일레븐랩스가 여는 음성 AI 시대’라는 주제로 발표를 진행한"
+        },
+        {
+          "title": "영국 바이오매스 기반 에너지 기업 드랙스, 1조원대 재생에너지 자산 확보",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211236",
+          "date": "2026-06-02",
+          "source": "AI타임스",
+          "description": "영국 전력기업 드랙스(Drax) 그룹이 재생에너지 투자사 블루필드 솔라 인컴 펀드를 현금 인수하며 태양광·풍력·배터리 저장장치 사업 확대에 나선다.드랙스는 1일(현지시간) 상장사인 블루필드 솔라 인컴 펀드를 5억4800만파운드(약1조 1176억원)에 인수하는 데 합의했다고 밝혔다.이번 거래는 드랙스가 바이오매스 중심 발전사에서 태양광·풍력·배터리에너지저장장치(BESS)를 보유한 통합 전력회사로 사업 범위를 넓히는 과정으로 볼 수 있다. 드랙스는 2031년까지 재생에너지 발전과 배터리 저장장치에 20억파운드(4조 789억원)를 투자하",
+          "image": "https://cdn.aitimes.com/news/photo/202606/211236_214123_5545.jpeg",
+          "is_english": false,
+          "original_title": "영국 바이오매스 기반 에너지 기업 드랙스, 1조원대 재생에너지 자산 확보",
+          "original_summary": "영국 전력기업 드랙스(Drax) 그룹이 재생에너지 투자사 블루필드 솔라 인컴 펀드를 현금 인수하며 태양광·풍력·배터리 저장장치 사업 확대에 나선다.드랙스는 1일(현지시간) 상장사인 블루필드 솔라 인컴 펀드를 5억4800만파운드(약1조 1176억원)에 인수하는 데 합의했다고 밝혔다.이번 거래는 드랙스가 바이오매스 중심 발전사에서 태양광·풍력·배터리에너지저장장치(BESS)를 보유한 통합 전력회사로 사업 범위를 넓히는 과정으로 볼 수 있다. 드랙스는 2031년까지 재생에너지 발전과 배터리 저장장치에 20억파운드(4조 789억원)를 투자하",
+          "summary": "영국 전력기업 드랙스(Drax) 그룹이 재생에너지 투자사 블루필드 솔라 인컴 펀드를 현금 인수하며 태양광·풍력·배터리 저장장치 사업 확대에 나선다.드랙스는 1일(현지시간) 상장사인 블루필드 솔라 인컴 펀드를 5억4800만파운드(약1조 1176억원)에 인수하는 데 합의했다고 밝혔다.이번 거래는 드랙스가 바이오매스 중심 발전사에서 태양광·풍력·배터리에너지저장장치(BESS)를 보유한 통합 전력회사로 사업 범위를 넓히는 과정으로 볼 수 있다. 드랙스는 2031년까지 재생에너지 발전과 배터리 저장장치에 20억파운드(4조 789억원)를 투자하"
+        },
+        {
+          "title": "Codex is becoming a productivity tool for everyone",
+          "link": "https://openai.com/index/codex-for-knowledge-work",
+          "date": "2026-06-02",
+          "source": "OpenAI",
+          "description": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Codex is becoming a productivity tool for everyone",
+          "original_summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation.",
+          "summary": "The Next Era of Knowledge Work report explores how Codex is transforming productivity through AI-powered research, data analysis, workflow automation, and content creation."
+        },
+        {
+          "title": "ZeroDrift raises $10 million to protect AI models from themselves",
+          "link": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
+          "date": "2026-06-02",
+          "source": "TechCrunch",
+          "description": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/Kumesh-headshot.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "ZeroDrift raises $10 million to protect AI models from themselves",
+          "original_summary": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem. ",
+          "summary": "A new AI compliance service sits between AI models and end users to flag and replace any messages that might present a compliance problem. "
+        },
+        {
+          "title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
+          "link": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
+          "date": "2026-06-02",
+          "source": "TechCrunch",
+          "description": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/Impulse-Mira-Spacecraft-In-Orbit-2.png?resize=1200,672",
+          "is_english": true,
+          "original_title": "Rocket engine startup Impulse raises $500 million to hire people, not AI",
+          "original_summary": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo.",
+          "summary": "Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo."
+        },
+        {
+          "title": "Navigating the Future of Work with AI",
+          "link": "https://aibusiness.com/generative-ai/navigating-future-of-work-with-ai",
+          "date": "2026-06-02",
+          "source": "AI Business",
+          "description": "The future of work is marked by roles in which AI agents perform low-risk tasks autonomously, while also involving some human collaboration.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt27265edd405f2768/6a1e13b078dde723b888e2d1/Humans_and_AI.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Navigating the Future of Work with AI",
+          "original_summary": "The future of work is marked by roles in which AI agents perform low-risk tasks autonomously, while also involving some human collaboration.",
+          "summary": "The future of work is marked by roles in which AI agents perform low-risk tasks autonomously, while also involving some human collaboration."
+        },
         {
           "title": "'AI로 그리는 제주 바다의 미래' 교육 프로그램 진행",
           "link": "https://www.yna.co.kr/view/AKR20260602128700056",
@@ -366,19 +594,6 @@
           "category": "AI Model"
         },
         {
-          "title": "openbmb/MiniCPM5-1B",
-          "link": "https://huggingface.co/openbmb/MiniCPM5-1B",
-          "date": "2026-06-02",
-          "source": "HuggingFace",
-          "description": "• MiniCPM5-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/OpenBMB/MiniCPM/main/assets/minicpm5/public_leaderboard_radar_en.png",
-          "is_english": true,
-          "summary": "• MiniCPM5-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "openbmb/MiniCPM5-1B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "LiquidAI/LFM2.5-8B-A1B",
           "link": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
           "date": "2026-06-02",
@@ -388,6 +603,19 @@
           "is_english": true,
           "summary": "• LFM2.5-8B-A1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "LiquidAI/LFM2.5-8B-A1B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "openbmb/MiniCPM5-1B",
+          "link": "https://huggingface.co/openbmb/MiniCPM5-1B",
+          "date": "2026-06-02",
+          "source": "HuggingFace",
+          "description": "• MiniCPM5-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://raw.githubusercontent.com/OpenBMB/MiniCPM/main/assets/minicpm5/public_leaderboard_radar_en.png",
+          "is_english": true,
+          "summary": "• MiniCPM5-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "openbmb/MiniCPM5-1B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -444,32 +672,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/PiD",
-          "link": "https://huggingface.co/nvidia/PiD",
-          "date": "2026-06-02",
-          "source": "HuggingFace",
-          "description": "• PiD 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/nvidia/PiD/resolve/main/figures/teaser.jpg",
-          "is_english": true,
-          "summary": "• PiD 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/PiD",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "bytedance-research/Lance",
-          "link": "https://huggingface.co/bytedance-research/Lance",
-          "date": "2026-06-02",
-          "source": "HuggingFace",
-          "description": "• Lance 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/bytedance-research/Lance/resolve/main/assets/logo/lance-logo.webp",
-          "is_english": true,
-          "summary": "• Lance 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "bytedance-research/Lance",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "PaddlePaddle/PaddleOCR-VL-1.6",
           "link": "https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.6",
           "date": "2026-06-02",
@@ -483,6 +685,19 @@
           "category": "AI Model"
         },
         {
+          "title": "nvidia/PiD",
+          "link": "https://huggingface.co/nvidia/PiD",
+          "date": "2026-06-02",
+          "source": "HuggingFace",
+          "description": "• PiD 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/nvidia/PiD/resolve/main/figures/teaser.jpg",
+          "is_english": true,
+          "summary": "• PiD 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/PiD",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "LiquidAI/LFM2.5-8B-A1B-GGUF",
           "link": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B-GGUF",
           "date": "2026-06-02",
@@ -492,6 +707,19 @@
           "is_english": true,
           "summary": "• LFM2.5-8B-A1B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "LiquidAI/LFM2.5-8B-A1B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "bytedance-research/Lance",
+          "link": "https://huggingface.co/bytedance-research/Lance",
+          "date": "2026-06-02",
+          "source": "HuggingFace",
+          "description": "• Lance 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/bytedance-research/Lance/resolve/main/assets/logo/lance-logo.webp",
+          "is_english": true,
+          "summary": "• Lance 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "bytedance-research/Lance",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -535,19 +763,6 @@
           "category": "AI Model"
         },
         {
-          "title": "sapientinc/HRM-Text-1B",
-          "link": "https://huggingface.co/sapientinc/HRM-Text-1B",
-          "date": "2026-06-02",
-          "source": "HuggingFace",
-          "description": "• HRM-Text-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/sapientinc/HRM-Text-1B/resolve/main/banner.jpg",
-          "is_english": true,
-          "summary": "• HRM-Text-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "sapientinc/HRM-Text-1B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Qwen3.6-27B-MTP-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.6-27B-MTP-GGUF",
           "date": "2026-06-02",
@@ -561,15 +776,15 @@
           "category": "AI Model"
         },
         {
-          "title": "OpenMOSS-Team/MOSS-TTS-v1.5",
-          "link": "https://huggingface.co/OpenMOSS-Team/MOSS-TTS-v1.5",
+          "title": "nvidia/Cosmos3-Nano",
+          "link": "https://huggingface.co/nvidia/Cosmos3-Nano",
           "date": "2026-06-02",
           "source": "HuggingFace",
-          "description": "• MOSS-TTS-v1.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://speech-demo.oss-cn-shanghai.aliyuncs.com/moss_tts_demo/tts_readme_imgaes_demo/openmoss_x_mosi",
+          "description": "• Cosmos3-Nano 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
           "is_english": true,
-          "summary": "• MOSS-TTS-v1.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "OpenMOSS-Team/MOSS-TTS-v1.5",
+          "summary": "• Cosmos3-Nano 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/Cosmos3-Nano",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -609,6 +824,19 @@
           "is_english": true,
           "summary": "• Step-3.7-Flash-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "stepfun-ai/Step-3.7-Flash-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "OpenMOSS-Team/MOSS-TTS-v1.5",
+          "link": "https://huggingface.co/OpenMOSS-Team/MOSS-TTS-v1.5",
+          "date": "2026-06-02",
+          "source": "HuggingFace",
+          "description": "• MOSS-TTS-v1.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://speech-demo.oss-cn-shanghai.aliyuncs.com/moss_tts_demo/tts_readme_imgaes_demo/openmoss_x_mosi",
+          "is_english": true,
+          "summary": "• MOSS-TTS-v1.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "OpenMOSS-Team/MOSS-TTS-v1.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
