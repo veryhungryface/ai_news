@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-06-04",
-      "update_time": "2026-06-03 18:40:49",
+      "update_time": "2026-06-03 22:59:03",
       "news": [
         {
           "title": "김석준, 4선 교육감 첫 탄생…부산 AI 미래교육 탄력",
@@ -79,19 +79,6 @@
           "category": "AI Model"
         },
         {
-          "title": "openbmb/MiniCPM5-1B",
-          "link": "https://huggingface.co/openbmb/MiniCPM5-1B",
-          "date": "2026-06-04",
-          "source": "HuggingFace",
-          "description": "• MiniCPM5-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/OpenBMB/MiniCPM/main/assets/minicpm5/public_leaderboard_radar_en.png",
-          "is_english": true,
-          "summary": "• MiniCPM5-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "openbmb/MiniCPM5-1B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "date": "2026-06-04",
@@ -101,6 +88,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "openbmb/MiniCPM5-1B",
+          "link": "https://huggingface.co/openbmb/MiniCPM5-1B",
+          "date": "2026-06-04",
+          "source": "HuggingFace",
+          "description": "• MiniCPM5-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://raw.githubusercontent.com/OpenBMB/MiniCPM/main/assets/minicpm5/public_leaderboard_radar_en.png",
+          "is_english": true,
+          "summary": "• MiniCPM5-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "openbmb/MiniCPM5-1B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -131,6 +131,19 @@
           "category": "AI Model"
         },
         {
+          "title": "JetBrains/Mellum2-12B-A2.5B-Thinking",
+          "link": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking",
+          "date": "2026-06-04",
+          "source": "HuggingFace",
+          "description": "• Mellum2-12B-A2.5B-Thinking 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking/resolve/main/mellum-logo-dark.svg",
+          "is_english": true,
+          "summary": "• Mellum2-12B-A2.5B-Thinking 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "JetBrains/Mellum2-12B-A2.5B-Thinking",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "deepseek-ai/DeepSeek-V4-Pro",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
           "date": "2026-06-04",
@@ -157,19 +170,6 @@
           "category": "AI Model"
         },
         {
-          "title": "JetBrains/Mellum2-12B-A2.5B-Thinking",
-          "link": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking",
-          "date": "2026-06-04",
-          "source": "HuggingFace",
-          "description": "• Mellum2-12B-A2.5B-Thinking 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking/resolve/main/mellum-logo-dark.svg",
-          "is_english": true,
-          "summary": "• Mellum2-12B-A2.5B-Thinking 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "JetBrains/Mellum2-12B-A2.5B-Thinking",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "meituan-longcat/LongCat-Video-Avatar-1.5",
           "link": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
           "date": "2026-06-04",
@@ -183,15 +183,15 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/PiD",
-          "link": "https://huggingface.co/nvidia/PiD",
+          "title": "sapientinc/HRM-Text-1B",
+          "link": "https://huggingface.co/sapientinc/HRM-Text-1B",
           "date": "2026-06-04",
           "source": "HuggingFace",
-          "description": "• PiD 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/nvidia/PiD/resolve/main/figures/teaser.jpg",
+          "description": "• HRM-Text-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/sapientinc/HRM-Text-1B/resolve/main/banner.jpg",
           "is_english": true,
-          "summary": "• PiD 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/PiD",
+          "summary": "• HRM-Text-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "sapientinc/HRM-Text-1B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -209,15 +209,28 @@
           "category": "AI Model"
         },
         {
-          "title": "sapientinc/HRM-Text-1B",
-          "link": "https://huggingface.co/sapientinc/HRM-Text-1B",
+          "title": "google/gemma-4-12B-it",
+          "link": "https://huggingface.co/google/gemma-4-12B-it",
           "date": "2026-06-04",
           "source": "HuggingFace",
-          "description": "• HRM-Text-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/sapientinc/HRM-Text-1B/resolve/main/banner.jpg",
+          "description": "• gemma-4-12B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
           "is_english": true,
-          "summary": "• HRM-Text-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "sapientinc/HRM-Text-1B",
+          "summary": "• gemma-4-12B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/gemma-4-12B-it",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/PiD",
+          "link": "https://huggingface.co/nvidia/PiD",
+          "date": "2026-06-04",
+          "source": "HuggingFace",
+          "description": "• PiD 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/nvidia/PiD/resolve/main/figures/teaser.jpg",
+          "is_english": true,
+          "summary": "• PiD 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/PiD",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -274,6 +287,19 @@
           "category": "AI Model"
         },
         {
+          "title": "unsloth/gemma-4-12b-it-GGUF",
+          "link": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
+          "date": "2026-06-04",
+          "source": "HuggingFace",
+          "description": "• gemma-4-12b-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "is_english": true,
+          "summary": "• gemma-4-12b-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/gemma-4-12b-it-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "unsloth/Qwen3.6-27B-MTP-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.6-27B-MTP-GGUF",
           "date": "2026-06-04",
@@ -285,39 +311,85 @@
           "translated_title": "unsloth/Qwen3.6-27B-MTP-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "stepfun-ai/Step-3.7-Flash-GGUF",
-          "link": "https://huggingface.co/stepfun-ai/Step-3.7-Flash-GGUF",
-          "date": "2026-06-04",
-          "source": "HuggingFace",
-          "description": "• Step-3.7-Flash-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Step-3.7-Flash-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "stepfun-ai/Step-3.7-Flash-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "NemoStation/Marlin-2B",
-          "link": "https://huggingface.co/NemoStation/Marlin-2B",
-          "date": "2026-06-04",
-          "source": "HuggingFace",
-          "description": "• Marlin-2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Marlin-2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "NemoStation/Marlin-2B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-06-03",
-      "update_time": "2026-06-03 18:40:49",
+      "update_time": "2026-06-03 22:59:00",
       "news": [
+        {
+          "title": "Introducing new capabilities to GPT-Rosalind",
+          "link": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
+          "date": "2026-06-03",
+          "source": "OpenAI",
+          "description": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Introducing new capabilities to GPT-Rosalind",
+          "original_summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities.",
+          "summary": "GPT-Rosalind advances life sciences research with enhanced biological reasoning, medicinal chemistry expertise, genomics analysis, and experimental workflow capabilities."
+        },
+        {
+          "title": "Lovable signs multi-year deal with Google Cloud to up usage 5x, source says",
+          "link": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
+          "date": "2026-06-03",
+          "source": "TechCrunch",
+          "description": "Lovable and Google signed an expanded multi-year deal athat involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2245627953.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Lovable signs multi-year deal with Google Cloud to up usage 5x, source says",
+          "original_summary": "Lovable and Google signed an expanded multi-year deal athat involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude.",
+          "summary": "Lovable and Google signed an expanded multi-year deal athat involves a 5x expansion of Lovable's footprint on Google Cloud, and expanded access to Anthropic Claude."
+        },
+        {
+          "title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+          "link": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
+          "date": "2026-06-03",
+          "source": "TechCrunch",
+          "description": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/05/GettyImages-2215577882.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Alphabet’s record-breaking $85B raise for Google’s AI business is a helluva good signal",
+          "original_summary": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow. ",
+          "summary": "If Alphabet's record-breaking $85 billion stock sale signals investor appetite for AI-related offerings, we can see that investors are ready to chow. "
+        },
+        {
+          "title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
+          "link": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
+          "date": "2026-06-03",
+          "source": "TechCrunch",
+          "description": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-03-at-9.13.33-AM.png?resize=1200,667",
+          "is_english": true,
+          "original_title": "Google’s Dreambeans, its weirdest-named AI tool to date, will turn your life into a cartoon",
+          "original_summary": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account.",
+          "summary": "Dreambeans is a curated list of AI-illustrated \"stories\" culled from the personal data in your Google account."
+        },
+        {
+          "title": "Teaching AI agents to ask better questions by playing “Battleship”",
+          "link": "https://news.mit.edu/2026/teaching-ai-agents-ask-better-questions-playing-battleship-0603",
+          "date": "2026-06-03",
+          "source": "MIT News",
+          "description": "MIT researchers use the classic game as a test bed for AI agents, finding a small AI model can outperform the biggest ones at 1 percent of the cost.",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/mit-csail-Co-Battleship.jpg?itok=f3N6UnA0",
+          "is_english": true,
+          "original_title": "Teaching AI agents to ask better questions by playing “Battleship”",
+          "original_summary": "MIT researchers use the classic game as a test bed for AI agents, finding a small AI model can outperform the biggest ones at 1 percent of the cost.",
+          "summary": "MIT researchers use the classic game as a test bed for AI agents, finding a small AI model can outperform the biggest ones at 1 percent of the cost."
+        },
+        {
+          "title": "Tod Machover receives George Peabody Medal for contributions to music and technology",
+          "link": "https://news.mit.edu/2026/tod-machover-receives-george-peabody-medal-0603",
+          "date": "2026-06-03",
+          "source": "MIT News",
+          "description": "The George Peabody Medal is the highest honor bestowed by the Peabody Institute of the Johns Hopkins University.",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/mit-medialab-Tod-Machover.jpg?itok=TYd9hOrz",
+          "is_english": true,
+          "original_title": "Tod Machover receives George Peabody Medal for contributions to music and technology",
+          "original_summary": "The George Peabody Medal is the highest honor bestowed by the Peabody Institute of the Johns Hopkins University.",
+          "summary": "The George Peabody Medal is the highest honor bestowed by the Peabody Institute of the Johns Hopkins University."
+        },
         {
           "title": "OpenAI public policy agenda",
           "link": "https://openai.com/index/public-policy-agenda",
@@ -8093,7 +8165,7 @@
         {
           "title": "sapientinc/HRM-Text-1B",
           "link": "https://huggingface.co/sapientinc/HRM-Text-1B",
-          "date": "2026-05-26",
+          "date": "2026-06-04",
           "source": "HuggingFace",
           "description": "• HRM-Text-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/sapientinc/HRM-Text-1B/resolve/main/banner.jpg",
@@ -8106,7 +8178,7 @@
         {
           "title": "meituan-longcat/LongCat-Video-Avatar-1.5",
           "link": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
-          "date": "2026-05-26",
+          "date": "2026-06-04",
           "source": "HuggingFace",
           "description": "• LongCat-Video-Avatar-1.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5/resolve/main/assets/logo.png",
@@ -8158,7 +8230,7 @@
         {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-05-26",
+          "date": "2026-06-04",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -8171,7 +8243,7 @@
         {
           "title": "SulphurAI/Sulphur-2-base",
           "link": "https://huggingface.co/SulphurAI/Sulphur-2-base",
-          "date": "2026-05-26",
+          "date": "2026-06-04",
           "source": "HuggingFace",
           "description": "• Sulphur-2-base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -8197,7 +8269,7 @@
         {
           "title": "unsloth/Qwen3.6-27B-MTP-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.6-27B-MTP-GGUF",
-          "date": "2026-05-26",
+          "date": "2026-06-04",
           "source": "HuggingFace",
           "description": "• Qwen3.6-27B-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%92%9C%EF%B8%8F%20Qwen%20Chat%20-536af5",
@@ -8210,7 +8282,7 @@
         {
           "title": "deepseek-ai/DeepSeek-V4-Pro",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
-          "date": "2026-05-26",
+          "date": "2026-06-04",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
