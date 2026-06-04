@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-06-04",
-      "update_time": "2026-06-04 11:45:11",
+      "update_time": "2026-06-04 14:33:26",
       "news": [
+        {
+          "title": "Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission",
+          "link": "https://techcrunch.com/2026/06/04/apple-touts-1-4-trillion-in-app-store-billings-and-sales-90-without-a-commission/",
+          "date": "2026-06-04",
+          "source": "TechCrunch",
+          "description": "Apple's App Store generated $1.4 trillion in sales, up from $1.3 trillion last year, with $149 billion in sales for digital goods.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/01/app-store-2024-v1.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "Apple touts $1.4 trillion in App Store billings and sales, 90% without a commission",
+          "original_summary": "Apple's App Store generated $1.4 trillion in sales, up from $1.3 trillion last year, with $149 billion in sales for digital goods.",
+          "summary": "Apple's App Store generated $1.4 trillion in sales, up from $1.3 trillion last year, with $149 billion in sales for digital goods."
+        },
         {
           "title": "[소셜＋] \"젠슨 황과 '삼쏘'를?\"…'제2 깐부회동' 기대에 성수동 '들썩'",
           "link": "https://www.yna.co.kr/view/AKR20260604170900505",
@@ -523,19 +535,6 @@
           "category": "AI Model"
         },
         {
-          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-06-04",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "google/gemma-4-12B-it",
           "link": "https://huggingface.co/google/gemma-4-12B-it",
           "date": "2026-06-04",
@@ -545,6 +544,19 @@
           "is_english": true,
           "summary": "• gemma-4-12B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "google/gemma-4-12B-it",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "date": "2026-06-04",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -571,19 +583,6 @@
           "is_english": true,
           "summary": "• Step-3.7-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "stepfun-ai/Step-3.7-Flash",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "PaddlePaddle/PaddleOCR-VL-1.6",
-          "link": "https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.6",
-          "date": "2026-06-04",
-          "source": "HuggingFace",
-          "description": "• PaddleOCR-VL-1.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?color=ccf",
-          "is_english": true,
-          "summary": "• PaddleOCR-VL-1.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "PaddlePaddle/PaddleOCR-VL-1.6",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -640,6 +639,19 @@
           "category": "AI Model"
         },
         {
+          "title": "PaddlePaddle/PaddleOCR-VL-1.6",
+          "link": "https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.6",
+          "date": "2026-06-04",
+          "source": "HuggingFace",
+          "description": "• PaddleOCR-VL-1.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?color=ccf",
+          "is_english": true,
+          "summary": "• PaddleOCR-VL-1.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "PaddlePaddle/PaddleOCR-VL-1.6",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "LiquidAI/LFM2.5-8B-A1B-GGUF",
           "link": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B-GGUF",
           "date": "2026-06-04",
@@ -666,6 +678,19 @@
           "category": "AI Model"
         },
         {
+          "title": "ideogram-ai/ideogram-4-fp8",
+          "link": "https://huggingface.co/ideogram-ai/ideogram-4-fp8",
+          "date": "2026-06-04",
+          "source": "HuggingFace",
+          "description": "• ideogram-4-fp8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• ideogram-4-fp8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "ideogram-ai/ideogram-4-fp8",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "nvidia/Qwen3.6-35B-A3B-NVFP4",
           "link": "https://huggingface.co/nvidia/Qwen3.6-35B-A3B-NVFP4",
           "date": "2026-06-04",
@@ -675,19 +700,6 @@
           "is_english": true,
           "summary": "• Qwen3.6-35B-A3B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nvidia/Qwen3.6-35B-A3B-NVFP4",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "meituan-longcat/LongCat-Video-Avatar-1.5",
-          "link": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
-          "date": "2026-06-04",
-          "source": "HuggingFace",
-          "description": "• LongCat-Video-Avatar-1.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5/resolve/main/assets/logo.png",
-          "is_english": true,
-          "summary": "• LongCat-Video-Avatar-1.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "meituan-longcat/LongCat-Video-Avatar-1.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -705,15 +717,15 @@
           "category": "AI Model"
         },
         {
-          "title": "ideogram-ai/ideogram-4-fp8",
-          "link": "https://huggingface.co/ideogram-ai/ideogram-4-fp8",
+          "title": "meituan-longcat/LongCat-Video-Avatar-1.5",
+          "link": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5",
           "date": "2026-06-04",
           "source": "HuggingFace",
-          "description": "• ideogram-4-fp8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "description": "• LongCat-Video-Avatar-1.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.5/resolve/main/assets/logo.png",
           "is_english": true,
-          "summary": "• ideogram-4-fp8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ideogram-ai/ideogram-4-fp8",
+          "summary": "• LongCat-Video-Avatar-1.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "meituan-longcat/LongCat-Video-Avatar-1.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -744,15 +756,15 @@
           "category": "AI Model"
         },
         {
-          "title": "SulphurAI/Sulphur-2-base",
-          "link": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+          "title": "ideogram-ai/ideogram-4-nf4",
+          "link": "https://huggingface.co/ideogram-ai/ideogram-4-nf4",
           "date": "2026-06-04",
           "source": "HuggingFace",
-          "description": "• Sulphur-2-base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "description": "• ideogram-4-nf4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• Sulphur-2-base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "SulphurAI/Sulphur-2-base",
+          "summary": "• ideogram-4-nf4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "ideogram-ai/ideogram-4-nf4",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
