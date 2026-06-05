@@ -2,8 +2,80 @@
   "dates": [
     {
       "date": "2026-06-05",
-      "update_time": "2026-06-04 22:16:30",
+      "update_time": "2026-06-05 02:15:02",
       "news": [
+        {
+          "title": "[6월4일] 유엔이 AI 챗봇에 \"예의를 생략하라\"고 제안한 이유는",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211314",
+          "date": "2026-06-05",
+          "source": "AI타임스",
+          "description": "에너지 절약과 탄소 감축을 위한 정책은 이미 일상에 깊숙이 들어와 있습니다. 종이 빨대, 비닐봉투 유료화, 냉난방 온도 제한 등이 대표적입니다.그런데 앞으로는 AI 챗봇을 사용할 때도 이런 정책이 도입될지 모르겠습니다. \\\"챗봇에 공손한 말투를 사용하지 말라\\\"라는 것입니다.유엔 산하 유엔대학의 수자원·환경·보건연구소는 3일(현지시간) 발표한 연구를 통해 사용자들이 AI 챗봇 대화에서 공손한 표현을 생략하는 \\'간결 모드\\'를 채택할 것을 제안했습니다. \\\"부탁드립니다\\\"나 \\\"감사합니다\\\"와 같은 단어를 제거하면 전체 토큰 사용량이 30% 감소",
+          "image": "https://cdn.aitimes.com/news/photo/202606/211314_214224_5844.png",
+          "is_english": false,
+          "original_title": "[6월4일] 유엔이 AI 챗봇에 \"예의를 생략하라\"고 제안한 이유는",
+          "original_summary": "에너지 절약과 탄소 감축을 위한 정책은 이미 일상에 깊숙이 들어와 있습니다. 종이 빨대, 비닐봉투 유료화, 냉난방 온도 제한 등이 대표적입니다.그런데 앞으로는 AI 챗봇을 사용할 때도 이런 정책이 도입될지 모르겠습니다. \\\"챗봇에 공손한 말투를 사용하지 말라\\\"라는 것입니다.유엔 산하 유엔대학의 수자원·환경·보건연구소는 3일(현지시간) 발표한 연구를 통해 사용자들이 AI 챗봇 대화에서 공손한 표현을 생략하는 \\'간결 모드\\'를 채택할 것을 제안했습니다. \\\"부탁드립니다\\\"나 \\\"감사합니다\\\"와 같은 단어를 제거하면 전체 토큰 사용량",
+          "summary": "에너지 절약과 탄소 감축을 위한 정책은 이미 일상에 깊숙이 들어와 있습니다. 종이 빨대, 비닐봉투 유료화, 냉난방 온도 제한 등이 대표적입니다.그런데 앞으로는 AI 챗봇을 사용할 때도 이런 정책이 도입될지 모르겠습니다. \\\"챗봇에 공손한 말투를 사용하지 말라\\\"라는 것입니다.유엔 산하 유엔대학의 수자원·환경·보건연구소는 3일(현지시간) 발표한 연구를 통해 사용자들이 AI 챗봇 대화에서 공손한 표현을 생략하는 \\'간결 모드\\'를 채택할 것을 제안했습니다. \\\"부탁드립니다\\\"나 \\\"감사합니다\\\"와 같은 단어를 제거하면 전체 토큰 사용량"
+        },
+        {
+          "title": "AI 딥페이크 보이스피싱…  구글은 다 탐지 가능하다?",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211346",
+          "date": "2026-06-05",
+          "source": "AI타임스",
+          "description": "AI타임스 조예주 기자 joyejuoffice@aitimes.com",
+          "image": "https://cdn.aitimes.com/news/photo/202606/211346_214265_254.jpg",
+          "is_english": false,
+          "original_title": "AI 딥페이크 보이스피싱…  구글은 다 탐지 가능하다?",
+          "original_summary": "AI타임스 조예주 기자 joyejuoffice@aitimes.com",
+          "summary": "AI타임스 조예주 기자 joyejuoffice@aitimes.com"
+        },
+        {
+          "title": "왜 AI 에이전트는 프로덕션에서 실망스러울까",
+          "link": "https://www.itworld.co.kr/article/4181485/%ec%99%9c-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%eb%8a%94-%ed%94%84%eb%a1%9c%eb%8d%95%ec%85%98%ec%97%90%ec%84%9c-%ec%8b%a4%eb%a7%9d%ec%8a%a4%eb%9f%ac%ec%9a%b8%ea%b9%8c.html",
+          "date": "2026-06-05",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n프로덕션에서 에이전트에게 도로 위를 달리라고 요청하는데, 그 도로가 대시보드에 맞게 만들어진 도로라면 결과는 실망스러울 수밖에 없다. 신뢰할 수 있는 에이전트를 원한다면 하부 구조에 다음과 같은 네 가지 보장을 구현해야 한다.\n\n\n\nAI 에이전트가 데모에서 뛰어난 이유는 데모가 에이전트에 친화적인 환경이기 때문이다. 데이터는 선별되고 툴은 제대로 작동한다. 에이전트가 생각하는 도중에 중요한 요소가 변경되는 일도 없다. 그러나 프로덕션은 그 반대다. 데이터는 늦게 도착하고 사실 관계는 충돌하고 권한이 돌발 변수가 되고 API는 타임아웃되고 기저 상태는 끊임없이 변한다.\n\n\n\n이 간극은 초기 “프로덕션 에이전트”의 작동 범위가 읽기 전용 어시스턴트나 HIL(인간 개입) 워크플로우 또는 고도로 선별된 데이터가 사용되는 협소한 도메인과 같이 좀더 안전한 영역으로 축소되는 이유다. 주목을 받으며 배포됐지만 복잡다단한 현실 세계의 제약에 직면한 후 규모",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/06/4181485-0-31490600-1780625385-shutterstock_1452965522.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "왜 AI 에이전트는 프로덕션에서 실망스러울까",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n프로덕션에서 에이전트에게 도로 위를 달리라고 요청하는데, 그 도로가 대시보드에 맞게 만들어진 도로라면 결과는 실망스러울 수밖에 없다. 신뢰할 수 있는 에이전트를 원한다면 하부 구조에 다음과 같은 네 가지 보장을 구현해야 한다.\n\n\n\nAI 에이전트가 데모에서 뛰어난 이유는 데모가 에이전트에 친화적인 환경이기 때문이다. 데이터는 선별되고 툴은 제대로 작동한다. 에이전트가 생각하는 도중에 중요한 요소가 변경되는 일도 없다. 그러나 프로덕션은 그 반대다. 데이터는 늦게 도착하고 사실 관계는 충돌하고",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n프로덕션에서 에이전트에게 도로 위를 달리라고 요청하는데, 그 도로가 대시보드에 맞게 만들어진 도로라면 결과는 실망스러울 수밖에 없다. 신뢰할 수 있는 에이전트를 원한다면 하부 구조에 다음과 같은 네 가지 보장을 구현해야 한다.\n\n\n\nAI 에이전트가 데모에서 뛰어난 이유는 데모가 에이전트에 친화적인 환경이기 때문이다. 데이터는 선별되고 툴은 제대로 작동한다. 에이전트가 생각하는 도중에 중요한 요소가 변경되는 일도 없다. 그러나 프로덕션은 그 반대다. 데이터는 늦게 도착하고 사실 관계는 충돌하고"
+        },
+        {
+          "title": "하루 5만 5,000대씩 팔린 맥북 네오, PC 업계의 새 기준",
+          "link": "https://www.itworld.co.kr/article/4181478/%ed%95%98%eb%a3%a8-5%eb%a7%8c-5000%eb%8c%80%ec%94%a9-%ed%8c%94%eb%a6%b0-%eb%a7%a5%eb%b6%81-%eb%84%a4%ec%98%a4-pc-%ec%97%85%ea%b3%84%ec%9d%98-%ec%83%88-%ea%b8%b0%ec%a4%80.html",
+          "date": "2026-06-05",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n애플의 저가형 신형 노트북 맥북 네오가 올해 초 출시 이후 PC 업계 전반에 충격파를 던지고 있으며, 그 여진은 현재도 이어지고 있다.\n\n\n\n시장조사업체 IDC 데이터(테크크런치가 최초 보도)에 따르면, 맥북 네오는 3월 출시 이후 하루 평균 약 5만 5,000대씩 판매되고 있다. IDC 애널리스트들은 출시 첫 20일 만에 약 110만 대가 팔린 것으로 분석했다.\n\n\n\n이 같은 수요가 크게 꺾였다고 볼 근거는 아직 없다.\n\n\n\n수백만 대 판매된 맥북 네오\n\n\n\n맥북 네오는 아마존 미국 노트북 판매 차트 상위권을 지속적으로 장악하고 있으며, 공급망 업계에서는 애플이 생산 발주량을 두 배로 늘렸다는 소문도 나돌고 있다. 애플 전문 애널리스트 궈밍치는 최근 “맥북 네오 출하량이 예상치를 웃돌고 있으며, 2026년 출하량 전망치를 500만 대에서 1,000만 대로 상향했다”라고 밝혔다.\n\n\n\nIDC의 3월 데이터가 전체 수요 규모를 온전히 반영하지 ",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/06/4181478-0-70599600-1780624952-Apple-MacBook-Neo-lifestyle-01-260304.jpg?quality=50&strip=all",
+          "is_english": true,
+          "original_title": "하루 5만 5,000대씩 팔린 맥북 네오, PC 업계의 새 기준",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n애플의 저가형 신형 노트북 맥북 네오가 올해 초 출시 이후 PC 업계 전반에 충격파를 던지고 있으며, 그 여진은 현재도 이어지고 있다.\n\n\n\n시장조사업체 IDC 데이터(테크크런치가 최초 보도)에 따르면, 맥북 네오는 3월 출시 이후 하루 평균 약 5만 5,000대씩 판매되고 있다. IDC 애널리스트들은 출시 첫 20일 만에 약 110만 대가 팔린 것으로 분석했다.\n\n\n\n이 같은 수요가 크게 꺾였다고 볼 근거는 아직 없다.\n\n\n\n수백만 대 판매된 맥북 네오\n\n\n\n맥북 네오는 아마존 미국 노트북",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n애플의 저가형 신형 노트북 맥북 네오가 올해 초 출시 이후 PC 업계 전반에 충격파를 던지고 있으며, 그 여진은 현재도 이어지고 있다.\n\n\n\n시장조사업체 IDC 데이터(테크크런치가 최초 보도)에 따르면, 맥북 네오는 3월 출시 이후 하루 평균 약 5만 5,000대씩 판매되고 있다. IDC 애널리스트들은 출시 첫 20일 만에 약 110만 대가 팔린 것으로 분석했다.\n\n\n\n이 같은 수요가 크게 꺾였다고 볼 근거는 아직 없다.\n\n\n\n수백만 대 판매된 맥북 네오\n\n\n\n맥북 네오는 아마존 미국 노트북"
+        },
+        {
+          "title": "마이크로소프트, 오픈클로 기반 자율 AI 에이전트 ‘스카우트’ 공개",
+          "link": "https://www.itworld.co.kr/article/4181454/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%86%8c%ed%94%84%ed%8a%b8-%ec%98%a4%ed%94%88%ed%81%b4%eb%a1%9c-%ea%b8%b0%eb%b0%98-%ec%9e%90%ec%9c%a8-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ec%8a%a4%ec%b9%b4.html",
+          "date": "2026-06-05",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n마이크로소프트가 마이크로소프트 365 앱 전반에서 자율적으로 작업을 수행하는 새로운 AI 에이전트를 개발했다.\n\n\n\n마이크로소프트 스카우트(마이크로소프트 Scout)는 화요일 마이크로소프트 빌드 컨퍼런스에서 공개됐다. 오픈클로 에이전트 프레임워크를 기반으로 하며, 마이크로소프트가 ‘오토파일럿(Autopilot)’이라고 명명한 새로운 유형의 상시 가동형 에이전트다.\n\n\n\n마이크로소프트 부사장 오마르 샤힌은 블로그 포스트에서 “오토파일럿은 자체적으로 관리되는 엔트라(Entra) 아이덴티티를 갖추고 사용자를 대신해 행동한다”라고 밝혔다.\n\n\n\n샤힌은 “오토파일럿은 배경에서 항상 활성 상태를 유지하며, 앱과 시스템 전반에서 업무가 이루어지는 방식을 이해하고, 매번 지시받지 않아도 알아서 행동한다”라고 설명했다. 샤힌은 오픈클로 기반의 개인 비서 기능을 마이크로소프트 365 앱에 도입하는 신규 팀을 이끌고 있음을 최근 공개한 마이크로소프트 베테랑이다.",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/06/4181454-0-16347600-1780622051-shutterstock_1536940715.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "마이크로소프트, 오픈클로 기반 자율 AI 에이전트 ‘스카우트’ 공개",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n마이크로소프트가 마이크로소프트 365 앱 전반에서 자율적으로 작업을 수행하는 새로운 AI 에이전트를 개발했다.\n\n\n\n마이크로소프트 스카우트(마이크로소프트 Scout)는 화요일 마이크로소프트 빌드 컨퍼런스에서 공개됐다. 오픈클로 에이전트 프레임워크를 기반으로 하며, 마이크로소프트가 ‘오토파일럿(Autopilot)’이라고 명명한 새로운 유형의 상시 가동형 에이전트다.\n\n\n\n마이크로소프트 부사장 오마르 샤힌은 블로그 포스트에서 “오토파일럿은 자체적으로 관리되는 엔트라(Entra) 아이덴티티를 갖추",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n마이크로소프트가 마이크로소프트 365 앱 전반에서 자율적으로 작업을 수행하는 새로운 AI 에이전트를 개발했다.\n\n\n\n마이크로소프트 스카우트(마이크로소프트 Scout)는 화요일 마이크로소프트 빌드 컨퍼런스에서 공개됐다. 오픈클로 에이전트 프레임워크를 기반으로 하며, 마이크로소프트가 ‘오토파일럿(Autopilot)’이라고 명명한 새로운 유형의 상시 가동형 에이전트다.\n\n\n\n마이크로소프트 부사장 오마르 샤힌은 블로그 포스트에서 “오토파일럿은 자체적으로 관리되는 엔트라(Entra) 아이덴티티를 갖추"
+        },
+        {
+          "title": "더 큰 모델보다 더 나은 데이터가 먼저다",
+          "link": "https://www.itworld.co.kr/article/4181443/%eb%8d%94-%ed%81%b0-%eb%aa%a8%eb%8d%b8%eb%b3%b4%eb%8b%a4-%eb%8d%94-%eb%82%98%ec%9d%80-%eb%8d%b0%ec%9d%b4%ed%84%b0%ea%b0%80-%eb%a8%bc%ec%a0%80%eb%8b%a4.html",
+          "date": "2026-06-05",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\nAI는 산업 전반에 걸쳐 동일한 속도로 발전하지 않는다. 일부 방향에서는 빠르게 앞서나가는 반면, 다른 방향에서는 여전히 뒤처진다.\n\n\n\n오늘날 가장 발전한 AI 애플리케이션을 살펴보면 이 대비가 뚜렷해진다. 소프트웨어 개발 분야에서 AI는 급속히 일상화되고 있다. 배포 가능한 코드를 작성하고, 난해한 라이브러리를 해설하며, 인간 팀이 따라가기 어려운 속도로 반복 작업을 수행한다.\n\n\n\n그러나 동일한 AI 모델을 복잡한 고객 지원 워크플로우에 투입하거나, 미묘한 임상 시나리오를 추론하게 하면 균열이 드러나기 시작한다. 다단계 추론이 흔들리고, 맥락이 누락되며, 다른 영역에서 보여준 강점과 일관성이 없어 보이는 방식으로 성능이 저하된다.\n\n\n\n이런 AI 모델들은 대체로 비슷하다. 유사한 하드웨어에서 구동되고, 유사한 방식으로 학습되는 경우가 많다. 그렇다면 왜 태스크별 성능 차이가 발생하는 것일까? 가장 단순한 설명이 가장 간과되어 있다. 바로",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/06/4181443-0-74211000-1780620941-shutterstock_2003175977.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "더 큰 모델보다 더 나은 데이터가 먼저다",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\nAI는 산업 전반에 걸쳐 동일한 속도로 발전하지 않는다. 일부 방향에서는 빠르게 앞서나가는 반면, 다른 방향에서는 여전히 뒤처진다.\n\n\n\n오늘날 가장 발전한 AI 애플리케이션을 살펴보면 이 대비가 뚜렷해진다. 소프트웨어 개발 분야에서 AI는 급속히 일상화되고 있다. 배포 가능한 코드를 작성하고, 난해한 라이브러리를 해설하며, 인간 팀이 따라가기 어려운 속도로 반복 작업을 수행한다.\n\n\n\n그러나 동일한 AI 모델을 복잡한 고객 지원 워크플로우에 투입하거나, 미묘한 임상 시나리오를 추론하게 하면",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\nAI는 산업 전반에 걸쳐 동일한 속도로 발전하지 않는다. 일부 방향에서는 빠르게 앞서나가는 반면, 다른 방향에서는 여전히 뒤처진다.\n\n\n\n오늘날 가장 발전한 AI 애플리케이션을 살펴보면 이 대비가 뚜렷해진다. 소프트웨어 개발 분야에서 AI는 급속히 일상화되고 있다. 배포 가능한 코드를 작성하고, 난해한 라이브러리를 해설하며, 인간 팀이 따라가기 어려운 속도로 반복 작업을 수행한다.\n\n\n\n그러나 동일한 AI 모델을 복잡한 고객 지원 워크플로우에 투입하거나, 미묘한 임상 시나리오를 추론하게 하면"
+        },
         {
           "title": "Nvidia Unveils New Physical AI Research and Agent Workflows",
           "link": "https://aibusiness.com/generative-ai/nvidia-unveils-physical-ai-research-agent-workflows",
@@ -42,19 +114,6 @@
           "category": "AI Model"
         },
         {
-          "title": "LiquidAI/LFM2.5-8B-A1B",
-          "link": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
-          "date": "2026-06-05",
-          "source": "HuggingFace",
-          "description": "• LFM2.5-8B-A1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/qUZVGkns1bg3sZUShBbhv.png",
-          "is_english": true,
-          "summary": "• LFM2.5-8B-A1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "LiquidAI/LFM2.5-8B-A1B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "google/gemma-4-12B-it",
           "link": "https://huggingface.co/google/gemma-4-12B-it",
           "date": "2026-06-05",
@@ -64,6 +123,19 @@
           "is_english": true,
           "summary": "• gemma-4-12B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "google/gemma-4-12B-it",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "LiquidAI/LFM2.5-8B-A1B",
+          "link": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
+          "date": "2026-06-05",
+          "source": "HuggingFace",
+          "description": "• LFM2.5-8B-A1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/qUZVGkns1bg3sZUShBbhv.png",
+          "is_english": true,
+          "summary": "• LFM2.5-8B-A1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "LiquidAI/LFM2.5-8B-A1B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -107,19 +179,6 @@
           "category": "AI Model"
         },
         {
-          "title": "stepfun-ai/Step-3.7-Flash",
-          "link": "https://huggingface.co/stepfun-ai/Step-3.7-Flash",
-          "date": "2026-06-05",
-          "source": "HuggingFace",
-          "description": "• Step-3.7-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Step-3.7-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "stepfun-ai/Step-3.7-Flash",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "openbmb/MiniCPM5-1B",
           "link": "https://huggingface.co/openbmb/MiniCPM5-1B",
           "date": "2026-06-05",
@@ -129,6 +188,19 @@
           "is_english": true,
           "summary": "• MiniCPM5-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "openbmb/MiniCPM5-1B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "stepfun-ai/Step-3.7-Flash",
+          "link": "https://huggingface.co/stepfun-ai/Step-3.7-Flash",
+          "date": "2026-06-05",
+          "source": "HuggingFace",
+          "description": "• Step-3.7-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Step-3.7-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "stepfun-ai/Step-3.7-Flash",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -146,19 +218,6 @@
           "category": "AI Model"
         },
         {
-          "title": "JetBrains/Mellum2-12B-A2.5B-Thinking",
-          "link": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking",
-          "date": "2026-06-05",
-          "source": "HuggingFace",
-          "description": "• Mellum2-12B-A2.5B-Thinking 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking/resolve/main/mellum-logo-dark.svg",
-          "is_english": true,
-          "summary": "• Mellum2-12B-A2.5B-Thinking 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "JetBrains/Mellum2-12B-A2.5B-Thinking",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "ideogram-ai/ideogram-4-fp8",
           "link": "https://huggingface.co/ideogram-ai/ideogram-4-fp8",
           "date": "2026-06-05",
@@ -172,15 +231,15 @@
           "category": "AI Model"
         },
         {
-          "title": "PaddlePaddle/PaddleOCR-VL-1.6",
-          "link": "https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.6",
+          "title": "JetBrains/Mellum2-12B-A2.5B-Thinking",
+          "link": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking",
           "date": "2026-06-05",
           "source": "HuggingFace",
-          "description": "• PaddleOCR-VL-1.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?color=ccf",
+          "description": "• Mellum2-12B-A2.5B-Thinking 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking/resolve/main/mellum-logo-dark.svg",
           "is_english": true,
-          "summary": "• PaddleOCR-VL-1.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "PaddlePaddle/PaddleOCR-VL-1.6",
+          "summary": "• Mellum2-12B-A2.5B-Thinking 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "JetBrains/Mellum2-12B-A2.5B-Thinking",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -194,6 +253,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-35B-A3B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nvidia/Qwen3.6-35B-A3B-NVFP4",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "PaddlePaddle/PaddleOCR-VL-1.6",
+          "link": "https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.6",
+          "date": "2026-06-05",
+          "source": "HuggingFace",
+          "description": "• PaddleOCR-VL-1.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?color=ccf",
+          "is_english": true,
+          "summary": "• PaddleOCR-VL-1.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "PaddlePaddle/PaddleOCR-VL-1.6",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -276,15 +348,15 @@
           "category": "AI Model"
         },
         {
-          "title": "LiquidAI/LFM2.5-8B-A1B-GGUF",
-          "link": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B-GGUF",
+          "title": "ByteDance/Bernini-R",
+          "link": "https://huggingface.co/ByteDance/Bernini-R",
           "date": "2026-06-05",
           "source": "HuggingFace",
-          "description": "• LFM2.5-8B-A1B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/2b08LKpev0DNEk6DlnWkY.png",
+          "description": "• Bernini-R 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/arXiv-2605.22344-b31b1b.svg",
           "is_english": true,
-          "summary": "• LFM2.5-8B-A1B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "LiquidAI/LFM2.5-8B-A1B-GGUF",
+          "summary": "• Bernini-R 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "ByteDance/Bernini-R",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -292,8 +364,32 @@
     },
     {
       "date": "2026-06-04",
-      "update_time": "2026-06-04 22:16:30",
+      "update_time": "2026-06-05 02:15:00",
       "news": [
+        {
+          "title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+          "link": "https://techcrunch.com/2026/06/04/ahead-of-its-ipo-anthropics-daniela-amodei-shrugs-off-doubts-about-ais-returns/",
+          "date": "2026-06-04",
+          "source": "TechCrunch",
+          "description": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/55314412841_11b924318f_c.jpg?w=799",
+          "is_english": true,
+          "original_title": "Ahead of its IPO, Anthropic’s Daniela Amodei shrugs off doubts about AI’s returns",
+          "original_summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though. ",
+          "summary": "Anthropic has been growing at a breakneck pace. The company announced that annualized revenue crossed $47 billion in May, up dramatically from roughly $9 billion at the end of 2025. That trajectory faces a real test, though. "
+        },
+        {
+          "title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+          "link": "https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/",
+          "date": "2026-06-04",
+          "source": "TechCrunch",
+          "description": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
+          "image": "https://techcrunch.com/wp-content/uploads/2017/05/gettyimages-652988834.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Airbnb’s Brian Chesky plans to launch a new AI lab",
+          "original_summary": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.",
+          "summary": "The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready."
+        },
         {
           "title": "Biodefense in the Intelligence Age",
           "link": "https://openai.com/index/biodefense-in-the-intelligence-age",
