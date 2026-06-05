@@ -2,8 +2,44 @@
   "dates": [
     {
       "date": "2026-06-06",
-      "update_time": "2026-06-05 17:08:03",
+      "update_time": "2026-06-05 22:09:20",
       "news": [
+        {
+          "title": "[소셜＋] \"크기 보여주세요\"…AI시대 중고거래서 필수품 된 '자'",
+          "link": "https://www.yna.co.kr/view/AKR20260605079600505",
+          "date": "2026-06-06",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 서효주 인턴기자 = &quot;물품 위에 자를 놓고 찍어주세요.&quot;",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/06/05/AKR20260605079600505_05_i_P2.jpg",
+          "is_english": false,
+          "original_title": "[소셜＋] \"크기 보여주세요\"…AI시대 중고거래서 필수품 된 '자'",
+          "original_summary": "(서울=연합뉴스) 서효주 인턴기자 = &quot;물품 위에 자를 놓고 찍어주세요.&quot;",
+          "summary": "(서울=연합뉴스) 서효주 인턴기자 = &quot;물품 위에 자를 놓고 찍어주세요.&quot;"
+        },
+        {
+          "title": "[6월5일] 테드 창이 'AI 의식'과 앤트로픽을 비판한 이유...\"문제는 인간의 착각\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211374",
+          "date": "2026-06-06",
+          "source": "AI타임스",
+          "description": "오래전부터 SF 작가들은 기술 업계에 많은 영향을 미쳤습니다. 이는 기술 문화 곳곳에서 발견됩니다.이들의 상상력은 단지 새로운 기술을 예고하는 데 그치지 않습니다. 철학적, 인문학적인 기반으로 기술의 도래에 따른 인간의 문제를 파헤치기도 합니다.AI를 둘러싼 철학적 논쟁에서 대표적인 작가 중 한 명은 테드 창입니다.국내에서도 단편 \\'당신 인생의 이야기(Stories of Your Life and Others)\\'로 잘 알려진 그는 AI와 관련된 소설도 쓴 적이 있습니다. 과학적 사실에 근거하면서도 인간관계에 초점을 맞춘 스토리와 철학",
+          "image": "https://cdn.aitimes.com/news/photo/202606/211374_214306_3155.png",
+          "is_english": false,
+          "original_title": "[6월5일] 테드 창이 'AI 의식'과 앤트로픽을 비판한 이유...\"문제는 인간의 착각\"",
+          "original_summary": "오래전부터 SF 작가들은 기술 업계에 많은 영향을 미쳤습니다. 이는 기술 문화 곳곳에서 발견됩니다.이들의 상상력은 단지 새로운 기술을 예고하는 데 그치지 않습니다. 철학적, 인문학적인 기반으로 기술의 도래에 따른 인간의 문제를 파헤치기도 합니다.AI를 둘러싼 철학적 논쟁에서 대표적인 작가 중 한 명은 테드 창입니다.국내에서도 단편 \\'당신 인생의 이야기(Stories of Your Life and Others)\\'로 잘 알려진 그는 AI와 관련된 소설도 쓴 적이 있습니다. 과학적 사실에 근거하면서도 인간관계에 초점을 맞춘 스토리와 ",
+          "summary": "오래전부터 SF 작가들은 기술 업계에 많은 영향을 미쳤습니다. 이는 기술 문화 곳곳에서 발견됩니다.이들의 상상력은 단지 새로운 기술을 예고하는 데 그치지 않습니다. 철학적, 인문학적인 기반으로 기술의 도래에 따른 인간의 문제를 파헤치기도 합니다.AI를 둘러싼 철학적 논쟁에서 대표적인 작가 중 한 명은 테드 창입니다.국내에서도 단편 \\'당신 인생의 이야기(Stories of Your Life and Others)\\'로 잘 알려진 그는 AI와 관련된 소설도 쓴 적이 있습니다. 과학적 사실에 근거하면서도 인간관계에 초점을 맞춘 스토리와 "
+        },
+        {
+          "title": "매일 아침 나를 위한 맞춤형 이야기… 구글의 ‘드림빈즈’",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211402",
+          "date": "2026-06-06",
+          "source": "AI타임스",
+          "description": "AI타임스 조예주 기자 joyejuoffice@aitimes.com",
+          "image": "https://cdn.aitimes.com/news/photo/202606/211402_214343_3435.jpg",
+          "is_english": false,
+          "original_title": "매일 아침 나를 위한 맞춤형 이야기… 구글의 ‘드림빈즈’",
+          "original_summary": "AI타임스 조예주 기자 joyejuoffice@aitimes.com",
+          "summary": "AI타임스 조예주 기자 joyejuoffice@aitimes.com"
+        },
         {
           "title": "nvidia/LocateAnything-3B",
           "link": "https://huggingface.co/nvidia/LocateAnything-3B",
@@ -44,19 +80,6 @@
           "category": "AI Model"
         },
         {
-          "title": "LiquidAI/LFM2.5-8B-A1B",
-          "link": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
-          "date": "2026-06-06",
-          "source": "HuggingFace",
-          "description": "• LFM2.5-8B-A1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/qUZVGkns1bg3sZUShBbhv.png",
-          "is_english": true,
-          "summary": "• LFM2.5-8B-A1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "LiquidAI/LFM2.5-8B-A1B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "date": "2026-06-06",
@@ -79,6 +102,19 @@
           "is_english": true,
           "summary": "• gemma-4-12B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "google/gemma-4-12B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "LiquidAI/LFM2.5-8B-A1B",
+          "link": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
+          "date": "2026-06-06",
+          "source": "HuggingFace",
+          "description": "• LFM2.5-8B-A1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/qUZVGkns1bg3sZUShBbhv.png",
+          "is_english": true,
+          "summary": "• LFM2.5-8B-A1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "LiquidAI/LFM2.5-8B-A1B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -109,19 +145,6 @@
           "category": "AI Model"
         },
         {
-          "title": "stepfun-ai/Step-3.7-Flash",
-          "link": "https://huggingface.co/stepfun-ai/Step-3.7-Flash",
-          "date": "2026-06-06",
-          "source": "HuggingFace",
-          "description": "• Step-3.7-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Step-3.7-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "stepfun-ai/Step-3.7-Flash",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "JetBrains/Mellum2-12B-A2.5B-Thinking",
           "link": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking",
           "date": "2026-06-06",
@@ -131,6 +154,19 @@
           "is_english": true,
           "summary": "• Mellum2-12B-A2.5B-Thinking 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "JetBrains/Mellum2-12B-A2.5B-Thinking",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "stepfun-ai/Step-3.7-Flash",
+          "link": "https://huggingface.co/stepfun-ai/Step-3.7-Flash",
+          "date": "2026-06-06",
+          "source": "HuggingFace",
+          "description": "• Step-3.7-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Step-3.7-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "stepfun-ai/Step-3.7-Flash",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -148,19 +184,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/Qwen3.6-35B-A3B-NVFP4",
-          "link": "https://huggingface.co/nvidia/Qwen3.6-35B-A3B-NVFP4",
-          "date": "2026-06-06",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/Qwen3.6-35B-A3B-NVFP4",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "ideogram-ai/ideogram-4-nf4",
           "link": "https://huggingface.co/ideogram-ai/ideogram-4-nf4",
           "date": "2026-06-06",
@@ -170,6 +193,19 @@
           "is_english": true,
           "summary": "• ideogram-4-nf4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "ideogram-ai/ideogram-4-nf4",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/Qwen3.6-35B-A3B-NVFP4",
+          "link": "https://huggingface.co/nvidia/Qwen3.6-35B-A3B-NVFP4",
+          "date": "2026-06-06",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-35B-A3B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.6-35B-A3B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/Qwen3.6-35B-A3B-NVFP4",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -213,19 +249,6 @@
           "category": "AI Model"
         },
         {
-          "title": "PaddlePaddle/PaddleOCR-VL-1.6",
-          "link": "https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.6",
-          "date": "2026-06-06",
-          "source": "HuggingFace",
-          "description": "• PaddleOCR-VL-1.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?color=ccf",
-          "is_english": true,
-          "summary": "• PaddleOCR-VL-1.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "PaddlePaddle/PaddleOCR-VL-1.6",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nvidia/Cosmos3-Super",
           "link": "https://huggingface.co/nvidia/Cosmos3-Super",
           "date": "2026-06-06",
@@ -235,6 +258,19 @@
           "is_english": true,
           "summary": "• Cosmos3-Super 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nvidia/Cosmos3-Super",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "PaddlePaddle/PaddleOCR-VL-1.6",
+          "link": "https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.6",
+          "date": "2026-06-06",
+          "source": "HuggingFace",
+          "description": "• PaddleOCR-VL-1.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?color=ccf",
+          "is_english": true,
+          "summary": "• PaddleOCR-VL-1.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "PaddlePaddle/PaddleOCR-VL-1.6",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +304,44 @@
     },
     {
       "date": "2026-06-05",
-      "update_time": "2026-06-05 19:41:45",
+      "update_time": "2026-06-05 22:09:20",
       "news": [
+        {
+          "title": "레노버, 첨단 기술로 FIFA 월드컵 운영·AI 기반 방송 강화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211405",
+          "date": "2026-06-05",
+          "source": "AI타임스",
+          "description": "레노버는 FIFA 월드컵 2026을 위한 실시간에 가까운 AI 기반 플랫폼을 구축했다고 5일 밝혔다. 이를 통해 초저지연 IPTV(인터넷 프로토콜 텔레비전) 영상 배포, 지능형 콘텐츠 전송, 이벤트 생태계 및 운영 전반에 걸친 미션 크리티컬 의사결정을 지원한다.레노버는 FIFA 공식 기술 파트너로서 텍사스주 댈러스의 국제방송센터(IBC)에 서버를 배치하고, 전 세계 시청자들에게 경기의 매 순간을 전달하하는 데 필요한 컴퓨팅 파워, 디바이스, AI 솔루션을 제공한다. 이를 통해 FIFA 월드컵 사상 가장 광범위한 방송 운영을 지원할",
+          "image": "https://cdn.aitimes.com/news/photo/202606/211405_214346_564.png",
+          "is_english": false,
+          "original_title": "레노버, 첨단 기술로 FIFA 월드컵 운영·AI 기반 방송 강화",
+          "original_summary": "레노버는 FIFA 월드컵 2026을 위한 실시간에 가까운 AI 기반 플랫폼을 구축했다고 5일 밝혔다. 이를 통해 초저지연 IPTV(인터넷 프로토콜 텔레비전) 영상 배포, 지능형 콘텐츠 전송, 이벤트 생태계 및 운영 전반에 걸친 미션 크리티컬 의사결정을 지원한다.레노버는 FIFA 공식 기술 파트너로서 텍사스주 댈러스의 국제방송센터(IBC)에 서버를 배치하고, 전 세계 시청자들에게 경기의 매 순간을 전달하하는 데 필요한 컴퓨팅 파워, 디바이스, AI 솔루션을 제공한다. 이를 통해 FIFA 월드컵 사상 가장 광범위한 방송 운영을 지원할",
+          "summary": "레노버는 FIFA 월드컵 2026을 위한 실시간에 가까운 AI 기반 플랫폼을 구축했다고 5일 밝혔다. 이를 통해 초저지연 IPTV(인터넷 프로토콜 텔레비전) 영상 배포, 지능형 콘텐츠 전송, 이벤트 생태계 및 운영 전반에 걸친 미션 크리티컬 의사결정을 지원한다.레노버는 FIFA 공식 기술 파트너로서 텍사스주 댈러스의 국제방송센터(IBC)에 서버를 배치하고, 전 세계 시청자들에게 경기의 매 순간을 전달하하는 데 필요한 컴퓨팅 파워, 디바이스, AI 솔루션을 제공한다. 이를 통해 FIFA 월드컵 사상 가장 광범위한 방송 운영을 지원할"
+        },
+        {
+          "title": "Startup Battlefield 200 applications officially close in 3 days",
+          "link": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
+          "date": "2026-06-05",
+          "source": "TechCrunch",
+          "description": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/11/54105085427_2cae9d0502_o.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Startup Battlefield 200 applications officially close in 3 days",
+          "original_summary": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West.",
+          "summary": "Applications for Startup Battlefield 200 officially close on June 8, 11:59 p.m. PT. Don't wait any longer. Secure your shot at competing on the Disrupt Stage at TechCrunch Disrupt 2026 this October at San Francisco's Moscone West."
+        },
+        {
+          "title": "The crucial human component in computing and AI",
+          "link": "https://news.mit.edu/2026/crucial-human-component-computing-and-ai-0605",
+          "date": "2026-06-05",
+          "source": "MIT News",
+          "description": "The MIT Ethics of Computing Research Symposium brought together experts and researchers working at the heart of ethical and social impact in technology. ",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202605/mit-schwarzman-ethics-of-computing.jpg?itok=HYfZyqXf",
+          "is_english": true,
+          "original_title": "The crucial human component in computing and AI",
+          "original_summary": "The MIT Ethics of Computing Research Symposium brought together experts and researchers working at the heart of ethical and social impact in technology. ",
+          "summary": "The MIT Ethics of Computing Research Symposium brought together experts and researchers working at the heart of ethical and social impact in technology. "
+        },
         {
           "title": "Google will pay SpaceX $920M per month for compute",
           "link": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
@@ -8005,7 +8077,7 @@
         {
           "title": "openbmb/MiniCPM5-1B",
           "link": "https://huggingface.co/openbmb/MiniCPM5-1B",
-          "date": "2026-05-28",
+          "date": "2026-06-06",
           "source": "HuggingFace",
           "description": "• MiniCPM5-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/OpenBMB/MiniCPM/main/assets/minicpm5/public_leaderboard_radar_en.png",
@@ -8044,7 +8116,7 @@
         {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-05-28",
+          "date": "2026-06-06",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -8083,7 +8155,7 @@
         {
           "title": "sapientinc/HRM-Text-1B",
           "link": "https://huggingface.co/sapientinc/HRM-Text-1B",
-          "date": "2026-05-28",
+          "date": "2026-06-06",
           "source": "HuggingFace",
           "description": "• HRM-Text-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/sapientinc/HRM-Text-1B/resolve/main/banner.jpg",
@@ -8096,7 +8168,7 @@
         {
           "title": "deepseek-ai/DeepSeek-V4-Pro",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
-          "date": "2026-05-28",
+          "date": "2026-06-06",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
@@ -8135,7 +8207,7 @@
         {
           "title": "nvidia/PiD",
           "link": "https://huggingface.co/nvidia/PiD",
-          "date": "2026-05-28",
+          "date": "2026-06-06",
           "source": "HuggingFace",
           "description": "• PiD 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/nvidia/PiD/resolve/main/figures/teaser.jpg",
