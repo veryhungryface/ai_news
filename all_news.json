@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-06-07",
-      "update_time": "2026-06-06 19:04:35",
+      "update_time": "2026-06-06 21:55:58",
       "news": [
+        {
+          "title": "초유의 투표용지 부족사태…수요예측에 AI는 없었다",
+          "link": "https://www.yna.co.kr/view/AKR20260605153100530",
+          "date": "2026-06-07",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 홍준석 기자 = 이재명 정부가 &apos;인공지능(AI) 민주정부&apos;를 표방하며 행정 영역 전반에 걸쳐 AI 활용도를 높여온 것과 달리 ...",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/06/05/PYH2026060502480001302_P2.jpg",
+          "is_english": false,
+          "original_title": "초유의 투표용지 부족사태…수요예측에 AI는 없었다",
+          "original_summary": "(서울=연합뉴스) 홍준석 기자 = 이재명 정부가 &apos;인공지능(AI) 민주정부&apos;를 표방하며 행정 영역 전반에 걸쳐 AI 활용도를 높여온 것과 달리 ...",
+          "summary": "(서울=연합뉴스) 홍준석 기자 = 이재명 정부가 &apos;인공지능(AI) 민주정부&apos;를 표방하며 행정 영역 전반에 걸쳐 AI 활용도를 높여온 것과 달리 ..."
+        },
+        {
+          "title": "[소셜＋] \"여보, 얼마 주고 샀어?\"…AI가 불러온 '결혼생활 위기'",
+          "link": "https://www.yna.co.kr/view/AKR20260605120000505",
+          "date": "2026-06-07",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 정풍기 인턴기자 = 인공지능(AI)이 사진만으로 제품 정보를 파악하고 시세를 추정하는 &apos;디지털 감별사&apos; 역할을 하면서 기혼자들...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/06/05/AKR20260605120000505_02_i_P2.jpg",
+          "is_english": false,
+          "original_title": "[소셜＋] \"여보, 얼마 주고 샀어?\"…AI가 불러온 '결혼생활 위기'",
+          "original_summary": "(서울=연합뉴스) 정풍기 인턴기자 = 인공지능(AI)이 사진만으로 제품 정보를 파악하고 시세를 추정하는 &apos;디지털 감별사&apos; 역할을 하면서 기혼자들...",
+          "summary": "(서울=연합뉴스) 정풍기 인턴기자 = 인공지능(AI)이 사진만으로 제품 정보를 파악하고 시세를 추정하는 &apos;디지털 감별사&apos; 역할을 하면서 기혼자들..."
+        },
         {
           "title": "nvidia/LocateAnything-3B",
           "link": "https://huggingface.co/nvidia/LocateAnything-3B",
@@ -200,19 +224,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/Qwen3.6-35B-A3B-NVFP4",
-          "link": "https://huggingface.co/nvidia/Qwen3.6-35B-A3B-NVFP4",
-          "date": "2026-06-07",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/Qwen3.6-35B-A3B-NVFP4",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "bosonai/higgs-audio-v3-tts-4b",
           "link": "https://huggingface.co/bosonai/higgs-audio-v3-tts-4b",
           "date": "2026-06-07",
@@ -222,6 +233,19 @@
           "is_english": true,
           "summary": "• higgs-audio-v3-tts-4b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "bosonai/higgs-audio-v3-tts-4b",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "ByteDance/Bernini-R",
+          "link": "https://huggingface.co/ByteDance/Bernini-R",
+          "date": "2026-06-07",
+          "source": "HuggingFace",
+          "description": "• Bernini-R 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/arXiv-2605.22344-b31b1b.svg",
+          "is_english": true,
+          "summary": "• Bernini-R 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "ByteDance/Bernini-R",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,15 +263,15 @@
           "category": "AI Model"
         },
         {
-          "title": "ByteDance/Bernini-R",
-          "link": "https://huggingface.co/ByteDance/Bernini-R",
+          "title": "nvidia/Qwen3.6-35B-A3B-NVFP4",
+          "link": "https://huggingface.co/nvidia/Qwen3.6-35B-A3B-NVFP4",
           "date": "2026-06-07",
           "source": "HuggingFace",
-          "description": "• Bernini-R 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/arXiv-2605.22344-b31b1b.svg",
+          "description": "• Qwen3.6-35B-A3B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
           "is_english": true,
-          "summary": "• Bernini-R 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ByteDance/Bernini-R",
+          "summary": "• Qwen3.6-35B-A3B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/Qwen3.6-35B-A3B-NVFP4",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +292,20 @@
     },
     {
       "date": "2026-06-06",
-      "update_time": "2026-06-06 19:04:35",
+      "update_time": "2026-06-06 21:55:58",
       "news": [
+        {
+          "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+          "link": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
+          "date": "2026-06-06",
+          "source": "TechCrunch",
+          "description": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2201630077.jpg?resize=1200,798",
+          "is_english": true,
+          "original_title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
+          "original_summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process.",
+          "summary": "Even with Lockdown Mode, ChatGPT could be still vulnerable to prompt injections, but the goal is to reduce the likelihood that sensitive data gets shared in the process."
+        },
         {
           "title": "What to expect from WWDC 2026: Siri’s highly anticipated revamp and Apple Intelligence updates",
           "link": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
@@ -7453,7 +7489,7 @@
         {
           "title": "openbmb/MiniCPM5-1B",
           "link": "https://huggingface.co/openbmb/MiniCPM5-1B",
-          "date": "2026-05-29",
+          "date": "2026-06-07",
           "source": "HuggingFace",
           "description": "• MiniCPM5-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/OpenBMB/MiniCPM/main/assets/minicpm5/public_leaderboard_radar_en.png",
@@ -7492,7 +7528,7 @@
         {
           "title": "nvidia/LocateAnything-3B",
           "link": "https://huggingface.co/nvidia/LocateAnything-3B",
-          "date": "2026-05-29",
+          "date": "2026-06-07",
           "source": "HuggingFace",
           "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
@@ -7505,7 +7541,7 @@
         {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-05-29",
+          "date": "2026-06-07",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -7531,7 +7567,7 @@
         {
           "title": "deepseek-ai/DeepSeek-V4-Pro",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
-          "date": "2026-05-29",
+          "date": "2026-06-07",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
@@ -7557,7 +7593,7 @@
         {
           "title": "sapientinc/HRM-Text-1B",
           "link": "https://huggingface.co/sapientinc/HRM-Text-1B",
-          "date": "2026-05-29",
+          "date": "2026-06-07",
           "source": "HuggingFace",
           "description": "• HRM-Text-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/sapientinc/HRM-Text-1B/resolve/main/banner.jpg",
