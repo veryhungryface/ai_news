@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-06-06",
-      "update_time": "2026-06-05 22:09:20",
+      "update_time": "2026-06-06 02:06:37",
       "news": [
         {
           "title": "[소셜＋] \"크기 보여주세요\"…AI시대 중고거래서 필수품 된 '자'",
@@ -223,19 +223,6 @@
           "category": "AI Model"
         },
         {
-          "title": "deepseek-ai/DeepSeek-V4-Pro",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
-          "date": "2026-06-06",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
-          "is_english": true,
-          "summary": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepseek-ai/DeepSeek-V4-Pro",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
           "link": "https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b",
           "date": "2026-06-06",
@@ -245,6 +232,19 @@
           "is_english": true,
           "summary": "• nemotron-3.5-asr-streaming-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Pro",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+          "date": "2026-06-06",
+          "source": "HuggingFace",
+          "description": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
+          "is_english": true,
+          "summary": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepseek-ai/DeepSeek-V4-Pro",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -262,19 +262,6 @@
           "category": "AI Model"
         },
         {
-          "title": "PaddlePaddle/PaddleOCR-VL-1.6",
-          "link": "https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.6",
-          "date": "2026-06-06",
-          "source": "HuggingFace",
-          "description": "• PaddleOCR-VL-1.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?color=ccf",
-          "is_english": true,
-          "summary": "• PaddleOCR-VL-1.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "PaddlePaddle/PaddleOCR-VL-1.6",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "ByteDance/Bernini-R",
           "link": "https://huggingface.co/ByteDance/Bernini-R",
           "date": "2026-06-06",
@@ -284,6 +271,19 @@
           "is_english": true,
           "summary": "• Bernini-R 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "ByteDance/Bernini-R",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "PaddlePaddle/PaddleOCR-VL-1.6",
+          "link": "https://huggingface.co/PaddlePaddle/PaddleOCR-VL-1.6",
+          "date": "2026-06-06",
+          "source": "HuggingFace",
+          "description": "• PaddleOCR-VL-1.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?color=ccf",
+          "is_english": true,
+          "summary": "• PaddleOCR-VL-1.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "PaddlePaddle/PaddleOCR-VL-1.6",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
