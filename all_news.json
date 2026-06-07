@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-06-07",
-      "update_time": "2026-06-07 11:00:52",
+      "update_time": "2026-06-07 13:20:29",
       "news": [
+        {
+          "title": "알트먼·럭키, 실리콘 밸리 거물들 유튜브 예능서 '마피아 게임' 설전",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211435",
+          "date": "2026-06-07",
+          "source": "AI타임스",
+          "description": "샘 알트먼 오픈AI CEO와 팔머 럭키 안두릴 창립자 등 IT 업계 유명인들이 예능 프로그램에 출연, 마피아 게임을 펼쳤다.피터 틸이 창립한 벤처캐피털 파운더스 펀드는 4일(현지시간) 유튜브와 X를 통해 새로운 마피아 게임 프로그램을 공개했다.여기에는 알트먼과 럭키, 브라이언 존슨 바이오해커 창립자, 딜런 필드 피그마 창립자 등 기술 업계의 유명인과 투자자, 프로 포커 선수, 작가 등 셀럽 12명이 참여했다.33분 분량의 에피소드에서는 온갖 비난이 오가는 흥미진진한 경기가 펼쳐졌다. 특히 럭키는 경기 도중 농담을 자주 했는데, 이",
+          "image": "https://cdn.aitimes.com/news/photo/202606/211435_214386_3225.jpg",
+          "is_english": false,
+          "original_title": "알트먼·럭키, 실리콘 밸리 거물들 유튜브 예능서 '마피아 게임' 설전",
+          "original_summary": "샘 알트먼 오픈AI CEO와 팔머 럭키 안두릴 창립자 등 IT 업계 유명인들이 예능 프로그램에 출연, 마피아 게임을 펼쳤다.피터 틸이 창립한 벤처캐피털 파운더스 펀드는 4일(현지시간) 유튜브와 X를 통해 새로운 마피아 게임 프로그램을 공개했다.여기에는 알트먼과 럭키, 브라이언 존슨 바이오해커 창립자, 딜런 필드 피그마 창립자 등 기술 업계의 유명인과 투자자, 프로 포커 선수, 작가 등 셀럽 12명이 참여했다.33분 분량의 에피소드에서는 온갖 비난이 오가는 흥미진진한 경기가 펼쳐졌다. 특히 럭키는 경기 도중 농담을 자주 했는데, 이",
+          "summary": "샘 알트먼 오픈AI CEO와 팔머 럭키 안두릴 창립자 등 IT 업계 유명인들이 예능 프로그램에 출연, 마피아 게임을 펼쳤다.피터 틸이 창립한 벤처캐피털 파운더스 펀드는 4일(현지시간) 유튜브와 X를 통해 새로운 마피아 게임 프로그램을 공개했다.여기에는 알트먼과 럭키, 브라이언 존슨 바이오해커 창립자, 딜런 필드 피그마 창립자 등 기술 업계의 유명인과 투자자, 프로 포커 선수, 작가 등 셀럽 12명이 참여했다.33분 분량의 에피소드에서는 온갖 비난이 오가는 흥미진진한 경기가 펼쳐졌다. 특히 럭키는 경기 도중 농담을 자주 했는데, 이"
+        },
         {
           "title": "월드컵, 축구공 속 ‘센서’와 ‘AI’가 판정 바꾼다… '반자동 오프사이드' 도입",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=211433",
@@ -274,19 +286,6 @@
           "category": "AI Model"
         },
         {
-          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-06-07",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "sapientinc/HRM-Text-1B",
           "link": "https://huggingface.co/sapientinc/HRM-Text-1B",
           "date": "2026-06-07",
@@ -296,6 +295,19 @@
           "is_english": true,
           "summary": "• HRM-Text-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "sapientinc/HRM-Text-1B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "date": "2026-06-07",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -365,19 +377,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/Cosmos3-Nano",
-          "link": "https://huggingface.co/nvidia/Cosmos3-Nano",
-          "date": "2026-06-07",
-          "source": "HuggingFace",
-          "description": "• Cosmos3-Nano 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Cosmos3-Nano 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/Cosmos3-Nano",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "bosonai/higgs-audio-v3-tts-4b",
           "link": "https://huggingface.co/bosonai/higgs-audio-v3-tts-4b",
           "date": "2026-06-07",
@@ -387,6 +386,19 @@
           "is_english": true,
           "summary": "• higgs-audio-v3-tts-4b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "bosonai/higgs-audio-v3-tts-4b",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/Cosmos3-Nano",
+          "link": "https://huggingface.co/nvidia/Cosmos3-Nano",
+          "date": "2026-06-07",
+          "source": "HuggingFace",
+          "description": "• Cosmos3-Nano 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Cosmos3-Nano 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/Cosmos3-Nano",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -404,19 +416,6 @@
           "category": "AI Model"
         },
         {
-          "title": "deepseek-ai/DeepSeek-V4-Pro",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
-          "date": "2026-06-07",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
-          "is_english": true,
-          "summary": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepseek-ai/DeepSeek-V4-Pro",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nvidia/Cosmos3-Super",
           "link": "https://huggingface.co/nvidia/Cosmos3-Super",
           "date": "2026-06-07",
@@ -426,6 +425,19 @@
           "is_english": true,
           "summary": "• Cosmos3-Super 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nvidia/Cosmos3-Super",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Pro",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+          "date": "2026-06-07",
+          "source": "HuggingFace",
+          "description": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
+          "is_english": true,
+          "summary": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepseek-ai/DeepSeek-V4-Pro",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -456,15 +468,15 @@
           "category": "AI Model"
         },
         {
-          "title": "openbmb/MiniCPM5-1B",
-          "link": "https://huggingface.co/openbmb/MiniCPM5-1B",
+          "title": "MisoLabs/MisoTTS",
+          "link": "https://huggingface.co/MisoLabs/MisoTTS",
           "date": "2026-06-07",
           "source": "HuggingFace",
-          "description": "• MiniCPM5-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/OpenBMB/MiniCPM/main/assets/minicpm5/public_leaderboard_radar_en.png",
+          "description": "• MisoTTS 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/MisoLabs/MisoTTS/resolve/main/repo_banner.png",
           "is_english": true,
-          "summary": "• MiniCPM5-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "openbmb/MiniCPM5-1B",
+          "summary": "• MisoTTS 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "MisoLabs/MisoTTS",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
