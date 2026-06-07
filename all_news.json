@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-06-08",
-      "update_time": "2026-06-07 16:06:45",
+      "update_time": "2026-06-07 19:05:51",
       "news": [
         {
           "title": "nvidia/LocateAnything-3B",
@@ -148,19 +148,6 @@
           "category": "AI Model"
         },
         {
-          "title": "stepfun-ai/Step-3.7-Flash",
-          "link": "https://huggingface.co/stepfun-ai/Step-3.7-Flash",
-          "date": "2026-06-08",
-          "source": "HuggingFace",
-          "description": "• Step-3.7-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Step-3.7-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "stepfun-ai/Step-3.7-Flash",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "bosonai/higgs-audio-v3-tts-4b",
           "link": "https://huggingface.co/bosonai/higgs-audio-v3-tts-4b",
           "date": "2026-06-08",
@@ -183,6 +170,19 @@
           "is_english": true,
           "summary": "• Cosmos3-Nano 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nvidia/Cosmos3-Nano",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "stepfun-ai/Step-3.7-Flash",
+          "link": "https://huggingface.co/stepfun-ai/Step-3.7-Flash",
+          "date": "2026-06-08",
+          "source": "HuggingFace",
+          "description": "• Step-3.7-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Step-3.7-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "stepfun-ai/Step-3.7-Flash",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -213,6 +213,19 @@
           "category": "AI Model"
         },
         {
+          "title": "deepseek-ai/DeepSeek-V4-Pro",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+          "date": "2026-06-08",
+          "source": "HuggingFace",
+          "description": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
+          "is_english": true,
+          "summary": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepseek-ai/DeepSeek-V4-Pro",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16",
           "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-BF16",
           "date": "2026-06-08",
@@ -239,19 +252,6 @@
           "category": "AI Model"
         },
         {
-          "title": "deepseek-ai/DeepSeek-V4-Pro",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
-          "date": "2026-06-08",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
-          "is_english": true,
-          "summary": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepseek-ai/DeepSeek-V4-Pro",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "MisoLabs/MisoTTS",
           "link": "https://huggingface.co/MisoLabs/MisoTTS",
           "date": "2026-06-08",
@@ -268,8 +268,32 @@
     },
     {
       "date": "2026-06-07",
-      "update_time": "2026-06-07 16:06:45",
+      "update_time": "2026-06-07 19:05:51",
       "news": [
+        {
+          "title": "Notion restores access to Anthropic after service disruption",
+          "link": "https://techcrunch.com/2026/06/07/notion-restores-access-to-anthropic-after-service-disruption/",
+          "date": "2026-06-07",
+          "source": "TechCrunch",
+          "description": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
+          "image": "https://techcrunch.com/wp-content/uploads/2021/02/notion-glitch-hero.jpg?resize=1200,827",
+          "is_english": true,
+          "original_title": "Notion restores access to Anthropic after service disruption",
+          "original_summary": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\"",
+          "summary": "Notion's head of product said he was \"astonished\" at “the amount of people RT-ing this.\""
+        },
+        {
+          "title": "OpenAI is still working on that ‘super app’",
+          "link": "https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/",
+          "date": "2026-06-07",
+          "source": "TechCrunch",
+          "description": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195918462.jpg?w=1024",
+          "is_english": true,
+          "original_title": "OpenAI is still working on that ‘super app’",
+          "original_summary": "\"Chat is dead\" — at least, according to a senior OpenAI employee.",
+          "summary": "\"Chat is dead\" — at least, according to a senior OpenAI employee."
+        },
         {
           "title": "\"깐부 어게인\"...젠슨 황, 유퀴즈·야구장 시구 넘나든 종횡무진 행보",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=211434",
@@ -6938,7 +6962,7 @@
         {
           "title": "nvidia/LocateAnything-3B",
           "link": "https://huggingface.co/nvidia/LocateAnything-3B",
-          "date": "2026-05-30",
+          "date": "2026-06-08",
           "source": "HuggingFace",
           "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
@@ -6964,7 +6988,7 @@
         {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-05-30",
+          "date": "2026-06-08",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -6990,7 +7014,7 @@
         {
           "title": "LiquidAI/LFM2.5-8B-A1B",
           "link": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
-          "date": "2026-05-30",
+          "date": "2026-06-08",
           "source": "HuggingFace",
           "description": "• LFM2.5-8B-A1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/qUZVGkns1bg3sZUShBbhv.png",
@@ -7003,7 +7027,7 @@
         {
           "title": "deepseek-ai/DeepSeek-V4-Pro",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
-          "date": "2026-05-30",
+          "date": "2026-06-08",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
@@ -7042,7 +7066,7 @@
         {
           "title": "sapientinc/HRM-Text-1B",
           "link": "https://huggingface.co/sapientinc/HRM-Text-1B",
-          "date": "2026-05-30",
+          "date": "2026-06-08",
           "source": "HuggingFace",
           "description": "• HRM-Text-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/sapientinc/HRM-Text-1B/resolve/main/banner.jpg",
