@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-06-07",
-      "update_time": "2026-06-06 21:55:58",
+      "update_time": "2026-06-07 02:33:43",
       "news": [
         {
           "title": "초유의 투표용지 부족사태…수요예측에 AI는 없었다",
@@ -94,19 +94,6 @@
           "category": "AI Model"
         },
         {
-          "title": "sapientinc/HRM-Text-1B",
-          "link": "https://huggingface.co/sapientinc/HRM-Text-1B",
-          "date": "2026-06-07",
-          "source": "HuggingFace",
-          "description": "• HRM-Text-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/sapientinc/HRM-Text-1B/resolve/main/banner.jpg",
-          "is_english": true,
-          "summary": "• HRM-Text-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "sapientinc/HRM-Text-1B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "ideogram-ai/ideogram-4-fp8",
           "link": "https://huggingface.co/ideogram-ai/ideogram-4-fp8",
           "date": "2026-06-07",
@@ -116,6 +103,19 @@
           "is_english": true,
           "summary": "• ideogram-4-fp8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "ideogram-ai/ideogram-4-fp8",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "sapientinc/HRM-Text-1B",
+          "link": "https://huggingface.co/sapientinc/HRM-Text-1B",
+          "date": "2026-06-07",
+          "source": "HuggingFace",
+          "description": "• HRM-Text-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/sapientinc/HRM-Text-1B/resolve/main/banner.jpg",
+          "is_english": true,
+          "summary": "• HRM-Text-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "sapientinc/HRM-Text-1B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -146,19 +146,6 @@
           "category": "AI Model"
         },
         {
-          "title": "stepfun-ai/Step-3.7-Flash",
-          "link": "https://huggingface.co/stepfun-ai/Step-3.7-Flash",
-          "date": "2026-06-07",
-          "source": "HuggingFace",
-          "description": "• Step-3.7-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Step-3.7-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "stepfun-ai/Step-3.7-Flash",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "ideogram-ai/ideogram-4-nf4",
           "link": "https://huggingface.co/ideogram-ai/ideogram-4-nf4",
           "date": "2026-06-07",
@@ -168,6 +155,19 @@
           "is_english": true,
           "summary": "• ideogram-4-nf4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "ideogram-ai/ideogram-4-nf4",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "stepfun-ai/Step-3.7-Flash",
+          "link": "https://huggingface.co/stepfun-ai/Step-3.7-Flash",
+          "date": "2026-06-07",
+          "source": "HuggingFace",
+          "description": "• Step-3.7-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Step-3.7-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "stepfun-ai/Step-3.7-Flash",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -198,19 +198,6 @@
           "category": "AI Model"
         },
         {
-          "title": "openbmb/MiniCPM5-1B",
-          "link": "https://huggingface.co/openbmb/MiniCPM5-1B",
-          "date": "2026-06-07",
-          "source": "HuggingFace",
-          "description": "• MiniCPM5-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/OpenBMB/MiniCPM/main/assets/minicpm5/public_leaderboard_radar_en.png",
-          "is_english": true,
-          "summary": "• MiniCPM5-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "openbmb/MiniCPM5-1B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "deepseek-ai/DeepSeek-V4-Pro",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
           "date": "2026-06-07",
@@ -220,6 +207,19 @@
           "is_english": true,
           "summary": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "deepseek-ai/DeepSeek-V4-Pro",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "openbmb/MiniCPM5-1B",
+          "link": "https://huggingface.co/openbmb/MiniCPM5-1B",
+          "date": "2026-06-07",
+          "source": "HuggingFace",
+          "description": "• MiniCPM5-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://raw.githubusercontent.com/OpenBMB/MiniCPM/main/assets/minicpm5/public_leaderboard_radar_en.png",
+          "is_english": true,
+          "summary": "• MiniCPM5-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "openbmb/MiniCPM5-1B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -237,19 +237,6 @@
           "category": "AI Model"
         },
         {
-          "title": "ByteDance/Bernini-R",
-          "link": "https://huggingface.co/ByteDance/Bernini-R",
-          "date": "2026-06-07",
-          "source": "HuggingFace",
-          "description": "• Bernini-R 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/arXiv-2605.22344-b31b1b.svg",
-          "is_english": true,
-          "summary": "• Bernini-R 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ByteDance/Bernini-R",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nvidia/Cosmos3-Super",
           "link": "https://huggingface.co/nvidia/Cosmos3-Super",
           "date": "2026-06-07",
@@ -263,15 +250,15 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/Qwen3.6-35B-A3B-NVFP4",
-          "link": "https://huggingface.co/nvidia/Qwen3.6-35B-A3B-NVFP4",
+          "title": "ByteDance/Bernini-R",
+          "link": "https://huggingface.co/ByteDance/Bernini-R",
           "date": "2026-06-07",
           "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "description": "• Bernini-R 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/arXiv-2605.22344-b31b1b.svg",
           "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/Qwen3.6-35B-A3B-NVFP4",
+          "summary": "• Bernini-R 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "ByteDance/Bernini-R",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -285,6 +272,19 @@
           "is_english": true,
           "summary": "• PaddleOCR-VL-1.6 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "PaddlePaddle/PaddleOCR-VL-1.6",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/Qwen3.6-35B-A3B-NVFP4",
+          "link": "https://huggingface.co/nvidia/Qwen3.6-35B-A3B-NVFP4",
+          "date": "2026-06-07",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-35B-A3B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.6-35B-A3B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/Qwen3.6-35B-A3B-NVFP4",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
