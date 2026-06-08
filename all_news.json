@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-06-09",
-      "update_time": "2026-06-08 17:43:20",
+      "update_time": "2026-06-08 20:00:59",
       "news": [
         {
           "title": "nvidia/LocateAnything-3B",
@@ -226,19 +226,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/Cosmos3-Nano",
-          "link": "https://huggingface.co/nvidia/Cosmos3-Nano",
-          "date": "2026-06-09",
-          "source": "HuggingFace",
-          "description": "• Cosmos3-Nano 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Cosmos3-Nano 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/Cosmos3-Nano",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-NVFP4",
           "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3-Ultra-550B-A55B-NVFP4",
           "date": "2026-06-09",
@@ -263,13 +250,122 @@
           "translated_title": "unsloth/gemma-4-12B-it-qat-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Pro",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+          "date": "2026-06-09",
+          "source": "HuggingFace",
+          "description": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
+          "is_english": true,
+          "summary": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepseek-ai/DeepSeek-V4-Pro",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-06-08",
-      "update_time": "2026-06-08 17:43:18",
+      "update_time": "2026-06-08 20:00:59",
       "news": [
+        {
+          "title": "Introducing the OpenAI Economic Research Exchange",
+          "link": "https://openai.com/index/economic-research-exchange",
+          "date": "2026-06-08",
+          "source": "OpenAI",
+          "description": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Introducing the OpenAI Economic Research Exchange",
+          "original_summary": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects.",
+          "summary": "OpenAI launches the Economic Research Exchange to study AI’s impact on jobs, productivity, and the economy. Applications are now open for selected research projects."
+        },
+        {
+          "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
+          "link": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
+          "date": "2026-06-08",
+          "source": "TechCrunch",
+          "description": "Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-2.02.26-PM.png?resize=1200,663",
+          "is_english": true,
+          "original_title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
+          "original_summary": "Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps.",
+          "summary": "Apple is adding new AI-powered features to Safari, Shortcuts, and Password apps."
+        },
+        {
+          "title": "Apple will let you build workflows using AI in its new Shortcuts app",
+          "link": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
+          "date": "2026-06-08",
+          "source": "TechCrunch",
+          "description": "Shortcuts gets an AI upgrade, letting you describe the workflow you want in a prompt.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/shortcuts-at-2.26.16-PM.jpg?resize=1200,666",
+          "is_english": true,
+          "original_title": "Apple will let you build workflows using AI in its new Shortcuts app",
+          "original_summary": "Shortcuts gets an AI upgrade, letting you describe the workflow you want in a prompt.",
+          "summary": "Shortcuts gets an AI upgrade, letting you describe the workflow you want in a prompt."
+        },
+        {
+          "title": "Apple’s Image Playground doesn’t suck anymore",
+          "link": "https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/",
+          "date": "2026-06-08",
+          "source": "TechCrunch",
+          "description": "Apple's AI image generator is getting a makeover that could make it more competitive.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-2.01.54-PM.png?resize=1200,670",
+          "is_english": true,
+          "original_title": "Apple’s Image Playground doesn’t suck anymore",
+          "original_summary": "Apple's AI image generator is getting a makeover that could make it more competitive.",
+          "summary": "Apple's AI image generator is getting a makeover that could make it more competitive."
+        },
+        {
+          "title": "Apple’s Photos app is getting new AI editing features",
+          "link": "https://techcrunch.com/2026/06/08/apples-photos-app-is-getting-new-ai-editing-features/",
+          "date": "2026-06-08",
+          "source": "TechCrunch",
+          "description": "A new spatial \"Reframe\" feature will let users use AI to adjust perspectives. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-2.07.32-PM.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "Apple’s Photos app is getting new AI editing features",
+          "original_summary": "A new spatial \"Reframe\" feature will let users use AI to adjust perspectives. ",
+          "summary": "A new spatial \"Reframe\" feature will let users use AI to adjust perspectives. "
+        },
+        {
+          "title": "Apple gives Siri its own dedicated app",
+          "link": "https://techcrunch.com/2026/06/08/apple-gives-siri-its-own-dedicated-app/",
+          "date": "2026-06-08",
+          "source": "TechCrunch",
+          "description": "Siri is finally getting its own app. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/apple-siri-wwdc-2026.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "Apple gives Siri its own dedicated app",
+          "original_summary": "Siri is finally getting its own app. ",
+          "summary": "Siri is finally getting its own app. "
+        },
+        {
+          "title": "Apple is fixing the headache of splitting the bill with its new Siri in Camera feature",
+          "link": "https://techcrunch.com/2026/06/08/apple-is-fixing-the-headache-of-splitting-the-bill-with-its-new-siri-in-camera-feature/",
+          "date": "2026-06-08",
+          "source": "TechCrunch",
+          "description": "\"If you're grabbing a bite with friends and point your iPhone at the bill, then [you can] select what you ordered to split the tab with Apple Cash,\" said Apple VP of Software Sebastien Marineau-Mes.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-1.49.10-PM-1.png?resize=1200,666",
+          "is_english": true,
+          "original_title": "Apple is fixing the headache of splitting the bill with its new Siri in Camera feature",
+          "original_summary": "\"If you're grabbing a bite with friends and point your iPhone at the bill, then [you can] select what you ordered to split the tab with Apple Cash,\" said Apple VP of Software Sebastien Marineau-Mes.",
+          "summary": "\"If you're grabbing a bite with friends and point your iPhone at the bill, then [you can] select what you ordered to split the tab with Apple Cash,\" said Apple VP of Software Sebastien Marineau-Mes."
+        },
+        {
+          "title": "Apple’s long-awaited AI Siri overhaul is finally here",
+          "link": "https://techcrunch.com/2026/06/08/apples-long-awaited-ai-siri-overhaul-is-finally-here/",
+          "date": "2026-06-08",
+          "source": "TechCrunch",
+          "description": "The idea behind the new \"Siri AI\" is to turn the assistant from a voice controlled assistant into an AI companion that can do a lot more.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/10/apple-siri-header.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Apple’s long-awaited AI Siri overhaul is finally here",
+          "original_summary": "The idea behind the new \"Siri AI\" is to turn the assistant from a voice controlled assistant into an AI companion that can do a lot more.",
+          "summary": "The idea behind the new \"Siri AI\" is to turn the assistant from a voice controlled assistant into an AI companion that can do a lot more."
+        },
         {
           "title": "젠슨 황, 방한 마지막 일정서 국내 AI 기업 독려...\"GPU 우선 공급”",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=211497",
@@ -7118,7 +7214,7 @@
         {
           "title": "nvidia/LocateAnything-3B",
           "link": "https://huggingface.co/nvidia/LocateAnything-3B",
-          "date": "2026-05-31",
+          "date": "2026-06-09",
           "source": "HuggingFace",
           "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
@@ -7131,7 +7227,7 @@
         {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-05-31",
+          "date": "2026-06-09",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -7157,7 +7253,7 @@
         {
           "title": "LiquidAI/LFM2.5-8B-A1B",
           "link": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
-          "date": "2026-05-31",
+          "date": "2026-06-09",
           "source": "HuggingFace",
           "description": "• LFM2.5-8B-A1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/qUZVGkns1bg3sZUShBbhv.png",
@@ -7196,7 +7292,7 @@
         {
           "title": "deepseek-ai/DeepSeek-V4-Pro",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
-          "date": "2026-05-31",
+          "date": "2026-06-09",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
@@ -7222,7 +7318,7 @@
         {
           "title": "sapientinc/HRM-Text-1B",
           "link": "https://huggingface.co/sapientinc/HRM-Text-1B",
-          "date": "2026-05-31",
+          "date": "2026-06-09",
           "source": "HuggingFace",
           "description": "• HRM-Text-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/sapientinc/HRM-Text-1B/resolve/main/banner.jpg",
@@ -7235,7 +7331,7 @@
         {
           "title": "stepfun-ai/Step-3.7-Flash",
           "link": "https://huggingface.co/stepfun-ai/Step-3.7-Flash",
-          "date": "2026-05-31",
+          "date": "2026-06-09",
           "source": "HuggingFace",
           "description": "• Step-3.7-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
