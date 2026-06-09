@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-06-10",
-      "update_time": "2026-06-09 17:18:21",
+      "update_time": "2026-06-09 19:56:48",
       "news": [
+        {
+          "title": "Waymo Pays $220M for Apple’s Abandoned Self-Driving Car Test Ground",
+          "link": "https://aibusiness.com/generative-ai/waymo-pays-220m-apple-s-abandoned-self-driving-car-test-ground",
+          "date": "2026-06-10",
+          "source": "AI Business",
+          "description": "The self-driving tech company and Apple were rivals before the consumer tech giant got out of the business.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltfea5863c45e34dc9/6a28502d3c3efcdea8fa4c58/Waymo3.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Waymo Pays $220M for Apple’s Abandoned Self-Driving Car Test Ground",
+          "original_summary": "The self-driving tech company and Apple were rivals before the consumer tech giant got out of the business.",
+          "summary": "The self-driving tech company and Apple were rivals before the consumer tech giant got out of the business."
+        },
         {
           "title": "OpenAI’s IPO: Navigating Profitability and Market Dynamics",
           "link": "https://aibusiness.com/generative-ai/openai-s-ipo-navigating-profitability-market-dynamics",
@@ -173,19 +185,6 @@
           "category": "AI Model"
         },
         {
-          "title": "JetBrains/Mellum2-12B-A2.5B-Thinking",
-          "link": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking",
-          "date": "2026-06-10",
-          "source": "HuggingFace",
-          "description": "• Mellum2-12B-A2.5B-Thinking 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking/resolve/main/mellum-logo-dark.svg",
-          "is_english": true,
-          "summary": "• Mellum2-12B-A2.5B-Thinking 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "JetBrains/Mellum2-12B-A2.5B-Thinking",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/gemma-4-12B-it-qat-GGUF",
           "link": "https://huggingface.co/unsloth/gemma-4-12B-it-qat-GGUF",
           "date": "2026-06-10",
@@ -221,6 +220,19 @@
           "is_english": true,
           "summary": "• Nex-N2-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nex-agi/Nex-N2-Pro",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "JetBrains/Mellum2-12B-A2.5B-Thinking",
+          "link": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking",
+          "date": "2026-06-10",
+          "source": "HuggingFace",
+          "description": "• Mellum2-12B-A2.5B-Thinking 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/JetBrains/Mellum2-12B-A2.5B-Thinking/resolve/main/mellum-logo-dark.svg",
+          "is_english": true,
+          "summary": "• Mellum2-12B-A2.5B-Thinking 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "JetBrains/Mellum2-12B-A2.5B-Thinking",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -264,15 +276,15 @@
           "category": "AI Model"
         },
         {
-          "title": "deepseek-ai/DeepSeek-V4-Pro",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
+          "title": "LiquidAI/LFM2.5-8B-A1B",
+          "link": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
           "date": "2026-06-10",
           "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
+          "description": "• LFM2.5-8B-A1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/qUZVGkns1bg3sZUShBbhv.png",
           "is_english": true,
-          "summary": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepseek-ai/DeepSeek-V4-Pro",
+          "summary": "• LFM2.5-8B-A1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "LiquidAI/LFM2.5-8B-A1B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -280,8 +292,32 @@
     },
     {
       "date": "2026-06-09",
-      "update_time": "2026-06-09 17:18:21",
+      "update_time": "2026-06-09 19:56:48",
       "news": [
+        {
+          "title": "Can tech companies learn to love cheaper AI models?",
+          "link": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+          "date": "2026-06-09",
+          "source": "TechCrunch",
+          "description": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1297856112.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "Can tech companies learn to love cheaper AI models?",
+          "original_summary": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI.",
+          "summary": "If those same AI workloads can be handled by cheaper models without affecting quality, it would mean a massive shift in the economics of AI."
+        },
+        {
+          "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+          "link": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+          "date": "2026-06-09",
+          "source": "TechCrunch",
+          "description": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/apple-siri-ai-use-cases.png?w=1186",
+          "is_english": true,
+          "original_title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+          "original_summary": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI. ",
+          "summary": "Apple primarily made the case for an improved experience with its long-standing Siri assistant, which like most other announcements had a hefty helping of AI. "
+        },
         {
           "title": "Anthropic’s Claude Fable is a version of Mythos the public can access today",
           "link": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
@@ -7633,7 +7669,7 @@
         {
           "title": "nvidia/LocateAnything-3B",
           "link": "https://huggingface.co/nvidia/LocateAnything-3B",
-          "date": "2026-06-01",
+          "date": "2026-06-10",
           "source": "HuggingFace",
           "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
@@ -7659,7 +7695,7 @@
         {
           "title": "LiquidAI/LFM2.5-8B-A1B",
           "link": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
-          "date": "2026-06-01",
+          "date": "2026-06-10",
           "source": "HuggingFace",
           "description": "• LFM2.5-8B-A1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/qUZVGkns1bg3sZUShBbhv.png",
@@ -7672,7 +7708,7 @@
         {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-06-01",
+          "date": "2026-06-10",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -7737,7 +7773,7 @@
         {
           "title": "stepfun-ai/Step-3.7-Flash",
           "link": "https://huggingface.co/stepfun-ai/Step-3.7-Flash",
-          "date": "2026-06-01",
+          "date": "2026-06-10",
           "source": "HuggingFace",
           "description": "• Step-3.7-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -7750,7 +7786,7 @@
         {
           "title": "sapientinc/HRM-Text-1B",
           "link": "https://huggingface.co/sapientinc/HRM-Text-1B",
-          "date": "2026-06-01",
+          "date": "2026-06-10",
           "source": "HuggingFace",
           "description": "• HRM-Text-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/sapientinc/HRM-Text-1B/resolve/main/banner.jpg",
