@@ -2,8 +2,56 @@
   "dates": [
     {
       "date": "2026-06-09",
-      "update_time": "2026-06-09 11:53:25",
+      "update_time": "2026-06-09 14:24:35",
       "news": [
+        {
+          "title": "Sandstone raises $30M to bring AI to in-house legal teams",
+          "link": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
+          "date": "2026-06-09",
+          "source": "TechCrunch",
+          "description": "Sandstone's Series A was led by Lightspeed Partners, with participation from Sequoia.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/image-6.png?resize=1200,800",
+          "is_english": true,
+          "original_title": "Sandstone raises $30M to bring AI to in-house legal teams",
+          "original_summary": "Sandstone's Series A was led by Lightspeed Partners, with participation from Sequoia.",
+          "summary": "Sandstone's Series A was led by Lightspeed Partners, with participation from Sequoia."
+        },
+        {
+          "title": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
+          "link": "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/",
+          "date": "2026-06-09",
+          "source": "TechCrunch",
+          "description": "Lovable says it has now surpassed $500 million in annualized run-rate revenue and its users are building businesses and replacing internal software.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2245627953.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
+          "original_summary": "Lovable says it has now surpassed $500 million in annualized run-rate revenue and its users are building businesses and replacing internal software.",
+          "summary": "Lovable says it has now surpassed $500 million in annualized run-rate revenue and its users are building businesses and replacing internal software."
+        },
+        {
+          "title": "How an e-scooter founder raised $5 million to build space data centers",
+          "link": "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/",
+          "date": "2026-06-09",
+          "source": "TechCrunch",
+          "description": "Orbital founder Euwyn Poon built 250,000 scooters at Spin. Now he wants to launch 10,000 space data centers. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/satellite.png?resize=1200,675",
+          "is_english": true,
+          "original_title": "How an e-scooter founder raised $5 million to build space data centers",
+          "original_summary": "Orbital founder Euwyn Poon built 250,000 scooters at Spin. Now he wants to launch 10,000 space data centers. ",
+          "summary": "Orbital founder Euwyn Poon built 250,000 scooters at Spin. Now he wants to launch 10,000 space data centers. "
+        },
+        {
+          "title": "AI Adoption in the UK is Booming, but Transformation is Stalling",
+          "link": "https://aibusiness.com/generative-ai/ai-adoption-the-uk-is-booming-transformation-stalling",
+          "date": "2026-06-09",
+          "source": "AI Business",
+          "description": "What’s holding organizations back from making the most of AI.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt57d51e0ce241e5f5/6a281e9f9e4975a4d7fff0e2/AWS4.jpg?width=1280&auto=webp&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "AI Adoption in the UK is Booming, but Transformation is Stalling",
+          "original_summary": "What’s holding organizations back from making the most of AI.",
+          "summary": "What’s holding organizations back from making the most of AI."
+        },
         {
           "title": "구글, 노트북LM 대규모 업데이트…\"스스로 웹 검색해 지식 구축\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=211511",
@@ -636,19 +684,6 @@
           "category": "AI Model"
         },
         {
-          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-06-09",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
           "link": "https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b",
           "date": "2026-06-09",
@@ -671,6 +706,19 @@
           "is_english": true,
           "summary": "• higgs-audio-v3-tts-4b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "bosonai/higgs-audio-v3-tts-4b",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "date": "2026-06-09",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -714,19 +762,6 @@
           "category": "AI Model"
         },
         {
-          "title": "google/magenta-realtime-2",
-          "link": "https://huggingface.co/google/magenta-realtime-2",
-          "date": "2026-06-09",
-          "source": "HuggingFace",
-          "description": "• magenta-realtime-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• magenta-realtime-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/magenta-realtime-2",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/gemma-4-12B-it-qat-GGUF",
           "link": "https://huggingface.co/unsloth/gemma-4-12B-it-qat-GGUF",
           "date": "2026-06-09",
@@ -740,15 +775,15 @@
           "category": "AI Model"
         },
         {
-          "title": "stepfun-ai/Step-3.7-Flash",
-          "link": "https://huggingface.co/stepfun-ai/Step-3.7-Flash",
+          "title": "google/magenta-realtime-2",
+          "link": "https://huggingface.co/google/magenta-realtime-2",
           "date": "2026-06-09",
           "source": "HuggingFace",
-          "description": "• Step-3.7-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "description": "• magenta-realtime-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
           "is_english": true,
-          "summary": "• Step-3.7-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "stepfun-ai/Step-3.7-Flash",
+          "summary": "• magenta-realtime-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/magenta-realtime-2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -762,6 +797,19 @@
           "is_english": true,
           "summary": "• Nex-N2-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nex-agi/Nex-N2-Pro",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "stepfun-ai/Step-3.7-Flash",
+          "link": "https://huggingface.co/stepfun-ai/Step-3.7-Flash",
+          "date": "2026-06-09",
+          "source": "HuggingFace",
+          "description": "• Step-3.7-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Step-3.7-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "stepfun-ai/Step-3.7-Flash",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
