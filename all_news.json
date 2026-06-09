@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-06-10",
-      "update_time": "2026-06-09 19:56:48",
+      "update_time": "2026-06-09 22:17:40",
       "news": [
+        {
+          "title": "[인터뷰] 이원택 전북지사 당선인 \"새만금에 AI 반도체 클러스터 조성\"",
+          "link": "https://www.yna.co.kr/view/AKR20260609111800055",
+          "date": "2026-06-10",
+          "source": "연합뉴스",
+          "description": "(전주=연합뉴스) 임채두 기자 = 이원택 전북특별자치도지사 당선인은 10일 &quot;&apos;전북에 살아서 자랑스럽다&apos;고 당당히 말할 수 있는 따뜻한 공동체와...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/06/09/AKR20260609111800055_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "[인터뷰] 이원택 전북지사 당선인 \"새만금에 AI 반도체 클러스터 조성\"",
+          "original_summary": "(전주=연합뉴스) 임채두 기자 = 이원택 전북특별자치도지사 당선인은 10일 &quot;&apos;전북에 살아서 자랑스럽다&apos;고 당당히 말할 수 있는 따뜻한 공동체와...",
+          "summary": "(전주=연합뉴스) 임채두 기자 = 이원택 전북특별자치도지사 당선인은 10일 &quot;&apos;전북에 살아서 자랑스럽다&apos;고 당당히 말할 수 있는 따뜻한 공동체와..."
+        },
+        {
+          "title": "앤트로픽, 미소스급 ‘페이블 5’ 출시…“위험시 하위 모델 자동 전환”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211536",
+          "date": "2026-06-10",
+          "source": "AI타임스",
+          "description": "앤트로픽이 예고한 대로 \\'미소스급\\' 모델을 일반에게 공개했다. 미소스를 뛰어넘는 역대 최강 성능을 갖춘 만큼, 위험한 요청이 들어오면 하위 모델로 전환하는 안전장치를 갖춘 것이 특징이다.앤트로픽은 9일(현지시간) \\'클로드 페이블 5(Claude Fable 5)\\'를 정식 출시했다고 발표했다. 페이블 5가 강력한 성능을 갖춘 만큼 오용 위험을 막기 위해 엄격한 분류장치(Classifier)를 도입했다고 강조했다. 사용자의 요청이 사이버보안이나 생물학, 화학, 심지어 모델 \\'증류\\'를 위한 시도라고 판단되면, 오퍼스 4.8로 자동 전환해",
+          "image": "https://cdn.aitimes.com/news/photo/202606/211536_214515_303.jpg",
+          "is_english": false,
+          "original_title": "앤트로픽, 미소스급 ‘페이블 5’ 출시…“위험시 하위 모델 자동 전환”",
+          "original_summary": "앤트로픽이 예고한 대로 \\'미소스급\\' 모델을 일반에게 공개했다. 미소스를 뛰어넘는 역대 최강 성능을 갖춘 만큼, 위험한 요청이 들어오면 하위 모델로 전환하는 안전장치를 갖춘 것이 특징이다.앤트로픽은 9일(현지시간) \\'클로드 페이블 5(Claude Fable 5)\\'를 정식 출시했다고 발표했다. 페이블 5가 강력한 성능을 갖춘 만큼 오용 위험을 막기 위해 엄격한 분류장치(Classifier)를 도입했다고 강조했다. 사용자의 요청이 사이버보안이나 생물학, 화학, 심지어 모델 \\'증류\\'를 위한 시도라고 판단되면, 오퍼스 4.8로 자",
+          "summary": "앤트로픽이 예고한 대로 \\'미소스급\\' 모델을 일반에게 공개했다. 미소스를 뛰어넘는 역대 최강 성능을 갖춘 만큼, 위험한 요청이 들어오면 하위 모델로 전환하는 안전장치를 갖춘 것이 특징이다.앤트로픽은 9일(현지시간) \\'클로드 페이블 5(Claude Fable 5)\\'를 정식 출시했다고 발표했다. 페이블 5가 강력한 성능을 갖춘 만큼 오용 위험을 막기 위해 엄격한 분류장치(Classifier)를 도입했다고 강조했다. 사용자의 요청이 사이버보안이나 생물학, 화학, 심지어 모델 \\'증류\\'를 위한 시도라고 판단되면, 오퍼스 4.8로 자"
+        },
         {
           "title": "Waymo Pays $220M for Apple’s Abandoned Self-Driving Car Test Ground",
           "link": "https://aibusiness.com/generative-ai/waymo-pays-220m-apple-s-abandoned-self-driving-car-test-ground",
@@ -29,19 +53,6 @@
           "summary": "The vendor’s filing comes amid a market in which other top AI vendors are also planning to go public. However, OpenAI faces unique challenges that investors will be watching closely."
         },
         {
-          "title": "nvidia/LocateAnything-3B",
-          "link": "https://huggingface.co/nvidia/LocateAnything-3B",
-          "date": "2026-06-10",
-          "source": "HuggingFace",
-          "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
-          "is_english": true,
-          "summary": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/LocateAnything-3B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "google/gemma-4-12B-it",
           "link": "https://huggingface.co/google/gemma-4-12B-it",
           "date": "2026-06-10",
@@ -51,6 +62,19 @@
           "is_english": true,
           "summary": "• gemma-4-12B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "google/gemma-4-12B-it",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "link": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "date": "2026-06-10",
+          "source": "HuggingFace",
+          "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
+          "is_english": true,
+          "summary": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/LocateAnything-3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -94,19 +118,6 @@
           "category": "AI Model"
         },
         {
-          "title": "sapientinc/HRM-Text-1B",
-          "link": "https://huggingface.co/sapientinc/HRM-Text-1B",
-          "date": "2026-06-10",
-          "source": "HuggingFace",
-          "description": "• HRM-Text-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/sapientinc/HRM-Text-1B/resolve/main/banner.jpg",
-          "is_english": true,
-          "summary": "• HRM-Text-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "sapientinc/HRM-Text-1B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "ideogram-ai/ideogram-4-nf4",
           "link": "https://huggingface.co/ideogram-ai/ideogram-4-nf4",
           "date": "2026-06-10",
@@ -120,19 +131,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
-          "link": "https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b",
-          "date": "2026-06-10",
-          "source": "HuggingFace",
-          "description": "• nemotron-3.5-asr-streaming-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
-          "is_english": true,
-          "summary": "• nemotron-3.5-asr-streaming-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "bosonai/higgs-audio-v3-tts-4b",
           "link": "https://huggingface.co/bosonai/higgs-audio-v3-tts-4b",
           "date": "2026-06-10",
@@ -142,6 +140,32 @@
           "is_english": true,
           "summary": "• higgs-audio-v3-tts-4b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "bosonai/higgs-audio-v3-tts-4b",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "sapientinc/HRM-Text-1B",
+          "link": "https://huggingface.co/sapientinc/HRM-Text-1B",
+          "date": "2026-06-10",
+          "source": "HuggingFace",
+          "description": "• HRM-Text-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/sapientinc/HRM-Text-1B/resolve/main/banner.jpg",
+          "is_english": true,
+          "summary": "• HRM-Text-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "sapientinc/HRM-Text-1B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
+          "link": "https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b",
+          "date": "2026-06-10",
+          "source": "HuggingFace",
+          "description": "• nemotron-3.5-asr-streaming-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• nemotron-3.5-asr-streaming-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -250,6 +274,19 @@
           "category": "AI Model"
         },
         {
+          "title": "CohereLabs/North-Mini-Code-1.0",
+          "link": "https://huggingface.co/CohereLabs/North-Mini-Code-1.0",
+          "date": "2026-06-10",
+          "source": "HuggingFace",
+          "description": "• North-Mini-Code-1.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/62668f725fb8d521d94d8451/xR7kZ3X9RKEZrbgD6hpG1.png",
+          "is_english": true,
+          "summary": "• North-Mini-Code-1.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "CohereLabs/North-Mini-Code-1.0",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "stepfun-ai/Step-3.7-Flash",
           "link": "https://huggingface.co/stepfun-ai/Step-3.7-Flash",
           "date": "2026-06-10",
@@ -259,19 +296,6 @@
           "is_english": true,
           "summary": "• Step-3.7-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "stepfun-ai/Step-3.7-Flash",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "ByteDance/Bernini-R",
-          "link": "https://huggingface.co/ByteDance/Bernini-R",
-          "date": "2026-06-10",
-          "source": "HuggingFace",
-          "description": "• Bernini-R 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/arXiv-2605.22344-b31b1b.svg",
-          "is_english": true,
-          "summary": "• Bernini-R 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ByteDance/Bernini-R",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -292,8 +316,68 @@
     },
     {
       "date": "2026-06-09",
-      "update_time": "2026-06-09 19:56:48",
+      "update_time": "2026-06-09 22:17:39",
       "news": [
+        {
+          "title": "How engineers at Nextdoor use Codex to build without limits",
+          "link": "https://openai.com/index/nextdoor",
+          "date": "2026-06-09",
+          "source": "OpenAI",
+          "description": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
+          "image": null,
+          "is_english": true,
+          "original_title": "How engineers at Nextdoor use Codex to build without limits",
+          "original_summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes.",
+          "summary": "How engineers at Nextdoor use Codex with GPT-5.5 to investigate hard-to-reproduce issues, build across platforms, and focus on product outcomes."
+        },
+        {
+          "title": "Hey Siri, here’s what I actually want from AI",
+          "link": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+          "date": "2026-06-09",
+          "source": "TechCrunch",
+          "description": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-1139080118.jpg?resize=1200,801",
+          "is_english": true,
+          "original_title": "Hey Siri, here’s what I actually want from AI",
+          "original_summary": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?",
+          "summary": "I'm desperate for a personal AI assistant, but do I really want to become the kind of person who can't function without the friendly robot voice in my phone?"
+        },
+        {
+          "title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+          "link": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
+          "date": "2026-06-09",
+          "source": "TechCrunch",
+          "description": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-09-at-11.40.18-AM.png?resize=1200,871",
+          "is_english": true,
+          "original_title": "Anthropic’s Fable 5 can make weirdly fun video games with the click of a button",
+          "original_summary": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders. ",
+          "summary": "Anthropic's Claude Fable 5 is going to be a big hit with the web's vibe coders. "
+        },
+        {
+          "title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
+          "link": "https://techcrunch.com/2026/06/09/anthropics-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today/",
+          "date": "2026-06-09",
+          "source": "TechCrunch",
+          "description": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2279025960.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Anthropic’s Claude Fable 5 is a version of Mythos the public can access today",
+          "original_summary": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology.",
+          "summary": "Anthropic is releasing Claude Fable 5, its first Mythos-class model available to the public. The model comes with guardrails that block responses in high-risk areas like cybersecurity and biology."
+        },
+        {
+          "title": "The consequences of relying on AI for accurate news",
+          "link": "https://news.mit.edu/2026/consequences-of-relying-on-ai-for-accurate-news-0609",
+          "date": "2026-06-09",
+          "source": "MIT News",
+          "description": "Media Lab study shows that, much like how GPS has weakened our navigation skills, AI can make us worse at detecting fake news.",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202606/hartono-creative-studio-ai-buttons_0.jpg?itok=LmuDmZr5",
+          "is_english": true,
+          "original_title": "The consequences of relying on AI for accurate news",
+          "original_summary": "Media Lab study shows that, much like how GPS has weakened our navigation skills, AI can make us worse at detecting fake news.",
+          "summary": "Media Lab study shows that, much like how GPS has weakened our navigation skills, AI can make us worse at detecting fake news."
+        },
         {
           "title": "Can tech companies learn to love cheaper AI models?",
           "link": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
