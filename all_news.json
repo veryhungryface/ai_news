@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-06-11",
-      "update_time": "2026-06-10 17:51:04",
+      "update_time": "2026-06-10 20:10:42",
       "news": [
         {
           "title": "google/gemma-4-12B-it",
@@ -187,19 +187,6 @@
           "category": "AI Model"
         },
         {
-          "title": "MisoLabs/MisoTTS",
-          "link": "https://huggingface.co/MisoLabs/MisoTTS",
-          "date": "2026-06-11",
-          "source": "HuggingFace",
-          "description": "• MisoTTS 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/MisoLabs/MisoTTS/resolve/main/repo_banner.png",
-          "is_english": true,
-          "summary": "• MisoTTS 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "MisoLabs/MisoTTS",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nex-agi/Nex-N2-Pro",
           "link": "https://huggingface.co/nex-agi/Nex-N2-Pro",
           "date": "2026-06-11",
@@ -209,6 +196,19 @@
           "is_english": true,
           "summary": "• Nex-N2-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nex-agi/Nex-N2-Pro",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "MisoLabs/MisoTTS",
+          "link": "https://huggingface.co/MisoLabs/MisoTTS",
+          "date": "2026-06-11",
+          "source": "HuggingFace",
+          "description": "• MisoTTS 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/MisoLabs/MisoTTS/resolve/main/repo_banner.png",
+          "is_english": true,
+          "summary": "• MisoTTS 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "MisoLabs/MisoTTS",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,15 +239,15 @@
           "category": "AI Model"
         },
         {
-          "title": "stepfun-ai/Step-3.7-Flash",
-          "link": "https://huggingface.co/stepfun-ai/Step-3.7-Flash",
+          "title": "google/diffusiongemma-26B-A4B-it",
+          "link": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
           "date": "2026-06-11",
           "source": "HuggingFace",
-          "description": "• Step-3.7-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "description": "• diffusiongemma-26B-A4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
           "is_english": true,
-          "summary": "• Step-3.7-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "stepfun-ai/Step-3.7-Flash",
+          "summary": "• diffusiongemma-26B-A4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/diffusiongemma-26B-A4B-it",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +268,20 @@
     },
     {
       "date": "2026-06-10",
-      "update_time": "2026-06-10 17:51:04",
+      "update_time": "2026-06-10 20:10:40",
       "news": [
+        {
+          "title": "PRC-linked influence operations are targeting AI debates in the US",
+          "link": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+          "date": "2026-06-10",
+          "source": "OpenAI",
+          "description": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims  about ChatGPT.",
+          "image": null,
+          "is_english": true,
+          "original_title": "PRC-linked influence operations are targeting AI debates in the US",
+          "original_summary": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims  about ChatGPT.",
+          "summary": "A new report from OpenAI details PRC-linked influence operations using AI to target U.S. tech debates, data center narratives, tariffs, and false claims  about ChatGPT."
+        },
         {
           "title": "김영훈, ILO 총회서 \"AI의 과실, 원청·협력사·지역이 나눠야\"",
           "link": "https://www.yna.co.kr/view/AKR20260610157500530",
@@ -6972,7 +6984,7 @@
         {
           "title": "sapientinc/HRM-Text-1B",
           "link": "https://huggingface.co/sapientinc/HRM-Text-1B",
-          "date": "2026-06-03",
+          "date": "2026-06-11",
           "source": "HuggingFace",
           "description": "• HRM-Text-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/sapientinc/HRM-Text-1B/resolve/main/banner.jpg",
@@ -7837,7 +7849,7 @@
         {
           "title": "nvidia/LocateAnything-3B",
           "link": "https://huggingface.co/nvidia/LocateAnything-3B",
-          "date": "2026-06-02",
+          "date": "2026-06-11",
           "source": "HuggingFace",
           "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
@@ -7876,7 +7888,7 @@
         {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-06-02",
+          "date": "2026-06-11",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
