@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-06-13",
-      "update_time": "2026-06-12 17:31:33",
+      "update_time": "2026-06-12 19:52:43",
       "news": [
         {
           "title": "OpenAI Acquires Startup to Boost Codex",
@@ -81,19 +81,6 @@
           "category": "AI Model"
         },
         {
-          "title": "bosonai/higgs-audio-v3-tts-4b",
-          "link": "https://huggingface.co/bosonai/higgs-audio-v3-tts-4b",
-          "date": "2026-06-13",
-          "source": "HuggingFace",
-          "description": "• higgs-audio-v3-tts-4b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/bosonai/higgs-audio-v3-tts-4b/resolve/main/./assets/model_architecture.png",
-          "is_english": true,
-          "summary": "• higgs-audio-v3-tts-4b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "bosonai/higgs-audio-v3-tts-4b",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "moonshotai/Kimi-K2.7-Code",
           "link": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
           "date": "2026-06-13",
@@ -103,6 +90,19 @@
           "is_english": true,
           "summary": "• Kimi-K2.7-Code 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "moonshotai/Kimi-K2.7-Code",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "bosonai/higgs-audio-v3-tts-4b",
+          "link": "https://huggingface.co/bosonai/higgs-audio-v3-tts-4b",
+          "date": "2026-06-13",
+          "source": "HuggingFace",
+          "description": "• higgs-audio-v3-tts-4b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/bosonai/higgs-audio-v3-tts-4b/resolve/main/./assets/model_architecture.png",
+          "is_english": true,
+          "summary": "• higgs-audio-v3-tts-4b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "bosonai/higgs-audio-v3-tts-4b",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -120,19 +120,6 @@
           "category": "AI Model"
         },
         {
-          "title": "ideogram-ai/ideogram-4-fp8",
-          "link": "https://huggingface.co/ideogram-ai/ideogram-4-fp8",
-          "date": "2026-06-13",
-          "source": "HuggingFace",
-          "description": "• ideogram-4-fp8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
-          "is_english": true,
-          "summary": "• ideogram-4-fp8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ideogram-ai/ideogram-4-fp8",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
           "link": "https://huggingface.co/OBLITERATUS/Gemma-4-12B-OBLITERATED",
           "date": "2026-06-13",
@@ -146,15 +133,15 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
-          "link": "https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b",
+          "title": "ideogram-ai/ideogram-4-fp8",
+          "link": "https://huggingface.co/ideogram-ai/ideogram-4-fp8",
           "date": "2026-06-13",
           "source": "HuggingFace",
-          "description": "• nemotron-3.5-asr-streaming-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "description": "• ideogram-4-fp8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
           "is_english": true,
-          "summary": "• nemotron-3.5-asr-streaming-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
+          "summary": "• ideogram-4-fp8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "ideogram-ai/ideogram-4-fp8",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -172,6 +159,32 @@
           "category": "AI Model"
         },
         {
+          "title": "MiniMaxAI/MiniMax-M3",
+          "link": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+          "date": "2026-06-13",
+          "source": "HuggingFace",
+          "description": "• MiniMax-M3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/MiniMaxAI/MiniMax-M3/resolve/main/figures/logo.svg",
+          "is_english": true,
+          "summary": "• MiniMax-M3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "MiniMaxAI/MiniMax-M3",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
+          "link": "https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b",
+          "date": "2026-06-13",
+          "source": "HuggingFace",
+          "description": "• nemotron-3.5-asr-streaming-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• nemotron-3.5-asr-streaming-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "unsloth/gemma-4-12b-it-GGUF",
           "link": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
           "date": "2026-06-13",
@@ -181,6 +194,19 @@
           "is_english": true,
           "summary": "• gemma-4-12b-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/gemma-4-12b-it-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nex-agi/Nex-N2-Pro",
+          "link": "https://huggingface.co/nex-agi/Nex-N2-Pro",
+          "date": "2026-06-13",
+          "source": "HuggingFace",
+          "description": "• Nex-N2-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/nex-agi/Nex-N2-Pro/resolve/main/./figures/NEX_logo.svg",
+          "is_english": true,
+          "summary": "• Nex-N2-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nex-agi/Nex-N2-Pro",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -211,32 +237,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nex-agi/Nex-N2-Pro",
-          "link": "https://huggingface.co/nex-agi/Nex-N2-Pro",
-          "date": "2026-06-13",
-          "source": "HuggingFace",
-          "description": "• Nex-N2-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/nex-agi/Nex-N2-Pro/resolve/main/./figures/NEX_logo.svg",
-          "is_english": true,
-          "summary": "• Nex-N2-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nex-agi/Nex-N2-Pro",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "MiniMaxAI/MiniMax-M3",
-          "link": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
-          "date": "2026-06-13",
-          "source": "HuggingFace",
-          "description": "• MiniMax-M3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/MiniMaxAI/MiniMax-M3/resolve/main/figures/logo.svg",
-          "is_english": true,
-          "summary": "• MiniMax-M3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "MiniMaxAI/MiniMax-M3",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nex-agi/Nex-N2-mini",
           "link": "https://huggingface.co/nex-agi/Nex-N2-mini",
           "date": "2026-06-13",
@@ -263,19 +263,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/gemma-4-26B-A4B-it-qat-GGUF",
-          "link": "https://huggingface.co/unsloth/gemma-4-26B-A4B-it-qat-GGUF",
-          "date": "2026-06-13",
-          "source": "HuggingFace",
-          "description": "• gemma-4-26B-A4B-it-qat-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/62ecdc18b72a69615d6bd857/GqK0ebz09JAFyDQUiYGnV.png",
-          "is_english": true,
-          "summary": "• gemma-4-26B-A4B-it-qat-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/gemma-4-26B-A4B-it-qat-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "zai-org/SCAIL-2",
           "link": "https://huggingface.co/zai-org/SCAIL-2",
           "date": "2026-06-13",
@@ -287,13 +274,62 @@
           "translated_title": "zai-org/SCAIL-2",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "unsloth/gemma-4-26B-A4B-it-qat-GGUF",
+          "link": "https://huggingface.co/unsloth/gemma-4-26B-A4B-it-qat-GGUF",
+          "date": "2026-06-13",
+          "source": "HuggingFace",
+          "description": "• gemma-4-26B-A4B-it-qat-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/62ecdc18b72a69615d6bd857/GqK0ebz09JAFyDQUiYGnV.png",
+          "is_english": true,
+          "summary": "• gemma-4-26B-A4B-it-qat-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/gemma-4-26B-A4B-it-qat-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-06-12",
-      "update_time": "2026-06-12 17:31:30",
+      "update_time": "2026-06-12 19:52:43",
       "news": [
+        {
+          "title": "SpaceX IPO: Live updates on everything you need to know",
+          "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
+          "date": "2026-06-12",
+          "source": "TechCrunch",
+          "description": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/elon-nasdaq-spacex-ipo.jpg?resize=1200,801",
+          "is_english": true,
+          "original_title": "SpaceX IPO: Live updates on everything you need to know",
+          "original_summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document. ",
+          "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1 registration document. "
+        },
+        {
+          "title": "Mistral is rumored to be raising €3B at €20B valuation",
+          "link": "https://techcrunch.com/2026/06/12/mistral-is-rumored-to-be-raising-e3b-at-e20-valuation/",
+          "date": "2026-06-12",
+          "source": "TechCrunch",
+          "description": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2264771189.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Mistral is rumored to be raising €3B at €20B valuation",
+          "original_summary": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion. ",
+          "summary": "The funding round would value the company at around €20 billion (about $23.15 billion), nearly double its Series C valuation of €11.7 billion. "
+        },
+        {
+          "title": "Google sues alleged Chinese cybercrime operation that used AI to send scam texts",
+          "link": "https://techcrunch.com/2026/06/12/google-sues-alleged-chinese-cybercrime-operation-that-used-ai-to-send-scam-texts/",
+          "date": "2026-06-12",
+          "source": "TechCrunch",
+          "description": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Google sues alleged Chinese cybercrime operation that used AI to send scam texts",
+          "original_summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
+          "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks."
+        },
         {
           "title": "국립치의학연구원 광주 유치전 본격화…\"인프라·역량 갖춰\"",
           "link": "https://www.yna.co.kr/view/AKR20260612164100054",
@@ -8125,7 +8161,7 @@
         {
           "title": "nvidia/LocateAnything-3B",
           "link": "https://huggingface.co/nvidia/LocateAnything-3B",
-          "date": "2026-06-04",
+          "date": "2026-06-13",
           "source": "HuggingFace",
           "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
@@ -8164,7 +8200,7 @@
         {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-06-04",
+          "date": "2026-06-13",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
