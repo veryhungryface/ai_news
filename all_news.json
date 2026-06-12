@@ -2,8 +2,188 @@
   "dates": [
     {
       "date": "2026-06-12",
-      "update_time": "2026-06-12 07:14:24",
+      "update_time": "2026-06-12 12:11:48",
       "news": [
+        {
+          "title": "KAIST \"농지 아닌 농업인력 부족이 미래 식량 부족 원인일 수도\"",
+          "link": "https://www.yna.co.kr/view/AKR20260612142100063",
+          "date": "2026-06-12",
+          "source": "연합뉴스",
+          "description": "(대전＝연합뉴스) 김준호 기자 = 미래 식량 부족의 원인은 농지 부족이 아니라 농업 인력 부족일 수 있다는 연구 결과가 나왔다.",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/06/12/AKR20260612142100063_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "KAIST \"농지 아닌 농업인력 부족이 미래 식량 부족 원인일 수도\"",
+          "original_summary": "(대전＝연합뉴스) 김준호 기자 = 미래 식량 부족의 원인은 농지 부족이 아니라 농업 인력 부족일 수 있다는 연구 결과가 나왔다.",
+          "summary": "(대전＝연합뉴스) 김준호 기자 = 미래 식량 부족의 원인은 농지 부족이 아니라 농업 인력 부족일 수 있다는 연구 결과가 나왔다."
+        },
+        {
+          "title": "MS, AI 에이전트 '스킬' 자동 수정 기술 공개...\"성능 23.5% 향상\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211674",
+          "date": "2026-06-12",
+          "source": "AI타임스",
+          "description": "마이크로소프트(MS)가 AI 에이전트의 업무 수행 능력을 자동으로 개선하는 오픈소스 프레임워크를 공개했다. MS는 최근 \\'클로드 코드\\'와 \\'코덱스\\', \\'코파일럿\\' 등 다양한 AI 에이전트 환경에서 사용되는 스킬(skill) 문서를 스스로 최적화해 성능을 높이는 ‘스킬옵트(SkillOpt)’를 온라인 아카이브를 통해 공개했다.이를 통해 별도의 모델 재학습 없이 정확도와 업무 처리 능력을 크게 향상할 수 있다는 점에서 주목받고 있다.AI 에이전트의 스킬은 특정 업무 절차, 도구 사용 규칙, 출력 형식, 실패 사례 대응 방법 등을 담은",
+          "image": "https://cdn.aitimes.com/news/photo/202606/211674_214705_23.jpg",
+          "is_english": true,
+          "original_title": "MS, AI 에이전트 '스킬' 자동 수정 기술 공개...\"성능 23.5% 향상\"",
+          "original_summary": "마이크로소프트(MS)가 AI 에이전트의 업무 수행 능력을 자동으로 개선하는 오픈소스 프레임워크를 공개했다. MS는 최근 \\'클로드 코드\\'와 \\'코덱스\\', \\'코파일럿\\' 등 다양한 AI 에이전트 환경에서 사용되는 스킬(skill) 문서를 스스로 최적화해 성능을 높이는 ‘스킬옵트(SkillOpt)’를 온라인 아카이브를 통해 공개했다.이를 통해 별도의 모델 재학습 없이 정확도와 업무 처리 능력을 크게 향상할 수 있다는 점에서 주목받고 있다.AI 에이전트의 스킬은 특정 업무 절차, 도구 사용 규칙, 출력 형식, 실패 사례 대응 방법 ",
+          "summary": "마이크로소프트(MS)가 AI 에이전트의 업무 수행 능력을 자동으로 개선하는 오픈소스 프레임워크를 공개했다. MS는 최근 \\'클로드 코드\\'와 \\'코덱스\\', \\'코파일럿\\' 등 다양한 AI 에이전트 환경에서 사용되는 스킬(skill) 문서를 스스로 최적화해 성능을 높이는 ‘스킬옵트(SkillOpt)’를 온라인 아카이브를 통해 공개했다.이를 통해 별도의 모델 재학습 없이 정확도와 업무 처리 능력을 크게 향상할 수 있다는 점에서 주목받고 있다.AI 에이전트의 스킬은 특정 업무 절차, 도구 사용 규칙, 출력 형식, 실패 사례 대응 방법 "
+        },
+        {
+          "title": "퍼플렉시티, '딥 리서치'를 '컴퓨터' 플랫폼에  통합...\"성능 2배 향상\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211670",
+          "date": "2026-06-12",
+          "source": "AI타임스",
+          "description": "퍼플렉시티가 \\'딥 리서치(Deep Research)\\'를 자체 멀티모델 플랫폼 \\'컴퓨터(Computer)\\'에 통합하는 등 대규모 업그레이드를 단행했다. 퍼플렉시티는 11일(현지시간) 업그레이드된 딥 리서치 기능이 20개가 넘는 최신 AI 모델을 하나의 워크플로우로 연결해 운영된다고 밝혔다.이 시스템은 사용자의 복잡한 질의를 여러 세부 과제로 나눈 뒤 적합한 모델에 각각 배정해 조사·분석을 수행하고, 수백개 웹사이트의 원문 자료를 교차 검증해 출처가 명시된 심층 보고서를 자동으로 작성한다. 이번 기능은 지난 2월 공개된 퍼플렉시티 컴퓨",
+          "image": "https://cdn.aitimes.com/news/photo/202606/211670_214697_2528.jpg",
+          "is_english": false,
+          "original_title": "퍼플렉시티, '딥 리서치'를 '컴퓨터' 플랫폼에  통합...\"성능 2배 향상\"",
+          "original_summary": "퍼플렉시티가 \\'딥 리서치(Deep Research)\\'를 자체 멀티모델 플랫폼 \\'컴퓨터(Computer)\\'에 통합하는 등 대규모 업그레이드를 단행했다. 퍼플렉시티는 11일(현지시간) 업그레이드된 딥 리서치 기능이 20개가 넘는 최신 AI 모델을 하나의 워크플로우로 연결해 운영된다고 밝혔다.이 시스템은 사용자의 복잡한 질의를 여러 세부 과제로 나눈 뒤 적합한 모델에 각각 배정해 조사·분석을 수행하고, 수백개 웹사이트의 원문 자료를 교차 검증해 출처가 명시된 심층 보고서를 자동으로 작성한다. 이번 기능은 지난 2월 공개된 퍼플렉시",
+          "summary": "퍼플렉시티가 \\'딥 리서치(Deep Research)\\'를 자체 멀티모델 플랫폼 \\'컴퓨터(Computer)\\'에 통합하는 등 대규모 업그레이드를 단행했다. 퍼플렉시티는 11일(현지시간) 업그레이드된 딥 리서치 기능이 20개가 넘는 최신 AI 모델을 하나의 워크플로우로 연결해 운영된다고 밝혔다.이 시스템은 사용자의 복잡한 질의를 여러 세부 과제로 나눈 뒤 적합한 모델에 각각 배정해 조사·분석을 수행하고, 수백개 웹사이트의 원문 자료를 교차 검증해 출처가 명시된 심층 보고서를 자동으로 작성한다. 이번 기능은 지난 2월 공개된 퍼플렉시"
+        },
+        {
+          "title": "데카르트, 차세대 월드 모델 '오아시스 3' 출시…업계 최초 API 개방",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211669",
+          "date": "2026-06-12",
+          "source": "AI타임스",
+          "description": "데카르트가 자율주행차와 로봇을 위한 차세대 월드 모델(World Model) \\'오아시스(Oasis) 3\\'를 공개했다. 텍스트 프롬프트만으로 사실적인 주행 환경을 실시간 생성할 수 있으며, 업계 최초로 API를 통해 외부 개발자들에게 개방한 것이 특징이다.데카르트는 11일(현지시간) 우선 자율주행 기업을 대상으로 오아시스 3를 출시한다고 발표했다. 이는 API로 기업에 서비스된다.자율주행 시스템 개발 과정에서 실제 도로에서 발생하기 어려운 희귀 상황을 대규모로 시뮬레이션할 수 있도록 지원하고, 앞으로 로봇공학과 제조 자동화 등 다양한",
+          "image": "https://cdn.aitimes.com/news/photo/202606/211669_214688_3259.jpeg",
+          "is_english": false,
+          "original_title": "데카르트, 차세대 월드 모델 '오아시스 3' 출시…업계 최초 API 개방",
+          "original_summary": "데카르트가 자율주행차와 로봇을 위한 차세대 월드 모델(World Model) \\'오아시스(Oasis) 3\\'를 공개했다. 텍스트 프롬프트만으로 사실적인 주행 환경을 실시간 생성할 수 있으며, 업계 최초로 API를 통해 외부 개발자들에게 개방한 것이 특징이다.데카르트는 11일(현지시간) 우선 자율주행 기업을 대상으로 오아시스 3를 출시한다고 발표했다. 이는 API로 기업에 서비스된다.자율주행 시스템 개발 과정에서 실제 도로에서 발생하기 어려운 희귀 상황을 대규모로 시뮬레이션할 수 있도록 지원하고, 앞으로 로봇공학과 제조 자동화 등 다",
+          "summary": "데카르트가 자율주행차와 로봇을 위한 차세대 월드 모델(World Model) \\'오아시스(Oasis) 3\\'를 공개했다. 텍스트 프롬프트만으로 사실적인 주행 환경을 실시간 생성할 수 있으며, 업계 최초로 API를 통해 외부 개발자들에게 개방한 것이 특징이다.데카르트는 11일(현지시간) 우선 자율주행 기업을 대상으로 오아시스 3를 출시한다고 발표했다. 이는 API로 기업에 서비스된다.자율주행 시스템 개발 과정에서 실제 도로에서 발생하기 어려운 희귀 상황을 대규모로 시뮬레이션할 수 있도록 지원하고, 앞으로 로봇공학과 제조 자동화 등 다"
+        },
+        {
+          "title": "\"AX 풀스택·피지컬 AI가 대세\"...AI&빅데이터쇼 폐막",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211679",
+          "date": "2026-06-12",
+          "source": "AI타임스",
+          "description": "국내 최대 미래 기술 전시회인 ‘제15회 스마트테크 코리아(STK 2026)’와 ‘2026 AI&빅데이터쇼’가 12일 막을 내렸다.올해로 15주년을 맞이한 이번 행사는 ‘더 테크 넥서스: 산업 전 과정을 연결하는 기술 생태계’를 슬로건으로 서울 코엑스 전관에서 개최됐다. 올해는 전 세계 40개국에서 6만명의 참관객이 현장을 찾았으며, 16개국 620개 기업이 참가해 비즈니스 성과를 창출했다.이번 전시는 ▲AI&빅데이터쇼 ▲AI 팩토리 엑스포 ▲로보테크쇼 등 7개 전문 전시가 유기적으로 결합해 진행됐다.올해 핵심 트렌드로는 산업별 A",
+          "image": "https://cdn.aitimes.com/news/photo/202606/211679_214711_2137.jpg",
+          "is_english": false,
+          "original_title": "\"AX 풀스택·피지컬 AI가 대세\"...AI&빅데이터쇼 폐막",
+          "original_summary": "국내 최대 미래 기술 전시회인 ‘제15회 스마트테크 코리아(STK 2026)’와 ‘2026 AI&빅데이터쇼’가 12일 막을 내렸다.올해로 15주년을 맞이한 이번 행사는 ‘더 테크 넥서스: 산업 전 과정을 연결하는 기술 생태계’를 슬로건으로 서울 코엑스 전관에서 개최됐다. 올해는 전 세계 40개국에서 6만명의 참관객이 현장을 찾았으며, 16개국 620개 기업이 참가해 비즈니스 성과를 창출했다.이번 전시는 ▲AI&빅데이터쇼 ▲AI 팩토리 엑스포 ▲로보테크쇼 등 7개 전문 전시가 유기적으로 결합해 진행됐다.올해 핵심 트렌드로는 산업별 A",
+          "summary": "국내 최대 미래 기술 전시회인 ‘제15회 스마트테크 코리아(STK 2026)’와 ‘2026 AI&빅데이터쇼’가 12일 막을 내렸다.올해로 15주년을 맞이한 이번 행사는 ‘더 테크 넥서스: 산업 전 과정을 연결하는 기술 생태계’를 슬로건으로 서울 코엑스 전관에서 개최됐다. 올해는 전 세계 40개국에서 6만명의 참관객이 현장을 찾았으며, 16개국 620개 기업이 참가해 비즈니스 성과를 창출했다.이번 전시는 ▲AI&빅데이터쇼 ▲AI 팩토리 엑스포 ▲로보테크쇼 등 7개 전문 전시가 유기적으로 결합해 진행됐다.올해 핵심 트렌드로는 산업별 A"
+        },
+        {
+          "title": "역대급 벤치마크 ‘ALE’서 이변…GPT-5.5, '페이블 5' 꺾고 1위",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211667",
+          "date": "2026-06-12",
+          "source": "AI타임스",
+          "description": "AI가 실제 전문가 수준의 장기 업무를 수행할 수 있는지를 평가하기 위한 새로운 벤치마크가 공개됐다. 벤치마크 사상 가장 높은 난이도로 설계된 이번 평가에서 1위를 차지한 것은 바로 전날 출시된 앤트로픽의 \\'클로드 페이블 5\\'가 아닌, 두달 전에 등장한 픈AI의 \\'GPT-5.5\\'였다.미국 UC 버클리의 책임 있는 분산지능센터(RDI) 연구진과 300명 이상의 분야별 전문가 자문단은 11일(현지시간) ‘에이전트의 마지막 시험(ALE·Agents’ Last Exam)’ 벤치마크를 공개했다.ALE는 단순한 문제 풀이가 아니라 실제 경제적",
+          "image": "https://cdn.aitimes.com/news/photo/202606/211667_214683_5551.png",
+          "is_english": true,
+          "original_title": "역대급 벤치마크 ‘ALE’서 이변…GPT-5.5, '페이블 5' 꺾고 1위",
+          "original_summary": "AI가 실제 전문가 수준의 장기 업무를 수행할 수 있는지를 평가하기 위한 새로운 벤치마크가 공개됐다. 벤치마크 사상 가장 높은 난이도로 설계된 이번 평가에서 1위를 차지한 것은 바로 전날 출시된 앤트로픽의 \\'클로드 페이블 5\\'가 아닌, 두달 전에 등장한 픈AI의 \\'GPT-5.5\\'였다.미국 UC 버클리의 책임 있는 분산지능센터(RDI) 연구진과 300명 이상의 분야별 전문가 자문단은 11일(현지시간) ‘에이전트의 마지막 시험(ALE·Agents’ Last Exam)’ 벤치마크를 공개했다.ALE는 단순한 문제 풀이가 아니라 실제",
+          "summary": "AI가 실제 전문가 수준의 장기 업무를 수행할 수 있는지를 평가하기 위한 새로운 벤치마크가 공개됐다. 벤치마크 사상 가장 높은 난이도로 설계된 이번 평가에서 1위를 차지한 것은 바로 전날 출시된 앤트로픽의 \\'클로드 페이블 5\\'가 아닌, 두달 전에 등장한 픈AI의 \\'GPT-5.5\\'였다.미국 UC 버클리의 책임 있는 분산지능센터(RDI) 연구진과 300명 이상의 분야별 전문가 자문단은 11일(현지시간) ‘에이전트의 마지막 시험(ALE·Agents’ Last Exam)’ 벤치마크를 공개했다.ALE는 단순한 문제 풀이가 아니라 실제"
+        },
+        {
+          "title": "[AI&빅데이터쇼] “음성·텍스트 위주 사회 바꾼다”…케이엘큐브, AI 수어 통역 플랫폼 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211678",
+          "date": "2026-06-12",
+          "source": "AI타임스",
+          "description": "케이엘큐브(대표 김종화)는 10~12일 서울 코엑스에서 열린 ‘AI&빅데이터쇼’에 참가해 AI 수어 아바타 플랫폼 ‘핸드사인버스(HandSignVerse)’를 선보였다. 핸드사인버스는 텍스트와 음성을 인식해 이를 수어로 변환한 뒤, 디지털휴먼(아바타)을 통해 표현하는 플랫폼이다. 현재는 서울역 내 발권기 및 카카오뱅크 서비스 등에 도입된 상태다.관계자는 “카카오뱅크에 도입된 이후 현재 이용자 수가 3000명을 넘어섰다”라며 “수요가 많다는 사실이 입증됐다”라고 강조했다.방송 등 미디어 분야에도 적용될 수 있다고 전했다. 기존에는 뉴",
+          "image": "https://cdn.aitimes.com/news/photo/202606/211678_214704_5512.jpeg",
+          "is_english": false,
+          "original_title": "[AI&빅데이터쇼] “음성·텍스트 위주 사회 바꾼다”…케이엘큐브, AI 수어 통역 플랫폼 공개",
+          "original_summary": "케이엘큐브(대표 김종화)는 10~12일 서울 코엑스에서 열린 ‘AI&빅데이터쇼’에 참가해 AI 수어 아바타 플랫폼 ‘핸드사인버스(HandSignVerse)’를 선보였다. 핸드사인버스는 텍스트와 음성을 인식해 이를 수어로 변환한 뒤, 디지털휴먼(아바타)을 통해 표현하는 플랫폼이다. 현재는 서울역 내 발권기 및 카카오뱅크 서비스 등에 도입된 상태다.관계자는 “카카오뱅크에 도입된 이후 현재 이용자 수가 3000명을 넘어섰다”라며 “수요가 많다는 사실이 입증됐다”라고 강조했다.방송 등 미디어 분야에도 적용될 수 있다고 전했다. 기존에는 뉴",
+          "summary": "케이엘큐브(대표 김종화)는 10~12일 서울 코엑스에서 열린 ‘AI&빅데이터쇼’에 참가해 AI 수어 아바타 플랫폼 ‘핸드사인버스(HandSignVerse)’를 선보였다. 핸드사인버스는 텍스트와 음성을 인식해 이를 수어로 변환한 뒤, 디지털휴먼(아바타)을 통해 표현하는 플랫폼이다. 현재는 서울역 내 발권기 및 카카오뱅크 서비스 등에 도입된 상태다.관계자는 “카카오뱅크에 도입된 이후 현재 이용자 수가 3000명을 넘어섰다”라며 “수요가 많다는 사실이 입증됐다”라고 강조했다.방송 등 미디어 분야에도 적용될 수 있다고 전했다. 기존에는 뉴"
+        },
+        {
+          "title": "[AI&빅데이터쇼] 모빌테크·렉스젠·슈어소프트테크, 자율주행 돕는 독자 기술 선보여",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211673",
+          "date": "2026-06-12",
+          "source": "AI타임스",
+          "description": "국내 기업 세 곳이 10~12일 서울 코엑스에서 열린 ‘AI&빅데이터쇼’에 참가해 ‘자율주행’ 관련 고유 기술을 선보였다.먼저, 모빌테크(대표 김재승)는 ‘캘리브레이션’과 ‘디지털트윈’ 기술을 필두로 솔루션을 선보였다. 모빌테크는 이번 행사와 같이 진행된 ‘인공지능산업대상’ 시상식에서 정보통신산업진흥원장상을 받기도 했다.특히, 캘리브레이션 분야에서 주요 매출이 발생 중이라고 전했다. 이는 카메라, 라이다(LiDAR), 레이더 등 자율주행에 활용되는 다양한 센서의 데이터를 하나의 기준으로 정합하는 ‘센서 통합’ 기술이다. 여러 센서",
+          "image": "https://cdn.aitimes.com/news/photo/202606/211673_214695_2425.jpeg",
+          "is_english": false,
+          "original_title": "[AI&빅데이터쇼] 모빌테크·렉스젠·슈어소프트테크, 자율주행 돕는 독자 기술 선보여",
+          "original_summary": "국내 기업 세 곳이 10~12일 서울 코엑스에서 열린 ‘AI&빅데이터쇼’에 참가해 ‘자율주행’ 관련 고유 기술을 선보였다.먼저, 모빌테크(대표 김재승)는 ‘캘리브레이션’과 ‘디지털트윈’ 기술을 필두로 솔루션을 선보였다. 모빌테크는 이번 행사와 같이 진행된 ‘인공지능산업대상’ 시상식에서 정보통신산업진흥원장상을 받기도 했다.특히, 캘리브레이션 분야에서 주요 매출이 발생 중이라고 전했다. 이는 카메라, 라이다(LiDAR), 레이더 등 자율주행에 활용되는 다양한 센서의 데이터를 하나의 기준으로 정합하는 ‘센서 통합’ 기술이다. 여러 센서",
+          "summary": "국내 기업 세 곳이 10~12일 서울 코엑스에서 열린 ‘AI&빅데이터쇼’에 참가해 ‘자율주행’ 관련 고유 기술을 선보였다.먼저, 모빌테크(대표 김재승)는 ‘캘리브레이션’과 ‘디지털트윈’ 기술을 필두로 솔루션을 선보였다. 모빌테크는 이번 행사와 같이 진행된 ‘인공지능산업대상’ 시상식에서 정보통신산업진흥원장상을 받기도 했다.특히, 캘리브레이션 분야에서 주요 매출이 발생 중이라고 전했다. 이는 카메라, 라이다(LiDAR), 레이더 등 자율주행에 활용되는 다양한 센서의 데이터를 하나의 기준으로 정합하는 ‘센서 통합’ 기술이다. 여러 센서"
+        },
+        {
+          "title": "[AI&빅데이터쇼] 퓨처메인, 어디든 적용 가능한 ‘진동 감지’ 설비진단 시스템 소개…\"도입 논의 몰려\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211676",
+          "date": "2026-06-12",
+          "source": "AI타임스",
+          "description": "퓨처메인(대표 이선휘)은 10~12일 서울 코엑스에서 열린 ‘AI&빅데이터쇼’에 참가해 설비 자동 진단 솔루션을 선보였다. AI 설비 자동 진단 솔루션 ‘ExRBM’을 비롯해 휴대형 설비 진단 장비 ‘ExRBM 포터블+’ 등이 중점적으로 소개됐다.이는 설비 부품에 진동 감지 센서를 부착, 주파수를 정밀 탐지하고 분석해 부품의 이상과 고장 여부와 원인을 파악하는 기술이다. 진동이 발생하는 설비 부품이라면 어디에든 적용이 가능하다고 전했다.2014년 설립된 퓨처메인은 설비 진단 솔루션을 장기간 제공하며 관련 데이터를 축적해 왔다. 이러",
+          "image": "https://cdn.aitimes.com/news/photo/202606/211676_214702_382.jpeg",
+          "is_english": false,
+          "original_title": "[AI&빅데이터쇼] 퓨처메인, 어디든 적용 가능한 ‘진동 감지’ 설비진단 시스템 소개…\"도입 논의 몰려\"",
+          "original_summary": "퓨처메인(대표 이선휘)은 10~12일 서울 코엑스에서 열린 ‘AI&빅데이터쇼’에 참가해 설비 자동 진단 솔루션을 선보였다. AI 설비 자동 진단 솔루션 ‘ExRBM’을 비롯해 휴대형 설비 진단 장비 ‘ExRBM 포터블+’ 등이 중점적으로 소개됐다.이는 설비 부품에 진동 감지 센서를 부착, 주파수를 정밀 탐지하고 분석해 부품의 이상과 고장 여부와 원인을 파악하는 기술이다. 진동이 발생하는 설비 부품이라면 어디에든 적용이 가능하다고 전했다.2014년 설립된 퓨처메인은 설비 진단 솔루션을 장기간 제공하며 관련 데이터를 축적해 왔다. 이러",
+          "summary": "퓨처메인(대표 이선휘)은 10~12일 서울 코엑스에서 열린 ‘AI&빅데이터쇼’에 참가해 설비 자동 진단 솔루션을 선보였다. AI 설비 자동 진단 솔루션 ‘ExRBM’을 비롯해 휴대형 설비 진단 장비 ‘ExRBM 포터블+’ 등이 중점적으로 소개됐다.이는 설비 부품에 진동 감지 센서를 부착, 주파수를 정밀 탐지하고 분석해 부품의 이상과 고장 여부와 원인을 파악하는 기술이다. 진동이 발생하는 설비 부품이라면 어디에든 적용이 가능하다고 전했다.2014년 설립된 퓨처메인은 설비 진단 솔루션을 장기간 제공하며 관련 데이터를 축적해 왔다. 이러"
+        },
+        {
+          "title": "[AI&빅데이터쇼] 산업 특화 AI 영상 분석 솔루션 '3대장' 각축전",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211671",
+          "date": "2026-06-12",
+          "source": "AI타임스",
+          "description": "서울 코엑스에서 열린 \\'AI&빅데이터쇼\\'에는 산업 현장의 안전을 지키고 재해를 예방하기 위한 \\'AI 영상 분석 기술\\'이 한층 정교해진 모습으로 한자리에 모였다.과거에는 화재나 침입 감지 등에 머물렀다면 이제는 작업자의 세부 행동과 장비 체결 여부 등 세밀한 부분까지 잡아내도록 기술이 진화했다.■ 인피닉 \\'오론-아이\\' 정탐률 95% 육박...\\\"시스템 교체 없이 도입 가능해\\\"인피닉은 산업 및 공공 안전을 위한 AI 영상분석 솔루션 \\'오론-아이 인더스트리(AURON-i Industry)\\'를 전면에 내세웠다.쓰러짐, 낙상, 화재 연기는 물",
+          "image": "https://cdn.aitimes.com/news/photo/202606/211671_214691_100.jpg",
+          "is_english": false,
+          "original_title": "[AI&빅데이터쇼] 산업 특화 AI 영상 분석 솔루션 '3대장' 각축전",
+          "original_summary": "서울 코엑스에서 열린 \\'AI&빅데이터쇼\\'에는 산업 현장의 안전을 지키고 재해를 예방하기 위한 \\'AI 영상 분석 기술\\'이 한층 정교해진 모습으로 한자리에 모였다.과거에는 화재나 침입 감지 등에 머물렀다면 이제는 작업자의 세부 행동과 장비 체결 여부 등 세밀한 부분까지 잡아내도록 기술이 진화했다.■ 인피닉 \\'오론-아이\\' 정탐률 95% 육박...\\\"시스템 교체 없이 도입 가능해\\\"인피닉은 산업 및 공공 안전을 위한 AI 영상분석 솔루션 \\'오론-아이 인더스트리(AURON-i Industry)\\'를 전면에 내세웠다.쓰러짐, 낙상",
+          "summary": "서울 코엑스에서 열린 \\'AI&빅데이터쇼\\'에는 산업 현장의 안전을 지키고 재해를 예방하기 위한 \\'AI 영상 분석 기술\\'이 한층 정교해진 모습으로 한자리에 모였다.과거에는 화재나 침입 감지 등에 머물렀다면 이제는 작업자의 세부 행동과 장비 체결 여부 등 세밀한 부분까지 잡아내도록 기술이 진화했다.■ 인피닉 \\'오론-아이\\' 정탐률 95% 육박...\\\"시스템 교체 없이 도입 가능해\\\"인피닉은 산업 및 공공 안전을 위한 AI 영상분석 솔루션 \\'오론-아이 인더스트리(AURON-i Industry)\\'를 전면에 내세웠다.쓰러짐, 낙상"
+        },
+        {
+          "title": "[AI&빅데이터쇼] 컴퓨팅·보안 한계 넘는 '양자테크'…STK 2026서 미래 방향 제시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211682",
+          "date": "2026-06-12",
+          "source": "AI타임스",
+          "description": "6월10~12일 서울 코엑스에서 열린 ‘STK 2026’ 현장에서는 ‘양자테크 특별관’ 전시 및 관련 세션 발표가 진행됐다. 특히, AI를 넘어 차세대 기술로 주목 받는 ‘양자테크’ 관련 인사이트를 얻기 위해 많은 관람객이 몰렸다. 먼저, 국내 기업 한국퀀텀컴퓨팅(KQC)의 오상근 부사장이 ‘에이전트 AI 시대의 새로운 보안 패러다임’을 주제로 발표를 진행했다. 오상근 부사장은 “AI 에이전트 시대에는 생체 기반 사용자 인증을 통해 효율적인 신원 확인 및 관리 시스템을 구축할 것”이라며 “이에, 모든 실행에 대해 로그 및 기록이 저",
+          "image": "https://cdn.aitimes.com/news/photo/202606/211682_214717_1846.jpeg",
+          "is_english": false,
+          "original_title": "[AI&빅데이터쇼] 컴퓨팅·보안 한계 넘는 '양자테크'…STK 2026서 미래 방향 제시",
+          "original_summary": "6월10~12일 서울 코엑스에서 열린 ‘STK 2026’ 현장에서는 ‘양자테크 특별관’ 전시 및 관련 세션 발표가 진행됐다. 특히, AI를 넘어 차세대 기술로 주목 받는 ‘양자테크’ 관련 인사이트를 얻기 위해 많은 관람객이 몰렸다. 먼저, 국내 기업 한국퀀텀컴퓨팅(KQC)의 오상근 부사장이 ‘에이전트 AI 시대의 새로운 보안 패러다임’을 주제로 발표를 진행했다. 오상근 부사장은 “AI 에이전트 시대에는 생체 기반 사용자 인증을 통해 효율적인 신원 확인 및 관리 시스템을 구축할 것”이라며 “이에, 모든 실행에 대해 로그 및 기록이 저",
+          "summary": "6월10~12일 서울 코엑스에서 열린 ‘STK 2026’ 현장에서는 ‘양자테크 특별관’ 전시 및 관련 세션 발표가 진행됐다. 특히, AI를 넘어 차세대 기술로 주목 받는 ‘양자테크’ 관련 인사이트를 얻기 위해 많은 관람객이 몰렸다. 먼저, 국내 기업 한국퀀텀컴퓨팅(KQC)의 오상근 부사장이 ‘에이전트 AI 시대의 새로운 보안 패러다임’을 주제로 발표를 진행했다. 오상근 부사장은 “AI 에이전트 시대에는 생체 기반 사용자 인증을 통해 효율적인 신원 확인 및 관리 시스템을 구축할 것”이라며 “이에, 모든 실행에 대해 로그 및 기록이 저"
+        },
+        {
+          "title": "[AI&빅데이터쇼] 아크릴, GPU 가동률 극대화할 솔루션 'GPU베이스' 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211662",
+          "date": "2026-06-12",
+          "source": "AI타임스",
+          "description": "아크릴이 12일 서울 코엑스에서 열린 \\'AI&빅데이터쇼\\'에 참가, GPU 클러스터 최적화 솔루션 \\'GPU베이스(GPUBASE)\\'를 소개했다.아크릴 부스는 실제 데이터센터 서버 랙을 연상시키는 이미지가 벽면을 가득 채워 관람객들의 눈길을 끌었다.GPU베이스는 ▲워크로드 스케줄링(Workload Scheduling) ▲네트워크 최적화(Network Optimization) ▲하드웨어 통합화(Hardware Unification) ▲통합 모니터링 및 관리(Governing Ops) 등이 주 기능이다. 고가의 GPU 가동률을 극대화할 수",
+          "image": "https://cdn.aitimes.com/news/photo/202606/211662_214686_038.jpg",
+          "is_english": false,
+          "original_title": "[AI&빅데이터쇼] 아크릴, GPU 가동률 극대화할 솔루션 'GPU베이스' 공개",
+          "original_summary": "아크릴이 12일 서울 코엑스에서 열린 \\'AI&빅데이터쇼\\'에 참가, GPU 클러스터 최적화 솔루션 \\'GPU베이스(GPUBASE)\\'를 소개했다.아크릴 부스는 실제 데이터센터 서버 랙을 연상시키는 이미지가 벽면을 가득 채워 관람객들의 눈길을 끌었다.GPU베이스는 ▲워크로드 스케줄링(Workload Scheduling) ▲네트워크 최적화(Network Optimization) ▲하드웨어 통합화(Hardware Unification) ▲통합 모니터링 및 관리(Governing Ops) 등이 주 기능이다. 고가의 GPU 가동률을 극대화",
+          "summary": "아크릴이 12일 서울 코엑스에서 열린 \\'AI&빅데이터쇼\\'에 참가, GPU 클러스터 최적화 솔루션 \\'GPU베이스(GPUBASE)\\'를 소개했다.아크릴 부스는 실제 데이터센터 서버 랙을 연상시키는 이미지가 벽면을 가득 채워 관람객들의 눈길을 끌었다.GPU베이스는 ▲워크로드 스케줄링(Workload Scheduling) ▲네트워크 최적화(Network Optimization) ▲하드웨어 통합화(Hardware Unification) ▲통합 모니터링 및 관리(Governing Ops) 등이 주 기능이다. 고가의 GPU 가동률을 극대화"
+        },
+        {
+          "title": "UB테크, 소비자용 '생체 모방' 휴머노이드 예약 2100대 돌파",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211672",
+          "date": "2026-06-12",
+          "source": "AI타임스",
+          "description": "중국의 로봇 기업 유비테크가 일반 소비자 시장을 겨냥해 선보인 \\'생채 모방\\' 휴머노이드 로봇이 시장에서 뜨거운 초기 반응을 얻은 것으로 알려졌다.UB테크는 지난 7일 소비자용 브랜드 U월드(UWORLD)의 첫 번째 라인업 \\'U1 시리즈\\'가 사전 판매를 시작한 지 6일 만에 예약 주문량 2110대를 돌파했다고 발표했다. 출시 3일 만에 1000대를 넘어선 데 이어 가파른 상승세를 이어가는 모습이다.U1 시리즈는 지난 6일 공식 티저 영상으로 베일을 벗었다. 산업 현장이 아닌 일반 가정과 소비자 체감형 시장을 타깃으로 한 시리즈로, 남",
+          "image": "https://cdn.aitimes.com/news/photo/202606/211672_214689_587.png",
+          "is_english": false,
+          "original_title": "UB테크, 소비자용 '생체 모방' 휴머노이드 예약 2100대 돌파",
+          "original_summary": "중국의 로봇 기업 유비테크가 일반 소비자 시장을 겨냥해 선보인 \\'생채 모방\\' 휴머노이드 로봇이 시장에서 뜨거운 초기 반응을 얻은 것으로 알려졌다.UB테크는 지난 7일 소비자용 브랜드 U월드(UWORLD)의 첫 번째 라인업 \\'U1 시리즈\\'가 사전 판매를 시작한 지 6일 만에 예약 주문량 2110대를 돌파했다고 발표했다. 출시 3일 만에 1000대를 넘어선 데 이어 가파른 상승세를 이어가는 모습이다.U1 시리즈는 지난 6일 공식 티저 영상으로 베일을 벗었다. 산업 현장이 아닌 일반 가정과 소비자 체감형 시장을 타깃으로 한 시리즈",
+          "summary": "중국의 로봇 기업 유비테크가 일반 소비자 시장을 겨냥해 선보인 \\'생채 모방\\' 휴머노이드 로봇이 시장에서 뜨거운 초기 반응을 얻은 것으로 알려졌다.UB테크는 지난 7일 소비자용 브랜드 U월드(UWORLD)의 첫 번째 라인업 \\'U1 시리즈\\'가 사전 판매를 시작한 지 6일 만에 예약 주문량 2110대를 돌파했다고 발표했다. 출시 3일 만에 1000대를 넘어선 데 이어 가파른 상승세를 이어가는 모습이다.U1 시리즈는 지난 6일 공식 티저 영상으로 베일을 벗었다. 산업 현장이 아닌 일반 가정과 소비자 체감형 시장을 타깃으로 한 시리즈"
+        },
+        {
+          "title": "[AI&빅데이터쇼] 마드라스체크 “AI 협업툴 ‘플로우’로 조직·개인 성과 확인”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211681",
+          "date": "2026-06-12",
+          "source": "AI타임스",
+          "description": "마드라스체크(대표 이학준)는 10~12일 서울 코엑스에서 열린 ‘AI&빅데이터쇼’에 참가해 업무 협업 툴 ‘플로우’를 선보였다. 플로우는 프로젝트 협업, 업무 관리, 메신저 등을 하나로 통합한 올인원 협업 도구다. 여기에 AI 기능을 더하며 기업 데이터 맞춤 질의응답까지 가능해졌다.관계자는 “월 구독은 인당 만원 대로, 연간 구독을 할 경우 만원 이하로 할인된다”라며 “AI 기능을 같이 활용할 경우 1인당 월 2만원 대에 활용할 수 있다”라고 말했다.이처럼 챗GPT와 클로드, 제미나이 등 최신 모델을 저렴하고 편리하게 사용할 수 있",
+          "image": "https://cdn.aitimes.com/news/photo/202606/211681_214714_4629.jpeg",
+          "is_english": false,
+          "original_title": "[AI&빅데이터쇼] 마드라스체크 “AI 협업툴 ‘플로우’로 조직·개인 성과 확인”",
+          "original_summary": "마드라스체크(대표 이학준)는 10~12일 서울 코엑스에서 열린 ‘AI&빅데이터쇼’에 참가해 업무 협업 툴 ‘플로우’를 선보였다. 플로우는 프로젝트 협업, 업무 관리, 메신저 등을 하나로 통합한 올인원 협업 도구다. 여기에 AI 기능을 더하며 기업 데이터 맞춤 질의응답까지 가능해졌다.관계자는 “월 구독은 인당 만원 대로, 연간 구독을 할 경우 만원 이하로 할인된다”라며 “AI 기능을 같이 활용할 경우 1인당 월 2만원 대에 활용할 수 있다”라고 말했다.이처럼 챗GPT와 클로드, 제미나이 등 최신 모델을 저렴하고 편리하게 사용할 수 있",
+          "summary": "마드라스체크(대표 이학준)는 10~12일 서울 코엑스에서 열린 ‘AI&빅데이터쇼’에 참가해 업무 협업 툴 ‘플로우’를 선보였다. 플로우는 프로젝트 협업, 업무 관리, 메신저 등을 하나로 통합한 올인원 협업 도구다. 여기에 AI 기능을 더하며 기업 데이터 맞춤 질의응답까지 가능해졌다.관계자는 “월 구독은 인당 만원 대로, 연간 구독을 할 경우 만원 이하로 할인된다”라며 “AI 기능을 같이 활용할 경우 1인당 월 2만원 대에 활용할 수 있다”라고 말했다.이처럼 챗GPT와 클로드, 제미나이 등 최신 모델을 저렴하고 편리하게 사용할 수 있"
+        },
+        {
+          "title": "How Preply combines AI and human tutors to personalize learning",
+          "link": "https://openai.com/index/preply",
+          "date": "2026-06-12",
+          "source": "OpenAI",
+          "description": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+          "image": null,
+          "is_english": true,
+          "original_title": "How Preply combines AI and human tutors to personalize learning",
+          "original_summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises.",
+          "summary": "Preply uses OpenAI to launch AI-generated lesson summaries, providing personalised feedback and language learning exercises."
+        },
         {
           "title": "'상의 탈의' 머스크 대형 풍선 등장...\"언제 터질지 몰라\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=211665",
@@ -401,19 +581,6 @@
           "summary": "(서울=연합뉴스) 조승한 기자 = 과학기술정보통신부는 11일(현지시간) 이탈리아 로마에서 이탈리아 외교국제협력부(MAECI)와 &apos;제13차 한-이..."
         },
         {
-          "title": "nvidia/LocateAnything-3B",
-          "link": "https://huggingface.co/nvidia/LocateAnything-3B",
-          "date": "2026-06-12",
-          "source": "HuggingFace",
-          "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
-          "is_english": true,
-          "summary": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/LocateAnything-3B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "google/diffusiongemma-26B-A4B-it",
           "link": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
           "date": "2026-06-12",
@@ -423,6 +590,19 @@
           "is_english": true,
           "summary": "• diffusiongemma-26B-A4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "google/diffusiongemma-26B-A4B-it",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "link": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "date": "2026-06-12",
+          "source": "HuggingFace",
+          "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
+          "is_english": true,
+          "summary": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/LocateAnything-3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -479,6 +659,32 @@
           "category": "AI Model"
         },
         {
+          "title": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
+          "link": "https://huggingface.co/OBLITERATUS/Gemma-4-12B-OBLITERATED",
+          "date": "2026-06-12",
+          "source": "HuggingFace",
+          "description": "• Gemma-4-12B-OBLITERATED 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Gemma-4-12B-OBLITERATED 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "date": "2026-06-12",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
           "link": "https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b",
           "date": "2026-06-12",
@@ -501,32 +707,6 @@
           "is_english": true,
           "summary": "• gemma-4-12b-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/gemma-4-12b-it-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-06-12",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
-          "link": "https://huggingface.co/OBLITERATUS/Gemma-4-12B-OBLITERATED",
-          "date": "2026-06-12",
-          "source": "HuggingFace",
-          "description": "• Gemma-4-12B-OBLITERATED 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Gemma-4-12B-OBLITERATED 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -596,19 +776,6 @@
           "category": "AI Model"
         },
         {
-          "title": "ideogram-ai/ideogram-4-nf4",
-          "link": "https://huggingface.co/ideogram-ai/ideogram-4-nf4",
-          "date": "2026-06-12",
-          "source": "HuggingFace",
-          "description": "• ideogram-4-nf4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• ideogram-4-nf4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ideogram-ai/ideogram-4-nf4",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/gemma-4-26B-A4B-it-qat-GGUF",
           "link": "https://huggingface.co/unsloth/gemma-4-26B-A4B-it-qat-GGUF",
           "date": "2026-06-12",
@@ -618,6 +785,19 @@
           "is_english": true,
           "summary": "• gemma-4-26B-A4B-it-qat-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/gemma-4-26B-A4B-it-qat-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "ideogram-ai/ideogram-4-nf4",
+          "link": "https://huggingface.co/ideogram-ai/ideogram-4-nf4",
+          "date": "2026-06-12",
+          "source": "HuggingFace",
+          "description": "• ideogram-4-nf4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• ideogram-4-nf4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "ideogram-ai/ideogram-4-nf4",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -635,19 +815,6 @@
           "category": "AI Model"
         },
         {
-          "title": "google/magenta-realtime-2",
-          "link": "https://huggingface.co/google/magenta-realtime-2",
-          "date": "2026-06-12",
-          "source": "HuggingFace",
-          "description": "• magenta-realtime-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• magenta-realtime-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/magenta-realtime-2",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "zai-org/SCAIL-2",
           "link": "https://huggingface.co/zai-org/SCAIL-2",
           "date": "2026-06-12",
@@ -657,6 +824,19 @@
           "is_english": true,
           "summary": "• SCAIL-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "zai-org/SCAIL-2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "google/magenta-realtime-2",
+          "link": "https://huggingface.co/google/magenta-realtime-2",
+          "date": "2026-06-12",
+          "source": "HuggingFace",
+          "description": "• magenta-realtime-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• magenta-realtime-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/magenta-realtime-2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
