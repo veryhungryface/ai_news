@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-06-13",
-      "update_time": "2026-06-12 19:52:43",
+      "update_time": "2026-06-12 22:19:33",
       "news": [
+        {
+          "title": "알트먼, 다음주 방한 연기하고 프랑스 G7 정상회의 참석",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211685",
+          "date": "2026-06-13",
+          "source": "AI타임스",
+          "description": "샘 알트먼 오픈AI CEO의 다음 주 방한이 연기됐다. 대신 이 기간에는 프랑스에서 열리는 G7 정상회의에 참여하는 것으로 알려졌다.블룸버그 등 외신에 따르면, 오픈AI와 앤트로픽, 구글을 비롯한 AI 분야 임원들이 15~17일(현지시간) 프랑스 에비앙에서 열리는 G7 정상회의에 참석할 예정이다.프랑스 대통령실이 공개한 명단에는 알트먼 CEO와 다리오 아모데이 앤트로픽 CEO, 데미스 허사비스 구글 딥마인드 CEO 등이 포함됐다. 해당 기업들은 G7 정상회의 참석을 확인했다.오픈AI 대변인은 G7에서 AI 기술과 잠재적 기회 및 위",
+          "image": "https://cdn.aitimes.com/news/photo/202606/211685_214719_817.png",
+          "is_english": false,
+          "original_title": "알트먼, 다음주 방한 연기하고 프랑스 G7 정상회의 참석",
+          "original_summary": "샘 알트먼 오픈AI CEO의 다음 주 방한이 연기됐다. 대신 이 기간에는 프랑스에서 열리는 G7 정상회의에 참여하는 것으로 알려졌다.블룸버그 등 외신에 따르면, 오픈AI와 앤트로픽, 구글을 비롯한 AI 분야 임원들이 15~17일(현지시간) 프랑스 에비앙에서 열리는 G7 정상회의에 참석할 예정이다.프랑스 대통령실이 공개한 명단에는 알트먼 CEO와 다리오 아모데이 앤트로픽 CEO, 데미스 허사비스 구글 딥마인드 CEO 등이 포함됐다. 해당 기업들은 G7 정상회의 참석을 확인했다.오픈AI 대변인은 G7에서 AI 기술과 잠재적 기회 및 위",
+          "summary": "샘 알트먼 오픈AI CEO의 다음 주 방한이 연기됐다. 대신 이 기간에는 프랑스에서 열리는 G7 정상회의에 참여하는 것으로 알려졌다.블룸버그 등 외신에 따르면, 오픈AI와 앤트로픽, 구글을 비롯한 AI 분야 임원들이 15~17일(현지시간) 프랑스 에비앙에서 열리는 G7 정상회의에 참석할 예정이다.프랑스 대통령실이 공개한 명단에는 알트먼 CEO와 다리오 아모데이 앤트로픽 CEO, 데미스 허사비스 구글 딥마인드 CEO 등이 포함됐다. 해당 기업들은 G7 정상회의 참석을 확인했다.오픈AI 대변인은 G7에서 AI 기술과 잠재적 기회 및 위"
+        },
         {
           "title": "OpenAI Acquires Startup to Boost Codex",
           "link": "https://aibusiness.com/generative-ai/openai-acquires-startup-to-boost-codex",
@@ -107,6 +119,19 @@
           "category": "AI Model"
         },
         {
+          "title": "MiniMaxAI/MiniMax-M3",
+          "link": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+          "date": "2026-06-13",
+          "source": "HuggingFace",
+          "description": "• MiniMax-M3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/MiniMaxAI/MiniMax-M3/resolve/main/figures/logo.svg",
+          "is_english": true,
+          "summary": "• MiniMax-M3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "MiniMaxAI/MiniMax-M3",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "date": "2026-06-13",
@@ -155,19 +180,6 @@
           "is_english": true,
           "summary": "• diffusiongemma-26B-A4B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/diffusiongemma-26B-A4B-it-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "MiniMaxAI/MiniMax-M3",
-          "link": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
-          "date": "2026-06-13",
-          "source": "HuggingFace",
-          "description": "• MiniMax-M3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/MiniMaxAI/MiniMax-M3/resolve/main/figures/logo.svg",
-          "is_english": true,
-          "summary": "• MiniMax-M3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "MiniMaxAI/MiniMax-M3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -224,19 +236,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/gemma-4-12B-it-qat-GGUF",
-          "link": "https://huggingface.co/unsloth/gemma-4-12B-it-qat-GGUF",
-          "date": "2026-06-13",
-          "source": "HuggingFace",
-          "description": "• gemma-4-12B-it-qat-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/62ecdc18b72a69615d6bd857/Ni3-kGKIbStvDqTTFCYFU.png",
-          "is_english": true,
-          "summary": "• gemma-4-12B-it-qat-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/gemma-4-12B-it-qat-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nex-agi/Nex-N2-mini",
           "link": "https://huggingface.co/nex-agi/Nex-N2-mini",
           "date": "2026-06-13",
@@ -250,15 +249,15 @@
           "category": "AI Model"
         },
         {
-          "title": "ideogram-ai/ideogram-4-nf4",
-          "link": "https://huggingface.co/ideogram-ai/ideogram-4-nf4",
+          "title": "unsloth/gemma-4-12B-it-qat-GGUF",
+          "link": "https://huggingface.co/unsloth/gemma-4-12B-it-qat-GGUF",
           "date": "2026-06-13",
           "source": "HuggingFace",
-          "description": "• ideogram-4-nf4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• gemma-4-12B-it-qat-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/62ecdc18b72a69615d6bd857/Ni3-kGKIbStvDqTTFCYFU.png",
           "is_english": true,
-          "summary": "• ideogram-4-nf4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ideogram-ai/ideogram-4-nf4",
+          "summary": "• gemma-4-12B-it-qat-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/gemma-4-12B-it-qat-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -272,6 +271,19 @@
           "is_english": true,
           "summary": "• SCAIL-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "zai-org/SCAIL-2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "ideogram-ai/ideogram-4-nf4",
+          "link": "https://huggingface.co/ideogram-ai/ideogram-4-nf4",
+          "date": "2026-06-13",
+          "source": "HuggingFace",
+          "description": "• ideogram-4-nf4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• ideogram-4-nf4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "ideogram-ai/ideogram-4-nf4",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -292,8 +304,20 @@
     },
     {
       "date": "2026-06-12",
-      "update_time": "2026-06-12 19:52:43",
+      "update_time": "2026-06-12 22:19:33",
       "news": [
+        {
+          "title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+          "link": "https://techcrunch.com/2026/06/12/chinese-cybercrime-operation-that-used-ai-to-scam-hundreds-of-thousands-of-victims-sued-by-google/",
+          "date": "2026-06-12",
+          "source": "TechCrunch",
+          "description": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/google-logo.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Chinese cybercrime operation that used AI to scam ‘hundreds of thousands of victims’ sued by Google",
+          "original_summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks.",
+          "summary": "The tech giant said a group called \"Outsider Enterprise\" used AI to scam hundreds of thousands of victims, sending 2.5 million text messages over a span of two weeks."
+        },
         {
           "title": "SpaceX IPO: Live updates on everything you need to know",
           "link": "https://techcrunch.com/2026/06/12/spacex-ipo-live-updates-on-everything-you-need-to-know/",
