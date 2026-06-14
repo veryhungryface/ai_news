@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-06-15",
-      "update_time": "2026-06-14 16:16:18",
+      "update_time": "2026-06-14 19:08:05",
       "news": [
         {
           "title": "google/diffusiongemma-26B-A4B-it",
@@ -161,19 +161,6 @@
           "category": "AI Model"
         },
         {
-          "title": "ideogram-ai/ideogram-4-fp8",
-          "link": "https://huggingface.co/ideogram-ai/ideogram-4-fp8",
-          "date": "2026-06-15",
-          "source": "HuggingFace",
-          "description": "• ideogram-4-fp8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
-          "is_english": true,
-          "summary": "• ideogram-4-fp8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ideogram-ai/ideogram-4-fp8",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nex-agi/Nex-N2-mini",
           "link": "https://huggingface.co/nex-agi/Nex-N2-mini",
           "date": "2026-06-15",
@@ -183,6 +170,19 @@
           "is_english": true,
           "summary": "• Nex-N2-mini 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nex-agi/Nex-N2-mini",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "ideogram-ai/ideogram-4-fp8",
+          "link": "https://huggingface.co/ideogram-ai/ideogram-4-fp8",
+          "date": "2026-06-15",
+          "source": "HuggingFace",
+          "description": "• ideogram-4-fp8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• ideogram-4-fp8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "ideogram-ai/ideogram-4-fp8",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -200,19 +200,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
-          "link": "https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b",
-          "date": "2026-06-15",
-          "source": "HuggingFace",
-          "description": "• nemotron-3.5-asr-streaming-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
-          "is_english": true,
-          "summary": "• nemotron-3.5-asr-streaming-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "zai-org/SCAIL-2",
           "link": "https://huggingface.co/zai-org/SCAIL-2",
           "date": "2026-06-15",
@@ -222,6 +209,19 @@
           "is_english": true,
           "summary": "• SCAIL-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "zai-org/SCAIL-2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
+          "link": "https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b",
+          "date": "2026-06-15",
+          "source": "HuggingFace",
+          "description": "• nemotron-3.5-asr-streaming-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• nemotron-3.5-asr-streaming-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -252,15 +252,15 @@
           "category": "AI Model"
         },
         {
-          "title": "XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash",
-          "link": "https://huggingface.co/XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash",
+          "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
           "date": "2026-06-15",
           "source": "HuggingFace",
-          "description": "• MiMo-V2.5-Pro-FP4-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/XiaomiMiMo/MiMo/raw/main/figures/Xiaomi_MiMo.png?raw=true",
+          "description": "• gemma-4-12B-coder-fable5-composer2.5-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• MiMo-V2.5-Pro-FP4-DFlash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "XiaomiMiMo/MiMo-V2.5-Pro-FP4-DFlash",
+          "summary": "• gemma-4-12B-coder-fable5-composer2.5-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -268,8 +268,20 @@
     },
     {
       "date": "2026-06-14",
-      "update_time": "2026-06-14 13:27:31",
+      "update_time": "2026-06-14 19:08:03",
       "news": [
+        {
+          "title": "As AI companies race to go public, who else is along for the ride?",
+          "link": "https://techcrunch.com/2026/06/14/as-ai-companies-race-to-go-public-who-else-is-along-for-the-ride/",
+          "date": "2026-06-14",
+          "source": "TechCrunch",
+          "description": "Startups are trying to \"ride that SpaceX IPO wave.\"",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/spacexipo-nasdaq.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "As AI companies race to go public, who else is along for the ride?",
+          "original_summary": "Startups are trying to \"ride that SpaceX IPO wave.\"",
+          "summary": "Startups are trying to \"ride that SpaceX IPO wave.\""
+        },
         {
           "title": "글로벌 기술력 입증한 라이드플럭스 \"레벨4 자율주행 판도 바꾼다\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=211535",
@@ -7465,7 +7477,7 @@
         {
           "title": "nvidia/LocateAnything-3B",
           "link": "https://huggingface.co/nvidia/LocateAnything-3B",
-          "date": "2026-06-06",
+          "date": "2026-06-15",
           "source": "HuggingFace",
           "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
@@ -7478,7 +7490,7 @@
         {
           "title": "google/gemma-4-12B-it",
           "link": "https://huggingface.co/google/gemma-4-12B-it",
-          "date": "2026-06-06",
+          "date": "2026-06-15",
           "source": "HuggingFace",
           "description": "• gemma-4-12B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -7491,7 +7503,7 @@
         {
           "title": "unsloth/gemma-4-12b-it-GGUF",
           "link": "https://huggingface.co/unsloth/gemma-4-12b-it-GGUF",
-          "date": "2026-06-06",
+          "date": "2026-06-15",
           "source": "HuggingFace",
           "description": "• gemma-4-12b-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
@@ -7504,7 +7516,7 @@
         {
           "title": "google/gemma-4-12B",
           "link": "https://huggingface.co/google/gemma-4-12B",
-          "date": "2026-06-06",
+          "date": "2026-06-15",
           "source": "HuggingFace",
           "description": "• gemma-4-12B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -7517,7 +7529,7 @@
         {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-06-06",
+          "date": "2026-06-15",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -7556,7 +7568,7 @@
         {
           "title": "ideogram-ai/ideogram-4-fp8",
           "link": "https://huggingface.co/ideogram-ai/ideogram-4-fp8",
-          "date": "2026-06-06",
+          "date": "2026-06-15",
           "source": "HuggingFace",
           "description": "• ideogram-4-fp8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
@@ -7608,7 +7620,7 @@
         {
           "title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
           "link": "https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b",
-          "date": "2026-06-06",
+          "date": "2026-06-15",
           "source": "HuggingFace",
           "description": "• nemotron-3.5-asr-streaming-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
