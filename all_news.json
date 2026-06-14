@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-06-14",
-      "update_time": "2026-06-14 11:23:09",
+      "update_time": "2026-06-14 13:27:31",
       "news": [
         {
           "title": "글로벌 기술력 입증한 라이드플럭스 \"레벨4 자율주행 판도 바꾼다\"",
@@ -247,19 +247,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/LocateAnything-3B",
-          "link": "https://huggingface.co/nvidia/LocateAnything-3B",
-          "date": "2026-06-14",
-          "source": "HuggingFace",
-          "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
-          "is_english": true,
-          "summary": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/LocateAnything-3B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "MiniMaxAI/MiniMax-M3",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
           "date": "2026-06-14",
@@ -269,6 +256,19 @@
           "is_english": true,
           "summary": "• MiniMax-M3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "MiniMaxAI/MiniMax-M3",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "link": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "date": "2026-06-14",
+          "source": "HuggingFace",
+          "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
+          "is_english": true,
+          "summary": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/LocateAnything-3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -325,19 +325,6 @@
           "category": "AI Model"
         },
         {
-          "title": "bosonai/higgs-audio-v3-tts-4b",
-          "link": "https://huggingface.co/bosonai/higgs-audio-v3-tts-4b",
-          "date": "2026-06-14",
-          "source": "HuggingFace",
-          "description": "• higgs-audio-v3-tts-4b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/bosonai/higgs-audio-v3-tts-4b/resolve/main/./assets/model_architecture.png",
-          "is_english": true,
-          "summary": "• higgs-audio-v3-tts-4b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "bosonai/higgs-audio-v3-tts-4b",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "date": "2026-06-14",
@@ -351,15 +338,15 @@
           "category": "AI Model"
         },
         {
-          "title": "nex-agi/Nex-N2-Pro",
-          "link": "https://huggingface.co/nex-agi/Nex-N2-Pro",
+          "title": "bosonai/higgs-audio-v3-tts-4b",
+          "link": "https://huggingface.co/bosonai/higgs-audio-v3-tts-4b",
           "date": "2026-06-14",
           "source": "HuggingFace",
-          "description": "• Nex-N2-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/nex-agi/Nex-N2-Pro/resolve/main/./figures/NEX_logo.svg",
+          "description": "• higgs-audio-v3-tts-4b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/bosonai/higgs-audio-v3-tts-4b/resolve/main/./assets/model_architecture.png",
           "is_english": true,
-          "summary": "• Nex-N2-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nex-agi/Nex-N2-Pro",
+          "summary": "• higgs-audio-v3-tts-4b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "bosonai/higgs-audio-v3-tts-4b",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -373,6 +360,19 @@
           "is_english": true,
           "summary": "• Rio-3.5-Open-397B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "prefeitura-rio/Rio-3.5-Open-397B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nex-agi/Nex-N2-Pro",
+          "link": "https://huggingface.co/nex-agi/Nex-N2-Pro",
+          "date": "2026-06-14",
+          "source": "HuggingFace",
+          "description": "• Nex-N2-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/nex-agi/Nex-N2-Pro/resolve/main/./figures/NEX_logo.svg",
+          "is_english": true,
+          "summary": "• Nex-N2-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nex-agi/Nex-N2-Pro",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
