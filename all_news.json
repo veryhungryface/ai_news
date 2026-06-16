@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-06-17",
-      "update_time": "2026-06-16 18:51:56",
+      "update_time": "2026-06-16 22:48:20",
       "news": [
+        {
+          "title": "SpaceX Aims at Agentic Coding With $60B Cursor Acquisition",
+          "link": "https://aibusiness.com/generative-ai/spacex-aims-agentic-coding-60b-cursor-acquisition",
+          "date": "2026-06-17",
+          "source": "AI Business",
+          "description": "The acquisition could help SpaceX expand its developer offerings and will give it access to Cursor’s developer workflow and user analytics.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltfa3a070f135cd1d7/6a319c7729bcbf0008c72ca5/Cursor.png?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "SpaceX Aims at Agentic Coding With $60B Cursor Acquisition",
+          "original_summary": "The acquisition could help SpaceX expand its developer offerings and will give it access to Cursor’s developer workflow and user analytics.",
+          "summary": "The acquisition could help SpaceX expand its developer offerings and will give it access to Cursor’s developer workflow and user analytics."
+        },
         {
           "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
           "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
@@ -83,6 +95,19 @@
           "category": "AI Model"
         },
         {
+          "title": "unsloth/diffusiongemma-26B-A4B-it-GGUF",
+          "link": "https://huggingface.co/unsloth/diffusiongemma-26B-A4B-it-GGUF",
+          "date": "2026-06-17",
+          "source": "HuggingFace",
+          "description": "• diffusiongemma-26B-A4B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/62ecdc18b72a69615d6bd857/2LZaCFfmQVzpse8PWd0Oh.gif",
+          "is_english": true,
+          "summary": "• diffusiongemma-26B-A4B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/diffusiongemma-26B-A4B-it-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "CohereLabs/North-Mini-Code-1.0",
           "link": "https://huggingface.co/CohereLabs/North-Mini-Code-1.0",
           "date": "2026-06-17",
@@ -96,15 +121,15 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/diffusiongemma-26B-A4B-it-GGUF",
-          "link": "https://huggingface.co/unsloth/diffusiongemma-26B-A4B-it-GGUF",
+          "title": "zai-org/GLM-5.2",
+          "link": "https://huggingface.co/zai-org/GLM-5.2",
           "date": "2026-06-17",
           "source": "HuggingFace",
-          "description": "• diffusiongemma-26B-A4B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/62ecdc18b72a69615d6bd857/2LZaCFfmQVzpse8PWd0Oh.gif",
+          "description": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
           "is_english": true,
-          "summary": "• diffusiongemma-26B-A4B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/diffusiongemma-26B-A4B-it-GGUF",
+          "summary": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "zai-org/GLM-5.2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -148,19 +173,6 @@
           "category": "AI Model"
         },
         {
-          "title": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
-          "link": "https://huggingface.co/OBLITERATUS/Gemma-4-12B-OBLITERATED",
-          "date": "2026-06-17",
-          "source": "HuggingFace",
-          "description": "• Gemma-4-12B-OBLITERATED 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Gemma-4-12B-OBLITERATED 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "bosonai/higgs-audio-v3-tts-4b",
           "link": "https://huggingface.co/bosonai/higgs-audio-v3-tts-4b",
           "date": "2026-06-17",
@@ -170,6 +182,19 @@
           "is_english": true,
           "summary": "• higgs-audio-v3-tts-4b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "bosonai/higgs-audio-v3-tts-4b",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
+          "link": "https://huggingface.co/OBLITERATUS/Gemma-4-12B-OBLITERATED",
+          "date": "2026-06-17",
+          "source": "HuggingFace",
+          "description": "• Gemma-4-12B-OBLITERATED 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Gemma-4-12B-OBLITERATED 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "OBLITERATUS/Gemma-4-12B-OBLITERATED",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -196,6 +221,19 @@
           "is_english": true,
           "summary": "• FastContext-1.0-4B-SFT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "microsoft/FastContext-1.0-4B-SFT",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "WeiboAI/VibeThinker-3B",
+          "link": "https://huggingface.co/WeiboAI/VibeThinker-3B",
+          "date": "2026-06-17",
+          "source": "HuggingFace",
+          "description": "• VibeThinker-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/WeiboAI/VibeThinker-3B/resolve/main/pictures/Abstrct.png",
+          "is_english": true,
+          "summary": "• VibeThinker-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "WeiboAI/VibeThinker-3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -237,39 +275,73 @@
           "translated_title": "nex-agi/Nex-N2-mini",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "zai-org/GLM-5.2",
-          "link": "https://huggingface.co/zai-org/GLM-5.2",
-          "date": "2026-06-17",
-          "source": "HuggingFace",
-          "description": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
-          "is_english": true,
-          "summary": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "zai-org/GLM-5.2",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "deepseek-ai/DeepSeek-V4-Pro",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
-          "date": "2026-06-17",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
-          "is_english": true,
-          "summary": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepseek-ai/DeepSeek-V4-Pro",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-06-16",
-      "update_time": "2026-06-16 18:51:54",
+      "update_time": "2026-06-16 22:48:18",
       "news": [
+        {
+          "title": "광양만권경제자유구역 율촌1산단 현대스틸산업 국내 최대 규모 해상풍력 전용 기지 준공",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211799",
+          "date": "2026-06-16",
+          "source": "AI타임스",
+          "description": "광양만권경제자유구역 율촌1산단에 국내 최대 규모의 해상풍력 전용 대조립 마감장 2개 동과 국내 최대 인양 능력의 1200톤급 리프팅 타워가 들어섰다. 현대스틸산업이 총 300억원의 사업비를 투입한 이번 설비는, 대형화 추세 발맞춰 15메가와트(MW)급 초대형 해상풍력 시장의 글로벌 선두기업으로 도약하기 위한 것이다. 광양만권경제자유구역청(청장 구충곤)은 16일 광양만권 율촌1산단 현대스틸산업 율촌공장에서 \\'해상풍력 전용 마감장 및 대형 인양장비\\' 준공식이 개최됐다고 밝혔다.준공식에는 이청휴 현대스틸산업 대표 및 현대건설 관계자, 정",
+          "image": "https://cdn.aitimes.com/news/photo/202606/211799_214876_626.jpg",
+          "is_english": false,
+          "original_title": "광양만권경제자유구역 율촌1산단 현대스틸산업 국내 최대 규모 해상풍력 전용 기지 준공",
+          "original_summary": "광양만권경제자유구역 율촌1산단에 국내 최대 규모의 해상풍력 전용 대조립 마감장 2개 동과 국내 최대 인양 능력의 1200톤급 리프팅 타워가 들어섰다. 현대스틸산업이 총 300억원의 사업비를 투입한 이번 설비는, 대형화 추세 발맞춰 15메가와트(MW)급 초대형 해상풍력 시장의 글로벌 선두기업으로 도약하기 위한 것이다. 광양만권경제자유구역청(청장 구충곤)은 16일 광양만권 율촌1산단 현대스틸산업 율촌공장에서 \\'해상풍력 전용 마감장 및 대형 인양장비\\' 준공식이 개최됐다고 밝혔다.준공식에는 이청휴 현대스틸산업 대표 및 현대건설 관계자,",
+          "summary": "광양만권경제자유구역 율촌1산단에 국내 최대 규모의 해상풍력 전용 대조립 마감장 2개 동과 국내 최대 인양 능력의 1200톤급 리프팅 타워가 들어섰다. 현대스틸산업이 총 300억원의 사업비를 투입한 이번 설비는, 대형화 추세 발맞춰 15메가와트(MW)급 초대형 해상풍력 시장의 글로벌 선두기업으로 도약하기 위한 것이다. 광양만권경제자유구역청(청장 구충곤)은 16일 광양만권 율촌1산단 현대스틸산업 율촌공장에서 \\'해상풍력 전용 마감장 및 대형 인양장비\\' 준공식이 개최됐다고 밝혔다.준공식에는 이청휴 현대스틸산업 대표 및 현대건설 관계자,"
+        },
+        {
+          "title": "Predicting model behavior before release by simulating deployment",
+          "link": "https://openai.com/index/deployment-simulation",
+          "date": "2026-06-16",
+          "source": "OpenAI",
+          "description": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Predicting model behavior before release by simulating deployment",
+          "original_summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy.",
+          "summary": "OpenAI introduces Deployment Simulation, a method to predict AI model behavior before deployment using real conversation data to improve safety and evaluation accuracy."
+        },
+        {
+          "title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
+          "link": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+          "date": "2026-06-16",
+          "source": "TechCrunch",
+          "description": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Anthropic’s latest feud with the Trump admin may actually help it, sales data suggests",
+          "original_summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests.",
+          "summary": "Anthropic's popularity with business users is growing so well that the latest beef with the government might actually boost it, data from Ramp suggests."
+        },
+        {
+          "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
+          "link": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
+          "date": "2026-06-16",
+          "source": "TechCrunch",
+          "description": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1244294229.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
+          "original_summary": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
+          "summary": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday."
+        },
+        {
+          "title": "MIT’s Initiative for New Manufacturing builds momentum",
+          "link": "https://news.mit.edu/2026/mit-initiative-for-new-manufacturing-builds-momentum-0616",
+          "date": "2026-06-16",
+          "source": "MIT News",
+          "description": "In its first year, INM has worked across research, workforce development, and industry engagement to help accelerate new manufacturing technologies and their real-world deployment.",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202606/mit-inm-manufacturing.jpg?itok=Ffoqz9lZ",
+          "is_english": true,
+          "original_title": "MIT’s Initiative for New Manufacturing builds momentum",
+          "original_summary": "In its first year, INM has worked across research, workforce development, and industry engagement to help accelerate new manufacturing technologies and their real-world deployment.",
+          "summary": "In its first year, INM has worked across research, workforce development, and industry engagement to help accelerate new manufacturing technologies and their real-world deployment."
+        },
         {
           "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
           "link": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
@@ -8257,7 +8329,7 @@
         {
           "title": "nvidia/LocateAnything-3B",
           "link": "https://huggingface.co/nvidia/LocateAnything-3B",
-          "date": "2026-06-08",
+          "date": "2026-06-17",
           "source": "HuggingFace",
           "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
@@ -8270,7 +8342,7 @@
         {
           "title": "google/gemma-4-12B-it",
           "link": "https://huggingface.co/google/gemma-4-12B-it",
-          "date": "2026-06-08",
+          "date": "2026-06-17",
           "source": "HuggingFace",
           "description": "• gemma-4-12B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -8335,7 +8407,7 @@
         {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-06-08",
+          "date": "2026-06-17",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -8374,7 +8446,7 @@
         {
           "title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
           "link": "https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b",
-          "date": "2026-06-08",
+          "date": "2026-06-17",
           "source": "HuggingFace",
           "description": "• nemotron-3.5-asr-streaming-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
@@ -8387,7 +8459,7 @@
         {
           "title": "bosonai/higgs-audio-v3-tts-4b",
           "link": "https://huggingface.co/bosonai/higgs-audio-v3-tts-4b",
-          "date": "2026-06-08",
+          "date": "2026-06-17",
           "source": "HuggingFace",
           "description": "• higgs-audio-v3-tts-4b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/bosonai/higgs-audio-v3-tts-4b/resolve/main/./assets/model_architecture.png",
