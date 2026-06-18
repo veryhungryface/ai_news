@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-06-19",
-      "update_time": "2026-06-18 17:56:11",
+      "update_time": "2026-06-18 20:11:02",
       "news": [
+        {
+          "title": "New usage analytics and updated spend controls for enterprises",
+          "link": "https://openai.com/index/chatgpt-enterprise-spend-controls",
+          "date": "2026-06-19",
+          "source": "OpenAI",
+          "description": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+          "image": null,
+          "is_english": true,
+          "original_title": "New usage analytics and updated spend controls for enterprises",
+          "original_summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+          "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence."
+        },
+        {
+          "title": "Prompt: The AI Race Enters Its Sovereignty Phase",
+          "link": "https://aibusiness.com/generative-ai/prompt-ai-race-enters-sovereignty-phase",
+          "date": "2026-06-19",
+          "source": "AI Business",
+          "description": "Anthropic's model restrictions highlight a growing shift as governments and enterprises place greater emphasis on access, control and AI sovereignty.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt7509ddeec6a3d7aa/6a3432eb75c8556b008735f7/Sov.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Prompt: The AI Race Enters Its Sovereignty Phase",
+          "original_summary": "Anthropic's model restrictions highlight a growing shift as governments and enterprises place greater emphasis on access, control and AI sovereignty.",
+          "summary": "Anthropic's model restrictions highlight a growing shift as governments and enterprises place greater emphasis on access, control and AI sovereignty."
+        },
         {
           "title": "Google Cloud Bets Big on the Agentic Enterprise",
           "link": "https://aibusiness.com/generative-ai/google-cloud-bets-big-agentic-enterprise",
@@ -173,19 +197,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/diffusiongemma-26B-A4B-it-GGUF",
-          "link": "https://huggingface.co/unsloth/diffusiongemma-26B-A4B-it-GGUF",
-          "date": "2026-06-19",
-          "source": "HuggingFace",
-          "description": "• diffusiongemma-26B-A4B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/62ecdc18b72a69615d6bd857/2LZaCFfmQVzpse8PWd0Oh.gif",
-          "is_english": true,
-          "summary": "• diffusiongemma-26B-A4B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/diffusiongemma-26B-A4B-it-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "CohereLabs/North-Mini-Code-1.0",
           "link": "https://huggingface.co/CohereLabs/North-Mini-Code-1.0",
           "date": "2026-06-19",
@@ -195,6 +206,19 @@
           "is_english": true,
           "summary": "• North-Mini-Code-1.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "CohereLabs/North-Mini-Code-1.0",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/diffusiongemma-26B-A4B-it-GGUF",
+          "link": "https://huggingface.co/unsloth/diffusiongemma-26B-A4B-it-GGUF",
+          "date": "2026-06-19",
+          "source": "HuggingFace",
+          "description": "• diffusiongemma-26B-A4B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/62ecdc18b72a69615d6bd857/2LZaCFfmQVzpse8PWd0Oh.gif",
+          "is_english": true,
+          "summary": "• diffusiongemma-26B-A4B-it-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/diffusiongemma-26B-A4B-it-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -251,6 +275,19 @@
           "category": "AI Model"
         },
         {
+          "title": "lordx64/Qwable-v1",
+          "link": "https://huggingface.co/lordx64/Qwable-v1",
+          "date": "2026-06-19",
+          "source": "HuggingFace",
+          "description": "• Qwable-v1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/🤗_Base-Qwen3.6--35B--A3B--Claude--4.7--Opus--Reasoning--Distilled-blue",
+          "is_english": true,
+          "summary": "• Qwable-v1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "lordx64/Qwable-v1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "zai-org/SCAIL-2",
           "link": "https://huggingface.co/zai-org/SCAIL-2",
           "date": "2026-06-19",
@@ -262,26 +299,61 @@
           "translated_title": "zai-org/SCAIL-2",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "google/gemma-4-12B-it",
-          "link": "https://huggingface.co/google/gemma-4-12B-it",
-          "date": "2026-06-19",
-          "source": "HuggingFace",
-          "description": "• gemma-4-12B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• gemma-4-12B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/gemma-4-12B-it",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-06-18",
-      "update_time": "2026-06-18 17:56:11",
+      "update_time": "2026-06-18 20:11:01",
       "news": [
+        {
+          "title": "Improving health intelligence in ChatGPT",
+          "link": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+          "date": "2026-06-18",
+          "source": "OpenAI",
+          "description": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Improving health intelligence in ChatGPT",
+          "original_summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+          "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations."
+        },
+        {
+          "title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+          "link": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/",
+          "date": "2026-06-18",
+          "source": "TechCrunch",
+          "description": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/noam-shazeer-deal-ball.png?resize=1200,800",
+          "is_english": true,
+          "original_title": "OpenAI is bringing on some big guns in the lead-up to its IPO",
+          "original_summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.",
+          "summary": "OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week."
+        },
+        {
+          "title": "Almost half of U.S. singles feel negatively about AI in dating, Match says",
+          "link": "https://techcrunch.com/2026/06/18/almost-half-of-u-s-singles-feel-negatively-about-ai-in-dating-match-says/",
+          "date": "2026-06-18",
+          "source": "TechCrunch",
+          "description": "About 47% of singles look negatively at the use of AI in dating -- but, many dating app users are open to AI helping with profile punch-ups and conversation starters.",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/05/GettyImages-1131615694.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Almost half of U.S. singles feel negatively about AI in dating, Match says",
+          "original_summary": "About 47% of singles look negatively at the use of AI in dating -- but, many dating app users are open to AI helping with profile punch-ups and conversation starters.",
+          "summary": "About 47% of singles look negatively at the use of AI in dating -- but, many dating app users are open to AI helping with profile punch-ups and conversation starters."
+        },
+        {
+          "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+          "link": "https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/",
+          "date": "2026-06-18",
+          "source": "TechCrunch",
+          "description": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.",
+          "image": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1421680585.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
+          "original_summary": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company.",
+          "summary": "AWS is in talks to sell its chips to other data centers. CEO Andy Jassy has said this represents a $50 billion opportunity for the company."
+        },
         {
           "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
           "link": "https://openai.com/index/diagnose-rare-childhood-diseases",
@@ -8498,7 +8570,7 @@
         {
           "title": "nvidia/LocateAnything-3B",
           "link": "https://huggingface.co/nvidia/LocateAnything-3B",
-          "date": "2026-06-10",
+          "date": "2026-06-19",
           "source": "HuggingFace",
           "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
@@ -8550,7 +8622,7 @@
         {
           "title": "bosonai/higgs-audio-v3-tts-4b",
           "link": "https://huggingface.co/bosonai/higgs-audio-v3-tts-4b",
-          "date": "2026-06-10",
+          "date": "2026-06-19",
           "source": "HuggingFace",
           "description": "• higgs-audio-v3-tts-4b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/bosonai/higgs-audio-v3-tts-4b/resolve/main/./assets/model_architecture.png",
@@ -8576,7 +8648,7 @@
         {
           "title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
           "link": "https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b",
-          "date": "2026-06-10",
+          "date": "2026-06-19",
           "source": "HuggingFace",
           "description": "• nemotron-3.5-asr-streaming-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
@@ -8589,7 +8661,7 @@
         {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-06-10",
+          "date": "2026-06-19",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -8680,7 +8752,7 @@
         {
           "title": "nex-agi/Nex-N2-Pro",
           "link": "https://huggingface.co/nex-agi/Nex-N2-Pro",
-          "date": "2026-06-10",
+          "date": "2026-06-19",
           "source": "HuggingFace",
           "description": "• Nex-N2-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/nex-agi/Nex-N2-Pro/resolve/main/./figures/NEX_logo.svg",
