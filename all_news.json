@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-06-20",
-      "update_time": "2026-06-19 17:12:08",
+      "update_time": "2026-06-19 19:25:47",
       "news": [
         {
           "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
@@ -148,19 +148,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
-          "link": "https://huggingface.co/Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
-          "date": "2026-06-20",
-          "source": "HuggingFace",
-          "description": "• Qwopus3.6-27B-Coder-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwopus3.6-27B-Coder-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/GLM-5.2-GGUF",
           "link": "https://huggingface.co/unsloth/GLM-5.2-GGUF",
           "date": "2026-06-20",
@@ -170,6 +157,19 @@
           "is_english": true,
           "summary": "• GLM-5.2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/GLM-5.2-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
+          "link": "https://huggingface.co/Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
+          "date": "2026-06-20",
+          "source": "HuggingFace",
+          "description": "• Qwopus3.6-27B-Coder-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwopus3.6-27B-Coder-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,6 +239,19 @@
           "category": "AI Model"
         },
         {
+          "title": "nex-agi/Nex-N2-Pro",
+          "link": "https://huggingface.co/nex-agi/Nex-N2-Pro",
+          "date": "2026-06-20",
+          "source": "HuggingFace",
+          "description": "• Nex-N2-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/nex-agi/Nex-N2-Pro/resolve/main/./figures/NEX_logo.svg",
+          "is_english": true,
+          "summary": "• Nex-N2-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nex-agi/Nex-N2-Pro",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "unsloth/diffusiongemma-26B-A4B-it-GGUF",
           "link": "https://huggingface.co/unsloth/diffusiongemma-26B-A4B-it-GGUF",
           "date": "2026-06-20",
@@ -250,26 +263,25 @@
           "translated_title": "unsloth/diffusiongemma-26B-A4B-it-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "Zyphra/ZONOS2",
-          "link": "https://huggingface.co/Zyphra/ZONOS2",
-          "date": "2026-06-20",
-          "source": "HuggingFace",
-          "description": "• ZONOS2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/Zyphra/ZONOS2/resolve/main/./assets/ZONOS2BlogThumbnail.png",
-          "is_english": true,
-          "summary": "• ZONOS2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Zyphra/ZONOS2",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-06-19",
-      "update_time": "2026-06-19 17:12:06",
+      "update_time": "2026-06-19 19:25:47",
       "news": [
+        {
+          "title": "A better way to model the behavior of metal alloys",
+          "link": "https://news.mit.edu/2026/better-way-to-model-metal-alloys-behavior-0619",
+          "date": "2026-06-19",
+          "source": "MIT News",
+          "description": "MIT researchers’ approach captures subtle atomic patterns, improving predictions of material properties.",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202606/MIT_Modeling-Metals-01a-press.jpg?itok=jBfWLvPh",
+          "is_english": true,
+          "original_title": "A better way to model the behavior of metal alloys",
+          "original_summary": "MIT researchers’ approach captures subtle atomic patterns, improving predictions of material properties.",
+          "summary": "MIT researchers’ approach captures subtle atomic patterns, improving predictions of material properties."
+        },
         {
           "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
           "link": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
@@ -8233,7 +8245,7 @@
         {
           "title": "nvidia/LocateAnything-3B",
           "link": "https://huggingface.co/nvidia/LocateAnything-3B",
-          "date": "2026-06-11",
+          "date": "2026-06-20",
           "source": "HuggingFace",
           "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
@@ -8285,7 +8297,7 @@
         {
           "title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
           "link": "https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b",
-          "date": "2026-06-11",
+          "date": "2026-06-20",
           "source": "HuggingFace",
           "description": "• nemotron-3.5-asr-streaming-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
@@ -8324,7 +8336,7 @@
         {
           "title": "CohereLabs/North-Mini-Code-1.0",
           "link": "https://huggingface.co/CohereLabs/North-Mini-Code-1.0",
-          "date": "2026-06-11",
+          "date": "2026-06-20",
           "source": "HuggingFace",
           "description": "• North-Mini-Code-1.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/62668f725fb8d521d94d8451/xR7kZ3X9RKEZrbgD6hpG1.png",
@@ -8350,7 +8362,7 @@
         {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-06-11",
+          "date": "2026-06-20",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -8415,7 +8427,7 @@
         {
           "title": "nex-agi/Nex-N2-Pro",
           "link": "https://huggingface.co/nex-agi/Nex-N2-Pro",
-          "date": "2026-06-11",
+          "date": "2026-06-20",
           "source": "HuggingFace",
           "description": "• Nex-N2-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/nex-agi/Nex-N2-Pro/resolve/main/./figures/NEX_logo.svg",
