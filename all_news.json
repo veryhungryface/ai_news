@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-06-20",
-      "update_time": "2026-06-19 19:25:47",
+      "update_time": "2026-06-19 21:58:41",
       "news": [
         {
           "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
@@ -135,19 +135,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
-          "link": "https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b",
-          "date": "2026-06-20",
-          "source": "HuggingFace",
-          "description": "• nemotron-3.5-asr-streaming-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
-          "is_english": true,
-          "summary": "• nemotron-3.5-asr-streaming-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/GLM-5.2-GGUF",
           "link": "https://huggingface.co/unsloth/GLM-5.2-GGUF",
           "date": "2026-06-20",
@@ -157,6 +144,19 @@
           "is_english": true,
           "summary": "• GLM-5.2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/GLM-5.2-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
+          "link": "https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b",
+          "date": "2026-06-20",
+          "source": "HuggingFace",
+          "description": "• nemotron-3.5-asr-streaming-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• nemotron-3.5-asr-streaming-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -187,6 +187,19 @@
           "category": "AI Model"
         },
         {
+          "title": "lordx64/Qwable-v1",
+          "link": "https://huggingface.co/lordx64/Qwable-v1",
+          "date": "2026-06-20",
+          "source": "HuggingFace",
+          "description": "• Qwable-v1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/🤗_Base-Qwen3.6--35B--A3B--Claude--4.7--Opus--Reasoning--Distilled-blue",
+          "is_english": true,
+          "summary": "• Qwable-v1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "lordx64/Qwable-v1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "deepseek-ai/DeepSeek-V4-Pro",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
           "date": "2026-06-20",
@@ -209,19 +222,6 @@
           "is_english": true,
           "summary": "• North-Mini-Code-1.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "CohereLabs/North-Mini-Code-1.0",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "lordx64/Qwable-v1",
-          "link": "https://huggingface.co/lordx64/Qwable-v1",
-          "date": "2026-06-20",
-          "source": "HuggingFace",
-          "description": "• Qwable-v1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/🤗_Base-Qwen3.6--35B--A3B--Claude--4.7--Opus--Reasoning--Distilled-blue",
-          "is_english": true,
-          "summary": "• Qwable-v1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "lordx64/Qwable-v1",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
