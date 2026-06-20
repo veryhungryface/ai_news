@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-06-21",
-      "update_time": "2026-06-20 16:12:30",
+      "update_time": "2026-06-20 19:09:43",
       "news": [
         {
           "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
@@ -213,19 +213,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
-          "link": "https://huggingface.co/Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
-          "date": "2026-06-21",
-          "source": "HuggingFace",
-          "description": "• Qwopus3.6-27B-Coder-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwopus3.6-27B-Coder-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "CohereLabs/North-Mini-Code-1.0",
           "link": "https://huggingface.co/CohereLabs/North-Mini-Code-1.0",
           "date": "2026-06-21",
@@ -235,6 +222,19 @@
           "is_english": true,
           "summary": "• North-Mini-Code-1.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "CohereLabs/North-Mini-Code-1.0",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
+          "link": "https://huggingface.co/Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
+          "date": "2026-06-21",
+          "source": "HuggingFace",
+          "description": "• Qwopus3.6-27B-Coder-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwopus3.6-27B-Coder-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -252,15 +252,15 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Kimi-K2.7-Code-GGUF",
-          "link": "https://huggingface.co/unsloth/Kimi-K2.7-Code-GGUF",
+          "title": "Mia-AiLab/Qwable-3.6-27b",
+          "link": "https://huggingface.co/Mia-AiLab/Qwable-3.6-27b",
           "date": "2026-06-21",
           "source": "HuggingFace",
-          "description": "• Kimi-K2.7-Code-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "description": "• Qwable-3.6-27b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/Mia-AiLab/Qwable-3.6-27b/resolve/main/assets/qwable-27b.png",
           "is_english": true,
-          "summary": "• Kimi-K2.7-Code-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Kimi-K2.7-Code-GGUF",
+          "summary": "• Qwable-3.6-27b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Mia-AiLab/Qwable-3.6-27b",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -268,8 +268,44 @@
     },
     {
       "date": "2026-06-20",
-      "update_time": "2026-06-20 13:27:40",
+      "update_time": "2026-06-20 19:09:41",
       "news": [
+        {
+          "title": "박준우 베슬AI 리더 \"분산 GPU 최적화, 토큰 시대의 해답\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211798",
+          "date": "2026-06-20",
+          "source": "AI타임스",
+          "description": "지구촌 전체가 극심한 GPU 공급 부족(Shortage) 상태에 빠졌다. 단기간에 공급량을 늘릴 수 없는 구조적 한계 속에서 인프라 시장에는 기존 자원을 아껴 나눠 쓰는 일종의 ‘아나바다’ 바람이 불고 있다.전 세계에 흩어진 유휴 GPU 자원을 발굴해 실시간 연결하는 네오클라우드 기업 베슬AI의 박준우 GTM(Go-To-Market) 리더를 만나 쇼티지의 현실과 해법을 들었다.■ 쇼티지보다 무서운 건 확보한 GPU 100% 활용 못 하는 현실베슬AI는 현재의 쇼티지를 물량 자체가 부족하기도 하지만, 막상 비싼 돈을 들여 칩을 확보하",
+          "image": "https://cdn.aitimes.com/news/photo/202606/211798_214996_1135.jpg",
+          "is_english": false,
+          "original_title": "박준우 베슬AI 리더 \"분산 GPU 최적화, 토큰 시대의 해답\"",
+          "original_summary": "지구촌 전체가 극심한 GPU 공급 부족(Shortage) 상태에 빠졌다. 단기간에 공급량을 늘릴 수 없는 구조적 한계 속에서 인프라 시장에는 기존 자원을 아껴 나눠 쓰는 일종의 ‘아나바다’ 바람이 불고 있다.전 세계에 흩어진 유휴 GPU 자원을 발굴해 실시간 연결하는 네오클라우드 기업 베슬AI의 박준우 GTM(Go-To-Market) 리더를 만나 쇼티지의 현실과 해법을 들었다.■ 쇼티지보다 무서운 건 확보한 GPU 100% 활용 못 하는 현실베슬AI는 현재의 쇼티지를 물량 자체가 부족하기도 하지만, 막상 비싼 돈을 들여 칩을 확보하",
+          "summary": "지구촌 전체가 극심한 GPU 공급 부족(Shortage) 상태에 빠졌다. 단기간에 공급량을 늘릴 수 없는 구조적 한계 속에서 인프라 시장에는 기존 자원을 아껴 나눠 쓰는 일종의 ‘아나바다’ 바람이 불고 있다.전 세계에 흩어진 유휴 GPU 자원을 발굴해 실시간 연결하는 네오클라우드 기업 베슬AI의 박준우 GTM(Go-To-Market) 리더를 만나 쇼티지의 현실과 해법을 들었다.■ 쇼티지보다 무서운 건 확보한 GPU 100% 활용 못 하는 현실베슬AI는 현재의 쇼티지를 물량 자체가 부족하기도 하지만, 막상 비싼 돈을 들여 칩을 확보하"
+        },
+        {
+          "title": "[양현상 칼럼] \"AI 융합’ 없는 방산 기업은 도태된다\"...미·이란 전쟁이 던진 경고",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211935",
+          "date": "2026-06-20",
+          "source": "AI타임스",
+          "description": "최근 중동에서 발생한 미국과 이란의 군사 충돌은 단순한 지역 분쟁 이상의 의미를 갖는다. 인류 전장사(戰史)의 거대한 패러다임 전환을 알리는 신호탄이자, 현대전의 승패를 결정하는 요소가 병력 규모나 무기 수량에서 데이터와 인공지능(AI)으로 완전히 이동했음을 보여준 결정적 사례이기 때문이다.그동안 군사력은 전투기(FX), 전차, 함정, 미사일과 같은 물리적 하드웨어의 우위로 설명되어 왔다. 그러나 지금 이 순간 전장의 최전선에서는 AI가 스스로 표적을 식별하고, 수백 대의 드론 군집을 통제하며, 미사일 방어 우선순위를 실시간으로 결",
+          "image": "https://cdn.aitimes.com/news/photo/202606/211935_215054_5052.jpg",
+          "is_english": false,
+          "original_title": "[양현상 칼럼] \"AI 융합’ 없는 방산 기업은 도태된다\"...미·이란 전쟁이 던진 경고",
+          "original_summary": "최근 중동에서 발생한 미국과 이란의 군사 충돌은 단순한 지역 분쟁 이상의 의미를 갖는다. 인류 전장사(戰史)의 거대한 패러다임 전환을 알리는 신호탄이자, 현대전의 승패를 결정하는 요소가 병력 규모나 무기 수량에서 데이터와 인공지능(AI)으로 완전히 이동했음을 보여준 결정적 사례이기 때문이다.그동안 군사력은 전투기(FX), 전차, 함정, 미사일과 같은 물리적 하드웨어의 우위로 설명되어 왔다. 그러나 지금 이 순간 전장의 최전선에서는 AI가 스스로 표적을 식별하고, 수백 대의 드론 군집을 통제하며, 미사일 방어 우선순위를 실시간으로 결",
+          "summary": "최근 중동에서 발생한 미국과 이란의 군사 충돌은 단순한 지역 분쟁 이상의 의미를 갖는다. 인류 전장사(戰史)의 거대한 패러다임 전환을 알리는 신호탄이자, 현대전의 승패를 결정하는 요소가 병력 규모나 무기 수량에서 데이터와 인공지능(AI)으로 완전히 이동했음을 보여준 결정적 사례이기 때문이다.그동안 군사력은 전투기(FX), 전차, 함정, 미사일과 같은 물리적 하드웨어의 우위로 설명되어 왔다. 그러나 지금 이 순간 전장의 최전선에서는 AI가 스스로 표적을 식별하고, 수백 대의 드론 군집을 통제하며, 미사일 방어 우선순위를 실시간으로 결"
+        },
+        {
+          "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+          "link": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+          "date": "2026-06-20",
+          "source": "TechCrunch",
+          "description": "Jumper isn't the only big name leaving Google DeepMind.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2148577076-e1728469833661.jpg?resize=1200,676",
+          "is_english": true,
+          "original_title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+          "original_summary": "Jumper isn't the only big name leaving Google DeepMind.",
+          "summary": "Jumper isn't the only big name leaving Google DeepMind."
+        },
         {
           "title": "'GIST-Arm 스쿨' 22일까지 첫 교육생 모집",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=211945",
@@ -7681,7 +7717,7 @@
         {
           "title": "google/diffusiongemma-26B-A4B-it",
           "link": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
-          "date": "2026-06-12",
+          "date": "2026-06-21",
           "source": "HuggingFace",
           "description": "• diffusiongemma-26B-A4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -7694,7 +7730,7 @@
         {
           "title": "nvidia/LocateAnything-3B",
           "link": "https://huggingface.co/nvidia/LocateAnything-3B",
-          "date": "2026-06-12",
+          "date": "2026-06-21",
           "source": "HuggingFace",
           "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
@@ -7720,7 +7756,7 @@
         {
           "title": "CohereLabs/North-Mini-Code-1.0",
           "link": "https://huggingface.co/CohereLabs/North-Mini-Code-1.0",
-          "date": "2026-06-12",
+          "date": "2026-06-21",
           "source": "HuggingFace",
           "description": "• North-Mini-Code-1.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/62668f725fb8d521d94d8451/xR7kZ3X9RKEZrbgD6hpG1.png",
@@ -7772,7 +7808,7 @@
         {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-06-12",
+          "date": "2026-06-21",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -7785,7 +7821,7 @@
         {
           "title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
           "link": "https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b",
-          "date": "2026-06-12",
+          "date": "2026-06-21",
           "source": "HuggingFace",
           "description": "• nemotron-3.5-asr-streaming-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
