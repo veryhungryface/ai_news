@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-06-20",
-      "update_time": "2026-06-20 11:08:34",
+      "update_time": "2026-06-20 13:27:40",
       "news": [
+        {
+          "title": "'GIST-Arm 스쿨' 22일까지 첫 교육생 모집",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211945",
+          "date": "2026-06-20",
+          "source": "AI타임스",
+          "description": "광주과학기술원(GIST·총장 임기철)은 ‘GIST-Arm 스쿨 반도체 설계 교육 프로그램’을 본격 운영한다고 19일 밝혔다.이 프로그램은 GIST가 지난 2월 Arm과 체결한 MOU의 후속 사업으로, Arm의 공식 교육 콘텐츠와 설계 자산을 활용해 반도체 설계 분야의 실무형 전문 인력을 양성하는 데 목적이 있다.교육 대상은 반도체 분야 취업을 희망하는 학부 4학년 이상 학생과 졸업(예정)자, 재직자이며, 트랙별 30명을 선발한다.현재 전체 7개 트랙 중 ‘Arm 기반 컴퓨터 아키텍처 입문(1트랙)’과 ‘Arm 기반 임베디드 시스템(",
+          "image": "https://cdn.aitimes.com/news/photo/202606/211945_215068_3632.jpeg",
+          "is_english": true,
+          "original_title": "'GIST-Arm 스쿨' 22일까지 첫 교육생 모집",
+          "original_summary": "광주과학기술원(GIST·총장 임기철)은 ‘GIST-Arm 스쿨 반도체 설계 교육 프로그램’을 본격 운영한다고 19일 밝혔다.이 프로그램은 GIST가 지난 2월 Arm과 체결한 MOU의 후속 사업으로, Arm의 공식 교육 콘텐츠와 설계 자산을 활용해 반도체 설계 분야의 실무형 전문 인력을 양성하는 데 목적이 있다.교육 대상은 반도체 분야 취업을 희망하는 학부 4학년 이상 학생과 졸업(예정)자, 재직자이며, 트랙별 30명을 선발한다.현재 전체 7개 트랙 중 ‘Arm 기반 컴퓨터 아키텍처 입문(1트랙)’과 ‘Arm 기반 임베디드 시스템(",
+          "summary": "광주과학기술원(GIST·총장 임기철)은 ‘GIST-Arm 스쿨 반도체 설계 교육 프로그램’을 본격 운영한다고 19일 밝혔다.이 프로그램은 GIST가 지난 2월 Arm과 체결한 MOU의 후속 사업으로, Arm의 공식 교육 콘텐츠와 설계 자산을 활용해 반도체 설계 분야의 실무형 전문 인력을 양성하는 데 목적이 있다.교육 대상은 반도체 분야 취업을 희망하는 학부 4학년 이상 학생과 졸업(예정)자, 재직자이며, 트랙별 30명을 선발한다.현재 전체 7개 트랙 중 ‘Arm 기반 컴퓨터 아키텍처 입문(1트랙)’과 ‘Arm 기반 임베디드 시스템("
+        },
         {
           "title": "에버퓨어 \"단순 저장 넘어 ‘데이터 인텔리전스’ 역량 강화\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=211942",
@@ -438,6 +450,19 @@
           "category": "AI Model"
         },
         {
+          "title": "owensong/Inflect-Nano-v1",
+          "link": "https://huggingface.co/owensong/Inflect-Nano-v1",
+          "date": "2026-06-20",
+          "source": "HuggingFace",
+          "description": "• Inflect-Nano-v1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/owensong/Inflect-Nano-v1/resolve/main/assets/inflect-nano-banner.png",
+          "is_english": true,
+          "summary": "• Inflect-Nano-v1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "owensong/Inflect-Nano-v1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
           "link": "https://huggingface.co/Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
           "date": "2026-06-20",
@@ -451,15 +476,15 @@
           "category": "AI Model"
         },
         {
-          "title": "owensong/Inflect-Nano-v1",
-          "link": "https://huggingface.co/owensong/Inflect-Nano-v1",
+          "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
           "date": "2026-06-20",
           "source": "HuggingFace",
-          "description": "• Inflect-Nano-v1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/owensong/Inflect-Nano-v1/resolve/main/assets/inflect-nano-banner.png",
+          "description": "• gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• Inflect-Nano-v1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "owensong/Inflect-Nano-v1",
+          "summary": "• gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -486,19 +511,6 @@
           "is_english": true,
           "summary": "• North-Mini-Code-1.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "CohereLabs/North-Mini-Code-1.0",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-          "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-          "date": "2026-06-20",
-          "source": "HuggingFace",
-          "description": "• gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
