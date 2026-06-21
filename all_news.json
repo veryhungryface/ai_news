@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-06-22",
-      "update_time": "2026-06-21 19:14:59",
+      "update_time": "2026-06-21 22:08:38",
       "news": [
+        {
+          "title": "[인터뷰] 고의숙 제주교육감 당선인 \"AI로 '초개별화 맞춤교육' 시행\"",
+          "link": "https://www.yna.co.kr/view/AKR20260620021200056",
+          "date": "2026-06-22",
+          "source": "연합뉴스",
+          "description": "(제주=연합뉴스) 김호천 기자 = 고의숙 제주도교육감 당선인은 &apos;초개별화 맞춤교육&apos;을 펼치겠다고 밝혔다.",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/06/20/AKR20260620021200056_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "[인터뷰] 고의숙 제주교육감 당선인 \"AI로 '초개별화 맞춤교육' 시행\"",
+          "original_summary": "(제주=연합뉴스) 김호천 기자 = 고의숙 제주도교육감 당선인은 &apos;초개별화 맞춤교육&apos;을 펼치겠다고 밝혔다.",
+          "summary": "(제주=연합뉴스) 김호천 기자 = 고의숙 제주도교육감 당선인은 &apos;초개별화 맞춤교육&apos;을 펼치겠다고 밝혔다."
+        },
         {
           "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
           "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
@@ -31,19 +43,6 @@
           "category": "AI Model"
         },
         {
-          "title": "MiniMaxAI/MiniMax-M3",
-          "link": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
-          "date": "2026-06-22",
-          "source": "HuggingFace",
-          "description": "• MiniMax-M3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/MiniMaxAI/MiniMax-M3/resolve/main/figures/logo.svg",
-          "is_english": true,
-          "summary": "• MiniMax-M3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "MiniMaxAI/MiniMax-M3",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "WeiboAI/VibeThinker-3B",
           "link": "https://huggingface.co/WeiboAI/VibeThinker-3B",
           "date": "2026-06-22",
@@ -53,6 +52,19 @@
           "is_english": true,
           "summary": "• VibeThinker-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "WeiboAI/VibeThinker-3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-M3",
+          "link": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
+          "date": "2026-06-22",
+          "source": "HuggingFace",
+          "description": "• MiniMax-M3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/MiniMaxAI/MiniMax-M3/resolve/main/figures/logo.svg",
+          "is_english": true,
+          "summary": "• MiniMax-M3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "MiniMaxAI/MiniMax-M3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -226,19 +238,6 @@
           "category": "AI Model"
         },
         {
-          "title": "datalab-to/lift",
-          "link": "https://huggingface.co/datalab-to/lift",
-          "date": "2026-06-22",
-          "source": "HuggingFace",
-          "description": "• lift 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/datalab-to/lift/resolve/main/datalab-logo.png",
-          "is_english": true,
-          "summary": "• lift 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "datalab-to/lift",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "CohereLabs/North-Mini-Code-1.0",
           "link": "https://huggingface.co/CohereLabs/North-Mini-Code-1.0",
           "date": "2026-06-22",
@@ -248,6 +247,19 @@
           "is_english": true,
           "summary": "• North-Mini-Code-1.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "CohereLabs/North-Mini-Code-1.0",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "datalab-to/lift",
+          "link": "https://huggingface.co/datalab-to/lift",
+          "date": "2026-06-22",
+          "source": "HuggingFace",
+          "description": "• lift 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/datalab-to/lift/resolve/main/datalab-logo.png",
+          "is_english": true,
+          "summary": "• lift 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "datalab-to/lift",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
