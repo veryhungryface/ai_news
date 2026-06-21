@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-06-21",
-      "update_time": "2026-06-20 22:00:30",
+      "update_time": "2026-06-21 02:41:46",
       "news": [
+        {
+          "title": "서울시, 재개발·재건축조합 전자총회 등 지원…\"기간 단축\"",
+          "link": "https://www.yna.co.kr/view/AKR20260620029700004",
+          "date": "2026-06-21",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 김준태 기자 = 서울시는 정비사업 동의서 수집부터 총회 의결까지 &apos;디지털 전환&apos;을 지원해 사업 기간을 줄일 계획이라고 21일 ...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/06/20/AKR20260620029700004_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "서울시, 재개발·재건축조합 전자총회 등 지원…\"기간 단축\"",
+          "original_summary": "(서울=연합뉴스) 김준태 기자 = 서울시는 정비사업 동의서 수집부터 총회 의결까지 &apos;디지털 전환&apos;을 지원해 사업 기간을 줄일 계획이라고 21일 ...",
+          "summary": "(서울=연합뉴스) 김준태 기자 = 서울시는 정비사업 동의서 수집부터 총회 의결까지 &apos;디지털 전환&apos;을 지원해 사업 기간을 줄일 계획이라고 21일 ..."
+        },
         {
           "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
           "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
@@ -83,19 +95,6 @@
           "category": "AI Model"
         },
         {
-          "title": "prefeitura-rio/Rio-3.5-Open-397B",
-          "link": "https://huggingface.co/prefeitura-rio/Rio-3.5-Open-397B",
-          "date": "2026-06-21",
-          "source": "HuggingFace",
-          "description": "• Rio-3.5-Open-397B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/prefeitura-rio/Rio-3.5-Open-397B/resolve/main/rio-3.5-open-benchmarks.png",
-          "is_english": true,
-          "summary": "• Rio-3.5-Open-397B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "prefeitura-rio/Rio-3.5-Open-397B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "microsoft/FastContext-1.0-4B-SFT",
           "link": "https://huggingface.co/microsoft/FastContext-1.0-4B-SFT",
           "date": "2026-06-21",
@@ -148,15 +147,15 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
-          "link": "https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b",
+          "title": "prefeitura-rio/Rio-3.5-Open-397B",
+          "link": "https://huggingface.co/prefeitura-rio/Rio-3.5-Open-397B",
           "date": "2026-06-21",
           "source": "HuggingFace",
-          "description": "• nemotron-3.5-asr-streaming-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "description": "• Rio-3.5-Open-397B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/prefeitura-rio/Rio-3.5-Open-397B/resolve/main/rio-3.5-open-benchmarks.png",
           "is_english": true,
-          "summary": "• nemotron-3.5-asr-streaming-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
+          "summary": "• Rio-3.5-Open-397B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "prefeitura-rio/Rio-3.5-Open-397B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -174,15 +173,15 @@
           "category": "AI Model"
         },
         {
-          "title": "lordx64/Qwable-v1",
-          "link": "https://huggingface.co/lordx64/Qwable-v1",
+          "title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
+          "link": "https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b",
           "date": "2026-06-21",
           "source": "HuggingFace",
-          "description": "• Qwable-v1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/🤗_Base-Qwen3.6--35B--A3B--Claude--4.7--Opus--Reasoning--Distilled-blue",
+          "description": "• nemotron-3.5-asr-streaming-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
           "is_english": true,
-          "summary": "• Qwable-v1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "lordx64/Qwable-v1",
+          "summary": "• nemotron-3.5-asr-streaming-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -200,6 +199,19 @@
           "category": "AI Model"
         },
         {
+          "title": "lordx64/Qwable-v1",
+          "link": "https://huggingface.co/lordx64/Qwable-v1",
+          "date": "2026-06-21",
+          "source": "HuggingFace",
+          "description": "• Qwable-v1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/🤗_Base-Qwen3.6--35B--A3B--Claude--4.7--Opus--Reasoning--Distilled-blue",
+          "is_english": true,
+          "summary": "• Qwable-v1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "lordx64/Qwable-v1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "deepseek-ai/DeepSeek-V4-Pro",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro",
           "date": "2026-06-21",
@@ -209,6 +221,19 @@
           "is_english": true,
           "summary": "• DeepSeek-V4-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "deepseek-ai/DeepSeek-V4-Pro",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "zai-org/GLM-5.2-FP8",
+          "link": "https://huggingface.co/zai-org/GLM-5.2-FP8",
+          "date": "2026-06-21",
+          "source": "HuggingFace",
+          "description": "• GLM-5.2-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
+          "is_english": true,
+          "summary": "• GLM-5.2-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "zai-org/GLM-5.2-FP8",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -235,19 +260,6 @@
           "is_english": true,
           "summary": "• Qwopus3.6-27B-Coder-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Jackrong/Qwopus3.6-27B-Coder-MTP-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "zai-org/GLM-5.2-FP8",
-          "link": "https://huggingface.co/zai-org/GLM-5.2-FP8",
-          "date": "2026-06-21",
-          "source": "HuggingFace",
-          "description": "• GLM-5.2-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
-          "is_english": true,
-          "summary": "• GLM-5.2-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "zai-org/GLM-5.2-FP8",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
