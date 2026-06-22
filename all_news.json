@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-06-23",
-      "update_time": "2026-06-22 18:40:18",
+      "update_time": "2026-06-22 22:42:02",
       "news": [
+        {
+          "title": "SpaceX Signs Compute Deal With Open Source Model Provider",
+          "link": "https://aibusiness.com/generative-ai/spacex-signs-compute-deal-open-source-model-provider",
+          "date": "2026-06-23",
+          "source": "AI Business",
+          "description": "The agreement shows how SpaceX is trying to become a compute provider and underscores the importance of compute for model providers.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt5ef375c211be3741/6a39ad904693555f5a21f830/SpaceX2.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "SpaceX Signs Compute Deal With Open Source Model Provider",
+          "original_summary": "The agreement shows how SpaceX is trying to become a compute provider and underscores the importance of compute for model providers.",
+          "summary": "The agreement shows how SpaceX is trying to become a compute provider and underscores the importance of compute for model providers."
+        },
         {
           "title": "Anthropic Aims to Transform Enterprise Collaboration With Artifacts",
           "link": "https://aibusiness.com/generative-ai/anthropic-aims-transform-enterprise-collaboration-artifacts",
@@ -107,19 +119,6 @@
           "category": "AI Model"
         },
         {
-          "title": "moonshotai/Kimi-K2.7-Code",
-          "link": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
-          "date": "2026-06-23",
-          "source": "HuggingFace",
-          "description": "• Kimi-K2.7-Code 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/moonshotai/Kimi-K2.7-Code/resolve/main/figures/kimi-logo.png",
-          "is_english": true,
-          "summary": "• Kimi-K2.7-Code 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "moonshotai/Kimi-K2.7-Code",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nvidia/LocateAnything-3B",
           "link": "https://huggingface.co/nvidia/LocateAnything-3B",
           "date": "2026-06-23",
@@ -133,15 +132,15 @@
           "category": "AI Model"
         },
         {
-          "title": "microsoft/FastContext-1.0-4B-SFT",
-          "link": "https://huggingface.co/microsoft/FastContext-1.0-4B-SFT",
+          "title": "moonshotai/Kimi-K2.7-Code",
+          "link": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
           "date": "2026-06-23",
           "source": "HuggingFace",
-          "description": "• FastContext-1.0-4B-SFT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• Kimi-K2.7-Code 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/moonshotai/Kimi-K2.7-Code/resolve/main/figures/kimi-logo.png",
           "is_english": true,
-          "summary": "• FastContext-1.0-4B-SFT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "microsoft/FastContext-1.0-4B-SFT",
+          "summary": "• Kimi-K2.7-Code 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "moonshotai/Kimi-K2.7-Code",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -172,15 +171,15 @@
           "category": "AI Model"
         },
         {
-          "title": "google/diffusiongemma-26B-A4B-it",
-          "link": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+          "title": "microsoft/FastContext-1.0-4B-SFT",
+          "link": "https://huggingface.co/microsoft/FastContext-1.0-4B-SFT",
           "date": "2026-06-23",
           "source": "HuggingFace",
-          "description": "• diffusiongemma-26B-A4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "description": "• FastContext-1.0-4B-SFT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• diffusiongemma-26B-A4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/diffusiongemma-26B-A4B-it",
+          "summary": "• FastContext-1.0-4B-SFT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "microsoft/FastContext-1.0-4B-SFT",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -198,6 +197,19 @@
           "category": "AI Model"
         },
         {
+          "title": "google/diffusiongemma-26B-A4B-it",
+          "link": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+          "date": "2026-06-23",
+          "source": "HuggingFace",
+          "description": "• diffusiongemma-26B-A4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• diffusiongemma-26B-A4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/diffusiongemma-26B-A4B-it",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "lordx64/Qwable-v1",
           "link": "https://huggingface.co/lordx64/Qwable-v1",
           "date": "2026-06-23",
@@ -207,6 +219,19 @@
           "is_english": true,
           "summary": "• Qwable-v1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "lordx64/Qwable-v1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "link": "https://huggingface.co/baidu/Unlimited-OCR",
+          "date": "2026-06-23",
+          "source": "HuggingFace",
+          "description": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/baidu/Unlimited-OCR/resolve/main/assets/baidu.png",
+          "is_english": true,
+          "summary": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "baidu/Unlimited-OCR",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -237,19 +262,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Mia-AiLab/Qwable-3.6-27b",
-          "link": "https://huggingface.co/Mia-AiLab/Qwable-3.6-27b",
-          "date": "2026-06-23",
-          "source": "HuggingFace",
-          "description": "• Qwable-3.6-27b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/Mia-AiLab/Qwable-3.6-27b/resolve/main/assets/qwable-27b.png",
-          "is_english": true,
-          "summary": "• Qwable-3.6-27b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Mia-AiLab/Qwable-3.6-27b",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
           "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
           "date": "2026-06-23",
@@ -263,15 +275,15 @@
           "category": "AI Model"
         },
         {
-          "title": "baidu/Unlimited-OCR",
-          "link": "https://huggingface.co/baidu/Unlimited-OCR",
+          "title": "Mia-AiLab/Qwable-3.6-27b",
+          "link": "https://huggingface.co/Mia-AiLab/Qwable-3.6-27b",
           "date": "2026-06-23",
           "source": "HuggingFace",
-          "description": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/baidu/Unlimited-OCR/resolve/main/assets/baidu.png",
+          "description": "• Qwable-3.6-27b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/Mia-AiLab/Qwable-3.6-27b/resolve/main/assets/qwable-27b.png",
           "is_english": true,
-          "summary": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "baidu/Unlimited-OCR",
+          "summary": "• Qwable-3.6-27b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Mia-AiLab/Qwable-3.6-27b",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -292,8 +304,56 @@
     },
     {
       "date": "2026-06-22",
-      "update_time": "2026-06-22 18:40:15",
+      "update_time": "2026-06-22 22:42:02",
       "news": [
+        {
+          "title": "The AI world is getting ‘loopy’",
+          "link": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+          "date": "2026-06-22",
+          "source": "TechCrunch",
+          "description": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-22-at-3.44.39-PM.jpg?resize=1200,676",
+          "is_english": true,
+          "original_title": "The AI world is getting ‘loopy’",
+          "original_summary": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly. ",
+          "summary": "The loop takes agentic AI a step further by authorizing a swarm of agents to work continuously in the background, endlessly. "
+        },
+        {
+          "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+          "link": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+          "date": "2026-06-22",
+          "source": "TechCrunch",
+          "description": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
+          "image": "https://techcrunch.com/wp-content/uploads/2018/08/safetynet.jpg?resize=1200,1058",
+          "is_english": true,
+          "original_title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+          "original_summary": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs.",
+          "summary": "What does an AI company do after one of those not-acqui-hire deals? Groq raised money, is leaning into its neocloud business, and is hiring new execs."
+        },
+        {
+          "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
+          "link": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+          "date": "2026-06-22",
+          "source": "TechCrunch",
+          "description": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-155376474.jpeg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
+          "original_summary": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants.",
+          "summary": "Nvidia announced a new cooling system that cuts water use inside the data center. But it does nothing to address AI's biggest water use — fossil fuel power plants."
+        },
+        {
+          "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+          "link": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+          "date": "2026-06-22",
+          "source": "TechCrunch",
+          "description": "Google DeepMind and A24 are teaming up to build AI filmmaking tools. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2252299302.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+          "original_summary": "Google DeepMind and A24 are teaming up to build AI filmmaking tools. ",
+          "summary": "Google DeepMind and A24 are teaming up to build AI filmmaking tools. "
+        },
         {
           "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
           "link": "https://openai.com/index/patch-the-planet",
@@ -7441,7 +7501,7 @@
         {
           "title": "google/diffusiongemma-26B-A4B-it",
           "link": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
-          "date": "2026-06-14",
+          "date": "2026-06-23",
           "source": "HuggingFace",
           "description": "• diffusiongemma-26B-A4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -7454,7 +7514,7 @@
         {
           "title": "moonshotai/Kimi-K2.7-Code",
           "link": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
-          "date": "2026-06-14",
+          "date": "2026-06-23",
           "source": "HuggingFace",
           "description": "• Kimi-K2.7-Code 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/moonshotai/Kimi-K2.7-Code/resolve/main/figures/kimi-logo.png",
@@ -7467,7 +7527,7 @@
         {
           "title": "MiniMaxAI/MiniMax-M3",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
-          "date": "2026-06-14",
+          "date": "2026-06-23",
           "source": "HuggingFace",
           "description": "• MiniMax-M3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/MiniMaxAI/MiniMax-M3/resolve/main/figures/logo.svg",
@@ -7480,7 +7540,7 @@
         {
           "title": "nvidia/LocateAnything-3B",
           "link": "https://huggingface.co/nvidia/LocateAnything-3B",
-          "date": "2026-06-14",
+          "date": "2026-06-23",
           "source": "HuggingFace",
           "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
@@ -7545,7 +7605,7 @@
         {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-06-14",
+          "date": "2026-06-23",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -7623,7 +7683,7 @@
         {
           "title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
           "link": "https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b",
-          "date": "2026-06-14",
+          "date": "2026-06-23",
           "source": "HuggingFace",
           "description": "• nemotron-3.5-asr-streaming-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
