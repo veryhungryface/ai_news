@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-06-24",
-      "update_time": "2026-06-23 17:10:46",
+      "update_time": "2026-06-23 19:49:36",
       "news": [
+        {
+          "title": "How AI is Reshaping Europe's Digital Sovereignty Debate",
+          "link": "https://aibusiness.com/ai-policy/how-ai-reshaping-europe-s-digital-sovereignty-debate",
+          "date": "2026-06-24",
+          "source": "AI Business",
+          "description": "Strategies for governments to more effectively pursue AI sovereignty.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt190933b7ce1787af/6a3ad54d58a7df7b7b4b2eb2/EU.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "How AI is Reshaping Europe's Digital Sovereignty Debate",
+          "original_summary": "Strategies for governments to more effectively pursue AI sovereignty.",
+          "summary": "Strategies for governments to more effectively pursue AI sovereignty."
+        },
         {
           "title": "팀스파르타 “교육·구축·컨설팅까지…AX ‘엔드투엔드’ 책임진다”",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=212031",
@@ -80,19 +92,6 @@
           "category": "AI Model"
         },
         {
-          "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-          "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-          "date": "2026-06-24",
-          "source": "HuggingFace",
-          "description": "• gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "baidu/Unlimited-OCR",
           "link": "https://huggingface.co/baidu/Unlimited-OCR",
           "date": "2026-06-24",
@@ -102,6 +101,19 @@
           "is_english": true,
           "summary": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "baidu/Unlimited-OCR",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "date": "2026-06-24",
+          "source": "HuggingFace",
+          "description": "• gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -119,15 +131,15 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
-          "link": "https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b",
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "date": "2026-06-24",
           "source": "HuggingFace",
-          "description": "• nemotron-3.5-asr-streaming-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
           "is_english": true,
-          "summary": "• nemotron-3.5-asr-streaming-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
+          "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -145,6 +157,19 @@
           "category": "AI Model"
         },
         {
+          "title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
+          "link": "https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b",
+          "date": "2026-06-24",
+          "source": "HuggingFace",
+          "description": "• nemotron-3.5-asr-streaming-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• nemotron-3.5-asr-streaming-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "MiniMaxAI/MiniMax-M3",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
           "date": "2026-06-24",
@@ -158,19 +183,6 @@
           "category": "AI Model"
         },
         {
-          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-06-24",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
           "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
           "date": "2026-06-24",
@@ -180,19 +192,6 @@
           "is_english": true,
           "summary": "• Qwythos-9B-Claude-Mythos-5-1M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "moonshotai/Kimi-K2.7-Code",
-          "link": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
-          "date": "2026-06-24",
-          "source": "HuggingFace",
-          "description": "• Kimi-K2.7-Code 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/moonshotai/Kimi-K2.7-Code/resolve/main/figures/kimi-logo.png",
-          "is_english": true,
-          "summary": "• Kimi-K2.7-Code 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "moonshotai/Kimi-K2.7-Code",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -223,6 +222,19 @@
           "category": "AI Model"
         },
         {
+          "title": "moonshotai/Kimi-K2.7-Code",
+          "link": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+          "date": "2026-06-24",
+          "source": "HuggingFace",
+          "description": "• Kimi-K2.7-Code 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/moonshotai/Kimi-K2.7-Code/resolve/main/figures/kimi-logo.png",
+          "is_english": true,
+          "summary": "• Kimi-K2.7-Code 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "moonshotai/Kimi-K2.7-Code",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "microsoft/FastContext-1.0-4B-SFT",
           "link": "https://huggingface.co/microsoft/FastContext-1.0-4B-SFT",
           "date": "2026-06-24",
@@ -232,19 +244,6 @@
           "is_english": true,
           "summary": "• FastContext-1.0-4B-SFT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "microsoft/FastContext-1.0-4B-SFT",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "zai-org/GLM-5.2-FP8",
-          "link": "https://huggingface.co/zai-org/GLM-5.2-FP8",
-          "date": "2026-06-24",
-          "source": "HuggingFace",
-          "description": "• GLM-5.2-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
-          "is_english": true,
-          "summary": "• GLM-5.2-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "zai-org/GLM-5.2-FP8",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -262,15 +261,15 @@
           "category": "AI Model"
         },
         {
-          "title": "google/diffusiongemma-26B-A4B-it",
-          "link": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+          "title": "zai-org/GLM-5.2-FP8",
+          "link": "https://huggingface.co/zai-org/GLM-5.2-FP8",
           "date": "2026-06-24",
           "source": "HuggingFace",
-          "description": "• diffusiongemma-26B-A4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "description": "• GLM-5.2-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
           "is_english": true,
-          "summary": "• diffusiongemma-26B-A4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/diffusiongemma-26B-A4B-it",
+          "summary": "• GLM-5.2-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "zai-org/GLM-5.2-FP8",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -297,6 +296,19 @@
           "is_english": true,
           "summary": "• Boogu-Image-0.1-Edit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Boogu/Boogu-Image-0.1-Edit",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "google/diffusiongemma-26B-A4B-it",
+          "link": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
+          "date": "2026-06-24",
+          "source": "HuggingFace",
+          "description": "• diffusiongemma-26B-A4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• diffusiongemma-26B-A4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/diffusiongemma-26B-A4B-it",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -7897,7 +7909,7 @@
         {
           "title": "google/diffusiongemma-26B-A4B-it",
           "link": "https://huggingface.co/google/diffusiongemma-26B-A4B-it",
-          "date": "2026-06-15",
+          "date": "2026-06-24",
           "source": "HuggingFace",
           "description": "• diffusiongemma-26B-A4B-it 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -7910,7 +7922,7 @@
         {
           "title": "MiniMaxAI/MiniMax-M3",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
-          "date": "2026-06-15",
+          "date": "2026-06-24",
           "source": "HuggingFace",
           "description": "• MiniMax-M3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/MiniMaxAI/MiniMax-M3/resolve/main/figures/logo.svg",
@@ -7923,7 +7935,7 @@
         {
           "title": "moonshotai/Kimi-K2.7-Code",
           "link": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
-          "date": "2026-06-15",
+          "date": "2026-06-24",
           "source": "HuggingFace",
           "description": "• Kimi-K2.7-Code 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/moonshotai/Kimi-K2.7-Code/resolve/main/figures/kimi-logo.png",
@@ -7936,7 +7948,7 @@
         {
           "title": "nvidia/LocateAnything-3B",
           "link": "https://huggingface.co/nvidia/LocateAnything-3B",
-          "date": "2026-06-15",
+          "date": "2026-06-24",
           "source": "HuggingFace",
           "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
@@ -8027,7 +8039,7 @@
         {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-06-15",
+          "date": "2026-06-24",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -8118,7 +8130,7 @@
         {
           "title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
           "link": "https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b",
-          "date": "2026-06-15",
+          "date": "2026-06-24",
           "source": "HuggingFace",
           "description": "• nemotron-3.5-asr-streaming-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
