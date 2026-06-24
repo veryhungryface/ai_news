@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-06-25",
-      "update_time": "2026-06-24 19:26:20",
+      "update_time": "2026-06-24 22:08:13",
       "news": [
+        {
+          "title": "도로안전부터 건설현장까지…국토부, AI 응용제품 26개 선정",
+          "link": "https://www.yna.co.kr/view/AKR20260624115800003",
+          "date": "2026-06-25",
+          "source": "연합뉴스",
+          "description": "(세종=연합뉴스) 오진송 기자 = 국토교통부는 11개 부처가 공동 추진하는 &apos;인공지능(AI) 응용제품 신속 상용화 지원사업(AX-Sprint)&apos;...",
+          "image": "https://img.yna.co.kr/photo/cms/2020/02/19/36/PCM20200219000136990_P2.jpg",
+          "is_english": false,
+          "original_title": "도로안전부터 건설현장까지…국토부, AI 응용제품 26개 선정",
+          "original_summary": "(세종=연합뉴스) 오진송 기자 = 국토교통부는 11개 부처가 공동 추진하는 &apos;인공지능(AI) 응용제품 신속 상용화 지원사업(AX-Sprint)&apos;...",
+          "summary": "(세종=연합뉴스) 오진송 기자 = 국토교통부는 11개 부처가 공동 추진하는 &apos;인공지능(AI) 응용제품 신속 상용화 지원사업(AX-Sprint)&apos;..."
+        },
+        {
+          "title": "OpenAI and Broadcom Introduce AI Inference Chip",
+          "link": "https://aibusiness.com/generative-ai/openai-broadcom-introduce-ai-inference-chip",
+          "date": "2026-06-25",
+          "source": "AI Business",
+          "description": "The chip would give AI model makers the option to offer lower token prices, possibly easing the concerns of businesses worried about higher token costs.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt610f45ee1a626c15/6a3c3d35435640cf6d922fbc/OpenAI_logo.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "OpenAI and Broadcom Introduce AI Inference Chip",
+          "original_summary": "The chip would give AI model makers the option to offer lower token prices, possibly easing the concerns of businesses worried about higher token costs.",
+          "summary": "The chip would give AI model makers the option to offer lower token prices, possibly easing the concerns of businesses worried about higher token costs."
+        },
         {
           "title": "Qualcomm to Acquire AI Platform Developer Modular",
           "link": "https://aibusiness.com/generative-ai/qualcomm-acquire-ai-platform-developer-modular",
@@ -147,6 +171,19 @@
           "category": "AI Model"
         },
         {
+          "title": "krea/Krea-2-Turbo",
+          "link": "https://huggingface.co/krea/Krea-2-Turbo",
+          "date": "2026-06-25",
+          "source": "HuggingFace",
+          "description": "• Krea-2-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Krea-2-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "krea/Krea-2-Turbo",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "nvidia/LocateAnything-3B",
           "link": "https://huggingface.co/nvidia/LocateAnything-3B",
           "date": "2026-06-25",
@@ -160,15 +197,15 @@
           "category": "AI Model"
         },
         {
-          "title": "krea/Krea-2-Turbo",
-          "link": "https://huggingface.co/krea/Krea-2-Turbo",
+          "title": "krea/Krea-2-Raw",
+          "link": "https://huggingface.co/krea/Krea-2-Raw",
           "date": "2026-06-25",
           "source": "HuggingFace",
-          "description": "• Krea-2-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• Krea-2-Raw 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
           "is_english": true,
-          "summary": "• Krea-2-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "krea/Krea-2-Turbo",
+          "summary": "• Krea-2-Raw 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "krea/Krea-2-Raw",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -225,19 +262,6 @@
           "category": "AI Model"
         },
         {
-          "title": "krea/Krea-2-Raw",
-          "link": "https://huggingface.co/krea/Krea-2-Raw",
-          "date": "2026-06-25",
-          "source": "HuggingFace",
-          "description": "• Krea-2-Raw 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Krea-2-Raw 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "krea/Krea-2-Raw",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "moonshotai/Kimi-K2.7-Code",
           "link": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
           "date": "2026-06-25",
@@ -247,6 +271,19 @@
           "is_english": true,
           "summary": "• Kimi-K2.7-Code 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "moonshotai/Kimi-K2.7-Code",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen-AgentWorld-35B-A3B",
+          "link": "https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B",
+          "date": "2026-06-25",
+          "source": "HuggingFace",
+          "description": "• Qwen-AgentWorld-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-AgentWorld/logo.png",
+          "is_english": true,
+          "summary": "• Qwen-AgentWorld-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen-AgentWorld-35B-A3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -262,26 +299,73 @@
           "translated_title": "LiquidAI/LFM2.5-Embedding-350M",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "Boogu/Boogu-Image-0.1-Edit",
-          "link": "https://huggingface.co/Boogu/Boogu-Image-0.1-Edit",
-          "date": "2026-06-25",
-          "source": "HuggingFace",
-          "description": "• Boogu-Image-0.1-Edit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/arXiv-{{ paper_id }}-b31b1b.svg?logo=arxiv&logoColor=white",
-          "is_english": true,
-          "summary": "• Boogu-Image-0.1-Edit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Boogu/Boogu-Image-0.1-Edit",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-06-24",
-      "update_time": "2026-06-24 19:26:20",
+      "update_time": "2026-06-24 22:08:11",
       "news": [
+        {
+          "title": "AI게임협회, '2026 게임사 프로젝트 현장교육 프로그램' 참여기업 모집",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212073",
+          "date": "2026-06-24",
+          "source": "AI타임스",
+          "description": "사단법인 한국인공지능게임협회는 한국콘텐츠진흥원이 주관하는 \\'2026 게임사 프로젝트 현장교육 프로그램\\'에 참여할 게임사를 모집한다고 24일 밝혔다.이번 사업에는 한국인공지능게임협회를 비롯해 대구디지털혁신진흥원, 한국게임개발자협회가 플랫폼기관으로 참여하여 참여기업은 이들 기관 중 한 곳을 선택해 신청할 수 있다.게임개발 프로젝트 수행을 위한 신규 인력 채용을 지원하고, 실제 프로젝트 기반의 현장교육을 통해 게임산업 분야 청년 인재의 실무역량 강화에 초점을 둔 이번 사업은 게임산업 현장에 필요한 실무형 인재를 양성하는 데 기여할 것으로",
+          "image": "https://cdn.aitimes.com/news/photo/202606/212073_215239_1624.png",
+          "is_english": false,
+          "original_title": "AI게임협회, '2026 게임사 프로젝트 현장교육 프로그램' 참여기업 모집",
+          "original_summary": "사단법인 한국인공지능게임협회는 한국콘텐츠진흥원이 주관하는 \\'2026 게임사 프로젝트 현장교육 프로그램\\'에 참여할 게임사를 모집한다고 24일 밝혔다.이번 사업에는 한국인공지능게임협회를 비롯해 대구디지털혁신진흥원, 한국게임개발자협회가 플랫폼기관으로 참여하여 참여기업은 이들 기관 중 한 곳을 선택해 신청할 수 있다.게임개발 프로젝트 수행을 위한 신규 인력 채용을 지원하고, 실제 프로젝트 기반의 현장교육을 통해 게임산업 분야 청년 인재의 실무역량 강화에 초점을 둔 이번 사업은 게임산업 현장에 필요한 실무형 인재를 양성하는 데 기여할 것",
+          "summary": "사단법인 한국인공지능게임협회는 한국콘텐츠진흥원이 주관하는 \\'2026 게임사 프로젝트 현장교육 프로그램\\'에 참여할 게임사를 모집한다고 24일 밝혔다.이번 사업에는 한국인공지능게임협회를 비롯해 대구디지털혁신진흥원, 한국게임개발자협회가 플랫폼기관으로 참여하여 참여기업은 이들 기관 중 한 곳을 선택해 신청할 수 있다.게임개발 프로젝트 수행을 위한 신규 인력 채용을 지원하고, 실제 프로젝트 기반의 현장교육을 통해 게임산업 분야 청년 인재의 실무역량 강화에 초점을 둔 이번 사업은 게임산업 현장에 필요한 실무형 인재를 양성하는 데 기여할 것"
+        },
+        {
+          "title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
+          "link": "https://techcrunch.com/2026/06/24/ai-was-supposed-to-kill-engineering-jobs-but-new-data-suggests-theyre-the-most-resilient/",
+          "date": "2026-06-24",
+          "source": "TechCrunch",
+          "description": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
+          "image": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1250956868.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "AI was supposed to kill engineering jobs, but new data suggests they’re the most resilient",
+          "original_summary": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data.",
+          "summary": "While AI dominates the layoff narrative, engineers are actually making up a larger share of new hires, according to SignalFire data."
+        },
+        {
+          "title": "AI researchers continue to leave Google for its rivals",
+          "link": "https://techcrunch.com/2026/06/24/ai-researchers-continue-to-leave-google-for-its-rivals/",
+          "date": "2026-06-24",
+          "source": "TechCrunch",
+          "description": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/02/glitched-google-logo.jpg?resize=1200,645",
+          "is_english": true,
+          "original_title": "AI researchers continue to leave Google for its rivals",
+          "original_summary": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper.",
+          "summary": "Top AI researchers Jonas Adler and Alexander Pritzel are leaving Google for Anthropic, following departures from top scientists Noam Shazeer and John Jumper."
+        },
+        {
+          "title": "The memory chip crunch is paying off for this U.S. company",
+          "link": "https://techcrunch.com/2026/06/24/the-memory-chip-crunch-is-paying-off-for-this-u-s-company/",
+          "date": "2026-06-24",
+          "source": "TechCrunch",
+          "description": "Revenue quadrupled to $41.45 billion compared with the same period a year ago. The company's profit, meanwhile, rose from $1.88 billion to an incredible $28.2 billion year-over-year.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/micron-HQ-GettyImages-2147904174.jpg?resize=1200,801",
+          "is_english": true,
+          "original_title": "The memory chip crunch is paying off for this U.S. company",
+          "original_summary": "Revenue quadrupled to $41.45 billion compared with the same period a year ago. The company's profit, meanwhile, rose from $1.88 billion to an incredible $28.2 billion year-over-year.",
+          "summary": "Revenue quadrupled to $41.45 billion compared with the same period a year ago. The company's profit, meanwhile, rose from $1.88 billion to an incredible $28.2 billion year-over-year."
+        },
+        {
+          "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
+          "link": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+          "date": "2026-06-24",
+          "source": "TechCrunch",
+          "description": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
+          "is_english": true,
+          "original_title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
+          "original_summary": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing.",
+          "summary": "The tokenmaxxing era was brief. We now appear to be entering the era of token rationing."
+        },
         {
           "title": "Facebook rolls out an AI companion app for creators",
           "link": "https://techcrunch.com/2026/06/24/facebook-rolls-out-an-ai-companion-app-for-creators/",
