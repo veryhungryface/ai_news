@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-06-26",
-      "update_time": "2026-06-25 17:04:59",
+      "update_time": "2026-06-25 19:46:10",
       "news": [
+        {
+          "title": "Anthropic Alleges That Alibaba Pilfered Claude Capabilities",
+          "link": "https://aibusiness.com/generative-ai/anthropic-alleges-alibaba-pilfered-claude-capabilities",
+          "date": "2026-06-26",
+          "source": "AI Business",
+          "description": "The alleged distillation suggests that enterprises should conduct due diligence into how AI labs handle their data.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltd9c31435b8f7b362/6a3d6ea562f12d81d215edb9/AI_theft.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Anthropic Alleges That Alibaba Pilfered Claude Capabilities",
+          "original_summary": "The alleged distillation suggests that enterprises should conduct due diligence into how AI labs handle their data.",
+          "summary": "The alleged distillation suggests that enterprises should conduct due diligence into how AI labs handle their data."
+        },
+        {
+          "title": "How AI Could Help Address the Energy Challenge it is Creating",
+          "link": "https://aibusiness.com/data-centers/how-ai-could-help-address-energy-challenge",
+          "date": "2026-06-26",
+          "source": "AI Business",
+          "description": "Data center company executives say AI can support energy transition goals while managing the technology’s growing power demands.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltbf00ce580da2c459/6a3d65a2154dd3508c3f353f/AI_energy_demand.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "How AI Could Help Address the Energy Challenge it is Creating",
+          "original_summary": "Data center company executives say AI can support energy transition goals while managing the technology’s growing power demands.",
+          "summary": "Data center company executives say AI can support energy transition goals while managing the technology’s growing power demands."
+        },
         {
           "title": "zai-org/GLM-5.2",
           "link": "https://huggingface.co/zai-org/GLM-5.2",
@@ -268,8 +292,32 @@
     },
     {
       "date": "2026-06-25",
-      "update_time": "2026-06-25 17:04:58",
+      "update_time": "2026-06-25 19:46:10",
       "news": [
+        {
+          "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+          "link": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+          "date": "2026-06-25",
+          "source": "TechCrunch",
+          "description": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+          "original_summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows. ",
+          "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows. "
+        },
+        {
+          "title": "MIT in the media: Exploring how curiosity-driven science is an essential ingredient in America’s success",
+          "link": "https://news.mit.edu/2026/mit-media-exploring-how-curiosity-driven-science-essential-ingredient-americas-success",
+          "date": "2026-06-25",
+          "source": "MIT News",
+          "description": "“Scientific American” showcases the history and future of America’s scientific engine, highlighting promising young scientists and icons at MIT and beyond. ",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202606/53364521624_d2f74c83b9_b%20%281%29.jpg?itok=6P6fc7Zs",
+          "is_english": true,
+          "original_title": "MIT in the media: Exploring how curiosity-driven science is an essential ingredient in America’s success",
+          "original_summary": "“Scientific American” showcases the history and future of America’s scientific engine, highlighting promising young scientists and icons at MIT and beyond. ",
+          "summary": "“Scientific American” showcases the history and future of America’s scientific engine, highlighting promising young scientists and icons at MIT and beyond. "
+        },
         {
           "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
           "link": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
@@ -8005,7 +8053,7 @@
         {
           "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
           "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
-          "date": "2026-06-17",
+          "date": "2026-06-26",
           "source": "HuggingFace",
           "description": "• gemma-4-12B-coder-fable5-composer2.5-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -8031,7 +8079,7 @@
         {
           "title": "MiniMaxAI/MiniMax-M3",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-M3",
-          "date": "2026-06-17",
+          "date": "2026-06-26",
           "source": "HuggingFace",
           "description": "• MiniMax-M3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/MiniMaxAI/MiniMax-M3/resolve/main/figures/logo.svg",
@@ -8057,7 +8105,7 @@
         {
           "title": "moonshotai/Kimi-K2.7-Code",
           "link": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
-          "date": "2026-06-17",
+          "date": "2026-06-26",
           "source": "HuggingFace",
           "description": "• Kimi-K2.7-Code 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/moonshotai/Kimi-K2.7-Code/resolve/main/figures/kimi-logo.png",
@@ -8070,7 +8118,7 @@
         {
           "title": "nvidia/LocateAnything-3B",
           "link": "https://huggingface.co/nvidia/LocateAnything-3B",
-          "date": "2026-06-17",
+          "date": "2026-06-26",
           "source": "HuggingFace",
           "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
@@ -8122,7 +8170,7 @@
         {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-06-17",
+          "date": "2026-06-26",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -8161,7 +8209,7 @@
         {
           "title": "microsoft/FastContext-1.0-4B-SFT",
           "link": "https://huggingface.co/microsoft/FastContext-1.0-4B-SFT",
-          "date": "2026-06-17",
+          "date": "2026-06-26",
           "source": "HuggingFace",
           "description": "• FastContext-1.0-4B-SFT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -8187,7 +8235,7 @@
         {
           "title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
           "link": "https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b",
-          "date": "2026-06-17",
+          "date": "2026-06-26",
           "source": "HuggingFace",
           "description": "• nemotron-3.5-asr-streaming-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
