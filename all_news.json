@@ -2,8 +2,44 @@
   "dates": [
     {
       "date": "2026-06-25",
-      "update_time": "2026-06-25 11:33:36",
+      "update_time": "2026-06-25 14:03:44",
       "news": [
+        {
+          "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
+          "link": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
+          "date": "2026-06-25",
+          "source": "TechCrunch",
+          "description": "Adobe said that it will integrate Topaz Labs' tools across its apps.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2162453288.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
+          "original_summary": "Adobe said that it will integrate Topaz Labs' tools across its apps.",
+          "summary": "Adobe said that it will integrate Topaz Labs' tools across its apps."
+        },
+        {
+          "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
+          "link": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
+          "date": "2026-06-25",
+          "source": "TechCrunch",
+          "description": "Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-844105434.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
+          "original_summary": "Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.",
+          "summary": "Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country."
+        },
+        {
+          "title": "Maker of Digit the Robot to Go Public",
+          "link": "https://aibusiness.com/robotics/maker-digit-the-robot-goes-public",
+          "date": "2026-06-25",
+          "source": "AI Business",
+          "description": "A wave of public offerings is rippling through robotics, AI and the larger tech industry.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blte2550ad7de496646/6a3d2705fe22766522a632f1/Agility.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Maker of Digit the Robot to Go Public",
+          "original_summary": "A wave of public offerings is rippling through robotics, AI and the larger tech industry.",
+          "summary": "A wave of public offerings is rippling through robotics, AI and the larger tech industry."
+        },
         {
           "title": "AI교과서 발행업체들 \"교육자료 격하로 피해\"…정부 상대 손해소",
           "link": "https://www.yna.co.kr/view/AKR20260625152600530",
@@ -784,19 +820,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/LocateAnything-3B",
-          "link": "https://huggingface.co/nvidia/LocateAnything-3B",
-          "date": "2026-06-25",
-          "source": "HuggingFace",
-          "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
-          "is_english": true,
-          "summary": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/LocateAnything-3B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "krea/Krea-2-Raw",
           "link": "https://huggingface.co/krea/Krea-2-Raw",
           "date": "2026-06-25",
@@ -810,15 +833,15 @@
           "category": "AI Model"
         },
         {
-          "title": "microsoft/FastContext-1.0-4B-SFT",
-          "link": "https://huggingface.co/microsoft/FastContext-1.0-4B-SFT",
+          "title": "nvidia/LocateAnything-3B",
+          "link": "https://huggingface.co/nvidia/LocateAnything-3B",
           "date": "2026-06-25",
           "source": "HuggingFace",
-          "description": "• FastContext-1.0-4B-SFT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
           "is_english": true,
-          "summary": "• FastContext-1.0-4B-SFT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "microsoft/FastContext-1.0-4B-SFT",
+          "summary": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/LocateAnything-3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -832,6 +855,19 @@
           "is_english": true,
           "summary": "• lift 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "datalab-to/lift",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "microsoft/FastContext-1.0-4B-SFT",
+          "link": "https://huggingface.co/microsoft/FastContext-1.0-4B-SFT",
+          "date": "2026-06-25",
+          "source": "HuggingFace",
+          "description": "• FastContext-1.0-4B-SFT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• FastContext-1.0-4B-SFT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "microsoft/FastContext-1.0-4B-SFT",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
