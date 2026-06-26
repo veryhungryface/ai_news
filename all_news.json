@@ -2,8 +2,44 @@
   "dates": [
     {
       "date": "2026-06-26",
-      "update_time": "2026-06-26 11:39:28",
+      "update_time": "2026-06-26 14:03:13",
       "news": [
+        {
+          "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
+          "link": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
+          "date": "2026-06-26",
+          "source": "TechCrunch",
+          "description": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
+          "original_summary": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now.",
+          "summary": "Save up to $190 on your pass to TechCrunch Founder Summit 2026. Early Bird pricing ends today, at 11:59 p.m. PT, after which rates increase. Register now."
+        },
+        {
+          "title": "India to Get Another Big AI Funding Boost From Amazon",
+          "link": "https://aibusiness.com/generative-ai/india-another-ai-funding-boost-from-amazon",
+          "date": "2026-06-26",
+          "source": "AI Business",
+          "description": "Other tech giants have also planned multi-billion-dollar AI investments in the large and fast-growing Indian AI market.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt7fb6d49265b47a12/6a3e6a770933274832b1eabf/Andy_Jassy.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "India to Get Another Big AI Funding Boost From Amazon",
+          "original_summary": "Other tech giants have also planned multi-billion-dollar AI investments in the large and fast-growing Indian AI market.",
+          "summary": "Other tech giants have also planned multi-billion-dollar AI investments in the large and fast-growing Indian AI market."
+        },
+        {
+          "title": "LLMs help robots understand vague instructions and focus on key details",
+          "link": "https://news.mit.edu/2026/llms-help-robots-understand-vague-instructions-and-focus-key-details-0626",
+          "date": "2026-06-26",
+          "source": "MIT News",
+          "description": " To help robots do chores in places like homes and factories, a new approach from MIT uses one language model to clarify users’ instructions, then another to ignore irrelevant info.",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202606/mit-csail-Masked-RL.jpg?itok=AWLkvb-L",
+          "is_english": true,
+          "original_title": "LLMs help robots understand vague instructions and focus on key details",
+          "original_summary": " To help robots do chores in places like homes and factories, a new approach from MIT uses one language model to clarify users’ instructions, then another to ignore irrelevant info.",
+          "summary": " To help robots do chores in places like homes and factories, a new approach from MIT uses one language model to clarify users’ instructions, then another to ignore irrelevant info."
+        },
         {
           "title": "한국형 장거리 자폭 드론 전력화 추진…50만 드론 전사 양성",
           "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148967169&call_from=rsslink",
@@ -666,19 +702,6 @@
           "category": "AI Model"
         },
         {
-          "title": "datalab-to/lift",
-          "link": "https://huggingface.co/datalab-to/lift",
-          "date": "2026-06-26",
-          "source": "HuggingFace",
-          "description": "• lift 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/datalab-to/lift/resolve/main/datalab-logo.png",
-          "is_english": true,
-          "summary": "• lift 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "datalab-to/lift",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
           "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
           "date": "2026-06-26",
@@ -688,6 +711,19 @@
           "is_english": true,
           "summary": "• Ornith-1.0-35B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "datalab-to/lift",
+          "link": "https://huggingface.co/datalab-to/lift",
+          "date": "2026-06-26",
+          "source": "HuggingFace",
+          "description": "• lift 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/datalab-to/lift/resolve/main/datalab-logo.png",
+          "is_english": true,
+          "summary": "• lift 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "datalab-to/lift",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -705,19 +741,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
-          "link": "https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b",
-          "date": "2026-06-26",
-          "source": "HuggingFace",
-          "description": "• nemotron-3.5-asr-streaming-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
-          "is_english": true,
-          "summary": "• nemotron-3.5-asr-streaming-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Comfy-Org/Krea-2",
           "link": "https://huggingface.co/Comfy-Org/Krea-2",
           "date": "2026-06-26",
@@ -727,6 +750,19 @@
           "is_english": true,
           "summary": "• Krea-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Comfy-Org/Krea-2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
+          "link": "https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b",
+          "date": "2026-06-26",
+          "source": "HuggingFace",
+          "description": "• nemotron-3.5-asr-streaming-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• nemotron-3.5-asr-streaming-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
