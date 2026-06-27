@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-06-28",
-      "update_time": "2026-06-27 15:59:52",
+      "update_time": "2026-06-27 19:04:48",
       "news": [
         {
           "title": "baidu/Unlimited-OCR",
@@ -252,15 +252,15 @@
           "category": "AI Model"
         },
         {
-          "title": "microsoft/FastContext-1.0-4B-SFT",
-          "link": "https://huggingface.co/microsoft/FastContext-1.0-4B-SFT",
+          "title": "LiquidAI/LFM2.5-230M",
+          "link": "https://huggingface.co/LiquidAI/LFM2.5-230M",
           "date": "2026-06-28",
           "source": "HuggingFace",
-          "description": "• FastContext-1.0-4B-SFT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• LFM2.5-230M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/4UpNxlgfKjfgT5ByIVph0.png",
           "is_english": true,
-          "summary": "• FastContext-1.0-4B-SFT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "microsoft/FastContext-1.0-4B-SFT",
+          "summary": "• LFM2.5-230M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "LiquidAI/LFM2.5-230M",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -268,8 +268,20 @@
     },
     {
       "date": "2026-06-27",
-      "update_time": "2026-06-27 15:59:52",
+      "update_time": "2026-06-27 19:04:46",
       "news": [
+        {
+          "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+          "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+          "date": "2026-06-27",
+          "source": "TechCrunch",
+          "description": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/06/Vision-Pro-IMG-3.jpeg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+          "original_summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team.",
+          "summary": "Paul Meade, the Apple vice president in charge of the Vision Pro headset, is reportedly leaving the company to join OpenAI’s hardware team."
+        },
         {
           "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
           "link": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
@@ -7297,7 +7309,7 @@
         {
           "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
           "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
-          "date": "2026-06-19",
+          "date": "2026-06-28",
           "source": "HuggingFace",
           "description": "• gemma-4-12B-coder-fable5-composer2.5-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -7310,7 +7322,7 @@
         {
           "title": "zai-org/GLM-5.2",
           "link": "https://huggingface.co/zai-org/GLM-5.2",
-          "date": "2026-06-19",
+          "date": "2026-06-28",
           "source": "HuggingFace",
           "description": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
@@ -7349,7 +7361,7 @@
         {
           "title": "WeiboAI/VibeThinker-3B",
           "link": "https://huggingface.co/WeiboAI/VibeThinker-3B",
-          "date": "2026-06-19",
+          "date": "2026-06-28",
           "source": "HuggingFace",
           "description": "• VibeThinker-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/WeiboAI/VibeThinker-3B/resolve/main/pictures/Abstrct.png",
@@ -7388,7 +7400,7 @@
         {
           "title": "nvidia/LocateAnything-3B",
           "link": "https://huggingface.co/nvidia/LocateAnything-3B",
-          "date": "2026-06-19",
+          "date": "2026-06-28",
           "source": "HuggingFace",
           "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
@@ -7401,7 +7413,7 @@
         {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-06-19",
+          "date": "2026-06-28",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -7440,7 +7452,7 @@
         {
           "title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
           "link": "https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b",
-          "date": "2026-06-19",
+          "date": "2026-06-28",
           "source": "HuggingFace",
           "description": "• nemotron-3.5-asr-streaming-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
