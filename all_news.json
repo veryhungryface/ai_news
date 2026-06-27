@@ -2,8 +2,44 @@
   "dates": [
     {
       "date": "2026-06-27",
-      "update_time": "2026-06-26 22:03:24",
+      "update_time": "2026-06-27 02:09:55",
       "news": [
+        {
+          "title": "전북도, AI 데이터 기반 재난예방·대응체계 구축한다",
+          "link": "https://www.yna.co.kr/view/AKR20260627023000055",
+          "date": "2026-06-27",
+          "source": "연합뉴스",
+          "description": "(전주=연합뉴스) 최영수 기자 = 전북특별자치도는 한국과학기술정보연구원(KISTI), 전북테크노파크와 손잡고 디지털 시스템을 활용한 인공지능(A...",
+          "image": "https://img.yna.co.kr/photo/cms/2022/09/14/28/PCM20220914000028990_P2.jpg",
+          "is_english": false,
+          "original_title": "전북도, AI 데이터 기반 재난예방·대응체계 구축한다",
+          "original_summary": "(전주=연합뉴스) 최영수 기자 = 전북특별자치도는 한국과학기술정보연구원(KISTI), 전북테크노파크와 손잡고 디지털 시스템을 활용한 인공지능(A...",
+          "summary": "(전주=연합뉴스) 최영수 기자 = 전북특별자치도는 한국과학기술정보연구원(KISTI), 전북테크노파크와 손잡고 디지털 시스템을 활용한 인공지능(A..."
+        },
+        {
+          "title": "‘뇌’ 신호로 로봇 제어하는 플랫폼 개발 나선 카이스트",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212174",
+          "date": "2026-06-27",
+          "source": "AI타임스",
+          "description": "AI타임스 조예주 기자 joyejuoffice@aitimes.com",
+          "image": "https://cdn.aitimes.com/news/photo/202606/212174_215350_4728.jpg",
+          "is_english": false,
+          "original_title": "‘뇌’ 신호로 로봇 제어하는 플랫폼 개발 나선 카이스트",
+          "original_summary": "AI타임스 조예주 기자 joyejuoffice@aitimes.com",
+          "summary": "AI타임스 조예주 기자 joyejuoffice@aitimes.com"
+        },
+        {
+          "title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+          "link": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
+          "date": "2026-06-27",
+          "source": "TechCrunch",
+          "description": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2279025960.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Trump Admin releases Anthropic  Mythos to be used by more than 100 US companies, agencies",
+          "original_summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees.",
+          "summary": "Over 100 companies and government agencies are reportedly authorized to use Mythos 5, including their non-American employees."
+        },
         {
           "title": "[AI 이슈트렌드] 월드컵 충격패 속 마이크론·스페이스X 증시 변동성 주목",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=212172",
@@ -67,19 +103,6 @@
           "category": "AI Model"
         },
         {
-          "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-          "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-          "date": "2026-06-27",
-          "source": "HuggingFace",
-          "description": "• gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
           "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
           "date": "2026-06-27",
@@ -89,6 +112,19 @@
           "is_english": true,
           "summary": "• Qwythos-9B-Claude-Mythos-5-1M-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "date": "2026-06-27",
+          "source": "HuggingFace",
+          "description": "• gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -158,19 +194,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/GLM-5.2-GGUF",
-          "link": "https://huggingface.co/unsloth/GLM-5.2-GGUF",
-          "date": "2026-06-27",
-          "source": "HuggingFace",
-          "description": "• GLM-5.2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
-          "is_english": true,
-          "summary": "• GLM-5.2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/GLM-5.2-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
           "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
           "date": "2026-06-27",
@@ -180,6 +203,19 @@
           "is_english": true,
           "summary": "• Ornith-1.0-35B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/GLM-5.2-GGUF",
+          "link": "https://huggingface.co/unsloth/GLM-5.2-GGUF",
+          "date": "2026-06-27",
+          "source": "HuggingFace",
+          "description": "• GLM-5.2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "is_english": true,
+          "summary": "• GLM-5.2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/GLM-5.2-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -275,19 +311,6 @@
           "category": "AI Model"
         },
         {
-          "title": "datalab-to/lift",
-          "link": "https://huggingface.co/datalab-to/lift",
-          "date": "2026-06-27",
-          "source": "HuggingFace",
-          "description": "• lift 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/datalab-to/lift/resolve/main/datalab-logo.png",
-          "is_english": true,
-          "summary": "• lift 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "datalab-to/lift",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "deepreinforce-ai/Ornith-1.0-35B",
           "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B",
           "date": "2026-06-27",
@@ -297,6 +320,19 @@
           "is_english": true,
           "summary": "• Ornith-1.0-35B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "deepreinforce-ai/Ornith-1.0-35B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "datalab-to/lift",
+          "link": "https://huggingface.co/datalab-to/lift",
+          "date": "2026-06-27",
+          "source": "HuggingFace",
+          "description": "• lift 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/datalab-to/lift/resolve/main/datalab-logo.png",
+          "is_english": true,
+          "summary": "• lift 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "datalab-to/lift",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
