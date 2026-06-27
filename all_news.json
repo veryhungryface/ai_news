@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-06-28",
-      "update_time": "2026-06-27 19:04:48",
+      "update_time": "2026-06-27 21:55:09",
       "news": [
+        {
+          "title": "행안부, AI 위조 성행에 '스마트폰 신분 확인' 폐지 검토",
+          "link": "https://www.yna.co.kr/view/AKR20260626160900530",
+          "date": "2026-06-28",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 홍준석 기자 = 인공지능(AI) 기술 발전으로 위조가 쉬워진 &apos;주민등록증 모바일 확인서비스&apos;가 없어질 위기에 놓였다.",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/06/26/AKR20260626160900530_02_i_P2.jpg",
+          "is_english": false,
+          "original_title": "행안부, AI 위조 성행에 '스마트폰 신분 확인' 폐지 검토",
+          "original_summary": "(서울=연합뉴스) 홍준석 기자 = 인공지능(AI) 기술 발전으로 위조가 쉬워진 &apos;주민등록증 모바일 확인서비스&apos;가 없어질 위기에 놓였다.",
+          "summary": "(서울=연합뉴스) 홍준석 기자 = 인공지능(AI) 기술 발전으로 위조가 쉬워진 &apos;주민등록증 모바일 확인서비스&apos;가 없어질 위기에 놓였다."
+        },
         {
           "title": "baidu/Unlimited-OCR",
           "link": "https://huggingface.co/baidu/Unlimited-OCR",
@@ -96,19 +108,6 @@
           "category": "AI Model"
         },
         {
-          "title": "krea/Krea-2-Turbo",
-          "link": "https://huggingface.co/krea/Krea-2-Turbo",
-          "date": "2026-06-28",
-          "source": "HuggingFace",
-          "description": "• Krea-2-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Krea-2-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "krea/Krea-2-Turbo",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
           "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
           "date": "2026-06-28",
@@ -118,6 +117,19 @@
           "is_english": true,
           "summary": "• Ornith-1.0-35B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "krea/Krea-2-Turbo",
+          "link": "https://huggingface.co/krea/Krea-2-Turbo",
+          "date": "2026-06-28",
+          "source": "HuggingFace",
+          "description": "• Krea-2-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Krea-2-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "krea/Krea-2-Turbo",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -200,19 +212,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Comfy-Org/Krea-2",
-          "link": "https://huggingface.co/Comfy-Org/Krea-2",
-          "date": "2026-06-28",
-          "source": "HuggingFace",
-          "description": "• Krea-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Krea-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Comfy-Org/Krea-2",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "deepreinforce-ai/Ornith-1.0-35B",
           "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B",
           "date": "2026-06-28",
@@ -222,6 +221,19 @@
           "is_english": true,
           "summary": "• Ornith-1.0-35B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "deepreinforce-ai/Ornith-1.0-35B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Comfy-Org/Krea-2",
+          "link": "https://huggingface.co/Comfy-Org/Krea-2",
+          "date": "2026-06-28",
+          "source": "HuggingFace",
+          "description": "• Krea-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Krea-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Comfy-Org/Krea-2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,19 +251,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
-          "link": "https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b",
-          "date": "2026-06-28",
-          "source": "HuggingFace",
-          "description": "• nemotron-3.5-asr-streaming-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
-          "is_english": true,
-          "summary": "• nemotron-3.5-asr-streaming-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/nemotron-3.5-asr-streaming-0.6b",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "LiquidAI/LFM2.5-230M",
           "link": "https://huggingface.co/LiquidAI/LFM2.5-230M",
           "date": "2026-06-28",
@@ -263,13 +262,38 @@
           "translated_title": "LiquidAI/LFM2.5-230M",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "nvidia/GLM-5.2-NVFP4",
+          "link": "https://huggingface.co/nvidia/GLM-5.2-NVFP4",
+          "date": "2026-06-28",
+          "source": "HuggingFace",
+          "description": "• GLM-5.2-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• GLM-5.2-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/GLM-5.2-NVFP4",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-06-27",
-      "update_time": "2026-06-27 19:04:46",
+      "update_time": "2026-06-27 21:55:07",
       "news": [
+        {
+          "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
+          "link": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+          "date": "2026-06-27",
+          "source": "TechCrunch",
+          "description": "Not everyone is buying Elon Musk’s vision for orbital data centers.",
+          "image": "https://techcrunch.com/wp-content/uploads/2021/02/GettyImages-1160112941.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
+          "original_summary": "Not everyone is buying Elon Musk’s vision for orbital data centers.",
+          "summary": "Not everyone is buying Elon Musk’s vision for orbital data centers."
+        },
         {
           "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
           "link": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
