@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-06-29",
-      "update_time": "2026-06-28 19:02:43",
+      "update_time": "2026-06-28 21:54:54",
       "news": [
         {
           "title": "김준기 래블업 CTO “풀스택 AI 인프라로 GPU 한계 넘는다”",
@@ -82,19 +82,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen-AgentWorld-35B-A3B",
-          "link": "https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B",
-          "date": "2026-06-29",
-          "source": "HuggingFace",
-          "description": "• Qwen-AgentWorld-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-AgentWorld/logo.png",
-          "is_english": true,
-          "summary": "• Qwen-AgentWorld-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen-AgentWorld-35B-A3B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
           "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
           "date": "2026-06-29",
@@ -104,6 +91,19 @@
           "is_english": true,
           "summary": "• Ornith-1.0-35B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen-AgentWorld-35B-A3B",
+          "link": "https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B",
+          "date": "2026-06-29",
+          "source": "HuggingFace",
+          "description": "• Qwen-AgentWorld-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-AgentWorld/logo.png",
+          "is_english": true,
+          "summary": "• Qwen-AgentWorld-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen-AgentWorld-35B-A3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -212,19 +212,6 @@
           "category": "AI Model"
         },
         {
-          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-06-29",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Comfy-Org/Krea-2",
           "link": "https://huggingface.co/Comfy-Org/Krea-2",
           "date": "2026-06-29",
@@ -234,6 +221,19 @@
           "is_english": true,
           "summary": "• Krea-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Comfy-Org/Krea-2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "date": "2026-06-29",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -280,8 +280,20 @@
     },
     {
       "date": "2026-06-28",
-      "update_time": "2026-06-28 16:03:02",
+      "update_time": "2026-06-28 21:54:53",
       "news": [
+        {
+          "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+          "link": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+          "date": "2026-06-28",
+          "source": "TechCrunch",
+          "description": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2255983122.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+          "original_summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”",
+          "summary": "\"Mistakenly we thought that by just introducing artificial intelligence ... that would produce a high-quality product.”"
+        },
         {
           "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
           "link": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
