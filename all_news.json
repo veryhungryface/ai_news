@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-06-29",
-      "update_time": "2026-06-28 16:03:02",
+      "update_time": "2026-06-28 19:02:43",
       "news": [
+        {
+          "title": "김준기 래블업 CTO “풀스택 AI 인프라로 GPU 한계 넘는다”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212203",
+          "date": "2026-06-29",
+          "source": "AI타임스",
+          "description": "최근 국내 AI 시장에서 안정적이고 효율적인 GPU 공급을 내세운 서비스가 급증하고 있다. GPU 가격 상승과 추론 수요 확대로 기업들의 AI 인프라 복잡성이 커진 데다, 저전력 NPU 등 하드웨어 선택지도 다양해졌기 때문이다.이러한 상황 속에서 2015년 설립 이후 ‘GPU 가상화’ 시장을 개척해 온 래블업(대표 신정규)이 기존 \\'모델 개발 및 사전 훈련\\' 중심에서 최근 수요가 급증한 \\'추론과 에이전트\\' 영역으로 비즈니스를 본격 확장하고 나섰다.그 중심에는 래블업의 ‘백엔드닷에이아이(Backend.AI)’가 있다. 이종 GPU·N",
+          "image": "https://cdn.aitimes.com/news/photo/202606/212203_215396_4714.png",
+          "is_english": false,
+          "original_title": "김준기 래블업 CTO “풀스택 AI 인프라로 GPU 한계 넘는다”",
+          "original_summary": "최근 국내 AI 시장에서 안정적이고 효율적인 GPU 공급을 내세운 서비스가 급증하고 있다. GPU 가격 상승과 추론 수요 확대로 기업들의 AI 인프라 복잡성이 커진 데다, 저전력 NPU 등 하드웨어 선택지도 다양해졌기 때문이다.이러한 상황 속에서 2015년 설립 이후 ‘GPU 가상화’ 시장을 개척해 온 래블업(대표 신정규)이 기존 \\'모델 개발 및 사전 훈련\\' 중심에서 최근 수요가 급증한 \\'추론과 에이전트\\' 영역으로 비즈니스를 본격 확장하고 나섰다.그 중심에는 래블업의 ‘백엔드닷에이아이(Backend.AI)’가 있다. 이종 G",
+          "summary": "최근 국내 AI 시장에서 안정적이고 효율적인 GPU 공급을 내세운 서비스가 급증하고 있다. GPU 가격 상승과 추론 수요 확대로 기업들의 AI 인프라 복잡성이 커진 데다, 저전력 NPU 등 하드웨어 선택지도 다양해졌기 때문이다.이러한 상황 속에서 2015년 설립 이후 ‘GPU 가상화’ 시장을 개척해 온 래블업(대표 신정규)이 기존 \\'모델 개발 및 사전 훈련\\' 중심에서 최근 수요가 급증한 \\'추론과 에이전트\\' 영역으로 비즈니스를 본격 확장하고 나섰다.그 중심에는 래블업의 ‘백엔드닷에이아이(Backend.AI)’가 있다. 이종 G"
+        },
         {
           "title": "baidu/Unlimited-OCR",
           "link": "https://huggingface.co/baidu/Unlimited-OCR",
@@ -148,19 +160,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/GLM-5.2-GGUF",
-          "link": "https://huggingface.co/unsloth/GLM-5.2-GGUF",
-          "date": "2026-06-29",
-          "source": "HuggingFace",
-          "description": "• GLM-5.2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
-          "is_english": true,
-          "summary": "• GLM-5.2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/GLM-5.2-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "deepreinforce-ai/Ornith-1.0-9B",
           "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B",
           "date": "2026-06-29",
@@ -174,15 +173,15 @@
           "category": "AI Model"
         },
         {
-          "title": "WeiboAI/VibeThinker-3B",
-          "link": "https://huggingface.co/WeiboAI/VibeThinker-3B",
+          "title": "unsloth/GLM-5.2-GGUF",
+          "link": "https://huggingface.co/unsloth/GLM-5.2-GGUF",
           "date": "2026-06-29",
           "source": "HuggingFace",
-          "description": "• VibeThinker-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/WeiboAI/VibeThinker-3B/resolve/main/pictures/Abstrct.png",
+          "description": "• GLM-5.2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
           "is_english": true,
-          "summary": "• VibeThinker-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "WeiboAI/VibeThinker-3B",
+          "summary": "• GLM-5.2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/GLM-5.2-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -196,6 +195,19 @@
           "is_english": true,
           "summary": "• Ornith-1.0-35B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "deepreinforce-ai/Ornith-1.0-35B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "WeiboAI/VibeThinker-3B",
+          "link": "https://huggingface.co/WeiboAI/VibeThinker-3B",
+          "date": "2026-06-29",
+          "source": "HuggingFace",
+          "description": "• VibeThinker-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/WeiboAI/VibeThinker-3B/resolve/main/pictures/Abstrct.png",
+          "is_english": true,
+          "summary": "• VibeThinker-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "WeiboAI/VibeThinker-3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -6973,7 +6985,7 @@
         {
           "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
           "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
-          "date": "2026-06-20",
+          "date": "2026-06-29",
           "source": "HuggingFace",
           "description": "• gemma-4-12B-coder-fable5-composer2.5-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -6986,7 +6998,7 @@
         {
           "title": "zai-org/GLM-5.2",
           "link": "https://huggingface.co/zai-org/GLM-5.2",
-          "date": "2026-06-20",
+          "date": "2026-06-29",
           "source": "HuggingFace",
           "description": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
@@ -7012,7 +7024,7 @@
         {
           "title": "WeiboAI/VibeThinker-3B",
           "link": "https://huggingface.co/WeiboAI/VibeThinker-3B",
-          "date": "2026-06-20",
+          "date": "2026-06-29",
           "source": "HuggingFace",
           "description": "• VibeThinker-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/WeiboAI/VibeThinker-3B/resolve/main/pictures/Abstrct.png",
@@ -7064,7 +7076,7 @@
         {
           "title": "nvidia/LocateAnything-3B",
           "link": "https://huggingface.co/nvidia/LocateAnything-3B",
-          "date": "2026-06-20",
+          "date": "2026-06-29",
           "source": "HuggingFace",
           "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
@@ -7090,7 +7102,7 @@
         {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-06-20",
+          "date": "2026-06-29",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -7103,7 +7115,7 @@
         {
           "title": "unsloth/GLM-5.2-GGUF",
           "link": "https://huggingface.co/unsloth/GLM-5.2-GGUF",
-          "date": "2026-06-20",
+          "date": "2026-06-29",
           "source": "HuggingFace",
           "description": "• GLM-5.2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
