@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-06-28",
-      "update_time": "2026-06-28 06:55:14",
+      "update_time": "2026-06-28 10:59:56",
       "news": [
+        {
+          "title": "저커버그, '예측 시장' 앱 개발 이어 선두주자와 협력 지시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212202",
+          "date": "2026-06-28",
+          "source": "AI타임스",
+          "description": "메타가 최근 폭발적으로 성장 중인 ‘예측 시장’에 도전하기 위해 자체 앱 개발에 나섰다는 소식에 이어, 이 분야 선두주자들과의 협력에 나선 것으로 알려졌다.26일(현지시간) 뉴욕타임스에 따르면, 마크 저커버그 CEO는 최근 참모진에게 폴리마켓(Polymarket)과 칼시(Kalshi) 등 대표 플랫폼과의 제휴 방안을 모색하라고 지시했다.이에 앞서 저커버그 CEO가 사내 소규모 팀을 통해 예측 시장 플랫폼을 모델로 한 독립형 모바일 앱 ‘아레나(Arena)’를 비밀리에 개발해 왔다는 소식이 전해졌다. 구체적인 협력 형태는 알려지지 않",
+          "image": "https://cdn.aitimes.com/news/photo/202606/212202_215395_3236.png",
+          "is_english": false,
+          "original_title": "저커버그, '예측 시장' 앱 개발 이어 선두주자와 협력 지시",
+          "original_summary": "메타가 최근 폭발적으로 성장 중인 ‘예측 시장’에 도전하기 위해 자체 앱 개발에 나섰다는 소식에 이어, 이 분야 선두주자들과의 협력에 나선 것으로 알려졌다.26일(현지시간) 뉴욕타임스에 따르면, 마크 저커버그 CEO는 최근 참모진에게 폴리마켓(Polymarket)과 칼시(Kalshi) 등 대표 플랫폼과의 제휴 방안을 모색하라고 지시했다.이에 앞서 저커버그 CEO가 사내 소규모 팀을 통해 예측 시장 플랫폼을 모델로 한 독립형 모바일 앱 ‘아레나(Arena)’를 비밀리에 개발해 왔다는 소식이 전해졌다. 구체적인 협력 형태는 알려지지 않",
+          "summary": "메타가 최근 폭발적으로 성장 중인 ‘예측 시장’에 도전하기 위해 자체 앱 개발에 나섰다는 소식에 이어, 이 분야 선두주자들과의 협력에 나선 것으로 알려졌다.26일(현지시간) 뉴욕타임스에 따르면, 마크 저커버그 CEO는 최근 참모진에게 폴리마켓(Polymarket)과 칼시(Kalshi) 등 대표 플랫폼과의 제휴 방안을 모색하라고 지시했다.이에 앞서 저커버그 CEO가 사내 소규모 팀을 통해 예측 시장 플랫폼을 모델로 한 독립형 모바일 앱 ‘아레나(Arena)’를 비밀리에 개발해 왔다는 소식이 전해졌다. 구체적인 협력 형태는 알려지지 않"
+        },
         {
           "title": "생성형 AI의 '은밀한 연령편향'…\"노인에 대해 미묘한 고정관념\"",
           "link": "https://www.yna.co.kr/view/AKR20260626118800063",
@@ -342,19 +354,6 @@
           "category": "AI Model"
         },
         {
-          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-06-28",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "deepreinforce-ai/Ornith-1.0-9B",
           "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B",
           "date": "2026-06-28",
@@ -368,15 +367,15 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/LocateAnything-3B",
-          "link": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "date": "2026-06-28",
           "source": "HuggingFace",
-          "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
+          "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
           "is_english": true,
-          "summary": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/LocateAnything-3B",
+          "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -390,6 +389,19 @@
           "is_english": true,
           "summary": "• Ornith-1.0-35B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "deepreinforce-ai/Ornith-1.0-35B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "link": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "date": "2026-06-28",
+          "source": "HuggingFace",
+          "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
+          "is_english": true,
+          "summary": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/LocateAnything-3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
