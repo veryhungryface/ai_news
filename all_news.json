@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-06-28",
-      "update_time": "2026-06-28 10:59:56",
+      "update_time": "2026-06-28 13:15:53",
       "news": [
+        {
+          "title": "국내 AI 업계, 마누스 외면… \"중국산 거부감보다 대체재 풍부\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212196",
+          "date": "2026-06-28",
+          "source": "AI타임스",
+          "description": "AI 에이전트 서비스 마누스(Manus)가 최근 국내 진출을 검토 중인 것으로 알려졌다. 마누스는 지난해 출시 직후 뛰어난 성능으로 주목받았으며, 최근에는 메타의 인수 추진 과정에서 중국 정부가 이례적으로 \\'거래 철회 명령\\'을 내리며 미국과의 기술 갈등의 중심에 선 바 있다. 이 때문에 시장에서는 이를 ‘중국계 AI’로 인식하는 분위기가 짙다. 마누스도 국내 진출에 가장 큰 걸림돌로 이런 점을 문제로 파악한 것으로 알려졌다.이에 따라 국내 AI 기업 10여 곳을 대상으로 마누스와 중국산 AI 이미지에 대한 시각과 실제 도입 여부를",
+          "image": "https://cdn.aitimes.com/news/photo/202606/212196_215381_5017.jpeg",
+          "is_english": false,
+          "original_title": "국내 AI 업계, 마누스 외면… \"중국산 거부감보다 대체재 풍부\"",
+          "original_summary": "AI 에이전트 서비스 마누스(Manus)가 최근 국내 진출을 검토 중인 것으로 알려졌다. 마누스는 지난해 출시 직후 뛰어난 성능으로 주목받았으며, 최근에는 메타의 인수 추진 과정에서 중국 정부가 이례적으로 \\'거래 철회 명령\\'을 내리며 미국과의 기술 갈등의 중심에 선 바 있다. 이 때문에 시장에서는 이를 ‘중국계 AI’로 인식하는 분위기가 짙다. 마누스도 국내 진출에 가장 큰 걸림돌로 이런 점을 문제로 파악한 것으로 알려졌다.이에 따라 국내 AI 기업 10여 곳을 대상으로 마누스와 중국산 AI 이미지에 대한 시각과 실제 도입 여부",
+          "summary": "AI 에이전트 서비스 마누스(Manus)가 최근 국내 진출을 검토 중인 것으로 알려졌다. 마누스는 지난해 출시 직후 뛰어난 성능으로 주목받았으며, 최근에는 메타의 인수 추진 과정에서 중국 정부가 이례적으로 \\'거래 철회 명령\\'을 내리며 미국과의 기술 갈등의 중심에 선 바 있다. 이 때문에 시장에서는 이를 ‘중국계 AI’로 인식하는 분위기가 짙다. 마누스도 국내 진출에 가장 큰 걸림돌로 이런 점을 문제로 파악한 것으로 알려졌다.이에 따라 국내 AI 기업 10여 곳을 대상으로 마누스와 중국산 AI 이미지에 대한 시각과 실제 도입 여부"
+        },
         {
           "title": "저커버그, '예측 시장' 앱 개발 이어 선두주자와 협력 지시",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=212202",
@@ -250,19 +262,6 @@
           "category": "AI Model"
         },
         {
-          "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
-          "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
-          "date": "2026-06-28",
-          "source": "HuggingFace",
-          "description": "• gemma-4-12B-coder-fable5-composer2.5-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
-          "is_english": true,
-          "summary": "• gemma-4-12B-coder-fable5-composer2.5-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen-AgentWorld-35B-A3B",
           "link": "https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B",
           "date": "2026-06-28",
@@ -272,6 +271,19 @@
           "is_english": true,
           "summary": "• Qwen-AgentWorld-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen-AgentWorld-35B-A3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "date": "2026-06-28",
+          "source": "HuggingFace",
+          "description": "• gemma-4-12B-coder-fable5-composer2.5-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "is_english": true,
+          "summary": "• gemma-4-12B-coder-fable5-composer2.5-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -367,19 +379,6 @@
           "category": "AI Model"
         },
         {
-          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-06-28",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "deepreinforce-ai/Ornith-1.0-35B",
           "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B",
           "date": "2026-06-28",
@@ -393,15 +392,15 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/LocateAnything-3B",
-          "link": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "date": "2026-06-28",
           "source": "HuggingFace",
-          "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
+          "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
           "is_english": true,
-          "summary": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/LocateAnything-3B",
+          "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -415,6 +414,19 @@
           "is_english": true,
           "summary": "• Krea-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Comfy-Org/Krea-2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "link": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "date": "2026-06-28",
+          "source": "HuggingFace",
+          "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
+          "is_english": true,
+          "summary": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/LocateAnything-3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
