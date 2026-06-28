@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-06-28",
-      "update_time": "2026-06-27 21:55:09",
+      "update_time": "2026-06-28 02:31:05",
       "news": [
         {
           "title": "행안부, AI 위조 성행에 '스마트폰 신분 확인' 폐지 검토",
@@ -147,19 +147,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/GLM-5.2-GGUF",
-          "link": "https://huggingface.co/unsloth/GLM-5.2-GGUF",
-          "date": "2026-06-28",
-          "source": "HuggingFace",
-          "description": "• GLM-5.2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
-          "is_english": true,
-          "summary": "• GLM-5.2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/GLM-5.2-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "krea/Krea-2-Raw",
           "link": "https://huggingface.co/krea/Krea-2-Raw",
           "date": "2026-06-28",
@@ -182,6 +169,19 @@
           "is_english": true,
           "summary": "• Ornith-1.0-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/GLM-5.2-GGUF",
+          "link": "https://huggingface.co/unsloth/GLM-5.2-GGUF",
+          "date": "2026-06-28",
+          "source": "HuggingFace",
+          "description": "• GLM-5.2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "is_english": true,
+          "summary": "• GLM-5.2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/GLM-5.2-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -212,6 +212,19 @@
           "category": "AI Model"
         },
         {
+          "title": "deepreinforce-ai/Ornith-1.0-9B",
+          "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B",
+          "date": "2026-06-28",
+          "source": "HuggingFace",
+          "description": "• Ornith-1.0-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%A6%A2%EF%B8%8F%20Ornith%20Blog%20-FD8E5B",
+          "is_english": true,
+          "summary": "• Ornith-1.0-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepreinforce-ai/Ornith-1.0-9B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "deepreinforce-ai/Ornith-1.0-35B",
           "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B",
           "date": "2026-06-28",
@@ -238,28 +251,15 @@
           "category": "AI Model"
         },
         {
-          "title": "deepreinforce-ai/Ornith-1.0-9B",
-          "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B",
+          "title": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark",
           "date": "2026-06-28",
           "source": "HuggingFace",
-          "description": "• Ornith-1.0-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%A6%A2%EF%B8%8F%20Ornith%20Blog%20-FD8E5B",
+          "description": "• DeepSeek-V4-Pro-DSpark 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
           "is_english": true,
-          "summary": "• Ornith-1.0-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepreinforce-ai/Ornith-1.0-9B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "LiquidAI/LFM2.5-230M",
-          "link": "https://huggingface.co/LiquidAI/LFM2.5-230M",
-          "date": "2026-06-28",
-          "source": "HuggingFace",
-          "description": "• LFM2.5-230M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/4UpNxlgfKjfgT5ByIVph0.png",
-          "is_english": true,
-          "summary": "• LFM2.5-230M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "LiquidAI/LFM2.5-230M",
+          "summary": "• DeepSeek-V4-Pro-DSpark 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
