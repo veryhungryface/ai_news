@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-06-30",
-      "update_time": "2026-06-29 17:27:41",
+      "update_time": "2026-06-29 19:42:55",
       "news": [
+        {
+          "title": "Opinion: Why Token Counting Obscures ROI on AI Investments",
+          "link": "https://aibusiness.com/agentic-ai/opinion-token-counting-obscures-roi-ai-investments",
+          "date": "2026-06-30",
+          "source": "AI Business",
+          "description": "A true cost model doesn’t just show where money is being spent -- it reveals which work is driving impact.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt384f186fa67f4ec1/6a429689553305c5d0356e1e/token_oped.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Opinion: Why Token Counting Obscures ROI on AI Investments",
+          "original_summary": "A true cost model doesn’t just show where money is being spent -- it reveals which work is driving impact.",
+          "summary": "A true cost model doesn’t just show where money is being spent -- it reveals which work is driving impact."
+        },
         {
           "title": "South Korea Unveils $576B AI Chip Push With Samsung and SK Hynix",
           "link": "https://aibusiness.com/generative-ai/south-korea-unveils-576b-ai-chip-push-samsung-sk-hynix",
@@ -280,8 +292,56 @@
     },
     {
       "date": "2026-06-29",
-      "update_time": "2026-06-29 17:27:41",
+      "update_time": "2026-06-29 19:42:55",
       "news": [
+        {
+          "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+          "link": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+          "date": "2026-06-29",
+          "source": "TechCrunch",
+          "description": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+          "is_english": true,
+          "original_title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+          "original_summary": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival.",
+          "summary": "As Anthropic forges a closer relationship with the state of California, the federal government has made an enemy out of the OpenAI rival."
+        },
+        {
+          "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
+          "link": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+          "date": "2026-06-29",
+          "source": "TechCrunch",
+          "description": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/05/GettyImages-455242307_8b18ff.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
+          "original_summary": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country.",
+          "summary": "The world's two largest memory chip companies vow to build more memory lab fabs as South Korea positions itself as an AI tech powerhouse country."
+        },
+        {
+          "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+          "link": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+          "date": "2026-06-29",
+          "source": "TechCrunch",
+          "description": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/ARENA_3Founders.jpg?resize=1200,801",
+          "is_english": true,
+          "original_title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+          "original_summary": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September. ",
+          "summary": "The startup, which runs a popular free AI leaderboard, launched its commercial service just last September. "
+        },
+        {
+          "title": "3 Questions: Beyond data-driven aesthetics",
+          "link": "https://news.mit.edu/2026/3-questions-beyond-data-driven-aesthetics-alexandros-haridis-0629",
+          "date": "2026-06-29",
+          "source": "MIT News",
+          "description": "In a new Keller Gallery exhibition, Alexandros Haridis SM ’17, PhD ’22 traces centuries of ideas about aesthetic judgment and explores how design can make complex computational systems visible.",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202606/MIT%20SA%2BP-Beyond-data-driven-aesthetics.jpg?itok=5dJ8xNtJ",
+          "is_english": true,
+          "original_title": "3 Questions: Beyond data-driven aesthetics",
+          "original_summary": "In a new Keller Gallery exhibition, Alexandros Haridis SM ’17, PhD ’22 traces centuries of ideas about aesthetic judgment and explores how design can make complex computational systems visible.",
+          "summary": "In a new Keller Gallery exhibition, Alexandros Haridis SM ’17, PhD ’22 traces centuries of ideas about aesthetic judgment and explores how design can make complex computational systems visible."
+        },
         {
           "title": "제조업 인공지능 전환, 2030년까지 20조 원 투입한다",
           "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148967305&call_from=rsslink",
@@ -7309,7 +7369,7 @@
         {
           "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
           "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
-          "date": "2026-06-21",
+          "date": "2026-06-30",
           "source": "HuggingFace",
           "description": "• gemma-4-12B-coder-fable5-composer2.5-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -7322,7 +7382,7 @@
         {
           "title": "zai-org/GLM-5.2",
           "link": "https://huggingface.co/zai-org/GLM-5.2",
-          "date": "2026-06-21",
+          "date": "2026-06-30",
           "source": "HuggingFace",
           "description": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
@@ -7400,7 +7460,7 @@
         {
           "title": "nvidia/LocateAnything-3B",
           "link": "https://huggingface.co/nvidia/LocateAnything-3B",
-          "date": "2026-06-21",
+          "date": "2026-06-30",
           "source": "HuggingFace",
           "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
@@ -7413,7 +7473,7 @@
         {
           "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
           "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-          "date": "2026-06-21",
+          "date": "2026-06-30",
           "source": "HuggingFace",
           "description": "• gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -7426,7 +7486,7 @@
         {
           "title": "unsloth/GLM-5.2-GGUF",
           "link": "https://huggingface.co/unsloth/GLM-5.2-GGUF",
-          "date": "2026-06-21",
+          "date": "2026-06-30",
           "source": "HuggingFace",
           "description": "• GLM-5.2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
@@ -7439,7 +7499,7 @@
         {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-06-21",
+          "date": "2026-06-30",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
