@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-07-01",
-      "update_time": "2026-06-30 17:01:25",
+      "update_time": "2026-06-30 19:31:11",
       "news": [
         {
           "title": "baidu/Unlimited-OCR",
@@ -200,19 +200,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/GLM-5.2-GGUF",
-          "link": "https://huggingface.co/unsloth/GLM-5.2-GGUF",
-          "date": "2026-07-01",
-          "source": "HuggingFace",
-          "description": "• GLM-5.2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
-          "is_english": true,
-          "summary": "• GLM-5.2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/GLM-5.2-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "deepreinforce-ai/Ornith-1.0-397B",
           "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-397B",
           "date": "2026-07-01",
@@ -222,6 +209,19 @@
           "is_english": true,
           "summary": "• Ornith-1.0-397B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "deepreinforce-ai/Ornith-1.0-397B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/GLM-5.2-GGUF",
+          "link": "https://huggingface.co/unsloth/GLM-5.2-GGUF",
+          "date": "2026-07-01",
+          "source": "HuggingFace",
+          "description": "• GLM-5.2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "is_english": true,
+          "summary": "• GLM-5.2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/GLM-5.2-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +268,92 @@
     },
     {
       "date": "2026-06-30",
-      "update_time": "2026-06-30 17:01:24",
+      "update_time": "2026-06-30 19:31:11",
       "news": [
+        {
+          "title": "Introducing GeneBench-Pro",
+          "link": "https://openai.com/index/introducing-genebench-pro",
+          "date": "2026-06-30",
+          "source": "OpenAI",
+          "description": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Introducing GeneBench-Pro",
+          "original_summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets.",
+          "summary": "Introducing GeneBench-Pro, a new benchmark testing AI performance in genomics, biology, and scientific research using complex, real-world datasets."
+        },
+        {
+          "title": "Inside Genebench-Pro",
+          "link": "https://openai.com/index/genebench-pro/case-studies",
+          "date": "2026-06-30",
+          "source": "OpenAI",
+          "description": "",
+          "image": null,
+          "is_english": true,
+          "original_title": "Inside Genebench-Pro",
+          "original_summary": "",
+          "summary": ""
+        },
+        {
+          "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+          "link": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
+          "date": "2026-06-30",
+          "source": "TechCrunch",
+          "description": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/google-image-models.png?resize=1200,678",
+          "is_english": true,
+          "original_title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
+          "original_summary": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content. ",
+          "summary": "Google is updating its image generator to make it faster and cheaper, making it a more useful tool for creators looking to make AI content. "
+        },
+        {
+          "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+          "link": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
+          "date": "2026-06-30",
+          "source": "TechCrunch",
+          "description": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/Chip-chips-dollar-signs-money.png?resize=1200,960",
+          "is_english": true,
+          "original_title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
+          "original_summary": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip.",
+          "summary": "Nvidia AI chip competitor Etched says it has already booked $1 billion under contract for the inference systems powered by its chip."
+        },
+        {
+          "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+          "link": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
+          "date": "2026-06-30",
+          "source": "TechCrunch",
+          "description": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
+          "original_summary": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro.",
+          "summary": "Anthropic’s Claude Sonnet 5 brings stronger agentic capabilities, lower pricing, and improved safety, positioning the model as a cheaper alternative to Opus, GPT-5.5, and Gemini Pro."
+        },
+        {
+          "title": "Acti puts AI agents directly into your smartphone keyboard",
+          "link": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
+          "date": "2026-06-30",
+          "source": "TechCrunch",
+          "description": "Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using natural language.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/Landscape_Promo.png?resize=1200,586",
+          "is_english": true,
+          "original_title": "Acti puts AI agents directly into your smartphone keyboard",
+          "original_summary": "Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using natural language.",
+          "summary": "Acti is betting the smartphone keyboard is the next home for AI assistants. The startup's new keyboard for iOS and Android works across apps and lets users create custom AI-powered shortcuts using natural language."
+        },
+        {
+          "title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
+          "link": "https://techcrunch.com/2026/06/30/anthropics-claude-science-bets-on-workflow-not-a-new-model-to-win-over-scientists/",
+          "date": "2026-06-30",
+          "source": "TechCrunch",
+          "description": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2249359579.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Anthropic’s Claude Science bets on workflow, not a new model, to win over scientists",
+          "original_summary": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools.",
+          "summary": "Anthropic's Claude Science is a workbench that gives scientists one environment to do computational research, saving them from the need to bounce between databases, pipelines, and tools."
+        },
         {
           "title": "How ChatGPT adoption has expanded",
           "link": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
@@ -7957,7 +8041,7 @@
         {
           "title": "zai-org/GLM-5.2",
           "link": "https://huggingface.co/zai-org/GLM-5.2",
-          "date": "2026-06-22",
+          "date": "2026-07-01",
           "source": "HuggingFace",
           "description": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
@@ -7970,7 +8054,7 @@
         {
           "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
           "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
-          "date": "2026-06-22",
+          "date": "2026-07-01",
           "source": "HuggingFace",
           "description": "• gemma-4-12B-coder-fable5-composer2.5-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -8009,7 +8093,7 @@
         {
           "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
           "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-          "date": "2026-06-22",
+          "date": "2026-07-01",
           "source": "HuggingFace",
           "description": "• gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -8035,7 +8119,7 @@
         {
           "title": "unsloth/GLM-5.2-GGUF",
           "link": "https://huggingface.co/unsloth/GLM-5.2-GGUF",
-          "date": "2026-06-22",
+          "date": "2026-07-01",
           "source": "HuggingFace",
           "description": "• GLM-5.2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
@@ -8061,7 +8145,7 @@
         {
           "title": "nvidia/LocateAnything-3B",
           "link": "https://huggingface.co/nvidia/LocateAnything-3B",
-          "date": "2026-06-22",
+          "date": "2026-07-01",
           "source": "HuggingFace",
           "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
