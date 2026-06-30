@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-07-01",
-      "update_time": "2026-06-30 19:31:11",
+      "update_time": "2026-06-30 22:09:31",
       "news": [
+        {
+          "title": "With Claude Science, Anthropic Targets Another Application",
+          "link": "https://aibusiness.com/generative-ai/with-claude-science-anthropic-targets-application",
+          "date": "2026-07-01",
+          "source": "AI Business",
+          "description": "The AI vendor is not the first model provider to focus on science. It is proceeding cautiously due to challenges with using AI in the science field.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt51c907f35afe9080/6a443a2eea333e2578db5635/Science2.png?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "With Claude Science, Anthropic Targets Another Application",
+          "original_summary": "The AI vendor is not the first model provider to focus on science. It is proceeding cautiously due to challenges with using AI in the science field.",
+          "summary": "The AI vendor is not the first model provider to focus on science. It is proceeding cautiously due to challenges with using AI in the science field."
+        },
         {
           "title": "baidu/Unlimited-OCR",
           "link": "https://huggingface.co/baidu/Unlimited-OCR",
@@ -83,19 +95,6 @@
           "category": "AI Model"
         },
         {
-          "title": "krea/Krea-2-Turbo",
-          "link": "https://huggingface.co/krea/Krea-2-Turbo",
-          "date": "2026-07-01",
-          "source": "HuggingFace",
-          "description": "• Krea-2-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Krea-2-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "krea/Krea-2-Turbo",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
           "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
           "date": "2026-07-01",
@@ -105,6 +104,19 @@
           "is_english": true,
           "summary": "• Qwythos-9B-Claude-Mythos-5-1M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "krea/Krea-2-Turbo",
+          "link": "https://huggingface.co/krea/Krea-2-Turbo",
+          "date": "2026-07-01",
+          "source": "HuggingFace",
+          "description": "• Krea-2-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Krea-2-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "krea/Krea-2-Turbo",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -187,19 +199,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Comfy-Org/Krea-2",
-          "link": "https://huggingface.co/Comfy-Org/Krea-2",
-          "date": "2026-07-01",
-          "source": "HuggingFace",
-          "description": "• Krea-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Krea-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Comfy-Org/Krea-2",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "deepreinforce-ai/Ornith-1.0-397B",
           "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-397B",
           "date": "2026-07-01",
@@ -209,19 +208,6 @@
           "is_english": true,
           "summary": "• Ornith-1.0-397B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "deepreinforce-ai/Ornith-1.0-397B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "unsloth/GLM-5.2-GGUF",
-          "link": "https://huggingface.co/unsloth/GLM-5.2-GGUF",
-          "date": "2026-07-01",
-          "source": "HuggingFace",
-          "description": "• GLM-5.2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
-          "is_english": true,
-          "summary": "• GLM-5.2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/GLM-5.2-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -252,6 +238,32 @@
           "category": "AI Model"
         },
         {
+          "title": "Comfy-Org/Krea-2",
+          "link": "https://huggingface.co/Comfy-Org/Krea-2",
+          "date": "2026-07-01",
+          "source": "HuggingFace",
+          "description": "• Krea-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Krea-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Comfy-Org/Krea-2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/GLM-5.2-GGUF",
+          "link": "https://huggingface.co/unsloth/GLM-5.2-GGUF",
+          "date": "2026-07-01",
+          "source": "HuggingFace",
+          "description": "• GLM-5.2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "is_english": true,
+          "summary": "• GLM-5.2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/GLM-5.2-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "LiquidAI/LFM2.5-230M",
           "link": "https://huggingface.co/LiquidAI/LFM2.5-230M",
           "date": "2026-07-01",
@@ -268,8 +280,44 @@
     },
     {
       "date": "2026-06-30",
-      "update_time": "2026-06-30 19:31:11",
+      "update_time": "2026-06-30 22:09:31",
       "news": [
+        {
+          "title": "삼성, 호남에 425조 투자… 반도체·AI 데이터센터 거점 조성",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212289",
+          "date": "2026-06-30",
+          "source": "AI타임스",
+          "description": "삼성은 30일 광주광역시 김대중컨벤션센터에서 열린 ‘서남권 첨단산업 발전비전 국민보고회’에서 호남 지역 투자 계획을 밝혔다.삼성은 ▲글로벌 최첨단 반도체 클러스터 ▲AI 데이터센터 ▲미래 에너지 등을 육성하기 위해 잠재력이 풍부한 호남에 총 425조원을 투자할 예정이다.우선, 광주에 삼성전자가 약 400조원을 투자해 신규 반도체 Fab 2개를 건설, 글로벌 반도체 거점으로 조성하겠다는 계획이다.급증할 것으로 예상되는 글로벌 반도체 수요에 대응하기 위해 기흥·화성·평택에 이어 용인국가산단 투자 일정이 많이 빨라졌으며, 용인 이후의 새",
+          "image": "https://cdn.aitimes.com/news/photo/202607/212289_215496_858.jpg",
+          "is_english": false,
+          "original_title": "삼성, 호남에 425조 투자… 반도체·AI 데이터센터 거점 조성",
+          "original_summary": "삼성은 30일 광주광역시 김대중컨벤션센터에서 열린 ‘서남권 첨단산업 발전비전 국민보고회’에서 호남 지역 투자 계획을 밝혔다.삼성은 ▲글로벌 최첨단 반도체 클러스터 ▲AI 데이터센터 ▲미래 에너지 등을 육성하기 위해 잠재력이 풍부한 호남에 총 425조원을 투자할 예정이다.우선, 광주에 삼성전자가 약 400조원을 투자해 신규 반도체 Fab 2개를 건설, 글로벌 반도체 거점으로 조성하겠다는 계획이다.급증할 것으로 예상되는 글로벌 반도체 수요에 대응하기 위해 기흥·화성·평택에 이어 용인국가산단 투자 일정이 많이 빨라졌으며, 용인 이후의 새",
+          "summary": "삼성은 30일 광주광역시 김대중컨벤션센터에서 열린 ‘서남권 첨단산업 발전비전 국민보고회’에서 호남 지역 투자 계획을 밝혔다.삼성은 ▲글로벌 최첨단 반도체 클러스터 ▲AI 데이터센터 ▲미래 에너지 등을 육성하기 위해 잠재력이 풍부한 호남에 총 425조원을 투자할 예정이다.우선, 광주에 삼성전자가 약 400조원을 투자해 신규 반도체 Fab 2개를 건설, 글로벌 반도체 거점으로 조성하겠다는 계획이다.급증할 것으로 예상되는 글로벌 반도체 수요에 대응하기 위해 기흥·화성·평택에 이어 용인국가산단 투자 일정이 많이 빨라졌으며, 용인 이후의 새"
+        },
+        {
+          "title": "OpenClaw is finally available on Android and iOS",
+          "link": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
+          "date": "2026-06-30",
+          "source": "TechCrunch",
+          "description": "The free open source agentic program is finally invading your phone. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/ChatGPT-OpenClaw-Claude.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "OpenClaw is finally available on Android and iOS",
+          "original_summary": "The free open source agentic program is finally invading your phone. ",
+          "summary": "The free open source agentic program is finally invading your phone. "
+        },
+        {
+          "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+          "link": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
+          "date": "2026-06-30",
+          "source": "TechCrunch",
+          "description": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/Martin-Schmid-EquiLibre-Technologies.jpeg?resize=1200,800",
+          "is_english": true,
+          "original_title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
+          "original_summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million.",
+          "summary": "EquiLibre Technologies, a Prague-based AI lab founded by three ex-DeepMind researchers, is now valued at more than $500 million."
+        },
         {
           "title": "Introducing GeneBench-Pro",
           "link": "https://openai.com/index/introducing-genebench-pro",
