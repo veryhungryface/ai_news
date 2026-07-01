@@ -2,8 +2,44 @@
   "dates": [
     {
       "date": "2026-07-01",
-      "update_time": "2026-07-01 11:51:02",
+      "update_time": "2026-07-01 14:08:11",
       "news": [
+        {
+          "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
+          "date": "2026-07-01",
+          "source": "TechCrunch",
+          "description": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and Q&#038;A on what it takes to build and scale successful companies. Register now to save up to $330.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/Builders-Stage_ArticleHeader_tc26_V2.png?resize=1200,675",
+          "is_english": true,
+          "original_title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
+          "original_summary": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and Q&#038;A on what it takes to build and scale successful companies. Register now to save up to $330.",
+          "summary": "The Builders Stage is returning to TechCrunch Disrupt 2026, bringing together 10,000+ founders, startup operators, and investors for practical conversations. and Q&#038;A on what it takes to build and scale successful companies. Register now to save up to $330."
+        },
+        {
+          "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+          "link": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+          "date": "2026-07-01",
+          "source": "TechCrunch",
+          "description": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2225880947.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+          "original_summary": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure. ",
+          "summary": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure. "
+        },
+        {
+          "title": "Google Expands AI Imaging Offerings With Nano Banana Lite 2",
+          "link": "https://aibusiness.com/generative-ai/google-expands-ai-imaging-offerings-nano-banana-lite-2",
+          "date": "2026-07-01",
+          "source": "AI Business",
+          "description": "The release comes alongside expanded availability of Google’s Gemini Omni Flash.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt568b4db348894d46/6a45118bc6acc87f4f8bf0f9/Banana.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Google Expands AI Imaging Offerings With Nano Banana Lite 2",
+          "original_summary": "The release comes alongside expanded availability of Google’s Gemini Omni Flash.",
+          "summary": "The release comes alongside expanded availability of Google’s Gemini Omni Flash."
+        },
         {
           "title": "'학교를 지역 성장거점으로 전환'…제2차 교육시설 기본계획 발표",
           "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148967458&call_from=rsslink",
@@ -851,28 +887,28 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/GLM-5.2-GGUF",
-          "link": "https://huggingface.co/unsloth/GLM-5.2-GGUF",
+          "title": "nvidia/Qwen3.6-27B-NVFP4",
+          "link": "https://huggingface.co/nvidia/Qwen3.6-27B-NVFP4",
           "date": "2026-07-01",
           "source": "HuggingFace",
-          "description": "• GLM-5.2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "description": "• Qwen3.6-27B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
           "is_english": true,
-          "summary": "• GLM-5.2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/GLM-5.2-GGUF",
+          "summary": "• Qwen3.6-27B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/Qwen3.6-27B-NVFP4",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
         {
-          "title": "krea/Krea-2-Raw",
-          "link": "https://huggingface.co/krea/Krea-2-Raw",
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "date": "2026-07-01",
           "source": "HuggingFace",
-          "description": "• Krea-2-Raw 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
           "is_english": true,
-          "summary": "• Krea-2-Raw 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "krea/Krea-2-Raw",
+          "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -8806,7 +8842,7 @@
         {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-06-22",
+          "date": "2026-07-01",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
