@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-07-02",
-      "update_time": "2026-07-01 19:30:10",
+      "update_time": "2026-07-01 22:13:42",
       "news": [
         {
           "title": "Restrictions on Fable 5, Mythos 5 Lifted, as Anthropic Launches Sonnet 5",
@@ -251,6 +251,19 @@
           "category": "AI Model"
         },
         {
+          "title": "InternScience/Agents-A1",
+          "link": "https://huggingface.co/InternScience/Agents-A1",
+          "date": "2026-07-02",
+          "source": "HuggingFace",
+          "description": "• Agents-A1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/InternScience/Agents-A1/resolve/main/./figures/24px.svg",
+          "is_english": true,
+          "summary": "• Agents-A1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "InternScience/Agents-A1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Comfy-Org/Krea-2",
           "link": "https://huggingface.co/Comfy-Org/Krea-2",
           "date": "2026-07-02",
@@ -262,26 +275,25 @@
           "translated_title": "Comfy-Org/Krea-2",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-07-02",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-07-01",
-      "update_time": "2026-07-01 19:30:10",
+      "update_time": "2026-07-01 22:13:40",
       "news": [
+        {
+          "title": "MIT in the media: Innovating and educating for the next 250 years of America",
+          "link": "https://news.mit.edu/2026/mit-media-innovating-and-educating-next-250-years-america",
+          "date": "2026-07-01",
+          "source": "MIT News",
+          "description": "During a \"Washington Post Live\" panel discussion with ASU President Michael Crow, President Sally Kornbluth explored how universities are preparing the next generation of scientists to lead in America’s rapidly changing technological landscape. ",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/WP%20Live.png?itok=J4GyDMKj",
+          "is_english": true,
+          "original_title": "MIT in the media: Innovating and educating for the next 250 years of America",
+          "original_summary": "During a \"Washington Post Live\" panel discussion with ASU President Michael Crow, President Sally Kornbluth explored how universities are preparing the next generation of scientists to lead in America’s rapidly changing technological landscape. ",
+          "summary": "During a \"Washington Post Live\" panel discussion with ASU President Michael Crow, President Sally Kornbluth explored how universities are preparing the next generation of scientists to lead in America’s rapidly changing technological landscape. "
+        },
         {
           "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
           "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
