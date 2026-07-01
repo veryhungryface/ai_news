@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-07-02",
-      "update_time": "2026-07-01 17:07:10",
+      "update_time": "2026-07-01 19:30:10",
       "news": [
         {
           "title": "Restrictions on Fable 5, Mythos 5 Lifted, as Anthropic Launches Sonnet 5",
@@ -147,19 +147,6 @@
           "category": "AI Model"
         },
         {
-          "title": "krea/Krea-2-Turbo",
-          "link": "https://huggingface.co/krea/Krea-2-Turbo",
-          "date": "2026-07-02",
-          "source": "HuggingFace",
-          "description": "• Krea-2-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Krea-2-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "krea/Krea-2-Turbo",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark",
           "date": "2026-07-02",
@@ -169,6 +156,19 @@
           "is_english": true,
           "summary": "• DeepSeek-V4-Pro-DSpark 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "krea/Krea-2-Turbo",
+          "link": "https://huggingface.co/krea/Krea-2-Turbo",
+          "date": "2026-07-02",
+          "source": "HuggingFace",
+          "description": "• Krea-2-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Krea-2-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "krea/Krea-2-Turbo",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -264,15 +264,15 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/GLM-5.2-GGUF",
-          "link": "https://huggingface.co/unsloth/GLM-5.2-GGUF",
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "date": "2026-07-02",
           "source": "HuggingFace",
-          "description": "• GLM-5.2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
           "is_english": true,
-          "summary": "• GLM-5.2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/GLM-5.2-GGUF",
+          "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -280,8 +280,56 @@
     },
     {
       "date": "2026-07-01",
-      "update_time": "2026-07-01 17:07:10",
+      "update_time": "2026-07-01 19:30:10",
       "news": [
+        {
+          "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+          "link": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
+          "date": "2026-07-01",
+          "source": "TechCrunch",
+          "description": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/elon-nasdaq-spacex-ipo.jpg?resize=1200,801",
+          "is_english": true,
+          "original_title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
+          "original_summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless.",
+          "summary": "SpaceX reportedly showed investors a \"handset-like\" AI device before going public. It could be another signal SpaceX wants to expand into wireless."
+        },
+        {
+          "title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+          "link": "https://techcrunch.com/2026/07/01/ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller/",
+          "date": "2026-07-01",
+          "source": "TechCrunch",
+          "description": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-2181797244.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller",
+          "original_summary": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them.",
+          "summary": "Sound built its reputation on concentrated, high-conviction bets in category-leading AI labs, while Kutcher's new fund appears to be chasing the layer underneath those companies — the infrastructure and energy that power them."
+        },
+        {
+          "title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+          "link": "https://techcrunch.com/2026/07/01/cloudflares-new-policy-pushes-ai-companies-to-pay-for-publishers-content/",
+          "date": "2026-07-01",
+          "source": "TechCrunch",
+          "description": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
+          "image": "https://techcrunch.com/wp-content/uploads/2022/09/Matthew-Prince-co-founder-CEO-Cloudflare-1.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Cloudflare’s new policy pushes AI companies to pay for publishers’ content",
+          "original_summary": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites.",
+          "summary": "Cloudflare is giving AI companies until September 15 to separate web crawlers used for search from those used for AI training and agents, or risk being blocked by default on many publisher sites."
+        },
+        {
+          "title": "The latest AI news we announced in June 2026",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+          "date": "2026-07-01",
+          "source": "Google AI",
+          "description": "Here are Google’s latest AI updates from June 2026.",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/June_AI_Recap_social.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "The latest AI news we announced in June 2026",
+          "original_summary": "Here are Google’s latest AI updates from June 2026.",
+          "summary": "Here are Google’s latest AI updates from June 2026."
+        },
         {
           "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
           "link": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
@@ -8137,7 +8185,7 @@
         {
           "title": "zai-org/GLM-5.2",
           "link": "https://huggingface.co/zai-org/GLM-5.2",
-          "date": "2026-06-23",
+          "date": "2026-07-02",
           "source": "HuggingFace",
           "description": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
@@ -8150,7 +8198,7 @@
         {
           "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
           "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
-          "date": "2026-06-23",
+          "date": "2026-07-02",
           "source": "HuggingFace",
           "description": "• gemma-4-12B-coder-fable5-composer2.5-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -8176,7 +8224,7 @@
         {
           "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
           "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-          "date": "2026-06-23",
+          "date": "2026-07-02",
           "source": "HuggingFace",
           "description": "• gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -8241,7 +8289,7 @@
         {
           "title": "nvidia/LocateAnything-3B",
           "link": "https://huggingface.co/nvidia/LocateAnything-3B",
-          "date": "2026-06-23",
+          "date": "2026-07-02",
           "source": "HuggingFace",
           "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
@@ -8254,7 +8302,7 @@
         {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-06-23",
+          "date": "2026-07-02",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -8319,7 +8367,7 @@
         {
           "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
           "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-          "date": "2026-06-23",
+          "date": "2026-07-02",
           "source": "HuggingFace",
           "description": "• Qwythos-9B-Claude-Mythos-5-1M-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M/resolve/main/assets/qwythos.png",
