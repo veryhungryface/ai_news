@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-07-03",
-      "update_time": "2026-07-02 16:45:00",
+      "update_time": "2026-07-02 19:09:32",
       "news": [
         {
           "title": "baidu/Unlimited-OCR",
@@ -70,19 +70,6 @@
           "category": "AI Model"
         },
         {
-          "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-          "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-          "date": "2026-07-03",
-          "source": "HuggingFace",
-          "description": "• gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "deepreinforce-ai/Ornith-1.0-9B",
           "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B",
           "date": "2026-07-03",
@@ -92,6 +79,19 @@
           "is_english": true,
           "summary": "• Ornith-1.0-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "deepreinforce-ai/Ornith-1.0-9B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "date": "2026-07-03",
+          "source": "HuggingFace",
+          "description": "• gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -161,15 +161,15 @@
           "category": "AI Model"
         },
         {
-          "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
-          "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "title": "nvidia/Qwen3.6-27B-NVFP4",
+          "link": "https://huggingface.co/nvidia/Qwen3.6-27B-NVFP4",
           "date": "2026-07-03",
           "source": "HuggingFace",
-          "description": "• gemma-4-12B-coder-fable5-composer2.5-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "description": "• Qwen3.6-27B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
           "is_english": true,
-          "summary": "• gemma-4-12B-coder-fable5-composer2.5-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "summary": "• Qwen3.6-27B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/Qwen3.6-27B-NVFP4",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -187,15 +187,15 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/Qwen3.6-27B-NVFP4",
-          "link": "https://huggingface.co/nvidia/Qwen3.6-27B-NVFP4",
+          "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
           "date": "2026-07-03",
           "source": "HuggingFace",
-          "description": "• Qwen3.6-27B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "description": "• gemma-4-12B-coder-fable5-composer2.5-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
           "is_english": true,
-          "summary": "• Qwen3.6-27B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/Qwen3.6-27B-NVFP4",
+          "summary": "• gemma-4-12B-coder-fable5-composer2.5-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -213,19 +213,6 @@
           "category": "AI Model"
         },
         {
-          "title": "deepreinforce-ai/Ornith-1.0-397B",
-          "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-397B",
-          "date": "2026-07-03",
-          "source": "HuggingFace",
-          "description": "• Ornith-1.0-397B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%A6%A2%EF%B8%8F%20Ornith%20Blog%20-FD8E5B",
-          "is_english": true,
-          "summary": "• Ornith-1.0-397B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepreinforce-ai/Ornith-1.0-397B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "InternScience/Agents-A1",
           "link": "https://huggingface.co/InternScience/Agents-A1",
           "date": "2026-07-03",
@@ -235,6 +222,19 @@
           "is_english": true,
           "summary": "• Agents-A1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "InternScience/Agents-A1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "deepreinforce-ai/Ornith-1.0-397B",
+          "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-397B",
+          "date": "2026-07-03",
+          "source": "HuggingFace",
+          "description": "• Ornith-1.0-397B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%A6%A2%EF%B8%8F%20Ornith%20Blog%20-FD8E5B",
+          "is_english": true,
+          "summary": "• Ornith-1.0-397B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepreinforce-ai/Ornith-1.0-397B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -252,15 +252,15 @@
           "category": "AI Model"
         },
         {
-          "title": "LiquidAI/LFM2.5-230M",
-          "link": "https://huggingface.co/LiquidAI/LFM2.5-230M",
+          "title": "fal/LTX-2.3-3DREAL-LoRA",
+          "link": "https://huggingface.co/fal/LTX-2.3-3DREAL-LoRA",
           "date": "2026-07-03",
           "source": "HuggingFace",
-          "description": "• LFM2.5-230M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/4UpNxlgfKjfgT5ByIVph0.png",
+          "description": "• LTX-2.3-3DREAL-LoRA 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/fal/LTX-2.3-3DREAL-LoRA/resolve/main/assets/example_harbor.gif",
           "is_english": true,
-          "summary": "• LFM2.5-230M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "LiquidAI/LFM2.5-230M",
+          "summary": "• LTX-2.3-3DREAL-LoRA 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "fal/LTX-2.3-3DREAL-LoRA",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -268,8 +268,32 @@
     },
     {
       "date": "2026-07-02",
-      "update_time": "2026-07-02 16:45:00",
+      "update_time": "2026-07-02 19:09:30",
       "news": [
+        {
+          "title": "Meta quietly launches vibe-coded gaming app Pocket",
+          "link": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+          "date": "2026-07-02",
+          "source": "TechCrunch",
+          "description": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Meta quietly launches vibe-coded gaming app Pocket",
+          "original_summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts.",
+          "summary": "Meta has quietly launched Pocket, an experimental AI app that lets users generate and share interactive mini games using text prompts."
+        },
+        {
+          "title": "Anthropic is discussing a new custom chip with Samsung",
+          "link": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+          "date": "2026-07-02",
+          "source": "TechCrunch",
+          "description": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+          "is_english": true,
+          "original_title": "Anthropic is discussing a new custom chip with Samsung",
+          "original_summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom. ",
+          "summary": "The news comes about a week after OpenAI announced its own custom AI chip in a partnership with Broadcom. "
+        },
         {
           "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
           "link": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
@@ -7993,7 +8017,7 @@
         {
           "title": "zai-org/GLM-5.2",
           "link": "https://huggingface.co/zai-org/GLM-5.2",
-          "date": "2026-06-24",
+          "date": "2026-07-03",
           "source": "HuggingFace",
           "description": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
@@ -8006,7 +8030,7 @@
         {
           "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
           "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
-          "date": "2026-06-24",
+          "date": "2026-07-03",
           "source": "HuggingFace",
           "description": "• gemma-4-12B-coder-fable5-composer2.5-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -8019,7 +8043,7 @@
         {
           "title": "baidu/Unlimited-OCR",
           "link": "https://huggingface.co/baidu/Unlimited-OCR",
-          "date": "2026-06-24",
+          "date": "2026-07-03",
           "source": "HuggingFace",
           "description": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/baidu/Unlimited-OCR/resolve/main/assets/baidu.png",
@@ -8032,7 +8056,7 @@
         {
           "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
           "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-          "date": "2026-06-24",
+          "date": "2026-07-03",
           "source": "HuggingFace",
           "description": "• gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -8071,7 +8095,7 @@
         {
           "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
           "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-          "date": "2026-06-24",
+          "date": "2026-07-03",
           "source": "HuggingFace",
           "description": "• Qwythos-9B-Claude-Mythos-5-1M-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M/resolve/main/assets/qwythos.png",
@@ -8084,7 +8108,7 @@
         {
           "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
           "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
-          "date": "2026-06-24",
+          "date": "2026-07-03",
           "source": "HuggingFace",
           "description": "• Qwythos-9B-Claude-Mythos-5-1M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M/resolve/main/assets/qwythos.png",
@@ -8110,7 +8134,7 @@
         {
           "title": "nvidia/LocateAnything-3B",
           "link": "https://huggingface.co/nvidia/LocateAnything-3B",
-          "date": "2026-06-24",
+          "date": "2026-07-03",
           "source": "HuggingFace",
           "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
