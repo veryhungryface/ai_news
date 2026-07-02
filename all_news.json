@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-07-02",
-      "update_time": "2026-07-02 11:27:43",
+      "update_time": "2026-07-02 13:29:46",
       "news": [
+        {
+          "title": "Yep, we’re using OpenClaw to date now",
+          "link": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+          "date": "2026-07-02",
+          "source": "TechCrunch",
+          "description": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/openclaw-dating.png?resize=1200,900",
+          "is_english": true,
+          "original_title": "Yep, we’re using OpenClaw to date now",
+          "original_summary": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.",
+          "summary": "Ben Guez has \"a bunch of potential international wives in [his] DMs,\" thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials."
+        },
         {
           "title": "메타, 스페이스X처럼 남는 AI 컴퓨팅 자원 판매...\"자체 AI 수요 부진 타개\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=212338",
@@ -528,19 +540,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen-AgentWorld-35B-A3B",
-          "link": "https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B",
-          "date": "2026-07-02",
-          "source": "HuggingFace",
-          "description": "• Qwen-AgentWorld-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-AgentWorld/logo.png",
-          "is_english": true,
-          "summary": "• Qwen-AgentWorld-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen-AgentWorld-35B-A3B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "deepreinforce-ai/Ornith-1.0-35B",
           "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B",
           "date": "2026-07-02",
@@ -550,6 +549,19 @@
           "is_english": true,
           "summary": "• Ornith-1.0-35B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "deepreinforce-ai/Ornith-1.0-35B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen-AgentWorld-35B-A3B",
+          "link": "https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B",
+          "date": "2026-07-02",
+          "source": "HuggingFace",
+          "description": "• Qwen-AgentWorld-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-AgentWorld/logo.png",
+          "is_english": true,
+          "summary": "• Qwen-AgentWorld-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen-AgentWorld-35B-A3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -632,19 +644,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/LocateAnything-3B",
-          "link": "https://huggingface.co/nvidia/LocateAnything-3B",
-          "date": "2026-07-02",
-          "source": "HuggingFace",
-          "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
-          "is_english": true,
-          "summary": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/LocateAnything-3B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nvidia/Qwen3.6-27B-NVFP4",
           "link": "https://huggingface.co/nvidia/Qwen3.6-27B-NVFP4",
           "date": "2026-07-02",
@@ -654,6 +653,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-27B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nvidia/Qwen3.6-27B-NVFP4",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "link": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "date": "2026-07-02",
+          "source": "HuggingFace",
+          "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
+          "is_english": true,
+          "summary": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/LocateAnything-3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
