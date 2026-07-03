@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-07-04",
-      "update_time": "2026-07-03 19:01:58",
+      "update_time": "2026-07-03 21:57:25",
       "news": [
         {
           "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
@@ -122,19 +122,6 @@
           "category": "AI Model"
         },
         {
-          "title": "deepreinforce-ai/Ornith-1.0-35B",
-          "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B",
-          "date": "2026-07-04",
-          "source": "HuggingFace",
-          "description": "• Ornith-1.0-35B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%A6%A2%EF%B8%8F%20Ornith%20Blog%20-FD8E5B",
-          "is_english": true,
-          "summary": "• Ornith-1.0-35B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepreinforce-ai/Ornith-1.0-35B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
           "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
           "date": "2026-07-04",
@@ -148,15 +135,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen-AgentWorld-35B-A3B",
-          "link": "https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B",
+          "title": "deepreinforce-ai/Ornith-1.0-35B",
+          "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B",
           "date": "2026-07-04",
           "source": "HuggingFace",
-          "description": "• Qwen-AgentWorld-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-AgentWorld/logo.png",
+          "description": "• Ornith-1.0-35B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%A6%A2%EF%B8%8F%20Ornith%20Blog%20-FD8E5B",
           "is_english": true,
-          "summary": "• Qwen-AgentWorld-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen-AgentWorld-35B-A3B",
+          "summary": "• Ornith-1.0-35B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepreinforce-ai/Ornith-1.0-35B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -174,15 +161,15 @@
           "category": "AI Model"
         },
         {
-          "title": "krea/Krea-2-Turbo",
-          "link": "https://huggingface.co/krea/Krea-2-Turbo",
+          "title": "Qwen/Qwen-AgentWorld-35B-A3B",
+          "link": "https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B",
           "date": "2026-07-04",
           "source": "HuggingFace",
-          "description": "• Krea-2-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• Qwen-AgentWorld-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-AgentWorld/logo.png",
           "is_english": true,
-          "summary": "• Krea-2-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "krea/Krea-2-Turbo",
+          "summary": "• Qwen-AgentWorld-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen-AgentWorld-35B-A3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -196,6 +183,19 @@
           "is_english": true,
           "summary": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nvidia/LocateAnything-3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "krea/Krea-2-Turbo",
+          "link": "https://huggingface.co/krea/Krea-2-Turbo",
+          "date": "2026-07-04",
+          "source": "HuggingFace",
+          "description": "• Krea-2-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Krea-2-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "krea/Krea-2-Turbo",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -226,19 +226,6 @@
           "category": "AI Model"
         },
         {
-          "title": "huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
-          "link": "https://huggingface.co/huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
-          "date": "2026-07-04",
-          "source": "HuggingFace",
-          "description": "• Huihui-GLM-5.2-abliterated-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Huihui-GLM-5.2-abliterated-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "deepseek-ai/DeepSeek-V4-Flash-DSpark",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-DSpark",
           "date": "2026-07-04",
@@ -248,6 +235,19 @@
           "is_english": true,
           "summary": "• DeepSeek-V4-Flash-DSpark 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "deepseek-ai/DeepSeek-V4-Flash-DSpark",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
+          "link": "https://huggingface.co/huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
+          "date": "2026-07-04",
+          "source": "HuggingFace",
+          "description": "• Huihui-GLM-5.2-abliterated-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Huihui-GLM-5.2-abliterated-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +268,20 @@
     },
     {
       "date": "2026-07-03",
-      "update_time": "2026-07-03 19:01:57",
+      "update_time": "2026-07-03 21:57:25",
       "news": [
+        {
+          "title": "The only AI glossary you’ll need this year",
+          "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+          "date": "2026-07-03",
+          "source": "TechCrunch",
+          "description": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-ai-generated-eb728837-4a65-4ce4-b814-abd0c140d20c.jpg?w=1024",
+          "is_english": true,
+          "original_title": "The only AI glossary you’ll need this year",
+          "original_summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+          "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter."
+        },
         {
           "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
           "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
