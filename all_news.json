@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-07-03",
-      "update_time": "2026-07-03 11:26:58",
+      "update_time": "2026-07-03 13:41:40",
       "news": [
         {
           "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
@@ -538,19 +538,6 @@
           "category": "AI Model"
         },
         {
-          "title": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
-          "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B-GGUF",
-          "date": "2026-07-03",
-          "source": "HuggingFace",
-          "description": "• Ornith-1.0-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%A6%A2%EF%B8%8F%20Ornith%20Blog%20-FD8E5B",
-          "is_english": true,
-          "summary": "• Ornith-1.0-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
           "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
           "date": "2026-07-03",
@@ -560,6 +547,19 @@
           "is_english": true,
           "summary": "• gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
+          "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B-GGUF",
+          "date": "2026-07-03",
+          "source": "HuggingFace",
+          "description": "• Ornith-1.0-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%A6%A2%EF%B8%8F%20Ornith%20Blog%20-FD8E5B",
+          "is_english": true,
+          "summary": "• Ornith-1.0-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -681,19 +681,6 @@
           "category": "AI Model"
         },
         {
-          "title": "meituan-longcat/LongCat-2.0",
-          "link": "https://huggingface.co/meituan-longcat/LongCat-2.0",
-          "date": "2026-07-03",
-          "source": "HuggingFace",
-          "description": "• LongCat-2.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/meituan-longcat/LongCat-2.0/resolve/main/figures/longcat_logo.svg",
-          "is_english": true,
-          "summary": "• LongCat-2.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "meituan-longcat/LongCat-2.0",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nvidia/GLM-5.2-NVFP4",
           "link": "https://huggingface.co/nvidia/GLM-5.2-NVFP4",
           "date": "2026-07-03",
@@ -729,6 +716,19 @@
           "is_english": true,
           "summary": "• tabfm-1.0.0-pytorch 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "google/tabfm-1.0.0-pytorch",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
+          "link": "https://huggingface.co/huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
+          "date": "2026-07-03",
+          "source": "HuggingFace",
+          "description": "• Huihui-GLM-5.2-abliterated-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Huihui-GLM-5.2-abliterated-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
