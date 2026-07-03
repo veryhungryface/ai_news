@@ -2,8 +2,68 @@
   "dates": [
     {
       "date": "2026-07-03",
-      "update_time": "2026-07-02 21:59:55",
+      "update_time": "2026-07-03 01:55:45",
       "news": [
+        {
+          "title": "[7월2일] 'VLA vs 월드 모델' 경쟁의 의미…피지컬 AI 전쟁의 핵심은",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212351",
+          "date": "2026-07-03",
+          "source": "AI타임스",
+          "description": "과학기술정보통신부(장관 배경훈)가 1일 공개한 ‘피지컬 AI 핵심 경쟁력 확보 전략’에는 국내에서 갖춰야 할 핵심 기술로 \\'피지컬 AI 파운데이션 모델\\'과 \\'월드 모델\\'이 나란히 꼽혔습니다. 피지컬 AI 파운데이션 모델은 \\'로봇이 계획·추론·행동을 통합적으로 수행하도록 설계된 범용 모델\\'로 소개됐습니다. 그중 하나로는 대형언어모델(LLM)을 기반으로 하는 \\'비전-언어-행동(VLA) 모델\\'이 포함됩니다. 이처럼 로봇의 \\'행동\\'을 도출해 내는 것에 초점이 맞춰집니다.반면, 월드 모델은 \\'세상의 변화를 예측하고 시뮬레이션해 AI 학습과",
+          "image": "https://cdn.aitimes.com/news/photo/202607/212351_215575_5937.jpg",
+          "is_english": true,
+          "original_title": "[7월2일] 'VLA vs 월드 모델' 경쟁의 의미…피지컬 AI 전쟁의 핵심은",
+          "original_summary": "과학기술정보통신부(장관 배경훈)가 1일 공개한 ‘피지컬 AI 핵심 경쟁력 확보 전략’에는 국내에서 갖춰야 할 핵심 기술로 \\'피지컬 AI 파운데이션 모델\\'과 \\'월드 모델\\'이 나란히 꼽혔습니다. 피지컬 AI 파운데이션 모델은 \\'로봇이 계획·추론·행동을 통합적으로 수행하도록 설계된 범용 모델\\'로 소개됐습니다. 그중 하나로는 대형언어모델(LLM)을 기반으로 하는 \\'비전-언어-행동(VLA) 모델\\'이 포함됩니다. 이처럼 로봇의 \\'행동\\'을 도출해 내는 것에 초점이 맞춰집니다.반면, 월드 모델은 \\'세상의 변화를 예측하고 시뮬레",
+          "summary": "과학기술정보통신부(장관 배경훈)가 1일 공개한 ‘피지컬 AI 핵심 경쟁력 확보 전략’에는 국내에서 갖춰야 할 핵심 기술로 \\'피지컬 AI 파운데이션 모델\\'과 \\'월드 모델\\'이 나란히 꼽혔습니다. 피지컬 AI 파운데이션 모델은 \\'로봇이 계획·추론·행동을 통합적으로 수행하도록 설계된 범용 모델\\'로 소개됐습니다. 그중 하나로는 대형언어모델(LLM)을 기반으로 하는 \\'비전-언어-행동(VLA) 모델\\'이 포함됩니다. 이처럼 로봇의 \\'행동\\'을 도출해 내는 것에 초점이 맞춰집니다.반면, 월드 모델은 \\'세상의 변화를 예측하고 시뮬레"
+        },
+        {
+          "title": "쇼피파이가 증명한 것 : 에이전트보다 중요한 것은 작업장 설계",
+          "link": "https://www.itworld.co.kr/article/4192545/%ec%87%bc%ed%94%bc%ed%8c%8c%ec%9d%b4%ea%b0%80-%ec%a6%9d%eb%aa%85%ed%95%9c-%ea%b2%83-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%eb%b3%b4%eb%8b%a4-%ec%a4%91%ec%9a%94%ed%95%9c-%ea%b2%83%ec%9d%80-%ec%9e%91.html",
+          "date": "2026-07-03",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n에이전트가 어떤 일을 하면 회사 전체가 그 과정에서 뭔가를 배울 수 있어야 한다. 그래야 모든 개발자가 공유된 인사이트와 성공 사례를 자신의 것으로 흡수할 수 있다.\n\n\n\n토비 뤼트케는 쇼피파이(Shopify)를 이끌기 전에 독일의 견습 시스템을 통해 프로그래밍을 배웠다. 견습이란 공유된 작업장에서 숙련된 사람들이 일하는 모습을 지켜보며 배우는 오래된 교육 방식이다. 최근 뤼트케는 쇼피파이의 리버(River)에 대해 설명하면서 “공방(Lehrwerkstatt)”이라는 단어를 사용했는데, 이 단어는 “작업장 전체가 곧 교실”인 그 환경을 뜻한다.\n\n\n\n쇼피파이의 슬랙 기반 AI 에이전트인 리버와 관련된 수치는 X에서 많은 관심을 모았다. 총 5,938명의 쇼피파이 직원이 지금까지 4,450개의 슬랙 채널에서 리버를 활용해 작업했으며 현재 쇼피파이 전체에서 병합되는 풀 요청의 약 8분의 1을 리버가 공동 작성하고 있다. 중대한 성과지만, 가장 중",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/07/4192545-0-67268100-1783041382-shutterstock_2494441299.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "쇼피파이가 증명한 것 : 에이전트보다 중요한 것은 작업장 설계",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n에이전트가 어떤 일을 하면 회사 전체가 그 과정에서 뭔가를 배울 수 있어야 한다. 그래야 모든 개발자가 공유된 인사이트와 성공 사례를 자신의 것으로 흡수할 수 있다.\n\n\n\n토비 뤼트케는 쇼피파이(Shopify)를 이끌기 전에 독일의 견습 시스템을 통해 프로그래밍을 배웠다. 견습이란 공유된 작업장에서 숙련된 사람들이 일하는 모습을 지켜보며 배우는 오래된 교육 방식이다. 최근 뤼트케는 쇼피파이의 리버(River)에 대해 설명하면서 “공방(Lehrwerkstatt)”이라는 단어를 사용했는데, 이 ",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n에이전트가 어떤 일을 하면 회사 전체가 그 과정에서 뭔가를 배울 수 있어야 한다. 그래야 모든 개발자가 공유된 인사이트와 성공 사례를 자신의 것으로 흡수할 수 있다.\n\n\n\n토비 뤼트케는 쇼피파이(Shopify)를 이끌기 전에 독일의 견습 시스템을 통해 프로그래밍을 배웠다. 견습이란 공유된 작업장에서 숙련된 사람들이 일하는 모습을 지켜보며 배우는 오래된 교육 방식이다. 최근 뤼트케는 쇼피파이의 리버(River)에 대해 설명하면서 “공방(Lehrwerkstatt)”이라는 단어를 사용했는데, 이 "
+        },
+        {
+          "title": "윈도우, 개발자 플랫폼으로 귀환 선언",
+          "link": "https://www.itworld.co.kr/article/4192528/%ec%9c%88%eb%8f%84%ec%9a%b0-%ea%b0%9c%eb%b0%9c%ec%9e%90-%ed%94%8c%eb%9e%ab%ed%8f%bc%ec%9c%bc%eb%a1%9c-%ea%b7%80%ed%99%98-%ec%84%a0%ec%96%b8.html",
+          "date": "2026-07-03",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n마이크로소프트의 윈도우 전략이 달라지고 있다. 한동안 웹 기반 사용자 경험을 강조하던 윈도우 인사이더 빌드가 네이티브 코드 중심으로 방향을 선회했다. 빌드 2026에서는 개발자가 플랫폼을 활용하는 데 도움이 되는 툴과 기능에 초점을 맞춘 여러 발표를 통해 이 방향성을 한층 더 강화했다.\n\n\n\n가장 눈에 띄는 부분은 마이크로소프트가 유지 관리하는 러스트 기반 uutils coreutils 패키지의 포크인 윈도우용 코어유틸(Coreutils for Windows)을 통해 표준 핵심 유닉스 유틸리티를 지원한다는 점이다. 윈도우용 코어유틸은 단일 바이너리로 설치되므로 업데이트하고 관리하기가 쉽다. 이 툴은 이름에서 알 수 있듯이 리눅스 가상머신이나 리눅스용 윈도우 하위 시스템(WSL)에서 사용하는 명령을 윈도우에서 구현한다.\n\n\n\n코어유틸을 활용한 윈도우 터미널 작업\n\n\n\n그동안 윈도우 개발자 환경의 많은 부분이 다시 설계된 윈도우 터미널을 통해 명",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/07/4192528-0-46833500-1783040891-shutterstock_2287651327.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "윈도우, 개발자 플랫폼으로 귀환 선언",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n마이크로소프트의 윈도우 전략이 달라지고 있다. 한동안 웹 기반 사용자 경험을 강조하던 윈도우 인사이더 빌드가 네이티브 코드 중심으로 방향을 선회했다. 빌드 2026에서는 개발자가 플랫폼을 활용하는 데 도움이 되는 툴과 기능에 초점을 맞춘 여러 발표를 통해 이 방향성을 한층 더 강화했다.\n\n\n\n가장 눈에 띄는 부분은 마이크로소프트가 유지 관리하는 러스트 기반 uutils coreutils 패키지의 포크인 윈도우용 코어유틸(Coreutils for Windows)을 통해 표준 핵심 유닉스 유틸리",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n마이크로소프트의 윈도우 전략이 달라지고 있다. 한동안 웹 기반 사용자 경험을 강조하던 윈도우 인사이더 빌드가 네이티브 코드 중심으로 방향을 선회했다. 빌드 2026에서는 개발자가 플랫폼을 활용하는 데 도움이 되는 툴과 기능에 초점을 맞춘 여러 발표를 통해 이 방향성을 한층 더 강화했다.\n\n\n\n가장 눈에 띄는 부분은 마이크로소프트가 유지 관리하는 러스트 기반 uutils coreutils 패키지의 포크인 윈도우용 코어유틸(Coreutils for Windows)을 통해 표준 핵심 유닉스 유틸리"
+        },
+        {
+          "title": "“가장 똑똑한 모델”보다 “내 것인 모델” 미스트랄의 틈새 전략",
+          "link": "https://www.itworld.co.kr/article/4192517/%ea%b0%80%ec%9e%a5-%eb%98%91%eb%98%91%ed%95%9c-%eb%aa%a8%eb%8d%b8%eb%b3%b4%eb%8b%a4-%eb%82%b4-%ea%b2%83%ec%9d%b8-%eb%aa%a8%eb%8d%b8-%eb%af%b8%ec%8a%a4%ed%8a%b8%eb%9e%84%ec%9d%98-%ed%8b%88.html",
+          "date": "2026-07-03",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n지난 몇 년 동안의 AI 시장은 간단히 정리할 수 있다. 오픈AI가 사용자의 관심을, 앤트로픽이 개발자들의 마음을 차지했고 구글은 점점 더 강력해지는 모델과 이를 보완하는 제품군을 통해 기대를 모았다. 그리고 그 외의 모든 기업은 아직 망하지 않은 이유가 무엇인지 궁금한 상황이다.\n\n\n\n다소 과한 표현이라고 할 수 있지만 완전히 틀린 말도 아니다. AI에서는 관심이 점점 집중되고, 관심은 매출의 편중으로 이어진다. 보도에 따르면 오픈AI와 앤트로픽은 모두 수십억 달러 규모의 매출을 바탕으로 1조 달러에 달하는 IPO를 추진한다고 한다.\n\n\n\n이런 분위기에서는 미스트랄 AI를 과소평가하기 쉽다.\n\n\n\n솔직히 말해 필자는 지난 1년, 어쩌면 그보다 더 오랫동안 미스트랄이라는 회사를 떠올려본 적도 없다. 그래서 브라이언 홀이 미스트랄 CMO로 합류한다는 발표를 듣고도 그 말을 이해하는 데 잠깐 시간이 걸렸다. 홀은 마이크로소프트에서 오랜 기간 일하",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/07/4192517-0-23371300-1783040023-spiraling_clock_passage_of_time_by_ogphoto_gettyimages-482725463_2400x1600-100800537-orig.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "“가장 똑똑한 모델”보다 “내 것인 모델” 미스트랄의 틈새 전략",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n지난 몇 년 동안의 AI 시장은 간단히 정리할 수 있다. 오픈AI가 사용자의 관심을, 앤트로픽이 개발자들의 마음을 차지했고 구글은 점점 더 강력해지는 모델과 이를 보완하는 제품군을 통해 기대를 모았다. 그리고 그 외의 모든 기업은 아직 망하지 않은 이유가 무엇인지 궁금한 상황이다.\n\n\n\n다소 과한 표현이라고 할 수 있지만 완전히 틀린 말도 아니다. AI에서는 관심이 점점 집중되고, 관심은 매출의 편중으로 이어진다. 보도에 따르면 오픈AI와 앤트로픽은 모두 수십억 달러 규모의 매출을 바탕으로 ",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n지난 몇 년 동안의 AI 시장은 간단히 정리할 수 있다. 오픈AI가 사용자의 관심을, 앤트로픽이 개발자들의 마음을 차지했고 구글은 점점 더 강력해지는 모델과 이를 보완하는 제품군을 통해 기대를 모았다. 그리고 그 외의 모든 기업은 아직 망하지 않은 이유가 무엇인지 궁금한 상황이다.\n\n\n\n다소 과한 표현이라고 할 수 있지만 완전히 틀린 말도 아니다. AI에서는 관심이 점점 집중되고, 관심은 매출의 편중으로 이어진다. 보도에 따르면 오픈AI와 앤트로픽은 모두 수십억 달러 규모의 매출을 바탕으로 "
+        },
+        {
+          "title": "페이블 재출시했지만…앤트로픽, 구독자 이용 조건 대폭 축소",
+          "link": "https://www.itworld.co.kr/article/4192513/%ed%8e%98%ec%9d%b4%eb%b8%94-%ec%9e%ac%ec%b6%9c%ec%8b%9c%ed%96%88%ec%a7%80%eb%a7%8c-%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-%ea%b5%ac%eb%8f%85%ec%9e%90-%ec%9d%b4%ec%9a%a9-%ec%a1%b0%ea%b1%b4-%eb%8c%80.html",
+          "date": "2026-07-03",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n미국 정부의 명령으로 약 3주 간 운영이 중단됐던 앤트로픽의 강력한 모델 페이블(Fable) 5와 미토스(Mythos) 5가 다시 서비스를 재개한다. 하지만 클로드 구독자들은 이미 짧았던 페이블 이용 가능 기간이 더욱 축소됐다는 사실을 뒤늦게 알고 분통을 터뜨리고 있다.\n\n\n\n앤트로픽에 따르면 페이블 5는 7월 1일부터 다시 이용 가능해진다. 안전 제한이 완화된 고성능 모델인 미토스 5는 미국 내 일부 기관에는 이미 제공되고 있지만, 일반 공개는 아직 이뤄지지 않은 상태다.\n\n\n\n페이블 5는 API를 통한 접근 외에도 클로드의 프로, 맥스, 팀, 그리고 일부 엔터프라이즈 플랜 구독자에게도 제공된다. 단, 이용 가능 기간은 7월 7일까지로, 당초 앤트로픽이 약속했던 기간의 절반에 불과한 단 1주일이다.\n\n\n\n이용 가능 기간이 종료된 이후에는 클로드 구독자도 API 사용자와 비슷한 수준의 훨씬 높은 비용이 드는 크레딧을 별도 구매해야 페이블을 계",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/07/4192513-0-10396400-1783038903-Claude-Fable-5.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "페이블 재출시했지만…앤트로픽, 구독자 이용 조건 대폭 축소",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n미국 정부의 명령으로 약 3주 간 운영이 중단됐던 앤트로픽의 강력한 모델 페이블(Fable) 5와 미토스(Mythos) 5가 다시 서비스를 재개한다. 하지만 클로드 구독자들은 이미 짧았던 페이블 이용 가능 기간이 더욱 축소됐다는 사실을 뒤늦게 알고 분통을 터뜨리고 있다.\n\n\n\n앤트로픽에 따르면 페이블 5는 7월 1일부터 다시 이용 가능해진다. 안전 제한이 완화된 고성능 모델인 미토스 5는 미국 내 일부 기관에는 이미 제공되고 있지만, 일반 공개는 아직 이뤄지지 않은 상태다.\n\n\n\n페이블 5는",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n미국 정부의 명령으로 약 3주 간 운영이 중단됐던 앤트로픽의 강력한 모델 페이블(Fable) 5와 미토스(Mythos) 5가 다시 서비스를 재개한다. 하지만 클로드 구독자들은 이미 짧았던 페이블 이용 가능 기간이 더욱 축소됐다는 사실을 뒤늦게 알고 분통을 터뜨리고 있다.\n\n\n\n앤트로픽에 따르면 페이블 5는 7월 1일부터 다시 이용 가능해진다. 안전 제한이 완화된 고성능 모델인 미토스 5는 미국 내 일부 기관에는 이미 제공되고 있지만, 일반 공개는 아직 이뤄지지 않은 상태다.\n\n\n\n페이블 5는"
+        },
         {
           "title": "Microsoft Bets on Humans to Scale AI",
           "link": "https://aibusiness.com/generative-ai/microsoft-frontier-company-humans-scale-ai",
@@ -29,19 +89,6 @@
           "summary": "AWS's $1 billion investment in embedded AI engineers reflects a broader shift as enterprises focus less on choosing models and more on putting AI to work."
         },
         {
-          "title": "baidu/Unlimited-OCR",
-          "link": "https://huggingface.co/baidu/Unlimited-OCR",
-          "date": "2026-07-03",
-          "source": "HuggingFace",
-          "description": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/baidu/Unlimited-OCR/resolve/main/assets/baidu.png",
-          "is_english": true,
-          "summary": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "baidu/Unlimited-OCR",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
           "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
           "date": "2026-07-03",
@@ -51,6 +98,19 @@
           "is_english": true,
           "summary": "• Qwythos-9B-Claude-Mythos-5-1M-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "link": "https://huggingface.co/baidu/Unlimited-OCR",
+          "date": "2026-07-03",
+          "source": "HuggingFace",
+          "description": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/baidu/Unlimited-OCR/resolve/main/assets/baidu.png",
+          "is_english": true,
+          "summary": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "baidu/Unlimited-OCR",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -94,19 +154,6 @@
           "category": "AI Model"
         },
         {
-          "title": "deepreinforce-ai/Ornith-1.0-9B",
-          "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B",
-          "date": "2026-07-03",
-          "source": "HuggingFace",
-          "description": "• Ornith-1.0-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%A6%A2%EF%B8%8F%20Ornith%20Blog%20-FD8E5B",
-          "is_english": true,
-          "summary": "• Ornith-1.0-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepreinforce-ai/Ornith-1.0-9B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
           "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
           "date": "2026-07-03",
@@ -116,6 +163,19 @@
           "is_english": true,
           "summary": "• gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "deepreinforce-ai/Ornith-1.0-9B",
+          "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B",
+          "date": "2026-07-03",
+          "source": "HuggingFace",
+          "description": "• Ornith-1.0-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%A6%A2%EF%B8%8F%20Ornith%20Blog%20-FD8E5B",
+          "is_english": true,
+          "summary": "• Ornith-1.0-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepreinforce-ai/Ornith-1.0-9B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -224,19 +284,6 @@
           "category": "AI Model"
         },
         {
-          "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
-          "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
-          "date": "2026-07-03",
-          "source": "HuggingFace",
-          "description": "• gemma-4-12B-coder-fable5-composer2.5-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
-          "is_english": true,
-          "summary": "• gemma-4-12B-coder-fable5-composer2.5-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "InternScience/Agents-A1",
           "link": "https://huggingface.co/InternScience/Agents-A1",
           "date": "2026-07-03",
@@ -246,6 +293,19 @@
           "is_english": true,
           "summary": "• Agents-A1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "InternScience/Agents-A1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "date": "2026-07-03",
+          "source": "HuggingFace",
+          "description": "• gemma-4-12B-coder-fable5-composer2.5-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "is_english": true,
+          "summary": "• gemma-4-12B-coder-fable5-composer2.5-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -292,8 +352,32 @@
     },
     {
       "date": "2026-07-02",
-      "update_time": "2026-07-02 21:59:55",
+      "update_time": "2026-07-03 01:55:45",
       "news": [
+        {
+          "title": "삼성, 충청에 140조 투자해 HBM 팹 등 소재·부품 중심지 육성",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212371",
+          "date": "2026-07-02",
+          "source": "AI타임스",
+          "description": "삼성은 2일 삼성디스플레이 아산사업장에서 개최된 ‘충청권 첨단산업 발전비전 국민보고회’에서 충청을 초격차 소재∙부품의 중심지로 육성하기 위해 140조원을 투자할 계획이라고 밝혔다.삼성은 미래 먹거리인 ▲최첨단 디스플레이 ▲HBM 팹 ▲차세대 배터리 ▲AI 서버용 패키지 기판을 중심으로 투자할 계획이다. 충청을 글로벌 최첨단 소재∙부품 기지로 조성해 양질의 일자리 25만개를 창출한다는 목표이다.이를 통해, 삼성은 소재∙부품 산업의 미래를 충청에서 실현해 나갈 예정이라고 전했다.우선, 삼성디스플레이는 최첨단 디스플레이 클러스터 구축에",
+          "image": "https://cdn.aitimes.com/news/photo/202607/212371_215609_599.jpg",
+          "is_english": false,
+          "original_title": "삼성, 충청에 140조 투자해 HBM 팹 등 소재·부품 중심지 육성",
+          "original_summary": "삼성은 2일 삼성디스플레이 아산사업장에서 개최된 ‘충청권 첨단산업 발전비전 국민보고회’에서 충청을 초격차 소재∙부품의 중심지로 육성하기 위해 140조원을 투자할 계획이라고 밝혔다.삼성은 미래 먹거리인 ▲최첨단 디스플레이 ▲HBM 팹 ▲차세대 배터리 ▲AI 서버용 패키지 기판을 중심으로 투자할 계획이다. 충청을 글로벌 최첨단 소재∙부품 기지로 조성해 양질의 일자리 25만개를 창출한다는 목표이다.이를 통해, 삼성은 소재∙부품 산업의 미래를 충청에서 실현해 나갈 예정이라고 전했다.우선, 삼성디스플레이는 최첨단 디스플레이 클러스터 구축에",
+          "summary": "삼성은 2일 삼성디스플레이 아산사업장에서 개최된 ‘충청권 첨단산업 발전비전 국민보고회’에서 충청을 초격차 소재∙부품의 중심지로 육성하기 위해 140조원을 투자할 계획이라고 밝혔다.삼성은 미래 먹거리인 ▲최첨단 디스플레이 ▲HBM 팹 ▲차세대 배터리 ▲AI 서버용 패키지 기판을 중심으로 투자할 계획이다. 충청을 글로벌 최첨단 소재∙부품 기지로 조성해 양질의 일자리 25만개를 창출한다는 목표이다.이를 통해, 삼성은 소재∙부품 산업의 미래를 충청에서 실현해 나갈 예정이라고 전했다.우선, 삼성디스플레이는 최첨단 디스플레이 클러스터 구축에"
+        },
+        {
+          "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+          "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+          "date": "2026-07-02",
+          "source": "TechCrunch",
+          "description": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/10/GettyImages-1968119319.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+          "original_summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
+          "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated."
+        },
         {
           "title": "Jersey Mike’s IPO illustrates how bad the AI hype has become",
           "link": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
