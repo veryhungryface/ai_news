@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-07-05",
-      "update_time": "2026-07-04 15:55:29",
+      "update_time": "2026-07-04 18:57:08",
       "news": [
         {
           "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
@@ -135,15 +135,15 @@
           "category": "AI Model"
         },
         {
-          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
-          "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+          "title": "google/tabfm-1.0.0-pytorch",
+          "link": "https://huggingface.co/google/tabfm-1.0.0-pytorch",
           "date": "2026-07-05",
           "source": "HuggingFace",
-          "description": "• Qwythos-9B-Claude-Mythos-5-1M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M/resolve/main/assets/qwythos.png",
+          "description": "• tabfm-1.0.0-pytorch 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• Qwythos-9B-Claude-Mythos-5-1M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+          "summary": "• tabfm-1.0.0-pytorch 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/tabfm-1.0.0-pytorch",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -161,15 +161,28 @@
           "category": "AI Model"
         },
         {
-          "title": "google/tabfm-1.0.0-pytorch",
-          "link": "https://huggingface.co/google/tabfm-1.0.0-pytorch",
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+          "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
           "date": "2026-07-05",
           "source": "HuggingFace",
-          "description": "• tabfm-1.0.0-pytorch 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• Qwythos-9B-Claude-Mythos-5-1M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M/resolve/main/assets/qwythos.png",
           "is_english": true,
-          "summary": "• tabfm-1.0.0-pytorch 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/tabfm-1.0.0-pytorch",
+          "summary": "• Qwythos-9B-Claude-Mythos-5-1M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "link": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "date": "2026-07-05",
+          "source": "HuggingFace",
+          "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
+          "is_english": true,
+          "summary": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/LocateAnything-3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -200,19 +213,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/LocateAnything-3B",
-          "link": "https://huggingface.co/nvidia/LocateAnything-3B",
-          "date": "2026-07-05",
-          "source": "HuggingFace",
-          "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
-          "is_english": true,
-          "summary": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/LocateAnything-3B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
           "link": "https://huggingface.co/huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
           "date": "2026-07-05",
@@ -226,19 +226,6 @@
           "category": "AI Model"
         },
         {
-          "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
-          "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
-          "date": "2026-07-05",
-          "source": "HuggingFace",
-          "description": "• gemma-4-12B-coder-fable5-composer2.5-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
-          "is_english": true,
-          "summary": "• gemma-4-12B-coder-fable5-composer2.5-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "date": "2026-07-05",
@@ -248,6 +235,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "date": "2026-07-05",
+          "source": "HuggingFace",
+          "description": "• gemma-4-12B-coder-fable5-composer2.5-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "is_english": true,
+          "summary": "• gemma-4-12B-coder-fable5-composer2.5-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +268,32 @@
     },
     {
       "date": "2026-07-04",
-      "update_time": "2026-07-04 15:55:29",
+      "update_time": "2026-07-04 18:57:07",
       "news": [
+        {
+          "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+          "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+          "date": "2026-07-04",
+          "source": "TechCrunch",
+          "description": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1387623215.jpg?resize=1200,900",
+          "is_english": true,
+          "original_title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+          "original_summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+          "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves."
+        },
+        {
+          "title": "Alibaba reportedly bans employees from using Claude Code",
+          "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+          "date": "2026-07-04",
+          "source": "TechCrunch",
+          "description": "Alibaba has reportedly classified Claude Code as high-risk software.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Alibaba reportedly bans employees from using Claude Code",
+          "original_summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
+          "summary": "Alibaba has reportedly classified Claude Code as high-risk software."
+        },
         {
           "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
           "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
@@ -7213,7 +7237,7 @@
         {
           "title": "zai-org/GLM-5.2",
           "link": "https://huggingface.co/zai-org/GLM-5.2",
-          "date": "2026-06-26",
+          "date": "2026-07-05",
           "source": "HuggingFace",
           "description": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
@@ -7226,7 +7250,7 @@
         {
           "title": "baidu/Unlimited-OCR",
           "link": "https://huggingface.co/baidu/Unlimited-OCR",
-          "date": "2026-06-26",
+          "date": "2026-07-05",
           "source": "HuggingFace",
           "description": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/baidu/Unlimited-OCR/resolve/main/assets/baidu.png",
@@ -7239,7 +7263,7 @@
         {
           "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
           "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-          "date": "2026-06-26",
+          "date": "2026-07-05",
           "source": "HuggingFace",
           "description": "• gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -7252,7 +7276,7 @@
         {
           "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
           "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
-          "date": "2026-06-26",
+          "date": "2026-07-05",
           "source": "HuggingFace",
           "description": "• gemma-4-12B-coder-fable5-composer2.5-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -7265,7 +7289,7 @@
         {
           "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
           "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-          "date": "2026-06-26",
+          "date": "2026-07-05",
           "source": "HuggingFace",
           "description": "• Qwythos-9B-Claude-Mythos-5-1M-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M/resolve/main/assets/qwythos.png",
@@ -7278,7 +7302,7 @@
         {
           "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
           "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
-          "date": "2026-06-26",
+          "date": "2026-07-05",
           "source": "HuggingFace",
           "description": "• Qwythos-9B-Claude-Mythos-5-1M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M/resolve/main/assets/qwythos.png",
@@ -7304,7 +7328,7 @@
         {
           "title": "Qwen/Qwen-AgentWorld-35B-A3B",
           "link": "https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B",
-          "date": "2026-06-26",
+          "date": "2026-07-05",
           "source": "HuggingFace",
           "description": "• Qwen-AgentWorld-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-AgentWorld/logo.png",
@@ -7317,7 +7341,7 @@
         {
           "title": "krea/Krea-2-Turbo",
           "link": "https://huggingface.co/krea/Krea-2-Turbo",
-          "date": "2026-06-26",
+          "date": "2026-07-05",
           "source": "HuggingFace",
           "description": "• Krea-2-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -7343,7 +7367,7 @@
         {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-06-26",
+          "date": "2026-07-05",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -7369,7 +7393,7 @@
         {
           "title": "nvidia/LocateAnything-3B",
           "link": "https://huggingface.co/nvidia/LocateAnything-3B",
-          "date": "2026-06-26",
+          "date": "2026-07-05",
           "source": "HuggingFace",
           "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
