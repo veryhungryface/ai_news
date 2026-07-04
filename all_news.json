@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-07-04",
-      "update_time": "2026-07-03 21:57:25",
+      "update_time": "2026-07-04 01:55:11",
       "news": [
+        {
+          "title": "[7월3일] \"비싼 모델만 쓸 필요 없다\"…AI 토큰 비용 절감이 보여주는 변화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212386",
+          "date": "2026-07-04",
+          "source": "AI타임스",
+          "description": "최근 해외 AI 업계에서 가장 큰 화두 중 하나는 기업의 \\'AI 토큰 비용 줄이기\\'입니다. AI 에이전트가 여러 단계를 거쳐 작업을 수행하면서 토큰 사용량이 급증하고, AI 예산이 예상보다 빠르게 소진되는 사례가 잇따르고 있습니다.이에 따라 해외의 주요 기업들은 과거 클라우드 컴퓨팅에서 활용했던 \\'핀옵스(FinOps)\\' 개념을 AI 운영에도 적용하기 시작한 것으로 알려졌습니다. 단순히 더 저렴한 모델을 찾는 것이 아니라, 업무 특성에 맞게 모델을 배치하고 토큰 사용량을 관리하는 \\'AI 핀옵스\\'가 새로운 운영 전략으로 자리 잡고 있다",
+          "image": "https://cdn.aitimes.com/news/photo/202607/212386_215620_152.png",
+          "is_english": false,
+          "original_title": "[7월3일] \"비싼 모델만 쓸 필요 없다\"…AI 토큰 비용 절감이 보여주는 변화",
+          "original_summary": "최근 해외 AI 업계에서 가장 큰 화두 중 하나는 기업의 \\'AI 토큰 비용 줄이기\\'입니다. AI 에이전트가 여러 단계를 거쳐 작업을 수행하면서 토큰 사용량이 급증하고, AI 예산이 예상보다 빠르게 소진되는 사례가 잇따르고 있습니다.이에 따라 해외의 주요 기업들은 과거 클라우드 컴퓨팅에서 활용했던 \\'핀옵스(FinOps)\\' 개념을 AI 운영에도 적용하기 시작한 것으로 알려졌습니다. 단순히 더 저렴한 모델을 찾는 것이 아니라, 업무 특성에 맞게 모델을 배치하고 토큰 사용량을 관리하는 \\'AI 핀옵스\\'가 새로운 운영 전략으로 자리",
+          "summary": "최근 해외 AI 업계에서 가장 큰 화두 중 하나는 기업의 \\'AI 토큰 비용 줄이기\\'입니다. AI 에이전트가 여러 단계를 거쳐 작업을 수행하면서 토큰 사용량이 급증하고, AI 예산이 예상보다 빠르게 소진되는 사례가 잇따르고 있습니다.이에 따라 해외의 주요 기업들은 과거 클라우드 컴퓨팅에서 활용했던 \\'핀옵스(FinOps)\\' 개념을 AI 운영에도 적용하기 시작한 것으로 알려졌습니다. 단순히 더 저렴한 모델을 찾는 것이 아니라, 업무 특성에 맞게 모델을 배치하고 토큰 사용량을 관리하는 \\'AI 핀옵스\\'가 새로운 운영 전략으로 자리"
+        },
         {
           "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
           "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
@@ -122,15 +134,15 @@
           "category": "AI Model"
         },
         {
-          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
-          "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+          "title": "InternScience/Agents-A1",
+          "link": "https://huggingface.co/InternScience/Agents-A1",
           "date": "2026-07-04",
           "source": "HuggingFace",
-          "description": "• Qwythos-9B-Claude-Mythos-5-1M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M/resolve/main/assets/qwythos.png",
+          "description": "• Agents-A1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/InternScience/Agents-A1/resolve/main/./figures/24px.svg",
           "is_english": true,
-          "summary": "• Qwythos-9B-Claude-Mythos-5-1M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+          "summary": "• Agents-A1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "InternScience/Agents-A1",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -148,15 +160,15 @@
           "category": "AI Model"
         },
         {
-          "title": "InternScience/Agents-A1",
-          "link": "https://huggingface.co/InternScience/Agents-A1",
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+          "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
           "date": "2026-07-04",
           "source": "HuggingFace",
-          "description": "• Agents-A1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/InternScience/Agents-A1/resolve/main/./figures/24px.svg",
+          "description": "• Qwythos-9B-Claude-Mythos-5-1M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M/resolve/main/assets/qwythos.png",
           "is_english": true,
-          "summary": "• Agents-A1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "InternScience/Agents-A1",
+          "summary": "• Qwythos-9B-Claude-Mythos-5-1M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -226,6 +238,19 @@
           "category": "AI Model"
         },
         {
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "date": "2026-07-04",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "deepseek-ai/DeepSeek-V4-Flash-DSpark",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-DSpark",
           "date": "2026-07-04",
@@ -250,26 +275,37 @@
           "translated_title": "huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-07-04",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-07-03",
-      "update_time": "2026-07-03 21:57:25",
+      "update_time": "2026-07-04 01:55:11",
       "news": [
+        {
+          "title": "삼성, 영남에 60조 투자…‘글로벌 피지컬 AI 혁신 클러스터’ 선언",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212420",
+          "date": "2026-07-03",
+          "source": "AI타임스",
+          "description": "삼성은 3일 경남 진주시 경상국립대에서 열린 ‘영남권 첨단산업 발전비전 국민보고회’에서 영남 지역을 ‘글로벌 피지컬 AI 혁신 클러스터’로 조성하기 위해 총 60조원을 투자하겠다고 발표했다.이번 투자는 AX와 로봇 기술을 활용해 기존의 전통 제조 산업을 최첨단 스마트 산업으로 체질을 개선하는 데 초점이 맞춰졌다. 삼성은 이를 통해 고부가가치 중심의 양질의 일자리 20만개를 창출할 수 있을 것으로 기대하고 있다.삼성은 계열사별 역량을 동원해 영남권 주요 거점 도시를 고도화된 AI·로봇·모빌리티 기지로 육성할 계획이다.구미에는 삼성전자",
+          "image": "https://cdn.aitimes.com/news/photo/202607/212420_215665_1448.jpg",
+          "is_english": false,
+          "original_title": "삼성, 영남에 60조 투자…‘글로벌 피지컬 AI 혁신 클러스터’ 선언",
+          "original_summary": "삼성은 3일 경남 진주시 경상국립대에서 열린 ‘영남권 첨단산업 발전비전 국민보고회’에서 영남 지역을 ‘글로벌 피지컬 AI 혁신 클러스터’로 조성하기 위해 총 60조원을 투자하겠다고 발표했다.이번 투자는 AX와 로봇 기술을 활용해 기존의 전통 제조 산업을 최첨단 스마트 산업으로 체질을 개선하는 데 초점이 맞춰졌다. 삼성은 이를 통해 고부가가치 중심의 양질의 일자리 20만개를 창출할 수 있을 것으로 기대하고 있다.삼성은 계열사별 역량을 동원해 영남권 주요 거점 도시를 고도화된 AI·로봇·모빌리티 기지로 육성할 계획이다.구미에는 삼성전자",
+          "summary": "삼성은 3일 경남 진주시 경상국립대에서 열린 ‘영남권 첨단산업 발전비전 국민보고회’에서 영남 지역을 ‘글로벌 피지컬 AI 혁신 클러스터’로 조성하기 위해 총 60조원을 투자하겠다고 발표했다.이번 투자는 AX와 로봇 기술을 활용해 기존의 전통 제조 산업을 최첨단 스마트 산업으로 체질을 개선하는 데 초점이 맞춰졌다. 삼성은 이를 통해 고부가가치 중심의 양질의 일자리 20만개를 창출할 수 있을 것으로 기대하고 있다.삼성은 계열사별 역량을 동원해 영남권 주요 거점 도시를 고도화된 AI·로봇·모빌리티 기지로 육성할 계획이다.구미에는 삼성전자"
+        },
+        {
+          "title": "구충곤 광양경자청장, 청장협의회서 개발이익 재투자 대상 제외 제안",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212419",
+          "date": "2026-07-03",
+          "source": "AI타임스",
+          "description": "광양만권경제자유구역청은 구충곤 청장이 3일 경기경제자유구역청이 주관하는 제34회 전국경제자유구역 청장협의회에서 산업단지 개발이익을 재투자 대상에서 제외하는 제도 개선안을 제안했다고 밝혔다. 이번 제도 개선안은 산업단지 조성원가 기반의 분양 구조에 부합하는 제도 운영을 통해 개발사업 관련 제도 간 정합성을 확보하고, 개발사업의 제도적 불확실성을 해소하는 데 목적이 있다. 이를 통해 경제자유구역 내 산업 용지의 안정적인 공급 기반을 마련하고 기업 투자 및 유치 활성화에도 기여할 것으로 기대했다.이번 청장협의회에서는 전국 9개 경제자유구",
+          "image": "https://cdn.aitimes.com/news/photo/202607/212419_215664_5550.jpeg",
+          "is_english": false,
+          "original_title": "구충곤 광양경자청장, 청장협의회서 개발이익 재투자 대상 제외 제안",
+          "original_summary": "광양만권경제자유구역청은 구충곤 청장이 3일 경기경제자유구역청이 주관하는 제34회 전국경제자유구역 청장협의회에서 산업단지 개발이익을 재투자 대상에서 제외하는 제도 개선안을 제안했다고 밝혔다. 이번 제도 개선안은 산업단지 조성원가 기반의 분양 구조에 부합하는 제도 운영을 통해 개발사업 관련 제도 간 정합성을 확보하고, 개발사업의 제도적 불확실성을 해소하는 데 목적이 있다. 이를 통해 경제자유구역 내 산업 용지의 안정적인 공급 기반을 마련하고 기업 투자 및 유치 활성화에도 기여할 것으로 기대했다.이번 청장협의회에서는 전국 9개 경제자유구",
+          "summary": "광양만권경제자유구역청은 구충곤 청장이 3일 경기경제자유구역청이 주관하는 제34회 전국경제자유구역 청장협의회에서 산업단지 개발이익을 재투자 대상에서 제외하는 제도 개선안을 제안했다고 밝혔다. 이번 제도 개선안은 산업단지 조성원가 기반의 분양 구조에 부합하는 제도 운영을 통해 개발사업 관련 제도 간 정합성을 확보하고, 개발사업의 제도적 불확실성을 해소하는 데 목적이 있다. 이를 통해 경제자유구역 내 산업 용지의 안정적인 공급 기반을 마련하고 기업 투자 및 유치 활성화에도 기여할 것으로 기대했다.이번 청장협의회에서는 전국 9개 경제자유구"
+        },
         {
           "title": "The only AI glossary you’ll need this year",
           "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
