@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-07-05",
-      "update_time": "2026-07-04 18:57:08",
+      "update_time": "2026-07-04 21:48:46",
       "news": [
+        {
+          "title": "AI 붐·반도체 호황에 그늘진 청년고용…법률사무원 13개월째↓",
+          "link": "https://www.yna.co.kr/view/AKR20260704038100002",
+          "date": "2026-07-05",
+          "source": "연합뉴스",
+          "description": "(세종=연합뉴스) 이세원 기자 = 고용이 부진한 가운데 인공지능(AI) 붐이 청년 고용에 더욱 그늘을 드리우고 있다.",
+          "image": "https://img.yna.co.kr/photo/cms/2024/01/09/21/PCM20240109000121990_P2.jpg",
+          "is_english": false,
+          "original_title": "AI 붐·반도체 호황에 그늘진 청년고용…법률사무원 13개월째↓",
+          "original_summary": "(세종=연합뉴스) 이세원 기자 = 고용이 부진한 가운데 인공지능(AI) 붐이 청년 고용에 더욱 그늘을 드리우고 있다.",
+          "summary": "(세종=연합뉴스) 이세원 기자 = 고용이 부진한 가운데 인공지능(AI) 붐이 청년 고용에 더욱 그늘을 드리우고 있다."
+        },
         {
           "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
           "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
@@ -70,19 +82,6 @@
           "category": "AI Model"
         },
         {
-          "title": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark",
-          "date": "2026-07-05",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Pro-DSpark 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
-          "is_english": true,
-          "summary": "• DeepSeek-V4-Pro-DSpark 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nvidia/Qwen3.6-27B-NVFP4",
           "link": "https://huggingface.co/nvidia/Qwen3.6-27B-NVFP4",
           "date": "2026-07-05",
@@ -92,6 +91,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-27B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nvidia/Qwen3.6-27B-NVFP4",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark",
+          "date": "2026-07-05",
+          "source": "HuggingFace",
+          "description": "• DeepSeek-V4-Pro-DSpark 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
+          "is_english": true,
+          "summary": "• DeepSeek-V4-Pro-DSpark 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -161,19 +173,6 @@
           "category": "AI Model"
         },
         {
-          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
-          "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
-          "date": "2026-07-05",
-          "source": "HuggingFace",
-          "description": "• Qwythos-9B-Claude-Mythos-5-1M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M/resolve/main/assets/qwythos.png",
-          "is_english": true,
-          "summary": "• Qwythos-9B-Claude-Mythos-5-1M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nvidia/LocateAnything-3B",
           "link": "https://huggingface.co/nvidia/LocateAnything-3B",
           "date": "2026-07-05",
@@ -187,15 +186,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen-AgentWorld-35B-A3B",
-          "link": "https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B",
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+          "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
           "date": "2026-07-05",
           "source": "HuggingFace",
-          "description": "• Qwen-AgentWorld-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-AgentWorld/logo.png",
+          "description": "• Qwythos-9B-Claude-Mythos-5-1M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M/resolve/main/assets/qwythos.png",
           "is_english": true,
-          "summary": "• Qwen-AgentWorld-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen-AgentWorld-35B-A3B",
+          "summary": "• Qwythos-9B-Claude-Mythos-5-1M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -209,6 +208,19 @@
           "is_english": true,
           "summary": "• Krea-2-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "krea/Krea-2-Turbo",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen-AgentWorld-35B-A3B",
+          "link": "https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B",
+          "date": "2026-07-05",
+          "source": "HuggingFace",
+          "description": "• Qwen-AgentWorld-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-AgentWorld/logo.png",
+          "is_english": true,
+          "summary": "• Qwen-AgentWorld-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen-AgentWorld-35B-A3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +280,20 @@
     },
     {
       "date": "2026-07-04",
-      "update_time": "2026-07-04 18:57:07",
+      "update_time": "2026-07-04 21:48:46",
       "news": [
+        {
+          "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+          "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+          "date": "2026-07-04",
+          "source": "TechCrunch",
+          "description": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/google-declaration-of-independence.jpg?w=1200",
+          "is_english": true,
+          "original_title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+          "original_summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+          "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?"
+        },
         {
           "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
           "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
