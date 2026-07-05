@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-07-05",
-      "update_time": "2026-07-04 21:48:46",
+      "update_time": "2026-07-05 02:02:28",
       "news": [
+        {
+          "title": "서초구, AI 관련 구민 인식조사 착수…정책 기초자료로 활용",
+          "link": "https://www.yna.co.kr/view/AKR20260705013800004",
+          "date": "2026-07-05",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 황재하 기자 = 서울 서초구는 인공지능(AI) 활용과 디지털 환경에 대한 구민의 인식을 확인해 정책 기초자료로 활용하기 위해 ...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/07/05/AKR20260705013800004_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "서초구, AI 관련 구민 인식조사 착수…정책 기초자료로 활용",
+          "original_summary": "(서울=연합뉴스) 황재하 기자 = 서울 서초구는 인공지능(AI) 활용과 디지털 환경에 대한 구민의 인식을 확인해 정책 기초자료로 활용하기 위해 ...",
+          "summary": "(서울=연합뉴스) 황재하 기자 = 서울 서초구는 인공지능(AI) 활용과 디지털 환경에 대한 구민의 인식을 확인해 정책 기초자료로 활용하기 위해 ..."
+        },
         {
           "title": "AI 붐·반도체 호황에 그늘진 청년고용…법률사무원 13개월째↓",
           "link": "https://www.yna.co.kr/view/AKR20260704038100002",
@@ -95,19 +107,6 @@
           "category": "AI Model"
         },
         {
-          "title": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark",
-          "date": "2026-07-05",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Pro-DSpark 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
-          "is_english": true,
-          "summary": "• DeepSeek-V4-Pro-DSpark 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "InternScience/Agents-A1",
           "link": "https://huggingface.co/InternScience/Agents-A1",
           "date": "2026-07-05",
@@ -117,6 +116,19 @@
           "is_english": true,
           "summary": "• Agents-A1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "InternScience/Agents-A1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark",
+          "date": "2026-07-05",
+          "source": "HuggingFace",
+          "description": "• DeepSeek-V4-Pro-DSpark 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
+          "is_english": true,
+          "summary": "• DeepSeek-V4-Pro-DSpark 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -134,19 +146,6 @@
           "category": "AI Model"
         },
         {
-          "title": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
-          "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B-GGUF",
-          "date": "2026-07-05",
-          "source": "HuggingFace",
-          "description": "• Ornith-1.0-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%A6%A2%EF%B8%8F%20Ornith%20Blog%20-FD8E5B",
-          "is_english": true,
-          "summary": "• Ornith-1.0-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "google/tabfm-1.0.0-pytorch",
           "link": "https://huggingface.co/google/tabfm-1.0.0-pytorch",
           "date": "2026-07-05",
@@ -160,15 +159,15 @@
           "category": "AI Model"
         },
         {
-          "title": "deepreinforce-ai/Ornith-1.0-35B",
-          "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B",
+          "title": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
+          "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B-GGUF",
           "date": "2026-07-05",
           "source": "HuggingFace",
-          "description": "• Ornith-1.0-35B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "description": "• Ornith-1.0-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%A6%A2%EF%B8%8F%20Ornith%20Blog%20-FD8E5B",
           "is_english": true,
-          "summary": "• Ornith-1.0-35B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepreinforce-ai/Ornith-1.0-35B",
+          "summary": "• Ornith-1.0-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -182,6 +181,19 @@
           "is_english": true,
           "summary": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nvidia/LocateAnything-3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "deepreinforce-ai/Ornith-1.0-35B",
+          "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B",
+          "date": "2026-07-05",
+          "source": "HuggingFace",
+          "description": "• Ornith-1.0-35B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%A6%A2%EF%B8%8F%20Ornith%20Blog%20-FD8E5B",
+          "is_english": true,
+          "summary": "• Ornith-1.0-35B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepreinforce-ai/Ornith-1.0-35B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
