@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-07-05",
-      "update_time": "2026-07-05 10:59:02",
+      "update_time": "2026-07-05 13:07:45",
       "news": [
+        {
+          "title": "씽크포비엘 “GPU보다 부족한 건 AI 신뢰성 전문가…규제는 발전과 동일 선상”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212448",
+          "date": "2026-07-05",
+          "source": "AI타임스",
+          "description": "국내 AI 산업이 데이터, 파운데이션 모델, GPU 등 인프라 확보에 속도를 내고 있지만, 정작 이를 검증할 \\'AI 신뢰성\\' 논의와 전문 인력 양성은 뒤처져 있다는 지적이 나왔다.박지환 씽크포비엘 대표는 \\\"국제적으로 중요한 표현은 무조건적인 믿음을 뜻하는 ‘Trust AI’가 아니라, 안전장치를 갖췄는지 묻는 ‘Trustworthy AI(신뢰할 수 있는 AI)’\\\"라며 \\\"AI 신뢰성은 기술 고도화와 대립하는 규제가 아닌, 같은 선상에서 다뤄야 할 논의\\\"라고 강조했다.■ 인증은 보증이 아니다…\\'전 주기 관리\\' 필요박 대표는 현재 활발한",
+          "image": "https://cdn.aitimes.com/news/photo/202607/212448_215709_3921.jpg",
+          "is_english": false,
+          "original_title": "씽크포비엘 “GPU보다 부족한 건 AI 신뢰성 전문가…규제는 발전과 동일 선상”",
+          "original_summary": "국내 AI 산업이 데이터, 파운데이션 모델, GPU 등 인프라 확보에 속도를 내고 있지만, 정작 이를 검증할 \\'AI 신뢰성\\' 논의와 전문 인력 양성은 뒤처져 있다는 지적이 나왔다.박지환 씽크포비엘 대표는 \\\"국제적으로 중요한 표현은 무조건적인 믿음을 뜻하는 ‘Trust AI’가 아니라, 안전장치를 갖췄는지 묻는 ‘Trustworthy AI(신뢰할 수 있는 AI)’\\\"라며 \\\"AI 신뢰성은 기술 고도화와 대립하는 규제가 아닌, 같은 선상에서 다뤄야 할 논의\\\"라고 강조했다.■ 인증은 보증이 아니다…\\'전 주기 관리\\' 필요박 대표",
+          "summary": "국내 AI 산업이 데이터, 파운데이션 모델, GPU 등 인프라 확보에 속도를 내고 있지만, 정작 이를 검증할 \\'AI 신뢰성\\' 논의와 전문 인력 양성은 뒤처져 있다는 지적이 나왔다.박지환 씽크포비엘 대표는 \\\"국제적으로 중요한 표현은 무조건적인 믿음을 뜻하는 ‘Trust AI’가 아니라, 안전장치를 갖췄는지 묻는 ‘Trustworthy AI(신뢰할 수 있는 AI)’\\\"라며 \\\"AI 신뢰성은 기술 고도화와 대립하는 규제가 아닌, 같은 선상에서 다뤄야 할 논의\\\"라고 강조했다.■ 인증은 보증이 아니다…\\'전 주기 관리\\' 필요박 대표"
+        },
         {
           "title": "\"모델 다변화는 성공, 거버넌스는 낙제점\"…기업 AI '통제 격차' 본격화",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=212446",
@@ -416,19 +428,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen-AgentWorld-35B-A3B",
-          "link": "https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B",
-          "date": "2026-07-05",
-          "source": "HuggingFace",
-          "description": "• Qwen-AgentWorld-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-AgentWorld/logo.png",
-          "is_english": true,
-          "summary": "• Qwen-AgentWorld-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen-AgentWorld-35B-A3B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "krea/Krea-2-Turbo",
           "link": "https://huggingface.co/krea/Krea-2-Turbo",
           "date": "2026-07-05",
@@ -438,6 +437,19 @@
           "is_english": true,
           "summary": "• Krea-2-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "krea/Krea-2-Turbo",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen-AgentWorld-35B-A3B",
+          "link": "https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B",
+          "date": "2026-07-05",
+          "source": "HuggingFace",
+          "description": "• Qwen-AgentWorld-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-AgentWorld/logo.png",
+          "is_english": true,
+          "summary": "• Qwen-AgentWorld-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen-AgentWorld-35B-A3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -468,15 +480,15 @@
           "category": "AI Model"
         },
         {
-          "title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
-          "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "title": "Jackrong/Qwopus3.6-35B-A3B-Coder-MTP-GGUF",
+          "link": "https://huggingface.co/Jackrong/Qwopus3.6-35B-A3B-Coder-MTP-GGUF",
           "date": "2026-07-05",
           "source": "HuggingFace",
-          "description": "• gemma-4-12B-coder-fable5-composer2.5-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "description": "• Qwopus3.6-35B-A3B-Coder-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• gemma-4-12B-coder-fable5-composer2.5-v1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "yuxinlu1/gemma-4-12B-coder-fable5-composer2.5-v1-GGUF",
+          "summary": "• Qwopus3.6-35B-A3B-Coder-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jackrong/Qwopus3.6-35B-A3B-Coder-MTP-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
