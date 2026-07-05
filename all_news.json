@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-07-06",
-      "update_time": "2026-07-05 19:01:48",
+      "update_time": "2026-07-05 21:52:30",
       "news": [
+        {
+          "title": "허위정보 대응체계 7일 가동…'신뢰' 시험대 오른다",
+          "link": "https://www.yna.co.kr/view/AKR20260705020700017",
+          "date": "2026-07-06",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 유현민 기자 = 인공지능(AI) 기술 발전과 사회관계망서비스(SNS) 확산으로 허위조작정보의 생산과 유통 방식이 빠르게 변화하...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/07/05/AKR20260705020700017_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "허위정보 대응체계 7일 가동…'신뢰' 시험대 오른다",
+          "original_summary": "(서울=연합뉴스) 유현민 기자 = 인공지능(AI) 기술 발전과 사회관계망서비스(SNS) 확산으로 허위조작정보의 생산과 유통 방식이 빠르게 변화하...",
+          "summary": "(서울=연합뉴스) 유현민 기자 = 인공지능(AI) 기술 발전과 사회관계망서비스(SNS) 확산으로 허위조작정보의 생산과 유통 방식이 빠르게 변화하..."
+        },
+        {
+          "title": "[게시판] 서울AI재단-서울과기대, AI 혁신생태계 조성 업무협약",
+          "link": "https://www.yna.co.kr/view/AKR20260705015800004",
+          "date": "2026-07-06",
+          "source": "연합뉴스",
+          "description": "▲ 서울AI재단은 지난 1일 서울과학기술대와 &apos;서울시 AI 전략산업 육성과 AI 혁신 생태계 조성&apos;을 위한 업무협약을 맺었다고 6일 밝혔다. 양...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/07/05/AKR20260705015800004_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "[게시판] 서울AI재단-서울과기대, AI 혁신생태계 조성 업무협약",
+          "original_summary": "▲ 서울AI재단은 지난 1일 서울과학기술대와 &apos;서울시 AI 전략산업 육성과 AI 혁신 생태계 조성&apos;을 위한 업무협약을 맺었다고 6일 밝혔다. 양...",
+          "summary": "▲ 서울AI재단은 지난 1일 서울과학기술대와 &apos;서울시 AI 전략산업 육성과 AI 혁신 생태계 조성&apos;을 위한 업무협약을 맺었다고 6일 밝혔다. 양..."
+        },
         {
           "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
           "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
@@ -83,19 +107,6 @@
           "category": "AI Model"
         },
         {
-          "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-          "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-          "date": "2026-07-06",
-          "source": "HuggingFace",
-          "description": "• gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "google/tabfm-1.0.0-pytorch",
           "link": "https://huggingface.co/google/tabfm-1.0.0-pytorch",
           "date": "2026-07-06",
@@ -105,6 +116,19 @@
           "is_english": true,
           "summary": "• tabfm-1.0.0-pytorch 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "google/tabfm-1.0.0-pytorch",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "date": "2026-07-06",
+          "source": "HuggingFace",
+          "description": "• gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -135,6 +159,19 @@
           "category": "AI Model"
         },
         {
+          "title": "huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
+          "link": "https://huggingface.co/huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
+          "date": "2026-07-06",
+          "source": "HuggingFace",
+          "description": "• Huihui-GLM-5.2-abliterated-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Huihui-GLM-5.2-abliterated-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
           "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B-GGUF",
           "date": "2026-07-06",
@@ -148,15 +185,15 @@
           "category": "AI Model"
         },
         {
-          "title": "huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
-          "link": "https://huggingface.co/huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
+          "title": "AliesTaha/fable-traces",
+          "link": "https://huggingface.co/AliesTaha/fable-traces",
           "date": "2026-07-06",
           "source": "HuggingFace",
-          "description": "• Huihui-GLM-5.2-abliterated-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "description": "• fable-traces 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• Huihui-GLM-5.2-abliterated-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
+          "summary": "• fable-traces 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "AliesTaha/fable-traces",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -174,19 +211,6 @@
           "category": "AI Model"
         },
         {
-          "title": "deepreinforce-ai/Ornith-1.0-9B",
-          "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B",
-          "date": "2026-07-06",
-          "source": "HuggingFace",
-          "description": "• Ornith-1.0-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%A6%A2%EF%B8%8F%20Ornith%20Blog%20-FD8E5B",
-          "is_english": true,
-          "summary": "• Ornith-1.0-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepreinforce-ai/Ornith-1.0-9B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "date": "2026-07-06",
@@ -200,15 +224,15 @@
           "category": "AI Model"
         },
         {
-          "title": "AliesTaha/fable-traces",
-          "link": "https://huggingface.co/AliesTaha/fable-traces",
+          "title": "deepreinforce-ai/Ornith-1.0-9B",
+          "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B",
           "date": "2026-07-06",
           "source": "HuggingFace",
-          "description": "• fable-traces 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• Ornith-1.0-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%A6%A2%EF%B8%8F%20Ornith%20Blog%20-FD8E5B",
           "is_english": true,
-          "summary": "• fable-traces 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "AliesTaha/fable-traces",
+          "summary": "• Ornith-1.0-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepreinforce-ai/Ornith-1.0-9B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
