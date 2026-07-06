@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-07-07",
-      "update_time": "2026-07-06 19:42:08",
+      "update_time": "2026-07-06 22:06:39",
       "news": [
+        {
+          "title": "울산시, 산단 대형화재 막을 AI 기반 안전관리체계 개발 착수",
+          "link": "https://www.yna.co.kr/view/AKR20260706149200057",
+          "date": "2026-07-07",
+          "source": "연합뉴스",
+          "description": "(울산=연합뉴스) 장지현 기자 = 울산시는 고위험 에너지 설비 화재를 막기 위한 인공지능(AI) 기반 안전관리 체계 개발에 착수한다고 7일 밝혔...",
+          "image": "https://img.yna.co.kr/photo/cms/2020/06/03/25/PCM20200603000125990_P2.jpg",
+          "is_english": false,
+          "original_title": "울산시, 산단 대형화재 막을 AI 기반 안전관리체계 개발 착수",
+          "original_summary": "(울산=연합뉴스) 장지현 기자 = 울산시는 고위험 에너지 설비 화재를 막기 위한 인공지능(AI) 기반 안전관리 체계 개발에 착수한다고 7일 밝혔...",
+          "summary": "(울산=연합뉴스) 장지현 기자 = 울산시는 고위험 에너지 설비 화재를 막기 위한 인공지능(AI) 기반 안전관리 체계 개발에 착수한다고 7일 밝혔..."
+        },
         {
           "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
           "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
@@ -70,19 +82,6 @@
           "category": "AI Model"
         },
         {
-          "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
-          "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
-          "date": "2026-07-07",
-          "source": "HuggingFace",
-          "description": "• Ornith-1.0-35B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%A6%A2%EF%B8%8F%20Ornith%20Blog%20-FD8E5B",
-          "is_english": true,
-          "summary": "• Ornith-1.0-35B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nvidia/Qwen3.6-27B-NVFP4",
           "link": "https://huggingface.co/nvidia/Qwen3.6-27B-NVFP4",
           "date": "2026-07-07",
@@ -92,6 +91,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-27B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nvidia/Qwen3.6-27B-NVFP4",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "date": "2026-07-07",
+          "source": "HuggingFace",
+          "description": "• Ornith-1.0-35B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%A6%A2%EF%B8%8F%20Ornith%20Blog%20-FD8E5B",
+          "is_english": true,
+          "summary": "• Ornith-1.0-35B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -161,19 +173,6 @@
           "category": "AI Model"
         },
         {
-          "title": "huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
-          "link": "https://huggingface.co/huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
-          "date": "2026-07-07",
-          "source": "HuggingFace",
-          "description": "• Huihui-GLM-5.2-abliterated-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Huihui-GLM-5.2-abliterated-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nvidia/LocateAnything-3B",
           "link": "https://huggingface.co/nvidia/LocateAnything-3B",
           "date": "2026-07-07",
@@ -183,6 +182,19 @@
           "is_english": true,
           "summary": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nvidia/LocateAnything-3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
+          "link": "https://huggingface.co/huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
+          "date": "2026-07-07",
+          "source": "HuggingFace",
+          "description": "• Huihui-GLM-5.2-abliterated-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Huihui-GLM-5.2-abliterated-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "huihui-ai/Huihui-GLM-5.2-abliterated-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -200,6 +212,19 @@
           "category": "AI Model"
         },
         {
+          "title": "mistralai/Leanstral-1.5-119B-A6B",
+          "link": "https://huggingface.co/mistralai/Leanstral-1.5-119B-A6B",
+          "date": "2026-07-07",
+          "source": "HuggingFace",
+          "description": "• Leanstral-1.5-119B-A6B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/66775fab8c58c5a12ae629ac/u5R3aWfUizTaxGemat-lU.png",
+          "is_english": true,
+          "summary": "• Leanstral-1.5-119B-A6B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "mistralai/Leanstral-1.5-119B-A6B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
           "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B-GGUF",
           "date": "2026-07-07",
@@ -213,15 +238,15 @@
           "category": "AI Model"
         },
         {
-          "title": "mistralai/Leanstral-1.5-119B-A6B",
-          "link": "https://huggingface.co/mistralai/Leanstral-1.5-119B-A6B",
+          "title": "krea/Krea-2-Turbo",
+          "link": "https://huggingface.co/krea/Krea-2-Turbo",
           "date": "2026-07-07",
           "source": "HuggingFace",
-          "description": "• Leanstral-1.5-119B-A6B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/66775fab8c58c5a12ae629ac/u5R3aWfUizTaxGemat-lU.png",
+          "description": "• Krea-2-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• Leanstral-1.5-119B-A6B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "mistralai/Leanstral-1.5-119B-A6B",
+          "summary": "• Krea-2-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "krea/Krea-2-Turbo",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,28 +264,15 @@
           "category": "AI Model"
         },
         {
-          "title": "nationaldesignstudio/rampart",
-          "link": "https://huggingface.co/nationaldesignstudio/rampart",
+          "title": "Qwen/Qwen-AgentWorld-35B-A3B",
+          "link": "https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B",
           "date": "2026-07-07",
           "source": "HuggingFace",
-          "description": "• rampart 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "description": "• Qwen-AgentWorld-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-AgentWorld/logo.png",
           "is_english": true,
-          "summary": "• rampart 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nationaldesignstudio/rampart",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "krea/Krea-2-Turbo",
-          "link": "https://huggingface.co/krea/Krea-2-Turbo",
-          "date": "2026-07-07",
-          "source": "HuggingFace",
-          "description": "• Krea-2-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Krea-2-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "krea/Krea-2-Turbo",
+          "summary": "• Qwen-AgentWorld-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen-AgentWorld-35B-A3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -268,8 +280,44 @@
     },
     {
       "date": "2026-07-06",
-      "update_time": "2026-07-06 19:42:08",
+      "update_time": "2026-07-06 22:06:39",
       "news": [
+        {
+          "title": "광양경자청, ‘찾아가는 환경기술지원단’으로 환경오염 사전 차단",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212478",
+          "date": "2026-07-06",
+          "source": "AI타임스",
+          "description": "광양만권경제자유구역청(청장 구충곤)은 관내 환경오염물질 배출사업장을 대상으로 ‘2026년 찾아가는 환경기술지원단’ 사업을 운영한다고 6일 밝혔다.이번 사업은 오염물질 배출을 사전에 방지하고 기업의 환경 관리 역량을 강화하기 위해 마련된 현장 중심의 맞춤형 기술지원 프로그램이다.광양경자청은 16일까지 관내 사업장들의 참가 신청을 받아 6개 사업장을 선정한 후, 오는 8월부터 11월까지 현장을 직접 방문해 환경 관리 사업을 지원한다. 신청 방법 등 자세한 내용은 광양경자청 누리집 공지사항을 통해 확인할 수 있다.주요 지원 내용은 ▲배출",
+          "image": "https://cdn.aitimes.com/news/photo/202607/212478_215743_2641.jpg",
+          "is_english": false,
+          "original_title": "광양경자청, ‘찾아가는 환경기술지원단’으로 환경오염 사전 차단",
+          "original_summary": "광양만권경제자유구역청(청장 구충곤)은 관내 환경오염물질 배출사업장을 대상으로 ‘2026년 찾아가는 환경기술지원단’ 사업을 운영한다고 6일 밝혔다.이번 사업은 오염물질 배출을 사전에 방지하고 기업의 환경 관리 역량을 강화하기 위해 마련된 현장 중심의 맞춤형 기술지원 프로그램이다.광양경자청은 16일까지 관내 사업장들의 참가 신청을 받아 6개 사업장을 선정한 후, 오는 8월부터 11월까지 현장을 직접 방문해 환경 관리 사업을 지원한다. 신청 방법 등 자세한 내용은 광양경자청 누리집 공지사항을 통해 확인할 수 있다.주요 지원 내용은 ▲배출",
+          "summary": "광양만권경제자유구역청(청장 구충곤)은 관내 환경오염물질 배출사업장을 대상으로 ‘2026년 찾아가는 환경기술지원단’ 사업을 운영한다고 6일 밝혔다.이번 사업은 오염물질 배출을 사전에 방지하고 기업의 환경 관리 역량을 강화하기 위해 마련된 현장 중심의 맞춤형 기술지원 프로그램이다.광양경자청은 16일까지 관내 사업장들의 참가 신청을 받아 6개 사업장을 선정한 후, 오는 8월부터 11월까지 현장을 직접 방문해 환경 관리 사업을 지원한다. 신청 방법 등 자세한 내용은 광양경자청 누리집 공지사항을 통해 확인할 수 있다.주요 지원 내용은 ▲배출"
+        },
+        {
+          "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+          "link": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+          "date": "2026-07-06",
+          "source": "TechCrunch",
+          "description": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/PHB_1846_16507246419711358101.jpeg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
+          "original_summary": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch.",
+          "summary": "\"The reality is, when you're optimizing for production, you start looking at a price/performance,\" Guillermo Rauch tells TechCrunch."
+        },
+        {
+          "title": "Toward a future that preserves benefits of neurotechnology for all",
+          "link": "https://news.mit.edu/2026/toward-future-preserves-benefits-neurotechnology-for-all-0706",
+          "date": "2026-07-06",
+          "source": "MIT News",
+          "description": "PhD student Rachel Sava, winner of the Envisioning the Future of Computing Prize, explores transformative improvements and dystopian risks of neural technology.",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202606/mit-SERC-Prize.JPG?itok=ARDkgV-T",
+          "is_english": true,
+          "original_title": "Toward a future that preserves benefits of neurotechnology for all",
+          "original_summary": "PhD student Rachel Sava, winner of the Envisioning the Future of Computing Prize, explores transformative improvements and dystopian risks of neural technology.",
+          "summary": "PhD student Rachel Sava, winner of the Envisioning the Future of Computing Prize, explores transformative improvements and dystopian risks of neural technology."
+        },
         {
           "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
           "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
@@ -7134,7 +7182,7 @@
         {
           "title": "Qwen/Qwen-AgentWorld-35B-A3B",
           "link": "https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B",
-          "date": "2026-06-28",
+          "date": "2026-07-07",
           "source": "HuggingFace",
           "description": "• Qwen-AgentWorld-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-AgentWorld/logo.png",
