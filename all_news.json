@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-07-07",
-      "update_time": "2026-07-06 17:35:16",
+      "update_time": "2026-07-06 19:42:08",
       "news": [
         {
           "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
@@ -57,6 +57,19 @@
           "category": "AI Model"
         },
         {
+          "title": "tencent/Hy3",
+          "link": "https://huggingface.co/tencent/Hy3",
+          "date": "2026-07-07",
+          "source": "HuggingFace",
+          "description": "• Hy3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/License-Apache%202.0-blue",
+          "is_english": true,
+          "summary": "• Hy3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "tencent/Hy3",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
           "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
           "date": "2026-07-07",
@@ -79,19 +92,6 @@
           "is_english": true,
           "summary": "• Qwen3.6-27B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nvidia/Qwen3.6-27B-NVFP4",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "tencent/Hy3",
-          "link": "https://huggingface.co/tencent/Hy3",
-          "date": "2026-07-07",
-          "source": "HuggingFace",
-          "description": "• Hy3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/License-Apache%202.0-blue",
-          "is_english": true,
-          "summary": "• Hy3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "tencent/Hy3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -200,19 +200,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Jackrong/Qwopus3.6-35B-A3B-Coder-MTP-GGUF",
-          "link": "https://huggingface.co/Jackrong/Qwopus3.6-35B-A3B-Coder-MTP-GGUF",
-          "date": "2026-07-07",
-          "source": "HuggingFace",
-          "description": "• Qwopus3.6-35B-A3B-Coder-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwopus3.6-35B-A3B-Coder-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Jackrong/Qwopus3.6-35B-A3B-Coder-MTP-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
           "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B-GGUF",
           "date": "2026-07-07",
@@ -226,19 +213,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nationaldesignstudio/rampart",
-          "link": "https://huggingface.co/nationaldesignstudio/rampart",
-          "date": "2026-07-07",
-          "source": "HuggingFace",
-          "description": "• rampart 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
-          "is_english": true,
-          "summary": "• rampart 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nationaldesignstudio/rampart",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "mistralai/Leanstral-1.5-119B-A6B",
           "link": "https://huggingface.co/mistralai/Leanstral-1.5-119B-A6B",
           "date": "2026-07-07",
@@ -248,6 +222,32 @@
           "is_english": true,
           "summary": "• Leanstral-1.5-119B-A6B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "mistralai/Leanstral-1.5-119B-A6B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Jackrong/Qwopus3.6-35B-A3B-Coder-MTP-GGUF",
+          "link": "https://huggingface.co/Jackrong/Qwopus3.6-35B-A3B-Coder-MTP-GGUF",
+          "date": "2026-07-07",
+          "source": "HuggingFace",
+          "description": "• Qwopus3.6-35B-A3B-Coder-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwopus3.6-35B-A3B-Coder-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Jackrong/Qwopus3.6-35B-A3B-Coder-MTP-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nationaldesignstudio/rampart",
+          "link": "https://huggingface.co/nationaldesignstudio/rampart",
+          "date": "2026-07-07",
+          "source": "HuggingFace",
+          "description": "• rampart 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• rampart 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nationaldesignstudio/rampart",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +268,44 @@
     },
     {
       "date": "2026-07-06",
-      "update_time": "2026-07-06 17:35:15",
+      "update_time": "2026-07-06 19:42:08",
       "news": [
+        {
+          "title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+          "link": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+          "date": "2026-07-06",
+          "source": "TechCrunch",
+          "description": "The new controls let you control how quickly Siri speaks and expressive its voice is. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/10/apple-siri-header.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "You can now customize Siri’s pace and expressivity in the latest iOS 27 beta",
+          "original_summary": "The new controls let you control how quickly Siri speaks and expressive its voice is. ",
+          "summary": "The new controls let you control how quickly Siri speaks and expressive its voice is. "
+        },
+        {
+          "title": "Every major tech layoff in 2026 that has name-checked AI",
+          "link": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+          "date": "2026-07-06",
+          "source": "TechCrunch",
+          "description": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/AI-layoffs-picture.png?resize=1200,800",
+          "is_english": true,
+          "original_title": "Every major tech layoff in 2026 that has name-checked AI",
+          "original_summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+          "summary": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor."
+        },
+        {
+          "title": "Reddit is using LLMs to solve a problem LLMs largely created",
+          "link": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+          "date": "2026-07-06",
+          "source": "TechCrunch",
+          "description": "In the AI era, platforms have no choice but to fight fire with fire to cull spam.",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/06/reddit-glitch-1.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "Reddit is using LLMs to solve a problem LLMs largely created",
+          "original_summary": "In the AI era, platforms have no choice but to fight fire with fire to cull spam.",
+          "summary": "In the AI era, platforms have no choice but to fight fire with fire to cull spam."
+        },
         {
           "title": "If you use Google, you’re training its AI. Here’s how to opt out.",
           "link": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
@@ -7033,7 +7069,7 @@
         {
           "title": "baidu/Unlimited-OCR",
           "link": "https://huggingface.co/baidu/Unlimited-OCR",
-          "date": "2026-06-28",
+          "date": "2026-07-07",
           "source": "HuggingFace",
           "description": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/baidu/Unlimited-OCR/resolve/main/assets/baidu.png",
@@ -7046,7 +7082,7 @@
         {
           "title": "zai-org/GLM-5.2",
           "link": "https://huggingface.co/zai-org/GLM-5.2",
-          "date": "2026-06-28",
+          "date": "2026-07-07",
           "source": "HuggingFace",
           "description": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
@@ -7059,7 +7095,7 @@
         {
           "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
           "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-          "date": "2026-06-28",
+          "date": "2026-07-07",
           "source": "HuggingFace",
           "description": "• Qwythos-9B-Claude-Mythos-5-1M-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M/resolve/main/assets/qwythos.png",
@@ -7072,7 +7108,7 @@
         {
           "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
           "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-          "date": "2026-06-28",
+          "date": "2026-07-07",
           "source": "HuggingFace",
           "description": "• gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -7085,7 +7121,7 @@
         {
           "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
           "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
-          "date": "2026-06-28",
+          "date": "2026-07-07",
           "source": "HuggingFace",
           "description": "• Qwythos-9B-Claude-Mythos-5-1M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M/resolve/main/assets/qwythos.png",
@@ -7124,7 +7160,7 @@
         {
           "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
           "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
-          "date": "2026-06-28",
+          "date": "2026-07-07",
           "source": "HuggingFace",
           "description": "• Ornith-1.0-35B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%A6%A2%EF%B8%8F%20Ornith%20Blog%20-FD8E5B",
@@ -7137,7 +7173,7 @@
         {
           "title": "krea/Krea-2-Turbo",
           "link": "https://huggingface.co/krea/Krea-2-Turbo",
-          "date": "2026-06-28",
+          "date": "2026-07-07",
           "source": "HuggingFace",
           "description": "• Krea-2-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -7150,7 +7186,7 @@
         {
           "title": "deepreinforce-ai/Ornith-1.0-9B-GGUF",
           "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-9B-GGUF",
-          "date": "2026-06-28",
+          "date": "2026-07-07",
           "source": "HuggingFace",
           "description": "• Ornith-1.0-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%A6%A2%EF%B8%8F%20Ornith%20Blog%20-FD8E5B",
@@ -7228,7 +7264,7 @@
         {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-06-28",
+          "date": "2026-07-07",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -7254,7 +7290,7 @@
         {
           "title": "nvidia/LocateAnything-3B",
           "link": "https://huggingface.co/nvidia/LocateAnything-3B",
-          "date": "2026-06-28",
+          "date": "2026-07-07",
           "source": "HuggingFace",
           "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
