@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-07-08",
-      "update_time": "2026-07-07 19:40:49",
+      "update_time": "2026-07-07 22:05:30",
       "news": [
         {
           "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
@@ -18,19 +18,6 @@
           "category": "AI Model"
         },
         {
-          "title": "zai-org/GLM-5.2",
-          "link": "https://huggingface.co/zai-org/GLM-5.2",
-          "date": "2026-07-08",
-          "source": "HuggingFace",
-          "description": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
-          "is_english": true,
-          "summary": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "zai-org/GLM-5.2",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "tencent/Hy3",
           "link": "https://huggingface.co/tencent/Hy3",
           "date": "2026-07-08",
@@ -40,6 +27,19 @@
           "is_english": true,
           "summary": "• Hy3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "tencent/Hy3",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "link": "https://huggingface.co/zai-org/GLM-5.2",
+          "date": "2026-07-08",
+          "source": "HuggingFace",
+          "description": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
+          "is_english": true,
+          "summary": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "zai-org/GLM-5.2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -213,19 +213,6 @@
           "category": "AI Model"
         },
         {
-          "title": "krea/Krea-2-Turbo",
-          "link": "https://huggingface.co/krea/Krea-2-Turbo",
-          "date": "2026-07-08",
-          "source": "HuggingFace",
-          "description": "• Krea-2-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Krea-2-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "krea/Krea-2-Turbo",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "froggeric/Qwen-Fixed-Chat-Templates",
           "link": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
           "date": "2026-07-08",
@@ -235,6 +222,19 @@
           "is_english": true,
           "summary": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "froggeric/Qwen-Fixed-Chat-Templates",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "krea/Krea-2-Turbo",
+          "link": "https://huggingface.co/krea/Krea-2-Turbo",
+          "date": "2026-07-08",
+          "source": "HuggingFace",
+          "description": "• Krea-2-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Krea-2-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "krea/Krea-2-Turbo",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -252,15 +252,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen-AgentWorld-35B-A3B",
-          "link": "https://huggingface.co/Qwen/Qwen-AgentWorld-35B-A3B",
+          "title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
+          "link": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B",
           "date": "2026-07-08",
           "source": "HuggingFace",
-          "description": "• Qwen-AgentWorld-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://qianwen-res.oss-accelerate-overseas.aliyuncs.com/Qwen-AgentWorld/logo.png",
+          "description": "• ThinkingCap-Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B/resolve/main/bottlecap-logo.png",
           "is_english": true,
-          "summary": "• Qwen-AgentWorld-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen-AgentWorld-35B-A3B",
+          "summary": "• ThinkingCap-Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -268,8 +268,56 @@
     },
     {
       "date": "2026-07-07",
-      "update_time": "2026-07-07 19:40:49",
+      "update_time": "2026-07-07 22:05:29",
       "news": [
+        {
+          "title": "한전KDN, 국토부 스마트도시 핵심사업 동시 참여... 미래형 에너지 기반 도시 조성 본격화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212519",
+          "date": "2026-07-07",
+          "source": "AI타임스",
+          "description": "에너지ICT 전문 공기업 한전KDN(사장 박상형)이 국토교통부가 추진하는 ‘2026년 인공지능 특화 시범도시’와 ‘거점형 스마트도시 조성사업’에 연이어 참여했다고 7일 밝혔다.최근 국토교통부는 AX 시대에 발맞추어 도시 데이터를 활용한 실증 도시 조성을 위해 대규모 공모를 통해 단순한 환경(인프라) 구축을 넘어 AI가 도시 전반의 에너지를 자율적으로 제어하고 효율화하는 ‘에이전틱 AI’ 도시 모델을 지향하고 있다. 이를 통해 기후위기 대응과 디지털 포용을 실현하고 지역 균형발전을 이끌기 위해 AI와 도시 데이터를 활용하는 \\'플랫폼",
+          "image": "https://cdn.aitimes.com/news/photo/202607/212519_215792_3121.jpg",
+          "is_english": false,
+          "original_title": "한전KDN, 국토부 스마트도시 핵심사업 동시 참여... 미래형 에너지 기반 도시 조성 본격화",
+          "original_summary": "에너지ICT 전문 공기업 한전KDN(사장 박상형)이 국토교통부가 추진하는 ‘2026년 인공지능 특화 시범도시’와 ‘거점형 스마트도시 조성사업’에 연이어 참여했다고 7일 밝혔다.최근 국토교통부는 AX 시대에 발맞추어 도시 데이터를 활용한 실증 도시 조성을 위해 대규모 공모를 통해 단순한 환경(인프라) 구축을 넘어 AI가 도시 전반의 에너지를 자율적으로 제어하고 효율화하는 ‘에이전틱 AI’ 도시 모델을 지향하고 있다. 이를 통해 기후위기 대응과 디지털 포용을 실현하고 지역 균형발전을 이끌기 위해 AI와 도시 데이터를 활용하는 \\'플랫폼",
+          "summary": "에너지ICT 전문 공기업 한전KDN(사장 박상형)이 국토교통부가 추진하는 ‘2026년 인공지능 특화 시범도시’와 ‘거점형 스마트도시 조성사업’에 연이어 참여했다고 7일 밝혔다.최근 국토교통부는 AX 시대에 발맞추어 도시 데이터를 활용한 실증 도시 조성을 위해 대규모 공모를 통해 단순한 환경(인프라) 구축을 넘어 AI가 도시 전반의 에너지를 자율적으로 제어하고 효율화하는 ‘에이전틱 AI’ 도시 모델을 지향하고 있다. 이를 통해 기후위기 대응과 디지털 포용을 실현하고 지역 균형발전을 이끌기 위해 AI와 도시 데이터를 활용하는 \\'플랫폼"
+        },
+        {
+          "title": "GIST, ‘AI대학’ 출범...국가 AI·반도체 융합 인재 양성 본격화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212520",
+          "date": "2026-07-07",
+          "source": "AI타임스",
+          "description": "광주과학기술원(GIST, 총장 임기철)은 1일 기존 정보컴퓨팅대학을 확대·개편한 AI대학(학장 김종원)을 공식 출범하고, 국가 AI·반도체 전략을 뒷받침할 세계 수준의 AI·반도체 융합 인재 양성에 본격 나섰다고 밝혔다.최근 정부가 서남권을 AI·반도체 산업의 새로운 거점으로 육성하는 전략을 발표하면서, 국가 AI 경쟁력을 뒷받침할 핵심 인재 양성이 중요한 과제로 떠오르고 있다. GIST는 AI대학 출범을 통해 이러한 국가 전략에 발맞춰 AI·반도체 분야 고급 인재를 안정적으로 양성·공급하는 핵심 거점 역할을 수행할 계획이다.GIS",
+          "image": "https://cdn.aitimes.com/news/photo/202607/212520_215793_3816.png",
+          "is_english": false,
+          "original_title": "GIST, ‘AI대학’ 출범...국가 AI·반도체 융합 인재 양성 본격화",
+          "original_summary": "광주과학기술원(GIST, 총장 임기철)은 1일 기존 정보컴퓨팅대학을 확대·개편한 AI대학(학장 김종원)을 공식 출범하고, 국가 AI·반도체 전략을 뒷받침할 세계 수준의 AI·반도체 융합 인재 양성에 본격 나섰다고 밝혔다.최근 정부가 서남권을 AI·반도체 산업의 새로운 거점으로 육성하는 전략을 발표하면서, 국가 AI 경쟁력을 뒷받침할 핵심 인재 양성이 중요한 과제로 떠오르고 있다. GIST는 AI대학 출범을 통해 이러한 국가 전략에 발맞춰 AI·반도체 분야 고급 인재를 안정적으로 양성·공급하는 핵심 거점 역할을 수행할 계획이다.GIS",
+          "summary": "광주과학기술원(GIST, 총장 임기철)은 1일 기존 정보컴퓨팅대학을 확대·개편한 AI대학(학장 김종원)을 공식 출범하고, 국가 AI·반도체 전략을 뒷받침할 세계 수준의 AI·반도체 융합 인재 양성에 본격 나섰다고 밝혔다.최근 정부가 서남권을 AI·반도체 산업의 새로운 거점으로 육성하는 전략을 발표하면서, 국가 AI 경쟁력을 뒷받침할 핵심 인재 양성이 중요한 과제로 떠오르고 있다. GIST는 AI대학 출범을 통해 이러한 국가 전략에 발맞춰 AI·반도체 분야 고급 인재를 안정적으로 양성·공급하는 핵심 거점 역할을 수행할 계획이다.GIS"
+        },
+        {
+          "title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+          "link": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+          "date": "2026-07-07",
+          "source": "TechCrunch",
+          "description": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2256487455.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Why the rise of open source AI isn’t hurting Anthropic … yet",
+          "original_summary": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle.",
+          "summary": "Open source models’ success isn’t coming at the expense of frontier labs. Instead, they each seem to capture two phases of the same life cycle."
+        },
+        {
+          "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+          "link": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+          "date": "2026-07-07",
+          "source": "TechCrunch",
+          "description": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2153485379.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+          "original_summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending. ",
+          "summary": "Microsoft is the latest Silicon Valley giant to cut back on its AI spending. "
+        },
         {
           "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
           "link": "https://openai.com/index/australian-payments-plus",
