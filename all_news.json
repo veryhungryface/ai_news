@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-07-08",
-      "update_time": "2026-07-08 10:55:15",
+      "update_time": "2026-07-08 13:30:22",
       "news": [
+        {
+          "title": "AI안경으로 데이트 상대 여성 몰래 촬영한 남성…경찰 수사",
+          "link": "https://www.yna.co.kr/view/AKR20260708181100004",
+          "date": "2026-07-08",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 김채린 기자 = 경찰이 인공지능(AI) 안경으로 데이트 상대인 여성을 몰래 촬영해 온라인에 유포한 남성을 조사 중이다.",
+          "image": "https://img.yna.co.kr/photo/cms/2025/09/21/64/PCM20250921000064990_P2.jpg",
+          "is_english": false,
+          "original_title": "AI안경으로 데이트 상대 여성 몰래 촬영한 남성…경찰 수사",
+          "original_summary": "(서울=연합뉴스) 김채린 기자 = 경찰이 인공지능(AI) 안경으로 데이트 상대인 여성을 몰래 촬영해 온라인에 유포한 남성을 조사 중이다.",
+          "summary": "(서울=연합뉴스) 김채린 기자 = 경찰이 인공지능(AI) 안경으로 데이트 상대인 여성을 몰래 촬영해 온라인에 유포한 남성을 조사 중이다."
+        },
+        {
+          "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
+          "link": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
+          "date": "2026-07-08",
+          "source": "TechCrunch",
+          "description": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.  ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/kw_2019-1.jpg?resize=1198,1200",
+          "is_english": true,
+          "original_title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
+          "original_summary": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.  ",
+          "summary": "Kevin Weil's new role at Stoke Space suggests reusable rockets are the next hot thing in Silicon Valley.  "
+        },
         {
           "title": "MS, 엑셀·아웃룩에 자체 'MAI' 모델 도입...오픈AI·앤트로픽 의존도 낮춘다",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=212531",
@@ -650,19 +674,6 @@
           "category": "AI Model"
         },
         {
-          "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-          "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-          "date": "2026-07-08",
-          "source": "HuggingFace",
-          "description": "• gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "date": "2026-07-08",
@@ -685,6 +696,19 @@
           "is_english": true,
           "summary": "• Leanstral-1.5-119B-A6B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "mistralai/Leanstral-1.5-119B-A6B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "date": "2026-07-08",
+          "source": "HuggingFace",
+          "description": "• gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -728,19 +752,6 @@
           "category": "AI Model"
         },
         {
-          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
-          "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
-          "date": "2026-07-08",
-          "source": "HuggingFace",
-          "description": "• Qwythos-9B-Claude-Mythos-5-1M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M/resolve/main/assets/qwythos.png",
-          "is_english": true,
-          "summary": "• Qwythos-9B-Claude-Mythos-5-1M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
           "link": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B",
           "date": "2026-07-08",
@@ -750,6 +761,19 @@
           "is_english": true,
           "summary": "• ThinkingCap-Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+          "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+          "date": "2026-07-08",
+          "source": "HuggingFace",
+          "description": "• Qwythos-9B-Claude-Mythos-5-1M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M/resolve/main/assets/qwythos.png",
+          "is_english": true,
+          "summary": "• Qwythos-9B-Claude-Mythos-5-1M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -767,19 +791,6 @@
           "category": "AI Model"
         },
         {
-          "title": "krea/Krea-2-Turbo",
-          "link": "https://huggingface.co/krea/Krea-2-Turbo",
-          "date": "2026-07-08",
-          "source": "HuggingFace",
-          "description": "• Krea-2-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Krea-2-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "krea/Krea-2-Turbo",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "eric-venti-seeds/Sun-Direction-Lora-Flux2Klein9B",
           "link": "https://huggingface.co/eric-venti-seeds/Sun-Direction-Lora-Flux2Klein9B",
           "date": "2026-07-08",
@@ -789,6 +800,19 @@
           "is_english": true,
           "summary": "• Sun-Direction-Lora-Flux2Klein9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "eric-venti-seeds/Sun-Direction-Lora-Flux2Klein9B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "krea/Krea-2-Turbo",
+          "link": "https://huggingface.co/krea/Krea-2-Turbo",
+          "date": "2026-07-08",
+          "source": "HuggingFace",
+          "description": "• Krea-2-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Krea-2-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "krea/Krea-2-Turbo",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
