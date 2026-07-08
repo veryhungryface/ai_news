@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-07-09",
-      "update_time": "2026-07-08 16:25:47",
+      "update_time": "2026-07-08 19:06:36",
       "news": [
         {
           "title": "You Will Soon Use Claude Cowork on Your Phone",
@@ -160,19 +160,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/Qwen3.6-27B-NVFP4",
-          "link": "https://huggingface.co/nvidia/Qwen3.6-27B-NVFP4",
-          "date": "2026-07-09",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-27B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.6-27B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/Qwen3.6-27B-NVFP4",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "meituan-longcat/LongCat-2.0",
           "link": "https://huggingface.co/meituan-longcat/LongCat-2.0",
           "date": "2026-07-09",
@@ -182,6 +169,19 @@
           "is_english": true,
           "summary": "• LongCat-2.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "meituan-longcat/LongCat-2.0",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/Qwen3.6-27B-NVFP4",
+          "link": "https://huggingface.co/nvidia/Qwen3.6-27B-NVFP4",
+          "date": "2026-07-09",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-27B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.6-27B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/Qwen3.6-27B-NVFP4",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -280,8 +280,92 @@
     },
     {
       "date": "2026-07-08",
-      "update_time": "2026-07-08 16:25:47",
+      "update_time": "2026-07-08 19:06:36",
       "news": [
+        {
+          "title": "Helping K–12 educators build practical AI skills",
+          "link": "https://openai.com/index/k-12-educators-practical-skills",
+          "date": "2026-07-08",
+          "source": "OpenAI",
+          "description": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Helping K–12 educators build practical AI skills",
+          "original_summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom.",
+          "summary": "OpenAI Academy and the Walton Family Foundation are bringing hands-on AI Skills Jams to help K–12 educators build practical AI skills for the classroom."
+        },
+        {
+          "title": "Introducing GPT-Live",
+          "link": "https://openai.com/index/introducing-gpt-live",
+          "date": "2026-07-08",
+          "source": "OpenAI",
+          "description": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Introducing GPT-Live",
+          "original_summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice.",
+          "summary": "A new generation of voice models for natural human-AI interaction, now powering ChatGPT Voice."
+        },
+        {
+          "title": "Google Photos adds a new AI ‘Video Remix’ tool",
+          "link": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
+          "date": "2026-07-08",
+          "source": "TechCrunch",
+          "description": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2249181820.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Google Photos adds a new AI ‘Video Remix’ tool",
+          "original_summary": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos.",
+          "summary": "The feature can do things like apply cinematic relighting to brighten up a dark clip, swap out a plain background for something fun, or add artistic styles to videos."
+        },
+        {
+          "title": "Why this CEO thinks video games make better training data than the internet",
+          "link": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
+          "date": "2026-07-08",
+          "source": "TechCrunch",
+          "description": "When it comes to achieving artificial general intelligence (AGI), large language models just&#160;don’t&#160;have what it takes. Models like ChatGPT and Claude&#160;are great at text, but&#160;they&#8217;re&#160;less skilled at understanding how things&#160;actually move&#160;through space and time&#160;—&#160;an essential skill for producing intelligence that generalizes. That gap, it turns out, might be filled&#160;by&#160;gaming data.&#160;That&#8217;s&#160;the bet behind General Intuition, a",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/10/general_intuition_ceo_pim_de_witte.png?w=1024",
+          "is_english": true,
+          "original_title": "Why this CEO thinks video games make better training data than the internet",
+          "original_summary": "When it comes to achieving artificial general intelligence (AGI), large language models just&#160;don’t&#160;have what it takes. Models like ChatGPT and Claude&#160;are great at text, but&#160;they&#8217;re&#160;less skilled at understanding how things&#160;actually move&#160;through space and time&",
+          "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just&#160;don’t&#160;have what it takes. Models like ChatGPT and Claude&#160;are great at text, but&#160;they&#8217;re&#160;less skilled at understanding how things&#160;actually move&#160;through space and time&"
+        },
+        {
+          "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
+          "link": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+          "date": "2026-07-08",
+          "source": "TechCrunch",
+          "description": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect and use.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/kylie-jenner-meta-ai-glasses.jpeg?resize=1200,750",
+          "is_english": true,
+          "original_title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
+          "original_summary": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect and use.",
+          "summary": "Meta is adding a new safeguard to stop people from secretly recording others with its AI glasses. But the update comes as the company continues to expand how much personal data its AI products collect and use."
+        },
+        {
+          "title": "OpenAI releases new voice models for more natural live conversations",
+          "link": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+          "date": "2026-07-08",
+          "source": "TechCrunch",
+          "description": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/Press-Static-Hero-16x9-1.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "OpenAI releases new voice models for more natural live conversations",
+          "original_summary": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation. ",
+          "summary": "OpenAI says its new voice mode can speak and listen at the same time, a key ability for live translation. "
+        },
+        {
+          "title": "Your gaming data could be the secret to AGI, according to this Bezos-backed startup",
+          "link": "https://techcrunch.com/podcast/your-gaming-data-could-be-the-secret-to-agi-according-to-this-bezos-backed-startup/",
+          "date": "2026-07-08",
+          "source": "TechCrunch",
+          "description": "When it comes to achieving artificial general intelligence (AGI), large language models just&#160;don’t&#160;have what it takes. Models like ChatGPT and Claude&#160;are great at text, but&#160;they&#8217;re&#160;less skilled at understanding how things&#160;actually move&#160;through space and time&#160;—&#160;an essential skill for producing intelligence that generalizes. That gap, it turns out, might be filled&#160;by&#160;gaming data.&#160;That&#8217;s&#160;the bet behind General Intuition, a",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/10/general_intuition_announcement_hero.png?resize=1200,982",
+          "is_english": true,
+          "original_title": "Your gaming data could be the secret to AGI, according to this Bezos-backed startup",
+          "original_summary": "When it comes to achieving artificial general intelligence (AGI), large language models just&#160;don’t&#160;have what it takes. Models like ChatGPT and Claude&#160;are great at text, but&#160;they&#8217;re&#160;less skilled at understanding how things&#160;actually move&#160;through space and time&",
+          "summary": "When it comes to achieving artificial general intelligence (AGI), large language models just&#160;don’t&#160;have what it takes. Models like ChatGPT and Claude&#160;are great at text, but&#160;they&#8217;re&#160;less skilled at understanding how things&#160;actually move&#160;through space and time&"
+        },
         {
           "title": "Prime Intellect raises $130M Series A to help enterprises build their own AI agents",
           "link": "https://techcrunch.com/2026/07/08/prime-intellect-raises-130m-series-a-to-help-enterprises-build-their-own-ai-agents/",
@@ -7513,7 +7597,7 @@
         {
           "title": "baidu/Unlimited-OCR",
           "link": "https://huggingface.co/baidu/Unlimited-OCR",
-          "date": "2026-06-30",
+          "date": "2026-07-09",
           "source": "HuggingFace",
           "description": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/baidu/Unlimited-OCR/resolve/main/assets/baidu.png",
@@ -7526,7 +7610,7 @@
         {
           "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
           "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-          "date": "2026-06-30",
+          "date": "2026-07-09",
           "source": "HuggingFace",
           "description": "• Qwythos-9B-Claude-Mythos-5-1M-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M/resolve/main/assets/qwythos.png",
@@ -7539,7 +7623,7 @@
         {
           "title": "zai-org/GLM-5.2",
           "link": "https://huggingface.co/zai-org/GLM-5.2",
-          "date": "2026-06-30",
+          "date": "2026-07-09",
           "source": "HuggingFace",
           "description": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
@@ -7552,7 +7636,7 @@
         {
           "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
           "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
-          "date": "2026-06-30",
+          "date": "2026-07-09",
           "source": "HuggingFace",
           "description": "• Ornith-1.0-35B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%A6%A2%EF%B8%8F%20Ornith%20Blog%20-FD8E5B",
@@ -7578,7 +7662,7 @@
         {
           "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
           "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-          "date": "2026-06-30",
+          "date": "2026-07-09",
           "source": "HuggingFace",
           "description": "• gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -7591,7 +7675,7 @@
         {
           "title": "krea/Krea-2-Turbo",
           "link": "https://huggingface.co/krea/Krea-2-Turbo",
-          "date": "2026-06-30",
+          "date": "2026-07-09",
           "source": "HuggingFace",
           "description": "• Krea-2-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -7604,7 +7688,7 @@
         {
           "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
           "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
-          "date": "2026-06-30",
+          "date": "2026-07-09",
           "source": "HuggingFace",
           "description": "• Qwythos-9B-Claude-Mythos-5-1M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M/resolve/main/assets/qwythos.png",
@@ -7682,7 +7766,7 @@
         {
           "title": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark",
-          "date": "2026-06-30",
+          "date": "2026-07-09",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4-Pro-DSpark 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
@@ -7747,7 +7831,7 @@
         {
           "title": "nvidia/LocateAnything-3B",
           "link": "https://huggingface.co/nvidia/LocateAnything-3B",
-          "date": "2026-06-30",
+          "date": "2026-07-09",
           "source": "HuggingFace",
           "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
@@ -7760,7 +7844,7 @@
         {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-06-30",
+          "date": "2026-07-09",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
