@@ -2,8 +2,44 @@
   "dates": [
     {
       "date": "2026-07-09",
-      "update_time": "2026-07-08 19:06:36",
+      "update_time": "2026-07-08 21:59:00",
       "news": [
+        {
+          "title": "울산산업 인공지능 전환 협의체 출범 \"대한민국 AX 거점으로\"",
+          "link": "https://www.yna.co.kr/view/AKR20260708176900057",
+          "date": "2026-07-09",
+          "source": "연합뉴스",
+          "description": "(울산=연합뉴스) 김근주 기자 = 울산 산업 인공지능 전환(AX) 사업을 담당하는 민관 협의체가 9일 출범한다.",
+          "image": "https://img.yna.co.kr/photo/cms/2015/03/14/01/C0A8CA3D0000014C17325827000370A8_P2.jpeg",
+          "is_english": false,
+          "original_title": "울산산업 인공지능 전환 협의체 출범 \"대한민국 AX 거점으로\"",
+          "original_summary": "(울산=연합뉴스) 김근주 기자 = 울산 산업 인공지능 전환(AX) 사업을 담당하는 민관 협의체가 9일 출범한다.",
+          "summary": "(울산=연합뉴스) 김근주 기자 = 울산 산업 인공지능 전환(AX) 사업을 담당하는 민관 협의체가 9일 출범한다."
+        },
+        {
+          "title": "공공분야 인공지능의 미래…14일 '서울 AI 행정혁신포럼'",
+          "link": "https://www.yna.co.kr/view/AKR20260708150300004",
+          "date": "2026-07-09",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 김준태 기자 = 서울AI재단은 14일 대한상공회의소 국제회의장에서 &apos;2026 제2회 서울 인공지능(AI) 행정혁신포럼&apos;을 연다...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/07/08/AKR20260708150300004_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "공공분야 인공지능의 미래…14일 '서울 AI 행정혁신포럼'",
+          "original_summary": "(서울=연합뉴스) 김준태 기자 = 서울AI재단은 14일 대한상공회의소 국제회의장에서 &apos;2026 제2회 서울 인공지능(AI) 행정혁신포럼&apos;을 연다...",
+          "summary": "(서울=연합뉴스) 김준태 기자 = 서울AI재단은 14일 대한상공회의소 국제회의장에서 &apos;2026 제2회 서울 인공지능(AI) 행정혁신포럼&apos;을 연다..."
+        },
+        {
+          "title": "Nvidia, Hugging Face Collaborate on Open Source Robot Models",
+          "link": "https://aibusiness.com/generative-ai/nvidia-hugging-face-collaborate-open-source-robot-models",
+          "date": "2026-07-09",
+          "source": "AI Business",
+          "description": "The move is seen as supporting accessibility and deployment for physical AI and also boosting Nvidia’s already strong presence in the field.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt6f9d1cea7b9696a6/6a4ea7b412fd7d5e564eb680/robot_arm.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Nvidia, Hugging Face Collaborate on Open Source Robot Models",
+          "original_summary": "The move is seen as supporting accessibility and deployment for physical AI and also boosting Nvidia’s already strong presence in the field.",
+          "summary": "The move is seen as supporting accessibility and deployment for physical AI and also boosting Nvidia’s already strong presence in the field."
+        },
         {
           "title": "You Will Soon Use Claude Cowork on Your Phone",
           "link": "https://aibusiness.com/agentic-ai/you-will-soon-use-claude-cowork-your-phone",
@@ -186,19 +222,6 @@
           "category": "AI Model"
         },
         {
-          "title": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark",
-          "date": "2026-07-09",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Pro-DSpark 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
-          "is_english": true,
-          "summary": "• DeepSeek-V4-Pro-DSpark 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "froggeric/Qwen-Fixed-Chat-Templates",
           "link": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
           "date": "2026-07-09",
@@ -208,6 +231,19 @@
           "is_english": true,
           "summary": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "froggeric/Qwen-Fixed-Chat-Templates",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark",
+          "date": "2026-07-09",
+          "source": "HuggingFace",
+          "description": "• DeepSeek-V4-Pro-DSpark 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
+          "is_english": true,
+          "summary": "• DeepSeek-V4-Pro-DSpark 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -225,19 +261,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/LocateAnything-3B",
-          "link": "https://huggingface.co/nvidia/LocateAnything-3B",
-          "date": "2026-07-09",
-          "source": "HuggingFace",
-          "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
-          "is_english": true,
-          "summary": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/LocateAnything-3B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
           "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
           "date": "2026-07-09",
@@ -247,6 +270,19 @@
           "is_english": true,
           "summary": "• Qwythos-9B-Claude-Mythos-5-1M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "link": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "date": "2026-07-09",
+          "source": "HuggingFace",
+          "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
+          "is_english": true,
+          "summary": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/LocateAnything-3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -280,8 +316,68 @@
     },
     {
       "date": "2026-07-08",
-      "update_time": "2026-07-08 19:06:36",
+      "update_time": "2026-07-08 21:59:00",
       "news": [
+        {
+          "title": "Our approach to government and national security partnerships",
+          "link": "https://openai.com/index/government-national-security-partnerships",
+          "date": "2026-07-08",
+          "source": "OpenAI",
+          "description": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Our approach to government and national security partnerships",
+          "original_summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety.",
+          "summary": "Learn how OpenAI approaches government and national security partnerships, with principles for responsible AI use, democratic accountability, and public safety."
+        },
+        {
+          "title": "Separating signal from noise in coding evaluations",
+          "link": "https://openai.com/index/separating-signal-from-noise-coding-evaluations",
+          "date": "2026-07-08",
+          "source": "OpenAI",
+          "description": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Separating signal from noise in coding evaluations",
+          "original_summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models.",
+          "summary": "A new analysis from OpenAI reveals issues in SWE-Bench Pro, a popular coding benchmark, raising concerns about reliability and accuracy in evaluating AI models."
+        },
+        {
+          "title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
+          "link": "https://techcrunch.com/2026/07/08/googles-deepfake-detector-system-used-to-debunk-mcconnell-hoax-pic/",
+          "date": "2026-07-08",
+          "source": "TechCrunch",
+          "description": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/05/google-io-2023-watermarking.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "Google’s deepfake detector system used to debunk McConnell hoax pic",
+          "original_summary": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake.",
+          "summary": "Earlier this week, a picture seemed to show Kentucky Senator Mitch McConnell covered in tubes in a hospital bed in a state of extreme distress. It turned out to be an AI-generated fake."
+        },
+        {
+          "title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+          "link": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+          "date": "2026-07-08",
+          "source": "TechCrunch",
+          "description": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2259661359.jpg?w=1024",
+          "is_english": true,
+          "original_title": "SpaceXAI releases Grok 4.5, which Elon describes as an ‘Opus-class model’",
+          "original_summary": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models. ",
+          "summary": "Elon Musk's tech company released the newest version of Grok on Wednesday, promising a cheaper, more efficient alternative to other powerful AI models. "
+        },
+        {
+          "title": "This startup thinks robotics is about to have its ChatGPT moment",
+          "link": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
+          "date": "2026-07-08",
+          "source": "TechCrunch",
+          "description": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/pic_Pim_CEO.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "This startup thinks robotics is about to have its ChatGPT moment",
+          "original_summary": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data.",
+          "summary": "General Intuition is betting millions of hours of video game data can train the foundation models for physical AI, making it easier to build smarter robots with minimal real-world data."
+        },
         {
           "title": "Helping K–12 educators build practical AI skills",
           "link": "https://openai.com/index/k-12-educators-practical-skills",
