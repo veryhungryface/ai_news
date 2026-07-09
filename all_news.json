@@ -2,8 +2,44 @@
   "dates": [
     {
       "date": "2026-07-09",
-      "update_time": "2026-07-09 11:46:27",
+      "update_time": "2026-07-09 14:30:03",
       "news": [
+        {
+          "title": "Character.AI enters the microdrama arena with its own productions, but there’s a twist",
+          "link": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
+          "date": "2026-07-09",
+          "source": "TechCrunch",
+          "description": "In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even roleplay different storylines.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/c.ai-Series-1.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "Character.AI enters the microdrama arena with its own productions, but there’s a twist",
+          "original_summary": "In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even roleplay different storylines.",
+          "summary": "In an interesting twist that takes advantage of the company's core product, users can chat with these shows' characters, ask them questions, and even roleplay different storylines."
+        },
+        {
+          "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
+          "link": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
+          "date": "2026-07-09",
+          "source": "TechCrunch",
+          "description": "Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/Ollama-founders-Jeff-Morgan-left-and-Michael-Chiang-right.jpg?resize=1200,825",
+          "is_english": true,
+          "original_title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
+          "original_summary": "Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs.",
+          "summary": "Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs."
+        },
+        {
+          "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
+          "link": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
+          "date": "2026-07-09",
+          "source": "TechCrunch",
+          "description": "Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/nandan-nilekani-1251752057.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
+          "original_summary": "Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India.",
+          "summary": "Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India."
+        },
         {
           "title": "미니맥스, 2.7조 매개변수 차세대 LLM 개발…중국 역대 최대 규모",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=212584",
@@ -672,19 +708,6 @@
           "category": "AI Model"
         },
         {
-          "title": "mistralai/Leanstral-1.5-119B-A6B",
-          "link": "https://huggingface.co/mistralai/Leanstral-1.5-119B-A6B",
-          "date": "2026-07-09",
-          "source": "HuggingFace",
-          "description": "• Leanstral-1.5-119B-A6B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/66775fab8c58c5a12ae629ac/u5R3aWfUizTaxGemat-lU.png",
-          "is_english": true,
-          "summary": "• Leanstral-1.5-119B-A6B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "mistralai/Leanstral-1.5-119B-A6B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "froggeric/Qwen-Fixed-Chat-Templates",
           "link": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
           "date": "2026-07-09",
@@ -694,6 +717,19 @@
           "is_english": true,
           "summary": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "froggeric/Qwen-Fixed-Chat-Templates",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "mistralai/Leanstral-1.5-119B-A6B",
+          "link": "https://huggingface.co/mistralai/Leanstral-1.5-119B-A6B",
+          "date": "2026-07-09",
+          "source": "HuggingFace",
+          "description": "• Leanstral-1.5-119B-A6B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/66775fab8c58c5a12ae629ac/u5R3aWfUizTaxGemat-lU.png",
+          "is_english": true,
+          "summary": "• Leanstral-1.5-119B-A6B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "mistralai/Leanstral-1.5-119B-A6B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -802,19 +838,6 @@
           "category": "AI Model"
         },
         {
-          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
-          "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
-          "date": "2026-07-09",
-          "source": "HuggingFace",
-          "description": "• Qwythos-9B-Claude-Mythos-5-1M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M/resolve/main/assets/qwythos.png",
-          "is_english": true,
-          "summary": "• Qwythos-9B-Claude-Mythos-5-1M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nvidia/LocateAnything-3B",
           "link": "https://huggingface.co/nvidia/LocateAnything-3B",
           "date": "2026-07-09",
@@ -828,15 +851,28 @@
           "category": "AI Model"
         },
         {
-          "title": "eric-venti-seeds/Sun-Direction-Lora-Flux2Klein9B",
-          "link": "https://huggingface.co/eric-venti-seeds/Sun-Direction-Lora-Flux2Klein9B",
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+          "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
           "date": "2026-07-09",
           "source": "HuggingFace",
-          "description": "• Sun-Direction-Lora-Flux2Klein9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/682506987fd6f758ef6c99a4/uCwscjlIZqF6DCZCHlRPB.gif",
+          "description": "• Qwythos-9B-Claude-Mythos-5-1M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M/resolve/main/assets/qwythos.png",
           "is_english": true,
-          "summary": "• Sun-Direction-Lora-Flux2Klein9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "eric-venti-seeds/Sun-Direction-Lora-Flux2Klein9B",
+          "summary": "• Qwythos-9B-Claude-Mythos-5-1M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
+          "link": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
+          "date": "2026-07-09",
+          "source": "HuggingFace",
+          "description": "• MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF/resolve/main/assets/banner.png",
+          "is_english": true,
+          "summary": "• MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
