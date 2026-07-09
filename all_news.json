@@ -2,8 +2,80 @@
   "dates": [
     {
       "date": "2026-07-09",
-      "update_time": "2026-07-08 21:59:00",
+      "update_time": "2026-07-09 01:55:21",
       "news": [
+        {
+          "title": "[7월8일] \"최고 모델이 공짜\"…오픈AI·앤트로픽이 무료 토큰 경쟁에 나선 이유",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212534",
+          "date": "2026-07-09",
+          "source": "AI타임스",
+          "description": "최근 미국 AI 업계에서는 새로운 가격 경쟁이 시작됐습니다. 이번에는 요금 인하가 아니라, 아예 최고 성능 AI를 \\'무료\\'로 제공하는 경쟁입니다.더 주목할 점은 이를 주도하는 곳이 가장 비싸고 성능이 뛰어난 프론티어 모델 기업인 오픈AI와 앤트로픽이라는 것입니다.물론, 이들이 모든 사용자를 대상으로 무료 서비스에 나선 것은 아닙니다. 최근 세계 최대 스타트업 액셀러레이터인 Y 콤비네이터(YC) 참여 기업들을 대상으로 수십억원 규모의 토큰 크레딧을 제공하는 경쟁에 들어갔습니다. 샘 알트먼 오픈AI CEO는 지난 5월 YC 행사에 참여",
+          "image": "https://cdn.aitimes.com/news/photo/202607/212534_215809_5244.png",
+          "is_english": false,
+          "original_title": "[7월8일] \"최고 모델이 공짜\"…오픈AI·앤트로픽이 무료 토큰 경쟁에 나선 이유",
+          "original_summary": "최근 미국 AI 업계에서는 새로운 가격 경쟁이 시작됐습니다. 이번에는 요금 인하가 아니라, 아예 최고 성능 AI를 \\'무료\\'로 제공하는 경쟁입니다.더 주목할 점은 이를 주도하는 곳이 가장 비싸고 성능이 뛰어난 프론티어 모델 기업인 오픈AI와 앤트로픽이라는 것입니다.물론, 이들이 모든 사용자를 대상으로 무료 서비스에 나선 것은 아닙니다. 최근 세계 최대 스타트업 액셀러레이터인 Y 콤비네이터(YC) 참여 기업들을 대상으로 수십억원 규모의 토큰 크레딧을 제공하는 경쟁에 들어갔습니다. 샘 알트먼 오픈AI CEO는 지난 5월 YC 행사에 ",
+          "summary": "최근 미국 AI 업계에서는 새로운 가격 경쟁이 시작됐습니다. 이번에는 요금 인하가 아니라, 아예 최고 성능 AI를 \\'무료\\'로 제공하는 경쟁입니다.더 주목할 점은 이를 주도하는 곳이 가장 비싸고 성능이 뛰어난 프론티어 모델 기업인 오픈AI와 앤트로픽이라는 것입니다.물론, 이들이 모든 사용자를 대상으로 무료 서비스에 나선 것은 아닙니다. 최근 세계 최대 스타트업 액셀러레이터인 Y 콤비네이터(YC) 참여 기업들을 대상으로 수십억원 규모의 토큰 크레딧을 제공하는 경쟁에 들어갔습니다. 샘 알트먼 오픈AI CEO는 지난 5월 YC 행사에 "
+        },
+        {
+          "title": "AI의 ‘의식’의 공간 발견했다? 클로드를 들여다봤더니…",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212553",
+          "date": "2026-07-09",
+          "source": "AI타임스",
+          "description": "AI타임스 조예주 기자 joyejuoffice@aitimes.com",
+          "image": "https://cdn.aitimes.com/news/photo/202607/212553_215837_3728.jpg",
+          "is_english": false,
+          "original_title": "AI의 ‘의식’의 공간 발견했다? 클로드를 들여다봤더니…",
+          "original_summary": "AI타임스 조예주 기자 joyejuoffice@aitimes.com",
+          "summary": "AI타임스 조예주 기자 joyejuoffice@aitimes.com"
+        },
+        {
+          "title": "LLM이 대화를 기억하게 하려면? 에이전트 메모리 프레임워크 4선",
+          "link": "https://www.itworld.co.kr/article/4194713/llm%ec%9d%b4-%eb%8c%80%ed%99%94%eb%a5%bc-%ea%b8%b0%ec%96%b5%ed%95%98%ea%b2%8c-%ed%95%98%eb%a0%a4%eb%a9%b4-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%eb%a9%94%eb%aa%a8%eb%a6%ac-%ed%94%84%eb%a0%88%ec%9e%84.html",
+          "date": "2026-07-09",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\nAI 에이전트, 그리고 에이전트를 구동하는 대규모 언어 모델(LLM)은 기억력이 짧다. 애초부터 그렇게 설계되어 있다. 토큰으로 인코딩해 LLM이 안정적으로 접근할 수 있는 대화량에는 한계가 있기 때문이다. 검색 증강 생성(RAG)을 활용하면 에이전트와 LLM에 컨텍스트 창보다 넓은 기억 공간을 부여할 수 있다. 하지만 에이전트가 RAG나 대화 내용 유지 메커니즘을 어떻게 활용하느냐에 따라 결과는 크게 달라진다.\n\n\n\nAI 에이전트의 부상과 함께, 에이전트와 LLM에 확장된 메모리 기능을 더하는 보완 소프트웨어 도구도 함께 증가하고 있다. 대다수 경우 에이전트나 모델에 세션 간 영구 메모리를 부여해, 이전 컨텍스트를 자동으로 복원하는 방식이다. 다만 구체적인 구현 방식은 도구마다 크게 다르다.\n\n\n\nAI 에이전트 메모리 분야의 주요 프로젝트 4종을 소개한다. 각각의 프로젝트는 고유한 접근 방식과 강점, 지향점을 갖추고 있다.\n\n\n\n그라피티(G",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/07/4194713-0-35192900-1783558561-growtika-f0JGorLOkw0-unsplash.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "LLM이 대화를 기억하게 하려면? 에이전트 메모리 프레임워크 4선",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\nAI 에이전트, 그리고 에이전트를 구동하는 대규모 언어 모델(LLM)은 기억력이 짧다. 애초부터 그렇게 설계되어 있다. 토큰으로 인코딩해 LLM이 안정적으로 접근할 수 있는 대화량에는 한계가 있기 때문이다. 검색 증강 생성(RAG)을 활용하면 에이전트와 LLM에 컨텍스트 창보다 넓은 기억 공간을 부여할 수 있다. 하지만 에이전트가 RAG나 대화 내용 유지 메커니즘을 어떻게 활용하느냐에 따라 결과는 크게 달라진다.\n\n\n\nAI 에이전트의 부상과 함께, 에이전트와 LLM에 확장된 메모리 기능을 더",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\nAI 에이전트, 그리고 에이전트를 구동하는 대규모 언어 모델(LLM)은 기억력이 짧다. 애초부터 그렇게 설계되어 있다. 토큰으로 인코딩해 LLM이 안정적으로 접근할 수 있는 대화량에는 한계가 있기 때문이다. 검색 증강 생성(RAG)을 활용하면 에이전트와 LLM에 컨텍스트 창보다 넓은 기억 공간을 부여할 수 있다. 하지만 에이전트가 RAG나 대화 내용 유지 메커니즘을 어떻게 활용하느냐에 따라 결과는 크게 달라진다.\n\n\n\nAI 에이전트의 부상과 함께, 에이전트와 LLM에 확장된 메모리 기능을 더"
+        },
+        {
+          "title": "내 컴퓨터가 슈퍼컴퓨터의 일부가 되는 시간…유휴 컴퓨팅이 여는 시민 과학 시대",
+          "link": "https://www.itworld.co.kr/article/4194693/%eb%82%b4-%ec%bb%b4%ed%93%a8%ed%84%b0%ea%b0%80-%ec%8a%88%ed%8d%bc%ec%bb%b4%ed%93%a8%ed%84%b0%ec%9d%98-%ec%9d%bc%eb%b6%80%ea%b0%80-%eb%90%98%eb%8a%94-%ec%8b%9c%ea%b0%84-%ec%9c%a0%ed%9c%b4-%ec%bb%b4.html",
+          "date": "2026-07-09",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n보통 사람들은 매일 수 시간씩 컴퓨터를 그냥 켜둔다. 그 컴퓨터의 유휴 처리 능력 일부가 새로운 펄서(고속 자전 중성자별) 탐색이나 기후 시스템 모델링, 혹은 의학 연구에 활용된다면 어떨까?\n\n\n\n바로 이것이 BOINC(Berkeley Open Infrastructure for Network Computing, 버클리 오픈 인프라스트럭처 포 네트워크 컴퓨팅)과 같은 분산 컴퓨팅 프로젝트의 핵심 개념이다. BOINC은 자원봉사자들이 PC, 노트북, 안드로이드 기기의 유휴 컴퓨팅 파워를 과학 연구 프로젝트에 기부할 수 있도록 하는 무료 플랫폼으로, 질병 연구부터 기후 변화 분석, 펄서 탐색에 이르기까지 약 30개의 과학 프로젝트가 BOINC을 활용하고 있다. 기기가 작업 중이 아닐 때 소규모 작업 묶음을 내려받아 처리한 뒤 결과를 연구자에게 다시 전송하는 방식이다.\n\n\n\n2002년 출범한 BOINC은 원래 외계 지적 생명체 탐색 프로젝트인 SET",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/07/4194693-0-51606700-1783557092-Chromebook-laptop-on-a-wooden-tray-desk-with-Android-phone-on-keyboard.webp",
+          "is_english": false,
+          "original_title": "내 컴퓨터가 슈퍼컴퓨터의 일부가 되는 시간…유휴 컴퓨팅이 여는 시민 과학 시대",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n보통 사람들은 매일 수 시간씩 컴퓨터를 그냥 켜둔다. 그 컴퓨터의 유휴 처리 능력 일부가 새로운 펄서(고속 자전 중성자별) 탐색이나 기후 시스템 모델링, 혹은 의학 연구에 활용된다면 어떨까?\n\n\n\n바로 이것이 BOINC(Berkeley Open Infrastructure for Network Computing, 버클리 오픈 인프라스트럭처 포 네트워크 컴퓨팅)과 같은 분산 컴퓨팅 프로젝트의 핵심 개념이다. BOINC은 자원봉사자들이 PC, 노트북, 안드로이드 기기의 유휴 컴퓨팅 파워를 과학 연",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n보통 사람들은 매일 수 시간씩 컴퓨터를 그냥 켜둔다. 그 컴퓨터의 유휴 처리 능력 일부가 새로운 펄서(고속 자전 중성자별) 탐색이나 기후 시스템 모델링, 혹은 의학 연구에 활용된다면 어떨까?\n\n\n\n바로 이것이 BOINC(Berkeley Open Infrastructure for Network Computing, 버클리 오픈 인프라스트럭처 포 네트워크 컴퓨팅)과 같은 분산 컴퓨팅 프로젝트의 핵심 개념이다. BOINC은 자원봉사자들이 PC, 노트북, 안드로이드 기기의 유휴 컴퓨팅 파워를 과학 연"
+        },
+        {
+          "title": "홈 카메라 4K 녹화·AI 분석 등 애플 인텔리전스 홈, 최상위 요금제 전용",
+          "link": "https://www.itworld.co.kr/article/4194682/%ed%99%88-%ec%b9%b4%eb%a9%94%eb%9d%bc-4k-%eb%85%b9%ed%99%94%c2%b7ai-%eb%b6%84%ec%84%9d-%eb%93%b1-%ec%95%a0%ed%94%8c-%ec%9d%b8%ed%85%94%eb%a6%ac%ec%a0%84%ec%8a%a4-%ed%99%88-%ec%b5%9c%ec%83%81%ec%9c%84.html",
+          "date": "2026-07-09",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\nOS 27 업데이트(iOS, 맥OS, 아이패드OS 등)는 홈 앱에 AI 기반 기능을 여럿 추가했다. 추가된 기능 대부분은 홈킷 보안 비디오를 지원하는 카메라의 영상 처리와 관련이 있다. 희소식은, 그동안 경쟁 제품에 뒤처진다는 평가를 받아온 홈 카메라 경험을 이번 기능들이 크게 끌어올린다는 점이다. 아쉬운 소식은 비용이 따른다는 것이다. 기능을 사용하려면 아이클라우드+ 2TB 요금제가 필요하다.\n\n\n\n애플은 맥OS 27 베타 3 개발자 릴리즈 노트를 통해 이 요구 사항을 공개했다. iOS나 아이패드OS에서 AI 기능을 사용할 때도 동일하게 적용된다. 홈 앱에서 애플 인텔리전스를 활성화하려면 아이클라우드+ 2TB 구독이 필요하다.\n\n\nApple\n\n\n\n홈 앱에 새로 추가된 AI 기능 중 하나는 여러 카메라의 활동을 하나의 이벤트로 통합하는 기능이다. 동일한 인물이나 사건이 복수의 카메라에 포착된 경우, 단일 이벤트로 묶어 설명 텍스트와 함께 연속",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/07/4194682-0-43380400-1783556333-home-AI-OS-27.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "홈 카메라 4K 녹화·AI 분석 등 애플 인텔리전스 홈, 최상위 요금제 전용",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\nOS 27 업데이트(iOS, 맥OS, 아이패드OS 등)는 홈 앱에 AI 기반 기능을 여럿 추가했다. 추가된 기능 대부분은 홈킷 보안 비디오를 지원하는 카메라의 영상 처리와 관련이 있다. 희소식은, 그동안 경쟁 제품에 뒤처진다는 평가를 받아온 홈 카메라 경험을 이번 기능들이 크게 끌어올린다는 점이다. 아쉬운 소식은 비용이 따른다는 것이다. 기능을 사용하려면 아이클라우드+ 2TB 요금제가 필요하다.\n\n\n\n애플은 맥OS 27 베타 3 개발자 릴리즈 노트를 통해 이 요구 사항을 공개했다. iOS나 ",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\nOS 27 업데이트(iOS, 맥OS, 아이패드OS 등)는 홈 앱에 AI 기반 기능을 여럿 추가했다. 추가된 기능 대부분은 홈킷 보안 비디오를 지원하는 카메라의 영상 처리와 관련이 있다. 희소식은, 그동안 경쟁 제품에 뒤처진다는 평가를 받아온 홈 카메라 경험을 이번 기능들이 크게 끌어올린다는 점이다. 아쉬운 소식은 비용이 따른다는 것이다. 기능을 사용하려면 아이클라우드+ 2TB 요금제가 필요하다.\n\n\n\n애플은 맥OS 27 베타 3 개발자 릴리즈 노트를 통해 이 요구 사항을 공개했다. iOS나 "
+        },
+        {
+          "title": "Meta’s Muse Image Might be Just What SMBs Need",
+          "link": "https://aibusiness.com/generative-ai/meta-s-muse-image-might-what-smbs-need",
+          "date": "2026-07-09",
+          "source": "AI Business",
+          "description": "Meta’s new AI imaging model enables users to create competitive ad content on the social media giant’s platforms.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt2df1ceb52f57867e/6a4ed41c7e48d795992985df/MetaAI.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Meta’s Muse Image Might be Just What SMBs Need",
+          "original_summary": "Meta’s new AI imaging model enables users to create competitive ad content on the social media giant’s platforms.",
+          "summary": "Meta’s new AI imaging model enables users to create competitive ad content on the social media giant’s platforms."
+        },
         {
           "title": "울산산업 인공지능 전환 협의체 출범 \"대한민국 AX 거점으로\"",
           "link": "https://www.yna.co.kr/view/AKR20260708176900057",
@@ -131,19 +203,6 @@
           "category": "AI Model"
         },
         {
-          "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
-          "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
-          "date": "2026-07-09",
-          "source": "HuggingFace",
-          "description": "• Ornith-1.0-35B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%A6%A2%EF%B8%8F%20Ornith%20Blog%20-FD8E5B",
-          "is_english": true,
-          "summary": "• Ornith-1.0-35B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "AliesTaha/fable-traces",
           "link": "https://huggingface.co/AliesTaha/fable-traces",
           "date": "2026-07-09",
@@ -157,15 +216,15 @@
           "category": "AI Model"
         },
         {
-          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
           "date": "2026-07-09",
           "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "description": "• Ornith-1.0-35B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%A6%A2%EF%B8%8F%20Ornith%20Blog%20-FD8E5B",
           "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "summary": "• Ornith-1.0-35B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -179,6 +238,19 @@
           "is_english": true,
           "summary": "• Leanstral-1.5-119B-A6B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "mistralai/Leanstral-1.5-119B-A6B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "date": "2026-07-09",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -209,19 +281,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/Qwen3.6-27B-NVFP4",
-          "link": "https://huggingface.co/nvidia/Qwen3.6-27B-NVFP4",
-          "date": "2026-07-09",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-27B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.6-27B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/Qwen3.6-27B-NVFP4",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "froggeric/Qwen-Fixed-Chat-Templates",
           "link": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
           "date": "2026-07-09",
@@ -231,6 +290,19 @@
           "is_english": true,
           "summary": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "froggeric/Qwen-Fixed-Chat-Templates",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/Qwen3.6-27B-NVFP4",
+          "link": "https://huggingface.co/nvidia/Qwen3.6-27B-NVFP4",
+          "date": "2026-07-09",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-27B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.6-27B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/Qwen3.6-27B-NVFP4",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -261,19 +333,6 @@
           "category": "AI Model"
         },
         {
-          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
-          "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
-          "date": "2026-07-09",
-          "source": "HuggingFace",
-          "description": "• Qwythos-9B-Claude-Mythos-5-1M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M/resolve/main/assets/qwythos.png",
-          "is_english": true,
-          "summary": "• Qwythos-9B-Claude-Mythos-5-1M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nvidia/LocateAnything-3B",
           "link": "https://huggingface.co/nvidia/LocateAnything-3B",
           "date": "2026-07-09",
@@ -283,6 +342,19 @@
           "is_english": true,
           "summary": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nvidia/LocateAnything-3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+          "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
+          "date": "2026-07-09",
+          "source": "HuggingFace",
+          "description": "• Qwythos-9B-Claude-Mythos-5-1M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M/resolve/main/assets/qwythos.png",
+          "is_english": true,
+          "summary": "• Qwythos-9B-Claude-Mythos-5-1M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -316,8 +388,20 @@
     },
     {
       "date": "2026-07-08",
-      "update_time": "2026-07-08 21:59:00",
+      "update_time": "2026-07-09 01:55:21",
       "news": [
+        {
+          "title": "Lovable reportedly in talks to double its valuation to $13.2B",
+          "link": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
+          "date": "2026-07-08",
+          "source": "TechCrunch",
+          "description": "The $300 million round is expected to be led by Menlo Ventures, Sifted reported. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2245627953.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Lovable reportedly in talks to double its valuation to $13.2B",
+          "original_summary": "The $300 million round is expected to be led by Menlo Ventures, Sifted reported. ",
+          "summary": "The $300 million round is expected to be led by Menlo Ventures, Sifted reported. "
+        },
         {
           "title": "Our approach to government and national security partnerships",
           "link": "https://openai.com/index/government-national-security-partnerships",
