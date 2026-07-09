@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-07-10",
-      "update_time": "2026-07-09 19:22:06",
+      "update_time": "2026-07-09 22:13:50",
       "news": [
+        {
+          "title": "AA 순위 뒤흔든 GPT-5.6 시리즈…‘루나’, 대세 GLM-5.2 위협",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212604",
+          "date": "2026-07-10",
+          "source": "AI타임스",
+          "description": "오픈AI가 ‘GPT-5.6 솔(Sol)’과 ‘테라(Terra)’ ‘루나(Luna)’를 시장에 정식 출시했다.외부 벤치마크 평가 결과, 최상위권 지능을 유지하면서도 비용을 획기적으로 낮추며 역대 최고의 가성비(파레토 최적화)를 갖춘 것으로 드러났다.오픈AI는 9일(현지시간) GPT-5.6을 챗GPT와 코덱스, API를 통해 전 세계에 배포하기 시작했다. 24시간 동안 단계적으로 전체 사용자에게 제공될 예정이다.이중 GPT-5.6 솔은 챗GPT 플러스와 프로, 비즈니스, 엔터프라이즈 사용자가 중간 및 높은 수준의 작업 부하 설정에서 이",
+          "image": "https://cdn.aitimes.com/news/photo/202607/212604_215913_318.png",
+          "is_english": true,
+          "original_title": "AA 순위 뒤흔든 GPT-5.6 시리즈…‘루나’, 대세 GLM-5.2 위협",
+          "original_summary": "오픈AI가 ‘GPT-5.6 솔(Sol)’과 ‘테라(Terra)’ ‘루나(Luna)’를 시장에 정식 출시했다.외부 벤치마크 평가 결과, 최상위권 지능을 유지하면서도 비용을 획기적으로 낮추며 역대 최고의 가성비(파레토 최적화)를 갖춘 것으로 드러났다.오픈AI는 9일(현지시간) GPT-5.6을 챗GPT와 코덱스, API를 통해 전 세계에 배포하기 시작했다. 24시간 동안 단계적으로 전체 사용자에게 제공될 예정이다.이중 GPT-5.6 솔은 챗GPT 플러스와 프로, 비즈니스, 엔터프라이즈 사용자가 중간 및 높은 수준의 작업 부하 설정에서 이",
+          "summary": "오픈AI가 ‘GPT-5.6 솔(Sol)’과 ‘테라(Terra)’ ‘루나(Luna)’를 시장에 정식 출시했다.외부 벤치마크 평가 결과, 최상위권 지능을 유지하면서도 비용을 획기적으로 낮추며 역대 최고의 가성비(파레토 최적화)를 갖춘 것으로 드러났다.오픈AI는 9일(현지시간) GPT-5.6을 챗GPT와 코덱스, API를 통해 전 세계에 배포하기 시작했다. 24시간 동안 단계적으로 전체 사용자에게 제공될 예정이다.이중 GPT-5.6 솔은 챗GPT 플러스와 프로, 비즈니스, 엔터프라이즈 사용자가 중간 및 높은 수준의 작업 부하 설정에서 이"
+        },
         {
           "title": "IBM Extends Bob AI Platform With Array of New Features",
           "link": "https://aibusiness.com/agentic-ai/ibm-extends-bob-ai-platform-array-new-features",
@@ -172,19 +184,6 @@
           "category": "AI Model"
         },
         {
-          "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
-          "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
-          "date": "2026-07-10",
-          "source": "HuggingFace",
-          "description": "• Ornith-1.0-35B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%A6%A2%EF%B8%8F%20Ornith%20Blog%20-FD8E5B",
-          "is_english": true,
-          "summary": "• Ornith-1.0-35B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "date": "2026-07-10",
@@ -194,6 +193,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "date": "2026-07-10",
+          "source": "HuggingFace",
+          "description": "• Ornith-1.0-35B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%A6%A2%EF%B8%8F%20Ornith%20Blog%20-FD8E5B",
+          "is_english": true,
+          "summary": "• Ornith-1.0-35B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -292,8 +304,80 @@
     },
     {
       "date": "2026-07-09",
-      "update_time": "2026-07-09 19:22:04",
+      "update_time": "2026-07-09 22:13:49",
       "news": [
+        {
+          "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+          "link": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+          "date": "2026-07-09",
+          "source": "OpenAI",
+          "description": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+          "image": null,
+          "is_english": true,
+          "original_title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+          "original_summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work.",
+          "summary": "Learn how GPT-5.6 powers Microsoft 365 Copilot with stronger AI capabilities across Word, Excel, PowerPoint, Chat, and Cowork for faster, higher-quality work."
+        },
+        {
+          "title": "An AI agent startup just let its agent run its $100 million fundraise",
+          "link": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
+          "date": "2026-07-09",
+          "source": "TechCrunch",
+          "description": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/Lyzr-graphic.png?resize=1200,658",
+          "is_english": true,
+          "original_title": "An AI agent startup just let its agent run its $100 million fundraise",
+          "original_summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works.",
+          "summary": "Lyzr, a startup that builds AI agents for enterprises, used its own AI agent to raise a $100 million round — proof, evidently, that the product actually works."
+        },
+        {
+          "title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+          "link": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+          "date": "2026-07-09",
+          "source": "TechCrunch",
+          "description": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/chatgpt-app-browser.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "OpenAI is shutting down Atlas, but its AI browser ambitions are still growing",
+          "original_summary": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension. ",
+          "summary": "OpenAI is sunsetting its AI-powered browser after less than a year. But it's moving some agentic browsing features to its desktop app and a Chrome extension. "
+        },
+        {
+          "title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+          "link": "https://techcrunch.com/2026/07/09/elon-musk-praises-mythos-fable-promises-not-to-cut-off-anthropic/",
+          "date": "2026-07-09",
+          "source": "TechCrunch",
+          "description": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2087343879.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Elon Musk praises Mythos/Fable, promises not to ‘cut off’ Anthropic",
+          "original_summary": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can. ",
+          "summary": "Should Anthropic trust Elon Musk to host its models? With about $40 billion in revenue at stake, Musk insists that the company can. "
+        },
+        {
+          "title": "Can AI answer the $3 trillion question?",
+          "link": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
+          "date": "2026-07-09",
+          "source": "TechCrunch",
+          "description": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/Chip-chips-dollar-signs-money.png?resize=1200,960",
+          "is_english": true,
+          "original_title": "Can AI answer the $3 trillion question?",
+          "original_summary": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences.",
+          "summary": "The AI ROI debate has returned and the numbers are even bigger, as are, perhaps, the consequences."
+        },
+        {
+          "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+          "link": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+          "date": "2026-07-09",
+          "source": "TechCrunch",
+          "description": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+          "original_summary": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide.",
+          "summary": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide."
+        },
         {
           "title": "GPT-5.5 Bio Bug Bounty",
           "link": "https://openai.com/index/bio-bug-bounty",
