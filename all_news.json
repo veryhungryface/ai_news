@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-07-10",
-      "update_time": "2026-07-10 11:44:10",
+      "update_time": "2026-07-10 13:57:43",
       "news": [
         {
           "title": "\"내 클로드 사용 습관 분석한다\"…앤트로픽, '리플렉트' 기능 베타 출시",
@@ -645,19 +645,6 @@
           "category": "AI Model"
         },
         {
-          "title": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark",
-          "date": "2026-07-10",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Pro-DSpark 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
-          "is_english": true,
-          "summary": "• DeepSeek-V4-Pro-DSpark 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "open-gigaai/Giga-World-1",
           "link": "https://huggingface.co/open-gigaai/Giga-World-1",
           "date": "2026-07-10",
@@ -667,6 +654,19 @@
           "is_english": true,
           "summary": "• Giga-World-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "open-gigaai/Giga-World-1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-DSpark",
+          "date": "2026-07-10",
+          "source": "HuggingFace",
+          "description": "• DeepSeek-V4-Pro-DSpark 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
+          "is_english": true,
+          "summary": "• DeepSeek-V4-Pro-DSpark 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepseek-ai/DeepSeek-V4-Pro-DSpark",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
