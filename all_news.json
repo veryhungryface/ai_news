@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-07-11",
-      "update_time": "2026-07-10 19:16:03",
+      "update_time": "2026-07-10 21:52:14",
       "news": [
+        {
+          "title": "SK하이닉스, 나스닥 상장 첫날 13% 급등…\"로봇·에이전트로 수요 폭발\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212651",
+          "date": "2026-07-11",
+          "source": "AI타임스",
+          "description": "SK하이닉스가 미국 나스닥 시장 데뷔 첫날 주가가 13% 이상 급등하며 글로벌 AI 반도체 시장의 핵심 공급망으로서의 위상을 입증했다.10일(현지시간) 나스닥 시장에 상장된 SK하이닉스의 미국 예탁증권(ADR)은 공모가인 149달러보다 13% 상승한 168.01달러(약 25만2400원)로 거래를 마쳤다. 장중 한때는 170달러까지 치솟기도 했다.SK하이닉스는 이번 나스닥 상장을 통해 총 265억달러(약 39조8136억원) 규모의 재원을 조달하는 데 성공했다. 이 자금을 차세대 AI 메모리 신공장 건설 및 설비 투자 등 공격적인 글로",
+          "image": "https://cdn.aitimes.com/news/photo/202607/212651_215970_4617.jpg",
+          "is_english": false,
+          "original_title": "SK하이닉스, 나스닥 상장 첫날 13% 급등…\"로봇·에이전트로 수요 폭발\"",
+          "original_summary": "SK하이닉스가 미국 나스닥 시장 데뷔 첫날 주가가 13% 이상 급등하며 글로벌 AI 반도체 시장의 핵심 공급망으로서의 위상을 입증했다.10일(현지시간) 나스닥 시장에 상장된 SK하이닉스의 미국 예탁증권(ADR)은 공모가인 149달러보다 13% 상승한 168.01달러(약 25만2400원)로 거래를 마쳤다. 장중 한때는 170달러까지 치솟기도 했다.SK하이닉스는 이번 나스닥 상장을 통해 총 265억달러(약 39조8136억원) 규모의 재원을 조달하는 데 성공했다. 이 자금을 차세대 AI 메모리 신공장 건설 및 설비 투자 등 공격적인 글로",
+          "summary": "SK하이닉스가 미국 나스닥 시장 데뷔 첫날 주가가 13% 이상 급등하며 글로벌 AI 반도체 시장의 핵심 공급망으로서의 위상을 입증했다.10일(현지시간) 나스닥 시장에 상장된 SK하이닉스의 미국 예탁증권(ADR)은 공모가인 149달러보다 13% 상승한 168.01달러(약 25만2400원)로 거래를 마쳤다. 장중 한때는 170달러까지 치솟기도 했다.SK하이닉스는 이번 나스닥 상장을 통해 총 265억달러(약 39조8136억원) 규모의 재원을 조달하는 데 성공했다. 이 자금을 차세대 AI 메모리 신공장 건설 및 설비 투자 등 공격적인 글로"
+        },
         {
           "title": "New Dashboard Tool Lets You Monitor Claude Usage",
           "link": "https://aibusiness.com/generative-ai/new-dashboard-tool-lets-you-monitor-claude-usage",
@@ -95,19 +107,6 @@
           "category": "AI Model"
         },
         {
-          "title": "AliesTaha/fable-traces",
-          "link": "https://huggingface.co/AliesTaha/fable-traces",
-          "date": "2026-07-11",
-          "source": "HuggingFace",
-          "description": "• fable-traces 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• fable-traces 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "AliesTaha/fable-traces",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "google/tabfm-1.0.0-pytorch",
           "link": "https://huggingface.co/google/tabfm-1.0.0-pytorch",
           "date": "2026-07-11",
@@ -117,6 +116,19 @@
           "is_english": true,
           "summary": "• tabfm-1.0.0-pytorch 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "google/tabfm-1.0.0-pytorch",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "AliesTaha/fable-traces",
+          "link": "https://huggingface.co/AliesTaha/fable-traces",
+          "date": "2026-07-11",
+          "source": "HuggingFace",
+          "description": "• fable-traces 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• fable-traces 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "AliesTaha/fable-traces",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -173,19 +185,6 @@
           "category": "AI Model"
         },
         {
-          "title": "mistralai/Leanstral-1.5-119B-A6B",
-          "link": "https://huggingface.co/mistralai/Leanstral-1.5-119B-A6B",
-          "date": "2026-07-11",
-          "source": "HuggingFace",
-          "description": "• Leanstral-1.5-119B-A6B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/66775fab8c58c5a12ae629ac/u5R3aWfUizTaxGemat-lU.png",
-          "is_english": true,
-          "summary": "• Leanstral-1.5-119B-A6B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "mistralai/Leanstral-1.5-119B-A6B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
           "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
           "date": "2026-07-11",
@@ -195,6 +194,19 @@
           "is_english": true,
           "summary": "• Ornith-1.0-35B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "mistralai/Leanstral-1.5-119B-A6B",
+          "link": "https://huggingface.co/mistralai/Leanstral-1.5-119B-A6B",
+          "date": "2026-07-11",
+          "source": "HuggingFace",
+          "description": "• Leanstral-1.5-119B-A6B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/66775fab8c58c5a12ae629ac/u5R3aWfUizTaxGemat-lU.png",
+          "is_english": true,
+          "summary": "• Leanstral-1.5-119B-A6B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "mistralai/Leanstral-1.5-119B-A6B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -280,8 +292,32 @@
     },
     {
       "date": "2026-07-10",
-      "update_time": "2026-07-10 19:16:03",
+      "update_time": "2026-07-10 21:52:14",
       "news": [
+        {
+          "title": "Apple sues OpenAI over alleged trade secret theft",
+          "link": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+          "date": "2026-07-10",
+          "source": "TechCrunch",
+          "description": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/tim-cook-sam-altman-GettyImages-2233062347.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Apple sues OpenAI over alleged trade secret theft",
+          "original_summary": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.",
+          "summary": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee."
+        },
+        {
+          "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+          "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+          "date": "2026-07-10",
+          "source": "TechCrunch",
+          "description": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start [&#8230;]",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/08/11f5fd43-3e13-4313-a003-9d36a81e3fde.png?resize=1200,602",
+          "is_english": true,
+          "original_title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+          "original_summary": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same st",
+          "summary": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same st"
+        },
         {
           "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
           "link": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
