@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-07-11",
-      "update_time": "2026-07-11 10:10:16",
+      "update_time": "2026-07-11 12:54:59",
       "news": [
         {
           "title": "\"여러 모델 섞어 써도 한계 명확\"…통념 깨진 '오케스트레이션' 효과",
@@ -439,19 +439,6 @@
           "category": "AI Model"
         },
         {
-          "title": "AliesTaha/fable-traces",
-          "link": "https://huggingface.co/AliesTaha/fable-traces",
-          "date": "2026-07-11",
-          "source": "HuggingFace",
-          "description": "• fable-traces 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• fable-traces 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "AliesTaha/fable-traces",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
           "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
           "date": "2026-07-11",
@@ -461,19 +448,6 @@
           "is_english": true,
           "summary": "• gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "mistralai/Leanstral-1.5-119B-A6B",
-          "link": "https://huggingface.co/mistralai/Leanstral-1.5-119B-A6B",
-          "date": "2026-07-11",
-          "source": "HuggingFace",
-          "description": "• Leanstral-1.5-119B-A6B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/66775fab8c58c5a12ae629ac/u5R3aWfUizTaxGemat-lU.png",
-          "is_english": true,
-          "summary": "• Leanstral-1.5-119B-A6B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "mistralai/Leanstral-1.5-119B-A6B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -491,15 +465,28 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/LocateAnything-3B",
-          "link": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "title": "AliesTaha/fable-traces",
+          "link": "https://huggingface.co/AliesTaha/fable-traces",
           "date": "2026-07-11",
           "source": "HuggingFace",
-          "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
+          "description": "• fable-traces 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/LocateAnything-3B",
+          "summary": "• fable-traces 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "AliesTaha/fable-traces",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "mistralai/Leanstral-1.5-119B-A6B",
+          "link": "https://huggingface.co/mistralai/Leanstral-1.5-119B-A6B",
+          "date": "2026-07-11",
+          "source": "HuggingFace",
+          "description": "• Leanstral-1.5-119B-A6B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/66775fab8c58c5a12ae629ac/u5R3aWfUizTaxGemat-lU.png",
+          "is_english": true,
+          "summary": "• Leanstral-1.5-119B-A6B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "mistralai/Leanstral-1.5-119B-A6B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -513,6 +500,19 @@
           "is_english": true,
           "summary": "• MOSS-Transcribe-Diarize 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/LocateAnything-3B",
+          "link": "https://huggingface.co/nvidia/LocateAnything-3B",
+          "date": "2026-07-11",
+          "source": "HuggingFace",
+          "description": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/nvidia/LocateAnything-3B/resolve/main/assets/teaser.jpg",
+          "is_english": true,
+          "summary": "• LocateAnything-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/LocateAnything-3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
