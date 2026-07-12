@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-07-12",
-      "update_time": "2026-07-12 05:48:23",
+      "update_time": "2026-07-12 07:59:41",
       "news": [
+        {
+          "title": "안동시, 안동·임하댐 물 활용 AI 데이터센터 유치 추진",
+          "link": "https://www.yna.co.kr/view/AKR20260712034900053",
+          "date": "2026-07-12",
+          "source": "연합뉴스",
+          "description": "(안동=연합뉴스) 김선형 기자 = 경북 안동시는 안동댐과 임하댐에 담수된 물을 활용한 인공지능(AI) 데이터센터 유치에 본격적으로 나선다고 12...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/07/12/AKR20260712034900053_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "안동시, 안동·임하댐 물 활용 AI 데이터센터 유치 추진",
+          "original_summary": "(안동=연합뉴스) 김선형 기자 = 경북 안동시는 안동댐과 임하댐에 담수된 물을 활용한 인공지능(AI) 데이터센터 유치에 본격적으로 나선다고 12...",
+          "summary": "(안동=연합뉴스) 김선형 기자 = 경북 안동시는 안동댐과 임하댐에 담수된 물을 활용한 인공지능(AI) 데이터센터 유치에 본격적으로 나선다고 12..."
+        },
         {
           "title": "KAIST, 집에서 뇌혈관질환 위험 신호 미리 찾는 AI 기술 개발",
           "link": "https://www.yna.co.kr/view/AKR20260710130200063",
@@ -327,19 +339,6 @@
           "category": "AI Model"
         },
         {
-          "title": "google/tabfm-1.0.0-pytorch",
-          "link": "https://huggingface.co/google/tabfm-1.0.0-pytorch",
-          "date": "2026-07-12",
-          "source": "HuggingFace",
-          "description": "• tabfm-1.0.0-pytorch 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• tabfm-1.0.0-pytorch 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/tabfm-1.0.0-pytorch",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
           "link": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
           "date": "2026-07-12",
@@ -349,6 +348,19 @@
           "is_english": true,
           "summary": "• MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "google/tabfm-1.0.0-pytorch",
+          "link": "https://huggingface.co/google/tabfm-1.0.0-pytorch",
+          "date": "2026-07-12",
+          "source": "HuggingFace",
+          "description": "• tabfm-1.0.0-pytorch 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• tabfm-1.0.0-pytorch 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/tabfm-1.0.0-pytorch",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
