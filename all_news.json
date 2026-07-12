@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-07-12",
-      "update_time": "2026-07-12 10:19:00",
+      "update_time": "2026-07-12 12:55:48",
       "news": [
         {
           "title": "\"오픈AI 의존도 낮춘다더니\"...MS가 'GPT-5.6'을 권장 모델로 채택한 이유",
@@ -260,19 +260,6 @@
           "category": "AI Model"
         },
         {
-          "title": "InternScience/Agents-A1",
-          "link": "https://huggingface.co/InternScience/Agents-A1",
-          "date": "2026-07-12",
-          "source": "HuggingFace",
-          "description": "• Agents-A1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/InternScience/Agents-A1/resolve/main/./figures/24px.svg",
-          "is_english": true,
-          "summary": "• Agents-A1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "InternScience/Agents-A1",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
           "link": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B",
           "date": "2026-07-12",
@@ -282,6 +269,19 @@
           "is_english": true,
           "summary": "• ThinkingCap-Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "InternScience/Agents-A1",
+          "link": "https://huggingface.co/InternScience/Agents-A1",
+          "date": "2026-07-12",
+          "source": "HuggingFace",
+          "description": "• Agents-A1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/InternScience/Agents-A1/resolve/main/./figures/24px.svg",
+          "is_english": true,
+          "summary": "• Agents-A1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "InternScience/Agents-A1",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -299,19 +299,6 @@
           "category": "AI Model"
         },
         {
-          "title": "baidu/Unlimited-OCR",
-          "link": "https://huggingface.co/baidu/Unlimited-OCR",
-          "date": "2026-07-12",
-          "source": "HuggingFace",
-          "description": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/baidu/Unlimited-OCR/resolve/main/assets/baidu.png",
-          "is_english": true,
-          "summary": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "baidu/Unlimited-OCR",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "conradlocke/krea2-identity-edit",
           "link": "https://huggingface.co/conradlocke/krea2-identity-edit",
           "date": "2026-07-12",
@@ -321,6 +308,19 @@
           "is_english": true,
           "summary": "• krea2-identity-edit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "conradlocke/krea2-identity-edit",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "link": "https://huggingface.co/baidu/Unlimited-OCR",
+          "date": "2026-07-12",
+          "source": "HuggingFace",
+          "description": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/baidu/Unlimited-OCR/resolve/main/assets/baidu.png",
+          "is_english": true,
+          "summary": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "baidu/Unlimited-OCR",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -364,19 +364,6 @@
           "category": "AI Model"
         },
         {
-          "title": "google/tabfm-1.0.0-pytorch",
-          "link": "https://huggingface.co/google/tabfm-1.0.0-pytorch",
-          "date": "2026-07-12",
-          "source": "HuggingFace",
-          "description": "• tabfm-1.0.0-pytorch 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• tabfm-1.0.0-pytorch 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/tabfm-1.0.0-pytorch",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/DeepSeek-V4-Flash-GGUF",
           "link": "https://huggingface.co/unsloth/DeepSeek-V4-Flash-GGUF",
           "date": "2026-07-12",
@@ -390,15 +377,15 @@
           "category": "AI Model"
         },
         {
-          "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
-          "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "title": "google/tabfm-1.0.0-pytorch",
+          "link": "https://huggingface.co/google/tabfm-1.0.0-pytorch",
           "date": "2026-07-12",
           "source": "HuggingFace",
-          "description": "• Ornith-1.0-35B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%A6%A2%EF%B8%8F%20Ornith%20Blog%20-FD8E5B",
+          "description": "• tabfm-1.0.0-pytorch 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• Ornith-1.0-35B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "summary": "• tabfm-1.0.0-pytorch 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/tabfm-1.0.0-pytorch",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -412,6 +399,19 @@
           "is_english": true,
           "summary": "• Nemotron-Labs-Audex-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nvidia/Nemotron-Labs-Audex-30B-A3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "date": "2026-07-12",
+          "source": "HuggingFace",
+          "description": "• Ornith-1.0-35B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%A6%A2%EF%B8%8F%20Ornith%20Blog%20-FD8E5B",
+          "is_english": true,
+          "summary": "• Ornith-1.0-35B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
