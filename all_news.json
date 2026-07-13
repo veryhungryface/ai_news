@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-07-14",
-      "update_time": "2026-07-13 19:11:55",
+      "update_time": "2026-07-13 21:44:45",
       "news": [
+        {
+          "title": "\"AI 시대에도 질문하는건 인간\"…서울미래인재재단 명사 특강",
+          "link": "https://www.yna.co.kr/view/AKR20260713161300004",
+          "date": "2026-07-14",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 김동규 기자 = 서울미래인재단은 14일 오후 재단 커뮤니티센터에서 &apos;인공지능(AI) 시대 인간에게 남는 질문&apos;을 주제로 명사 ...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/07/13/AKR20260713161300004_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "\"AI 시대에도 질문하는건 인간\"…서울미래인재재단 명사 특강",
+          "original_summary": "(서울=연합뉴스) 김동규 기자 = 서울미래인재단은 14일 오후 재단 커뮤니티센터에서 &apos;인공지능(AI) 시대 인간에게 남는 질문&apos;을 주제로 명사 ...",
+          "summary": "(서울=연합뉴스) 김동규 기자 = 서울미래인재단은 14일 오후 재단 커뮤니티센터에서 &apos;인공지능(AI) 시대 인간에게 남는 질문&apos;을 주제로 명사 ..."
+        },
+        {
+          "title": "How Enterprises Should Respond to Economists’ AI Risk Letter",
+          "link": "https://aibusiness.com/generative-ai/how-enterprises-should-respond-economists-ai-risk-letter",
+          "date": "2026-07-14",
+          "source": "AI Business",
+          "description": "With this letter, policy changes may be coming, so enterprises should attempt to get ahead of them.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blta0782d253d5372df/6a554d13e49c54662077bc2d/Jobs.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "How Enterprises Should Respond to Economists’ AI Risk Letter",
+          "original_summary": "With this letter, policy changes may be coming, so enterprises should attempt to get ahead of them.",
+          "summary": "With this letter, policy changes may be coming, so enterprises should attempt to get ahead of them."
+        },
         {
           "title": "Chinese Tech Vendors Converge on Humanoid Robotics and Embodied AI",
           "link": "https://aibusiness.com/robotics/chinese-tech-vendors-converge-humanoid-robotics-embodied-ai",
@@ -147,19 +171,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/DeepSeek-V4-Flash-GGUF",
-          "link": "https://huggingface.co/unsloth/DeepSeek-V4-Flash-GGUF",
-          "date": "2026-07-14",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Flash-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
-          "is_english": true,
-          "summary": "• DeepSeek-V4-Flash-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/DeepSeek-V4-Flash-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nvidia/Nemotron-Labs-Audex-30B-A3B",
           "link": "https://huggingface.co/nvidia/Nemotron-Labs-Audex-30B-A3B",
           "date": "2026-07-14",
@@ -169,6 +180,19 @@
           "is_english": true,
           "summary": "• Nemotron-Labs-Audex-30B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nvidia/Nemotron-Labs-Audex-30B-A3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/DeepSeek-V4-Flash-GGUF",
+          "link": "https://huggingface.co/unsloth/DeepSeek-V4-Flash-GGUF",
+          "date": "2026-07-14",
+          "source": "HuggingFace",
+          "description": "• DeepSeek-V4-Flash-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "is_english": true,
+          "summary": "• DeepSeek-V4-Flash-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/DeepSeek-V4-Flash-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -264,15 +288,15 @@
           "category": "AI Model"
         },
         {
-          "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
-          "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "title": "robbyant/lingbot-video-moe-30b-a3b",
+          "link": "https://huggingface.co/robbyant/lingbot-video-moe-30b-a3b",
           "date": "2026-07-14",
           "source": "HuggingFace",
-          "description": "• Ornith-1.0-35B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%A6%A2%EF%B8%8F%20Ornith%20Blog%20-FD8E5B",
+          "description": "• lingbot-video-moe-30b-a3b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• Ornith-1.0-35B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "summary": "• lingbot-video-moe-30b-a3b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "robbyant/lingbot-video-moe-30b-a3b",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -280,8 +304,32 @@
     },
     {
       "date": "2026-07-13",
-      "update_time": "2026-07-13 19:11:54",
+      "update_time": "2026-07-13 21:44:44",
       "news": [
+        {
+          "title": "Satya Nadella has issued a shocking warning to companies using AI",
+          "link": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
+          "date": "2026-07-13",
+          "source": "TechCrunch",
+          "description": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses.",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706504.jpg?resize=1200,783",
+          "is_english": true,
+          "original_title": "Satya Nadella has issued a shocking warning to companies using AI",
+          "original_summary": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses.",
+          "summary": "Of all the debates raging about the potential downsides of AI, there is one worry causing the most hand-wringing among AI enthusiasts in Silicon Valley — that the giant AI labs that sell proprietary models are somehow acting like Trojan horses."
+        },
+        {
+          "title": "How MIT students are helping to prevent cyberattacks",
+          "link": "https://news.mit.edu/2026/mit-cybersecurity-clinic-preventing-cyberattacks-0713",
+          "date": "2026-07-13",
+          "source": "MIT News",
+          "description": "Students from the MIT Cybersecurity Clinic help local governments and other vulnerable organizations defend against digital threats.",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/mit-dusp-Cybersecurity-Clinic.jpg?itok=EOIqtxuK",
+          "is_english": true,
+          "original_title": "How MIT students are helping to prevent cyberattacks",
+          "original_summary": "Students from the MIT Cybersecurity Clinic help local governments and other vulnerable organizations defend against digital threats.",
+          "summary": "Students from the MIT Cybersecurity Clinic help local governments and other vulnerable organizations defend against digital threats."
+        },
         {
           "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
           "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
