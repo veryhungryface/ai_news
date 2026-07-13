@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-07-14",
-      "update_time": "2026-07-13 17:06:40",
+      "update_time": "2026-07-13 19:11:55",
       "news": [
         {
           "title": "Chinese Tech Vendors Converge on Humanoid Robotics and Embodied AI",
@@ -225,19 +225,6 @@
           "category": "AI Model"
         },
         {
-          "title": "google/tabfm-1.0.0-pytorch",
-          "link": "https://huggingface.co/google/tabfm-1.0.0-pytorch",
-          "date": "2026-07-14",
-          "source": "HuggingFace",
-          "description": "• tabfm-1.0.0-pytorch 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• tabfm-1.0.0-pytorch 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/tabfm-1.0.0-pytorch",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Alissonerdx/LTX-Best-Face-ID",
           "link": "https://huggingface.co/Alissonerdx/LTX-Best-Face-ID",
           "date": "2026-07-14",
@@ -251,15 +238,15 @@
           "category": "AI Model"
         },
         {
-          "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
-          "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "title": "google/tabfm-1.0.0-pytorch",
+          "link": "https://huggingface.co/google/tabfm-1.0.0-pytorch",
           "date": "2026-07-14",
           "source": "HuggingFace",
-          "description": "• Ornith-1.0-35B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%A6%A2%EF%B8%8F%20Ornith%20Blog%20-FD8E5B",
+          "description": "• tabfm-1.0.0-pytorch 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• Ornith-1.0-35B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "summary": "• tabfm-1.0.0-pytorch 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/tabfm-1.0.0-pytorch",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -275,13 +262,62 @@
           "translated_title": "migtissera/Tess-4-27B",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "date": "2026-07-14",
+          "source": "HuggingFace",
+          "description": "• Ornith-1.0-35B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%A6%A2%EF%B8%8F%20Ornith%20Blog%20-FD8E5B",
+          "is_english": true,
+          "summary": "• Ornith-1.0-35B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-07-13",
-      "update_time": "2026-07-13 17:06:40",
+      "update_time": "2026-07-13 19:11:54",
       "news": [
+        {
+          "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+          "link": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+          "date": "2026-07-13",
+          "source": "TechCrunch",
+          "description": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/tim-cook-sam-altman-GettyImages-2233062347.jpg?w=1024",
+          "is_english": true,
+          "original_title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+          "original_summary": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims.",
+          "summary": "Apple’s trade secrets lawsuit against OpenAI contains allegations that range from employees joking about unauthorized access to Apple’s systems to claims that job candidates were asked to bring Apple hardware to interviews. Here are the complaint’s most eye-catching claims."
+        },
+        {
+          "title": "Sam Altman’s space data center trash talk is what most experts already believe",
+          "link": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
+          "date": "2026-07-13",
+          "source": "TechCrunch",
+          "description": "Responding to Musk accusing him of being a scammer, Altman said, \"homeboy you're the one sellling [sic] public market investors on short-term space datacenters.\"",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2223572243.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Sam Altman’s space data center trash talk is what most experts already believe",
+          "original_summary": "Responding to Musk accusing him of being a scammer, Altman said, \"homeboy you're the one sellling [sic] public market investors on short-term space datacenters.\"",
+          "summary": "Responding to Musk accusing him of being a scammer, Altman said, \"homeboy you're the one sellling [sic] public market investors on short-term space datacenters.\""
+        },
+        {
+          "title": "AI agents create virtual playgrounds to help robots get crucial training data",
+          "link": "https://news.mit.edu/2026/ai-agents-create-virtual-playgrounds-to-help-robots-get-crucial-training-data-0713",
+          "date": "2026-07-13",
+          "source": "MIT News",
+          "description": "“SceneSmith” system uses collaborative AI agents to create realistic 3D environments of places like kitchens, hotels, and living rooms, where robots can simulate everyday chores.",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202606/mit-csail-SceneSmith.gif?itok=glbqc2dd",
+          "is_english": true,
+          "original_title": "AI agents create virtual playgrounds to help robots get crucial training data",
+          "original_summary": "“SceneSmith” system uses collaborative AI agents to create realistic 3D environments of places like kitchens, hotels, and living rooms, where robots can simulate everyday chores.",
+          "summary": "“SceneSmith” system uses collaborative AI agents to create realistic 3D environments of places like kitchens, hotels, and living rooms, where robots can simulate everyday chores."
+        },
         {
           "title": "Should AI help you get away with killing your spouse?",
           "link": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
@@ -7261,7 +7297,7 @@
         {
           "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
           "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-          "date": "2026-07-05",
+          "date": "2026-07-14",
           "source": "HuggingFace",
           "description": "• Qwythos-9B-Claude-Mythos-5-1M-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M/resolve/main/assets/qwythos.png",
@@ -7274,7 +7310,7 @@
         {
           "title": "zai-org/GLM-5.2",
           "link": "https://huggingface.co/zai-org/GLM-5.2",
-          "date": "2026-07-05",
+          "date": "2026-07-14",
           "source": "HuggingFace",
           "description": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
@@ -7287,7 +7323,7 @@
         {
           "title": "baidu/Unlimited-OCR",
           "link": "https://huggingface.co/baidu/Unlimited-OCR",
-          "date": "2026-07-05",
+          "date": "2026-07-14",
           "source": "HuggingFace",
           "description": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/baidu/Unlimited-OCR/resolve/main/assets/baidu.png",
@@ -7300,7 +7336,7 @@
         {
           "title": "deepreinforce-ai/Ornith-1.0-35B-GGUF",
           "link": "https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B-GGUF",
-          "date": "2026-07-05",
+          "date": "2026-07-14",
           "source": "HuggingFace",
           "description": "• Ornith-1.0-35B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%A6%A2%EF%B8%8F%20Ornith%20Blog%20-FD8E5B",
@@ -7326,7 +7362,7 @@
         {
           "title": "InternScience/Agents-A1",
           "link": "https://huggingface.co/InternScience/Agents-A1",
-          "date": "2026-07-05",
+          "date": "2026-07-14",
           "source": "HuggingFace",
           "description": "• Agents-A1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/InternScience/Agents-A1/resolve/main/./figures/24px.svg",
@@ -7339,7 +7375,7 @@
         {
           "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
           "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-          "date": "2026-07-05",
+          "date": "2026-07-14",
           "source": "HuggingFace",
           "description": "• gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -7352,7 +7388,7 @@
         {
           "title": "google/tabfm-1.0.0-pytorch",
           "link": "https://huggingface.co/google/tabfm-1.0.0-pytorch",
-          "date": "2026-07-05",
+          "date": "2026-07-14",
           "source": "HuggingFace",
           "description": "• tabfm-1.0.0-pytorch 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -7482,7 +7518,7 @@
         {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-07-05",
+          "date": "2026-07-14",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
