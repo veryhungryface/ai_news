@@ -2,8 +2,68 @@
   "dates": [
     {
       "date": "2026-07-14",
-      "update_time": "2026-07-14 10:30:42",
+      "update_time": "2026-07-14 13:06:46",
       "news": [
+        {
+          "title": "'모두의 창업' 정보 유출에 경찰, AI 솔루션 업체 등 압수수색",
+          "link": "https://www.yna.co.kr/view/AKR20260714181600063",
+          "date": "2026-07-14",
+          "source": "연합뉴스",
+          "description": "(대전=연합뉴스) 김소연 기자 = 중소벤처기업부 &apos;모두의 창업&apos; 프로젝트의 개인정보 유출 경위를 수사 중인 경찰이 관련 업체를 압수수색 하는 등...",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/06/22/PYH2026062211110001300_P2.jpg",
+          "is_english": false,
+          "original_title": "'모두의 창업' 정보 유출에 경찰, AI 솔루션 업체 등 압수수색",
+          "original_summary": "(대전=연합뉴스) 김소연 기자 = 중소벤처기업부 &apos;모두의 창업&apos; 프로젝트의 개인정보 유출 경위를 수사 중인 경찰이 관련 업체를 압수수색 하는 등...",
+          "summary": "(대전=연합뉴스) 김소연 기자 = 중소벤처기업부 &apos;모두의 창업&apos; 프로젝트의 개인정보 유출 경위를 수사 중인 경찰이 관련 업체를 압수수색 하는 등..."
+        },
+        {
+          "title": "오픈AI '코덱스' 활성 사용자 700만 돌파...'GPT-5.6' 출시 효과 톡톡",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212728",
+          "date": "2026-07-14",
+          "source": "AI타임스",
+          "description": "오픈AI의 AI 코딩 에이전트 \\'코덱스\\'와 \\'챗GPT 워크(ChatGPT Work)\\'의 활성 사용자가 700만명을 돌파했다. 코덱스는 지난 2월 정식 출시 이후 반년 만에 달성한 성과로, 최근 \\'GPT-5.6\\' 출시를 계기로 사용자 증가세가 더 가속화되는 추세다.티보 소티오 오픈AI 코덱스 책임자는 13일(현지시간) 소셜미디어 X를 통해 \\\"현재 코덱스와 챗GPT 워크를 사용하는 활성 사용자가 700만명에 도달했다\\\"라고 밝혔다.또 샘 알트먼 오픈AI CEO는 \\\"우리 사용자들을 사랑한다(We love our users)\\\"며 감사의 뜻을",
+          "image": "https://cdn.aitimes.com/news/photo/202607/212728_216052_1525.jpg",
+          "is_english": true,
+          "original_title": "오픈AI '코덱스' 활성 사용자 700만 돌파...'GPT-5.6' 출시 효과 톡톡",
+          "original_summary": "오픈AI의 AI 코딩 에이전트 \\'코덱스\\'와 \\'챗GPT 워크(ChatGPT Work)\\'의 활성 사용자가 700만명을 돌파했다. 코덱스는 지난 2월 정식 출시 이후 반년 만에 달성한 성과로, 최근 \\'GPT-5.6\\' 출시를 계기로 사용자 증가세가 더 가속화되는 추세다.티보 소티오 오픈AI 코덱스 책임자는 13일(현지시간) 소셜미디어 X를 통해 \\\"현재 코덱스와 챗GPT 워크를 사용하는 활성 사용자가 700만명에 도달했다\\\"라고 밝혔다.또 샘 알트먼 오픈AI CEO는 \\\"우리 사용자들을 사랑한다(We love our users)",
+          "summary": "오픈AI의 AI 코딩 에이전트 \\'코덱스\\'와 \\'챗GPT 워크(ChatGPT Work)\\'의 활성 사용자가 700만명을 돌파했다. 코덱스는 지난 2월 정식 출시 이후 반년 만에 달성한 성과로, 최근 \\'GPT-5.6\\' 출시를 계기로 사용자 증가세가 더 가속화되는 추세다.티보 소티오 오픈AI 코덱스 책임자는 13일(현지시간) 소셜미디어 X를 통해 \\\"현재 코덱스와 챗GPT 워크를 사용하는 활성 사용자가 700만명에 도달했다\\\"라고 밝혔다.또 샘 알트먼 오픈AI CEO는 \\\"우리 사용자들을 사랑한다(We love our users)"
+        },
+        {
+          "title": "나델라의 경고 “AI 기업에 노하우 넘겨주는 ‘역정보의 역설’ 막아야”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212736",
+          "date": "2026-07-14",
+          "source": "AI타임스",
+          "description": "사티아 나델라 마이크로소프트(MS) CEO가 오픈AI와 앤트로픽 등 폐쇄형 AI 모델 업체들의 사업 방식을 정면으로 비판하며 기업들에게 AI 데이터 주권을 확보해야 한다고 촉구했다. AI 서비스를 사용할수록 기업의 고유한 업무 노하우와 지적 자산이 모델 제공업체로 축적되는 \\'역정보의 역설(Reverse Information Paradox)\\'이 나타나고 있다며, 이를 막기 위해 기업 내부의 학습 정보와 데이터를 보호하는 \\'신뢰 경계(Trust Boundary)\\'를 구축해야 한다고 주장했다.나델라 CEO는 12일(현지시간) 블로그를 통",
+          "image": "https://cdn.aitimes.com/news/photo/202607/212736_216061_4243.png",
+          "is_english": false,
+          "original_title": "나델라의 경고 “AI 기업에 노하우 넘겨주는 ‘역정보의 역설’ 막아야”",
+          "original_summary": "사티아 나델라 마이크로소프트(MS) CEO가 오픈AI와 앤트로픽 등 폐쇄형 AI 모델 업체들의 사업 방식을 정면으로 비판하며 기업들에게 AI 데이터 주권을 확보해야 한다고 촉구했다. AI 서비스를 사용할수록 기업의 고유한 업무 노하우와 지적 자산이 모델 제공업체로 축적되는 \\'역정보의 역설(Reverse Information Paradox)\\'이 나타나고 있다며, 이를 막기 위해 기업 내부의 학습 정보와 데이터를 보호하는 \\'신뢰 경계(Trust Boundary)\\'를 구축해야 한다고 주장했다.나델라 CEO는 12일(현지시간) 블로",
+          "summary": "사티아 나델라 마이크로소프트(MS) CEO가 오픈AI와 앤트로픽 등 폐쇄형 AI 모델 업체들의 사업 방식을 정면으로 비판하며 기업들에게 AI 데이터 주권을 확보해야 한다고 촉구했다. AI 서비스를 사용할수록 기업의 고유한 업무 노하우와 지적 자산이 모델 제공업체로 축적되는 \\'역정보의 역설(Reverse Information Paradox)\\'이 나타나고 있다며, 이를 막기 위해 기업 내부의 학습 정보와 데이터를 보호하는 \\'신뢰 경계(Trust Boundary)\\'를 구축해야 한다고 주장했다.나델라 CEO는 12일(현지시간) 블로"
+        },
+        {
+          "title": "How data science teams use ChatGPT Work",
+          "link": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+          "date": "2026-07-14",
+          "source": "OpenAI",
+          "description": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+          "image": null,
+          "is_english": true,
+          "original_title": "How data science teams use ChatGPT Work",
+          "original_summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs.",
+          "summary": "See how data science teams can use ChatGPT Work to build root-cause briefs, impact readouts, KPI memos, scoped analyses, and dashboard specs from real work inputs."
+        },
+        {
+          "title": "How sales teams use ChatGPT Work",
+          "link": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
+          "date": "2026-07-14",
+          "source": "OpenAI",
+          "description": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+          "image": null,
+          "is_english": true,
+          "original_title": "How sales teams use ChatGPT Work",
+          "original_summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs.",
+          "summary": "See how sales teams can use ChatGPT Work to create pipeline briefs, meeting prep packets, forecast reviews, account plans, and stalled-deal diagnoses from real work inputs."
+        },
         {
           "title": "\"실패 원인만 골라 강화학습\"…4분의 1 데이터로 상용 모델 넘은 '트레이스' 공개",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=212746",
@@ -687,19 +747,6 @@
           "category": "AI Model"
         },
         {
-          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-07-14",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/DeepSeek-V4-Flash-GGUF",
           "link": "https://huggingface.co/unsloth/DeepSeek-V4-Flash-GGUF",
           "date": "2026-07-14",
@@ -709,6 +756,19 @@
           "is_english": true,
           "summary": "• DeepSeek-V4-Flash-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/DeepSeek-V4-Flash-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "date": "2026-07-14",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -739,19 +799,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4",
-          "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4",
-          "date": "2026-07-14",
-          "source": "HuggingFace",
-          "description": "• NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "empero-ai/Qwythos-9B-v2-GGUF",
           "link": "https://huggingface.co/empero-ai/Qwythos-9B-v2-GGUF",
           "date": "2026-07-14",
@@ -761,6 +808,19 @@
           "is_english": true,
           "summary": "• Qwythos-9B-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "empero-ai/Qwythos-9B-v2-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4",
+          "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4",
+          "date": "2026-07-14",
+          "source": "HuggingFace",
+          "description": "• NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -791,19 +851,6 @@
           "category": "AI Model"
         },
         {
-          "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-          "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-          "date": "2026-07-14",
-          "source": "HuggingFace",
-          "description": "• gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "robbyant/lingbot-video-moe-30b-a3b",
           "link": "https://huggingface.co/robbyant/lingbot-video-moe-30b-a3b",
           "date": "2026-07-14",
@@ -813,6 +860,19 @@
           "is_english": true,
           "summary": "• lingbot-video-moe-30b-a3b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "robbyant/lingbot-video-moe-30b-a3b",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
+          "date": "2026-07-14",
+          "source": "HuggingFace",
+          "description": "• gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
