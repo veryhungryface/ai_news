@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-07-15",
-      "update_time": "2026-07-14 16:08:26",
+      "update_time": "2026-07-14 19:02:14",
       "news": [
+        {
+          "title": "Oracle Focuses on Fusion App Developers With Agentic AI Tools",
+          "link": "https://aibusiness.com/agentic-ai/oracle-fusion-app-developers-agentic-tools",
+          "date": "2026-07-15",
+          "source": "AI Business",
+          "description": "The hyperscaler continues to build out its agentic platform as it deepens its AI capabilities.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltb192de79afde7e48/6a566c7f19775d04588f67c8/oracle.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Oracle Focuses on Fusion App Developers With Agentic AI Tools",
+          "original_summary": "The hyperscaler continues to build out its agentic platform as it deepens its AI capabilities.",
+          "summary": "The hyperscaler continues to build out its agentic platform as it deepens its AI capabilities."
+        },
+        {
+          "title": "Taiwan’s Second-Largest Chipmaker Hits Photonics Production Milestone",
+          "link": "https://aibusiness.com/data-centers/taiwan-s-second-largest-chipmaker-photonics-production-milestone",
+          "date": "2026-07-15",
+          "source": "AI Business",
+          "description": "Taiwanese chipmakers are expanding manufacturing capacity to support growing AI infrastructure demand.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt7124947752a5c9dd/6a566a8ae8289959efeb10e2/Photonics.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Taiwan’s Second-Largest Chipmaker Hits Photonics Production Milestone",
+          "original_summary": "Taiwanese chipmakers are expanding manufacturing capacity to support growing AI infrastructure demand.",
+          "summary": "Taiwanese chipmakers are expanding manufacturing capacity to support growing AI infrastructure demand."
+        },
         {
           "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
           "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
@@ -148,19 +172,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/DeepSeek-V4-Flash-GGUF",
-          "link": "https://huggingface.co/unsloth/DeepSeek-V4-Flash-GGUF",
-          "date": "2026-07-15",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Flash-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
-          "is_english": true,
-          "summary": "• DeepSeek-V4-Flash-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/DeepSeek-V4-Flash-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "open-gigaai/Giga-World-1",
           "link": "https://huggingface.co/open-gigaai/Giga-World-1",
           "date": "2026-07-15",
@@ -170,6 +181,19 @@
           "is_english": true,
           "summary": "• Giga-World-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "open-gigaai/Giga-World-1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/DeepSeek-V4-Flash-GGUF",
+          "link": "https://huggingface.co/unsloth/DeepSeek-V4-Flash-GGUF",
+          "date": "2026-07-15",
+          "source": "HuggingFace",
+          "description": "• DeepSeek-V4-Flash-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "is_english": true,
+          "summary": "• DeepSeek-V4-Flash-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/DeepSeek-V4-Flash-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -226,19 +250,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4",
-          "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4",
-          "date": "2026-07-15",
-          "source": "HuggingFace",
-          "description": "• NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "robbyant/lingbot-video-moe-30b-a3b",
           "link": "https://huggingface.co/robbyant/lingbot-video-moe-30b-a3b",
           "date": "2026-07-15",
@@ -248,6 +259,19 @@
           "is_english": true,
           "summary": "• lingbot-video-moe-30b-a3b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "robbyant/lingbot-video-moe-30b-a3b",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4",
+          "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4",
+          "date": "2026-07-15",
+          "source": "HuggingFace",
+          "description": "• NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/NVIDIA-Nemotron-Labs-3-Puzzle-75B-A9B-NVFP4",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +292,68 @@
     },
     {
       "date": "2026-07-14",
-      "update_time": "2026-07-14 16:08:26",
+      "update_time": "2026-07-14 19:02:14",
       "news": [
+        {
+          "title": "How to manage AI investments in the agentic era",
+          "link": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+          "date": "2026-07-14",
+          "source": "OpenAI",
+          "description": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+          "image": null,
+          "is_english": true,
+          "original_title": "How to manage AI investments in the agentic era",
+          "original_summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows.",
+          "summary": "Learn how enterprises can manage AI investments in the agentic era by measuring useful work per dollar, improving efficiency, and scaling high-value workflows."
+        },
+        {
+          "title": "Google faces another AI training lawsuit from major publishers",
+          "link": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
+          "date": "2026-07-14",
+          "source": "TechCrunch",
+          "description": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Google faces another AI training lawsuit from major publishers",
+          "original_summary": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions.",
+          "summary": "Hachette, Cengage, Elsevier, and other publishers allege that Google trained its AI on copyrighted works without the necessary permissions."
+        },
+        {
+          "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
+          "link": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
+          "date": "2026-07-14",
+          "source": "TechCrunch",
+          "description": "DeepMind CEO Demis Hassabis is proposing an AI \"standards body\" modeled after FINRA, to test frontier models and develop best practices for their release.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2151467531.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
+          "original_summary": "DeepMind CEO Demis Hassabis is proposing an AI \"standards body\" modeled after FINRA, to test frontier models and develop best practices for their release.",
+          "summary": "DeepMind CEO Demis Hassabis is proposing an AI \"standards body\" modeled after FINRA, to test frontier models and develop best practices for their release."
+        },
+        {
+          "title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
+          "link": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
+          "date": "2026-07-14",
+          "source": "TechCrunch",
+          "description": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face limits on how much they spend using AI tools. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/adam-mosseri-GettyImages-2239561007.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Meta’s Adam Mosseri says AI token budgets could soon be capped per engineer",
+          "original_summary": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face limits on how much they spend using AI tools. ",
+          "summary": "Instagram head Adam Mosseri believes companies will eventually need to manage AI token spending the same way they manage payroll or other operating expenses, predicting that engineers could soon face limits on how much they spend using AI tools. "
+        },
+        {
+          "title": "Can AI build a jet engine? JARVIS Challenge tests role of AI copilots in tough-tech engineering",
+          "link": "https://news.mit.edu/2026/can-ai-build-jet-engine-jarvis-challenge-tests-ai-copilots-in-tough-tech-engineering-0714",
+          "date": "2026-07-14",
+          "source": "MIT News",
+          "description": "MIT students designed, built, and tested a jet engine with AI copilots, assessing AI’s usefulness in developing high-performance aerospace systems.",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/mit-aeroastro-Jarvis.jpg?itok=ZL11V75h",
+          "is_english": true,
+          "original_title": "Can AI build a jet engine? JARVIS Challenge tests role of AI copilots in tough-tech engineering",
+          "original_summary": "MIT students designed, built, and tested a jet engine with AI copilots, assessing AI’s usefulness in developing high-performance aerospace systems.",
+          "summary": "MIT students designed, built, and tested a jet engine with AI copilots, assessing AI’s usefulness in developing high-performance aerospace systems."
+        },
         {
           "title": "Google Images gets a Pinterest-like redesign focused on discovery",
           "link": "https://techcrunch.com/2026/07/14/google-images-gets-a-pinterest-like-redesign-focused-on-discovery/",
@@ -7789,7 +7873,7 @@
         {
           "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
           "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-          "date": "2026-07-06",
+          "date": "2026-07-15",
           "source": "HuggingFace",
           "description": "• Qwythos-9B-Claude-Mythos-5-1M-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M/resolve/main/assets/qwythos.png",
@@ -7802,7 +7886,7 @@
         {
           "title": "zai-org/GLM-5.2",
           "link": "https://huggingface.co/zai-org/GLM-5.2",
-          "date": "2026-07-06",
+          "date": "2026-07-15",
           "source": "HuggingFace",
           "description": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
@@ -7815,7 +7899,7 @@
         {
           "title": "baidu/Unlimited-OCR",
           "link": "https://huggingface.co/baidu/Unlimited-OCR",
-          "date": "2026-07-06",
+          "date": "2026-07-15",
           "source": "HuggingFace",
           "description": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/baidu/Unlimited-OCR/resolve/main/assets/baidu.png",
@@ -7828,7 +7912,7 @@
         {
           "title": "InternScience/Agents-A1",
           "link": "https://huggingface.co/InternScience/Agents-A1",
-          "date": "2026-07-06",
+          "date": "2026-07-15",
           "source": "HuggingFace",
           "description": "• Agents-A1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/InternScience/Agents-A1/resolve/main/./figures/24px.svg",
@@ -7893,7 +7977,7 @@
         {
           "title": "yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
           "link": "https://huggingface.co/yuxinlu1/gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF",
-          "date": "2026-07-06",
+          "date": "2026-07-15",
           "source": "HuggingFace",
           "description": "• gemma-4-12B-agentic-fable5-composer2.5-v2-3.5x-tau2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -7932,7 +8016,7 @@
         {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-07-06",
+          "date": "2026-07-15",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
