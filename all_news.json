@@ -2,8 +2,44 @@
   "dates": [
     {
       "date": "2026-07-15",
-      "update_time": "2026-07-15 10:42:44",
+      "update_time": "2026-07-15 13:11:25",
       "news": [
+        {
+          "title": "Rime picks up $24M Series A to help enterprises field customer calls",
+          "link": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
+          "date": "2026-07-15",
+          "source": "TechCrunch",
+          "description": "Rime is handling over 100 million calls each month across multiple companies",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/rime-ai-logo.jpg?w=1080",
+          "is_english": true,
+          "original_title": "Rime picks up $24M Series A to help enterprises field customer calls",
+          "original_summary": "Rime is handling over 100 million calls each month across multiple companies",
+          "summary": "Rime is handling over 100 million calls each month across multiple companies"
+        },
+        {
+          "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+          "link": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+          "date": "2026-07-15",
+          "source": "TechCrunch",
+          "description": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/emergent-co-founders-madhav-jha-mukund-jha.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+          "original_summary": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.",
+          "summary": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers."
+        },
+        {
+          "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
+          "link": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
+          "date": "2026-07-15",
+          "source": "TechCrunch",
+          "description": "The guy behind TCP/IP is working on a standard for identifying AI agents in the wild. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/05/vint-cerf-GettyImages-454796419.jpg?resize=1200,723",
+          "is_english": true,
+          "original_title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
+          "original_summary": "The guy behind TCP/IP is working on a standard for identifying AI agents in the wild. ",
+          "summary": "The guy behind TCP/IP is working on a standard for identifying AI agents in the wild. "
+        },
         {
           "title": "[인천해양포럼] \"피지컬 AI 항만 도입, 안전·보안 등 고민해야\"",
           "link": "https://www.yna.co.kr/view/AKR20260715163400065",
@@ -731,19 +767,6 @@
           "category": "AI Model"
         },
         {
-          "title": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
-          "link": "https://huggingface.co/OpenMOSS-Team/MOSS-Transcribe-Diarize",
-          "date": "2026-07-15",
-          "source": "HuggingFace",
-          "description": "• MOSS-Transcribe-Diarize 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/GitHub-OpenMOSS%2FMOSS--Transcribe--Diarize-black?logo=github",
-          "is_english": true,
-          "summary": "• MOSS-Transcribe-Diarize 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "prism-ml/Bonsai-27B-gguf",
           "link": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
           "date": "2026-07-15",
@@ -753,6 +776,19 @@
           "is_english": true,
           "summary": "• Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "prism-ml/Bonsai-27B-gguf",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
+          "link": "https://huggingface.co/OpenMOSS-Team/MOSS-Transcribe-Diarize",
+          "date": "2026-07-15",
+          "source": "HuggingFace",
+          "description": "• MOSS-Transcribe-Diarize 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/GitHub-OpenMOSS%2FMOSS--Transcribe--Diarize-black?logo=github",
+          "is_english": true,
+          "summary": "• MOSS-Transcribe-Diarize 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -887,19 +923,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/DeepSeek-V4-Flash-GGUF",
-          "link": "https://huggingface.co/unsloth/DeepSeek-V4-Flash-GGUF",
-          "date": "2026-07-15",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Flash-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
-          "is_english": true,
-          "summary": "• DeepSeek-V4-Flash-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/DeepSeek-V4-Flash-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "ATH-MaaS/OvisOCR2",
           "link": "https://huggingface.co/ATH-MaaS/OvisOCR2",
           "date": "2026-07-15",
@@ -909,6 +932,19 @@
           "is_english": true,
           "summary": "• OvisOCR2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "ATH-MaaS/OvisOCR2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/DeepSeek-V4-Flash-GGUF",
+          "link": "https://huggingface.co/unsloth/DeepSeek-V4-Flash-GGUF",
+          "date": "2026-07-15",
+          "source": "HuggingFace",
+          "description": "• DeepSeek-V4-Flash-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "is_english": true,
+          "summary": "• DeepSeek-V4-Flash-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/DeepSeek-V4-Flash-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
