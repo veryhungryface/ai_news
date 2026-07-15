@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-07-16",
-      "update_time": "2026-07-15 18:54:53",
+      "update_time": "2026-07-15 21:48:38",
       "news": [
+        {
+          "title": "Perplexity AI Introduces Space Sandbox for Agents",
+          "link": "https://aibusiness.com/agentic-ai/perplexity-ai-introduces-sandbox-for-agents",
+          "date": "2026-07-16",
+          "source": "AI Business",
+          "description": "The platform shows how the search vendor is evolving its strategy.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt24dc6e7c039dc7c5/6a57f2a56a5978b244ff9649/Perplexity3.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Perplexity AI Introduces Space Sandbox for Agents",
+          "original_summary": "The platform shows how the search vendor is evolving its strategy.",
+          "summary": "The platform shows how the search vendor is evolving its strategy."
+        },
         {
           "title": "prism-ml/Ternary-Bonsai-27B-gguf",
           "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
@@ -27,6 +39,19 @@
           "is_english": true,
           "summary": "• Qwythos-9B-Claude-Mythos-5-1M-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "thinkingmachines/Inkling",
+          "link": "https://huggingface.co/thinkingmachines/Inkling",
+          "date": "2026-07-16",
+          "source": "HuggingFace",
+          "description": "• Inkling 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/630e8f0bf6f6d700f50ebd2e/AvmDwmrWRMnKjOWvmLieg.png",
+          "is_english": true,
+          "summary": "• Inkling 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "thinkingmachines/Inkling",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -70,19 +95,6 @@
           "category": "AI Model"
         },
         {
-          "title": "conradlocke/krea2-identity-edit",
-          "link": "https://huggingface.co/conradlocke/krea2-identity-edit",
-          "date": "2026-07-16",
-          "source": "HuggingFace",
-          "description": "• krea2-identity-edit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• krea2-identity-edit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "conradlocke/krea2-identity-edit",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "tencent/Hy3",
           "link": "https://huggingface.co/tencent/Hy3",
           "date": "2026-07-16",
@@ -92,6 +104,19 @@
           "is_english": true,
           "summary": "• Hy3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "tencent/Hy3",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "conradlocke/krea2-identity-edit",
+          "link": "https://huggingface.co/conradlocke/krea2-identity-edit",
+          "date": "2026-07-16",
+          "source": "HuggingFace",
+          "description": "• krea2-identity-edit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• krea2-identity-edit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "conradlocke/krea2-identity-edit",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -174,19 +199,6 @@
           "category": "AI Model"
         },
         {
-          "title": "baidu/Unlimited-OCR",
-          "link": "https://huggingface.co/baidu/Unlimited-OCR",
-          "date": "2026-07-16",
-          "source": "HuggingFace",
-          "description": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/baidu/Unlimited-OCR/resolve/main/assets/baidu.png",
-          "is_english": true,
-          "summary": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "baidu/Unlimited-OCR",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "open-gigaai/Giga-World-1",
           "link": "https://huggingface.co/open-gigaai/Giga-World-1",
           "date": "2026-07-16",
@@ -196,6 +208,19 @@
           "is_english": true,
           "summary": "• Giga-World-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "open-gigaai/Giga-World-1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "link": "https://huggingface.co/baidu/Unlimited-OCR",
+          "date": "2026-07-16",
+          "source": "HuggingFace",
+          "description": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/baidu/Unlimited-OCR/resolve/main/assets/baidu.png",
+          "is_english": true,
+          "summary": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "baidu/Unlimited-OCR",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,19 +264,6 @@
           "category": "AI Model"
         },
         {
-          "title": "robbyant/lingbot-video-moe-30b-a3b",
-          "link": "https://huggingface.co/robbyant/lingbot-video-moe-30b-a3b",
-          "date": "2026-07-16",
-          "source": "HuggingFace",
-          "description": "• lingbot-video-moe-30b-a3b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• lingbot-video-moe-30b-a3b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "robbyant/lingbot-video-moe-30b-a3b",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "AngelSlim/Hy3-GGUF",
           "link": "https://huggingface.co/AngelSlim/Hy3-GGUF",
           "date": "2026-07-16",
@@ -268,8 +280,80 @@
     },
     {
       "date": "2026-07-15",
-      "update_time": "2026-07-15 18:54:51",
+      "update_time": "2026-07-15 21:48:36",
       "news": [
+        {
+          "title": "\"일회성 AI 경험 조직 역량으로\" 에이블런, 현장 중심 AX 교육 성과 공유",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212815",
+          "date": "2026-07-15",
+          "source": "AI타임스",
+          "description": "에이블런(대표 박진아)은 기업·기관 현장 중심 AX 교육 성과를 공유했다고 15일 밝혔다.에이블런은 지난 8일 서울 한국광고문화회관에서 한국HRD협회와 함께 \\'에이블런 특별포럼\\'을 열고, 현장 중심 AX 사례와 현업 구성원의 AI 활용 경험을 공유했다. 이날 행사에는 중견·대기업·공공기관 팀장급 이상 리더 200명이 참석했다.에이블런은 이번 포럼에서 AI 리터러시부터 AI 에이전트 활용까지 아우르는 전사 단위 AX 실행 방식을 제시했다.강유진 에이블런 연구원은 재직자 401명의 데이터를 바탕으로 조직 AX 효과를 극대화할 수 있는",
+          "image": "https://cdn.aitimes.com/news/photo/202607/212815_216157_5156.png",
+          "is_english": false,
+          "original_title": "\"일회성 AI 경험 조직 역량으로\" 에이블런, 현장 중심 AX 교육 성과 공유",
+          "original_summary": "에이블런(대표 박진아)은 기업·기관 현장 중심 AX 교육 성과를 공유했다고 15일 밝혔다.에이블런은 지난 8일 서울 한국광고문화회관에서 한국HRD협회와 함께 \\'에이블런 특별포럼\\'을 열고, 현장 중심 AX 사례와 현업 구성원의 AI 활용 경험을 공유했다. 이날 행사에는 중견·대기업·공공기관 팀장급 이상 리더 200명이 참석했다.에이블런은 이번 포럼에서 AI 리터러시부터 AI 에이전트 활용까지 아우르는 전사 단위 AX 실행 방식을 제시했다.강유진 에이블런 연구원은 재직자 401명의 데이터를 바탕으로 조직 AX 효과를 극대화할 수 있",
+          "summary": "에이블런(대표 박진아)은 기업·기관 현장 중심 AX 교육 성과를 공유했다고 15일 밝혔다.에이블런은 지난 8일 서울 한국광고문화회관에서 한국HRD협회와 함께 \\'에이블런 특별포럼\\'을 열고, 현장 중심 AX 사례와 현업 구성원의 AI 활용 경험을 공유했다. 이날 행사에는 중견·대기업·공공기관 팀장급 이상 리더 200명이 참석했다.에이블런은 이번 포럼에서 AI 리터러시부터 AI 에이전트 활용까지 아우르는 전사 단위 AX 실행 방식을 제시했다.강유진 에이블런 연구원은 재직자 401명의 데이터를 바탕으로 조직 AX 효과를 극대화할 수 있"
+        },
+        {
+          "title": "[게시판] 크라우드웍스, 국립농업과학원과 농업 AX 협력 모색 등 단신",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212814",
+          "date": "2026-07-15",
+          "source": "AI타임스",
+          "description": "■ 크라우드웍스(대표 김광일)는 농촌진흥청 산하 국립농업과학원에서 열린 \\'농업 분야 AX 혁신을 위한 AI 기술 협력 간담회\\'에 참석했다고 밝혔다. 농진청은 우주항공청, 산림청과 공동 추진한 국내 최초 농림위성을 활용해 농경지 변화 분석, 작황 관측 등 AI 농업관측 체계를 운영 중이다. 크라우드웍스는 대규모 위성 영상 데이터를 AI 학습 데이터로 변환하는 전략과 도메인별 AI 솔루션 등 농업 AI 비즈니스 모델의 청사진을 공유했다.■ 딥엑스(대표 김녹원)는 울트라리틱스 욜로, 패들패들, 라즈베리 파이 등과 협력을 확대해 피지컬 A",
+          "image": "https://cdn.aitimes.com/news/photo/202607/212814_216158_407.png",
+          "is_english": false,
+          "original_title": "[게시판] 크라우드웍스, 국립농업과학원과 농업 AX 협력 모색 등 단신",
+          "original_summary": "■ 크라우드웍스(대표 김광일)는 농촌진흥청 산하 국립농업과학원에서 열린 \\'농업 분야 AX 혁신을 위한 AI 기술 협력 간담회\\'에 참석했다고 밝혔다. 농진청은 우주항공청, 산림청과 공동 추진한 국내 최초 농림위성을 활용해 농경지 변화 분석, 작황 관측 등 AI 농업관측 체계를 운영 중이다. 크라우드웍스는 대규모 위성 영상 데이터를 AI 학습 데이터로 변환하는 전략과 도메인별 AI 솔루션 등 농업 AI 비즈니스 모델의 청사진을 공유했다.■ 딥엑스(대표 김녹원)는 울트라리틱스 욜로, 패들패들, 라즈베리 파이 등과 협력을 확대해 피지컬",
+          "summary": "■ 크라우드웍스(대표 김광일)는 농촌진흥청 산하 국립농업과학원에서 열린 \\'농업 분야 AX 혁신을 위한 AI 기술 협력 간담회\\'에 참석했다고 밝혔다. 농진청은 우주항공청, 산림청과 공동 추진한 국내 최초 농림위성을 활용해 농경지 변화 분석, 작황 관측 등 AI 농업관측 체계를 운영 중이다. 크라우드웍스는 대규모 위성 영상 데이터를 AI 학습 데이터로 변환하는 전략과 도메인별 AI 솔루션 등 농업 AI 비즈니스 모델의 청사진을 공유했다.■ 딥엑스(대표 김녹원)는 울트라리틱스 욜로, 패들패들, 라즈베리 파이 등과 협력을 확대해 피지컬"
+        },
+        {
+          "title": "SKT, SK바이오팜과 AI 기반 난치성 암 표적치료 유효물질 발굴",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212781",
+          "date": "2026-07-15",
+          "source": "AI타임스",
+          "description": "SK텔레콤(대표 정재헌)은 SK바이오팜과 AI를 활용해 난치성 암 표적 치료제 개발에 활용 가능한 초기 유효물질을 발굴했다고 15일 밝혔다.양사는 이번 연구에서 암세포 표면에 나타나는 단백질인 \\'ROR1\\'에 결합할 수 있는 바인더 후보를 대량으로 생성하고 선별했다.SK바이오팜은 신약 개발 경험을 바탕으로 신규 바인더 발굴 전략을 수립했고, SKT는 AI를 활용해 신규 바인더 후보를 다량 생성한 뒤 \\'ROR1\\'과의 결합 가능성을 분석하고, 실험실 검증 대상을 선별하는 역할을 맡았다.AI 학습 데이터가 충분하지 않다는 한계를 극복하기",
+          "image": "https://cdn.aitimes.com/news/photo/202607/212781_216156_3456.jpg",
+          "is_english": false,
+          "original_title": "SKT, SK바이오팜과 AI 기반 난치성 암 표적치료 유효물질 발굴",
+          "original_summary": "SK텔레콤(대표 정재헌)은 SK바이오팜과 AI를 활용해 난치성 암 표적 치료제 개발에 활용 가능한 초기 유효물질을 발굴했다고 15일 밝혔다.양사는 이번 연구에서 암세포 표면에 나타나는 단백질인 \\'ROR1\\'에 결합할 수 있는 바인더 후보를 대량으로 생성하고 선별했다.SK바이오팜은 신약 개발 경험을 바탕으로 신규 바인더 발굴 전략을 수립했고, SKT는 AI를 활용해 신규 바인더 후보를 다량 생성한 뒤 \\'ROR1\\'과의 결합 가능성을 분석하고, 실험실 검증 대상을 선별하는 역할을 맡았다.AI 학습 데이터가 충분하지 않다는 한계를 극",
+          "summary": "SK텔레콤(대표 정재헌)은 SK바이오팜과 AI를 활용해 난치성 암 표적 치료제 개발에 활용 가능한 초기 유효물질을 발굴했다고 15일 밝혔다.양사는 이번 연구에서 암세포 표면에 나타나는 단백질인 \\'ROR1\\'에 결합할 수 있는 바인더 후보를 대량으로 생성하고 선별했다.SK바이오팜은 신약 개발 경험을 바탕으로 신규 바인더 발굴 전략을 수립했고, SKT는 AI를 활용해 신규 바인더 후보를 다량 생성한 뒤 \\'ROR1\\'과의 결합 가능성을 분석하고, 실험실 검증 대상을 선별하는 역할을 맡았다.AI 학습 데이터가 충분하지 않다는 한계를 극"
+        },
+        {
+          "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+          "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+          "date": "2026-07-15",
+          "source": "TechCrunch",
+          "description": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/Supply-Co-Page_Brand.png?resize=1200,623",
+          "is_english": true,
+          "original_title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+          "original_summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app. ",
+          "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app. "
+        },
+        {
+          "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
+          "link": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
+          "date": "2026-07-15",
+          "source": "TechCrunch",
+          "description": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/20260511_Wet_Dress_Actual_2_259bcb3ae9.jpg?resize=1200,899",
+          "is_english": true,
+          "original_title": "SpaceX falls to $135 IPO price ahead of Starship launch",
+          "original_summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
+          "summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public."
+        },
+        {
+          "title": "3 Questions: Neural transparency and the future of AI design",
+          "link": "https://news.mit.edu/2026/3-questions-neural-transparency-and-future-of-ai-design-0715",
+          "date": "2026-07-15",
+          "source": "MIT News",
+          "description": "Assistant Professor Pat Pataranutaporn describes a new interface that lets everyday users glimpse inside an AI's neural network before their chatbot ever says a word.",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/mit-medialab-pataranutaporn.jpg?itok=i96QeKNW",
+          "is_english": true,
+          "original_title": "3 Questions: Neural transparency and the future of AI design",
+          "original_summary": "Assistant Professor Pat Pataranutaporn describes a new interface that lets everyday users glimpse inside an AI's neural network before their chatbot ever says a word.",
+          "summary": "Assistant Professor Pat Pataranutaporn describes a new interface that lets everyday users glimpse inside an AI's neural network before their chatbot ever says a word."
+        },
         {
           "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
           "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
