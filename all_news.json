@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-07-16",
-      "update_time": "2026-07-15 16:14:25",
+      "update_time": "2026-07-15 18:54:53",
       "news": [
         {
           "title": "prism-ml/Ternary-Bonsai-27B-gguf",
@@ -70,19 +70,6 @@
           "category": "AI Model"
         },
         {
-          "title": "tencent/Hy3",
-          "link": "https://huggingface.co/tencent/Hy3",
-          "date": "2026-07-16",
-          "source": "HuggingFace",
-          "description": "• Hy3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/License-Apache%202.0-blue",
-          "is_english": true,
-          "summary": "• Hy3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "tencent/Hy3",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "conradlocke/krea2-identity-edit",
           "link": "https://huggingface.co/conradlocke/krea2-identity-edit",
           "date": "2026-07-16",
@@ -92,6 +79,19 @@
           "is_english": true,
           "summary": "• krea2-identity-edit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "conradlocke/krea2-identity-edit",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "tencent/Hy3",
+          "link": "https://huggingface.co/tencent/Hy3",
+          "date": "2026-07-16",
+          "source": "HuggingFace",
+          "description": "• Hy3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/License-Apache%202.0-blue",
+          "is_english": true,
+          "summary": "• Hy3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "tencent/Hy3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -226,19 +226,6 @@
           "category": "AI Model"
         },
         {
-          "title": "robbyant/lingbot-video-moe-30b-a3b",
-          "link": "https://huggingface.co/robbyant/lingbot-video-moe-30b-a3b",
-          "date": "2026-07-16",
-          "source": "HuggingFace",
-          "description": "• lingbot-video-moe-30b-a3b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• lingbot-video-moe-30b-a3b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "robbyant/lingbot-video-moe-30b-a3b",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "ATH-MaaS/OvisOCR2",
           "link": "https://huggingface.co/ATH-MaaS/OvisOCR2",
           "date": "2026-07-16",
@@ -252,15 +239,28 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.6-27B-NVFP4",
-          "link": "https://huggingface.co/unsloth/Qwen3.6-27B-NVFP4",
+          "title": "robbyant/lingbot-video-moe-30b-a3b",
+          "link": "https://huggingface.co/robbyant/lingbot-video-moe-30b-a3b",
           "date": "2026-07-16",
           "source": "HuggingFace",
-          "description": "• Qwen3.6-27B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "description": "• lingbot-video-moe-30b-a3b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• Qwen3.6-27B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Qwen3.6-27B-NVFP4",
+          "summary": "• lingbot-video-moe-30b-a3b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "robbyant/lingbot-video-moe-30b-a3b",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "AngelSlim/Hy3-GGUF",
+          "link": "https://huggingface.co/AngelSlim/Hy3-GGUF",
+          "date": "2026-07-16",
+          "source": "HuggingFace",
+          "description": "• Hy3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/Tencent/AngelSlim/blob/main/docs/source/assets/logos/angelslim_logo.png?raw=true",
+          "is_english": true,
+          "summary": "• Hy3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "AngelSlim/Hy3-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -268,8 +268,92 @@
     },
     {
       "date": "2026-07-15",
-      "update_time": "2026-07-15 16:14:24",
+      "update_time": "2026-07-15 18:54:51",
       "news": [
+        {
+          "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+          "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+          "date": "2026-07-15",
+          "source": "OpenAI",
+          "description": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+          "image": null,
+          "is_english": true,
+          "original_title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+          "original_summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
+          "summary": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness."
+        },
+        {
+          "title": "SpaceX slips below its $135 IPO price ahead of Starship launch",
+          "link": "https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/",
+          "date": "2026-07-15",
+          "source": "TechCrunch",
+          "description": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/20260511_Wet_Dress_Actual_2_259bcb3ae9.jpg?resize=1200,899",
+          "is_english": true,
+          "original_title": "SpaceX slips below its $135 IPO price ahead of Starship launch",
+          "original_summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
+          "summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public."
+        },
+        {
+          "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+          "link": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+          "date": "2026-07-15",
+          "source": "TechCrunch",
+          "description": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-1730510668.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+          "original_summary": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view.",
+          "summary": "It's the company's first public proof point after a year and a half spent building AI infrastructure largely out of public view."
+        },
+        {
+          "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
+          "link": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
+          "date": "2026-07-15",
+          "source": "TechCrunch",
+          "description": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/Suno_1.png?resize=1200,600",
+          "is_english": true,
+          "original_title": "Hack suggests AI music generator Suno scraped YouTube for training data",
+          "original_summary": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
+          "summary": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio."
+        },
+        {
+          "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
+          "link": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
+          "date": "2026-07-15",
+          "source": "TechCrunch",
+          "description": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/01/Whatnot_AppIcon_Screen.jpg?w=1200",
+          "is_english": true,
+          "original_title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
+          "original_summary": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories.",
+          "summary": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories."
+        },
+        {
+          "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
+          "link": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
+          "date": "2026-07-15",
+          "source": "TechCrunch",
+          "description": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.",
+          "image": "https://techcrunch.com/wp-content/uploads/2022/07/windows-zero-day-exploit.jpg?resize=1200,833",
+          "is_english": true,
+          "original_title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
+          "original_summary": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.",
+          "summary": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI."
+        },
+        {
+          "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
+          "link": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
+          "date": "2026-07-15",
+          "source": "TechCrunch",
+          "description": "Can a handful of engineers really do the work of an army of consultants?&#160;That’s&#160;the bet behind Ode with Anthropic —&#160;the joint venture dedicated to embedding forward-deployed engineers in enterprise firms, backed by&#160;Anthropic, Blackstone, Hellman &#38; Friedman, Goldman&#160;Sachs&#160;and others.&#160;&#160; On this episode of TechCrunch&#8217;s&#160;Equity&#160;podcast, Rebecca Bellan sits down with Ode’s leaders&#160;Chris Taylor&#160;and&#160;Eddie Siegel,&#160;who founded",
+          "image": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
+          "is_english": true,
+          "original_title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
+          "original_summary": "Can a handful of engineers really do the work of an army of consultants?&#160;That’s&#160;the bet behind Ode with Anthropic —&#160;the joint venture dedicated to embedding forward-deployed engineers in enterprise firms, backed by&#160;Anthropic, Blackstone, Hellman &#38; Friedman, Goldman&#160;Sachs",
+          "summary": "Can a handful of engineers really do the work of an army of consultants?&#160;That’s&#160;the bet behind Ode with Anthropic —&#160;the joint venture dedicated to embedding forward-deployed engineers in enterprise firms, backed by&#160;Anthropic, Blackstone, Hellman &#38; Friedman, Goldman&#160;Sachs"
+        },
         {
           "title": "The US is advancing AI safety through state and federal action",
           "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
@@ -8161,7 +8245,7 @@
         {
           "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
           "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-          "date": "2026-07-07",
+          "date": "2026-07-16",
           "source": "HuggingFace",
           "description": "• Qwythos-9B-Claude-Mythos-5-1M-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M/resolve/main/assets/qwythos.png",
@@ -8174,7 +8258,7 @@
         {
           "title": "zai-org/GLM-5.2",
           "link": "https://huggingface.co/zai-org/GLM-5.2",
-          "date": "2026-07-07",
+          "date": "2026-07-16",
           "source": "HuggingFace",
           "description": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
@@ -8187,7 +8271,7 @@
         {
           "title": "tencent/Hy3",
           "link": "https://huggingface.co/tencent/Hy3",
-          "date": "2026-07-07",
+          "date": "2026-07-16",
           "source": "HuggingFace",
           "description": "• Hy3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/License-Apache%202.0-blue",
@@ -8200,7 +8284,7 @@
         {
           "title": "baidu/Unlimited-OCR",
           "link": "https://huggingface.co/baidu/Unlimited-OCR",
-          "date": "2026-07-07",
+          "date": "2026-07-16",
           "source": "HuggingFace",
           "description": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/baidu/Unlimited-OCR/resolve/main/assets/baidu.png",
@@ -8213,7 +8297,7 @@
         {
           "title": "InternScience/Agents-A1",
           "link": "https://huggingface.co/InternScience/Agents-A1",
-          "date": "2026-07-07",
+          "date": "2026-07-16",
           "source": "HuggingFace",
           "description": "• Agents-A1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/InternScience/Agents-A1/resolve/main/./figures/24px.svg",
@@ -8291,7 +8375,7 @@
         {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-07-07",
+          "date": "2026-07-16",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
