@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-07-17",
-      "update_time": "2026-07-16 16:10:57",
+      "update_time": "2026-07-16 18:55:37",
       "news": [
         {
           "title": "Why teens deserve access to safe AI",
@@ -147,19 +147,6 @@
           "category": "AI Model"
         },
         {
-          "title": "InternScience/Agents-A1",
-          "link": "https://huggingface.co/InternScience/Agents-A1",
-          "date": "2026-07-17",
-          "source": "HuggingFace",
-          "description": "• Agents-A1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/InternScience/Agents-A1/resolve/main/./figures/24px.svg",
-          "is_english": true,
-          "summary": "• Agents-A1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "InternScience/Agents-A1",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "empero-ai/Qwythos-9B-v2-GGUF",
           "link": "https://huggingface.co/empero-ai/Qwythos-9B-v2-GGUF",
           "date": "2026-07-17",
@@ -169,6 +156,19 @@
           "is_english": true,
           "summary": "• Qwythos-9B-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "empero-ai/Qwythos-9B-v2-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "InternScience/Agents-A1",
+          "link": "https://huggingface.co/InternScience/Agents-A1",
+          "date": "2026-07-17",
+          "source": "HuggingFace",
+          "description": "• Agents-A1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/InternScience/Agents-A1/resolve/main/./figures/24px.svg",
+          "is_english": true,
+          "summary": "• Agents-A1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "InternScience/Agents-A1",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -212,19 +212,6 @@
           "category": "AI Model"
         },
         {
-          "title": "froggeric/Qwen-Fixed-Chat-Templates",
-          "link": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
-          "date": "2026-07-17",
-          "source": "HuggingFace",
-          "description": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "froggeric/Qwen-Fixed-Chat-Templates",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "AngelSlim/Hy3-GGUF",
           "link": "https://huggingface.co/AngelSlim/Hy3-GGUF",
           "date": "2026-07-17",
@@ -247,6 +234,19 @@
           "is_english": true,
           "summary": "• GLM-5.2-colibri-int4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "jlnsrk/GLM-5.2-colibri-int4",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "froggeric/Qwen-Fixed-Chat-Templates",
+          "link": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
+          "date": "2026-07-17",
+          "source": "HuggingFace",
+          "description": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "froggeric/Qwen-Fixed-Chat-Templates",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -280,8 +280,32 @@
     },
     {
       "date": "2026-07-16",
-      "update_time": "2026-07-16 16:10:56",
+      "update_time": "2026-07-16 18:55:37",
       "news": [
+        {
+          "title": "Google Vids now lets you star in your own AI videos",
+          "link": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
+          "date": "2026-07-16",
+          "source": "TechCrunch",
+          "description": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/google-vids-ai-avatar.jpg?resize=1200,772",
+          "is_english": true,
+          "original_title": "Google Vids now lets you star in your own AI videos",
+          "original_summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
+          "summary": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images."
+        },
+        {
+          "title": "Roblox launches an AI-powered game creation feature in its mobile app",
+          "link": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
+          "date": "2026-07-16",
+          "source": "TechCrunch",
+          "description": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/Roblox-Build-feature.jpeg?w=1200",
+          "is_english": true,
+          "original_title": "Roblox launches an AI-powered game creation feature in its mobile app",
+          "original_summary": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt. ",
+          "summary": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt. "
+        },
         {
           "title": "How Cars24 scales conversations and builds faster with OpenAI",
           "link": "https://openai.com/index/cars24",
@@ -8281,7 +8305,7 @@
         {
           "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
           "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-          "date": "2026-07-08",
+          "date": "2026-07-17",
           "source": "HuggingFace",
           "description": "• Qwythos-9B-Claude-Mythos-5-1M-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M/resolve/main/assets/qwythos.png",
@@ -8294,7 +8318,7 @@
         {
           "title": "tencent/Hy3",
           "link": "https://huggingface.co/tencent/Hy3",
-          "date": "2026-07-08",
+          "date": "2026-07-17",
           "source": "HuggingFace",
           "description": "• Hy3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/License-Apache%202.0-blue",
@@ -8307,7 +8331,7 @@
         {
           "title": "zai-org/GLM-5.2",
           "link": "https://huggingface.co/zai-org/GLM-5.2",
-          "date": "2026-07-08",
+          "date": "2026-07-17",
           "source": "HuggingFace",
           "description": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
@@ -8320,7 +8344,7 @@
         {
           "title": "baidu/Unlimited-OCR",
           "link": "https://huggingface.co/baidu/Unlimited-OCR",
-          "date": "2026-07-08",
+          "date": "2026-07-17",
           "source": "HuggingFace",
           "description": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/baidu/Unlimited-OCR/resolve/main/assets/baidu.png",
@@ -8333,7 +8357,7 @@
         {
           "title": "InternScience/Agents-A1",
           "link": "https://huggingface.co/InternScience/Agents-A1",
-          "date": "2026-07-08",
+          "date": "2026-07-17",
           "source": "HuggingFace",
           "description": "• Agents-A1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/InternScience/Agents-A1/resolve/main/./figures/24px.svg",
@@ -8398,7 +8422,7 @@
         {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-07-08",
+          "date": "2026-07-17",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
