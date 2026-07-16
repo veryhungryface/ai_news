@@ -2,8 +2,44 @@
   "dates": [
     {
       "date": "2026-07-17",
-      "update_time": "2026-07-16 18:55:37",
+      "update_time": "2026-07-16 21:55:59",
       "news": [
+        {
+          "title": "[사이테크+] \"AI·BCI 시스템으로 사지마비 환자 손 움직이고 감각 되찾아\"",
+          "link": "https://www.yna.co.kr/view/AKR20260715184800017",
+          "date": "2026-07-17",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 이주영 기자 = 척수가 손상돼 팔과 손을 움직일 수 없게 된 사지마비 환자가 인공지능(AI)과 뇌-컴퓨터 인터페이스(BCI)를...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/07/15/AKR20260715184800017_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "[사이테크+] \"AI·BCI 시스템으로 사지마비 환자 손 움직이고 감각 되찾아\"",
+          "original_summary": "(서울=연합뉴스) 이주영 기자 = 척수가 손상돼 팔과 손을 움직일 수 없게 된 사지마비 환자가 인공지능(AI)과 뇌-컴퓨터 인터페이스(BCI)를...",
+          "summary": "(서울=연합뉴스) 이주영 기자 = 척수가 손상돼 팔과 손을 움직일 수 없게 된 사지마비 환자가 인공지능(AI)과 뇌-컴퓨터 인터페이스(BCI)를..."
+        },
+        {
+          "title": "Toyota Spin-Out Launches From Stealth With $300M",
+          "link": "https://aibusiness.com/robotics/walden-robotics-emerges-from-stealth",
+          "date": "2026-07-17",
+          "source": "AI Business",
+          "description": "The startup, backed by Nvidia and Boeing, said its wheeled robots are already working in production and can continuously learn new industrial tasks.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt3c2072defd62a93f/6a59377bb0905601aeee9c1a/robots.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Toyota Spin-Out Launches From Stealth With $300M",
+          "original_summary": "The startup, backed by Nvidia and Boeing, said its wheeled robots are already working in production and can continuously learn new industrial tasks.",
+          "summary": "The startup, backed by Nvidia and Boeing, said its wheeled robots are already working in production and can continuously learn new industrial tasks."
+        },
+        {
+          "title": "Thinking Machines Rolls Out Broad but Efficient Model",
+          "link": "https://aibusiness.com/foundation-models/thinking-machines-inkling-model",
+          "date": "2026-07-17",
+          "source": "AI Business",
+          "description": "The AI startup, founded by OpenAI's former CTO, released Inkling, a general-purpose model that keeps token use in mind.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt5407b43836555f2d/6a5928ac2292778e2cf65904/lightbulb.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Thinking Machines Rolls Out Broad but Efficient Model",
+          "original_summary": "The AI startup, founded by OpenAI's former CTO, released Inkling, a general-purpose model that keeps token use in mind.",
+          "summary": "The AI startup, founded by OpenAI's former CTO, released Inkling, a general-purpose model that keeps token use in mind."
+        },
         {
           "title": "Why teens deserve access to safe AI",
           "link": "https://openai.com/index/why-teens-deserve-access-safe-ai",
@@ -186,19 +222,6 @@
           "category": "AI Model"
         },
         {
-          "title": "empero-ai/Qwythos-9B-v2",
-          "link": "https://huggingface.co/empero-ai/Qwythos-9B-v2",
-          "date": "2026-07-17",
-          "source": "HuggingFace",
-          "description": "• Qwythos-9B-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/empero-ai/Qwythos-9B-v2/resolve/main/qwythos_v2.png",
-          "is_english": true,
-          "summary": "• Qwythos-9B-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "empero-ai/Qwythos-9B-v2",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
           "link": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
           "date": "2026-07-17",
@@ -208,6 +231,19 @@
           "is_english": true,
           "summary": "• MiniCPM5-1B-Claude-Opus-Fable5-Thinking 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-v2",
+          "link": "https://huggingface.co/empero-ai/Qwythos-9B-v2",
+          "date": "2026-07-17",
+          "source": "HuggingFace",
+          "description": "• Qwythos-9B-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/empero-ai/Qwythos-9B-v2/resolve/main/qwythos_v2.png",
+          "is_english": true,
+          "summary": "• Qwythos-9B-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "empero-ai/Qwythos-9B-v2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -238,19 +274,6 @@
           "category": "AI Model"
         },
         {
-          "title": "froggeric/Qwen-Fixed-Chat-Templates",
-          "link": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
-          "date": "2026-07-17",
-          "source": "HuggingFace",
-          "description": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "froggeric/Qwen-Fixed-Chat-Templates",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Qwen3.6-27B-NVFP4",
           "link": "https://huggingface.co/unsloth/Qwen3.6-27B-NVFP4",
           "date": "2026-07-17",
@@ -260,6 +283,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-27B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/Qwen3.6-27B-NVFP4",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "froggeric/Qwen-Fixed-Chat-Templates",
+          "link": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
+          "date": "2026-07-17",
+          "source": "HuggingFace",
+          "description": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "froggeric/Qwen-Fixed-Chat-Templates",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
