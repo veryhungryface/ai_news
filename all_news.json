@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-07-16",
-      "update_time": "2026-07-16 10:50:20",
+      "update_time": "2026-07-16 13:18:54",
       "news": [
+        {
+          "title": "Nebius Embarks on &quot;Asset-Light&quot; Data Center Model",
+          "link": "https://aibusiness.com/data-centers/nebius-asset-light-data-center-model",
+          "date": "2026-07-16",
+          "source": "AI Business",
+          "description": "The neocloud is turning to infrastructure partners to expand compute without having to foot the bill.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt46fdbf339fa6eb8c/6a58c97b29163c085aba55a3/cloud.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Nebius Embarks on &quot;Asset-Light&quot; Data Center Model",
+          "original_summary": "The neocloud is turning to infrastructure partners to expand compute without having to foot the bill.",
+          "summary": "The neocloud is turning to infrastructure partners to expand compute without having to foot the bill."
+        },
+        {
+          "title": "Foundation Launched to Standardize AI Payments",
+          "link": "https://aibusiness.com/agentic-ai/foundation-standardize-ai-payments",
+          "date": "2026-07-16",
+          "source": "AI Business",
+          "description": "The new body, which will steward the x402 payments protocol, is backed by 40 members including Visa, Mastercard, Google and Microsoft.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt120e01636aa35582/6a58bc7c2d1945b58f3b1b6e/payments.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Foundation Launched to Standardize AI Payments",
+          "original_summary": "The new body, which will steward the x402 payments protocol, is backed by 40 members including Visa, Mastercard, Google and Microsoft.",
+          "summary": "The new body, which will steward the x402 payments protocol, is backed by 40 members including Visa, Mastercard, Google and Microsoft."
+        },
         {
           "title": "\"사기 돕고, 평가 속이고\"…앤트로픽, 최첨단 AI '탈선 위험' 경고",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=212837",
@@ -701,32 +725,6 @@
           "category": "AI Model"
         },
         {
-          "title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
-          "link": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
-          "date": "2026-07-16",
-          "source": "HuggingFace",
-          "description": "• MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF/resolve/main/assets/banner.png",
-          "is_english": true,
-          "summary": "• MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
-          "link": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
-          "date": "2026-07-16",
-          "source": "HuggingFace",
-          "description": "• MiniCPM5-1B-Claude-Opus-Fable5-Thinking 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking/resolve/main/assets/banner.png",
-          "is_english": true,
-          "summary": "• MiniCPM5-1B-Claude-Opus-Fable5-Thinking 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "empero-ai/Qwythos-9B-v2",
           "link": "https://huggingface.co/empero-ai/Qwythos-9B-v2",
           "date": "2026-07-16",
@@ -753,6 +751,19 @@
           "category": "AI Model"
         },
         {
+          "title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
+          "link": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
+          "date": "2026-07-16",
+          "source": "HuggingFace",
+          "description": "• MiniCPM5-1B-Claude-Opus-Fable5-Thinking 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking/resolve/main/assets/banner.png",
+          "is_english": true,
+          "summary": "• MiniCPM5-1B-Claude-Opus-Fable5-Thinking 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "froggeric/Qwen-Fixed-Chat-Templates",
           "link": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
           "date": "2026-07-16",
@@ -762,19 +773,6 @@
           "is_english": true,
           "summary": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "froggeric/Qwen-Fixed-Chat-Templates",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "baidu/Unlimited-OCR",
-          "link": "https://huggingface.co/baidu/Unlimited-OCR",
-          "date": "2026-07-16",
-          "source": "HuggingFace",
-          "description": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/baidu/Unlimited-OCR/resolve/main/assets/baidu.png",
-          "is_english": true,
-          "summary": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "baidu/Unlimited-OCR",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -792,15 +790,41 @@
           "category": "AI Model"
         },
         {
-          "title": "open-gigaai/Giga-World-1",
-          "link": "https://huggingface.co/open-gigaai/Giga-World-1",
+          "title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
+          "link": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
           "date": "2026-07-16",
           "source": "HuggingFace",
-          "description": "• Giga-World-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/Hugging%20Face-Model-FFD21E?logo=huggingface&logoColor=black",
+          "description": "• MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF/resolve/main/assets/banner.png",
           "is_english": true,
-          "summary": "• Giga-World-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "open-gigaai/Giga-World-1",
+          "summary": "• MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "jlnsrk/GLM-5.2-colibri-int4",
+          "link": "https://huggingface.co/jlnsrk/GLM-5.2-colibri-int4",
+          "date": "2026-07-16",
+          "source": "HuggingFace",
+          "description": "• GLM-5.2-colibri-int4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• GLM-5.2-colibri-int4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "jlnsrk/GLM-5.2-colibri-int4",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "link": "https://huggingface.co/baidu/Unlimited-OCR",
+          "date": "2026-07-16",
+          "source": "HuggingFace",
+          "description": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/baidu/Unlimited-OCR/resolve/main/assets/baidu.png",
+          "is_english": true,
+          "summary": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "baidu/Unlimited-OCR",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
