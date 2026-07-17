@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-07-17",
-      "update_time": "2026-07-17 07:52:13",
+      "update_time": "2026-07-17 10:30:16",
       "news": [
         {
           "title": "KAIST 배상민 교수, 세계 권위 디자인 대상 수상",
@@ -410,19 +410,6 @@
           "category": "AI Model"
         },
         {
-          "title": "empero-ai/Qwythos-9B-v2-GGUF",
-          "link": "https://huggingface.co/empero-ai/Qwythos-9B-v2-GGUF",
-          "date": "2026-07-17",
-          "source": "HuggingFace",
-          "description": "• Qwythos-9B-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/empero-ai/Qwythos-9B-v2/resolve/main/qwythos_v2.png",
-          "is_english": true,
-          "summary": "• Qwythos-9B-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "empero-ai/Qwythos-9B-v2-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "date": "2026-07-17",
@@ -432,6 +419,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-v2-GGUF",
+          "link": "https://huggingface.co/empero-ai/Qwythos-9B-v2-GGUF",
+          "date": "2026-07-17",
+          "source": "HuggingFace",
+          "description": "• Qwythos-9B-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/empero-ai/Qwythos-9B-v2/resolve/main/qwythos_v2.png",
+          "is_english": true,
+          "summary": "• Qwythos-9B-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "empero-ai/Qwythos-9B-v2-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -475,19 +475,6 @@
           "category": "AI Model"
         },
         {
-          "title": "InternScience/Agents-A1",
-          "link": "https://huggingface.co/InternScience/Agents-A1",
-          "date": "2026-07-17",
-          "source": "HuggingFace",
-          "description": "• Agents-A1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/InternScience/Agents-A1/resolve/main/./figures/24px.svg",
-          "is_english": true,
-          "summary": "• Agents-A1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "InternScience/Agents-A1",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "AngelSlim/Hy3-GGUF",
           "link": "https://huggingface.co/AngelSlim/Hy3-GGUF",
           "date": "2026-07-17",
@@ -497,6 +484,19 @@
           "is_english": true,
           "summary": "• Hy3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "AngelSlim/Hy3-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "InternScience/Agents-A1",
+          "link": "https://huggingface.co/InternScience/Agents-A1",
+          "date": "2026-07-17",
+          "source": "HuggingFace",
+          "description": "• Agents-A1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/InternScience/Agents-A1/resolve/main/./figures/24px.svg",
+          "is_english": true,
+          "summary": "• Agents-A1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "InternScience/Agents-A1",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
