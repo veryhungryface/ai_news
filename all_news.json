@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-07-17",
-      "update_time": "2026-07-17 05:33:55",
+      "update_time": "2026-07-17 07:52:13",
       "news": [
         {
           "title": "KAIST 배상민 교수, 세계 권위 디자인 대상 수상",
@@ -384,19 +384,6 @@
           "category": "AI Model"
         },
         {
-          "title": "tencent/Hy3",
-          "link": "https://huggingface.co/tencent/Hy3",
-          "date": "2026-07-17",
-          "source": "HuggingFace",
-          "description": "• Hy3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/License-Apache%202.0-blue",
-          "is_english": true,
-          "summary": "• Hy3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "tencent/Hy3",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
           "link": "https://huggingface.co/OpenMOSS-Team/MOSS-Transcribe-Diarize",
           "date": "2026-07-17",
@@ -406,6 +393,19 @@
           "is_english": true,
           "summary": "• MOSS-Transcribe-Diarize 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "tencent/Hy3",
+          "link": "https://huggingface.co/tencent/Hy3",
+          "date": "2026-07-17",
+          "source": "HuggingFace",
+          "description": "• Hy3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/License-Apache%202.0-blue",
+          "is_english": true,
+          "summary": "• Hy3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "tencent/Hy3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -462,19 +462,6 @@
           "category": "AI Model"
         },
         {
-          "title": "InternScience/Agents-A1",
-          "link": "https://huggingface.co/InternScience/Agents-A1",
-          "date": "2026-07-17",
-          "source": "HuggingFace",
-          "description": "• Agents-A1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/InternScience/Agents-A1/resolve/main/./figures/24px.svg",
-          "is_english": true,
-          "summary": "• Agents-A1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "InternScience/Agents-A1",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
           "link": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
           "date": "2026-07-17",
@@ -484,6 +471,19 @@
           "is_english": true,
           "summary": "• MiniCPM5-1B-Claude-Opus-Fable5-Thinking 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "InternScience/Agents-A1",
+          "link": "https://huggingface.co/InternScience/Agents-A1",
+          "date": "2026-07-17",
+          "source": "HuggingFace",
+          "description": "• Agents-A1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/InternScience/Agents-A1/resolve/main/./figures/24px.svg",
+          "is_english": true,
+          "summary": "• Agents-A1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "InternScience/Agents-A1",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -540,15 +540,15 @@
           "category": "AI Model"
         },
         {
-          "title": "baidu/Unlimited-OCR",
-          "link": "https://huggingface.co/baidu/Unlimited-OCR",
+          "title": "Cactus-Compute/needle",
+          "link": "https://huggingface.co/Cactus-Compute/needle",
           "date": "2026-07-17",
           "source": "HuggingFace",
-          "description": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/baidu/Unlimited-OCR/resolve/main/assets/baidu.png",
+          "description": "• needle 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "baidu/Unlimited-OCR",
+          "summary": "• needle 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Cactus-Compute/needle",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
