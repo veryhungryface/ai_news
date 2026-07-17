@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-07-18",
-      "update_time": "2026-07-17 16:08:32",
+      "update_time": "2026-07-17 18:53:21",
       "news": [
+        {
+          "title": "Chinese AI Startup Releases Massive Open Weight Model",
+          "link": "https://aibusiness.com/foundation-models/moonshot-ai-releases-kimi-k3",
+          "date": "2026-07-18",
+          "source": "AI Business",
+          "description": "Kimi K3 offers enterprises a 2.8 trillion parameter open model. But for U.S.-based companies, deciding whether to use it is complicated.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt89f9b2503bcfa4f7/6a5a5ae90369d2e137174bc6/moonshot.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Chinese AI Startup Releases Massive Open Weight Model",
+          "original_summary": "Kimi K3 offers enterprises a 2.8 trillion parameter open model. But for U.S.-based companies, deciding whether to use it is complicated.",
+          "summary": "Kimi K3 offers enterprises a 2.8 trillion parameter open model. But for U.S.-based companies, deciding whether to use it is complicated."
+        },
         {
           "title": "thinkingmachines/Inkling",
           "link": "https://huggingface.co/thinkingmachines/Inkling",
@@ -122,15 +134,15 @@
           "category": "AI Model"
         },
         {
-          "title": "tencent/Hy3",
-          "link": "https://huggingface.co/tencent/Hy3",
+          "title": "ATH-MaaS/OvisOCR2",
+          "link": "https://huggingface.co/ATH-MaaS/OvisOCR2",
           "date": "2026-07-18",
           "source": "HuggingFace",
-          "description": "• Hy3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/License-Apache%202.0-blue",
+          "description": "• OvisOCR2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/658a8a837959448ef5500ce5/vRCIu5QD8VuIJolkC_ZHQ.png",
           "is_english": true,
-          "summary": "• Hy3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "tencent/Hy3",
+          "summary": "• OvisOCR2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "ATH-MaaS/OvisOCR2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -148,15 +160,15 @@
           "category": "AI Model"
         },
         {
-          "title": "ATH-MaaS/OvisOCR2",
-          "link": "https://huggingface.co/ATH-MaaS/OvisOCR2",
+          "title": "tencent/Hy3",
+          "link": "https://huggingface.co/tencent/Hy3",
           "date": "2026-07-18",
           "source": "HuggingFace",
-          "description": "• OvisOCR2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/658a8a837959448ef5500ce5/vRCIu5QD8VuIJolkC_ZHQ.png",
+          "description": "• Hy3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/License-Apache%202.0-blue",
           "is_english": true,
-          "summary": "• OvisOCR2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ATH-MaaS/OvisOCR2",
+          "summary": "• Hy3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "tencent/Hy3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +280,44 @@
     },
     {
       "date": "2026-07-17",
-      "update_time": "2026-07-17 16:08:30",
+      "update_time": "2026-07-17 18:53:21",
       "news": [
+        {
+          "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+          "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+          "date": "2026-07-17",
+          "source": "TechCrunch",
+          "description": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI&#8217;s chief hardware officer and claims more than 400 former Apple employees now work at the company.&#160;OpenAI&#8217;s response so far&#160;has been carefully hedged, and the timing&#160;couldn&#8217;t&#160;be worse with the company&#160;reportedly eyeing&#160;an IPO [&#8230;]",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+          "original_summary": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI&#8217;s chief hardware officer and claims more than 400 former Apple employees now work at the c",
+          "summary": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI&#8217;s chief hardware officer and claims more than 400 former Apple employees now work at the c"
+        },
+        {
+          "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
+          "link": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
+          "date": "2026-07-17",
+          "source": "TechCrunch",
+          "description": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI&#8217;s chief hardware officer and claims more than 400 former Apple employees now work at the company.&#160;OpenAI&#8217;s response so far&#160;has been carefully hedged, and the timing&#160;couldn&#8217;t&#160;be worse with the company&#160;reportedly eyeing&#160;an IPO [&#8230;]",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
+          "original_summary": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI&#8217;s chief hardware officer and claims more than 400 former Apple employees now work at the c",
+          "summary": "Apple&#160;filed a trade secrets&#160;lawsuit against OpenAI&#160;last Friday, and&#160;it&#8217;s&#160;not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI&#8217;s chief hardware officer and claims more than 400 former Apple employees now work at the c"
+        },
+        {
+          "title": "Following the questions where they lead",
+          "link": "https://news.mit.edu/2026/following-questions-where-they-lead-bailey-flanigan-0717",
+          "date": "2026-07-17",
+          "source": "MIT News",
+          "description": "Assistant Professor Bailey Flanigan has arrived at complex computational methods for helping democracy thrive.",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/mit-lids-Bailey-Flanigan.jpg?itok=DtZFVT8B",
+          "is_english": true,
+          "original_title": "Following the questions where they lead",
+          "original_summary": "Assistant Professor Bailey Flanigan has arrived at complex computational methods for helping democracy thrive.",
+          "summary": "Assistant Professor Bailey Flanigan has arrived at complex computational methods for helping democracy thrive."
+        },
         {
           "title": "A scorecard for the AI age",
           "link": "https://openai.com/index/a-scorecard-for-the-ai-age",
@@ -7933,7 +7981,7 @@
         {
           "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
           "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-          "date": "2026-07-09",
+          "date": "2026-07-18",
           "source": "HuggingFace",
           "description": "• Qwythos-9B-Claude-Mythos-5-1M-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M/resolve/main/assets/qwythos.png",
@@ -7946,7 +7994,7 @@
         {
           "title": "tencent/Hy3",
           "link": "https://huggingface.co/tencent/Hy3",
-          "date": "2026-07-09",
+          "date": "2026-07-18",
           "source": "HuggingFace",
           "description": "• Hy3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/License-Apache%202.0-blue",
@@ -7959,7 +8007,7 @@
         {
           "title": "zai-org/GLM-5.2",
           "link": "https://huggingface.co/zai-org/GLM-5.2",
-          "date": "2026-07-09",
+          "date": "2026-07-18",
           "source": "HuggingFace",
           "description": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
@@ -7985,7 +8033,7 @@
         {
           "title": "InternScience/Agents-A1",
           "link": "https://huggingface.co/InternScience/Agents-A1",
-          "date": "2026-07-09",
+          "date": "2026-07-18",
           "source": "HuggingFace",
           "description": "• Agents-A1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/InternScience/Agents-A1/resolve/main/./figures/24px.svg",
@@ -8024,7 +8072,7 @@
         {
           "title": "froggeric/Qwen-Fixed-Chat-Templates",
           "link": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
-          "date": "2026-07-09",
+          "date": "2026-07-18",
           "source": "HuggingFace",
           "description": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -8076,7 +8124,7 @@
         {
           "title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
           "link": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B",
-          "date": "2026-07-09",
+          "date": "2026-07-18",
           "source": "HuggingFace",
           "description": "• ThinkingCap-Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B/resolve/main/bottlecap-logo.png",
@@ -8089,7 +8137,7 @@
         {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-07-09",
+          "date": "2026-07-18",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
