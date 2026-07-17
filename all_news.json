@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-07-18",
-      "update_time": "2026-07-17 18:53:21",
+      "update_time": "2026-07-17 21:42:11",
       "news": [
+        {
+          "title": "[AI돋보기] 챗GPT는 왜 'GPT'일까…AI 이름에 숨은 패권 전략",
+          "link": "https://www.yna.co.kr/view/AKR20260716022500017",
+          "date": "2026-07-18",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 심재훈 기자 = 생성형 인공지능(AI) 업계의 경쟁이 모델 성능 우위를 넘어 &apos;브랜드 주도권&apos; 싸움으로 번지고 있다.",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/07/16/AKR20260716022500017_01_i_P2.jpg",
+          "is_english": true,
+          "original_title": "[AI돋보기] 챗GPT는 왜 'GPT'일까…AI 이름에 숨은 패권 전략",
+          "original_summary": "(서울=연합뉴스) 심재훈 기자 = 생성형 인공지능(AI) 업계의 경쟁이 모델 성능 우위를 넘어 &apos;브랜드 주도권&apos; 싸움으로 번지고 있다.",
+          "summary": "(서울=연합뉴스) 심재훈 기자 = 생성형 인공지능(AI) 업계의 경쟁이 모델 성능 우위를 넘어 &apos;브랜드 주도권&apos; 싸움으로 번지고 있다."
+        },
+        {
+          "title": "Nvidia Broadens Physical AI Push With Robotics, Edge AI Updates",
+          "link": "https://aibusiness.com/robotics/nvidia-physical-ai-push-robotics-edge-ai-updates",
+          "date": "2026-07-18",
+          "source": "AI Business",
+          "description": "The chipmaker is fleshing out its physical AI ecosystem, from foundation models and edge hardware to software, developer tools and industrial partnerships.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt38e4f3021eb2e43b/6a5a8d314ce64445201cf026/nvidia.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Nvidia Broadens Physical AI Push With Robotics, Edge AI Updates",
+          "original_summary": "The chipmaker is fleshing out its physical AI ecosystem, from foundation models and edge hardware to software, developer tools and industrial partnerships.",
+          "summary": "The chipmaker is fleshing out its physical AI ecosystem, from foundation models and edge hardware to software, developer tools and industrial partnerships."
+        },
         {
           "title": "Chinese AI Startup Releases Massive Open Weight Model",
           "link": "https://aibusiness.com/foundation-models/moonshot-ai-releases-kimi-k3",
@@ -212,6 +236,19 @@
           "category": "AI Model"
         },
         {
+          "title": "prism-ml/Bonsai-27B-mlx-1bit",
+          "link": "https://huggingface.co/prism-ml/Bonsai-27B-mlx-1bit",
+          "date": "2026-07-18",
+          "source": "HuggingFace",
+          "description": "• Bonsai-27B-mlx-1bit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/prism-ml/Bonsai-27B-mlx-1bit/resolve/main/./assets/bonsai-logo.svg",
+          "is_english": true,
+          "summary": "• Bonsai-27B-mlx-1bit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "prism-ml/Bonsai-27B-mlx-1bit",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "InternScience/Agents-A1",
           "link": "https://huggingface.co/InternScience/Agents-A1",
           "date": "2026-07-18",
@@ -238,15 +275,15 @@
           "category": "AI Model"
         },
         {
-          "title": "prism-ml/Bonsai-27B-mlx-1bit",
-          "link": "https://huggingface.co/prism-ml/Bonsai-27B-mlx-1bit",
+          "title": "Wan-AI/Wan-Dancer-14B",
+          "link": "https://huggingface.co/Wan-AI/Wan-Dancer-14B",
           "date": "2026-07-18",
           "source": "HuggingFace",
-          "description": "• Bonsai-27B-mlx-1bit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/prism-ml/Bonsai-27B-mlx-1bit/resolve/main/./assets/bonsai-logo.svg",
+          "description": "• Wan-Dancer-14B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/Wan-AI/Wan-Dancer-14B/resolve/main/assets/logo.png",
           "is_english": true,
-          "summary": "• Bonsai-27B-mlx-1bit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "prism-ml/Bonsai-27B-mlx-1bit",
+          "summary": "• Wan-Dancer-14B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Wan-AI/Wan-Dancer-14B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -262,26 +299,49 @@
           "translated_title": "Cactus-Compute/needle",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "froggeric/Qwen-Fixed-Chat-Templates",
-          "link": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
-          "date": "2026-07-18",
-          "source": "HuggingFace",
-          "description": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "froggeric/Qwen-Fixed-Chat-Templates",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-07-17",
-      "update_time": "2026-07-17 18:53:21",
+      "update_time": "2026-07-17 21:42:10",
       "news": [
+        {
+          "title": "The Zoom hack that says, ‘Don’t record me’",
+          "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
+          "date": "2026-07-17",
+          "source": "TechCrunch",
+          "description": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?",
+          "image": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1392897289.jpg?resize=1200,806",
+          "is_english": true,
+          "original_title": "The Zoom hack that says, ‘Don’t record me’",
+          "original_summary": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?",
+          "summary": "If every meeting, watercooler conversation, and date gets transcribed and summarized, who's actually reading any of it?"
+        },
+        {
+          "title": "Agility Robotics plants its flag in Tesla’s backyard",
+          "link": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
+          "date": "2026-07-17",
+          "source": "TechCrunch",
+          "description": "Agility is opening a new training center for its Digit robots in Fremont, California. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/1P1A6479.jpg?resize=800,1200",
+          "is_english": true,
+          "original_title": "Agility Robotics plants its flag in Tesla’s backyard",
+          "original_summary": "Agility is opening a new training center for its Digit robots in Fremont, California. ",
+          "summary": "Agility is opening a new training center for its Digit robots in Fremont, California. "
+        },
+        {
+          "title": "AI-driven memory crunch jolts India’s smartphone market",
+          "link": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
+          "date": "2026-07-17",
+          "source": "TechCrunch",
+          "description": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/samsung-india-tariffs-2227140805.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "AI-driven memory crunch jolts India’s smartphone market",
+          "original_summary": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy.",
+          "summary": "India's smartphone slowdown highlights how the AI boom is reshaping consumer electronics, from pricing and demand to corporate strategy."
+        },
         {
           "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
           "link": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
