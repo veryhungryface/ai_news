@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-07-18",
-      "update_time": "2026-07-18 05:16:27",
+      "update_time": "2026-07-18 07:27:09",
       "news": [
         {
           "title": "애플, 오픈AI '하드웨어 이직자' 40명에 경고 서한 발송..\"증거 보존하라\"",
@@ -340,19 +340,6 @@
           "category": "AI Model"
         },
         {
-          "title": "tencent/Hy3",
-          "link": "https://huggingface.co/tencent/Hy3",
-          "date": "2026-07-18",
-          "source": "HuggingFace",
-          "description": "• Hy3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/License-Apache%202.0-blue",
-          "is_english": true,
-          "summary": "• Hy3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "tencent/Hy3",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
           "link": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
           "date": "2026-07-18",
@@ -366,15 +353,15 @@
           "category": "AI Model"
         },
         {
-          "title": "empero-ai/Qwythos-9B-v2",
-          "link": "https://huggingface.co/empero-ai/Qwythos-9B-v2",
+          "title": "tencent/Hy3",
+          "link": "https://huggingface.co/tencent/Hy3",
           "date": "2026-07-18",
           "source": "HuggingFace",
-          "description": "• Qwythos-9B-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/empero-ai/Qwythos-9B-v2/resolve/main/qwythos_v2.png",
+          "description": "• Hy3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/License-Apache%202.0-blue",
           "is_english": true,
-          "summary": "• Qwythos-9B-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "empero-ai/Qwythos-9B-v2",
+          "summary": "• Hy3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "tencent/Hy3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -388,6 +375,19 @@
           "is_english": true,
           "summary": "• Hy3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "AngelSlim/Hy3-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-v2",
+          "link": "https://huggingface.co/empero-ai/Qwythos-9B-v2",
+          "date": "2026-07-18",
+          "source": "HuggingFace",
+          "description": "• Qwythos-9B-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/empero-ai/Qwythos-9B-v2/resolve/main/qwythos_v2.png",
+          "is_english": true,
+          "summary": "• Qwythos-9B-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "empero-ai/Qwythos-9B-v2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
