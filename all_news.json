@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-07-18",
-      "update_time": "2026-07-17 21:42:11",
+      "update_time": "2026-07-18 01:25:50",
       "news": [
+        {
+          "title": "메타, 앤트로픽과 15조 AI 인프라 임대 논의…클라우드 진출 눈앞",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212896",
+          "date": "2026-07-18",
+          "source": "AI타임스",
+          "description": "메타가 막대한 비용을 투자해 구축한 데이터센터의 컴퓨팅 파워를 경쟁사인 앤트로픽에 임대하는 계약을 추진 중이다. 이번 거래가 성사되면 메타는 처음으로 클라우드 시장에 진출하게 된다.뉴욕타임스(NYT)는 18일 정통한 소식통을 인용, 메타가 고성능 AI 컴퓨팅 자원을 앤트로픽에 임대하는 초기 논의를 진행 중이라고 보도했다.이에 따르면 이번 파트너십 제안은 지난 6월 앤트로픽이 먼저 메타에 제안하면서 시작됐다. 규모는 2년간 최대 100억달러(약 14조9000억원)에 달할 것으로 추산된다. 앤트로픽은 매달 분할 지급 방식으로 대금을 결",
+          "image": "https://cdn.aitimes.com/news/photo/202607/212896_216254_4312.png",
+          "is_english": false,
+          "original_title": "메타, 앤트로픽과 15조 AI 인프라 임대 논의…클라우드 진출 눈앞",
+          "original_summary": "메타가 막대한 비용을 투자해 구축한 데이터센터의 컴퓨팅 파워를 경쟁사인 앤트로픽에 임대하는 계약을 추진 중이다. 이번 거래가 성사되면 메타는 처음으로 클라우드 시장에 진출하게 된다.뉴욕타임스(NYT)는 18일 정통한 소식통을 인용, 메타가 고성능 AI 컴퓨팅 자원을 앤트로픽에 임대하는 초기 논의를 진행 중이라고 보도했다.이에 따르면 이번 파트너십 제안은 지난 6월 앤트로픽이 먼저 메타에 제안하면서 시작됐다. 규모는 2년간 최대 100억달러(약 14조9000억원)에 달할 것으로 추산된다. 앤트로픽은 매달 분할 지급 방식으로 대금을 결",
+          "summary": "메타가 막대한 비용을 투자해 구축한 데이터센터의 컴퓨팅 파워를 경쟁사인 앤트로픽에 임대하는 계약을 추진 중이다. 이번 거래가 성사되면 메타는 처음으로 클라우드 시장에 진출하게 된다.뉴욕타임스(NYT)는 18일 정통한 소식통을 인용, 메타가 고성능 AI 컴퓨팅 자원을 앤트로픽에 임대하는 초기 논의를 진행 중이라고 보도했다.이에 따르면 이번 파트너십 제안은 지난 6월 앤트로픽이 먼저 메타에 제안하면서 시작됐다. 규모는 2년간 최대 100억달러(약 14조9000억원)에 달할 것으로 추산된다. 앤트로픽은 매달 분할 지급 방식으로 대금을 결"
+        },
         {
           "title": "[AI돋보기] 챗GPT는 왜 'GPT'일까…AI 이름에 숨은 패권 전략",
           "link": "https://www.yna.co.kr/view/AKR20260716022500017",
@@ -249,15 +261,15 @@
           "category": "AI Model"
         },
         {
-          "title": "InternScience/Agents-A1",
-          "link": "https://huggingface.co/InternScience/Agents-A1",
+          "title": "Wan-AI/Wan-Dancer-14B",
+          "link": "https://huggingface.co/Wan-AI/Wan-Dancer-14B",
           "date": "2026-07-18",
           "source": "HuggingFace",
-          "description": "• Agents-A1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/InternScience/Agents-A1/resolve/main/./figures/24px.svg",
+          "description": "• Wan-Dancer-14B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/Wan-AI/Wan-Dancer-14B/resolve/main/assets/logo.png",
           "is_english": true,
-          "summary": "• Agents-A1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "InternScience/Agents-A1",
+          "summary": "• Wan-Dancer-14B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Wan-AI/Wan-Dancer-14B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -275,19 +287,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Wan-AI/Wan-Dancer-14B",
-          "link": "https://huggingface.co/Wan-AI/Wan-Dancer-14B",
-          "date": "2026-07-18",
-          "source": "HuggingFace",
-          "description": "• Wan-Dancer-14B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/Wan-AI/Wan-Dancer-14B/resolve/main/assets/logo.png",
-          "is_english": true,
-          "summary": "• Wan-Dancer-14B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Wan-AI/Wan-Dancer-14B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Cactus-Compute/needle",
           "link": "https://huggingface.co/Cactus-Compute/needle",
           "date": "2026-07-18",
@@ -299,13 +298,50 @@
           "translated_title": "Cactus-Compute/needle",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "InternScience/Agents-A1",
+          "link": "https://huggingface.co/InternScience/Agents-A1",
+          "date": "2026-07-18",
+          "source": "HuggingFace",
+          "description": "• Agents-A1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/InternScience/Agents-A1/resolve/main/./figures/24px.svg",
+          "is_english": true,
+          "summary": "• Agents-A1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "InternScience/Agents-A1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-07-17",
-      "update_time": "2026-07-17 21:42:10",
+      "update_time": "2026-07-18 01:25:50",
       "news": [
+        {
+          "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+          "link": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+          "date": "2026-07-17",
+          "source": "TechCrunch",
+          "description": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/vertu-alphafold-unfold.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
+          "original_summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day.",
+          "summary": "From AI workflows to battery life and security, here's what it's really like to live with Vertu's luxury foldable every day."
+        },
+        {
+          "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+          "link": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
+          "date": "2026-07-17",
+          "source": "TechCrunch",
+          "description": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/dollar-signs-data-center.png?w=1024",
+          "is_english": true,
+          "original_title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
+          "original_summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding.",
+          "summary": "Databricks has remade its image into an AI company and has published research on the cost savings of open weight AI models for coding."
+        },
         {
           "title": "The Zoom hack that says, ‘Don’t record me’",
           "link": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
