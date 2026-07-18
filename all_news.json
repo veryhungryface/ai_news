@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-07-18",
-      "update_time": "2026-07-18 10:09:34",
+      "update_time": "2026-07-18 12:51:17",
       "news": [
+        {
+          "title": "애플-엔비디아, 시총 1위 두고 '초박빙' 접전…장중 한때 애플 선두 탈환",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212906",
+          "date": "2026-07-18",
+          "source": "AI타임스",
+          "description": "세계에서 가장 가치 있는 기업 타이틀을 두고 애플과 엔비디아가 초박빙 경쟁을 벌이고 있다. AI 인프라 시장을 이끌어온 엔비디아와 AI 전략에 대한 기대감이 커진 애플의 시가총액 격차가 급격히 좁혀지면서, 두 기업이 시총 1위 자리를 놓고 엎치락뒤치락하는 양상이다.애플은 17일(현지시간) 장중 한때 엔비디아를 제치고 시총 1위를 탈환했으나, 마감 직전 엔비디아가 재역전에 성공하며 근소한 차이로 선두를 지켜냈다.이날 뉴욕증시 개장 초반 애플의 시가총액은 약 4조9100억달러(약 7316조원)까지 치솟으며 한때 엔비디아를 제치고 미국",
+          "image": "https://cdn.aitimes.com/news/photo/202607/212906_216267_2936.jpg",
+          "is_english": false,
+          "original_title": "애플-엔비디아, 시총 1위 두고 '초박빙' 접전…장중 한때 애플 선두 탈환",
+          "original_summary": "세계에서 가장 가치 있는 기업 타이틀을 두고 애플과 엔비디아가 초박빙 경쟁을 벌이고 있다. AI 인프라 시장을 이끌어온 엔비디아와 AI 전략에 대한 기대감이 커진 애플의 시가총액 격차가 급격히 좁혀지면서, 두 기업이 시총 1위 자리를 놓고 엎치락뒤치락하는 양상이다.애플은 17일(현지시간) 장중 한때 엔비디아를 제치고 시총 1위를 탈환했으나, 마감 직전 엔비디아가 재역전에 성공하며 근소한 차이로 선두를 지켜냈다.이날 뉴욕증시 개장 초반 애플의 시가총액은 약 4조9100억달러(약 7316조원)까지 치솟으며 한때 엔비디아를 제치고 미국",
+          "summary": "세계에서 가장 가치 있는 기업 타이틀을 두고 애플과 엔비디아가 초박빙 경쟁을 벌이고 있다. AI 인프라 시장을 이끌어온 엔비디아와 AI 전략에 대한 기대감이 커진 애플의 시가총액 격차가 급격히 좁혀지면서, 두 기업이 시총 1위 자리를 놓고 엎치락뒤치락하는 양상이다.애플은 17일(현지시간) 장중 한때 엔비디아를 제치고 시총 1위를 탈환했으나, 마감 직전 엔비디아가 재역전에 성공하며 근소한 차이로 선두를 지켜냈다.이날 뉴욕증시 개장 초반 애플의 시가총액은 약 4조9100억달러(약 7316조원)까지 치솟으며 한때 엔비디아를 제치고 미국"
+        },
         {
           "title": "[AI 이슈트렌드] 반도체발 코스피 쇼크 속 홈플러스 파산 위기 주목",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=212904",
@@ -296,19 +308,6 @@
           "category": "AI Model"
         },
         {
-          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-          "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-          "date": "2026-07-18",
-          "source": "HuggingFace",
-          "description": "• Qwythos-9B-Claude-Mythos-5-1M-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M/resolve/main/assets/qwythos.png",
-          "is_english": true,
-          "summary": "• Qwythos-9B-Claude-Mythos-5-1M-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "zai-org/GLM-5.2",
           "link": "https://huggingface.co/zai-org/GLM-5.2",
           "date": "2026-07-18",
@@ -322,15 +321,15 @@
           "category": "AI Model"
         },
         {
-          "title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
-          "link": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B",
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
           "date": "2026-07-18",
           "source": "HuggingFace",
-          "description": "• ThinkingCap-Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B/resolve/main/bottlecap-logo.png",
+          "description": "• Qwythos-9B-Claude-Mythos-5-1M-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M/resolve/main/assets/qwythos.png",
           "is_english": true,
-          "summary": "• ThinkingCap-Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
+          "summary": "• Qwythos-9B-Claude-Mythos-5-1M-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -344,6 +343,19 @@
           "is_english": true,
           "summary": "• krea2-identity-edit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "conradlocke/krea2-identity-edit",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
+          "link": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B",
+          "date": "2026-07-18",
+          "source": "HuggingFace",
+          "description": "• ThinkingCap-Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B/resolve/main/bottlecap-logo.png",
+          "is_english": true,
+          "summary": "• ThinkingCap-Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -491,19 +503,6 @@
           "category": "AI Model"
         },
         {
-          "title": "jlnsrk/GLM-5.2-colibri-int4",
-          "link": "https://huggingface.co/jlnsrk/GLM-5.2-colibri-int4",
-          "date": "2026-07-18",
-          "source": "HuggingFace",
-          "description": "• GLM-5.2-colibri-int4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• GLM-5.2-colibri-int4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "jlnsrk/GLM-5.2-colibri-int4",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
           "link": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
           "date": "2026-07-18",
@@ -513,6 +512,19 @@
           "is_english": true,
           "summary": "• MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "jlnsrk/GLM-5.2-colibri-int4",
+          "link": "https://huggingface.co/jlnsrk/GLM-5.2-colibri-int4",
+          "date": "2026-07-18",
+          "source": "HuggingFace",
+          "description": "• GLM-5.2-colibri-int4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• GLM-5.2-colibri-int4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "jlnsrk/GLM-5.2-colibri-int4",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
