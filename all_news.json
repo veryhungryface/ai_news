@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-07-19",
-      "update_time": "2026-07-19 10:19:50",
+      "update_time": "2026-07-19 12:53:36",
       "news": [
         {
           "title": "씽킹AI, 한국 진출 후 보폭 확대…고객사 60곳 확보·기능 고도화 가속",
@@ -279,19 +279,6 @@
           "category": "AI Model"
         },
         {
-          "title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
-          "link": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
-          "date": "2026-07-19",
-          "source": "HuggingFace",
-          "description": "• MiniCPM5-1B-Claude-Opus-Fable5-Thinking 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking/resolve/main/assets/banner.png",
-          "is_english": true,
-          "summary": "• MiniCPM5-1B-Claude-Opus-Fable5-Thinking 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "AngelSlim/Hy3-GGUF",
           "link": "https://huggingface.co/AngelSlim/Hy3-GGUF",
           "date": "2026-07-19",
@@ -301,6 +288,19 @@
           "is_english": true,
           "summary": "• Hy3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "AngelSlim/Hy3-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
+          "link": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
+          "date": "2026-07-19",
+          "source": "HuggingFace",
+          "description": "• MiniCPM5-1B-Claude-Opus-Fable5-Thinking 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking/resolve/main/assets/banner.png",
+          "is_english": true,
+          "summary": "• MiniCPM5-1B-Claude-Opus-Fable5-Thinking 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -331,19 +331,6 @@
           "category": "AI Model"
         },
         {
-          "title": "empero-ai/Qwythos-9B-v2-GGUF",
-          "link": "https://huggingface.co/empero-ai/Qwythos-9B-v2-GGUF",
-          "date": "2026-07-19",
-          "source": "HuggingFace",
-          "description": "• Qwythos-9B-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/empero-ai/Qwythos-9B-v2/resolve/main/qwythos_v2.png",
-          "is_english": true,
-          "summary": "• Qwythos-9B-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "empero-ai/Qwythos-9B-v2-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Wan-AI/Wan-Dancer-14B",
           "link": "https://huggingface.co/Wan-AI/Wan-Dancer-14B",
           "date": "2026-07-19",
@@ -353,6 +340,19 @@
           "is_english": true,
           "summary": "• Wan-Dancer-14B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Wan-AI/Wan-Dancer-14B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-v2-GGUF",
+          "link": "https://huggingface.co/empero-ai/Qwythos-9B-v2-GGUF",
+          "date": "2026-07-19",
+          "source": "HuggingFace",
+          "description": "• Qwythos-9B-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/empero-ai/Qwythos-9B-v2/resolve/main/qwythos_v2.png",
+          "is_english": true,
+          "summary": "• Qwythos-9B-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "empero-ai/Qwythos-9B-v2-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
