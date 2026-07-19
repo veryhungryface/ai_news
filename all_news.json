@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-07-20",
-      "update_time": "2026-07-19 15:45:55",
+      "update_time": "2026-07-19 18:50:51",
       "news": [
         {
           "title": "thinkingmachines/Inkling",
@@ -135,6 +135,19 @@
           "category": "AI Model"
         },
         {
+          "title": "baidu/Unlimited-OCR",
+          "link": "https://huggingface.co/baidu/Unlimited-OCR",
+          "date": "2026-07-20",
+          "source": "HuggingFace",
+          "description": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/baidu/Unlimited-OCR/resolve/main/assets/baidu.png",
+          "is_english": true,
+          "summary": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "baidu/Unlimited-OCR",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "AngelSlim/Hy3-GGUF",
           "link": "https://huggingface.co/AngelSlim/Hy3-GGUF",
           "date": "2026-07-20",
@@ -144,19 +157,6 @@
           "is_english": true,
           "summary": "• Hy3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "AngelSlim/Hy3-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
-          "link": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
-          "date": "2026-07-20",
-          "source": "HuggingFace",
-          "description": "• MiniCPM5-1B-Claude-Opus-Fable5-Thinking 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking/resolve/main/assets/banner.png",
-          "is_english": true,
-          "summary": "• MiniCPM5-1B-Claude-Opus-Fable5-Thinking 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -174,15 +174,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Cactus-Compute/needle",
-          "link": "https://huggingface.co/Cactus-Compute/needle",
+          "title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
+          "link": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
           "date": "2026-07-20",
           "source": "HuggingFace",
-          "description": "• needle 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• MiniCPM5-1B-Claude-Opus-Fable5-Thinking 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking/resolve/main/assets/banner.png",
           "is_english": true,
-          "summary": "• needle 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Cactus-Compute/needle",
+          "summary": "• MiniCPM5-1B-Claude-Opus-Fable5-Thinking 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -213,19 +213,6 @@
           "category": "AI Model"
         },
         {
-          "title": "empero-ai/Qwythos-9B-v2-GGUF",
-          "link": "https://huggingface.co/empero-ai/Qwythos-9B-v2-GGUF",
-          "date": "2026-07-20",
-          "source": "HuggingFace",
-          "description": "• Qwythos-9B-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/empero-ai/Qwythos-9B-v2/resolve/main/qwythos_v2.png",
-          "is_english": true,
-          "summary": "• Qwythos-9B-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "empero-ai/Qwythos-9B-v2-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "prism-ml/Ternary-Bonsai-27B-mlx-2bit",
           "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-mlx-2bit",
           "date": "2026-07-20",
@@ -239,15 +226,28 @@
           "category": "AI Model"
         },
         {
-          "title": "baidu/Unlimited-OCR",
-          "link": "https://huggingface.co/baidu/Unlimited-OCR",
+          "title": "Cactus-Compute/needle",
+          "link": "https://huggingface.co/Cactus-Compute/needle",
           "date": "2026-07-20",
           "source": "HuggingFace",
-          "description": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/baidu/Unlimited-OCR/resolve/main/assets/baidu.png",
+          "description": "• needle 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "baidu/Unlimited-OCR",
+          "summary": "• needle 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Cactus-Compute/needle",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-v2-GGUF",
+          "link": "https://huggingface.co/empero-ai/Qwythos-9B-v2-GGUF",
+          "date": "2026-07-20",
+          "source": "HuggingFace",
+          "description": "• Qwythos-9B-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/empero-ai/Qwythos-9B-v2/resolve/main/qwythos_v2.png",
+          "is_english": true,
+          "summary": "• Qwythos-9B-v2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "empero-ai/Qwythos-9B-v2-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -7093,7 +7093,7 @@
         {
           "title": "tencent/Hy3",
           "link": "https://huggingface.co/tencent/Hy3",
-          "date": "2026-07-11",
+          "date": "2026-07-20",
           "source": "HuggingFace",
           "description": "• Hy3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/License-Apache%202.0-blue",
@@ -7106,7 +7106,7 @@
         {
           "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
           "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-          "date": "2026-07-11",
+          "date": "2026-07-20",
           "source": "HuggingFace",
           "description": "• Qwythos-9B-Claude-Mythos-5-1M-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M/resolve/main/assets/qwythos.png",
@@ -7119,7 +7119,7 @@
         {
           "title": "zai-org/GLM-5.2",
           "link": "https://huggingface.co/zai-org/GLM-5.2",
-          "date": "2026-07-11",
+          "date": "2026-07-20",
           "source": "HuggingFace",
           "description": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
@@ -7145,7 +7145,7 @@
         {
           "title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
           "link": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B",
-          "date": "2026-07-11",
+          "date": "2026-07-20",
           "source": "HuggingFace",
           "description": "• ThinkingCap-Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B/resolve/main/bottlecap-logo.png",
@@ -7158,7 +7158,7 @@
         {
           "title": "baidu/Unlimited-OCR",
           "link": "https://huggingface.co/baidu/Unlimited-OCR",
-          "date": "2026-07-11",
+          "date": "2026-07-20",
           "source": "HuggingFace",
           "description": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/baidu/Unlimited-OCR/resolve/main/assets/baidu.png",
@@ -7210,7 +7210,7 @@
         {
           "title": "conradlocke/krea2-identity-edit",
           "link": "https://huggingface.co/conradlocke/krea2-identity-edit",
-          "date": "2026-07-11",
+          "date": "2026-07-20",
           "source": "HuggingFace",
           "description": "• krea2-identity-edit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -7223,7 +7223,7 @@
         {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-07-11",
+          "date": "2026-07-20",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
