@@ -2,8 +2,44 @@
   "dates": [
     {
       "date": "2026-07-21",
-      "update_time": "2026-07-20 19:25:17",
+      "update_time": "2026-07-20 21:55:23",
       "news": [
+        {
+          "title": "기후부, '에너지·먹는물' AI 도입시 '인간 개입 체계' 의무화",
+          "link": "https://www.yna.co.kr/view/AKR20260720134000530",
+          "date": "2026-07-21",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 이재영 기자 = 기후에너지환경부가 에너지나 식수와 관련한 인공지능(AI) 서비스를 도입할 때 사람이 서비스를 즉각 중지하거나 ...",
+          "image": "https://img.yna.co.kr/photo/cms/2026/04/13/04/PCM20260413000004990_P2.jpg",
+          "is_english": false,
+          "original_title": "기후부, '에너지·먹는물' AI 도입시 '인간 개입 체계' 의무화",
+          "original_summary": "(서울=연합뉴스) 이재영 기자 = 기후에너지환경부가 에너지나 식수와 관련한 인공지능(AI) 서비스를 도입할 때 사람이 서비스를 즉각 중지하거나 ...",
+          "summary": "(서울=연합뉴스) 이재영 기자 = 기후에너지환경부가 에너지나 식수와 관련한 인공지능(AI) 서비스를 도입할 때 사람이 서비스를 즉각 중지하거나 ..."
+        },
+        {
+          "title": "AI기본법 후속 개정안 시행…한국 AI 산업 시험대",
+          "link": "https://www.yna.co.kr/view/AKR20260720150400017",
+          "date": "2026-07-21",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 한상용 기자 = 인공지능(AI)기본법 후속 개정안이 21일 시행되면서 국내 AI 법·제도 체계가 산업 현장에서 본격 가동된다.",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/07/20/AKR20260720150400017_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "AI기본법 후속 개정안 시행…한국 AI 산업 시험대",
+          "original_summary": "(서울=연합뉴스) 한상용 기자 = 인공지능(AI)기본법 후속 개정안이 21일 시행되면서 국내 AI 법·제도 체계가 산업 현장에서 본격 가동된다.",
+          "summary": "(서울=연합뉴스) 한상용 기자 = 인공지능(AI)기본법 후속 개정안이 21일 시행되면서 국내 AI 법·제도 체계가 산업 현장에서 본격 가동된다."
+        },
+        {
+          "title": "Startup Launches Foundry to Develop Materials for Chips",
+          "link": "https://aibusiness.com/generative-ai/startup-launches-foundry-develop-materials-chips",
+          "date": "2026-07-21",
+          "source": "AI Business",
+          "description": "Founding members -- including Nvidia, Meta and Samsung -- aim to reduce their reliance on rare materials used in chips.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt0a894144923602bf/6a5e773f19a2be36f042e726/CuspAI.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Startup Launches Foundry to Develop Materials for Chips",
+          "original_summary": "Founding members -- including Nvidia, Meta and Samsung -- aim to reduce their reliance on rare materials used in chips.",
+          "summary": "Founding members -- including Nvidia, Meta and Samsung -- aim to reduce their reliance on rare materials used in chips."
+        },
         {
           "title": "thinkingmachines/Inkling",
           "link": "https://huggingface.co/thinkingmachines/Inkling",
@@ -148,19 +184,6 @@
           "category": "AI Model"
         },
         {
-          "title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
-          "link": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
-          "date": "2026-07-21",
-          "source": "HuggingFace",
-          "description": "• MiniCPM5-1B-Claude-Opus-Fable5-Thinking 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking/resolve/main/assets/banner.png",
-          "is_english": true,
-          "summary": "• MiniCPM5-1B-Claude-Opus-Fable5-Thinking 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "prism-ml/Bonsai-27B-mlx-1bit",
           "link": "https://huggingface.co/prism-ml/Bonsai-27B-mlx-1bit",
           "date": "2026-07-21",
@@ -187,15 +210,15 @@
           "category": "AI Model"
         },
         {
-          "title": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
-          "link": "https://huggingface.co/OpenMOSS-Team/MOSS-Transcribe-Diarize",
+          "title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
+          "link": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
           "date": "2026-07-21",
           "source": "HuggingFace",
-          "description": "• MOSS-Transcribe-Diarize 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/GitHub-OpenMOSS%2FMOSS--Transcribe--Diarize-black?logo=github",
+          "description": "• MiniCPM5-1B-Claude-Opus-Fable5-Thinking 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking/resolve/main/assets/banner.png",
           "is_english": true,
-          "summary": "• MOSS-Transcribe-Diarize 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
+          "summary": "• MiniCPM5-1B-Claude-Opus-Fable5-Thinking 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -209,6 +232,19 @@
           "is_english": true,
           "summary": "• MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
+          "link": "https://huggingface.co/OpenMOSS-Team/MOSS-Transcribe-Diarize",
+          "date": "2026-07-21",
+          "source": "HuggingFace",
+          "description": "• MOSS-Transcribe-Diarize 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/GitHub-OpenMOSS%2FMOSS--Transcribe--Diarize-black?logo=github",
+          "is_english": true,
+          "summary": "• MOSS-Transcribe-Diarize 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +304,56 @@
     },
     {
       "date": "2026-07-20",
-      "update_time": "2026-07-20 19:25:17",
+      "update_time": "2026-07-20 21:55:23",
       "news": [
+        {
+          "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+          "link": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
+          "date": "2026-07-20",
+          "source": "TechCrunch",
+          "description": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-01-at-10.00.27-AM.jpg?resize=1200,611",
+          "is_english": true,
+          "original_title": "Google is working on a new AI chip designed to make Gemini more efficient",
+          "original_summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently. ",
+          "summary": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently. "
+        },
+        {
+          "title": "AI’s most important protocol is getting a little bit easier to use",
+          "link": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use/",
+          "date": "2026-07-20",
+          "source": "TechCrunch",
+          "description": "The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources and services. It&#8217;s the plumbing that lets a chatbot reach into your calendar, your database, or your internal tools, instead of engineers building custom pipes for every connection. Next [&#8230;]",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/10/getty-perplexity.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "AI’s most important protocol is getting a little bit easier to use",
+          "original_summary": "The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources and services. It&#8217;s the plumbing that lets a chatbot reach into your calendar, your database, or your internal tools, instead of engineers b",
+          "summary": "The Model Context Protocol (MCP) is one of the basic building blocks of AI interoperability, giving AI models a secure way to access external data sources and services. It&#8217;s the plumbing that lets a chatbot reach into your calendar, your database, or your internal tools, instead of engineers b"
+        },
+        {
+          "title": "X relaunches a rebuilt Android app after year-long effort",
+          "link": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+          "date": "2026-07-20",
+          "source": "TechCrunch",
+          "description": "X says the rebuilt version of its Android app is now available globally.  ",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/07/x-twitter.jpg?resize=1200,550",
+          "is_english": true,
+          "original_title": "X relaunches a rebuilt Android app after year-long effort",
+          "original_summary": "X says the rebuilt version of its Android app is now available globally.  ",
+          "summary": "X says the rebuilt version of its Android app is now available globally.  "
+        },
+        {
+          "title": "OpenAI is scared of open-weight models. Should the US be?",
+          "link": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+          "date": "2026-07-20",
+          "source": "TechCrunch",
+          "description": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of  turning AI into a business. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2153474303-e.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "OpenAI is scared of open-weight models. Should the US be?",
+          "original_summary": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of  turning AI into a business. ",
+          "summary": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of  turning AI into a business. "
+        },
         {
           "title": "Safety and alignment in an era of long-horizon models",
           "link": "https://openai.com/index/safety-alignment-long-horizon-models",
