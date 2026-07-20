@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-07-21",
-      "update_time": "2026-07-20 16:20:02",
+      "update_time": "2026-07-20 19:25:17",
       "news": [
         {
           "title": "thinkingmachines/Inkling",
@@ -96,19 +96,6 @@
           "category": "AI Model"
         },
         {
-          "title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
-          "link": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B",
-          "date": "2026-07-21",
-          "source": "HuggingFace",
-          "description": "• ThinkingCap-Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B/resolve/main/bottlecap-logo.png",
-          "is_english": true,
-          "summary": "• ThinkingCap-Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "date": "2026-07-21",
@@ -118,6 +105,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
+          "link": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B",
+          "date": "2026-07-21",
+          "source": "HuggingFace",
+          "description": "• ThinkingCap-Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B/resolve/main/bottlecap-logo.png",
+          "is_english": true,
+          "summary": "• ThinkingCap-Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -200,19 +200,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Wan-AI/Wan-Dancer-14B",
-          "link": "https://huggingface.co/Wan-AI/Wan-Dancer-14B",
-          "date": "2026-07-21",
-          "source": "HuggingFace",
-          "description": "• Wan-Dancer-14B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/Wan-AI/Wan-Dancer-14B/resolve/main/assets/logo.png",
-          "is_english": true,
-          "summary": "• Wan-Dancer-14B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Wan-AI/Wan-Dancer-14B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
           "link": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-V2-Thinking-GGUF",
           "date": "2026-07-21",
@@ -235,6 +222,19 @@
           "is_english": true,
           "summary": "• Ternary-Bonsai-27B-mlx-2bit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "prism-ml/Ternary-Bonsai-27B-mlx-2bit",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Wan-AI/Wan-Dancer-14B",
+          "link": "https://huggingface.co/Wan-AI/Wan-Dancer-14B",
+          "date": "2026-07-21",
+          "source": "HuggingFace",
+          "description": "• Wan-Dancer-14B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/Wan-AI/Wan-Dancer-14B/resolve/main/assets/logo.png",
+          "is_english": true,
+          "summary": "• Wan-Dancer-14B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Wan-AI/Wan-Dancer-14B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +268,32 @@
     },
     {
       "date": "2026-07-20",
-      "update_time": "2026-07-20 16:20:02",
+      "update_time": "2026-07-20 19:25:17",
       "news": [
+        {
+          "title": "Safety and alignment in an era of long-horizon models",
+          "link": "https://openai.com/index/safety-alignment-long-horizon-models",
+          "date": "2026-07-20",
+          "source": "OpenAI",
+          "description": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Safety and alignment in an era of long-horizon models",
+          "original_summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment.",
+          "summary": "OpenAI shares lessons from deploying long-running AI models, highlighting new safety risks, observed failures, and improved safeguards through iterative deployment."
+        },
+        {
+          "title": "Adobe camera app’s new feature will critique your photos using AI",
+          "link": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+          "date": "2026-07-20",
+          "source": "TechCrunch",
+          "description": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-20-at-4.11.16-PM.jpg?resize=1200,619",
+          "is_english": true,
+          "original_title": "Adobe camera app’s new feature will critique your photos using AI",
+          "original_summary": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app.",
+          "summary": "Adobe's Project Indigo can now remove all kinds of backgrounds from photos you snap using the app."
+        },
         {
           "title": "YouTube clarifies policies around AI slop and upsetting videos",
           "link": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
@@ -7418,7 +7442,7 @@
         {
           "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
           "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-          "date": "2026-07-12",
+          "date": "2026-07-21",
           "source": "HuggingFace",
           "description": "• Qwythos-9B-Claude-Mythos-5-1M-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M/resolve/main/assets/qwythos.png",
@@ -7431,7 +7455,7 @@
         {
           "title": "zai-org/GLM-5.2",
           "link": "https://huggingface.co/zai-org/GLM-5.2",
-          "date": "2026-07-12",
+          "date": "2026-07-21",
           "source": "HuggingFace",
           "description": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
@@ -7444,7 +7468,7 @@
         {
           "title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
           "link": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B",
-          "date": "2026-07-12",
+          "date": "2026-07-21",
           "source": "HuggingFace",
           "description": "• ThinkingCap-Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B/resolve/main/bottlecap-logo.png",
@@ -7483,7 +7507,7 @@
         {
           "title": "conradlocke/krea2-identity-edit",
           "link": "https://huggingface.co/conradlocke/krea2-identity-edit",
-          "date": "2026-07-12",
+          "date": "2026-07-21",
           "source": "HuggingFace",
           "description": "• krea2-identity-edit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -7496,7 +7520,7 @@
         {
           "title": "baidu/Unlimited-OCR",
           "link": "https://huggingface.co/baidu/Unlimited-OCR",
-          "date": "2026-07-12",
+          "date": "2026-07-21",
           "source": "HuggingFace",
           "description": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/baidu/Unlimited-OCR/resolve/main/assets/baidu.png",
@@ -7522,7 +7546,7 @@
         {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-07-12",
+          "date": "2026-07-21",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -7626,7 +7650,7 @@
         {
           "title": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
           "link": "https://huggingface.co/OpenMOSS-Team/MOSS-Transcribe-Diarize",
-          "date": "2026-07-12",
+          "date": "2026-07-21",
           "source": "HuggingFace",
           "description": "• MOSS-Transcribe-Diarize 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/GitHub-OpenMOSS%2FMOSS--Transcribe--Diarize-black?logo=github",
