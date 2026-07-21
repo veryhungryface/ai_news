@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-07-22",
-      "update_time": "2026-07-21 19:03:23",
+      "update_time": "2026-07-21 21:54:52",
       "news": [
+        {
+          "title": "서울시복지재단, 장기요양 인력배치 AI 에이전트 개발",
+          "link": "https://www.yna.co.kr/view/AKR20260721150300004",
+          "date": "2026-07-22",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 황재하 기자 = 서울시복지재단은 이달 21일 엔젤노인복지센터, 바이브컴퍼니와 &apos;인력배치 지원 AI(인공지능) 에이전트 개발 및...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/07/21/AKR20260721150300004_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "서울시복지재단, 장기요양 인력배치 AI 에이전트 개발",
+          "original_summary": "(서울=연합뉴스) 황재하 기자 = 서울시복지재단은 이달 21일 엔젤노인복지센터, 바이브컴퍼니와 &apos;인력배치 지원 AI(인공지능) 에이전트 개발 및...",
+          "summary": "(서울=연합뉴스) 황재하 기자 = 서울시복지재단은 이달 21일 엔젤노인복지센터, 바이브컴퍼니와 &apos;인력배치 지원 AI(인공지능) 에이전트 개발 및..."
+        },
+        {
+          "title": "외국인 많이 찾는 서울 명소는 어디라고?…DDP·아차산 방문 급증",
+          "link": "https://www.yna.co.kr/view/AKR20260721157400004",
+          "date": "2026-07-22",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 황재하 기자 = 서울AI재단은 서울 명소 주요 16곳을 대상으로 작년 외국인 유동인구 자료를 분석한 결과 기존의 대중적 명소뿐...",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2024/06/25/PYH2024062517540001300_P2.jpg",
+          "is_english": false,
+          "original_title": "외국인 많이 찾는 서울 명소는 어디라고?…DDP·아차산 방문 급증",
+          "original_summary": "(서울=연합뉴스) 황재하 기자 = 서울AI재단은 서울 명소 주요 16곳을 대상으로 작년 외국인 유동인구 자료를 분석한 결과 기존의 대중적 명소뿐...",
+          "summary": "(서울=연합뉴스) 황재하 기자 = 서울AI재단은 서울 명소 주요 16곳을 대상으로 작년 외국인 유동인구 자료를 분석한 결과 기존의 대중적 명소뿐..."
+        },
         {
           "title": "Introducing the ChatGPT for small business program",
           "link": "https://openai.com/index/introducing-chatgpt-small-business-program",
@@ -119,19 +143,6 @@
           "category": "AI Model"
         },
         {
-          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-          "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-          "date": "2026-07-22",
-          "source": "HuggingFace",
-          "description": "• Qwythos-9B-Claude-Mythos-5-1M-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M/resolve/main/assets/qwythos.png",
-          "is_english": true,
-          "summary": "• Qwythos-9B-Claude-Mythos-5-1M-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "date": "2026-07-22",
@@ -141,6 +152,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "date": "2026-07-22",
+          "source": "HuggingFace",
+          "description": "• Qwythos-9B-Claude-Mythos-5-1M-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M/resolve/main/assets/qwythos.png",
+          "is_english": true,
+          "summary": "• Qwythos-9B-Claude-Mythos-5-1M-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -171,19 +195,6 @@
           "category": "AI Model"
         },
         {
-          "title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
-          "link": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
-          "date": "2026-07-22",
-          "source": "HuggingFace",
-          "description": "• MiniCPM5-1B-Claude-Opus-Fable5-Thinking 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking/resolve/main/assets/banner.png",
-          "is_english": true,
-          "summary": "• MiniCPM5-1B-Claude-Opus-Fable5-Thinking 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "prism-ml/Bonsai-27B-mlx-1bit",
           "link": "https://huggingface.co/prism-ml/Bonsai-27B-mlx-1bit",
           "date": "2026-07-22",
@@ -206,6 +217,19 @@
           "is_english": true,
           "summary": "• ThinkingCap-Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "poolside/Laguna-S-2.1",
+          "link": "https://huggingface.co/poolside/Laguna-S-2.1",
+          "date": "2026-07-22",
+          "source": "HuggingFace",
+          "description": "• Laguna-S-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://poolside.ai/assets/laguna/laguna-s-2-1-banner.svg",
+          "is_english": true,
+          "summary": "• Laguna-S-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "poolside/Laguna-S-2.1",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -236,41 +260,15 @@
           "category": "AI Model"
         },
         {
-          "title": "prism-ml/Ternary-Bonsai-27B-mlx-2bit",
-          "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-mlx-2bit",
+          "title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
+          "link": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
           "date": "2026-07-22",
           "source": "HuggingFace",
-          "description": "• Ternary-Bonsai-27B-mlx-2bit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-mlx-2bit/resolve/main/./assets/bonsai-logo.svg",
+          "description": "• MiniCPM5-1B-Claude-Opus-Fable5-Thinking 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking/resolve/main/assets/banner.png",
           "is_english": true,
-          "summary": "• Ternary-Bonsai-27B-mlx-2bit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "prism-ml/Ternary-Bonsai-27B-mlx-2bit",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
-          "link": "https://huggingface.co/OpenMOSS-Team/MOSS-Transcribe-Diarize",
-          "date": "2026-07-22",
-          "source": "HuggingFace",
-          "description": "• MOSS-Transcribe-Diarize 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/GitHub-OpenMOSS%2FMOSS--Transcribe--Diarize-black?logo=github",
-          "is_english": true,
-          "summary": "• MOSS-Transcribe-Diarize 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "unsloth/inkling-GGUF",
-          "link": "https://huggingface.co/unsloth/inkling-GGUF",
-          "date": "2026-07-22",
-          "source": "HuggingFace",
-          "description": "• inkling-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
-          "is_english": true,
-          "summary": "• inkling-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/inkling-GGUF",
+          "summary": "• MiniCPM5-1B-Claude-Opus-Fable5-Thinking 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -288,15 +286,41 @@
           "category": "AI Model"
         },
         {
-          "title": "AngelSlim/Hy3-GGUF",
-          "link": "https://huggingface.co/AngelSlim/Hy3-GGUF",
+          "title": "prism-ml/Ternary-Bonsai-27B-mlx-2bit",
+          "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-mlx-2bit",
           "date": "2026-07-22",
           "source": "HuggingFace",
-          "description": "• Hy3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/Tencent/AngelSlim/blob/main/docs/source/assets/logos/angelslim_logo.png?raw=true",
+          "description": "• Ternary-Bonsai-27B-mlx-2bit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-mlx-2bit/resolve/main/./assets/bonsai-logo.svg",
           "is_english": true,
-          "summary": "• Hy3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "AngelSlim/Hy3-GGUF",
+          "summary": "• Ternary-Bonsai-27B-mlx-2bit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "prism-ml/Ternary-Bonsai-27B-mlx-2bit",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/inkling-GGUF",
+          "link": "https://huggingface.co/unsloth/inkling-GGUF",
+          "date": "2026-07-22",
+          "source": "HuggingFace",
+          "description": "• inkling-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "is_english": true,
+          "summary": "• inkling-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/inkling-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
+          "link": "https://huggingface.co/OpenMOSS-Team/MOSS-Transcribe-Diarize",
+          "date": "2026-07-22",
+          "source": "HuggingFace",
+          "description": "• MOSS-Transcribe-Diarize 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/GitHub-OpenMOSS%2FMOSS--Transcribe--Diarize-black?logo=github",
+          "is_english": true,
+          "summary": "• MOSS-Transcribe-Diarize 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -304,8 +328,68 @@
     },
     {
       "date": "2026-07-21",
-      "update_time": "2026-07-21 19:03:23",
+      "update_time": "2026-07-21 21:54:50",
       "news": [
+        {
+          "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+          "link": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+          "date": "2026-07-21",
+          "source": "OpenAI",
+          "description": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
+          "image": null,
+          "is_english": true,
+          "original_title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+          "original_summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders.",
+          "summary": "OpenAI and Hugging Face share early findings from a security incident during AI model evaluation, highlighting advanced cyber capabilities and lessons for defenders."
+        },
+        {
+          "title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+          "link": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+          "date": "2026-07-21",
+          "source": "OpenAI",
+          "description": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
+          "image": null,
+          "is_english": true,
+          "original_title": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+          "original_summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance.",
+          "summary": "David Vélez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC, bringing global leadership in finance, technology, and governance."
+        },
+        {
+          "title": "OpenAI says Hugging Face was breached by its own pre-release models",
+          "link": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+          "date": "2026-07-21",
+          "source": "TechCrunch",
+          "description": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1849294862.jpg?w=1024",
+          "is_english": true,
+          "original_title": "OpenAI says Hugging Face was breached by its own pre-release models",
+          "original_summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
+          "summary": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry."
+        },
+        {
+          "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+          "link": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+          "date": "2026-07-21",
+          "source": "TechCrunch",
+          "description": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-638007236.jpg?resize=1200,798",
+          "is_english": true,
+          "original_title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+          "original_summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
+          "summary": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation."
+        },
+        {
+          "title": "AI and the rise of the universal entertainment app",
+          "link": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
+          "date": "2026-07-21",
+          "source": "TechCrunch",
+          "description": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, those distinctions are fading, pushing companies like Spotify, Netflix, YouTube, and TikTok to become all-purpose entertainment destinations instead.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/scrolling-tiktok-iphone-GettyImages-2284214141.jpg?w=1024",
+          "is_english": true,
+          "original_title": "AI and the rise of the universal entertainment app",
+          "original_summary": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, those distinctions are fading, pushing companies like Spotify, Netflix, YouTube, and TikTok to become",
+          "summary": "Over the past decade, streaming platforms competed by dominating individual formats like music, video, podcasts, or audiobooks. Now, as AI makes it easier to create, organize, and recommend content, those distinctions are fading, pushing companies like Spotify, Netflix, YouTube, and TikTok to become"
+        },
         {
           "title": "Data centers expected to use 4x more electricity by 2035",
           "link": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
