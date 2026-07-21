@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-07-22",
-      "update_time": "2026-07-21 16:15:42",
+      "update_time": "2026-07-21 19:03:23",
       "news": [
+        {
+          "title": "Introducing the ChatGPT for small business program",
+          "link": "https://openai.com/index/introducing-chatgpt-small-business-program",
+          "date": "2026-07-22",
+          "source": "OpenAI",
+          "description": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Introducing the ChatGPT for small business program",
+          "original_summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work.",
+          "summary": "OpenAI launches the ChatGPT for Small Businesses program, helping entrepreneurs build AI skills, automate work, and grow with ChatGPT Work."
+        },
+        {
+          "title": "OpenAI Urges Enterprises to Use Its Scorecard to Measure Worth of AI",
+          "link": "https://aibusiness.com/generative-ai/openai-urges-enterprises-use-its-scorecard-measure-worth-of-ai",
+          "date": "2026-07-22",
+          "source": "AI Business",
+          "description": "The tool comes amid mounting pressure from low-cost AI providers in China on U.S. AI vendors.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltf65d6a335aa0fbfb/6a5fb312e000b9a607f05fea/OpenAI_logo.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "OpenAI Urges Enterprises to Use Its Scorecard to Measure Worth of AI",
+          "original_summary": "The tool comes amid mounting pressure from low-cost AI providers in China on U.S. AI vendors.",
+          "summary": "The tool comes amid mounting pressure from low-cost AI providers in China on U.S. AI vendors."
+        },
         {
           "title": "Alibaba Qwen 3.8 Max Shows China Closing in on U.S. Models",
           "link": "https://aibusiness.com/generative-ai/alibaba-qwen-3-8-max-shows-china-closing-on-u-s-models",
@@ -43,19 +67,6 @@
           "category": "AI Model"
         },
         {
-          "title": "prism-ml/Bonsai-27B-gguf",
-          "link": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
-          "date": "2026-07-22",
-          "source": "HuggingFace",
-          "description": "• Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/prism-ml/Bonsai-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
-          "is_english": true,
-          "summary": "• Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "prism-ml/Bonsai-27B-gguf",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "baidu/Unlimited-OCR",
           "link": "https://huggingface.co/baidu/Unlimited-OCR",
           "date": "2026-07-22",
@@ -65,6 +76,19 @@
           "is_english": true,
           "summary": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "baidu/Unlimited-OCR",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "prism-ml/Bonsai-27B-gguf",
+          "link": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
+          "date": "2026-07-22",
+          "source": "HuggingFace",
+          "description": "• Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/prism-ml/Bonsai-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
+          "is_english": true,
+          "summary": "• Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "prism-ml/Bonsai-27B-gguf",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -108,19 +132,6 @@
           "category": "AI Model"
         },
         {
-          "title": "conradlocke/krea2-identity-edit",
-          "link": "https://huggingface.co/conradlocke/krea2-identity-edit",
-          "date": "2026-07-22",
-          "source": "HuggingFace",
-          "description": "• krea2-identity-edit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• krea2-identity-edit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "conradlocke/krea2-identity-edit",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "date": "2026-07-22",
@@ -134,6 +145,19 @@
           "category": "AI Model"
         },
         {
+          "title": "conradlocke/krea2-identity-edit",
+          "link": "https://huggingface.co/conradlocke/krea2-identity-edit",
+          "date": "2026-07-22",
+          "source": "HuggingFace",
+          "description": "• krea2-identity-edit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• krea2-identity-edit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "conradlocke/krea2-identity-edit",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "ATH-MaaS/OvisOCR2",
           "link": "https://huggingface.co/ATH-MaaS/OvisOCR2",
           "date": "2026-07-22",
@@ -143,6 +167,19 @@
           "is_english": true,
           "summary": "• OvisOCR2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "ATH-MaaS/OvisOCR2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
+          "link": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
+          "date": "2026-07-22",
+          "source": "HuggingFace",
+          "description": "• MiniCPM5-1B-Claude-Opus-Fable5-Thinking 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking/resolve/main/assets/banner.png",
+          "is_english": true,
+          "summary": "• MiniCPM5-1B-Claude-Opus-Fable5-Thinking 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -173,19 +210,6 @@
           "category": "AI Model"
         },
         {
-          "title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
-          "link": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
-          "date": "2026-07-22",
-          "source": "HuggingFace",
-          "description": "• MiniCPM5-1B-Claude-Opus-Fable5-Thinking 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking/resolve/main/assets/banner.png",
-          "is_english": true,
-          "summary": "• MiniCPM5-1B-Claude-Opus-Fable5-Thinking 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "GnLOLot/MiniCPM5-1B-Claude-Opus-Fable5-Thinking",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "openbmb/MiniCPM-RobotManip",
           "link": "https://huggingface.co/openbmb/MiniCPM-RobotManip",
           "date": "2026-07-22",
@@ -195,19 +219,6 @@
           "is_english": true,
           "summary": "• MiniCPM-RobotManip 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "openbmb/MiniCPM-RobotManip",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "prism-ml/Ternary-Bonsai-27B-mlx-2bit",
-          "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-mlx-2bit",
-          "date": "2026-07-22",
-          "source": "HuggingFace",
-          "description": "• Ternary-Bonsai-27B-mlx-2bit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-mlx-2bit/resolve/main/./assets/bonsai-logo.svg",
-          "is_english": true,
-          "summary": "• Ternary-Bonsai-27B-mlx-2bit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "prism-ml/Ternary-Bonsai-27B-mlx-2bit",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -225,6 +236,19 @@
           "category": "AI Model"
         },
         {
+          "title": "prism-ml/Ternary-Bonsai-27B-mlx-2bit",
+          "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-mlx-2bit",
+          "date": "2026-07-22",
+          "source": "HuggingFace",
+          "description": "• Ternary-Bonsai-27B-mlx-2bit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-mlx-2bit/resolve/main/./assets/bonsai-logo.svg",
+          "is_english": true,
+          "summary": "• Ternary-Bonsai-27B-mlx-2bit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "prism-ml/Ternary-Bonsai-27B-mlx-2bit",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
           "link": "https://huggingface.co/OpenMOSS-Team/MOSS-Transcribe-Diarize",
           "date": "2026-07-22",
@@ -234,19 +258,6 @@
           "is_english": true,
           "summary": "• MOSS-Transcribe-Diarize 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "AngelSlim/Hy3-GGUF",
-          "link": "https://huggingface.co/AngelSlim/Hy3-GGUF",
-          "date": "2026-07-22",
-          "source": "HuggingFace",
-          "description": "• Hy3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/Tencent/AngelSlim/blob/main/docs/source/assets/logos/angelslim_logo.png?raw=true",
-          "is_english": true,
-          "summary": "• Hy3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "AngelSlim/Hy3-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -275,13 +286,50 @@
           "translated_title": "Motif-Technologies/Motif-3-Beta",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "AngelSlim/Hy3-GGUF",
+          "link": "https://huggingface.co/AngelSlim/Hy3-GGUF",
+          "date": "2026-07-22",
+          "source": "HuggingFace",
+          "description": "• Hy3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/Tencent/AngelSlim/blob/main/docs/source/assets/logos/angelslim_logo.png?raw=true",
+          "is_english": true,
+          "summary": "• Hy3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "AngelSlim/Hy3-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-07-21",
-      "update_time": "2026-07-21 16:15:40",
+      "update_time": "2026-07-21 19:03:23",
       "news": [
+        {
+          "title": "Data centers expected to use 4x more electricity by 2035",
+          "link": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
+          "date": "2026-07-21",
+          "source": "TechCrunch",
+          "description": "New data centers built through 2033 could consume as much electricity as India uses today.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2089845337.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Data centers expected to use 4x more electricity by 2035",
+          "original_summary": "New data centers built through 2033 could consume as much electricity as India uses today.",
+          "summary": "New data centers built through 2033 could consume as much electricity as India uses today."
+        },
+        {
+          "title": "Google releases three new Gemini models — but no 3.5 Pro",
+          "link": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+          "date": "2026-07-21",
+          "source": "TechCrunch",
+          "description": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/google-gemini-jagmeet-singh-techcrunch.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Google releases three new Gemini models — but no 3.5 Pro",
+          "original_summary": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy.",
+          "summary": "Google released Gemini 3.6 Flash, 3.5 Flash-Lite, and Flash Cyber, but the continued absence of Gemini 3.5 Pro raises fresh questions about its AI strategy."
+        },
         {
           "title": "US threatens sanctions against Chinese AI models over IP theft",
           "link": "https://techcrunch.com/2026/07/21/us-threatens-sanctions-against-chinese-ai-models-over-ip-theft/",
@@ -7958,7 +8006,7 @@
         {
           "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
           "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-          "date": "2026-07-13",
+          "date": "2026-07-22",
           "source": "HuggingFace",
           "description": "• Qwythos-9B-Claude-Mythos-5-1M-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M/resolve/main/assets/qwythos.png",
@@ -7971,7 +8019,7 @@
         {
           "title": "zai-org/GLM-5.2",
           "link": "https://huggingface.co/zai-org/GLM-5.2",
-          "date": "2026-07-13",
+          "date": "2026-07-22",
           "source": "HuggingFace",
           "description": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
@@ -7984,7 +8032,7 @@
         {
           "title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
           "link": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B",
-          "date": "2026-07-13",
+          "date": "2026-07-22",
           "source": "HuggingFace",
           "description": "• ThinkingCap-Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B/resolve/main/bottlecap-logo.png",
@@ -7997,7 +8045,7 @@
         {
           "title": "conradlocke/krea2-identity-edit",
           "link": "https://huggingface.co/conradlocke/krea2-identity-edit",
-          "date": "2026-07-13",
+          "date": "2026-07-22",
           "source": "HuggingFace",
           "description": "• krea2-identity-edit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -8036,7 +8084,7 @@
         {
           "title": "baidu/Unlimited-OCR",
           "link": "https://huggingface.co/baidu/Unlimited-OCR",
-          "date": "2026-07-13",
+          "date": "2026-07-22",
           "source": "HuggingFace",
           "description": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/baidu/Unlimited-OCR/resolve/main/assets/baidu.png",
@@ -8062,7 +8110,7 @@
         {
           "title": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
           "link": "https://huggingface.co/OpenMOSS-Team/MOSS-Transcribe-Diarize",
-          "date": "2026-07-13",
+          "date": "2026-07-22",
           "source": "HuggingFace",
           "description": "• MOSS-Transcribe-Diarize 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/GitHub-OpenMOSS%2FMOSS--Transcribe--Diarize-black?logo=github",
@@ -8101,7 +8149,7 @@
         {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-07-13",
+          "date": "2026-07-22",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
