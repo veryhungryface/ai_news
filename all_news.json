@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-07-21",
-      "update_time": "2026-07-21 10:57:00",
+      "update_time": "2026-07-21 13:15:56",
       "news": [
+        {
+          "title": "전 국민 무료 '모두의 AI' 윤곽...\"개발 기간·운영비·수익 모델은 숙제\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213013",
+          "date": "2026-07-21",
+          "source": "AI타임스",
+          "description": "과학기술정보통신부외 정보통신산업진흥원(NIPA)은 21일 서울 마포구 프론트원에서 \\'모두의 AI 서비스\\' 사업설명회를 열고, 지원 요건, GPU 배분 방식, 무료 서비스 범위 등 세부 요건을 소개했다.모두의 AI는 전 국민이 무료로 쓸 수 있는 국산 AI 서비스를 목표로 전 국민 대상 범용 AI 챗봇을 비롯해 공공 AI 에이전트와 특화 AI 서비스 등이 포함된다.선정 기업은 오는 9월 베타서비스를 시작하고, 12월 정식 출시해야 한다. 과기정통부는 이번 사업이 모델을 새로 개발하는 것이 아니라 개발한 독자 AI 모델로 서비스를 만드",
+          "image": "https://cdn.aitimes.com/news/photo/202607/213013_216393_4911.jpg",
+          "is_english": false,
+          "original_title": "전 국민 무료 '모두의 AI' 윤곽...\"개발 기간·운영비·수익 모델은 숙제\"",
+          "original_summary": "과학기술정보통신부외 정보통신산업진흥원(NIPA)은 21일 서울 마포구 프론트원에서 \\'모두의 AI 서비스\\' 사업설명회를 열고, 지원 요건, GPU 배분 방식, 무료 서비스 범위 등 세부 요건을 소개했다.모두의 AI는 전 국민이 무료로 쓸 수 있는 국산 AI 서비스를 목표로 전 국민 대상 범용 AI 챗봇을 비롯해 공공 AI 에이전트와 특화 AI 서비스 등이 포함된다.선정 기업은 오는 9월 베타서비스를 시작하고, 12월 정식 출시해야 한다. 과기정통부는 이번 사업이 모델을 새로 개발하는 것이 아니라 개발한 독자 AI 모델로 서비스를 ",
+          "summary": "과학기술정보통신부외 정보통신산업진흥원(NIPA)은 21일 서울 마포구 프론트원에서 \\'모두의 AI 서비스\\' 사업설명회를 열고, 지원 요건, GPU 배분 방식, 무료 서비스 범위 등 세부 요건을 소개했다.모두의 AI는 전 국민이 무료로 쓸 수 있는 국산 AI 서비스를 목표로 전 국민 대상 범용 AI 챗봇을 비롯해 공공 AI 에이전트와 특화 AI 서비스 등이 포함된다.선정 기업은 오는 9월 베타서비스를 시작하고, 12월 정식 출시해야 한다. 과기정통부는 이번 사업이 모델을 새로 개발하는 것이 아니라 개발한 독자 AI 모델로 서비스를 "
+        },
         {
           "title": "\"문샷 '키미 K3' 파장에 앤트로픽·오픈AI 기업 가치 6~7% 증발\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=212975",
@@ -683,19 +695,6 @@
           "category": "AI Model"
         },
         {
-          "title": "conradlocke/krea2-identity-edit",
-          "link": "https://huggingface.co/conradlocke/krea2-identity-edit",
-          "date": "2026-07-21",
-          "source": "HuggingFace",
-          "description": "• krea2-identity-edit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• krea2-identity-edit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "conradlocke/krea2-identity-edit",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
           "link": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
           "date": "2026-07-21",
@@ -705,6 +704,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "conradlocke/krea2-identity-edit",
+          "link": "https://huggingface.co/conradlocke/krea2-identity-edit",
+          "date": "2026-07-21",
+          "source": "HuggingFace",
+          "description": "• krea2-identity-edit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• krea2-identity-edit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "conradlocke/krea2-identity-edit",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -735,19 +747,6 @@
           "category": "AI Model"
         },
         {
-          "title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
-          "link": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B",
-          "date": "2026-07-21",
-          "source": "HuggingFace",
-          "description": "• ThinkingCap-Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B/resolve/main/bottlecap-logo.png",
-          "is_english": true,
-          "summary": "• ThinkingCap-Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "prism-ml/Bonsai-27B-mlx-1bit",
           "link": "https://huggingface.co/prism-ml/Bonsai-27B-mlx-1bit",
           "date": "2026-07-21",
@@ -757,6 +756,19 @@
           "is_english": true,
           "summary": "• Bonsai-27B-mlx-1bit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "prism-ml/Bonsai-27B-mlx-1bit",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
+          "link": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B",
+          "date": "2026-07-21",
+          "source": "HuggingFace",
+          "description": "• ThinkingCap-Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B/resolve/main/bottlecap-logo.png",
+          "is_english": true,
+          "summary": "• ThinkingCap-Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -774,19 +786,6 @@
           "category": "AI Model"
         },
         {
-          "title": "AngelSlim/Hy3-GGUF",
-          "link": "https://huggingface.co/AngelSlim/Hy3-GGUF",
-          "date": "2026-07-21",
-          "source": "HuggingFace",
-          "description": "• Hy3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/Tencent/AngelSlim/blob/main/docs/source/assets/logos/angelslim_logo.png?raw=true",
-          "is_english": true,
-          "summary": "• Hy3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "AngelSlim/Hy3-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "openbmb/MiniCPM-RobotManip",
           "link": "https://huggingface.co/openbmb/MiniCPM-RobotManip",
           "date": "2026-07-21",
@@ -796,19 +795,6 @@
           "is_english": true,
           "summary": "• MiniCPM-RobotManip 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "openbmb/MiniCPM-RobotManip",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
-          "link": "https://huggingface.co/OpenMOSS-Team/MOSS-Transcribe-Diarize",
-          "date": "2026-07-21",
-          "source": "HuggingFace",
-          "description": "• MOSS-Transcribe-Diarize 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/GitHub-OpenMOSS%2FMOSS--Transcribe--Diarize-black?logo=github",
-          "is_english": true,
-          "summary": "• MOSS-Transcribe-Diarize 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -826,6 +812,19 @@
           "category": "AI Model"
         },
         {
+          "title": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
+          "link": "https://huggingface.co/OpenMOSS-Team/MOSS-Transcribe-Diarize",
+          "date": "2026-07-21",
+          "source": "HuggingFace",
+          "description": "• MOSS-Transcribe-Diarize 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/GitHub-OpenMOSS%2FMOSS--Transcribe--Diarize-black?logo=github",
+          "is_english": true,
+          "summary": "• MOSS-Transcribe-Diarize 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "prism-ml/Ternary-Bonsai-27B-mlx-2bit",
           "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-mlx-2bit",
           "date": "2026-07-21",
@@ -835,6 +834,19 @@
           "is_english": true,
           "summary": "• Ternary-Bonsai-27B-mlx-2bit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "prism-ml/Ternary-Bonsai-27B-mlx-2bit",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "AngelSlim/Hy3-GGUF",
+          "link": "https://huggingface.co/AngelSlim/Hy3-GGUF",
+          "date": "2026-07-21",
+          "source": "HuggingFace",
+          "description": "• Hy3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/Tencent/AngelSlim/blob/main/docs/source/assets/logos/angelslim_logo.png?raw=true",
+          "is_english": true,
+          "summary": "• Hy3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "AngelSlim/Hy3-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
