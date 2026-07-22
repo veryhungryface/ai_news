@@ -2,8 +2,68 @@
   "dates": [
     {
       "date": "2026-07-22",
-      "update_time": "2026-07-22 10:58:37",
+      "update_time": "2026-07-22 13:21:01",
       "news": [
+        {
+          "title": "Building AI infrastructure with the Effingham County community",
+          "link": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+          "date": "2026-07-22",
+          "source": "OpenAI",
+          "description": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Building AI infrastructure with the Effingham County community",
+          "original_summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex.",
+          "summary": "OpenAI announces Project Camellia in Effingham County, Georgia, with commitments to responsible energy, community investment, jobs, and access to Codex."
+        },
+        {
+          "title": "Introducing OpenAI Presence",
+          "link": "https://openai.com/index/introducing-openai-presence",
+          "date": "2026-07-22",
+          "source": "OpenAI",
+          "description": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Introducing OpenAI Presence",
+          "original_summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows.",
+          "summary": "Introducing OpenAI Presence, a proven enterprise AI agent platform that helps organizations deploy trusted voice and chat agents for customer and internal workflows."
+        },
+        {
+          "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
+          "link": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
+          "date": "2026-07-22",
+          "source": "TechCrunch",
+          "description": "Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/Passionfroot.jpeg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
+          "original_summary": "Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners.",
+          "summary": "Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners."
+        },
+        {
+          "title": "Agibot Expands Embodied AI Portfolio With Four New Products",
+          "link": "https://aibusiness.com/robotics/agibot-expands-embodied-ai-portfolio-new-products",
+          "date": "2026-07-22",
+          "source": "AI Business",
+          "description": "The Chinese robotics company is targeting commercial, industrial and research applications as it looks to move embodied AI from one-off demonstrations to full-scale applications.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt673916076b630ee0/6a60b7313156830a09ee3126/AGIBOT_G2_Max.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Agibot Expands Embodied AI Portfolio With Four New Products",
+          "original_summary": "The Chinese robotics company is targeting commercial, industrial and research applications as it looks to move embodied AI from one-off demonstrations to full-scale applications.",
+          "summary": "The Chinese robotics company is targeting commercial, industrial and research applications as it looks to move embodied AI from one-off demonstrations to full-scale applications."
+        },
+        {
+          "title": "3 Google updates from Galaxy Unpacked 2026",
+          "link": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026/",
+          "date": "2026-07-22",
+          "source": "Google AI",
+          "description": "We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon.",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Unpacked_hero.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "3 Google updates from Galaxy Unpacked 2026",
+          "original_summary": "We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon.",
+          "summary": "We shared how Samsung users can boost productivity and get time back on new foldables, watches, and glasses coming soon."
+        },
         {
           "title": "대검 6월 공판우수사례 \"무고죄 역고소당한 피고인 억울함 해소\"",
           "link": "https://www.yna.co.kr/view/AKR20260722168000004",
@@ -693,15 +753,15 @@
           "category": "AI Model"
         },
         {
-          "title": "zai-org/GLM-5.2",
-          "link": "https://huggingface.co/zai-org/GLM-5.2",
+          "title": "poolside/Laguna-S-2.1",
+          "link": "https://huggingface.co/poolside/Laguna-S-2.1",
           "date": "2026-07-22",
           "source": "HuggingFace",
-          "description": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
+          "description": "• Laguna-S-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://poolside.ai/assets/laguna/laguna-s-2-1-banner.svg",
           "is_english": true,
-          "summary": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "zai-org/GLM-5.2",
+          "summary": "• Laguna-S-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "poolside/Laguna-S-2.1",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -719,15 +779,15 @@
           "category": "AI Model"
         },
         {
-          "title": "poolside/Laguna-S-2.1",
-          "link": "https://huggingface.co/poolside/Laguna-S-2.1",
+          "title": "zai-org/GLM-5.2",
+          "link": "https://huggingface.co/zai-org/GLM-5.2",
           "date": "2026-07-22",
           "source": "HuggingFace",
-          "description": "• Laguna-S-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://poolside.ai/assets/laguna/laguna-s-2-1-banner.svg",
+          "description": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
           "is_english": true,
-          "summary": "• Laguna-S-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "poolside/Laguna-S-2.1",
+          "summary": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "zai-org/GLM-5.2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -888,15 +948,15 @@
           "category": "AI Model"
         },
         {
-          "title": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
-          "link": "https://huggingface.co/OpenMOSS-Team/MOSS-Transcribe-Diarize",
+          "title": "openbmb/MiniCPM-RobotTrack",
+          "link": "https://huggingface.co/openbmb/MiniCPM-RobotTrack",
           "date": "2026-07-22",
           "source": "HuggingFace",
-          "description": "• MOSS-Transcribe-Diarize 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/GitHub-OpenMOSS%2FMOSS--Transcribe--Diarize-black?logo=github",
+          "description": "• MiniCPM-RobotTrack 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/openbmb/MiniCPM-RobotTrack/resolve/main/assets/github.png",
           "is_english": true,
-          "summary": "• MOSS-Transcribe-Diarize 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "OpenMOSS-Team/MOSS-Transcribe-Diarize",
+          "summary": "• MiniCPM-RobotTrack 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "openbmb/MiniCPM-RobotTrack",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -1924,7 +1984,7 @@
         {
           "title": "openbmb/MiniCPM-RobotTrack",
           "link": "https://huggingface.co/openbmb/MiniCPM-RobotTrack",
-          "date": "2026-07-21",
+          "date": "2026-07-22",
           "source": "HuggingFace",
           "description": "• MiniCPM-RobotTrack 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/openbmb/MiniCPM-RobotTrack/resolve/main/assets/github.png",
