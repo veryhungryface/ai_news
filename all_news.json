@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-07-23",
-      "update_time": "2026-07-22 16:14:42",
+      "update_time": "2026-07-22 18:57:45",
       "news": [
         {
           "title": "Microsoft-Mistral Partnership is About Sovereign AI",
@@ -68,19 +68,6 @@
           "category": "AI Model"
         },
         {
-          "title": "prism-ml/Bonsai-27B-gguf",
-          "link": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
-          "date": "2026-07-23",
-          "source": "HuggingFace",
-          "description": "• Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/prism-ml/Bonsai-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
-          "is_english": true,
-          "summary": "• Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "prism-ml/Bonsai-27B-gguf",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "poolside/Laguna-S-2.1",
           "link": "https://huggingface.co/poolside/Laguna-S-2.1",
           "date": "2026-07-23",
@@ -90,6 +77,19 @@
           "is_english": true,
           "summary": "• Laguna-S-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "poolside/Laguna-S-2.1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "prism-ml/Bonsai-27B-gguf",
+          "link": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
+          "date": "2026-07-23",
+          "source": "HuggingFace",
+          "description": "• Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/prism-ml/Bonsai-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
+          "is_english": true,
+          "summary": "• Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "prism-ml/Bonsai-27B-gguf",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -120,19 +120,6 @@
           "category": "AI Model"
         },
         {
-          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-07-23",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Nanbeige/Nanbeige4.2-3B",
           "link": "https://huggingface.co/Nanbeige/Nanbeige4.2-3B",
           "date": "2026-07-23",
@@ -142,6 +129,19 @@
           "is_english": true,
           "summary": "• Nanbeige4.2-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Nanbeige/Nanbeige4.2-3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "date": "2026-07-23",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -172,19 +172,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Motif-Technologies/Motif-3-Beta",
-          "link": "https://huggingface.co/Motif-Technologies/Motif-3-Beta",
-          "date": "2026-07-23",
-          "source": "HuggingFace",
-          "description": "• Motif-3-Beta 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Motif-3-Beta 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Motif-Technologies/Motif-3-Beta",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "upstage/Solar-Open2-250B",
           "link": "https://huggingface.co/upstage/Solar-Open2-250B",
           "date": "2026-07-23",
@@ -194,6 +181,19 @@
           "is_english": true,
           "summary": "• Solar-Open2-250B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "upstage/Solar-Open2-250B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Motif-Technologies/Motif-3-Beta",
+          "link": "https://huggingface.co/Motif-Technologies/Motif-3-Beta",
+          "date": "2026-07-23",
+          "source": "HuggingFace",
+          "description": "• Motif-3-Beta 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Motif-3-Beta 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Motif-Technologies/Motif-3-Beta",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -292,8 +292,92 @@
     },
     {
       "date": "2026-07-22",
-      "update_time": "2026-07-22 16:14:40",
+      "update_time": "2026-07-22 18:57:45",
       "news": [
+        {
+          "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+          "link": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+          "date": "2026-07-22",
+          "source": "TechCrunch",
+          "description": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2019/04/GettyImages-1132384785.jpg?resize=1200,799",
+          "is_english": true,
+          "original_title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+          "original_summary": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world. ",
+          "summary": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world. "
+        },
+        {
+          "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+          "link": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+          "date": "2026-07-22",
+          "source": "TechCrunch",
+          "description": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies in small, private communities powered by messaging, photo sharing, and AI features designed to strengthen real-world relationships.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/banner.png?resize=1200,750",
+          "is_english": true,
+          "original_title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+          "original_summary": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies in small, private communities powered by messaging, photo sha",
+          "summary": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies in small, private communities powered by messaging, photo sha"
+        },
+        {
+          "title": "Monday.com lays off hundreds to focus on AI",
+          "link": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
+          "date": "2026-07-22",
+          "source": "TechCrunch",
+          "description": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2259521127.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Monday.com lays off hundreds to focus on AI",
+          "original_summary": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform. ",
+          "summary": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform. "
+        },
+        {
+          "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+          "link": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
+          "date": "2026-07-22",
+          "source": "TechCrunch",
+          "description": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.",
+          "image": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1297448481.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+          "original_summary": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.",
+          "summary": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch."
+        },
+        {
+          "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
+          "link": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
+          "date": "2026-07-22",
+          "source": "TechCrunch",
+          "description": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/substack-GettyImages-2261803485.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
+          "original_summary": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content. ",
+          "summary": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content. "
+        },
+        {
+          "title": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
+          "link": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
+          "date": "2026-07-22",
+          "source": "TechCrunch",
+          "description": "Anthropic&#160;leaped to&#160;a&#160;$47 billion&#160;revenue run rate&#160;by May,&#160;compared to&#160;$9 billion&#160;in 2025.&#160;It’s&#160;the kind of growth that&#160;Menlo Ventures&#8217;&#160;Matt Murphy&#160;says&#160;he&#8217;s&#160;never seen in 25 years of investing, not in the internet wave, not in mobile, not in the first cloud boom. Menlo led Anthropic&#8217;s $500M Series D, and Murphy has had a front-row seat as the company went from a pre-revenue, [&#8230;]",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/Matt-Murphy-Menlo-Ventures.jpeg?resize=1200,1200",
+          "is_english": true,
+          "original_title": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
+          "original_summary": "Anthropic&#160;leaped to&#160;a&#160;$47 billion&#160;revenue run rate&#160;by May,&#160;compared to&#160;$9 billion&#160;in 2025.&#160;It’s&#160;the kind of growth that&#160;Menlo Ventures&#8217;&#160;Matt Murphy&#160;says&#160;he&#8217;s&#160;never seen in 25 years of investing, not in the interne",
+          "summary": "Anthropic&#160;leaped to&#160;a&#160;$47 billion&#160;revenue run rate&#160;by May,&#160;compared to&#160;$9 billion&#160;in 2025.&#160;It’s&#160;the kind of growth that&#160;Menlo Ventures&#8217;&#160;Matt Murphy&#160;says&#160;he&#8217;s&#160;never seen in 25 years of investing, not in the interne"
+        },
+        {
+          "title": "Professor Emeritus Dimitri Bertsekas, influential computer scientist and prolific author, dies at 83",
+          "link": "https://news.mit.edu/2026/dimitri-bertsekas-influential-computer-scientist-prolific-author-dies-0722",
+          "date": "2026-07-22",
+          "source": "MIT News",
+          "description": "Known for his clear and elegant writing style, Bertsekas shaped fields from control and optimization to large-scale computation and artificial intelligence.",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/mit-lids-Bertsekas-obit.jpg?itok=a4V9w4Hq",
+          "is_english": true,
+          "original_title": "Professor Emeritus Dimitri Bertsekas, influential computer scientist and prolific author, dies at 83",
+          "original_summary": "Known for his clear and elegant writing style, Bertsekas shaped fields from control and optimization to large-scale computation and artificial intelligence.",
+          "summary": "Known for his clear and elegant writing style, Bertsekas shaped fields from control and optimization to large-scale computation and artificial intelligence."
+        },
         {
           "title": "Advancing the next era of national science",
           "link": "https://openai.com/index/advancing-the-next-era-of-national-science",
@@ -8101,7 +8185,7 @@
         {
           "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
           "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-          "date": "2026-07-14",
+          "date": "2026-07-23",
           "source": "HuggingFace",
           "description": "• Qwythos-9B-Claude-Mythos-5-1M-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M/resolve/main/assets/qwythos.png",
@@ -8127,7 +8211,7 @@
         {
           "title": "zai-org/GLM-5.2",
           "link": "https://huggingface.co/zai-org/GLM-5.2",
-          "date": "2026-07-14",
+          "date": "2026-07-23",
           "source": "HuggingFace",
           "description": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
@@ -8140,7 +8224,7 @@
         {
           "title": "conradlocke/krea2-identity-edit",
           "link": "https://huggingface.co/conradlocke/krea2-identity-edit",
-          "date": "2026-07-14",
+          "date": "2026-07-23",
           "source": "HuggingFace",
           "description": "• krea2-identity-edit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -8153,7 +8237,7 @@
         {
           "title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
           "link": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B",
-          "date": "2026-07-14",
+          "date": "2026-07-23",
           "source": "HuggingFace",
           "description": "• ThinkingCap-Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B/resolve/main/bottlecap-logo.png",
@@ -8218,7 +8302,7 @@
         {
           "title": "baidu/Unlimited-OCR",
           "link": "https://huggingface.co/baidu/Unlimited-OCR",
-          "date": "2026-07-14",
+          "date": "2026-07-23",
           "source": "HuggingFace",
           "description": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/baidu/Unlimited-OCR/resolve/main/assets/baidu.png",
@@ -8244,7 +8328,7 @@
         {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-07-14",
+          "date": "2026-07-23",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
