@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-07-24",
-      "update_time": "2026-07-23 18:58:35",
+      "update_time": "2026-07-23 21:56:49",
       "news": [
+        {
+          "title": "What the OpenAI-Hugging Face Hack Means for Enterprises",
+          "link": "https://aibusiness.com/cybersecurity/what-openai-hugging-face-hack-means-enterprises",
+          "date": "2026-07-24",
+          "source": "AI Business",
+          "description": "The incident is a lesson for enterprises that they need to implement appropriate cybersecurity guidance and keep their data within safe confines.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt578c4abd5aa4c859/6a6280f45cffed0d98ee22b1/Cyberattack.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "What the OpenAI-Hugging Face Hack Means for Enterprises",
+          "original_summary": "The incident is a lesson for enterprises that they need to implement appropriate cybersecurity guidance and keep their data within safe confines.",
+          "summary": "The incident is a lesson for enterprises that they need to implement appropriate cybersecurity guidance and keep their data within safe confines."
+        },
+        {
+          "title": "Schneider Electric, AMD Unveil Blueprint for AI Factory Deployments",
+          "link": "https://aibusiness.com/data-centers/schneider-electric-amd-unveil-blueprint-ai-factory-deployments",
+          "date": "2026-07-24",
+          "source": "AI Business",
+          "description": "The companies’ design supports AI racks of up to 246kW.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt8c5ce14fa752a2b0/6a6268208683e3406a0b6894/Data_center.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Schneider Electric, AMD Unveil Blueprint for AI Factory Deployments",
+          "original_summary": "The companies’ design supports AI racks of up to 246kW.",
+          "summary": "The companies’ design supports AI racks of up to 246kW."
+        },
         {
           "title": "baidu/Unlimited-OCR",
           "link": "https://huggingface.co/baidu/Unlimited-OCR",
@@ -44,19 +68,6 @@
           "category": "AI Model"
         },
         {
-          "title": "prism-ml/Ternary-Bonsai-27B-gguf",
-          "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
-          "date": "2026-07-24",
-          "source": "HuggingFace",
-          "description": "• Ternary-Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
-          "is_english": true,
-          "summary": "• Ternary-Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "prism-ml/Ternary-Bonsai-27B-gguf",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
           "link": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
           "date": "2026-07-24",
@@ -66,6 +77,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "prism-ml/Ternary-Bonsai-27B-gguf",
+          "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
+          "date": "2026-07-24",
+          "source": "HuggingFace",
+          "description": "• Ternary-Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
+          "is_english": true,
+          "summary": "• Ternary-Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "prism-ml/Ternary-Bonsai-27B-gguf",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +292,32 @@
     },
     {
       "date": "2026-07-23",
-      "update_time": "2026-07-23 18:58:35",
+      "update_time": "2026-07-23 21:56:49",
       "news": [
+        {
+          "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+          "link": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+          "date": "2026-07-23",
+          "source": "TechCrunch",
+          "description": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2254260600.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+          "original_summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year. ",
+          "summary": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year. "
+        },
+        {
+          "title": "Anthropic updates Claude voice mode with more capable models",
+          "link": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+          "date": "2026-07-23",
+          "source": "TechCrunch",
+          "description": "Claude's new voice model will let you reschedule your meeting or draft an email.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/Claude-Voice-2-3-up.jpeg?resize=1200,675",
+          "is_english": true,
+          "original_title": "Anthropic updates Claude voice mode with more capable models",
+          "original_summary": "Claude's new voice model will let you reschedule your meeting or draft an email.",
+          "summary": "Claude's new voice model will let you reschedule your meeting or draft an email."
+        },
         {
           "title": "Launching Health in ChatGPT",
           "link": "https://openai.com/index/health-in-chatgpt",
