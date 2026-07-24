@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-07-25",
-      "update_time": "2026-07-24 19:11:43",
+      "update_time": "2026-07-24 21:55:38",
       "news": [
         {
           "title": "Prompt: The AI Threat Model Just Changed",
@@ -121,19 +121,6 @@
           "category": "AI Model"
         },
         {
-          "title": "prism-ml/Bonsai-27B-gguf",
-          "link": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
-          "date": "2026-07-25",
-          "source": "HuggingFace",
-          "description": "• Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/prism-ml/Bonsai-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
-          "is_english": true,
-          "summary": "• Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "prism-ml/Bonsai-27B-gguf",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "microsoft/Mage-Flow",
           "link": "https://huggingface.co/microsoft/Mage-Flow",
           "date": "2026-07-25",
@@ -143,6 +130,19 @@
           "is_english": true,
           "summary": "• Mage-Flow 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "microsoft/Mage-Flow",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "prism-ml/Bonsai-27B-gguf",
+          "link": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
+          "date": "2026-07-25",
+          "source": "HuggingFace",
+          "description": "• Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/prism-ml/Bonsai-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
+          "is_english": true,
+          "summary": "• Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "prism-ml/Bonsai-27B-gguf",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -225,32 +225,6 @@
           "category": "AI Model"
         },
         {
-          "title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
-          "link": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B",
-          "date": "2026-07-25",
-          "source": "HuggingFace",
-          "description": "• ThinkingCap-Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B/resolve/main/bottlecap-logo.png",
-          "is_english": true,
-          "summary": "• ThinkingCap-Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "poolside/Laguna-S-2.1-NVFP4",
-          "link": "https://huggingface.co/poolside/Laguna-S-2.1-NVFP4",
-          "date": "2026-07-25",
-          "source": "HuggingFace",
-          "description": "• Laguna-S-2.1-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://poolside.ai/assets/laguna/laguna-s-2-1-banner.svg",
-          "is_english": true,
-          "summary": "• Laguna-S-2.1-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "poolside/Laguna-S-2.1-NVFP4",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "poolside/Laguna-S-2.1-GGUF",
           "link": "https://huggingface.co/poolside/Laguna-S-2.1-GGUF",
           "date": "2026-07-25",
@@ -273,6 +247,32 @@
           "is_english": true,
           "summary": "• antares-1b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "fdtn-ai/antares-1b",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "poolside/Laguna-S-2.1-NVFP4",
+          "link": "https://huggingface.co/poolside/Laguna-S-2.1-NVFP4",
+          "date": "2026-07-25",
+          "source": "HuggingFace",
+          "description": "• Laguna-S-2.1-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://poolside.ai/assets/laguna/laguna-s-2-1-banner.svg",
+          "is_english": true,
+          "summary": "• Laguna-S-2.1-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "poolside/Laguna-S-2.1-NVFP4",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
+          "link": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B",
+          "date": "2026-07-25",
+          "source": "HuggingFace",
+          "description": "• ThinkingCap-Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B/resolve/main/bottlecap-logo.png",
+          "is_english": true,
+          "summary": "• ThinkingCap-Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
