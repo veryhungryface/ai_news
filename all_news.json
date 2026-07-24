@@ -2,8 +2,188 @@
   "dates": [
     {
       "date": "2026-07-24",
-      "update_time": "2026-07-24 08:07:07",
+      "update_time": "2026-07-24 10:54:19",
       "news": [
+        {
+          "title": "서울대·엔비디아, '피지컬 AI' 공동 연구 파트너십 체결 추진",
+          "link": "https://www.yna.co.kr/view/AKR20260724169300004",
+          "date": "2026-07-24",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 윤민혁 기자 = 서울대와 엔비디아가 피지컬 AI(인공지능)와 로보틱스 등 첨단 기술 분야 공동 연구에 나선다.",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/06/08/PYH2026060812690001300_P2.jpg",
+          "is_english": false,
+          "original_title": "서울대·엔비디아, '피지컬 AI' 공동 연구 파트너십 체결 추진",
+          "original_summary": "(서울=연합뉴스) 윤민혁 기자 = 서울대와 엔비디아가 피지컬 AI(인공지능)와 로보틱스 등 첨단 기술 분야 공동 연구에 나선다.",
+          "summary": "(서울=연합뉴스) 윤민혁 기자 = 서울대와 엔비디아가 피지컬 AI(인공지능)와 로보틱스 등 첨단 기술 분야 공동 연구에 나선다."
+        },
+        {
+          "title": "오픈AI, 데스크톱 앱에 'GPT-라이브' 음성 제어 도입",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213129",
+          "date": "2026-07-24",
+          "source": "AI타임스",
+          "description": "오픈AI가 자연스러운 음성 대화 모델 \\'GPT-라이브(GPT-Live)\\'를 맥(Mac)과 윈도우용 챗GPT 데스크톱 앱에 통합하며 음성 기반 AI 개발 환경을 본격화했다. 코딩 에이전트 \\'코덱스\\'와 \\'챗GPT 워크\\'를 음성으로 제어할 수 있게 되면서, 키보드 대신 대화만으로 개발 작업을 수행하는 음성 코딩 시대가 열렸다는 평가가 나온다.오픈AI는 23일(현지시간) GPT-라이브를 맥OS와 윈도우용 챗GPT 데스크톱 앱에 적용했다고 발표했다. 이번 업데이트는 GPT-라이브를 공개한 지 2주 만에 이뤄졌다. GPT-라이브는 기존 음성",
+          "image": "https://cdn.aitimes.com/news/photo/202607/213129_216533_4233.jpg",
+          "is_english": false,
+          "original_title": "오픈AI, 데스크톱 앱에 'GPT-라이브' 음성 제어 도입",
+          "original_summary": "오픈AI가 자연스러운 음성 대화 모델 \\'GPT-라이브(GPT-Live)\\'를 맥(Mac)과 윈도우용 챗GPT 데스크톱 앱에 통합하며 음성 기반 AI 개발 환경을 본격화했다. 코딩 에이전트 \\'코덱스\\'와 \\'챗GPT 워크\\'를 음성으로 제어할 수 있게 되면서, 키보드 대신 대화만으로 개발 작업을 수행하는 음성 코딩 시대가 열렸다는 평가가 나온다.오픈AI는 23일(현지시간) GPT-라이브를 맥OS와 윈도우용 챗GPT 데스크톱 앱에 적용했다고 발표했다. 이번 업데이트는 GPT-라이브를 공개한 지 2주 만에 이뤄졌다. GPT-라이브는 ",
+          "summary": "오픈AI가 자연스러운 음성 대화 모델 \\'GPT-라이브(GPT-Live)\\'를 맥(Mac)과 윈도우용 챗GPT 데스크톱 앱에 통합하며 음성 기반 AI 개발 환경을 본격화했다. 코딩 에이전트 \\'코덱스\\'와 \\'챗GPT 워크\\'를 음성으로 제어할 수 있게 되면서, 키보드 대신 대화만으로 개발 작업을 수행하는 음성 코딩 시대가 열렸다는 평가가 나온다.오픈AI는 23일(현지시간) GPT-라이브를 맥OS와 윈도우용 챗GPT 데스크톱 앱에 적용했다고 발표했다. 이번 업데이트는 GPT-라이브를 공개한 지 2주 만에 이뤄졌다. GPT-라이브는 "
+        },
+        {
+          "title": "앤트로픽, '클로드' 음성 모드 대폭 강화…오퍼스·소네트에도 탑재",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213130",
+          "date": "2026-07-24",
+          "source": "AI타임스",
+          "description": "앤트로픽이 \\'클로드\\'의 음성 모드를 대폭 업그레이드하며 고성능 모델 지원과 외부 업무 도구 연동 기능을 추가했다.앤트로픽은 23일(현지시간) 클로드 음성 모드 업데이트를 발표하고, 사용자가 대화 중에도 모델 선택기를 통해 하이쿠, 소네트, 오퍼스 모델을 자유롭게 전환할 수 있다고 밝혔다.또 지메일, 구글 캘린더, 슬랙, 노션, 캔바 등 다양한 서비스와 연동해 실제 업무를 수행할 수 있도록 지원하면서 오픈AI의 챗GPT 음성 모드와 차별화를 시도했다.음성 모드는 사용자가 텍스트 채팅에서 마지막으로 사용한 모델을 자동으로 이어받아 해당",
+          "image": "https://cdn.aitimes.com/news/photo/202607/213130_216536_5715.png",
+          "is_english": false,
+          "original_title": "앤트로픽, '클로드' 음성 모드 대폭 강화…오퍼스·소네트에도 탑재",
+          "original_summary": "앤트로픽이 \\'클로드\\'의 음성 모드를 대폭 업그레이드하며 고성능 모델 지원과 외부 업무 도구 연동 기능을 추가했다.앤트로픽은 23일(현지시간) 클로드 음성 모드 업데이트를 발표하고, 사용자가 대화 중에도 모델 선택기를 통해 하이쿠, 소네트, 오퍼스 모델을 자유롭게 전환할 수 있다고 밝혔다.또 지메일, 구글 캘린더, 슬랙, 노션, 캔바 등 다양한 서비스와 연동해 실제 업무를 수행할 수 있도록 지원하면서 오픈AI의 챗GPT 음성 모드와 차별화를 시도했다.음성 모드는 사용자가 텍스트 채팅에서 마지막으로 사용한 모델을 자동으로 이어받아 ",
+          "summary": "앤트로픽이 \\'클로드\\'의 음성 모드를 대폭 업그레이드하며 고성능 모델 지원과 외부 업무 도구 연동 기능을 추가했다.앤트로픽은 23일(현지시간) 클로드 음성 모드 업데이트를 발표하고, 사용자가 대화 중에도 모델 선택기를 통해 하이쿠, 소네트, 오퍼스 모델을 자유롭게 전환할 수 있다고 밝혔다.또 지메일, 구글 캘린더, 슬랙, 노션, 캔바 등 다양한 서비스와 연동해 실제 업무를 수행할 수 있도록 지원하면서 오픈AI의 챗GPT 음성 모드와 차별화를 시도했다.음성 모드는 사용자가 텍스트 채팅에서 마지막으로 사용한 모델을 자동으로 이어받아 "
+        },
+        {
+          "title": "딥시크 창립자 \"수익보다 AGI 우선…첨단  모델도 오픈소스 유지\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213139",
+          "date": "2026-07-24",
+          "source": "AI타임스",
+          "description": "량원펑 딥시크 창립자가 단기적인 수익보다 AGI 개발을 최우선 목표로 삼겠다는 방침을 밝힌 것으로 알려졌다. 또 회사의 핵심 AI 모델을 앞으로도 오픈소스로 공개할 가능성이 높다며, 개방형 생태계를 중심으로 기술 경쟁력을 키우겠다는 전략을 제시했다.중국 국영 경제매체 제일재경(Yicai)은 23일(현지시간) 최근 진행된 딥시크 투자자 설명회에서 량원펑 CEO가 4시간 동안 회사의 기술 전략과 로드맵을 설명했다고 보도했다. 딥시크와 량 CEO는 진위를 공식 확인하지는 않았다.이에 따르면, 량 CEO는 딥시크가 단기적인 수익 확대보다",
+          "image": "https://cdn.aitimes.com/news/photo/202607/213139_216548_2154.jpg",
+          "is_english": false,
+          "original_title": "딥시크 창립자 \"수익보다 AGI 우선…첨단  모델도 오픈소스 유지\"",
+          "original_summary": "량원펑 딥시크 창립자가 단기적인 수익보다 AGI 개발을 최우선 목표로 삼겠다는 방침을 밝힌 것으로 알려졌다. 또 회사의 핵심 AI 모델을 앞으로도 오픈소스로 공개할 가능성이 높다며, 개방형 생태계를 중심으로 기술 경쟁력을 키우겠다는 전략을 제시했다.중국 국영 경제매체 제일재경(Yicai)은 23일(현지시간) 최근 진행된 딥시크 투자자 설명회에서 량원펑 CEO가 4시간 동안 회사의 기술 전략과 로드맵을 설명했다고 보도했다. 딥시크와 량 CEO는 진위를 공식 확인하지는 않았다.이에 따르면, 량 CEO는 딥시크가 단기적인 수익 확대보다",
+          "summary": "량원펑 딥시크 창립자가 단기적인 수익보다 AGI 개발을 최우선 목표로 삼겠다는 방침을 밝힌 것으로 알려졌다. 또 회사의 핵심 AI 모델을 앞으로도 오픈소스로 공개할 가능성이 높다며, 개방형 생태계를 중심으로 기술 경쟁력을 키우겠다는 전략을 제시했다.중국 국영 경제매체 제일재경(Yicai)은 23일(현지시간) 최근 진행된 딥시크 투자자 설명회에서 량원펑 CEO가 4시간 동안 회사의 기술 전략과 로드맵을 설명했다고 보도했다. 딥시크와 량 CEO는 진위를 공식 확인하지는 않았다.이에 따르면, 량 CEO는 딥시크가 단기적인 수익 확대보다"
+        },
+        {
+          "title": "블랙 포레스트 랩스, 차세대 영상 모델 '플럭스 3' 출시...\"20초 영상부터 로봇 제어까지\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213133",
+          "date": "2026-07-24",
+          "source": "AI타임스",
+          "description": "독일의 블랙 포레스트 랩스(BFL)가 이미지 생성 모델 \\'플럭스(FLUX)\\' 시리즈를 멀티모달 AI로 확장한 차세대 모델 \\'플럭스 3(FLUX 3)\\'를 공개했다. 텍스트 한 줄만으로 최대 20초 길이의 영상과 오디오를 동시에 생성할 수 있을 뿐 아니라, 로봇의 행동 예측과 피지컬 AI까지 하나의 모델로 구현하는 것이 핵심이다.BFL은 23일(현지시간) FLUX 3를 발표하며 \\\"이미지와 영상, 오디오를 각각 별도의 모델로 처리하는 기존 방식이 아니라 하나의 통합 아키텍처에서 공동 학습한 최초의 멀티모달 기반 모델\\\"이라고 밝혔다.단순한",
+          "image": "https://cdn.aitimes.com/news/photo/202607/213133_216538_558.jpg",
+          "is_english": false,
+          "original_title": "블랙 포레스트 랩스, 차세대 영상 모델 '플럭스 3' 출시...\"20초 영상부터 로봇 제어까지\"",
+          "original_summary": "독일의 블랙 포레스트 랩스(BFL)가 이미지 생성 모델 \\'플럭스(FLUX)\\' 시리즈를 멀티모달 AI로 확장한 차세대 모델 \\'플럭스 3(FLUX 3)\\'를 공개했다. 텍스트 한 줄만으로 최대 20초 길이의 영상과 오디오를 동시에 생성할 수 있을 뿐 아니라, 로봇의 행동 예측과 피지컬 AI까지 하나의 모델로 구현하는 것이 핵심이다.BFL은 23일(현지시간) FLUX 3를 발표하며 \\\"이미지와 영상, 오디오를 각각 별도의 모델로 처리하는 기존 방식이 아니라 하나의 통합 아키텍처에서 공동 학습한 최초의 멀티모달 기반 모델\\\"이라고 밝",
+          "summary": "독일의 블랙 포레스트 랩스(BFL)가 이미지 생성 모델 \\'플럭스(FLUX)\\' 시리즈를 멀티모달 AI로 확장한 차세대 모델 \\'플럭스 3(FLUX 3)\\'를 공개했다. 텍스트 한 줄만으로 최대 20초 길이의 영상과 오디오를 동시에 생성할 수 있을 뿐 아니라, 로봇의 행동 예측과 피지컬 AI까지 하나의 모델로 구현하는 것이 핵심이다.BFL은 23일(현지시간) FLUX 3를 발표하며 \\\"이미지와 영상, 오디오를 각각 별도의 모델로 처리하는 기존 방식이 아니라 하나의 통합 아키텍처에서 공동 학습한 최초의 멀티모달 기반 모델\\\"이라고 밝"
+        },
+        {
+          "title": "런웨이, 생성 미디어 '라우터' 출시…비용·속도 고려해 최적 모델 자동 선택",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213145",
+          "date": "2026-07-24",
+          "source": "AI타임스",
+          "description": "런웨이가 AI 비디오 모델 개발 기업에서 생성 미디어 인프라 플랫폼으로의 전환에 속도를 내고 있다. 이미지·영상·음성 생성 모델이 급증하면서 개발자들이 최적의 모델을 선택하기 어려워지자, 품질과 속도, 비용을 고려해 가장 적합한 모델을 자동으로 선택하는 \\'미디어 라우터(Media Router)\\'를 선보였다.런웨이는 23일(현지시간) 개발자 플랫폼 \\'런웨이 데브(Runway Dev)\\'를 통해 AI 모델 자동 선택 기능인 \\'미디어 라우터\\'를 출시했다고 밝혔다.대형언어모델(LLM) 분야에서는 모델 라우터가 이미 보편화됐지만, 생성 이미지",
+          "image": "https://cdn.aitimes.com/news/photo/202607/213145_216555_5032.jpg",
+          "is_english": false,
+          "original_title": "런웨이, 생성 미디어 '라우터' 출시…비용·속도 고려해 최적 모델 자동 선택",
+          "original_summary": "런웨이가 AI 비디오 모델 개발 기업에서 생성 미디어 인프라 플랫폼으로의 전환에 속도를 내고 있다. 이미지·영상·음성 생성 모델이 급증하면서 개발자들이 최적의 모델을 선택하기 어려워지자, 품질과 속도, 비용을 고려해 가장 적합한 모델을 자동으로 선택하는 \\'미디어 라우터(Media Router)\\'를 선보였다.런웨이는 23일(현지시간) 개발자 플랫폼 \\'런웨이 데브(Runway Dev)\\'를 통해 AI 모델 자동 선택 기능인 \\'미디어 라우터\\'를 출시했다고 밝혔다.대형언어모델(LLM) 분야에서는 모델 라우터가 이미 보편화됐지만, ",
+          "summary": "런웨이가 AI 비디오 모델 개발 기업에서 생성 미디어 인프라 플랫폼으로의 전환에 속도를 내고 있다. 이미지·영상·음성 생성 모델이 급증하면서 개발자들이 최적의 모델을 선택하기 어려워지자, 품질과 속도, 비용을 고려해 가장 적합한 모델을 자동으로 선택하는 \\'미디어 라우터(Media Router)\\'를 선보였다.런웨이는 23일(현지시간) 개발자 플랫폼 \\'런웨이 데브(Runway Dev)\\'를 통해 AI 모델 자동 선택 기능인 \\'미디어 라우터\\'를 출시했다고 밝혔다.대형언어모델(LLM) 분야에서는 모델 라우터가 이미 보편화됐지만, "
+        },
+        {
+          "title": "젠스파크 국내 상륙...\"3년간 1억달러 투자, 기업 시장 공략할 것\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213146",
+          "date": "2026-07-24",
+          "source": "AI타임스",
+          "description": "AI 에이전트 전문 젠스파크(대표 에릭 징)는 국내 시장 진출을 선언하며, 앞으로 3년간 1억달러(약 1475억원)를 투자하겠다고 밝혔다. 동시에 \\'AI 워크스페이스 6.0\\'을 앞세워 기업용 AI 시장 공략에 나선다.에릭 징 젠스파크 공동 창립자 겸 CEO는 24일 서울 광진구 본다빈치뮤지엄에서 열린 미디어데이에서 “한국은 젠스파크의 최상위 시장 중 하나”라며 “3년 안에 1억달러를 투자해 팀과 파트너십을 확장하고 사업을 확대할 것”이라고 밝혔다.이날 공개한 AI 워크스페이스 6.0은 지속형 메모리 레이어인 \\'세컨드브레인\\'을 중심으",
+          "image": "https://cdn.aitimes.com/news/photo/202607/213146_216560_1539.jpg",
+          "is_english": false,
+          "original_title": "젠스파크 국내 상륙...\"3년간 1억달러 투자, 기업 시장 공략할 것\"",
+          "original_summary": "AI 에이전트 전문 젠스파크(대표 에릭 징)는 국내 시장 진출을 선언하며, 앞으로 3년간 1억달러(약 1475억원)를 투자하겠다고 밝혔다. 동시에 \\'AI 워크스페이스 6.0\\'을 앞세워 기업용 AI 시장 공략에 나선다.에릭 징 젠스파크 공동 창립자 겸 CEO는 24일 서울 광진구 본다빈치뮤지엄에서 열린 미디어데이에서 “한국은 젠스파크의 최상위 시장 중 하나”라며 “3년 안에 1억달러를 투자해 팀과 파트너십을 확장하고 사업을 확대할 것”이라고 밝혔다.이날 공개한 AI 워크스페이스 6.0은 지속형 메모리 레이어인 \\'세컨드브레인\\'을",
+          "summary": "AI 에이전트 전문 젠스파크(대표 에릭 징)는 국내 시장 진출을 선언하며, 앞으로 3년간 1억달러(약 1475억원)를 투자하겠다고 밝혔다. 동시에 \\'AI 워크스페이스 6.0\\'을 앞세워 기업용 AI 시장 공략에 나선다.에릭 징 젠스파크 공동 창립자 겸 CEO는 24일 서울 광진구 본다빈치뮤지엄에서 열린 미디어데이에서 “한국은 젠스파크의 최상위 시장 중 하나”라며 “3년 안에 1억달러를 투자해 팀과 파트너십을 확장하고 사업을 확대할 것”이라고 밝혔다.이날 공개한 AI 워크스페이스 6.0은 지속형 메모리 레이어인 \\'세컨드브레인\\'을"
+        },
+        {
+          "title": "2026 필즈상 수상자 제이콥 치머만, 오픈AI 합류…\"AI 안전 연구 전념\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213151",
+          "date": "2026-07-24",
+          "source": "AI타임스",
+          "description": "수학계 최고 영예인 필즈상(Fields Medal)을 수상한 제이콥 치머만 캐나다 토론토대학교 교수가 오픈AI에 합류한다.치머만 교수는 24일 국제수학자대회(ICM) 기자회견을 통해 순수 수학 연구 중심에서 벗어나 AI 안전(AI Safety) 연구에 집중하기 위해 오픈AI에 입사할 예정이라고 밝혔다.국제수학연맹(IMU)에 따르면, 치머만 교수는 복소수 대수기하학 및 산술의 핵심 방법론인 o-최소성(o-minimality) 개념을 재정의하고, 주기 지도 대수성에 관한 그리피스 추측(Griffiths\\' conjecture) 및 지겔",
+          "image": "https://cdn.aitimes.com/news/photo/202607/213151_216565_2219.png",
+          "is_english": false,
+          "original_title": "2026 필즈상 수상자 제이콥 치머만, 오픈AI 합류…\"AI 안전 연구 전념\"",
+          "original_summary": "수학계 최고 영예인 필즈상(Fields Medal)을 수상한 제이콥 치머만 캐나다 토론토대학교 교수가 오픈AI에 합류한다.치머만 교수는 24일 국제수학자대회(ICM) 기자회견을 통해 순수 수학 연구 중심에서 벗어나 AI 안전(AI Safety) 연구에 집중하기 위해 오픈AI에 입사할 예정이라고 밝혔다.국제수학연맹(IMU)에 따르면, 치머만 교수는 복소수 대수기하학 및 산술의 핵심 방법론인 o-최소성(o-minimality) 개념을 재정의하고, 주기 지도 대수성에 관한 그리피스 추측(Griffiths\\' conjecture) 및 지겔",
+          "summary": "수학계 최고 영예인 필즈상(Fields Medal)을 수상한 제이콥 치머만 캐나다 토론토대학교 교수가 오픈AI에 합류한다.치머만 교수는 24일 국제수학자대회(ICM) 기자회견을 통해 순수 수학 연구 중심에서 벗어나 AI 안전(AI Safety) 연구에 집중하기 위해 오픈AI에 입사할 예정이라고 밝혔다.국제수학연맹(IMU)에 따르면, 치머만 교수는 복소수 대수기하학 및 산술의 핵심 방법론인 o-최소성(o-minimality) 개념을 재정의하고, 주기 지도 대수성에 관한 그리피스 추측(Griffiths\\' conjecture) 및 지겔"
+        },
+        {
+          "title": "스트라이프, '멀티모델' 플랫폼 오픈라우터 15조 인수 협상",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213144",
+          "date": "2026-07-24",
+          "source": "AI타임스",
+          "description": "글로벌 결제 플랫폼 스트라이프가 AI 모델 마켓플레이스 오픈라우터(OpenRouter) 인수를 추진하는 것으로 알려졌다. 기업 가치는 약 100억달러(약 15조원)에 이를 것으로 예상되며, AI 인프라 사업 확대에 속도를 내는 스트라이프의 최대 규모 AI 투자 가운데 하나가 될 전망이다.23일(현지시간) 월스트리트저널(WSJ) 등에 따르면, 스트라이프는 오픈라우터 인수를 위한 협상을 진행 중이다.이르면 수주 내 협상이 마무리될 가능성이 있지만, 협상이 결렬되거나 다른 인수 후보가 등장할 가능성도 남아 있는 것으로 전해졌다.오픈라우터",
+          "image": "https://cdn.aitimes.com/news/photo/202607/213144_216553_2945.png",
+          "is_english": false,
+          "original_title": "스트라이프, '멀티모델' 플랫폼 오픈라우터 15조 인수 협상",
+          "original_summary": "글로벌 결제 플랫폼 스트라이프가 AI 모델 마켓플레이스 오픈라우터(OpenRouter) 인수를 추진하는 것으로 알려졌다. 기업 가치는 약 100억달러(약 15조원)에 이를 것으로 예상되며, AI 인프라 사업 확대에 속도를 내는 스트라이프의 최대 규모 AI 투자 가운데 하나가 될 전망이다.23일(현지시간) 월스트리트저널(WSJ) 등에 따르면, 스트라이프는 오픈라우터 인수를 위한 협상을 진행 중이다.이르면 수주 내 협상이 마무리될 가능성이 있지만, 협상이 결렬되거나 다른 인수 후보가 등장할 가능성도 남아 있는 것으로 전해졌다.오픈라우터",
+          "summary": "글로벌 결제 플랫폼 스트라이프가 AI 모델 마켓플레이스 오픈라우터(OpenRouter) 인수를 추진하는 것으로 알려졌다. 기업 가치는 약 100억달러(약 15조원)에 이를 것으로 예상되며, AI 인프라 사업 확대에 속도를 내는 스트라이프의 최대 규모 AI 투자 가운데 하나가 될 전망이다.23일(현지시간) 월스트리트저널(WSJ) 등에 따르면, 스트라이프는 오픈라우터 인수를 위한 협상을 진행 중이다.이르면 수주 내 협상이 마무리될 가능성이 있지만, 협상이 결렬되거나 다른 인수 후보가 등장할 가능성도 남아 있는 것으로 전해졌다.오픈라우터"
+        },
+        {
+          "title": "[게시판] 마키나락스, 액추에이터 기업 '에너토크'와 MOU 체결 등 단신",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213126",
+          "date": "2026-07-24",
+          "source": "AI타임스",
+          "description": "■ 마키나락스(대표 윤성호)는 전동 액추에이터 기업 \\'에너토크\\'와 AI 네이티브 팩토리 구축을 위한 업무협약(MOU)을 체결했다고 밝혔다. 에너토크 공장을 AI 네이티브로 전환하는 것을 목표로 AI 에이전트 기반 사무 자동화, 로봇 등 피지컬 AI를 활용한 공정 자동화, AI 데이터 인프라 및 운영체계 수립 등을 진행할 계획이다.■ 메가존클라우드(대표 염동훈)는 \\'아크릴\\'과 AI 인프라 사업 확대에 나선다고 밝혔다. 메가존클라우드의 AI·클라우드 인프라 구축 역량에 아크릴의 AI 개발 및 인프라 최적화 기술을 더해 고객별 수요에 맞",
+          "image": "https://cdn.aitimes.com/news/photo/202607/213126_216567_4611.png",
+          "is_english": false,
+          "original_title": "[게시판] 마키나락스, 액추에이터 기업 '에너토크'와 MOU 체결 등 단신",
+          "original_summary": "■ 마키나락스(대표 윤성호)는 전동 액추에이터 기업 \\'에너토크\\'와 AI 네이티브 팩토리 구축을 위한 업무협약(MOU)을 체결했다고 밝혔다. 에너토크 공장을 AI 네이티브로 전환하는 것을 목표로 AI 에이전트 기반 사무 자동화, 로봇 등 피지컬 AI를 활용한 공정 자동화, AI 데이터 인프라 및 운영체계 수립 등을 진행할 계획이다.■ 메가존클라우드(대표 염동훈)는 \\'아크릴\\'과 AI 인프라 사업 확대에 나선다고 밝혔다. 메가존클라우드의 AI·클라우드 인프라 구축 역량에 아크릴의 AI 개발 및 인프라 최적화 기술을 더해 고객별 수",
+          "summary": "■ 마키나락스(대표 윤성호)는 전동 액추에이터 기업 \\'에너토크\\'와 AI 네이티브 팩토리 구축을 위한 업무협약(MOU)을 체결했다고 밝혔다. 에너토크 공장을 AI 네이티브로 전환하는 것을 목표로 AI 에이전트 기반 사무 자동화, 로봇 등 피지컬 AI를 활용한 공정 자동화, AI 데이터 인프라 및 운영체계 수립 등을 진행할 계획이다.■ 메가존클라우드(대표 염동훈)는 \\'아크릴\\'과 AI 인프라 사업 확대에 나선다고 밝혔다. 메가존클라우드의 AI·클라우드 인프라 구축 역량에 아크릴의 AI 개발 및 인프라 최적화 기술을 더해 고객별 수"
+        },
+        {
+          "title": "테크타카, 180억 규모 후속 투자 유치…”AI 물류 운영 솔루션 고도화”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213152",
+          "date": "2026-07-24",
+          "source": "AI타임스",
+          "description": "글로벌 통합 물류 플랫폼 전문 테크타카(대표 양수영)는 총 180억원 규모 후속 투자 유치를 마무리했다고 24일 밝혔다.이번 라운드에는 기존 투자사인 네이버 D2SF와 알토스벤처스를 비롯해 일본 시장 전략적 교두보가 될 제트벤처캐피탈(ZVC)이 투자에 합류했다. 테크타카의 누적 투자 유치 금액은 450억원을 넘어섰다. 2020년 설립된 테크타카는 AI 글로벌 통합 물류 플랫폼 ‘아르고’를 통해 주문 수집부터 재고 관리, 풀필먼트 운영, 국내외 배송까지 이커머스 물류 전 과정을 하나의 플랫폼에서 제공한다. AI를 활용한 물류 자동화와",
+          "image": "https://cdn.aitimes.com/news/photo/202607/213152_216566_2237.png",
+          "is_english": false,
+          "original_title": "테크타카, 180억 규모 후속 투자 유치…”AI 물류 운영 솔루션 고도화”",
+          "original_summary": "글로벌 통합 물류 플랫폼 전문 테크타카(대표 양수영)는 총 180억원 규모 후속 투자 유치를 마무리했다고 24일 밝혔다.이번 라운드에는 기존 투자사인 네이버 D2SF와 알토스벤처스를 비롯해 일본 시장 전략적 교두보가 될 제트벤처캐피탈(ZVC)이 투자에 합류했다. 테크타카의 누적 투자 유치 금액은 450억원을 넘어섰다. 2020년 설립된 테크타카는 AI 글로벌 통합 물류 플랫폼 ‘아르고’를 통해 주문 수집부터 재고 관리, 풀필먼트 운영, 국내외 배송까지 이커머스 물류 전 과정을 하나의 플랫폼에서 제공한다. AI를 활용한 물류 자동화와",
+          "summary": "글로벌 통합 물류 플랫폼 전문 테크타카(대표 양수영)는 총 180억원 규모 후속 투자 유치를 마무리했다고 24일 밝혔다.이번 라운드에는 기존 투자사인 네이버 D2SF와 알토스벤처스를 비롯해 일본 시장 전략적 교두보가 될 제트벤처캐피탈(ZVC)이 투자에 합류했다. 테크타카의 누적 투자 유치 금액은 450억원을 넘어섰다. 2020년 설립된 테크타카는 AI 글로벌 통합 물류 플랫폼 ‘아르고’를 통해 주문 수집부터 재고 관리, 풀필먼트 운영, 국내외 배송까지 이커머스 물류 전 과정을 하나의 플랫폼에서 제공한다. AI를 활용한 물류 자동화와"
+        },
+        {
+          "title": "AMD·세레브라스, AI 추론 플랫폼 협력...\"프롬프트-토큰 생성 분리로 성능 5배 높인다\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213143",
+          "date": "2026-07-24",
+          "source": "AI타임스",
+          "description": "AMD와 세레브라스가 차세대 AI 추론(inference) 플랫폼을 공동 개발한다. AMD의 차세대 랙 스케일 AI 인프라 \\'헬리오스(Helios)\\'와 세레브라스의 웨이퍼 스케일 엔진(WSE)을 결합해 추론 과정을 역할별로 분리하는 방식으로, 전력 대비 토큰 생성 성능을 최대 5배 높인다는 목표다.양사는 23일(현지시간) AMD의 헬리오스 랙 스케일 인프라와 세레브라스 WSE를 통합한 분산형(disaggregated) AI 추론 플랫폼을 공동 개발한다고 발표했다. 새로운 플랫폼은 하나의 추론 워크플로 안에서 서로 다른 하드웨어가 각",
+          "image": "https://cdn.aitimes.com/news/photo/202607/213143_216552_1128.png",
+          "is_english": false,
+          "original_title": "AMD·세레브라스, AI 추론 플랫폼 협력...\"프롬프트-토큰 생성 분리로 성능 5배 높인다\"",
+          "original_summary": "AMD와 세레브라스가 차세대 AI 추론(inference) 플랫폼을 공동 개발한다. AMD의 차세대 랙 스케일 AI 인프라 \\'헬리오스(Helios)\\'와 세레브라스의 웨이퍼 스케일 엔진(WSE)을 결합해 추론 과정을 역할별로 분리하는 방식으로, 전력 대비 토큰 생성 성능을 최대 5배 높인다는 목표다.양사는 23일(현지시간) AMD의 헬리오스 랙 스케일 인프라와 세레브라스 WSE를 통합한 분산형(disaggregated) AI 추론 플랫폼을 공동 개발한다고 발표했다. 새로운 플랫폼은 하나의 추론 워크플로 안에서 서로 다른 하드웨어가",
+          "summary": "AMD와 세레브라스가 차세대 AI 추론(inference) 플랫폼을 공동 개발한다. AMD의 차세대 랙 스케일 AI 인프라 \\'헬리오스(Helios)\\'와 세레브라스의 웨이퍼 스케일 엔진(WSE)을 결합해 추론 과정을 역할별로 분리하는 방식으로, 전력 대비 토큰 생성 성능을 최대 5배 높인다는 목표다.양사는 23일(현지시간) AMD의 헬리오스 랙 스케일 인프라와 세레브라스 WSE를 통합한 분산형(disaggregated) AI 추론 플랫폼을 공동 개발한다고 발표했다. 새로운 플랫폼은 하나의 추론 워크플로 안에서 서로 다른 하드웨어가"
+        },
+        {
+          "title": "마크비전, URL 입력만으로 브랜드 위협 진단하는 ‘마크레이더’ 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213149",
+          "date": "2026-07-24",
+          "source": "AI타임스",
+          "description": "AI IP 전문 마크비전(대표 이인섭)은 브랜드 웹사이트 주소만 입력하면 온라인 위협 노출 현황을 즉각 확인할 수 있는 브랜드 위협 자가진단 서비스 ‘마크레이더(MarqRadar)’를 정식 출시했다고 24일 밝혔다.‘마크레이더’는 별도 솔루션 구축이나 상담 절차 없이 누구나 무료로 자사의 온라인 브랜드 위협을 확인할 수 있는 서비스다. 사용자가 브랜드 공식 웹사이트 주소를 입력하면 ▲유사·사칭 도메인 ▲이커머스 마켓플레이스 ▲소셜미디어(SNS) ▲유료 검색 광고 ▲웹사이트 콘텐츠 등 5개 핵심 카테고리를 분석해 90초 이내에 진단",
+          "image": "https://cdn.aitimes.com/news/photo/202607/213149_216557_5932.png",
+          "is_english": false,
+          "original_title": "마크비전, URL 입력만으로 브랜드 위협 진단하는 ‘마크레이더’ 출시",
+          "original_summary": "AI IP 전문 마크비전(대표 이인섭)은 브랜드 웹사이트 주소만 입력하면 온라인 위협 노출 현황을 즉각 확인할 수 있는 브랜드 위협 자가진단 서비스 ‘마크레이더(MarqRadar)’를 정식 출시했다고 24일 밝혔다.‘마크레이더’는 별도 솔루션 구축이나 상담 절차 없이 누구나 무료로 자사의 온라인 브랜드 위협을 확인할 수 있는 서비스다. 사용자가 브랜드 공식 웹사이트 주소를 입력하면 ▲유사·사칭 도메인 ▲이커머스 마켓플레이스 ▲소셜미디어(SNS) ▲유료 검색 광고 ▲웹사이트 콘텐츠 등 5개 핵심 카테고리를 분석해 90초 이내에 진단",
+          "summary": "AI IP 전문 마크비전(대표 이인섭)은 브랜드 웹사이트 주소만 입력하면 온라인 위협 노출 현황을 즉각 확인할 수 있는 브랜드 위협 자가진단 서비스 ‘마크레이더(MarqRadar)’를 정식 출시했다고 24일 밝혔다.‘마크레이더’는 별도 솔루션 구축이나 상담 절차 없이 누구나 무료로 자사의 온라인 브랜드 위협을 확인할 수 있는 서비스다. 사용자가 브랜드 공식 웹사이트 주소를 입력하면 ▲유사·사칭 도메인 ▲이커머스 마켓플레이스 ▲소셜미디어(SNS) ▲유료 검색 광고 ▲웹사이트 콘텐츠 등 5개 핵심 카테고리를 분석해 90초 이내에 진단"
+        },
+        {
+          "title": "팀스파르타, 타임지 '2026 세계 최고의 에듀테크 기업' 선정",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213147",
+          "date": "2026-07-24",
+          "source": "AI타임스",
+          "description": "AI 전문 팀스파르타(대표 이범규)는 미국 시사주간지 타임과 글로벌 리서치 기관 스태티스타(Statista)가 발표한 \\'2026 세계 최고의 에듀테크 기업\\'에 이름을 올렸다고 24일 밝혔다. 이는 전 세계 에듀테크 기업의 재무 성과와 산업 영향력, 성장성 등을 종합 분석해 선정하는 평가다. 올해는 약 6500개 기업이 심사 대상에 올랐다. 국내에서는 팀스파르타를 포함해 15개 기업이 포함됐다.팀스파르타는 기업의 AX 교육을 지원 중이다. 올해 B2B 교육 매출은 2025년 전년 대비 2.5배 증가했으며, 평균 임직원 AI 역량은 1",
+          "image": "https://cdn.aitimes.com/news/photo/202607/213147_216554_4647.jpeg",
+          "is_english": false,
+          "original_title": "팀스파르타, 타임지 '2026 세계 최고의 에듀테크 기업' 선정",
+          "original_summary": "AI 전문 팀스파르타(대표 이범규)는 미국 시사주간지 타임과 글로벌 리서치 기관 스태티스타(Statista)가 발표한 \\'2026 세계 최고의 에듀테크 기업\\'에 이름을 올렸다고 24일 밝혔다. 이는 전 세계 에듀테크 기업의 재무 성과와 산업 영향력, 성장성 등을 종합 분석해 선정하는 평가다. 올해는 약 6500개 기업이 심사 대상에 올랐다. 국내에서는 팀스파르타를 포함해 15개 기업이 포함됐다.팀스파르타는 기업의 AX 교육을 지원 중이다. 올해 B2B 교육 매출은 2025년 전년 대비 2.5배 증가했으며, 평균 임직원 AI 역량은",
+          "summary": "AI 전문 팀스파르타(대표 이범규)는 미국 시사주간지 타임과 글로벌 리서치 기관 스태티스타(Statista)가 발표한 \\'2026 세계 최고의 에듀테크 기업\\'에 이름을 올렸다고 24일 밝혔다. 이는 전 세계 에듀테크 기업의 재무 성과와 산업 영향력, 성장성 등을 종합 분석해 선정하는 평가다. 올해는 약 6500개 기업이 심사 대상에 올랐다. 국내에서는 팀스파르타를 포함해 15개 기업이 포함됐다.팀스파르타는 기업의 AX 교육을 지원 중이다. 올해 B2B 교육 매출은 2025년 전년 대비 2.5배 증가했으며, 평균 임직원 AI 역량은"
+        },
+        {
+          "title": "딥핑소스, 산자부 AI 사업 주관사 선정…“국내 AI 자율 운영 매장 1000곳 구축”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213150",
+          "date": "2026-07-24",
+          "source": "AI타임스",
+          "description": "AI 공간분석 전문 딥핑소스(대표 김태훈)는 산업통상자원부 \\'2026 AI 응용제품 신속 상용화 지원사업\\' 주관기관으로 선정됐다고 24일 밝혔다. 사업명은 \\'AI 로보틱스 기반 유통매장 지능형 관리 플랫폼\\'으로, 총사업비 45억원 규모다. 사업 기간은 오는 2027년 12월까지다. 딥핑소스는 협약식과 킥오프 미팅을 완료하고 본격 사업에 돌입했다.이번 사업은 딥핑소스가 일본 로손(LAWSON) \\'리얼×테크 로손\\' 1호점에서 검증한 AI 로보틱스 기술을 한 단계 진보시켜 국내 매장 환경에 맞게 고도화하는 것을 목표로 한다. 이를 국내",
+          "image": "https://cdn.aitimes.com/news/photo/202607/213150_216558_1031.jpeg",
+          "is_english": false,
+          "original_title": "딥핑소스, 산자부 AI 사업 주관사 선정…“국내 AI 자율 운영 매장 1000곳 구축”",
+          "original_summary": "AI 공간분석 전문 딥핑소스(대표 김태훈)는 산업통상자원부 \\'2026 AI 응용제품 신속 상용화 지원사업\\' 주관기관으로 선정됐다고 24일 밝혔다. 사업명은 \\'AI 로보틱스 기반 유통매장 지능형 관리 플랫폼\\'으로, 총사업비 45억원 규모다. 사업 기간은 오는 2027년 12월까지다. 딥핑소스는 협약식과 킥오프 미팅을 완료하고 본격 사업에 돌입했다.이번 사업은 딥핑소스가 일본 로손(LAWSON) \\'리얼×테크 로손\\' 1호점에서 검증한 AI 로보틱스 기술을 한 단계 진보시켜 국내 매장 환경에 맞게 고도화하는 것을 목표로 한다. ",
+          "summary": "AI 공간분석 전문 딥핑소스(대표 김태훈)는 산업통상자원부 \\'2026 AI 응용제품 신속 상용화 지원사업\\' 주관기관으로 선정됐다고 24일 밝혔다. 사업명은 \\'AI 로보틱스 기반 유통매장 지능형 관리 플랫폼\\'으로, 총사업비 45억원 규모다. 사업 기간은 오는 2027년 12월까지다. 딥핑소스는 협약식과 킥오프 미팅을 완료하고 본격 사업에 돌입했다.이번 사업은 딥핑소스가 일본 로손(LAWSON) \\'리얼×테크 로손\\' 1호점에서 검증한 AI 로보틱스 기술을 한 단계 진보시켜 국내 매장 환경에 맞게 고도화하는 것을 목표로 한다. "
+        },
         {
           "title": "[인사] 한국과학기술원(KAIST)",
           "link": "https://www.yna.co.kr/view/AKR20260724147200063",
@@ -418,19 +598,6 @@
           "category": "AI Model"
         },
         {
-          "title": "prism-ml/Ternary-Bonsai-27B-gguf",
-          "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
-          "date": "2026-07-24",
-          "source": "HuggingFace",
-          "description": "• Ternary-Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
-          "is_english": true,
-          "summary": "• Ternary-Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "prism-ml/Ternary-Bonsai-27B-gguf",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Nanbeige/Nanbeige4.2-3B",
           "link": "https://huggingface.co/Nanbeige/Nanbeige4.2-3B",
           "date": "2026-07-24",
@@ -440,6 +607,19 @@
           "is_english": true,
           "summary": "• Nanbeige4.2-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Nanbeige/Nanbeige4.2-3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "prism-ml/Ternary-Bonsai-27B-gguf",
+          "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
+          "date": "2026-07-24",
+          "source": "HuggingFace",
+          "description": "• Ternary-Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
+          "is_english": true,
+          "summary": "• Ternary-Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "prism-ml/Ternary-Bonsai-27B-gguf",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -470,19 +650,6 @@
           "category": "AI Model"
         },
         {
-          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-07-24",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "microsoft/Mage-Flow",
           "link": "https://huggingface.co/microsoft/Mage-Flow",
           "date": "2026-07-24",
@@ -492,6 +659,19 @@
           "is_english": true,
           "summary": "• Mage-Flow 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "microsoft/Mage-Flow",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "date": "2026-07-24",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -574,19 +754,6 @@
           "category": "AI Model"
         },
         {
-          "title": "moonshotai/Kimi-K2.7-Code",
-          "link": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
-          "date": "2026-07-24",
-          "source": "HuggingFace",
-          "description": "• Kimi-K2.7-Code 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/moonshotai/Kimi-K2.7-Code/resolve/main/figures/kimi-logo.png",
-          "is_english": true,
-          "summary": "• Kimi-K2.7-Code 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "moonshotai/Kimi-K2.7-Code",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "poolside/Laguna-S-2.1-NVFP4",
           "link": "https://huggingface.co/poolside/Laguna-S-2.1-NVFP4",
           "date": "2026-07-24",
@@ -596,6 +763,19 @@
           "is_english": true,
           "summary": "• Laguna-S-2.1-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "poolside/Laguna-S-2.1-NVFP4",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "moonshotai/Kimi-K2.7-Code",
+          "link": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
+          "date": "2026-07-24",
+          "source": "HuggingFace",
+          "description": "• Kimi-K2.7-Code 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/moonshotai/Kimi-K2.7-Code/resolve/main/figures/kimi-logo.png",
+          "is_english": true,
+          "summary": "• Kimi-K2.7-Code 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "moonshotai/Kimi-K2.7-Code",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
