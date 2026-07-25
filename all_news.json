@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-07-26",
-      "update_time": "2026-07-25 18:52:31",
+      "update_time": "2026-07-25 21:44:27",
       "news": [
+        {
+          "title": "김동환 포티투마루 대표 \"국내 AI, 단순 추격 넘어 전략적 AX 필요\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212917",
+          "date": "2026-07-26",
+          "source": "AI타임스",
+          "description": "과학기술정보통신부가 AI 데이터센터, 피지컬 AI, K-AI 반도체를 골자로 한 \\'3대 메가프로젝트\\'를 가동했다. 여기에 글로벌 프론티어급 독자 AI 모델 개발과 전 국민 무료 AI 서비스인 \\'모두의 AI\\'를 결합해 글로벌 AI 2위 도약이라는 출사표를 던졌다.다만 현장에서는 \\'시간과 자본력 싸움\\'에서 이길 실무적인 돌파구가 시급하다는 목소리가 나온다.이에 제조, 금융 등 산업 AX를 이끄는 기업이자 국가AI전략위원회, 국가AI대전환 TF 전문위원으로 활동한 김동환 포티투마루 대표를 만나 한국의 생존 전략을 들었다.■ 정부 5년치",
+          "image": "https://cdn.aitimes.com/news/photo/202607/212917_216283_3959.jpg",
+          "is_english": false,
+          "original_title": "김동환 포티투마루 대표 \"국내 AI, 단순 추격 넘어 전략적 AX 필요\"",
+          "original_summary": "과학기술정보통신부가 AI 데이터센터, 피지컬 AI, K-AI 반도체를 골자로 한 \\'3대 메가프로젝트\\'를 가동했다. 여기에 글로벌 프론티어급 독자 AI 모델 개발과 전 국민 무료 AI 서비스인 \\'모두의 AI\\'를 결합해 글로벌 AI 2위 도약이라는 출사표를 던졌다.다만 현장에서는 \\'시간과 자본력 싸움\\'에서 이길 실무적인 돌파구가 시급하다는 목소리가 나온다.이에 제조, 금융 등 산업 AX를 이끄는 기업이자 국가AI전략위원회, 국가AI대전환 TF 전문위원으로 활동한 김동환 포티투마루 대표를 만나 한국의 생존 전략을 들었다.■ 정",
+          "summary": "과학기술정보통신부가 AI 데이터센터, 피지컬 AI, K-AI 반도체를 골자로 한 \\'3대 메가프로젝트\\'를 가동했다. 여기에 글로벌 프론티어급 독자 AI 모델 개발과 전 국민 무료 AI 서비스인 \\'모두의 AI\\'를 결합해 글로벌 AI 2위 도약이라는 출사표를 던졌다.다만 현장에서는 \\'시간과 자본력 싸움\\'에서 이길 실무적인 돌파구가 시급하다는 목소리가 나온다.이에 제조, 금융 등 산업 AX를 이끄는 기업이자 국가AI전략위원회, 국가AI대전환 TF 전문위원으로 활동한 김동환 포티투마루 대표를 만나 한국의 생존 전략을 들었다.■ 정"
+        },
         {
           "title": "baidu/Unlimited-OCR",
           "link": "https://huggingface.co/baidu/Unlimited-OCR",
@@ -96,19 +108,6 @@
           "category": "AI Model"
         },
         {
-          "title": "zai-org/GLM-5.2",
-          "link": "https://huggingface.co/zai-org/GLM-5.2",
-          "date": "2026-07-26",
-          "source": "HuggingFace",
-          "description": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
-          "is_english": true,
-          "summary": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "zai-org/GLM-5.2",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "microsoft/Mage-Flow",
           "link": "https://huggingface.co/microsoft/Mage-Flow",
           "date": "2026-07-26",
@@ -122,15 +121,15 @@
           "category": "AI Model"
         },
         {
-          "title": "prism-ml/Bonsai-27B-gguf",
-          "link": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
+          "title": "zai-org/GLM-5.2",
+          "link": "https://huggingface.co/zai-org/GLM-5.2",
           "date": "2026-07-26",
           "source": "HuggingFace",
-          "description": "• Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/prism-ml/Bonsai-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
+          "description": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
           "is_english": true,
-          "summary": "• Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "prism-ml/Bonsai-27B-gguf",
+          "summary": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "zai-org/GLM-5.2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -148,19 +147,6 @@
           "category": "AI Model"
         },
         {
-          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-07-26",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Laguna-S-2.1-GGUF",
           "link": "https://huggingface.co/unsloth/Laguna-S-2.1-GGUF",
           "date": "2026-07-26",
@@ -174,15 +160,28 @@
           "category": "AI Model"
         },
         {
-          "title": "openbmb/MiniCPM-RobotManip",
-          "link": "https://huggingface.co/openbmb/MiniCPM-RobotManip",
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "date": "2026-07-26",
           "source": "HuggingFace",
-          "description": "• MiniCPM-RobotManip 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/openbmb/MiniCPM-RobotManip/resolve/main/github_logo.png",
+          "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
           "is_english": true,
-          "summary": "• MiniCPM-RobotManip 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "openbmb/MiniCPM-RobotManip",
+          "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "prism-ml/Bonsai-27B-gguf",
+          "link": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
+          "date": "2026-07-26",
+          "source": "HuggingFace",
+          "description": "• Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/prism-ml/Bonsai-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
+          "is_english": true,
+          "summary": "• Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "prism-ml/Bonsai-27B-gguf",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -200,15 +199,15 @@
           "category": "AI Model"
         },
         {
-          "title": "conradlocke/krea2-identity-edit",
-          "link": "https://huggingface.co/conradlocke/krea2-identity-edit",
+          "title": "openbmb/MiniCPM-RobotManip",
+          "link": "https://huggingface.co/openbmb/MiniCPM-RobotManip",
           "date": "2026-07-26",
           "source": "HuggingFace",
-          "description": "• krea2-identity-edit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "description": "• MiniCPM-RobotManip 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/openbmb/MiniCPM-RobotManip/resolve/main/github_logo.png",
           "is_english": true,
-          "summary": "• krea2-identity-edit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "conradlocke/krea2-identity-edit",
+          "summary": "• MiniCPM-RobotManip 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "openbmb/MiniCPM-RobotManip",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -222,6 +221,19 @@
           "is_english": true,
           "summary": "• antares-1b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "fdtn-ai/antares-1b",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "conradlocke/krea2-identity-edit",
+          "link": "https://huggingface.co/conradlocke/krea2-identity-edit",
+          "date": "2026-07-26",
+          "source": "HuggingFace",
+          "description": "• krea2-identity-edit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• krea2-identity-edit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "conradlocke/krea2-identity-edit",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +280,20 @@
     },
     {
       "date": "2026-07-25",
-      "update_time": "2026-07-25 18:52:31",
+      "update_time": "2026-07-25 21:44:26",
       "news": [
+        {
+          "title": "[내면 지도 그리기] 26 Inner Mapping: 나를 찾는 지도",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213177",
+          "date": "2026-07-25",
+          "source": "AI타임스",
+          "description": "내면지도_무엇을 그릴까보다, 무엇으로 그릴까간단한 지도를 그린다고 해볼까요?아마 우리는 내용부터 떠올릴 겁니다. 어떤 걸 그릴지, 몇 개의 길을 표시할지, 어떤 건물을 넣을지. 하지만 지도는 내용만으로 완성되지 않습니다.무엇을 그리느냐 못지않게, 무엇으로 어디에 그리느냐도 중요합니다.생각과 마음을 기록하는 일도 비슷합니다. 우리는 대개 \\'무엇을 쓸까\\'를 고민하지만, \\'무엇으로 쓰고 있는가\\'는 잘 돌아보지 않습니다. 그런데 도구가 달라지면 생각이 나오는 속도와 모양도 함께 달라집니다.니체가 말링한센이라는 초기 타자기를 쓰게 됐을때 그",
+          "image": "https://cdn.aitimes.com/news/photo/202607/213177_216593_845.jpeg",
+          "is_english": true,
+          "original_title": "[내면 지도 그리기] 26 Inner Mapping: 나를 찾는 지도",
+          "original_summary": "내면지도_무엇을 그릴까보다, 무엇으로 그릴까간단한 지도를 그린다고 해볼까요?아마 우리는 내용부터 떠올릴 겁니다. 어떤 걸 그릴지, 몇 개의 길을 표시할지, 어떤 건물을 넣을지. 하지만 지도는 내용만으로 완성되지 않습니다.무엇을 그리느냐 못지않게, 무엇으로 어디에 그리느냐도 중요합니다.생각과 마음을 기록하는 일도 비슷합니다. 우리는 대개 \\'무엇을 쓸까\\'를 고민하지만, \\'무엇으로 쓰고 있는가\\'는 잘 돌아보지 않습니다. 그런데 도구가 달라지면 생각이 나오는 속도와 모양도 함께 달라집니다.니체가 말링한센이라는 초기 타자기를 쓰게 됐",
+          "summary": "내면지도_무엇을 그릴까보다, 무엇으로 그릴까간단한 지도를 그린다고 해볼까요?아마 우리는 내용부터 떠올릴 겁니다. 어떤 걸 그릴지, 몇 개의 길을 표시할지, 어떤 건물을 넣을지. 하지만 지도는 내용만으로 완성되지 않습니다.무엇을 그리느냐 못지않게, 무엇으로 어디에 그리느냐도 중요합니다.생각과 마음을 기록하는 일도 비슷합니다. 우리는 대개 \\'무엇을 쓸까\\'를 고민하지만, \\'무엇으로 쓰고 있는가\\'는 잘 돌아보지 않습니다. 그런데 도구가 달라지면 생각이 나오는 속도와 모양도 함께 달라집니다.니체가 말링한센이라는 초기 타자기를 쓰게 됐"
+        },
         {
           "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
           "link": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
