@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-07-25",
-      "update_time": "2026-07-25 01:45:55",
+      "update_time": "2026-07-25 05:35:06",
       "news": [
+        {
+          "title": "영·미 정부 \"키미 K3 사이버 공격력 기대 이하\"...'증류' 한계 드러냈다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213160",
+          "date": "2026-07-25",
+          "source": "AI타임스",
+          "description": "문샷 AI의 \\'키미 K3\\'가 사이버 공격 수행 능력에서 미국 최상위 AI 모델들에 크게 미치지 못한다는 영국과 미국 정부 공동 연구 결과가 나왔다. 최근 중국 오픈소스 AI의 급격한 발전에 대한 미국의 경계가 커지는 가운데, 적어도 사이버 공격 역량에서는 미국 선도 모델과 상당한 격차가 존재한다는 평가다.영국 과학혁신기술부 산하 AI 안전연구소(AISI)와 미국 상무부 국립표준기술연구소(NIST) 산하 AI 표준·혁신센터(CAISI)는 24일(현지시간) 공동 보고서를 통해 키미 K3의 사이버 보안 관련 성능을 평가한 결과를 공개했다",
+          "image": "https://cdn.aitimes.com/news/photo/202607/213160_216570_1746.jpg",
+          "is_english": false,
+          "original_title": "영·미 정부 \"키미 K3 사이버 공격력 기대 이하\"...'증류' 한계 드러냈다",
+          "original_summary": "문샷 AI의 \\'키미 K3\\'가 사이버 공격 수행 능력에서 미국 최상위 AI 모델들에 크게 미치지 못한다는 영국과 미국 정부 공동 연구 결과가 나왔다. 최근 중국 오픈소스 AI의 급격한 발전에 대한 미국의 경계가 커지는 가운데, 적어도 사이버 공격 역량에서는 미국 선도 모델과 상당한 격차가 존재한다는 평가다.영국 과학혁신기술부 산하 AI 안전연구소(AISI)와 미국 상무부 국립표준기술연구소(NIST) 산하 AI 표준·혁신센터(CAISI)는 24일(현지시간) 공동 보고서를 통해 키미 K3의 사이버 보안 관련 성능을 평가한 결과를 공개",
+          "summary": "문샷 AI의 \\'키미 K3\\'가 사이버 공격 수행 능력에서 미국 최상위 AI 모델들에 크게 미치지 못한다는 영국과 미국 정부 공동 연구 결과가 나왔다. 최근 중국 오픈소스 AI의 급격한 발전에 대한 미국의 경계가 커지는 가운데, 적어도 사이버 공격 역량에서는 미국 선도 모델과 상당한 격차가 존재한다는 평가다.영국 과학혁신기술부 산하 AI 안전연구소(AISI)와 미국 상무부 국립표준기술연구소(NIST) 산하 AI 표준·혁신센터(CAISI)는 24일(현지시간) 공동 보고서를 통해 키미 K3의 사이버 보안 관련 성능을 평가한 결과를 공개"
+        },
+        {
+          "title": "[AI카툰] Bob, Senior IT guy - 밥, AI는 검색엔진 아니에요.",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213167",
+          "date": "2026-07-25",
+          "source": "AI타임스",
+          "description": "글·그림 Dr. Alf",
+          "image": "https://cdn.aitimes.com/news/photo/202607/213167_216578_1859.png",
+          "is_english": true,
+          "original_title": "[AI카툰] Bob, Senior IT guy - 밥, AI는 검색엔진 아니에요.",
+          "original_summary": "글·그림 Dr. Alf",
+          "summary": "글·그림 Dr. Alf"
+        },
         {
           "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
           "link": "https://www.yna.co.kr/view/AKR20260725023800011",
@@ -304,19 +328,6 @@
           "category": "AI Model"
         },
         {
-          "title": "conradlocke/krea2-identity-edit",
-          "link": "https://huggingface.co/conradlocke/krea2-identity-edit",
-          "date": "2026-07-25",
-          "source": "HuggingFace",
-          "description": "• krea2-identity-edit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• krea2-identity-edit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "conradlocke/krea2-identity-edit",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Motif-Technologies/Motif-3-Beta",
           "link": "https://huggingface.co/Motif-Technologies/Motif-3-Beta",
           "date": "2026-07-25",
@@ -326,6 +337,19 @@
           "is_english": true,
           "summary": "• Motif-3-Beta 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Motif-Technologies/Motif-3-Beta",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "conradlocke/krea2-identity-edit",
+          "link": "https://huggingface.co/conradlocke/krea2-identity-edit",
+          "date": "2026-07-25",
+          "source": "HuggingFace",
+          "description": "• krea2-identity-edit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• krea2-identity-edit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "conradlocke/krea2-identity-edit",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -408,15 +432,15 @@
           "category": "AI Model"
         },
         {
-          "title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
-          "link": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B",
+          "title": "Kwaipilot/KAT-Coder-V2.5-Dev",
+          "link": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev",
           "date": "2026-07-25",
           "source": "HuggingFace",
-          "description": "• ThinkingCap-Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/bottlecapai/ThinkingCap-Qwen3.6-27B/resolve/main/bottlecap-logo.png",
+          "description": "• KAT-Coder-V2.5-Dev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev/resolve/main/kat_logo_hd.png",
           "is_english": true,
-          "summary": "• ThinkingCap-Qwen3.6-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "bottlecapai/ThinkingCap-Qwen3.6-27B",
+          "summary": "• KAT-Coder-V2.5-Dev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Kwaipilot/KAT-Coder-V2.5-Dev",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
