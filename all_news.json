@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-07-26",
-      "update_time": "2026-07-26 05:51:15",
+      "update_time": "2026-07-26 08:07:39",
       "news": [
+        {
+          "title": "KAIST-엔비디아, 피지컬 AI 테크놀로지센터 설립…파운데이션 모델 공동 연구",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213187",
+          "date": "2026-07-26",
+          "source": "AI타임스",
+          "description": "한국과학기술원(KAIST, 총장 배충식)은 엔비디아와 피지컬 AI 공동연구 추진을 위해 ‘엔비디아 AI 테크놀로지 센터(NVAITC)’를 설립한다고 26일 밝혔다.KAIST가 축적해 온 인간 중심 로봇 기술과 실제 동작 데이터에, 엔비디아의 AI 기술과 글로벌 연구 네트워크를 결합해 차세대 피지컬 AI 원천기술을 확보하기 위한 것이다.‘인간물리지능 테크놀로지 센터’에서 공동연구를 추진하게 된다. KAIST 기계공학과 인간물리지능연구센터가 공동 연구 핵심 거점 역할을 맡는다. 기계공학과 인간물리지능연구센터는 웨어러블 로봇 분야를 전문",
+          "image": "https://cdn.aitimes.com/news/photo/202607/213187_216603_5552.jpeg",
+          "is_english": false,
+          "original_title": "KAIST-엔비디아, 피지컬 AI 테크놀로지센터 설립…파운데이션 모델 공동 연구",
+          "original_summary": "한국과학기술원(KAIST, 총장 배충식)은 엔비디아와 피지컬 AI 공동연구 추진을 위해 ‘엔비디아 AI 테크놀로지 센터(NVAITC)’를 설립한다고 26일 밝혔다.KAIST가 축적해 온 인간 중심 로봇 기술과 실제 동작 데이터에, 엔비디아의 AI 기술과 글로벌 연구 네트워크를 결합해 차세대 피지컬 AI 원천기술을 확보하기 위한 것이다.‘인간물리지능 테크놀로지 센터’에서 공동연구를 추진하게 된다. KAIST 기계공학과 인간물리지능연구센터가 공동 연구 핵심 거점 역할을 맡는다. 기계공학과 인간물리지능연구센터는 웨어러블 로봇 분야를 전문",
+          "summary": "한국과학기술원(KAIST, 총장 배충식)은 엔비디아와 피지컬 AI 공동연구 추진을 위해 ‘엔비디아 AI 테크놀로지 센터(NVAITC)’를 설립한다고 26일 밝혔다.KAIST가 축적해 온 인간 중심 로봇 기술과 실제 동작 데이터에, 엔비디아의 AI 기술과 글로벌 연구 네트워크를 결합해 차세대 피지컬 AI 원천기술을 확보하기 위한 것이다.‘인간물리지능 테크놀로지 센터’에서 공동연구를 추진하게 된다. KAIST 기계공학과 인간물리지능연구센터가 공동 연구 핵심 거점 역할을 맡는다. 기계공학과 인간물리지능연구센터는 웨어러블 로봇 분야를 전문"
+        },
         {
           "title": "엔비디아, LLM 배포 가속 '모델익스프레스' 발표...\"서버 대기 8분에서 1분대로 단축\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=213179",
@@ -382,19 +394,6 @@
           "category": "AI Model"
         },
         {
-          "title": "conradlocke/krea2-identity-edit",
-          "link": "https://huggingface.co/conradlocke/krea2-identity-edit",
-          "date": "2026-07-26",
-          "source": "HuggingFace",
-          "description": "• krea2-identity-edit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• krea2-identity-edit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "conradlocke/krea2-identity-edit",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "poolside/Laguna-S-2.1-NVFP4",
           "link": "https://huggingface.co/poolside/Laguna-S-2.1-NVFP4",
           "date": "2026-07-26",
@@ -408,15 +407,28 @@
           "category": "AI Model"
         },
         {
-          "title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
-          "link": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "title": "conradlocke/krea2-identity-edit",
+          "link": "https://huggingface.co/conradlocke/krea2-identity-edit",
           "date": "2026-07-26",
           "source": "HuggingFace",
-          "description": "• Qwythos-9B-Claude-Mythos-5-1M-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M/resolve/main/assets/qwythos.png",
+          "description": "• krea2-identity-edit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
           "is_english": true,
-          "summary": "• Qwythos-9B-Claude-Mythos-5-1M-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "empero-ai/Qwythos-9B-Claude-Mythos-5-1M-GGUF",
+          "summary": "• krea2-identity-edit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "conradlocke/krea2-identity-edit",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/Cosmos3-Edge",
+          "link": "https://huggingface.co/nvidia/Cosmos3-Edge",
+          "date": "2026-07-26",
+          "source": "HuggingFace",
+          "description": "• Cosmos3-Edge 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Cosmos3-Edge 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/Cosmos3-Edge",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
