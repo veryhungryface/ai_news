@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-07-27",
-      "update_time": "2026-07-26 15:54:45",
+      "update_time": "2026-07-26 18:55:50",
       "news": [
         {
           "title": "baidu/Unlimited-OCR",
@@ -187,6 +187,19 @@
           "category": "AI Model"
         },
         {
+          "title": "owensong/Inflect-Micro-v2",
+          "link": "https://huggingface.co/owensong/Inflect-Micro-v2",
+          "date": "2026-07-27",
+          "source": "HuggingFace",
+          "description": "• Inflect-Micro-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/owensong/Inflect-Micro-v2/resolve/main/assets/inflect-v2-repository-hero.png",
+          "is_english": true,
+          "summary": "• Inflect-Micro-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "owensong/Inflect-Micro-v2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "openbmb/MiniCPM-RobotManip",
           "link": "https://huggingface.co/openbmb/MiniCPM-RobotManip",
           "date": "2026-07-27",
@@ -209,19 +222,6 @@
           "is_english": true,
           "summary": "• Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "prism-ml/Bonsai-27B-gguf",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "owensong/Inflect-Micro-v2",
-          "link": "https://huggingface.co/owensong/Inflect-Micro-v2",
-          "date": "2026-07-27",
-          "source": "HuggingFace",
-          "description": "• Inflect-Micro-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/owensong/Inflect-Micro-v2/resolve/main/assets/inflect-v2-repository-hero.png",
-          "is_english": true,
-          "summary": "• Inflect-Micro-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "owensong/Inflect-Micro-v2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +268,20 @@
     },
     {
       "date": "2026-07-26",
-      "update_time": "2026-07-26 12:57:11",
+      "update_time": "2026-07-26 18:55:50",
       "news": [
+        {
+          "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+          "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+          "date": "2026-07-26",
+          "source": "TechCrunch",
+          "description": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/hugging-face-openai-logos-split-screen.jpg?resize=1200,799",
+          "is_english": true,
+          "original_title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+          "original_summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+          "summary": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\""
+        },
         {
           "title": "안두릴, 146조 몸값으로 투자 추진…방산 공룡 '록히드 마틴' 턱밑 추격",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=213188",
@@ -7225,7 +7237,7 @@
         {
           "title": "thinkingmachines/Inkling",
           "link": "https://huggingface.co/thinkingmachines/Inkling",
-          "date": "2026-07-18",
+          "date": "2026-07-27",
           "source": "HuggingFace",
           "description": "• Inkling 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/630e8f0bf6f6d700f50ebd2e/AvmDwmrWRMnKjOWvmLieg.png",
@@ -7238,7 +7250,7 @@
         {
           "title": "prism-ml/Ternary-Bonsai-27B-gguf",
           "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
-          "date": "2026-07-18",
+          "date": "2026-07-27",
           "source": "HuggingFace",
           "description": "• Ternary-Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
@@ -7251,7 +7263,7 @@
         {
           "title": "prism-ml/Bonsai-27B-gguf",
           "link": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
-          "date": "2026-07-18",
+          "date": "2026-07-27",
           "source": "HuggingFace",
           "description": "• Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/prism-ml/Bonsai-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
@@ -7264,7 +7276,7 @@
         {
           "title": "zai-org/GLM-5.2",
           "link": "https://huggingface.co/zai-org/GLM-5.2",
-          "date": "2026-07-18",
+          "date": "2026-07-27",
           "source": "HuggingFace",
           "description": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
@@ -7290,7 +7302,7 @@
         {
           "title": "conradlocke/krea2-identity-edit",
           "link": "https://huggingface.co/conradlocke/krea2-identity-edit",
-          "date": "2026-07-18",
+          "date": "2026-07-27",
           "source": "HuggingFace",
           "description": "• krea2-identity-edit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -7329,7 +7341,7 @@
         {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-07-18",
+          "date": "2026-07-27",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
