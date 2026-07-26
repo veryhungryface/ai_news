@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-07-27",
-      "update_time": "2026-07-26 18:55:50",
+      "update_time": "2026-07-26 21:49:25",
       "news": [
         {
           "title": "baidu/Unlimited-OCR",
@@ -135,19 +135,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Motif-Technologies/Motif-3-Beta",
-          "link": "https://huggingface.co/Motif-Technologies/Motif-3-Beta",
-          "date": "2026-07-27",
-          "source": "HuggingFace",
-          "description": "• Motif-3-Beta 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Motif-3-Beta 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Motif-Technologies/Motif-3-Beta",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Kwaipilot/KAT-Coder-V2.5-Dev",
           "link": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev",
           "date": "2026-07-27",
@@ -157,6 +144,19 @@
           "is_english": true,
           "summary": "• KAT-Coder-V2.5-Dev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Kwaipilot/KAT-Coder-V2.5-Dev",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Motif-Technologies/Motif-3-Beta",
+          "link": "https://huggingface.co/Motif-Technologies/Motif-3-Beta",
+          "date": "2026-07-27",
+          "source": "HuggingFace",
+          "description": "• Motif-3-Beta 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Motif-3-Beta 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Motif-Technologies/Motif-3-Beta",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +268,20 @@
     },
     {
       "date": "2026-07-26",
-      "update_time": "2026-07-26 18:55:50",
+      "update_time": "2026-07-26 21:49:25",
       "news": [
+        {
+          "title": "Making sense of the panic over Chinese AI",
+          "link": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+          "date": "2026-07-26",
+          "source": "TechCrunch",
+          "description": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2254580342.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Making sense of the panic over Chinese AI",
+          "original_summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+          "summary": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street."
+        },
         {
           "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
           "link": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
