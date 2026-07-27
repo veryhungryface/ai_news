@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-07-27",
-      "update_time": "2026-07-26 21:49:25",
+      "update_time": "2026-07-27 01:55:40",
       "news": [
+        {
+          "title": "Are brain waves the next unlock for physical AI?",
+          "link": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+          "date": "2026-07-27",
+          "source": "TechCrunch",
+          "description": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/IMG_5583-rotated.jpg?resize=900,1200",
+          "is_english": true,
+          "original_title": "Are brain waves the next unlock for physical AI?",
+          "original_summary": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings. ",
+          "summary": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings. "
+        },
         {
           "title": "baidu/Unlimited-OCR",
           "link": "https://huggingface.co/baidu/Unlimited-OCR",
@@ -161,15 +173,15 @@
           "category": "AI Model"
         },
         {
-          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "title": "owensong/Inflect-Micro-v2",
+          "link": "https://huggingface.co/owensong/Inflect-Micro-v2",
           "date": "2026-07-27",
           "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "description": "• Inflect-Micro-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/owensong/Inflect-Micro-v2/resolve/main/assets/inflect-v2-repository-hero.png",
           "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "summary": "• Inflect-Micro-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "owensong/Inflect-Micro-v2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -187,15 +199,15 @@
           "category": "AI Model"
         },
         {
-          "title": "owensong/Inflect-Micro-v2",
-          "link": "https://huggingface.co/owensong/Inflect-Micro-v2",
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "date": "2026-07-27",
           "source": "HuggingFace",
-          "description": "• Inflect-Micro-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/owensong/Inflect-Micro-v2/resolve/main/assets/inflect-v2-repository-hero.png",
+          "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
           "is_english": true,
-          "summary": "• Inflect-Micro-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "owensong/Inflect-Micro-v2",
+          "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -209,19 +221,6 @@
           "is_english": true,
           "summary": "• MiniCPM-RobotManip 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "openbmb/MiniCPM-RobotManip",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "prism-ml/Bonsai-27B-gguf",
-          "link": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
-          "date": "2026-07-27",
-          "source": "HuggingFace",
-          "description": "• Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/prism-ml/Bonsai-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
-          "is_english": true,
-          "summary": "• Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "prism-ml/Bonsai-27B-gguf",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -252,15 +251,28 @@
           "category": "AI Model"
         },
         {
-          "title": "conradlocke/krea2-identity-edit",
-          "link": "https://huggingface.co/conradlocke/krea2-identity-edit",
+          "title": "prism-ml/Bonsai-27B-gguf",
+          "link": "https://huggingface.co/prism-ml/Bonsai-27B-gguf",
           "date": "2026-07-27",
           "source": "HuggingFace",
-          "description": "• krea2-identity-edit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "description": "• Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/prism-ml/Bonsai-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
           "is_english": true,
-          "summary": "• krea2-identity-edit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "conradlocke/krea2-identity-edit",
+          "summary": "• Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "prism-ml/Bonsai-27B-gguf",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/Cosmos3-Edge",
+          "link": "https://huggingface.co/nvidia/Cosmos3-Edge",
+          "date": "2026-07-27",
+          "source": "HuggingFace",
+          "description": "• Cosmos3-Edge 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Cosmos3-Edge 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/Cosmos3-Edge",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
