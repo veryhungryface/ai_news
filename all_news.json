@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-07-28",
-      "update_time": "2026-07-27 16:53:31",
+      "update_time": "2026-07-27 19:11:42",
       "news": [
         {
           "title": "Neura Robotics to Open Physical AI Training Center",
@@ -147,19 +147,6 @@
           "category": "AI Model"
         },
         {
-          "title": "prism-ml/Ternary-Bonsai-27B-gguf",
-          "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
-          "date": "2026-07-28",
-          "source": "HuggingFace",
-          "description": "• Ternary-Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
-          "is_english": true,
-          "summary": "• Ternary-Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "prism-ml/Ternary-Bonsai-27B-gguf",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Laguna-S-2.1-GGUF",
           "link": "https://huggingface.co/unsloth/Laguna-S-2.1-GGUF",
           "date": "2026-07-28",
@@ -182,6 +169,19 @@
           "is_english": true,
           "summary": "• Inflect-Micro-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "owensong/Inflect-Micro-v2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "prism-ml/Ternary-Bonsai-27B-gguf",
+          "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
+          "date": "2026-07-28",
+          "source": "HuggingFace",
+          "description": "• Ternary-Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
+          "is_english": true,
+          "summary": "• Ternary-Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "prism-ml/Ternary-Bonsai-27B-gguf",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -251,19 +251,6 @@
           "category": "AI Model"
         },
         {
-          "title": "openbmb/MiniCPM-RobotManip",
-          "link": "https://huggingface.co/openbmb/MiniCPM-RobotManip",
-          "date": "2026-07-28",
-          "source": "HuggingFace",
-          "description": "• MiniCPM-RobotManip 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/openbmb/MiniCPM-RobotManip/resolve/main/github_logo.png",
-          "is_english": true,
-          "summary": "• MiniCPM-RobotManip 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "openbmb/MiniCPM-RobotManip",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "moonshotai/Kimi-K2.7-Code",
           "link": "https://huggingface.co/moonshotai/Kimi-K2.7-Code",
           "date": "2026-07-28",
@@ -275,13 +262,50 @@
           "translated_title": "moonshotai/Kimi-K2.7-Code",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "microsoft/Fara1.5-27B",
+          "link": "https://huggingface.co/microsoft/Fara1.5-27B",
+          "date": "2026-07-28",
+          "source": "HuggingFace",
+          "description": "• Fara1.5-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/Microsoft-Project-0078D4?logo=microsoft",
+          "is_english": true,
+          "summary": "• Fara1.5-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "microsoft/Fara1.5-27B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-07-27",
-      "update_time": "2026-07-27 16:53:30",
+      "update_time": "2026-07-27 19:11:40",
       "news": [
+        {
+          "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+          "link": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+          "date": "2026-07-27",
+          "source": "TechCrunch",
+          "description": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/IMG_4458.jpeg?resize=1200,900",
+          "is_english": true,
+          "original_title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+          "original_summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform. ",
+          "summary": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform. "
+        },
+        {
+          "title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+          "link": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+          "date": "2026-07-27",
+          "source": "TechCrunch",
+          "description": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/hugging-face-openai-logos-split-screen.jpg?resize=1200,799",
+          "is_english": true,
+          "original_title": "OpenAI’s Hugging Face breach has reignited the debate over alignment and control",
+          "original_summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
+          "summary": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both."
+        },
         {
           "title": "Threads users can now chat with Meta AI in their DMs",
           "link": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
@@ -7525,7 +7549,7 @@
         {
           "title": "thinkingmachines/Inkling",
           "link": "https://huggingface.co/thinkingmachines/Inkling",
-          "date": "2026-07-19",
+          "date": "2026-07-28",
           "source": "HuggingFace",
           "description": "• Inkling 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/630e8f0bf6f6d700f50ebd2e/AvmDwmrWRMnKjOWvmLieg.png",
@@ -7538,7 +7562,7 @@
         {
           "title": "prism-ml/Ternary-Bonsai-27B-gguf",
           "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
-          "date": "2026-07-19",
+          "date": "2026-07-28",
           "source": "HuggingFace",
           "description": "• Ternary-Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
@@ -7564,7 +7588,7 @@
         {
           "title": "zai-org/GLM-5.2",
           "link": "https://huggingface.co/zai-org/GLM-5.2",
-          "date": "2026-07-19",
+          "date": "2026-07-28",
           "source": "HuggingFace",
           "description": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
@@ -7629,7 +7653,7 @@
         {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-07-19",
+          "date": "2026-07-28",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
