@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-07-29",
-      "update_time": "2026-07-28 16:28:27",
+      "update_time": "2026-07-28 19:06:39",
       "news": [
+        {
+          "title": "Scientific computing in the age of agentic AI",
+          "link": "https://openai.com/index/scientific-computing-agentic-ai",
+          "date": "2026-07-29",
+          "source": "OpenAI",
+          "description": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Scientific computing in the age of agentic AI",
+          "original_summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond.",
+          "summary": "A new field report shows how scientists use AI coding agents to modernize scientific computing, accelerating software development and discovery in genomics and beyond."
+        },
+        {
+          "title": "Samsung Agrees to Chip Deal With Broadcom",
+          "link": "https://aibusiness.com/generative-ai/samsung-agrees-chip-deal-with-broadcom",
+          "date": "2026-07-29",
+          "source": "AI Business",
+          "description": "The agreement marks another significant step for the South Korean AI sector.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt87906bff4a779bf1/6a68fcce9d447d6c6b07550c/Chip.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Samsung Agrees to Chip Deal With Broadcom",
+          "original_summary": "The agreement marks another significant step for the South Korean AI sector.",
+          "summary": "The agreement marks another significant step for the South Korean AI sector."
+        },
         {
           "title": "moonshotai/Kimi-K3",
           "link": "https://huggingface.co/moonshotai/Kimi-K3",
@@ -122,19 +146,6 @@
           "category": "AI Model"
         },
         {
-          "title": "thinkingmachines/Inkling",
-          "link": "https://huggingface.co/thinkingmachines/Inkling",
-          "date": "2026-07-29",
-          "source": "HuggingFace",
-          "description": "• Inkling 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/630e8f0bf6f6d700f50ebd2e/AvmDwmrWRMnKjOWvmLieg.png",
-          "is_english": true,
-          "summary": "• Inkling 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "thinkingmachines/Inkling",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "owensong/Inflect-Micro-v2",
           "link": "https://huggingface.co/owensong/Inflect-Micro-v2",
           "date": "2026-07-29",
@@ -144,6 +155,19 @@
           "is_english": true,
           "summary": "• Inflect-Micro-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "owensong/Inflect-Micro-v2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "thinkingmachines/Inkling",
+          "link": "https://huggingface.co/thinkingmachines/Inkling",
+          "date": "2026-07-29",
+          "source": "HuggingFace",
+          "description": "• Inkling 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/630e8f0bf6f6d700f50ebd2e/AvmDwmrWRMnKjOWvmLieg.png",
+          "is_english": true,
+          "summary": "• Inkling 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "thinkingmachines/Inkling",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -174,19 +198,6 @@
           "category": "AI Model"
         },
         {
-          "title": "prism-ml/Ternary-Bonsai-27B-gguf",
-          "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
-          "date": "2026-07-29",
-          "source": "HuggingFace",
-          "description": "• Ternary-Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
-          "is_english": true,
-          "summary": "• Ternary-Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "prism-ml/Ternary-Bonsai-27B-gguf",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "microsoft/Fara1.5-27B",
           "link": "https://huggingface.co/microsoft/Fara1.5-27B",
           "date": "2026-07-29",
@@ -200,28 +211,15 @@
           "category": "AI Model"
         },
         {
-          "title": "poolside/Laguna-S-2.1-GGUF",
-          "link": "https://huggingface.co/poolside/Laguna-S-2.1-GGUF",
+          "title": "prism-ml/Ternary-Bonsai-27B-gguf",
+          "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
           "date": "2026-07-29",
           "source": "HuggingFace",
-          "description": "• Laguna-S-2.1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://poolside.ai/assets/laguna/laguna-s-2-1-banner.svg",
+          "description": "• Ternary-Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
           "is_english": true,
-          "summary": "• Laguna-S-2.1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "poolside/Laguna-S-2.1-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "poolside/Laguna-S-2.1-NVFP4",
-          "link": "https://huggingface.co/poolside/Laguna-S-2.1-NVFP4",
-          "date": "2026-07-29",
-          "source": "HuggingFace",
-          "description": "• Laguna-S-2.1-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://poolside.ai/assets/laguna/laguna-s-2-1-banner.svg",
-          "is_english": true,
-          "summary": "• Laguna-S-2.1-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "poolside/Laguna-S-2.1-NVFP4",
+          "summary": "• Ternary-Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "prism-ml/Ternary-Bonsai-27B-gguf",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -248,6 +246,32 @@
           "is_english": true,
           "summary": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/Kimi-K3",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "poolside/Laguna-S-2.1-NVFP4",
+          "link": "https://huggingface.co/poolside/Laguna-S-2.1-NVFP4",
+          "date": "2026-07-29",
+          "source": "HuggingFace",
+          "description": "• Laguna-S-2.1-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://poolside.ai/assets/laguna/laguna-s-2-1-banner.svg",
+          "is_english": true,
+          "summary": "• Laguna-S-2.1-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "poolside/Laguna-S-2.1-NVFP4",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "poolside/Laguna-S-2.1-GGUF",
+          "link": "https://huggingface.co/poolside/Laguna-S-2.1-GGUF",
+          "date": "2026-07-29",
+          "source": "HuggingFace",
+          "description": "• Laguna-S-2.1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://poolside.ai/assets/laguna/laguna-s-2-1-banner.svg",
+          "is_english": true,
+          "summary": "• Laguna-S-2.1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "poolside/Laguna-S-2.1-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -8029,7 +8053,7 @@
         {
           "title": "thinkingmachines/Inkling",
           "link": "https://huggingface.co/thinkingmachines/Inkling",
-          "date": "2026-07-20",
+          "date": "2026-07-29",
           "source": "HuggingFace",
           "description": "• Inkling 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/630e8f0bf6f6d700f50ebd2e/AvmDwmrWRMnKjOWvmLieg.png",
@@ -8042,7 +8066,7 @@
         {
           "title": "prism-ml/Ternary-Bonsai-27B-gguf",
           "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
-          "date": "2026-07-20",
+          "date": "2026-07-29",
           "source": "HuggingFace",
           "description": "• Ternary-Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
@@ -8081,7 +8105,7 @@
         {
           "title": "zai-org/GLM-5.2",
           "link": "https://huggingface.co/zai-org/GLM-5.2",
-          "date": "2026-07-20",
+          "date": "2026-07-29",
           "source": "HuggingFace",
           "description": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
@@ -8133,7 +8157,7 @@
         {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-07-20",
+          "date": "2026-07-29",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
