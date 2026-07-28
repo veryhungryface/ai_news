@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-07-29",
-      "update_time": "2026-07-28 19:06:39",
+      "update_time": "2026-07-28 21:55:53",
       "news": [
+        {
+          "title": "Microsoft Emerges with Cheaper Cyber Model to Rival Mythos, GPT 5.6",
+          "link": "https://aibusiness.com/foundation-models/microsoft-cheaper-cyber-model-to-rivals",
+          "date": "2026-07-29",
+          "source": "AI Business",
+          "description": "As it ramps up its AI strategy, the tech giant is making a play in the hotly contested AI cybersecurity arena.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt34f6e6891ab6cce7/6a6915f75cb22e64f02e4748/microsoft.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Microsoft Emerges with Cheaper Cyber Model to Rival Mythos, GPT 5.6",
+          "original_summary": "As it ramps up its AI strategy, the tech giant is making a play in the hotly contested AI cybersecurity arena.",
+          "summary": "As it ramps up its AI strategy, the tech giant is making a play in the hotly contested AI cybersecurity arena."
+        },
         {
           "title": "Scientific computing in the age of agentic AI",
           "link": "https://openai.com/index/scientific-computing-agentic-ai",
@@ -42,19 +54,6 @@
           "category": "AI Model"
         },
         {
-          "title": "poolside/Laguna-S-2.1",
-          "link": "https://huggingface.co/poolside/Laguna-S-2.1",
-          "date": "2026-07-29",
-          "source": "HuggingFace",
-          "description": "• Laguna-S-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://poolside.ai/assets/laguna/laguna-s-2-1-banner.svg",
-          "is_english": true,
-          "summary": "• Laguna-S-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "poolside/Laguna-S-2.1",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "baidu/Unlimited-OCR",
           "link": "https://huggingface.co/baidu/Unlimited-OCR",
           "date": "2026-07-29",
@@ -64,6 +63,19 @@
           "is_english": true,
           "summary": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "baidu/Unlimited-OCR",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "poolside/Laguna-S-2.1",
+          "link": "https://huggingface.co/poolside/Laguna-S-2.1",
+          "date": "2026-07-29",
+          "source": "HuggingFace",
+          "description": "• Laguna-S-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://poolside.ai/assets/laguna/laguna-s-2-1-banner.svg",
+          "is_english": true,
+          "summary": "• Laguna-S-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "poolside/Laguna-S-2.1",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -224,6 +236,19 @@
           "category": "AI Model"
         },
         {
+          "title": "unsloth/Kimi-K3",
+          "link": "https://huggingface.co/unsloth/Kimi-K3",
+          "date": "2026-07-29",
+          "source": "HuggingFace",
+          "description": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "is_english": true,
+          "summary": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Kimi-K3",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "date": "2026-07-29",
@@ -237,15 +262,15 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Kimi-K3",
-          "link": "https://huggingface.co/unsloth/Kimi-K3",
+          "title": "baseten/GLM-5.2-Vision-NVFP4",
+          "link": "https://huggingface.co/baseten/GLM-5.2-Vision-NVFP4",
           "date": "2026-07-29",
           "source": "HuggingFace",
-          "description": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "description": "• GLM-5.2-Vision-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Kimi-K3",
+          "summary": "• GLM-5.2-Vision-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "baseten/GLM-5.2-Vision-NVFP4",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -274,26 +299,61 @@
           "translated_title": "poolside/Laguna-S-2.1-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "baseten/GLM-5.2-Vision-NVFP4",
-          "link": "https://huggingface.co/baseten/GLM-5.2-Vision-NVFP4",
-          "date": "2026-07-29",
-          "source": "HuggingFace",
-          "description": "• GLM-5.2-Vision-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• GLM-5.2-Vision-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "baseten/GLM-5.2-Vision-NVFP4",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-07-28",
-      "update_time": "2026-07-28 16:28:27",
+      "update_time": "2026-07-28 21:55:53",
       "news": [
+        {
+          "title": "[게시판] 로바이, AI 로봇 제어 기술로 시드 투자 유치 등 단신",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213277",
+          "date": "2026-07-28",
+          "source": "AI타임스",
+          "description": "■ 로바이(대표 정원영)는 한국투자액셀러레이터로부터 시드 투자를 유치했다고 밝혔다. 금액은 비공개다. 로바이는 \\'AI 자가 탐색\\' 기술을 중심으로 범용 로봇 제어 플랫폼 \\'로봇 아카데미\\'를 개발하고 있다. 최근 로봇 파운데이션 모델(RFM)은 빠르게 발전하고 있지만, 실행 단계에서는 제어 시스템을 개별 설계하고 반복 튜닝해야 한다. 로바이는 이 구간을 AI 범용 제어 소프트웨어로 대체한다는 전략이다. ■ 사이냅소프트(대표 전경헌)는 AI 광학문자인식(OCR) 솔루션 ‘사이냅 OCR IX’가 주요 기능 업데이트를 했다고 밝혔다. 가장",
+          "image": "https://cdn.aitimes.com/news/photo/202607/213277_216704_52.png",
+          "is_english": false,
+          "original_title": "[게시판] 로바이, AI 로봇 제어 기술로 시드 투자 유치 등 단신",
+          "original_summary": "■ 로바이(대표 정원영)는 한국투자액셀러레이터로부터 시드 투자를 유치했다고 밝혔다. 금액은 비공개다. 로바이는 \\'AI 자가 탐색\\' 기술을 중심으로 범용 로봇 제어 플랫폼 \\'로봇 아카데미\\'를 개발하고 있다. 최근 로봇 파운데이션 모델(RFM)은 빠르게 발전하고 있지만, 실행 단계에서는 제어 시스템을 개별 설계하고 반복 튜닝해야 한다. 로바이는 이 구간을 AI 범용 제어 소프트웨어로 대체한다는 전략이다. ■ 사이냅소프트(대표 전경헌)는 AI 광학문자인식(OCR) 솔루션 ‘사이냅 OCR IX’가 주요 기능 업데이트를 했다고 밝혔다",
+          "summary": "■ 로바이(대표 정원영)는 한국투자액셀러레이터로부터 시드 투자를 유치했다고 밝혔다. 금액은 비공개다. 로바이는 \\'AI 자가 탐색\\' 기술을 중심으로 범용 로봇 제어 플랫폼 \\'로봇 아카데미\\'를 개발하고 있다. 최근 로봇 파운데이션 모델(RFM)은 빠르게 발전하고 있지만, 실행 단계에서는 제어 시스템을 개별 설계하고 반복 튜닝해야 한다. 로바이는 이 구간을 AI 범용 제어 소프트웨어로 대체한다는 전략이다. ■ 사이냅소프트(대표 전경헌)는 AI 광학문자인식(OCR) 솔루션 ‘사이냅 OCR IX’가 주요 기능 업데이트를 했다고 밝혔다"
+        },
+        {
+          "title": "Bot-detection startup Spur nabs $200M from Insight",
+          "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
+          "date": "2026-07-28",
+          "source": "TechCrunch",
+          "description": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/s.jpg?resize=1200,840",
+          "is_english": true,
+          "original_title": "Bot-detection startup Spur nabs $200M from Insight",
+          "original_summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
+          "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots."
+        },
+        {
+          "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+          "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+          "date": "2026-07-28",
+          "source": "TechCrunch",
+          "description": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself.",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/07/gavel-messy-legal.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+          "original_summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself.",
+          "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself."
+        },
+        {
+          "title": "Sam Altman is ready to decelerate",
+          "link": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+          "date": "2026-07-28",
+          "source": "TechCrunch",
+          "description": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2226496284.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Sam Altman is ready to decelerate",
+          "original_summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
+          "summary": "His change of position comes after \"the first security incident that I have felt very viscerally.\""
+        },
         {
           "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
           "link": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid/",
