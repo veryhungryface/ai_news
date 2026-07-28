@@ -2,8 +2,56 @@
   "dates": [
     {
       "date": "2026-07-28",
-      "update_time": "2026-07-28 11:09:28",
+      "update_time": "2026-07-28 13:29:47",
       "news": [
+        {
+          "title": "Recursive Superintelligence signs $410 compute deal with Amazon",
+          "link": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+          "date": "2026-07-28",
+          "source": "TechCrunch",
+          "description": "Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date.",
+          "image": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1236309559.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Recursive Superintelligence signs $410 compute deal with Amazon",
+          "original_summary": "Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date.",
+          "summary": "Recursive’s $400 million outlay represents the bulk of the company’s fundraising to date."
+        },
+        {
+          "title": "AI Arrives in the Private Markets Business",
+          "link": "https://aibusiness.com/generative-ai/ai-arrives-private-markets-business",
+          "date": "2026-07-28",
+          "source": "AI Business",
+          "description": "Private markets investing and lending are labor-intensive. A startup says it can change that with AI technology.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt210f37d2c61dc12e/6a68a0b814d26331d424c85c/Markets.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "AI Arrives in the Private Markets Business",
+          "original_summary": "Private markets investing and lending are labor-intensive. A startup says it can change that with AI technology.",
+          "summary": "Private markets investing and lending are labor-intensive. A startup says it can change that with AI technology."
+        },
+        {
+          "title": "5 ways AI Mode in Search helps you enjoy the real world",
+          "link": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+          "date": "2026-07-28",
+          "source": "Google AI",
+          "description": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AI_Mode_real_world.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "5 ways AI Mode in Search helps you enjoy the real world",
+          "original_summary": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…",
+          "summary": "It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…"
+        },
+        {
+          "title": "5 ways to host the ultimate dinner party with Google Search",
+          "link": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+          "date": "2026-07-28",
+          "source": "Google AI",
+          "description": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dinner_parties.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "5 ways to host the ultimate dinner party with Google Search",
+          "original_summary": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
+          "summary": "These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks."
+        },
         {
           "title": "AI가 재난 징후 분석해 실시간 상황 알린다…경남도, 공모 선정",
           "link": "https://www.yna.co.kr/view/AKR20260728160200052",
@@ -684,19 +732,6 @@
           "category": "AI Model"
         },
         {
-          "title": "thinkingmachines/Inkling",
-          "link": "https://huggingface.co/thinkingmachines/Inkling",
-          "date": "2026-07-28",
-          "source": "HuggingFace",
-          "description": "• Inkling 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/630e8f0bf6f6d700f50ebd2e/AvmDwmrWRMnKjOWvmLieg.png",
-          "is_english": true,
-          "summary": "• Inkling 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "thinkingmachines/Inkling",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "zai-org/GLM-5.2",
           "link": "https://huggingface.co/zai-org/GLM-5.2",
           "date": "2026-07-28",
@@ -719,6 +754,19 @@
           "is_english": true,
           "summary": "• KAT-Coder-V2.5-Dev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Kwaipilot/KAT-Coder-V2.5-Dev",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "thinkingmachines/Inkling",
+          "link": "https://huggingface.co/thinkingmachines/Inkling",
+          "date": "2026-07-28",
+          "source": "HuggingFace",
+          "description": "• Inkling 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/630e8f0bf6f6d700f50ebd2e/AvmDwmrWRMnKjOWvmLieg.png",
+          "is_english": true,
+          "summary": "• Inkling 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "thinkingmachines/Inkling",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
