@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-07-30",
-      "update_time": "2026-07-29 16:16:04",
+      "update_time": "2026-07-29 18:56:35",
       "news": [
         {
           "title": "moonshotai/Kimi-K3",
@@ -187,6 +187,19 @@
           "category": "AI Model"
         },
         {
+          "title": "unsloth/Kimi-K3-GGUF",
+          "link": "https://huggingface.co/unsloth/Kimi-K3-GGUF",
+          "date": "2026-07-30",
+          "source": "HuggingFace",
+          "description": "• Kimi-K3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "is_english": true,
+          "summary": "• Kimi-K3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Kimi-K3-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "unsloth/Laguna-S-2.1-GGUF",
           "link": "https://huggingface.co/unsloth/Laguna-S-2.1-GGUF",
           "date": "2026-07-30",
@@ -226,19 +239,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Kimi-K3-GGUF",
-          "link": "https://huggingface.co/unsloth/Kimi-K3-GGUF",
-          "date": "2026-07-30",
-          "source": "HuggingFace",
-          "description": "• Kimi-K3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
-          "is_english": true,
-          "summary": "• Kimi-K3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Kimi-K3-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nota-ai/Solar-Open2-250B-Nota-NVFP4",
           "link": "https://huggingface.co/nota-ai/Solar-Open2-250B-Nota-NVFP4",
           "date": "2026-07-30",
@@ -268,8 +268,32 @@
     },
     {
       "date": "2026-07-29",
-      "update_time": "2026-07-29 16:16:04",
+      "update_time": "2026-07-29 18:56:35",
       "news": [
+        {
+          "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+          "link": "https://openai.com/index/chatgpt-for-academic-researchers",
+          "date": "2026-07-29",
+          "source": "OpenAI",
+          "description": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+          "original_summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery.",
+          "summary": "OpenAI is giving 100,000 academic researchers free access to ChatGPT's most advanced AI models to accelerate scientific research, collaboration, and discovery."
+        },
+        {
+          "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+          "link": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+          "date": "2026-07-29",
+          "source": "TechCrunch",
+          "description": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/Andon-Labs-AI-vending-machine.png?resize=1200,684",
+          "is_english": true,
+          "original_title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+          "original_summary": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever. ",
+          "summary": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever. "
+        },
         {
           "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
           "link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
@@ -8065,7 +8089,7 @@
         {
           "title": "thinkingmachines/Inkling",
           "link": "https://huggingface.co/thinkingmachines/Inkling",
-          "date": "2026-07-21",
+          "date": "2026-07-30",
           "source": "HuggingFace",
           "description": "• Inkling 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/630e8f0bf6f6d700f50ebd2e/AvmDwmrWRMnKjOWvmLieg.png",
@@ -8078,7 +8102,7 @@
         {
           "title": "prism-ml/Ternary-Bonsai-27B-gguf",
           "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
-          "date": "2026-07-21",
+          "date": "2026-07-30",
           "source": "HuggingFace",
           "description": "• Ternary-Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
@@ -8104,7 +8128,7 @@
         {
           "title": "baidu/Unlimited-OCR",
           "link": "https://huggingface.co/baidu/Unlimited-OCR",
-          "date": "2026-07-21",
+          "date": "2026-07-30",
           "source": "HuggingFace",
           "description": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/baidu/Unlimited-OCR/resolve/main/assets/baidu.png",
@@ -8117,7 +8141,7 @@
         {
           "title": "zai-org/GLM-5.2",
           "link": "https://huggingface.co/zai-org/GLM-5.2",
-          "date": "2026-07-21",
+          "date": "2026-07-30",
           "source": "HuggingFace",
           "description": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
@@ -8143,7 +8167,7 @@
         {
           "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
           "link": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-          "date": "2026-07-21",
+          "date": "2026-07-30",
           "source": "HuggingFace",
           "description": "• Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF/resolve/main/valhalla.webp",
@@ -8169,7 +8193,7 @@
         {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-07-21",
+          "date": "2026-07-30",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
