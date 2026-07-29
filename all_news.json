@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-07-30",
-      "update_time": "2026-07-29 18:56:35",
+      "update_time": "2026-07-29 21:48:54",
       "news": [
         {
           "title": "moonshotai/Kimi-K3",
@@ -161,6 +161,19 @@
           "category": "AI Model"
         },
         {
+          "title": "unsloth/Kimi-K3-GGUF",
+          "link": "https://huggingface.co/unsloth/Kimi-K3-GGUF",
+          "date": "2026-07-30",
+          "source": "HuggingFace",
+          "description": "• Kimi-K3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "is_english": true,
+          "summary": "• Kimi-K3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Kimi-K3-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "fdtn-ai/antares-1b",
           "link": "https://huggingface.co/fdtn-ai/antares-1b",
           "date": "2026-07-30",
@@ -187,15 +200,15 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Kimi-K3-GGUF",
-          "link": "https://huggingface.co/unsloth/Kimi-K3-GGUF",
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "date": "2026-07-30",
           "source": "HuggingFace",
-          "description": "• Kimi-K3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
           "is_english": true,
-          "summary": "• Kimi-K3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Kimi-K3-GGUF",
+          "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -209,19 +222,6 @@
           "is_english": true,
           "summary": "• Laguna-S-2.1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/Laguna-S-2.1-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-07-30",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +268,56 @@
     },
     {
       "date": "2026-07-29",
-      "update_time": "2026-07-29 18:56:35",
+      "update_time": "2026-07-29 21:48:54",
       "news": [
+        {
+          "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+          "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+          "date": "2026-07-29",
+          "source": "OpenAI",
+          "description": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+          "image": null,
+          "is_english": true,
+          "original_title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+          "original_summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+          "summary": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar."
+        },
+        {
+          "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+          "date": "2026-07-29",
+          "source": "TechCrunch",
+          "description": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/techcrunch-disrupt-2026-ai-stage.jpg?w=1200",
+          "is_english": true,
+          "original_title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+          "original_summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+          "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups."
+        },
+        {
+          "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+          "link": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+          "date": "2026-07-29",
+          "source": "TechCrunch",
+          "description": "Weng previously served as the VP of AI Safety Research at OpenAI.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+          "is_english": true,
+          "original_title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+          "original_summary": "Weng previously served as the VP of AI Safety Research at OpenAI.",
+          "summary": "Weng previously served as the VP of AI Safety Research at OpenAI."
+        },
+        {
+          "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+          "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+          "date": "2026-07-29",
+          "source": "TechCrunch",
+          "description": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.) ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/bear-analyst.png?resize=1200,800",
+          "is_english": true,
+          "original_title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+          "original_summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.) ",
+          "summary": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.) "
+        },
         {
           "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
           "link": "https://openai.com/index/chatgpt-for-academic-researchers",
