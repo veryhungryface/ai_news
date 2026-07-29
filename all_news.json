@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-07-29",
-      "update_time": "2026-07-29 11:14:45",
+      "update_time": "2026-07-29 13:44:57",
       "news": [
+        {
+          "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+          "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+          "date": "2026-07-29",
+          "source": "TechCrunch",
+          "description": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/Pangram-founders.png?resize=1200,675",
+          "is_english": true,
+          "original_title": "As AI content floods the internet, Pangram raises $9M to detect it",
+          "original_summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview. ",
+          "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview. "
+        },
+        {
+          "title": "Vendor Developing Self-Improving AI Signs $410M AWS Deal",
+          "link": "https://aibusiness.com/generative-ai/vendor-developing-self-improving-ai-410m-aws-deal",
+          "date": "2026-07-29",
+          "source": "AI Business",
+          "description": "The company has quickly gained traction since its founding in 2025.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt9b86673b53898c02/6a69f7fc3978c79c3410a756/Recursive.png?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Vendor Developing Self-Improving AI Signs $410M AWS Deal",
+          "original_summary": "The company has quickly gained traction since its founding in 2025.",
+          "summary": "The company has quickly gained traction since its founding in 2025."
+        },
         {
           "title": "버그 탐지 넘어 암호 분석까지…'미소스', 알고리즘 취약점 찾았다",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=213293",
@@ -701,6 +725,19 @@
           "category": "AI Model"
         },
         {
+          "title": "unsloth/Kimi-K3",
+          "link": "https://huggingface.co/unsloth/Kimi-K3",
+          "date": "2026-07-29",
+          "source": "HuggingFace",
+          "description": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "is_english": true,
+          "summary": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Kimi-K3",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "unsloth/Laguna-S-2.1-GGUF",
           "link": "https://huggingface.co/unsloth/Laguna-S-2.1-GGUF",
           "date": "2026-07-29",
@@ -723,19 +760,6 @@
           "is_english": true,
           "summary": "• Ternary-Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "prism-ml/Ternary-Bonsai-27B-gguf",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "unsloth/Kimi-K3",
-          "link": "https://huggingface.co/unsloth/Kimi-K3",
-          "date": "2026-07-29",
-          "source": "HuggingFace",
-          "description": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
-          "is_english": true,
-          "summary": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Kimi-K3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -766,19 +790,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nota-ai/Solar-Open2-250B-Nota-NVFP4",
-          "link": "https://huggingface.co/nota-ai/Solar-Open2-250B-Nota-NVFP4",
-          "date": "2026-07-29",
-          "source": "HuggingFace",
-          "description": "• Solar-Open2-250B-Nota-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Solar-Open2-250B-Nota-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nota-ai/Solar-Open2-250B-Nota-NVFP4",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Kimi-K3-GGUF",
           "link": "https://huggingface.co/unsloth/Kimi-K3-GGUF",
           "date": "2026-07-29",
@@ -788,6 +799,19 @@
           "is_english": true,
           "summary": "• Kimi-K3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/Kimi-K3-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nota-ai/Solar-Open2-250B-Nota-NVFP4",
+          "link": "https://huggingface.co/nota-ai/Solar-Open2-250B-Nota-NVFP4",
+          "date": "2026-07-29",
+          "source": "HuggingFace",
+          "description": "• Solar-Open2-250B-Nota-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Solar-Open2-250B-Nota-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nota-ai/Solar-Open2-250B-Nota-NVFP4",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
