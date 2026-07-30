@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-07-30",
-      "update_time": "2026-07-30 10:58:51",
+      "update_time": "2026-07-30 13:26:19",
       "news": [
+        {
+          "title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
+          "link": "https://techcrunch.com/2026/07/30/dili-raises-15-million-to-bring-ai-compliance-to-the-infrastructure-boom/",
+          "date": "2026-07-30",
+          "source": "TechCrunch",
+          "description": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2236544023.jpeg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Dili raises $21.7M to bring AI compliance to the infrastructure boom",
+          "original_summary": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan. ",
+          "summary": "The Series A was led by Khosla Ventures, with participation from Allianz, Rebel Fund, Brick and Mortar Ventures’ Darren Bechtel, and Y Combinator’s Garry Tan. "
+        },
         {
           "title": "건강 문제로 싱킹 머신즈 떠난 릴리안 웽...오픈AI서 '재귀적 자기개선' 맡는다",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=213347",
@@ -752,19 +764,6 @@
           "category": "AI Model"
         },
         {
-          "title": "prism-ml/Ternary-Bonsai-27B-gguf",
-          "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
-          "date": "2026-07-30",
-          "source": "HuggingFace",
-          "description": "• Ternary-Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
-          "is_english": true,
-          "summary": "• Ternary-Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "prism-ml/Ternary-Bonsai-27B-gguf",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nota-ai/Solar-Open2-250B-Nota-NVFP4",
           "link": "https://huggingface.co/nota-ai/Solar-Open2-250B-Nota-NVFP4",
           "date": "2026-07-30",
@@ -791,6 +790,19 @@
           "category": "AI Model"
         },
         {
+          "title": "prism-ml/Ternary-Bonsai-27B-gguf",
+          "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
+          "date": "2026-07-30",
+          "source": "HuggingFace",
+          "description": "• Ternary-Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
+          "is_english": true,
+          "summary": "• Ternary-Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "prism-ml/Ternary-Bonsai-27B-gguf",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "owensong/Inflect-Nano-v2",
           "link": "https://huggingface.co/owensong/Inflect-Nano-v2",
           "date": "2026-07-30",
@@ -804,15 +816,15 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Laguna-S-2.1-GGUF",
-          "link": "https://huggingface.co/unsloth/Laguna-S-2.1-GGUF",
+          "title": "microsoft/VibeVoice-ASR-BitNet",
+          "link": "https://huggingface.co/microsoft/VibeVoice-ASR-BitNet",
           "date": "2026-07-30",
           "source": "HuggingFace",
-          "description": "• Laguna-S-2.1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://poolside.ai/assets/laguna/laguna-s-2-1-banner.svg",
+          "description": "• VibeVoice-ASR-BitNet 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/GitHub-Repo-black?logo=github",
           "is_english": true,
-          "summary": "• Laguna-S-2.1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Laguna-S-2.1-GGUF",
+          "summary": "• VibeVoice-ASR-BitNet 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "microsoft/VibeVoice-ASR-BitNet",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
