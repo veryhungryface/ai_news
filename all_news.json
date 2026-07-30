@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-07-31",
-      "update_time": "2026-07-30 16:20:45",
+      "update_time": "2026-07-30 19:08:46",
       "news": [
+        {
+          "title": "Oracle Brings Google Gemini Models to Enterprise Customers",
+          "link": "https://aibusiness.com/agentic-ai/oracle-brings-google-gemini-models-enterprise-customers",
+          "date": "2026-07-31",
+          "source": "AI Business",
+          "description": "The partnership aims to give users more choice when building AI agents and automating business processes.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt06ad16c83965721e/6a6b9c13f118fd5af0dbc838/Oracle.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Oracle Brings Google Gemini Models to Enterprise Customers",
+          "original_summary": "The partnership aims to give users more choice when building AI agents and automating business processes.",
+          "summary": "The partnership aims to give users more choice when building AI agents and automating business processes."
+        },
         {
           "title": "Chinese Startups Dominate Humanoid Robotics Patent Rankings",
           "link": "https://aibusiness.com/robotics/chinese-startups-dominate-humanoid-patent-rankings",
@@ -186,6 +198,19 @@
           "category": "AI Model"
         },
         {
+          "title": "nota-ai/Solar-Open2-250B-Nota-NVFP4",
+          "link": "https://huggingface.co/nota-ai/Solar-Open2-250B-Nota-NVFP4",
+          "date": "2026-07-31",
+          "source": "HuggingFace",
+          "description": "• Solar-Open2-250B-Nota-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Solar-Open2-250B-Nota-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nota-ai/Solar-Open2-250B-Nota-NVFP4",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "date": "2026-07-31",
@@ -195,6 +220,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "prism-ml/Ternary-Bonsai-27B-gguf",
+          "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
+          "date": "2026-07-31",
+          "source": "HuggingFace",
+          "description": "• Ternary-Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
+          "is_english": true,
+          "summary": "• Ternary-Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "prism-ml/Ternary-Bonsai-27B-gguf",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -212,19 +250,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nota-ai/Solar-Open2-250B-Nota-NVFP4",
-          "link": "https://huggingface.co/nota-ai/Solar-Open2-250B-Nota-NVFP4",
-          "date": "2026-07-31",
-          "source": "HuggingFace",
-          "description": "• Solar-Open2-250B-Nota-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Solar-Open2-250B-Nota-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nota-ai/Solar-Open2-250B-Nota-NVFP4",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "fdtn-ai/antares-1b",
           "link": "https://huggingface.co/fdtn-ai/antares-1b",
           "date": "2026-07-31",
@@ -234,19 +259,6 @@
           "is_english": true,
           "summary": "• antares-1b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "fdtn-ai/antares-1b",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "prism-ml/Ternary-Bonsai-27B-gguf",
-          "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
-          "date": "2026-07-31",
-          "source": "HuggingFace",
-          "description": "• Ternary-Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
-          "is_english": true,
-          "summary": "• Ternary-Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "prism-ml/Ternary-Bonsai-27B-gguf",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -280,8 +292,44 @@
     },
     {
       "date": "2026-07-30",
-      "update_time": "2026-07-30 16:20:45",
+      "update_time": "2026-07-30 19:08:46",
       "news": [
+        {
+          "title": "Advancing the price-performance frontier with GPT-5.6",
+          "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
+          "date": "2026-07-30",
+          "source": "OpenAI",
+          "description": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Advancing the price-performance frontier with GPT-5.6",
+          "original_summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale.",
+          "summary": "Explore lower GPT‑5.6 pricing for Luna and Terra—and how OpenAI’s more efficient models help enterprises deploy AI workflows at scale."
+        },
+        {
+          "title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+          "link": "https://techcrunch.com/2026/07/30/google-says-it-fixed-more-chrome-bugs-in-june-than-over-the-past-two-years-thanks-to-ai/",
+          "date": "2026-07-30",
+          "source": "TechCrunch",
+          "description": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/google-chrome-logo-hand.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI",
+          "original_summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools.",
+          "summary": "As experts have warned for the last two years, some companies — like Microsoft and now Google — are finding and patching an exponential number of bugs in their products, thanks to the use of LLMs and AI tools."
+        },
+        {
+          "title": "LinkedIn adds a button to report AI-generated ‘slop’",
+          "link": "https://techcrunch.com/2026/07/30/linkedin-adds-a-button-to-report-ai-generated-slop/",
+          "date": "2026-07-30",
+          "source": "TechCrunch",
+          "description": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
+          "image": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-1244671434-e1669291782949.jpg?resize=1200,676",
+          "is_english": true,
+          "original_title": "LinkedIn adds a button to report AI-generated ‘slop’",
+          "original_summary": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool.",
+          "summary": "LinkedIn is introducing new ways to reduce low-quality AI-generated posts, including a “seems like AI slop” reporting option. It's also replacing its own AI writing feature with a proofreading tool."
+        },
         {
           "title": "Okta buys AI security startup Permiso; source says for about $200M",
           "link": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m/",
@@ -8053,7 +8101,7 @@
         {
           "title": "thinkingmachines/Inkling",
           "link": "https://huggingface.co/thinkingmachines/Inkling",
-          "date": "2026-07-22",
+          "date": "2026-07-31",
           "source": "HuggingFace",
           "description": "• Inkling 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://cdn-uploads.huggingface.co/production/uploads/630e8f0bf6f6d700f50ebd2e/AvmDwmrWRMnKjOWvmLieg.png",
@@ -8066,7 +8114,7 @@
         {
           "title": "baidu/Unlimited-OCR",
           "link": "https://huggingface.co/baidu/Unlimited-OCR",
-          "date": "2026-07-22",
+          "date": "2026-07-31",
           "source": "HuggingFace",
           "description": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/baidu/Unlimited-OCR/resolve/main/assets/baidu.png",
@@ -8079,7 +8127,7 @@
         {
           "title": "prism-ml/Ternary-Bonsai-27B-gguf",
           "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
-          "date": "2026-07-22",
+          "date": "2026-07-31",
           "source": "HuggingFace",
           "description": "• Ternary-Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
@@ -8118,7 +8166,7 @@
         {
           "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
           "link": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-          "date": "2026-07-22",
+          "date": "2026-07-31",
           "source": "HuggingFace",
           "description": "• Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF/resolve/main/valhalla.webp",
@@ -8131,7 +8179,7 @@
         {
           "title": "zai-org/GLM-5.2",
           "link": "https://huggingface.co/zai-org/GLM-5.2",
-          "date": "2026-07-22",
+          "date": "2026-07-31",
           "source": "HuggingFace",
           "description": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
@@ -8144,7 +8192,7 @@
         {
           "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-07-22",
+          "date": "2026-07-31",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
