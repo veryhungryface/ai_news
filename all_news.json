@@ -2,8 +2,68 @@
   "dates": [
     {
       "date": "2026-07-30",
-      "update_time": "2026-07-29 21:48:54",
+      "update_time": "2026-07-30 01:23:40",
       "news": [
+        {
+          "title": "[7월29일] '앙숙' 오픈AI와 앤트로픽, 왜 \"AI 개발 속도 늦추자\"고 입을 모았나",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213292",
+          "date": "2026-07-30",
+          "source": "AI타임스",
+          "description": "첨단 AI 개발 경쟁을 치열하게 벌여온 오픈AI와 앤트로픽이 이제는 AI 개발 속도를 조절해야 한다고 목소리를 모으고 있습니다. 선두 AI 기업이 스스로 개발 속도를 늦추자고 주장한 것도 이례적이지만, 무엇보다 앙숙 관계이던 두 회사가 같은 입장을 내놓았다는 점이 눈길을 끕니다.명목상 이유는 \\'AI 안전\\'입니다. 하지만 업계에서는 두 회사가 갑자기 한목소리를 내게 된 배경에 공통의 이해관계가 있다는 해석도 나옵니다.최근 이러한 변화를 보여주는 움직임이 잇따라 등장했습니다. 우선 오픈AI와 앤트로픽, 구글, 메타 등을 중심으로 110",
+          "image": "https://cdn.aitimes.com/news/photo/202607/213292_216720_4937.png",
+          "is_english": false,
+          "original_title": "[7월29일] '앙숙' 오픈AI와 앤트로픽, 왜 \"AI 개발 속도 늦추자\"고 입을 모았나",
+          "original_summary": "첨단 AI 개발 경쟁을 치열하게 벌여온 오픈AI와 앤트로픽이 이제는 AI 개발 속도를 조절해야 한다고 목소리를 모으고 있습니다. 선두 AI 기업이 스스로 개발 속도를 늦추자고 주장한 것도 이례적이지만, 무엇보다 앙숙 관계이던 두 회사가 같은 입장을 내놓았다는 점이 눈길을 끕니다.명목상 이유는 \\'AI 안전\\'입니다. 하지만 업계에서는 두 회사가 갑자기 한목소리를 내게 된 배경에 공통의 이해관계가 있다는 해석도 나옵니다.최근 이러한 변화를 보여주는 움직임이 잇따라 등장했습니다. 우선 오픈AI와 앤트로픽, 구글, 메타 등을 중심으로 1",
+          "summary": "첨단 AI 개발 경쟁을 치열하게 벌여온 오픈AI와 앤트로픽이 이제는 AI 개발 속도를 조절해야 한다고 목소리를 모으고 있습니다. 선두 AI 기업이 스스로 개발 속도를 늦추자고 주장한 것도 이례적이지만, 무엇보다 앙숙 관계이던 두 회사가 같은 입장을 내놓았다는 점이 눈길을 끕니다.명목상 이유는 \\'AI 안전\\'입니다. 하지만 업계에서는 두 회사가 갑자기 한목소리를 내게 된 배경에 공통의 이해관계가 있다는 해석도 나옵니다.최근 이러한 변화를 보여주는 움직임이 잇따라 등장했습니다. 우선 오픈AI와 앤트로픽, 구글, 메타 등을 중심으로 1"
+        },
+        {
+          "title": "오픈AI 탈주 에이전트, 허깅페이스 이어 모달 랩스 고객까지 연쇄 침해",
+          "link": "https://www.itworld.co.kr/article/4203142/%ec%98%a4%ed%94%88ai-%ed%83%88%ec%a3%bc-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8-%ed%97%88%ea%b9%85%ed%8e%98%ec%9d%b4%ec%8a%a4-%ec%9d%b4%ec%96%b4-%eb%aa%a8%eb%8b%ac-%eb%9e%a9%ec%8a%a4-%ea%b3%a0%ea%b0%9d.html",
+          "date": "2026-07-30",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n오픈AI의 AI 에이전트가 AI 플랫폼 허깅페이스를 침해한 사건의 피해 범위가 단일 피해에 그치지 않은 것으로 드러났다. 로이터 보도에 따르면, 오픈AI의 탈주 에이전트는 허깅페이스를 상대로 수일에 걸친 해킹 공세를 펼치는 과정에서 클라우드 컴퓨팅 플랫폼 업체 모달 랩스(Modal Labs)의 고객 계정도 침해한 것으로 확인됐다. 오픈AI는 성명 업데이트를 통해 문제의 에이전트가 총 4개 서비스의 4개 계정에 무단 접근했다고 공식 확인했지만, 구체적인 서비스명은 공개하지 않았다.\n\n\n\n에이전트는 고객 코드에 존재하던 취약점을 악용한 것으로 분석됐다. 모달 랩스 측에 따르면, 고객이 인터넷 사용자 누구나 샌드박스에서 코드를 실행할 수 있는 비인증 엔드포인트를 외부에 공개 게시한 것이 원인이었다. 미국 온라인 매체 악시오스(Axios) 보도에 따르면, 침해된 모달 랩스 고객의 자산은 오픈AI 에이전트에게 주어진 평가 과제인 사이버 보안 벤치마크 ",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/07/4203142-0-19711300-1785371954-mojahid-mottakin-xS83vCmnWog-unsplash.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "오픈AI 탈주 에이전트, 허깅페이스 이어 모달 랩스 고객까지 연쇄 침해",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n오픈AI의 AI 에이전트가 AI 플랫폼 허깅페이스를 침해한 사건의 피해 범위가 단일 피해에 그치지 않은 것으로 드러났다. 로이터 보도에 따르면, 오픈AI의 탈주 에이전트는 허깅페이스를 상대로 수일에 걸친 해킹 공세를 펼치는 과정에서 클라우드 컴퓨팅 플랫폼 업체 모달 랩스(Modal Labs)의 고객 계정도 침해한 것으로 확인됐다. 오픈AI는 성명 업데이트를 통해 문제의 에이전트가 총 4개 서비스의 4개 계정에 무단 접근했다고 공식 확인했지만, 구체적인 서비스명은 공개하지 않았다.\n\n\n\n에이전",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n오픈AI의 AI 에이전트가 AI 플랫폼 허깅페이스를 침해한 사건의 피해 범위가 단일 피해에 그치지 않은 것으로 드러났다. 로이터 보도에 따르면, 오픈AI의 탈주 에이전트는 허깅페이스를 상대로 수일에 걸친 해킹 공세를 펼치는 과정에서 클라우드 컴퓨팅 플랫폼 업체 모달 랩스(Modal Labs)의 고객 계정도 침해한 것으로 확인됐다. 오픈AI는 성명 업데이트를 통해 문제의 에이전트가 총 4개 서비스의 4개 계정에 무단 접근했다고 공식 확인했지만, 구체적인 서비스명은 공개하지 않았다.\n\n\n\n에이전"
+        },
+        {
+          "title": "오픈 웨이트, AI를 더 정직하게 만들 수 있을까",
+          "link": "https://www.itworld.co.kr/article/4203127/%ec%98%a4%ed%94%88-%ec%9b%a8%ec%9d%b4%ed%8a%b8-ai%eb%a5%bc-%eb%8d%94-%ec%a0%95%ec%a7%81%ed%95%98%ea%b2%8c-%eb%a7%8c%eb%93%a4-%ec%88%98-%ec%9e%88%ec%9d%84%ea%b9%8c.html",
+          "date": "2026-07-30",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n지난달 필자는 클로드 페이블 5 모델에 18세기 유언 검인 서류 4건을 분석해달라고 요청했다. 모델은 존재하지 않는 가족을 만들어냈다.\n\n\n\n20년 넘게 필자는 1725년경 뉴저지주 벌링턴 인근에서 태어난 존 제이콥 에이세이의 부모를 추적해왔다. 해외의 에이세이 가문과 연결하려는 작업이었다. 필자의 가설은 뉴저지의 에이세이 가문을, 에이시(Acy), 에이시(Acey), 에이시(Acie), 에이세이(Asay) 등으로 성을 표기한 요크셔 홀더니스 출신 가문과 연결하는 것이었다. 앤트로픽의 크롬 브라우저 확장 프로그램을 활용해 17~18세기 비서체(secretary hand)로 작성된 요크셔 유언장을 모델이 분석하도록 했다.\n\n\n\n결과는 성공적인 것 같았다. 모델은 필자가 원하던 것을 정확히 내놨다. 바다 건너 이민 간 아들이 등장했다. 단 하나의 언급이 아니라 여러 건이었다. 앤(Anne)의 유언장에는 “영국으로 돌아온다면”이라는 조항이 있었고,",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/07/4203127-0-48379100-1785369837-11-Open-Source-KI-Projekte-die-Entwickler-begeistern-werden.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "오픈 웨이트, AI를 더 정직하게 만들 수 있을까",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n지난달 필자는 클로드 페이블 5 모델에 18세기 유언 검인 서류 4건을 분석해달라고 요청했다. 모델은 존재하지 않는 가족을 만들어냈다.\n\n\n\n20년 넘게 필자는 1725년경 뉴저지주 벌링턴 인근에서 태어난 존 제이콥 에이세이의 부모를 추적해왔다. 해외의 에이세이 가문과 연결하려는 작업이었다. 필자의 가설은 뉴저지의 에이세이 가문을, 에이시(Acy), 에이시(Acey), 에이시(Acie), 에이세이(Asay) 등으로 성을 표기한 요크셔 홀더니스 출신 가문과 연결하는 것이었다. 앤트로픽의 크롬 ",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n지난달 필자는 클로드 페이블 5 모델에 18세기 유언 검인 서류 4건을 분석해달라고 요청했다. 모델은 존재하지 않는 가족을 만들어냈다.\n\n\n\n20년 넘게 필자는 1725년경 뉴저지주 벌링턴 인근에서 태어난 존 제이콥 에이세이의 부모를 추적해왔다. 해외의 에이세이 가문과 연결하려는 작업이었다. 필자의 가설은 뉴저지의 에이세이 가문을, 에이시(Acy), 에이시(Acey), 에이시(Acie), 에이세이(Asay) 등으로 성을 표기한 요크셔 홀더니스 출신 가문과 연결하는 것이었다. 앤트로픽의 크롬 "
+        },
+        {
+          "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+          "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+          "date": "2026-07-30",
+          "source": "OpenAI",
+          "description": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+          "image": null,
+          "is_english": true,
+          "original_title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+          "original_summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+          "summary": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction."
+        },
+        {
+          "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+          "link": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
+          "date": "2026-07-30",
+          "source": "TechCrunch",
+          "description": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1930518491.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
+          "original_summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
+          "summary": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth."
+        },
         {
           "title": "moonshotai/Kimi-K3",
           "link": "https://huggingface.co/moonshotai/Kimi-K3",
@@ -44,19 +104,6 @@
           "category": "AI Model"
         },
         {
-          "title": "upstage/Solar-Open2-250B",
-          "link": "https://huggingface.co/upstage/Solar-Open2-250B",
-          "date": "2026-07-30",
-          "source": "HuggingFace",
-          "description": "• Solar-Open2-250B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/upstage/Solar-Open2-250B/resolve/main/assets/solar-open2.gif",
-          "is_english": true,
-          "summary": "• Solar-Open2-250B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "upstage/Solar-Open2-250B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "poolside/Laguna-S-2.1",
           "link": "https://huggingface.co/poolside/Laguna-S-2.1",
           "date": "2026-07-30",
@@ -66,6 +113,19 @@
           "is_english": true,
           "summary": "• Laguna-S-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "poolside/Laguna-S-2.1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "upstage/Solar-Open2-250B",
+          "link": "https://huggingface.co/upstage/Solar-Open2-250B",
+          "date": "2026-07-30",
+          "source": "HuggingFace",
+          "description": "• Solar-Open2-250B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/upstage/Solar-Open2-250B/resolve/main/assets/solar-open2.gif",
+          "is_english": true,
+          "summary": "• Solar-Open2-250B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "upstage/Solar-Open2-250B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -135,19 +195,6 @@
           "category": "AI Model"
         },
         {
-          "title": "thinkingmachines/Inkling",
-          "link": "https://huggingface.co/thinkingmachines/Inkling",
-          "date": "2026-07-30",
-          "source": "HuggingFace",
-          "description": "• Inkling 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/630e8f0bf6f6d700f50ebd2e/AvmDwmrWRMnKjOWvmLieg.png",
-          "is_english": true,
-          "summary": "• Inkling 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "thinkingmachines/Inkling",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Kimi-K3",
           "link": "https://huggingface.co/unsloth/Kimi-K3",
           "date": "2026-07-30",
@@ -157,6 +204,19 @@
           "is_english": true,
           "summary": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/Kimi-K3",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "thinkingmachines/Inkling",
+          "link": "https://huggingface.co/thinkingmachines/Inkling",
+          "date": "2026-07-30",
+          "source": "HuggingFace",
+          "description": "• Inkling 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/630e8f0bf6f6d700f50ebd2e/AvmDwmrWRMnKjOWvmLieg.png",
+          "is_english": true,
+          "summary": "• Inkling 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "thinkingmachines/Inkling",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -200,19 +260,6 @@
           "category": "AI Model"
         },
         {
-          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "date": "2026-07-30",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Laguna-S-2.1-GGUF",
           "link": "https://huggingface.co/unsloth/Laguna-S-2.1-GGUF",
           "date": "2026-07-30",
@@ -226,15 +273,15 @@
           "category": "AI Model"
         },
         {
-          "title": "baseten/GLM-5.2-Vision-NVFP4",
-          "link": "https://huggingface.co/baseten/GLM-5.2-Vision-NVFP4",
+          "title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
+          "link": "https://huggingface.co/HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "date": "2026-07-30",
           "source": "HuggingFace",
-          "description": "• GLM-5.2-Vision-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
           "is_english": true,
-          "summary": "• GLM-5.2-Vision-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "baseten/GLM-5.2-Vision-NVFP4",
+          "summary": "• Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HauhauCS/Qwen3.6-35B-A3B-Uncensored-HauhauCS-Aggressive",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -248,6 +295,19 @@
           "is_english": true,
           "summary": "• Solar-Open2-250B-Nota-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nota-ai/Solar-Open2-250B-Nota-NVFP4",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "baseten/GLM-5.2-Vision-NVFP4",
+          "link": "https://huggingface.co/baseten/GLM-5.2-Vision-NVFP4",
+          "date": "2026-07-30",
+          "source": "HuggingFace",
+          "description": "• GLM-5.2-Vision-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• GLM-5.2-Vision-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "baseten/GLM-5.2-Vision-NVFP4",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +328,44 @@
     },
     {
       "date": "2026-07-29",
-      "update_time": "2026-07-29 21:48:54",
+      "update_time": "2026-07-30 01:23:40",
       "news": [
+        {
+          "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+          "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+          "date": "2026-07-29",
+          "source": "TechCrunch",
+          "description": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/09/zuck-meta.png?w=1200",
+          "is_english": true,
+          "original_title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+          "original_summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+          "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price."
+        },
+        {
+          "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+          "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+          "date": "2026-07-29",
+          "source": "TechCrunch",
+          "description": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706504.jpg?resize=1200,783",
+          "is_english": true,
+          "original_title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+          "original_summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
+          "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing."
+        },
+        {
+          "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+          "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+          "date": "2026-07-29",
+          "source": "TechCrunch",
+          "description": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2170596427.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+          "original_summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
+          "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software."
+        },
         {
           "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
           "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
