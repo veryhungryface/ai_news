@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-07-31",
-      "update_time": "2026-07-30 19:08:46",
+      "update_time": "2026-07-30 21:59:45",
       "news": [
+        {
+          "title": "래블업, GPU 운영 플랫폼으로 최단 기간 코스닥 상장예심 통과",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213372",
+          "date": "2026-07-31",
+          "source": "AI타임스",
+          "description": "래블업(대표 신정규)은 한국거래소로부터 코스닥 상장을 위한 예비심사를 승인받았다고 30일 밝혔다.래블업은 상장예비심사를 45영업일 만에 통과하며 올해 코스닥 일반기업 상장예비심사 승인 중 최단 기간을 기록했다. 대표 주관사는 NH투자증권이다.2015년 설립된 래블업은 그래픽처리장치(GPU)를 비롯한 고성능 컴퓨팅 자원을 운영·관리하는 AI 인프라 플랫폼 \\'백엔드닷에이아이(Backend.AI)\\'를 운영 중이다.AI 모델의 개발과 학습, 배포 및 운영에 필요한 컴퓨팅 자원을 통합 관리하며, 소규모 연구개발부터 대형언어모델(LLM) 학습",
+          "image": "https://cdn.aitimes.com/news/photo/202607/213372_216824_5934.png",
+          "is_english": false,
+          "original_title": "래블업, GPU 운영 플랫폼으로 최단 기간 코스닥 상장예심 통과",
+          "original_summary": "래블업(대표 신정규)은 한국거래소로부터 코스닥 상장을 위한 예비심사를 승인받았다고 30일 밝혔다.래블업은 상장예비심사를 45영업일 만에 통과하며 올해 코스닥 일반기업 상장예비심사 승인 중 최단 기간을 기록했다. 대표 주관사는 NH투자증권이다.2015년 설립된 래블업은 그래픽처리장치(GPU)를 비롯한 고성능 컴퓨팅 자원을 운영·관리하는 AI 인프라 플랫폼 \\'백엔드닷에이아이(Backend.AI)\\'를 운영 중이다.AI 모델의 개발과 학습, 배포 및 운영에 필요한 컴퓨팅 자원을 통합 관리하며, 소규모 연구개발부터 대형언어모델(LLM) ",
+          "summary": "래블업(대표 신정규)은 한국거래소로부터 코스닥 상장을 위한 예비심사를 승인받았다고 30일 밝혔다.래블업은 상장예비심사를 45영업일 만에 통과하며 올해 코스닥 일반기업 상장예비심사 승인 중 최단 기간을 기록했다. 대표 주관사는 NH투자증권이다.2015년 설립된 래블업은 그래픽처리장치(GPU)를 비롯한 고성능 컴퓨팅 자원을 운영·관리하는 AI 인프라 플랫폼 \\'백엔드닷에이아이(Backend.AI)\\'를 운영 중이다.AI 모델의 개발과 학습, 배포 및 운영에 필요한 컴퓨팅 자원을 통합 관리하며, 소규모 연구개발부터 대형언어모델(LLM) "
+        },
         {
           "title": "Oracle Brings Google Gemini Models to Enterprise Customers",
           "link": "https://aibusiness.com/agentic-ai/oracle-brings-google-gemini-models-enterprise-customers",
@@ -81,19 +93,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Kwaipilot/KAT-Coder-V2.5-Dev",
-          "link": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev",
-          "date": "2026-07-31",
-          "source": "HuggingFace",
-          "description": "• KAT-Coder-V2.5-Dev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev/resolve/main/kat_logo_hd.png",
-          "is_english": true,
-          "summary": "• KAT-Coder-V2.5-Dev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Kwaipilot/KAT-Coder-V2.5-Dev",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "owensong/Inflect-Micro-v2",
           "link": "https://huggingface.co/owensong/Inflect-Micro-v2",
           "date": "2026-07-31",
@@ -103,6 +102,19 @@
           "is_english": true,
           "summary": "• Inflect-Micro-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "owensong/Inflect-Micro-v2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Kwaipilot/KAT-Coder-V2.5-Dev",
+          "link": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev",
+          "date": "2026-07-31",
+          "source": "HuggingFace",
+          "description": "• KAT-Coder-V2.5-Dev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev/resolve/main/kat_logo_hd.png",
+          "is_english": true,
+          "summary": "• KAT-Coder-V2.5-Dev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Kwaipilot/KAT-Coder-V2.5-Dev",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -224,19 +236,6 @@
           "category": "AI Model"
         },
         {
-          "title": "prism-ml/Ternary-Bonsai-27B-gguf",
-          "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf",
-          "date": "2026-07-31",
-          "source": "HuggingFace",
-          "description": "• Ternary-Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/prism-ml/Ternary-Bonsai-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
-          "is_english": true,
-          "summary": "• Ternary-Bonsai-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "prism-ml/Ternary-Bonsai-27B-gguf",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V6-GGUF",
           "link": "https://huggingface.co/LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V6-GGUF",
           "date": "2026-07-31",
@@ -250,15 +249,28 @@
           "category": "AI Model"
         },
         {
-          "title": "fdtn-ai/antares-1b",
-          "link": "https://huggingface.co/fdtn-ai/antares-1b",
+          "title": "Audio8/Audio8-TTS-Preview-0.6b",
+          "link": "https://huggingface.co/Audio8/Audio8-TTS-Preview-0.6b",
           "date": "2026-07-31",
           "source": "HuggingFace",
-          "description": "• antares-1b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• Audio8-TTS-Preview-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/GitHub-Audio8__TTS-black?style=for-the-badge&logo=github",
           "is_english": true,
-          "summary": "• antares-1b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "fdtn-ai/antares-1b",
+          "summary": "• Audio8-TTS-Preview-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Audio8/Audio8-TTS-Preview-0.6b",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "owensong/Inflect-Nano-v2",
+          "link": "https://huggingface.co/owensong/Inflect-Nano-v2",
+          "date": "2026-07-31",
+          "source": "HuggingFace",
+          "description": "• Inflect-Nano-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/owensong/Inflect-Nano-v2/resolve/main/assets/inflect-v2-repository-hero.png",
+          "is_english": true,
+          "summary": "• Inflect-Nano-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "owensong/Inflect-Nano-v2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -276,15 +288,15 @@
           "category": "AI Model"
         },
         {
-          "title": "owensong/Inflect-Nano-v2",
-          "link": "https://huggingface.co/owensong/Inflect-Nano-v2",
+          "title": "microsoft/Mage-VL",
+          "link": "https://huggingface.co/microsoft/Mage-VL",
           "date": "2026-07-31",
           "source": "HuggingFace",
-          "description": "• Inflect-Nano-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/owensong/Inflect-Nano-v2/resolve/main/assets/inflect-v2-repository-hero.png",
+          "description": "• Mage-VL 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%8C%90-Project%20Page-blue",
           "is_english": true,
-          "summary": "• Inflect-Nano-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "owensong/Inflect-Nano-v2",
+          "summary": "• Mage-VL 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "microsoft/Mage-VL",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -292,8 +304,80 @@
     },
     {
       "date": "2026-07-30",
-      "update_time": "2026-07-30 19:08:46",
+      "update_time": "2026-07-30 21:59:42",
       "news": [
+        {
+          "title": "'모두의 AI' 공모 마감 일주일 연장…8월18일까지",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213374",
+          "date": "2026-07-30",
+          "source": "AI타임스",
+          "description": "\\'모두의 AI\\' 참여 기업 공모 접수 기한이 일주일 연장됐다.정보통신산업진흥원(NIPA)은 모두의 AI 사업 참여 기업의 전산 접수 마감 기한을 기존 8월11일 오후 5시에서 8월18일 오후 5시로 일주일 연장한다고 밝혔다. 모두의 AI는 과학기술정보통신부와 NIPA가 추진하는 전 국민 무료 국산 AI 서비스 구축 사업이다. 범용 AI 챗봇을 비롯해 공공 AI 에이전트와 특화 AI 서비스 등이 포함된다.사업 공모를 거쳐 8월 중 사업자를 선정하고, 9월 말 베타서비스를 거쳐 연내 출시될 예정이다.과기정통부는 지난 21일 사업 설명회",
+          "image": "https://cdn.aitimes.com/news/photo/202607/213374_216826_372.png",
+          "is_english": false,
+          "original_title": "'모두의 AI' 공모 마감 일주일 연장…8월18일까지",
+          "original_summary": "\\'모두의 AI\\' 참여 기업 공모 접수 기한이 일주일 연장됐다.정보통신산업진흥원(NIPA)은 모두의 AI 사업 참여 기업의 전산 접수 마감 기한을 기존 8월11일 오후 5시에서 8월18일 오후 5시로 일주일 연장한다고 밝혔다. 모두의 AI는 과학기술정보통신부와 NIPA가 추진하는 전 국민 무료 국산 AI 서비스 구축 사업이다. 범용 AI 챗봇을 비롯해 공공 AI 에이전트와 특화 AI 서비스 등이 포함된다.사업 공모를 거쳐 8월 중 사업자를 선정하고, 9월 말 베타서비스를 거쳐 연내 출시될 예정이다.과기정통부는 지난 21일 사업 설",
+          "summary": "\\'모두의 AI\\' 참여 기업 공모 접수 기한이 일주일 연장됐다.정보통신산업진흥원(NIPA)은 모두의 AI 사업 참여 기업의 전산 접수 마감 기한을 기존 8월11일 오후 5시에서 8월18일 오후 5시로 일주일 연장한다고 밝혔다. 모두의 AI는 과학기술정보통신부와 NIPA가 추진하는 전 국민 무료 국산 AI 서비스 구축 사업이다. 범용 AI 챗봇을 비롯해 공공 AI 에이전트와 특화 AI 서비스 등이 포함된다.사업 공모를 거쳐 8월 중 사업자를 선정하고, 9월 말 베타서비스를 거쳐 연내 출시될 예정이다.과기정통부는 지난 21일 사업 설"
+        },
+        {
+          "title": "광양경자청, 원자력산업정책연구원장 내방 협력 논의",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213373",
+          "date": "2026-07-30",
+          "source": "AI타임스",
+          "description": "광양만권경제자유구역청(청장 구충곤)은 30일 박원석 원자력산업정책연구원장이 광양경자청을 방문해 광양만권 산업 경쟁력 강화를 위한 협력 방안을 논의했다고 밝혔다.원자력산업정책연구원은 원자력산업 분야의 정책 연구를 수행하는 전문기관으로, 발전을 통한 전력 생산을 넘어 수소 생산, 산업용 열원 등 원자력 기반 미래 에너지 활용 방안과 정책 방향을 제시하기 위해 지난해 2월 설립됐다.이번 면담은 광양만권 입주기업의 현장 의견을 바탕으로 안정적인 에너지 공급 기반 조성의 필요성이 제기됨에 따라, 미래 산업 경쟁력 강화와 기업 지원 방안을 논",
+          "image": "https://cdn.aitimes.com/news/photo/202607/213373_216825_1029.jpg",
+          "is_english": false,
+          "original_title": "광양경자청, 원자력산업정책연구원장 내방 협력 논의",
+          "original_summary": "광양만권경제자유구역청(청장 구충곤)은 30일 박원석 원자력산업정책연구원장이 광양경자청을 방문해 광양만권 산업 경쟁력 강화를 위한 협력 방안을 논의했다고 밝혔다.원자력산업정책연구원은 원자력산업 분야의 정책 연구를 수행하는 전문기관으로, 발전을 통한 전력 생산을 넘어 수소 생산, 산업용 열원 등 원자력 기반 미래 에너지 활용 방안과 정책 방향을 제시하기 위해 지난해 2월 설립됐다.이번 면담은 광양만권 입주기업의 현장 의견을 바탕으로 안정적인 에너지 공급 기반 조성의 필요성이 제기됨에 따라, 미래 산업 경쟁력 강화와 기업 지원 방안을 논",
+          "summary": "광양만권경제자유구역청(청장 구충곤)은 30일 박원석 원자력산업정책연구원장이 광양경자청을 방문해 광양만권 산업 경쟁력 강화를 위한 협력 방안을 논의했다고 밝혔다.원자력산업정책연구원은 원자력산업 분야의 정책 연구를 수행하는 전문기관으로, 발전을 통한 전력 생산을 넘어 수소 생산, 산업용 열원 등 원자력 기반 미래 에너지 활용 방안과 정책 방향을 제시하기 위해 지난해 2월 설립됐다.이번 면담은 광양만권 입주기업의 현장 의견을 바탕으로 안정적인 에너지 공급 기반 조성의 필요성이 제기됨에 따라, 미래 산업 경쟁력 강화와 기업 지원 방안을 논"
+        },
+        {
+          "title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+          "link": "https://techcrunch.com/2026/07/30/judge-says-trump-admin-still-lacks-evidence-for-anthropic-supply-chain-risk-label/",
+          "date": "2026-07-30",
+          "source": "TechCrunch",
+          "description": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/08/Claude-Chrome-Ext_email-hero-hero.png?w=1200",
+          "is_english": true,
+          "original_title": "Judge says Trump admin still lacks evidence for Anthropic ‘supply-chain risk’ label",
+          "original_summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology.",
+          "summary": "A federal judge said the Trump administration has not presented enough evidence to justify labeling Anthropic a supply-chain risk, casting doubt on the government's ban on its AI technology."
+        },
+        {
+          "title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
+          "link": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+          "date": "2026-07-30",
+          "source": "TechCrunch",
+          "description": "Friend, the AI wearable, can now talk to its users — for an enhanced price. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/07/Friend.jpg?w=523",
+          "is_english": true,
+          "original_title": "Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag",
+          "original_summary": "Friend, the AI wearable, can now talk to its users — for an enhanced price. ",
+          "summary": "Friend, the AI wearable, can now talk to its users — for an enhanced price. "
+        },
+        {
+          "title": "Daniela Rus receives Bavarian Minister-President's High-Tech Prize",
+          "link": "https://news.mit.edu/2026/daniela-rus-receives-bavarian-minister-presidents-high-tech-prize-0730",
+          "date": "2026-07-30",
+          "source": "MIT News",
+          "description": "Director of CSAIL and MIT professor honored for her contributions to robotics, artificial intelligence, and autonomous systems.",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/mit-csail-daniela-rus-bavarian-award-00.png?itok=9XnNV8-Q",
+          "is_english": true,
+          "original_title": "Daniela Rus receives Bavarian Minister-President's High-Tech Prize",
+          "original_summary": "Director of CSAIL and MIT professor honored for her contributions to robotics, artificial intelligence, and autonomous systems.",
+          "summary": "Director of CSAIL and MIT professor honored for her contributions to robotics, artificial intelligence, and autonomous systems."
+        },
+        {
+          "title": "Connecting research to policy on Capitol Hill",
+          "link": "https://news.mit.edu/2026/connecting-research-to-policy-on-capitol-hill-0730",
+          "date": "2026-07-30",
+          "source": "MIT News",
+          "description": "MIT students and postdocs discussed science funding and research with policymakers in Washington during the MIT Science Policy Initiative’s annual Congressional Visit Days. ",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202607/mit-spi-congressional-visit-26.jpg?itok=Vo00t4gt",
+          "is_english": true,
+          "original_title": "Connecting research to policy on Capitol Hill",
+          "original_summary": "MIT students and postdocs discussed science funding and research with policymakers in Washington during the MIT Science Policy Initiative’s annual Congressional Visit Days. ",
+          "summary": "MIT students and postdocs discussed science funding and research with policymakers in Washington during the MIT Science Policy Initiative’s annual Congressional Visit Days. "
+        },
         {
           "title": "Advancing the price-performance frontier with GPT-5.6",
           "link": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6",
