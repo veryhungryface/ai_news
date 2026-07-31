@@ -20,7 +20,7 @@
     },
     {
       "date": "2026-07-31",
-      "update_time": "2026-07-31 11:20:18",
+      "update_time": "2026-07-31 13:31:05",
       "news": [
         {
           "title": "구글, 휴머노이드 전신 제어 AI '제미나이 로보틱스 2' 공개",
@@ -579,6 +579,19 @@
           "category": "AI Model"
         },
         {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+          "date": "2026-07-31",
+          "source": "HuggingFace",
+          "description": "• DeepSeek-V4-Flash-0731 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
+          "is_english": true,
+          "summary": "• DeepSeek-V4-Flash-0731 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "poolside/Laguna-S-2.1",
           "link": "https://huggingface.co/poolside/Laguna-S-2.1",
           "date": "2026-07-31",
@@ -605,19 +618,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Nanbeige/Nanbeige4.2-3B",
-          "link": "https://huggingface.co/Nanbeige/Nanbeige4.2-3B",
-          "date": "2026-07-31",
-          "source": "HuggingFace",
-          "description": "• Nanbeige4.2-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/Nanbeige/Nanbeige4.2-3B/resolve/main/figures/nbg.png",
-          "is_english": true,
-          "summary": "• Nanbeige4.2-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Nanbeige/Nanbeige4.2-3B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "zai-org/GLM-5.2",
           "link": "https://huggingface.co/zai-org/GLM-5.2",
           "date": "2026-07-31",
@@ -627,6 +627,19 @@
           "is_english": true,
           "summary": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "zai-org/GLM-5.2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Nanbeige/Nanbeige4.2-3B",
+          "link": "https://huggingface.co/Nanbeige/Nanbeige4.2-3B",
+          "date": "2026-07-31",
+          "source": "HuggingFace",
+          "description": "• Nanbeige4.2-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/Nanbeige/Nanbeige4.2-3B/resolve/main/figures/nbg.png",
+          "is_english": true,
+          "summary": "• Nanbeige4.2-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Nanbeige/Nanbeige4.2-3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -657,6 +670,19 @@
           "category": "AI Model"
         },
         {
+          "title": "thinkingmachines/Inkling-Small",
+          "link": "https://huggingface.co/thinkingmachines/Inkling-Small",
+          "date": "2026-07-31",
+          "source": "HuggingFace",
+          "description": "• Inkling-Small 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/630e8f0bf6f6d700f50ebd2e/AvmDwmrWRMnKjOWvmLieg.png",
+          "is_english": true,
+          "summary": "• Inkling-Small 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "thinkingmachines/Inkling-Small",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "unsloth/Kimi-K3",
           "link": "https://huggingface.co/unsloth/Kimi-K3",
           "date": "2026-07-31",
@@ -679,19 +705,6 @@
           "is_english": true,
           "summary": "• Solar-Open2-250B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "upstage/Solar-Open2-250B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "thinkingmachines/Inkling-Small",
-          "link": "https://huggingface.co/thinkingmachines/Inkling-Small",
-          "date": "2026-07-31",
-          "source": "HuggingFace",
-          "description": "• Inkling-Small 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/630e8f0bf6f6d700f50ebd2e/AvmDwmrWRMnKjOWvmLieg.png",
-          "is_english": true,
-          "summary": "• Inkling-Small 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "thinkingmachines/Inkling-Small",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -748,19 +761,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nota-ai/Solar-Open2-250B-Nota-NVFP4",
-          "link": "https://huggingface.co/nota-ai/Solar-Open2-250B-Nota-NVFP4",
-          "date": "2026-07-31",
-          "source": "HuggingFace",
-          "description": "• Solar-Open2-250B-Nota-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Solar-Open2-250B-Nota-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nota-ai/Solar-Open2-250B-Nota-NVFP4",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "owensong/Inflect-Nano-v2",
           "link": "https://huggingface.co/owensong/Inflect-Nano-v2",
           "date": "2026-07-31",
@@ -774,15 +774,15 @@
           "category": "AI Model"
         },
         {
-          "title": "thinkingmachines/Inkling",
-          "link": "https://huggingface.co/thinkingmachines/Inkling",
+          "title": "nota-ai/Solar-Open2-250B-Nota-NVFP4",
+          "link": "https://huggingface.co/nota-ai/Solar-Open2-250B-Nota-NVFP4",
           "date": "2026-07-31",
           "source": "HuggingFace",
-          "description": "• Inkling 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/630e8f0bf6f6d700f50ebd2e/AvmDwmrWRMnKjOWvmLieg.png",
+          "description": "• Solar-Open2-250B-Nota-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
           "is_english": true,
-          "summary": "• Inkling 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "thinkingmachines/Inkling",
+          "summary": "• Solar-Open2-250B-Nota-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nota-ai/Solar-Open2-250B-Nota-NVFP4",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
