@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-08-01",
-      "update_time": "2026-07-31 16:30:46",
+      "update_time": "2026-07-31 19:07:30",
       "news": [
         {
           "title": "Building abundant intelligence",
@@ -171,19 +171,6 @@
           "category": "AI Model"
         },
         {
-          "title": "thinkingmachines/Inkling-Small",
-          "link": "https://huggingface.co/thinkingmachines/Inkling-Small",
-          "date": "2026-08-01",
-          "source": "HuggingFace",
-          "description": "• Inkling-Small 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/630e8f0bf6f6d700f50ebd2e/AvmDwmrWRMnKjOWvmLieg.png",
-          "is_english": true,
-          "summary": "• Inkling-Small 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "thinkingmachines/Inkling-Small",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "microsoft/Fara1.5-27B",
           "link": "https://huggingface.co/microsoft/Fara1.5-27B",
           "date": "2026-08-01",
@@ -193,6 +180,19 @@
           "is_english": true,
           "summary": "• Fara1.5-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "microsoft/Fara1.5-27B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "thinkingmachines/Inkling-Small",
+          "link": "https://huggingface.co/thinkingmachines/Inkling-Small",
+          "date": "2026-08-01",
+          "source": "HuggingFace",
+          "description": "• Inkling-Small 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/630e8f0bf6f6d700f50ebd2e/AvmDwmrWRMnKjOWvmLieg.png",
+          "is_english": true,
+          "summary": "• Inkling-Small 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "thinkingmachines/Inkling-Small",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -249,15 +249,15 @@
           "category": "AI Model"
         },
         {
-          "title": "XYZAILab/XYZ-Aquila-mini",
-          "link": "https://huggingface.co/XYZAILab/XYZ-Aquila-mini",
+          "title": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
+          "link": "https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF",
           "date": "2026-08-01",
           "source": "HuggingFace",
-          "description": "• XYZ-Aquila-mini 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/XYZAILab/XYZ-Aquila-mini/resolve/main/./assets/xyz-ai-lab-slogan.svg",
+          "description": "• DeepSeek-V4-Flash-0731-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
           "is_english": true,
-          "summary": "• XYZ-Aquila-mini 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "XYZAILab/XYZ-Aquila-mini",
+          "summary": "• DeepSeek-V4-Flash-0731-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -275,6 +275,19 @@
           "category": "AI Model"
         },
         {
+          "title": "XYZAILab/XYZ-Aquila-mini",
+          "link": "https://huggingface.co/XYZAILab/XYZ-Aquila-mini",
+          "date": "2026-08-01",
+          "source": "HuggingFace",
+          "description": "• XYZ-Aquila-mini 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/XYZAILab/XYZ-Aquila-mini/resolve/main/./assets/xyz-ai-lab-slogan.svg",
+          "is_english": true,
+          "summary": "• XYZ-Aquila-mini 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "XYZAILab/XYZ-Aquila-mini",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "owensong/Inflect-Nano-v2",
           "link": "https://huggingface.co/owensong/Inflect-Nano-v2",
           "date": "2026-08-01",
@@ -286,26 +299,49 @@
           "translated_title": "owensong/Inflect-Nano-v2",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "nota-ai/Solar-Open2-250B-Nota-NVFP4",
-          "link": "https://huggingface.co/nota-ai/Solar-Open2-250B-Nota-NVFP4",
-          "date": "2026-08-01",
-          "source": "HuggingFace",
-          "description": "• Solar-Open2-250B-Nota-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Solar-Open2-250B-Nota-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nota-ai/Solar-Open2-250B-Nota-NVFP4",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-07-31",
-      "update_time": "2026-07-31 16:30:46",
+      "update_time": "2026-07-31 19:07:29",
       "news": [
+        {
+          "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+          "link": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
+          "date": "2026-07-31",
+          "source": "TechCrunch",
+          "description": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging Face&#160;—&#160;though as Equity’s hosts point out, sloppy security seems to have [&#8230;]",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+          "original_summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging",
+          "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging"
+        },
+        {
+          "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+          "link": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
+          "date": "2026-07-31",
+          "source": "TechCrunch",
+          "description": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/06/snapchat-getty.jpg?w=1200",
+          "is_english": true,
+          "original_title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+          "original_summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
+          "summary": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop."
+        },
+        {
+          "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
+          "link": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
+          "date": "2026-07-31",
+          "source": "TechCrunch",
+          "description": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging Face&#160;—&#160;though as Equity’s hosts point out, sloppy security seems to have [&#8230;]",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2198164456.jpg?resize=1200,801",
+          "is_english": true,
+          "original_title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
+          "original_summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging",
+          "summary": "After years of pushing full speed ahead on AI,&#160;OpenAI CEO&#160;Sam Altman says&#160;maybe it’s&#160;time for the AI industry to “pace” itself. The comments came&#160;just days after one of OpenAI&#8217;s own models broke out of its test environment and got tangled up in&#160;a breach at Hugging"
+        },
         {
           "title": "Siri AI could come with a paywall for power users",
           "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
