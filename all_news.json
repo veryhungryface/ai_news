@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-08-01",
-      "update_time": "2026-08-01 05:46:51",
+      "update_time": "2026-08-01 08:03:03",
       "news": [
+        {
+          "title": "Ten advances in mathematics and theoretical computer science",
+          "link": "https://openai.com/index/ten-advances-in-mathematics",
+          "date": "2026-08-01",
+          "source": "OpenAI",
+          "description": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Ten advances in mathematics and theoretical computer science",
+          "original_summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity.",
+          "summary": "OpenAI shares new results on long-standing open problems in mathematics and theoretical computer science, including advances in geometry, cryptography, and complexity."
+        },
         {
           "title": "[AI 이슈트렌드] 반도체 '역대급 실적'에도 요동친 코스피...빅테크 협력속 재난·정치 이슈 부각",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=213437",
@@ -372,19 +384,6 @@
           "category": "AI Model"
         },
         {
-          "title": "poolside/Laguna-S-2.1",
-          "link": "https://huggingface.co/poolside/Laguna-S-2.1",
-          "date": "2026-08-01",
-          "source": "HuggingFace",
-          "description": "• Laguna-S-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://poolside.ai/assets/laguna/laguna-s-2-1-banner.svg",
-          "is_english": true,
-          "summary": "• Laguna-S-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "poolside/Laguna-S-2.1",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Kimi-K3-GGUF",
           "link": "https://huggingface.co/unsloth/Kimi-K3-GGUF",
           "date": "2026-08-01",
@@ -407,6 +406,19 @@
           "is_english": true,
           "summary": "• Nanbeige4.2-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Nanbeige/Nanbeige4.2-3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "poolside/Laguna-S-2.1",
+          "link": "https://huggingface.co/poolside/Laguna-S-2.1",
+          "date": "2026-08-01",
+          "source": "HuggingFace",
+          "description": "• Laguna-S-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://poolside.ai/assets/laguna/laguna-s-2-1-banner.svg",
+          "is_english": true,
+          "summary": "• Laguna-S-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "poolside/Laguna-S-2.1",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -463,19 +475,6 @@
           "category": "AI Model"
         },
         {
-          "title": "upstage/Solar-Open2-250B",
-          "link": "https://huggingface.co/upstage/Solar-Open2-250B",
-          "date": "2026-08-01",
-          "source": "HuggingFace",
-          "description": "• Solar-Open2-250B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/upstage/Solar-Open2-250B/resolve/main/assets/solar-open2.gif",
-          "is_english": true,
-          "summary": "• Solar-Open2-250B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "upstage/Solar-Open2-250B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "microsoft/Mage-VL",
           "link": "https://huggingface.co/microsoft/Mage-VL",
           "date": "2026-08-01",
@@ -485,6 +484,19 @@
           "is_english": true,
           "summary": "• Mage-VL 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "microsoft/Mage-VL",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "upstage/Solar-Open2-250B",
+          "link": "https://huggingface.co/upstage/Solar-Open2-250B",
+          "date": "2026-08-01",
+          "source": "HuggingFace",
+          "description": "• Solar-Open2-250B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/upstage/Solar-Open2-250B/resolve/main/assets/solar-open2.gif",
+          "is_english": true,
+          "summary": "• Solar-Open2-250B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "upstage/Solar-Open2-250B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
