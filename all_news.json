@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-08-02",
-      "update_time": "2026-08-01 18:54:42",
+      "update_time": "2026-08-01 21:44:19",
       "news": [
         {
           "title": "moonshotai/Kimi-K3",
@@ -252,15 +252,15 @@
           "category": "AI Model"
         },
         {
-          "title": "deepseek-ai/DeepSeek-V4-Flash",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
+          "title": "nota-ai/Solar-Open2-250B-Nota-NVFP4",
+          "link": "https://huggingface.co/nota-ai/Solar-Open2-250B-Nota-NVFP4",
           "date": "2026-08-02",
           "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
+          "description": "• Solar-Open2-250B-Nota-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
           "is_english": true,
-          "summary": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepseek-ai/DeepSeek-V4-Flash",
+          "summary": "• Solar-Open2-250B-Nota-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nota-ai/Solar-Open2-250B-Nota-NVFP4",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -268,8 +268,32 @@
     },
     {
       "date": "2026-08-01",
-      "update_time": "2026-08-01 18:54:41",
+      "update_time": "2026-08-01 21:44:19",
       "news": [
+        {
+          "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+          "link": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+          "date": "2026-08-01",
+          "source": "TechCrunch",
+          "description": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2207699717.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+          "original_summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+          "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward."
+        },
+        {
+          "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+          "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+          "date": "2026-08-01",
+          "source": "TechCrunch",
+          "description": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1040458588.jpg?w=1024",
+          "is_english": true,
+          "original_title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+          "original_summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+          "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\""
+        },
         {
           "title": "Sam Altman is still making the case for parenting via ChatGPT",
           "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
