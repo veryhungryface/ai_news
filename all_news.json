@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-08-02",
-      "update_time": "2026-08-02 08:04:34",
+      "update_time": "2026-08-02 10:26:22",
       "news": [
+        {
+          "title": "아크릴 “GPUBASE로 GPU 활용률 90% 달성…소버린 AI 완성”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213425",
+          "date": "2026-08-02",
+          "source": "AI타임스",
+          "description": "“GPU를 확보하는 것만으로 AI 경쟁력이 자동으로 생기는 것은 아닙니다. 앞으로 더 중요한 문제는 확보한 GPU를 얼마나 효율적으로 운영하고, 안정적으로 활용할 수 있게 만드느냐입니다.”아크릴(대표 박외진)이 독자 개발한 GPU 클러스터 최적화 소프트웨어 ‘GPU베이스(GPUBASE)’를 앞세워 대규모 AI 인프라 시장 공략에 나선다.아크릴은 GPU베이스의 기술력을 입증하기 위해 해외 주요 클라우드 기업들과 협업해 성능 입증에 성공했다. 500~1000장 규모의 GPU를 한번에 구동하는 조건을 충족한 뒤 GPU베이스의 성능·확장성",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213425_216883_5234.png",
+          "is_english": true,
+          "original_title": "아크릴 “GPUBASE로 GPU 활용률 90% 달성…소버린 AI 완성”",
+          "original_summary": "“GPU를 확보하는 것만으로 AI 경쟁력이 자동으로 생기는 것은 아닙니다. 앞으로 더 중요한 문제는 확보한 GPU를 얼마나 효율적으로 운영하고, 안정적으로 활용할 수 있게 만드느냐입니다.”아크릴(대표 박외진)이 독자 개발한 GPU 클러스터 최적화 소프트웨어 ‘GPU베이스(GPUBASE)’를 앞세워 대규모 AI 인프라 시장 공략에 나선다.아크릴은 GPU베이스의 기술력을 입증하기 위해 해외 주요 클라우드 기업들과 협업해 성능 입증에 성공했다. 500~1000장 규모의 GPU를 한번에 구동하는 조건을 충족한 뒤 GPU베이스의 성능·확장성",
+          "summary": "“GPU를 확보하는 것만으로 AI 경쟁력이 자동으로 생기는 것은 아닙니다. 앞으로 더 중요한 문제는 확보한 GPU를 얼마나 효율적으로 운영하고, 안정적으로 활용할 수 있게 만드느냐입니다.”아크릴(대표 박외진)이 독자 개발한 GPU 클러스터 최적화 소프트웨어 ‘GPU베이스(GPUBASE)’를 앞세워 대규모 AI 인프라 시장 공략에 나선다.아크릴은 GPU베이스의 기술력을 입증하기 위해 해외 주요 클라우드 기업들과 협업해 성능 입증에 성공했다. 500~1000장 규모의 GPU를 한번에 구동하는 조건을 충족한 뒤 GPU베이스의 성능·확장성"
+        },
         {
           "title": "삼성물산, AI 시니어 리빙솔루션으로 돌봄형 실버타운 진출",
           "link": "https://www.yna.co.kr/view/AKR20260802025900003",
@@ -250,19 +262,6 @@
           "category": "AI Model"
         },
         {
-          "title": "owensong/Inflect-Micro-v2",
-          "link": "https://huggingface.co/owensong/Inflect-Micro-v2",
-          "date": "2026-08-02",
-          "source": "HuggingFace",
-          "description": "• Inflect-Micro-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/owensong/Inflect-Micro-v2/resolve/main/assets/inflect-v2-repository-hero.png",
-          "is_english": true,
-          "summary": "• Inflect-Micro-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "owensong/Inflect-Micro-v2",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "zai-org/GLM-5.2",
           "link": "https://huggingface.co/zai-org/GLM-5.2",
           "date": "2026-08-02",
@@ -289,15 +288,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Kwaipilot/KAT-Coder-V2.5-Dev",
-          "link": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev",
+          "title": "owensong/Inflect-Micro-v2",
+          "link": "https://huggingface.co/owensong/Inflect-Micro-v2",
           "date": "2026-08-02",
           "source": "HuggingFace",
-          "description": "• KAT-Coder-V2.5-Dev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev/resolve/main/kat_logo_hd.png",
+          "description": "• Inflect-Micro-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/owensong/Inflect-Micro-v2/resolve/main/assets/inflect-v2-repository-hero.png",
           "is_english": true,
-          "summary": "• KAT-Coder-V2.5-Dev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Kwaipilot/KAT-Coder-V2.5-Dev",
+          "summary": "• Inflect-Micro-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "owensong/Inflect-Micro-v2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -311,6 +310,19 @@
           "is_english": true,
           "summary": "• Inkling-Small 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "thinkingmachines/Inkling-Small",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Kwaipilot/KAT-Coder-V2.5-Dev",
+          "link": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev",
+          "date": "2026-08-02",
+          "source": "HuggingFace",
+          "description": "• KAT-Coder-V2.5-Dev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev/resolve/main/kat_logo_hd.png",
+          "is_english": true,
+          "summary": "• KAT-Coder-V2.5-Dev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Kwaipilot/KAT-Coder-V2.5-Dev",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
