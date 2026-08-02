@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-08-02",
-      "update_time": "2026-08-01 21:44:19",
+      "update_time": "2026-08-02 01:48:11",
       "news": [
+        {
+          "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+          "link": "https://www.yna.co.kr/view/AKR20260802012100011",
+          "date": "2026-08-02",
+          "source": "연합뉴스",
+          "description": "■ 샌프란 AI동맹·외교다변화…경제질서 격랑에 李대통령 해법찾기\n",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/08/02/PYH2026080200080001300_P2.jpg",
+          "is_english": true,
+          "original_title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+          "original_summary": "■ 샌프란 AI동맹·외교다변화…경제질서 격랑에 李대통령 해법찾기\n",
+          "summary": "■ 샌프란 AI동맹·외교다변화…경제질서 격랑에 李대통령 해법찾기\n"
+        },
+        {
+          "title": "오픈AI 차세대 모델 '아스트라', 수학·컴퓨터 과학 10대 난제 해결",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213443",
+          "date": "2026-08-02",
+          "source": "AI타임스",
+          "description": "오픈AI가 차세대 모델 제품군인 \\'아스트라(Astra)\\'의 내부 버전으로 수학과 이론 컴퓨터 과학 분야의 장기 미해결 문제 10개를 해결했다고 발표했다. 이를 과학적 추론의 중요한 진전으로 평가하며, AI가 기존의 문제 풀이를 넘어 새로운 수학적 발견을 만들어내는 단계에 접어들었다고 강조했다.오픈AI는 1일(현지시간) 공개한 \\'수학 및 이론 컴퓨터 과학 분야의 10대 발전\\' 보고서를 통해 차세대 모델의 성능을 공개했다. 또, 아스트라를 \\'차세대 주요 모델 제품군\\'이라고 처음 공식적으로 소개했다.이번 연구를 통해 해결된 난제들은 고차",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213443_216915_1020.png",
+          "is_english": false,
+          "original_title": "오픈AI 차세대 모델 '아스트라', 수학·컴퓨터 과학 10대 난제 해결",
+          "original_summary": "오픈AI가 차세대 모델 제품군인 \\'아스트라(Astra)\\'의 내부 버전으로 수학과 이론 컴퓨터 과학 분야의 장기 미해결 문제 10개를 해결했다고 발표했다. 이를 과학적 추론의 중요한 진전으로 평가하며, AI가 기존의 문제 풀이를 넘어 새로운 수학적 발견을 만들어내는 단계에 접어들었다고 강조했다.오픈AI는 1일(현지시간) 공개한 \\'수학 및 이론 컴퓨터 과학 분야의 10대 발전\\' 보고서를 통해 차세대 모델의 성능을 공개했다. 또, 아스트라를 \\'차세대 주요 모델 제품군\\'이라고 처음 공식적으로 소개했다.이번 연구를 통해 해결된 난",
+          "summary": "오픈AI가 차세대 모델 제품군인 \\'아스트라(Astra)\\'의 내부 버전으로 수학과 이론 컴퓨터 과학 분야의 장기 미해결 문제 10개를 해결했다고 발표했다. 이를 과학적 추론의 중요한 진전으로 평가하며, AI가 기존의 문제 풀이를 넘어 새로운 수학적 발견을 만들어내는 단계에 접어들었다고 강조했다.오픈AI는 1일(현지시간) 공개한 \\'수학 및 이론 컴퓨터 과학 분야의 10대 발전\\' 보고서를 통해 차세대 모델의 성능을 공개했다. 또, 아스트라를 \\'차세대 주요 모델 제품군\\'이라고 처음 공식적으로 소개했다.이번 연구를 통해 해결된 난"
+        },
         {
           "title": "moonshotai/Kimi-K3",
           "link": "https://huggingface.co/moonshotai/Kimi-K3",
@@ -57,19 +81,6 @@
           "category": "AI Model"
         },
         {
-          "title": "owensong/Inflect-Micro-v2",
-          "link": "https://huggingface.co/owensong/Inflect-Micro-v2",
-          "date": "2026-08-02",
-          "source": "HuggingFace",
-          "description": "• Inflect-Micro-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/owensong/Inflect-Micro-v2/resolve/main/assets/inflect-v2-repository-hero.png",
-          "is_english": true,
-          "summary": "• Inflect-Micro-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "owensong/Inflect-Micro-v2",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
           "link": "https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF",
           "date": "2026-08-02",
@@ -79,6 +90,19 @@
           "is_english": true,
           "summary": "• DeepSeek-V4-Flash-0731-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "owensong/Inflect-Micro-v2",
+          "link": "https://huggingface.co/owensong/Inflect-Micro-v2",
+          "date": "2026-08-02",
+          "source": "HuggingFace",
+          "description": "• Inflect-Micro-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/owensong/Inflect-Micro-v2/resolve/main/assets/inflect-v2-repository-hero.png",
+          "is_english": true,
+          "summary": "• Inflect-Micro-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "owensong/Inflect-Micro-v2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -252,15 +276,15 @@
           "category": "AI Model"
         },
         {
-          "title": "nota-ai/Solar-Open2-250B-Nota-NVFP4",
-          "link": "https://huggingface.co/nota-ai/Solar-Open2-250B-Nota-NVFP4",
+          "title": "deepseek-ai/DeepSeek-V4-Flash",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash",
           "date": "2026-08-02",
           "source": "HuggingFace",
-          "description": "• Solar-Open2-250B-Nota-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "description": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
           "is_english": true,
-          "summary": "• Solar-Open2-250B-Nota-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nota-ai/Solar-Open2-250B-Nota-NVFP4",
+          "summary": "• DeepSeek-V4-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepseek-ai/DeepSeek-V4-Flash",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
