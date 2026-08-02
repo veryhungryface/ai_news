@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-08-03",
-      "update_time": "2026-08-02 18:54:34",
+      "update_time": "2026-08-02 21:44:43",
       "news": [
+        {
+          "title": "서울시 초대 인공지능책임관에 정상훈 행정1부시장 직무대리",
+          "link": "https://www.yna.co.kr/view/AKR20260802055100004",
+          "date": "2026-08-03",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 김동규 기자 = 서울시 인공지능(AI) 정책을 총괄할 초대 인공지능책임관(CAIO)으로 정상훈 행정1부시장 직무대리가 임명됐다...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/08/02/AKR20260802055100004_03_i_P2.jpg",
+          "is_english": false,
+          "original_title": "서울시 초대 인공지능책임관에 정상훈 행정1부시장 직무대리",
+          "original_summary": "(서울=연합뉴스) 김동규 기자 = 서울시 인공지능(AI) 정책을 총괄할 초대 인공지능책임관(CAIO)으로 정상훈 행정1부시장 직무대리가 임명됐다...",
+          "summary": "(서울=연합뉴스) 김동규 기자 = 서울시 인공지능(AI) 정책을 총괄할 초대 인공지능책임관(CAIO)으로 정상훈 행정1부시장 직무대리가 임명됐다..."
+        },
         {
           "title": "moonshotai/Kimi-K3",
           "link": "https://huggingface.co/moonshotai/Kimi-K3",
@@ -174,6 +186,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Audio8/Audio8-TTS-Preview-0.6b",
+          "link": "https://huggingface.co/Audio8/Audio8-TTS-Preview-0.6b",
+          "date": "2026-08-03",
+          "source": "HuggingFace",
+          "description": "• Audio8-TTS-Preview-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/GitHub-Audio8__TTS-black?style=for-the-badge&logo=github",
+          "is_english": true,
+          "summary": "• Audio8-TTS-Preview-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Audio8/Audio8-TTS-Preview-0.6b",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "poolside/Laguna-S-2.1",
           "link": "https://huggingface.co/poolside/Laguna-S-2.1",
           "date": "2026-08-03",
@@ -187,15 +212,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Audio8/Audio8-TTS-Preview-0.6b",
-          "link": "https://huggingface.co/Audio8/Audio8-TTS-Preview-0.6b",
+          "title": "XYZAILab/XYZ-Aquila-mini",
+          "link": "https://huggingface.co/XYZAILab/XYZ-Aquila-mini",
           "date": "2026-08-03",
           "source": "HuggingFace",
-          "description": "• Audio8-TTS-Preview-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/GitHub-Audio8__TTS-black?style=for-the-badge&logo=github",
+          "description": "• XYZ-Aquila-mini 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/XYZAILab/XYZ-Aquila-mini/resolve/main/./assets/xyz-ai-lab-slogan.svg",
           "is_english": true,
-          "summary": "• Audio8-TTS-Preview-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Audio8/Audio8-TTS-Preview-0.6b",
+          "summary": "• XYZ-Aquila-mini 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "XYZAILab/XYZ-Aquila-mini",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -213,15 +238,15 @@
           "category": "AI Model"
         },
         {
-          "title": "XYZAILab/XYZ-Aquila-mini",
-          "link": "https://huggingface.co/XYZAILab/XYZ-Aquila-mini",
+          "title": "lodestones/Kroma",
+          "link": "https://huggingface.co/lodestones/Kroma",
           "date": "2026-08-03",
           "source": "HuggingFace",
-          "description": "• XYZ-Aquila-mini 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/XYZAILab/XYZ-Aquila-mini/resolve/main/./assets/xyz-ai-lab-slogan.svg",
+          "description": "• Kroma 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
           "is_english": true,
-          "summary": "• XYZ-Aquila-mini 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "XYZAILab/XYZ-Aquila-mini",
+          "summary": "• Kroma 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "lodestones/Kroma",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -250,26 +275,25 @@
           "translated_title": "deepseek-ai/DeepSeek-V4-Flash",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "upstage/Solar-Open2-250B",
-          "link": "https://huggingface.co/upstage/Solar-Open2-250B",
-          "date": "2026-08-03",
-          "source": "HuggingFace",
-          "description": "• Solar-Open2-250B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/upstage/Solar-Open2-250B/resolve/main/assets/solar-open2.gif",
-          "is_english": true,
-          "summary": "• Solar-Open2-250B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "upstage/Solar-Open2-250B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-08-02",
-      "update_time": "2026-08-02 12:58:16",
+      "update_time": "2026-08-02 21:44:42",
       "news": [
+        {
+          "title": "Sam Altman and AI’s decel debate",
+          "link": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+          "date": "2026-08-02",
+          "source": "TechCrunch",
+          "description": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+          "is_english": true,
+          "original_title": "Sam Altman and AI’s decel debate",
+          "original_summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+          "summary": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\""
+        },
         {
           "title": "EU, 8월부터 AI 챗봇·딥페이크 표기 의무화…'AI 라벨링' 규제 본격화",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=213450",
