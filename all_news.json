@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-08-05",
-      "update_time": "2026-08-04 19:18:10",
+      "update_time": "2026-08-04 22:03:43",
       "news": [
+        {
+          "title": "Third-party cyber evaluations involving OpenAI models",
+          "link": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
+          "date": "2026-08-05",
+          "source": "OpenAI",
+          "description": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Third-party cyber evaluations involving OpenAI models",
+          "original_summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation.",
+          "summary": "OpenAI explains recent third-party cybersecurity evaluation incidents and outlines new safeguards to strengthen AI model testing and evaluation."
+        },
         {
           "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
@@ -148,6 +160,19 @@
           "category": "AI Model"
         },
         {
+          "title": "ethanfel/Qwen3-VL-32B-Ultra-Heretic-MiniMax-H3-ComfyUI-INT8-ConvRot",
+          "link": "https://huggingface.co/ethanfel/Qwen3-VL-32B-Ultra-Heretic-MiniMax-H3-ComfyUI-INT8-ConvRot",
+          "date": "2026-08-05",
+          "source": "HuggingFace",
+          "description": "• Qwen3-VL-32B-Ultra-Heretic-MiniMax-H3-ComfyUI-INT8-ConvRot 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3-VL-32B-Ultra-Heretic-MiniMax-H3-ComfyUI-INT8-ConvRot 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "ethanfel/Qwen3-VL-32B-Ultra-Heretic-MiniMax-H3-ComfyUI-INT8-ConvRot",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "zai-org/GLM-5.2",
           "link": "https://huggingface.co/zai-org/GLM-5.2",
           "date": "2026-08-05",
@@ -170,19 +195,6 @@
           "is_english": true,
           "summary": "• KAT-Coder-V2.5-Dev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Kwaipilot/KAT-Coder-V2.5-Dev",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "ethanfel/Qwen3-VL-32B-Ultra-Heretic-MiniMax-H3-ComfyUI-INT8-ConvRot",
-          "link": "https://huggingface.co/ethanfel/Qwen3-VL-32B-Ultra-Heretic-MiniMax-H3-ComfyUI-INT8-ConvRot",
-          "date": "2026-08-05",
-          "source": "HuggingFace",
-          "description": "• Qwen3-VL-32B-Ultra-Heretic-MiniMax-H3-ComfyUI-INT8-ConvRot 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3-VL-32B-Ultra-Heretic-MiniMax-H3-ComfyUI-INT8-ConvRot 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ethanfel/Qwen3-VL-32B-Ultra-Heretic-MiniMax-H3-ComfyUI-INT8-ConvRot",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,6 +251,19 @@
           "category": "AI Model"
         },
         {
+          "title": "LiquidAI/LFM2.5-2.6B",
+          "link": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+          "date": "2026-08-05",
+          "source": "HuggingFace",
+          "description": "• LFM2.5-2.6B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/NAfUL2725b6KDUGf1KOd9.png",
+          "is_english": true,
+          "summary": "• LFM2.5-2.6B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "LiquidAI/LFM2.5-2.6B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "owensong/Inflect-Micro-v2",
           "link": "https://huggingface.co/owensong/Inflect-Micro-v2",
           "date": "2026-08-05",
@@ -250,26 +275,73 @@
           "translated_title": "owensong/Inflect-Micro-v2",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "XYZAILab/XYZ-Aquila-pro",
-          "link": "https://huggingface.co/XYZAILab/XYZ-Aquila-pro",
-          "date": "2026-08-05",
-          "source": "HuggingFace",
-          "description": "• XYZ-Aquila-pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/XYZAILab/XYZ-Aquila-pro/resolve/main/./assets/xyz-ai-lab-slogan.svg",
-          "is_english": true,
-          "summary": "• XYZ-Aquila-pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "XYZAILab/XYZ-Aquila-pro",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-08-04",
-      "update_time": "2026-08-04 19:18:10",
+      "update_time": "2026-08-04 22:03:41",
       "news": [
+        {
+          "title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+          "link": "https://techcrunch.com/2026/08/04/spacex-has-bought-329m-worth-of-tesla-megapacks-so-far-this-year/",
+          "date": "2026-08-04",
+          "source": "TechCrunch",
+          "description": "The purchase illustrates just how interconnected Elon Musk's universe of companies are. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1241146892.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "SpaceX has bought $329M worth of Tesla Megapacks so far this year",
+          "original_summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are. ",
+          "summary": "The purchase illustrates just how interconnected Elon Musk's universe of companies are. "
+        },
+        {
+          "title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+          "link": "https://techcrunch.com/2026/08/04/open-weight-ai-models-are-catching-up-to-the-frontier-the-safety-gap-remains/",
+          "date": "2026-08-04",
+          "source": "TechCrunch",
+          "description": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/Z.ai-GLM-5.2-chat.png?resize=1200,576",
+          "is_english": true,
+          "original_title": "Open-weight AI models are catching up to the frontier. The safety gap remains.",
+          "original_summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards.",
+          "summary": "A new SaferAI report finds Z.ai's open-weight GLM-5.2 approaches frontier AI capabilities while lacking key safety mitigations, renewing concerns that powerful open models could outpace governance and safeguards."
+        },
+        {
+          "title": "Anthropic signs $10B deal with AI cloud startup Volta",
+          "link": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+          "date": "2026-08-04",
+          "source": "TechCrunch",
+          "description": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/Claude-photo.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Anthropic signs $10B deal with AI cloud startup Volta",
+          "original_summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta.",
+          "summary": "Anthropic has been on a cloud partnership spree in recent months, and its latest move is reportedly a $10 billion deal with AI cloud startup Volta."
+        },
+        {
+          "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+          "link": "https://techcrunch.com/2026/08/04/meet-wrinkles-an-ai-app-that-uncovers-the-hidden-stories-of-the-places-around-you/",
+          "date": "2026-08-04",
+          "source": "TechCrunch",
+          "description": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/Great-British-Image.png?resize=1200,675",
+          "is_english": true,
+          "original_title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
+          "original_summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories.",
+          "summary": "Wrinkles, available on both iOS and Android, essentially acts as an AI-powered audio tour guide that reveals hidden history and local stories."
+        },
+        {
+          "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+          "link": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress/",
+          "date": "2026-08-04",
+          "source": "TechCrunch",
+          "description": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/jensen-ces-2026-getty.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+          "original_summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
+          "summary": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents."
+        },
         {
           "title": "New ways to learn and teach with ChatGPT Work and Codex",
           "link": "https://openai.com/index/learn-teach-chatgpt-work-codex",
