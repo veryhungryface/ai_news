@@ -2,8 +2,68 @@
   "dates": [
     {
       "date": "2026-08-04",
-      "update_time": "2026-08-03 21:58:38",
+      "update_time": "2026-08-04 01:25:20",
       "news": [
+        {
+          "title": "[8월3일] '후방 배치 엔지니어'의 등장...AI, 회사 자체를 다시 설계한다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213464",
+          "date": "2026-08-04",
+          "source": "AI타임스",
+          "description": "올해 초 \\\"클로드 코드 사용량이 너무 많아 1년 예산을 몇달 만에 모두 소진했다\\\"는 발언으로 \\'토큰맥싱(Tokenmaxxing)\\' 논란을 불러왔던 프라빈 나가 우버 최고 기술책임자(CTO)가 이번에는 기업의 AI 도입 방식이 어떻게 바뀌고 있는지를 보여주는 흥미로운 사례를 소개했습니다.그는 최근 X를 통해 우버가 최고의 AI 엔지니어들로 구성된 \\'에이전틱 포드(Agentic Pods)\\' 팀을 재무와 법무, 마케팅, 인사 등 현업 부서에 2주 동안 직접 투입했다고 밝혔습니다. 하지만 이들은 AI를 개발하거나 사용법을 교육하지 않습니다",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213464_216939_264.jpeg",
+          "is_english": false,
+          "original_title": "[8월3일] '후방 배치 엔지니어'의 등장...AI, 회사 자체를 다시 설계한다",
+          "original_summary": "올해 초 \\\"클로드 코드 사용량이 너무 많아 1년 예산을 몇달 만에 모두 소진했다\\\"는 발언으로 \\'토큰맥싱(Tokenmaxxing)\\' 논란을 불러왔던 프라빈 나가 우버 최고 기술책임자(CTO)가 이번에는 기업의 AI 도입 방식이 어떻게 바뀌고 있는지를 보여주는 흥미로운 사례를 소개했습니다.그는 최근 X를 통해 우버가 최고의 AI 엔지니어들로 구성된 \\'에이전틱 포드(Agentic Pods)\\' 팀을 재무와 법무, 마케팅, 인사 등 현업 부서에 2주 동안 직접 투입했다고 밝혔습니다. 하지만 이들은 AI를 개발하거나 사용법을 교육하",
+          "summary": "올해 초 \\\"클로드 코드 사용량이 너무 많아 1년 예산을 몇달 만에 모두 소진했다\\\"는 발언으로 \\'토큰맥싱(Tokenmaxxing)\\' 논란을 불러왔던 프라빈 나가 우버 최고 기술책임자(CTO)가 이번에는 기업의 AI 도입 방식이 어떻게 바뀌고 있는지를 보여주는 흥미로운 사례를 소개했습니다.그는 최근 X를 통해 우버가 최고의 AI 엔지니어들로 구성된 \\'에이전틱 포드(Agentic Pods)\\' 팀을 재무와 법무, 마케팅, 인사 등 현업 부서에 2주 동안 직접 투입했다고 밝혔습니다. 하지만 이들은 AI를 개발하거나 사용법을 교육하"
+        },
+        {
+          "title": "구글이 로봇을 제어하는 방법… ‘제미나이 로보틱스2’ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213492",
+          "date": "2026-08-04",
+          "source": "AI타임스",
+          "description": "AI타임스 AI타임스 news@aitimes.com",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213492_216975_059.jpg",
+          "is_english": false,
+          "original_title": "구글이 로봇을 제어하는 방법… ‘제미나이 로보틱스2’ 공개",
+          "original_summary": "AI타임스 AI타임스 news@aitimes.com",
+          "summary": "AI타임스 AI타임스 news@aitimes.com"
+        },
+        {
+          "title": "앤트로픽, AI 안전성 평가 중 클로드의 실제 기업 해킹 인정",
+          "link": "https://www.itworld.co.kr/article/4204702/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-ai-%ec%95%88%ec%a0%84%ec%84%b1-%ed%8f%89%ea%b0%80-%ec%a4%91-%ed%81%b4%eb%a1%9c%eb%93%9c%ec%9d%98-%ec%8b%a4%ec%a0%9c-%ea%b8%b0%ec%97%85-%ed%95%b4%ed%82%b9.html",
+          "date": "2026-08-04",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n앤트로픽은 가상 네트워크 환경에서 클로드 오퍼스 4.7, 클로드 미토스 5, 내부 테스트 모델의 정보 탐색 역량을 검증하는 평가를 진행했다. 문제는 파트너사 중 한 곳이 설정을 잘못 구성하면서 시작됐다. 인터넷에 접속하게 된 모델은 가상 기업과 이름이 같거나 비슷한 실제 기업을 탐색 대상으로 삼았다.\n\n\n\n그 결과 실제 기업 세 곳이 해킹 피해를 입었다. 앤트로픽은 7월 23일 테스트를 중단했으며, 나흘 뒤 피해 기업에 통지했다. 로이터 보도에 따르면, 현재까지 세 곳 중 두 곳으로부터 회신을 받은 상태다.\n\n\n\n통제를 벗어난 모델 문제는 앤트로픽만의 일이 아니다. 최근 오픈AI의 에이전트도 통제를 벗어나 AI 플랫폼 허깅페이스와 클라우드 플랫폼 모달 랩스(Modal Labs)의 고객사를 침해한 바 있다.\n\n\n\n앤트로픽은 상세 보고서를 통해 세 건의 사고를 공개했다. 이 중 가장 이른 사례는 4월에 발생했으며, 모두 클로드 모델의 역량을 검증",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/08/4204702-0-16251400-1785803746-3203838-0-18549200-1785510110-Claude-on-iPad.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "앤트로픽, AI 안전성 평가 중 클로드의 실제 기업 해킹 인정",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n앤트로픽은 가상 네트워크 환경에서 클로드 오퍼스 4.7, 클로드 미토스 5, 내부 테스트 모델의 정보 탐색 역량을 검증하는 평가를 진행했다. 문제는 파트너사 중 한 곳이 설정을 잘못 구성하면서 시작됐다. 인터넷에 접속하게 된 모델은 가상 기업과 이름이 같거나 비슷한 실제 기업을 탐색 대상으로 삼았다.\n\n\n\n그 결과 실제 기업 세 곳이 해킹 피해를 입었다. 앤트로픽은 7월 23일 테스트를 중단했으며, 나흘 뒤 피해 기업에 통지했다. 로이터 보도에 따르면, 현재까지 세 곳 중 두 곳으로부터 회신",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n앤트로픽은 가상 네트워크 환경에서 클로드 오퍼스 4.7, 클로드 미토스 5, 내부 테스트 모델의 정보 탐색 역량을 검증하는 평가를 진행했다. 문제는 파트너사 중 한 곳이 설정을 잘못 구성하면서 시작됐다. 인터넷에 접속하게 된 모델은 가상 기업과 이름이 같거나 비슷한 실제 기업을 탐색 대상으로 삼았다.\n\n\n\n그 결과 실제 기업 세 곳이 해킹 피해를 입었다. 앤트로픽은 7월 23일 테스트를 중단했으며, 나흘 뒤 피해 기업에 통지했다. 로이터 보도에 따르면, 현재까지 세 곳 중 두 곳으로부터 회신"
+        },
+        {
+          "title": "발견한 취약점을 테스트로 남기지 않으면 어떤 일이 벌어지나",
+          "link": "https://www.itworld.co.kr/article/4204698/%eb%b0%9c%ea%b2%ac%ed%95%9c-%ec%b7%a8%ec%95%bd%ec%a0%90%ec%9d%84-%ed%85%8c%ec%8a%a4%ed%8a%b8%eb%a1%9c-%eb%82%a8%ea%b8%b0%ec%a7%80-%ec%95%8a%ec%9c%bc%eb%a9%b4-%ec%96%b4%eb%96%a4-%ec%9d%bc%ec%9d%b4.html",
+          "date": "2026-08-04",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n전통적인 소프트웨어 엔지니어링에서 심각한 버그는 회귀 테스트로 남는다. 에이전트 보안에도 같은 수준의 엄격한 접근법이 필요하다.\n\n\n\nAI 에이전트가 실제 시스템과 연결되는 속도는 대다수 기업이 보안 역량을 쌓는 속도를 앞지르고 있다. 우리는 이 상황을 심각하게 우려해야 한다.\n\n\n\nAI 보안에 관한 초기 논의는 유익했지만 한계가 분명했다. 업계는 관련 어휘를 익혔다. 프롬프트 인젝션, 간접 프롬프트 인젝션, 도구 오용, 데이터 유출, 과도한 에이전시, 안전하지 않은 검색, 인증 경계 침해 등이 대표적이다. 팀이 위험을 논의할 수 있는 공통 언어를 제공한다는 점에서 중요한 의미가 있다.\n\n\n\n그러나 어휘는 억제 수단이 아니다.\n\n\n\n더 어려운 과제는 위험한 동작이 발견된 이후의 대응이다. 팀은 프롬프트를 조정하거나, 도구를 제한하거나, 가드레일을 추가하거나, 주변 애플리케이션 로직을 변경할 수 있다. 이런 조치는 당면한 문제를 해결할 수 있다",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/08/4204698-0-15531000-1785803133-shutterstock_1801533685-100959195-orig.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "발견한 취약점을 테스트로 남기지 않으면 어떤 일이 벌어지나",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n전통적인 소프트웨어 엔지니어링에서 심각한 버그는 회귀 테스트로 남는다. 에이전트 보안에도 같은 수준의 엄격한 접근법이 필요하다.\n\n\n\nAI 에이전트가 실제 시스템과 연결되는 속도는 대다수 기업이 보안 역량을 쌓는 속도를 앞지르고 있다. 우리는 이 상황을 심각하게 우려해야 한다.\n\n\n\nAI 보안에 관한 초기 논의는 유익했지만 한계가 분명했다. 업계는 관련 어휘를 익혔다. 프롬프트 인젝션, 간접 프롬프트 인젝션, 도구 오용, 데이터 유출, 과도한 에이전시, 안전하지 않은 검색, 인증 경계 침해 ",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n전통적인 소프트웨어 엔지니어링에서 심각한 버그는 회귀 테스트로 남는다. 에이전트 보안에도 같은 수준의 엄격한 접근법이 필요하다.\n\n\n\nAI 에이전트가 실제 시스템과 연결되는 속도는 대다수 기업이 보안 역량을 쌓는 속도를 앞지르고 있다. 우리는 이 상황을 심각하게 우려해야 한다.\n\n\n\nAI 보안에 관한 초기 논의는 유익했지만 한계가 분명했다. 업계는 관련 어휘를 익혔다. 프롬프트 인젝션, 간접 프롬프트 인젝션, 도구 오용, 데이터 유출, 과도한 에이전시, 안전하지 않은 검색, 인증 경계 침해 "
+        },
+        {
+          "title": "AI 데이터센터가 촉발한 메모리 대란, 2027년 이후에도 해소 불투명",
+          "link": "https://www.itworld.co.kr/article/4204693/ai-%eb%8d%b0%ec%9d%b4%ed%84%b0%ec%84%bc%ed%84%b0%ea%b0%80-%ec%b4%89%eb%b0%9c%ed%95%9c-%eb%a9%94%eb%aa%a8%eb%a6%ac-%eb%8c%80%eb%9e%80-2027%eb%85%84-%ec%9d%b4%ed%9b%84%ec%97%90%eb%8f%84-%ed%95%b4.html",
+          "date": "2026-08-04",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\nAI가 주도하는 메모리 부족 사태가 계속되면서 전반적인 가격 상승세가 이어지고 있다. 노트북, PC, 플래시 드라이브, SSD, 라우터, 스마트폰 가격이 일제히 치솟고 있는 것도 같은 이유다.\n\n\n\n내년에도 상황이 개선될 기미는 보이지 않는다. 삼성전자 메모리 반도체 부문 김재준 부사장이 최근 애널리스트 컨퍼런스에서 공급 부족이 2026년 전반에 걸쳐, 더 나아가 2027년 상당 기간까지 이어질 것으로 예상된다고 밝혔다. 공급 차질이 2028년까지 지속될 수 있다는 전망도 제기됐다.\n\n\n\nAI 데이터센터 구축 확대로 대규모 RAM과 GPU 수요가 급증했지만, 올해 공급은 수요를 따라잡지 못하고 있다. 기존 주문이 내년으로 이월되면서 이미 팽팽한 수급 상황이 더욱 악화될 가능성이 높다. 결과적으로 가격은 현재의 높은 수준을 유지하거나, 더 크게 치솟을 수 있다.\n\n\n\n현재 RAM이 부족한 이유\n\n\n\n대기업은 메모리 제조사와 다년 계약을 체결한다",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/08/4204693-0-28776700-1785802288-3203764-0-51455600-1785511661-RAM-memory-stick-module-exposed-and-sitting-on-a-circuit-board.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "AI 데이터센터가 촉발한 메모리 대란, 2027년 이후에도 해소 불투명",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\nAI가 주도하는 메모리 부족 사태가 계속되면서 전반적인 가격 상승세가 이어지고 있다. 노트북, PC, 플래시 드라이브, SSD, 라우터, 스마트폰 가격이 일제히 치솟고 있는 것도 같은 이유다.\n\n\n\n내년에도 상황이 개선될 기미는 보이지 않는다. 삼성전자 메모리 반도체 부문 김재준 부사장이 최근 애널리스트 컨퍼런스에서 공급 부족이 2026년 전반에 걸쳐, 더 나아가 2027년 상당 기간까지 이어질 것으로 예상된다고 밝혔다. 공급 차질이 2028년까지 지속될 수 있다는 전망도 제기됐다.\n\n\n\nA",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\nAI가 주도하는 메모리 부족 사태가 계속되면서 전반적인 가격 상승세가 이어지고 있다. 노트북, PC, 플래시 드라이브, SSD, 라우터, 스마트폰 가격이 일제히 치솟고 있는 것도 같은 이유다.\n\n\n\n내년에도 상황이 개선될 기미는 보이지 않는다. 삼성전자 메모리 반도체 부문 김재준 부사장이 최근 애널리스트 컨퍼런스에서 공급 부족이 2026년 전반에 걸쳐, 더 나아가 2027년 상당 기간까지 이어질 것으로 예상된다고 밝혔다. 공급 차질이 2028년까지 지속될 수 있다는 전망도 제기됐다.\n\n\n\nA"
+        },
         {
           "title": "moonshotai/Kimi-K3",
           "link": "https://huggingface.co/moonshotai/Kimi-K3",
@@ -70,19 +130,6 @@
           "category": "AI Model"
         },
         {
-          "title": "baidu/Unlimited-OCR",
-          "link": "https://huggingface.co/baidu/Unlimited-OCR",
-          "date": "2026-08-04",
-          "source": "HuggingFace",
-          "description": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/baidu/Unlimited-OCR/resolve/main/assets/baidu.png",
-          "is_english": true,
-          "summary": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "baidu/Unlimited-OCR",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
           "link": "https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF",
           "date": "2026-08-04",
@@ -92,6 +139,19 @@
           "is_english": true,
           "summary": "• DeepSeek-V4-Flash-0731-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "link": "https://huggingface.co/baidu/Unlimited-OCR",
+          "date": "2026-08-04",
+          "source": "HuggingFace",
+          "description": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/baidu/Unlimited-OCR/resolve/main/assets/baidu.png",
+          "is_english": true,
+          "summary": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "baidu/Unlimited-OCR",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -213,32 +273,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Nanbeige/Nanbeige4.2-3B",
-          "link": "https://huggingface.co/Nanbeige/Nanbeige4.2-3B",
-          "date": "2026-08-04",
-          "source": "HuggingFace",
-          "description": "• Nanbeige4.2-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/Nanbeige/Nanbeige4.2-3B/resolve/main/figures/nbg.png",
-          "is_english": true,
-          "summary": "• Nanbeige4.2-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Nanbeige/Nanbeige4.2-3B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "poolside/Laguna-S-2.1",
-          "link": "https://huggingface.co/poolside/Laguna-S-2.1",
-          "date": "2026-08-04",
-          "source": "HuggingFace",
-          "description": "• Laguna-S-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://poolside.ai/assets/laguna/laguna-s-2-1-banner.svg",
-          "is_english": true,
-          "summary": "• Laguna-S-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "poolside/Laguna-S-2.1",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "EschaLabs/Qwen3.6-35B-A3B-Escha-W2",
           "link": "https://huggingface.co/EschaLabs/Qwen3.6-35B-A3B-Escha-W2",
           "date": "2026-08-04",
@@ -248,6 +282,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-35B-A3B-Escha-W2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "EschaLabs/Qwen3.6-35B-A3B-Escha-W2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Nanbeige/Nanbeige4.2-3B",
+          "link": "https://huggingface.co/Nanbeige/Nanbeige4.2-3B",
+          "date": "2026-08-04",
+          "source": "HuggingFace",
+          "description": "• Nanbeige4.2-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/Nanbeige/Nanbeige4.2-3B/resolve/main/figures/nbg.png",
+          "is_english": true,
+          "summary": "• Nanbeige4.2-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Nanbeige/Nanbeige4.2-3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -263,13 +310,62 @@
           "translated_title": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V6-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "poolside/Laguna-S-2.1",
+          "link": "https://huggingface.co/poolside/Laguna-S-2.1",
+          "date": "2026-08-04",
+          "source": "HuggingFace",
+          "description": "• Laguna-S-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://poolside.ai/assets/laguna/laguna-s-2-1-banner.svg",
+          "is_english": true,
+          "summary": "• Laguna-S-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "poolside/Laguna-S-2.1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-08-03",
-      "update_time": "2026-08-03 21:58:36",
+      "update_time": "2026-08-04 01:25:19",
       "news": [
+        {
+          "title": "아이폰 18 프로·울트라, 올가을 가격 인상 초읽기",
+          "link": "https://www.itworld.co.kr/article/4204688/%ec%95%84%ec%9d%b4%ed%8f%b0-18-%ed%94%84%eb%a1%9c%c2%b7%ec%9a%b8%ed%8a%b8%eb%9d%bc-%ec%98%ac%ea%b0%80%ec%9d%84-%ea%b0%80%ea%b2%a9-%ec%9d%b8%ec%83%81-%ec%b4%88%ec%9d%bd%ea%b8%b0.html",
+          "date": "2026-08-03",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n애플이 지난달 가격을 인상했을 때, 눈에 띄게 가격 동결을 유지한 제품이 있었다. 바로 아이폰이다. 애플이 현재 판매 중인 아이폰 7개 모델은 2년 된 아이폰 16과 아이폰 16 플러스를 포함해 모두 기존과 동일한 시작가를 유지하고 있다. 아이폰 17e의 599달러부터 시작해 아이폰 17 프로 맥스의 1,199달러까지 단계적으로 올라가는 구조다.\n\n\n\n불과 몇 주 후면 상황이 달라질 가능성이 높다. 아이폰 18 프로가 올가을 가격 인상을 동반할 것이라는 보도가 수개월간 이어진 가운데, 블룸버그 기자 마크 거먼은 최신 ‘파워 온’ 뉴스레터에서 올가을 아이폰 가격이 오를 것이라고 단언하며, 남은 질문은 인상 폭뿐이라고 짚었다.\n\n\n\n독자 질문에 대한 답변에서 거먼은 “다양한 이유로 애플이 아이폰 가격을 인상할 것이라는 점에 전혀 의심의 여지가 없다”고 밝혔다. 가장 주된 원인은 업계 전반에 영향을 미치고 있는 메모리 공급 부족 현상으로, 최근 맥",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/08/4204688-0-55792300-1785801322-Iphone17e-17pro.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "아이폰 18 프로·울트라, 올가을 가격 인상 초읽기",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n애플이 지난달 가격을 인상했을 때, 눈에 띄게 가격 동결을 유지한 제품이 있었다. 바로 아이폰이다. 애플이 현재 판매 중인 아이폰 7개 모델은 2년 된 아이폰 16과 아이폰 16 플러스를 포함해 모두 기존과 동일한 시작가를 유지하고 있다. 아이폰 17e의 599달러부터 시작해 아이폰 17 프로 맥스의 1,199달러까지 단계적으로 올라가는 구조다.\n\n\n\n불과 몇 주 후면 상황이 달라질 가능성이 높다. 아이폰 18 프로가 올가을 가격 인상을 동반할 것이라는 보도가 수개월간 이어진 가운데, 블룸버",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n애플이 지난달 가격을 인상했을 때, 눈에 띄게 가격 동결을 유지한 제품이 있었다. 바로 아이폰이다. 애플이 현재 판매 중인 아이폰 7개 모델은 2년 된 아이폰 16과 아이폰 16 플러스를 포함해 모두 기존과 동일한 시작가를 유지하고 있다. 아이폰 17e의 599달러부터 시작해 아이폰 17 프로 맥스의 1,199달러까지 단계적으로 올라가는 구조다.\n\n\n\n불과 몇 주 후면 상황이 달라질 가능성이 높다. 아이폰 18 프로가 올가을 가격 인상을 동반할 것이라는 보도가 수개월간 이어진 가운데, 블룸버"
+        },
+        {
+          "title": "Circles powers telco personalization with OpenAI technology",
+          "link": "https://openai.com/index/circles",
+          "date": "2026-08-03",
+          "source": "OpenAI",
+          "description": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Circles powers telco personalization with OpenAI technology",
+          "original_summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency.",
+          "summary": "Circles uses the OpenAI API and Codex to power AI-native telco experiences, increasing ARPU by 22%, reducing churn by 9%, and improving development efficiency."
+        },
+        {
+          "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+          "link": "https://techcrunch.com/2026/08/03/after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-marxist/",
+          "date": "2026-08-03",
+          "source": "TechCrunch",
+          "description": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/Palantir-Alex-Karp.png?resize=1200,762",
+          "is_english": true,
+          "original_title": "After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’",
+          "original_summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises.",
+          "summary": "After a quarter that delivered $1 billion in profit, Palantir CEO Alex Karp on Monday once again warned that AI frontier labs are too untrustworthy for enterprises."
+        },
         {
           "title": "How we built a realtime system for responsive voice AI in six months",
           "link": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
