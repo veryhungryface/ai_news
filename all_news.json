@@ -2,8 +2,44 @@
   "dates": [
     {
       "date": "2026-08-04",
-      "update_time": "2026-08-04 11:15:51",
+      "update_time": "2026-08-04 13:47:10",
       "news": [
+        {
+          "title": "Is the future of data centers portable? Runware builds a pod to find out",
+          "link": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+          "date": "2026-08-04",
+          "source": "TechCrunch",
+          "description": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/Data-center.png?resize=1196,1200",
+          "is_english": true,
+          "original_title": "Is the future of data centers portable? Runware builds a pod to find out",
+          "original_summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod.",
+          "summary": "On Tuesday, AI infrastructure company Runware announced the launch of its own modular data center called Sonic Inference Pod."
+        },
+        {
+          "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
+          "link": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers/",
+          "date": "2026-08-04",
+          "source": "TechCrunch",
+          "description": "Endeavour Optical Networks is planning to launch the fastest space laser communications system yet built. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/EON-Co-Founders_Horizontal_Philip-Cheung.jpg?resize=1200,898",
+          "is_english": true,
+          "original_title": "EON wants to move the data superhighway from ocean fiber to space lasers",
+          "original_summary": "Endeavour Optical Networks is planning to launch the fastest space laser communications system yet built. ",
+          "summary": "Endeavour Optical Networks is planning to launch the fastest space laser communications system yet built. "
+        },
+        {
+          "title": "The latest AI news we announced in July 2026",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-july-2026/",
+          "date": "2026-08-04",
+          "source": "Google AI",
+          "description": "Here are Google’s latest AI updates from July 2026",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/July_AI_Recap_still.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "The latest AI news we announced in July 2026",
+          "original_summary": "Here are Google’s latest AI updates from July 2026",
+          "summary": "Here are Google’s latest AI updates from July 2026"
+        },
         {
           "title": "\"가성비 넘어 최첨단 성능까지\"...중국 AI 공세에 미국 개발사 '데드 존' 몰렸다",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=213523",
@@ -521,19 +557,6 @@
           "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\nAI가 주도하는 메모리 부족 사태가 계속되면서 전반적인 가격 상승세가 이어지고 있다. 노트북, PC, 플래시 드라이브, SSD, 라우터, 스마트폰 가격이 일제히 치솟고 있는 것도 같은 이유다.\n\n\n\n내년에도 상황이 개선될 기미는 보이지 않는다. 삼성전자 메모리 반도체 부문 김재준 부사장이 최근 애널리스트 컨퍼런스에서 공급 부족이 2026년 전반에 걸쳐, 더 나아가 2027년 상당 기간까지 이어질 것으로 예상된다고 밝혔다. 공급 차질이 2028년까지 지속될 수 있다는 전망도 제기됐다.\n\n\n\nA"
         },
         {
-          "title": "moonshotai/Kimi-K3",
-          "link": "https://huggingface.co/moonshotai/Kimi-K3",
-          "date": "2026-08-04",
-          "source": "HuggingFace",
-          "description": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/moonshotai/Kimi-K3/resolve/main/assets/kimi-logo.png",
-          "is_english": true,
-          "summary": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "moonshotai/Kimi-K3",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
           "date": "2026-08-04",
@@ -543,6 +566,19 @@
           "is_english": true,
           "summary": "• DeepSeek-V4-Flash-0731 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "moonshotai/Kimi-K3",
+          "link": "https://huggingface.co/moonshotai/Kimi-K3",
+          "date": "2026-08-04",
+          "source": "HuggingFace",
+          "description": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/moonshotai/Kimi-K3/resolve/main/assets/kimi-logo.png",
+          "is_english": true,
+          "summary": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "moonshotai/Kimi-K3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -651,19 +687,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Kwaipilot/KAT-Coder-V2.5-Dev",
-          "link": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev",
-          "date": "2026-08-04",
-          "source": "HuggingFace",
-          "description": "• KAT-Coder-V2.5-Dev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev/resolve/main/kat_logo_hd.png",
-          "is_english": true,
-          "summary": "• KAT-Coder-V2.5-Dev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Kwaipilot/KAT-Coder-V2.5-Dev",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "microsoft/Mage-VL",
           "link": "https://huggingface.co/microsoft/Mage-VL",
           "date": "2026-08-04",
@@ -673,6 +696,19 @@
           "is_english": true,
           "summary": "• Mage-VL 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "microsoft/Mage-VL",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Kwaipilot/KAT-Coder-V2.5-Dev",
+          "link": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev",
+          "date": "2026-08-04",
+          "source": "HuggingFace",
+          "description": "• KAT-Coder-V2.5-Dev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev/resolve/main/kat_logo_hd.png",
+          "is_english": true,
+          "summary": "• KAT-Coder-V2.5-Dev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Kwaipilot/KAT-Coder-V2.5-Dev",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -690,19 +726,6 @@
           "category": "AI Model"
         },
         {
-          "title": "EschaLabs/Qwen3.6-35B-A3B-Escha-W2",
-          "link": "https://huggingface.co/EschaLabs/Qwen3.6-35B-A3B-Escha-W2",
-          "date": "2026-08-04",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B-Escha-W2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B-Escha-W2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "EschaLabs/Qwen3.6-35B-A3B-Escha-W2",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "ethanfel/Qwen3-VL-32B-Ultra-Heretic-MiniMax-H3-ComfyUI-INT8-ConvRot",
           "link": "https://huggingface.co/ethanfel/Qwen3-VL-32B-Ultra-Heretic-MiniMax-H3-ComfyUI-INT8-ConvRot",
           "date": "2026-08-04",
@@ -712,6 +735,19 @@
           "is_english": true,
           "summary": "• Qwen3-VL-32B-Ultra-Heretic-MiniMax-H3-ComfyUI-INT8-ConvRot 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "ethanfel/Qwen3-VL-32B-Ultra-Heretic-MiniMax-H3-ComfyUI-INT8-ConvRot",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "EschaLabs/Qwen3.6-35B-A3B-Escha-W2",
+          "link": "https://huggingface.co/EschaLabs/Qwen3.6-35B-A3B-Escha-W2",
+          "date": "2026-08-04",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-35B-A3B-Escha-W2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.6-35B-A3B-Escha-W2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "EschaLabs/Qwen3.6-35B-A3B-Escha-W2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -742,19 +778,6 @@
           "category": "AI Model"
         },
         {
-          "title": "owensong/Inflect-Micro-v2",
-          "link": "https://huggingface.co/owensong/Inflect-Micro-v2",
-          "date": "2026-08-04",
-          "source": "HuggingFace",
-          "description": "• Inflect-Micro-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/owensong/Inflect-Micro-v2/resolve/main/assets/inflect-v2-repository-hero.png",
-          "is_english": true,
-          "summary": "• Inflect-Micro-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "owensong/Inflect-Micro-v2",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V6-GGUF",
           "link": "https://huggingface.co/LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V6-GGUF",
           "date": "2026-08-04",
@@ -764,6 +787,19 @@
           "is_english": true,
           "summary": "• Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V6-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V6-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "owensong/Inflect-Micro-v2",
+          "link": "https://huggingface.co/owensong/Inflect-Micro-v2",
+          "date": "2026-08-04",
+          "source": "HuggingFace",
+          "description": "• Inflect-Micro-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/owensong/Inflect-Micro-v2/resolve/main/assets/inflect-v2-repository-hero.png",
+          "is_english": true,
+          "summary": "• Inflect-Micro-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "owensong/Inflect-Micro-v2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
