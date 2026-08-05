@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-08-06",
-      "update_time": "2026-08-05 19:13:45",
+      "update_time": "2026-08-05 22:05:44",
       "news": [
         {
           "title": "Anthropic, OpenAI Agents Faked Identities in Security Test",
@@ -107,19 +107,6 @@
           "category": "AI Model"
         },
         {
-          "title": "baidu/Unlimited-OCR",
-          "link": "https://huggingface.co/baidu/Unlimited-OCR",
-          "date": "2026-08-06",
-          "source": "HuggingFace",
-          "description": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/baidu/Unlimited-OCR/resolve/main/assets/baidu.png",
-          "is_english": true,
-          "summary": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "baidu/Unlimited-OCR",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "thinkingmachines/Inkling-Small",
           "link": "https://huggingface.co/thinkingmachines/Inkling-Small",
           "date": "2026-08-06",
@@ -133,15 +120,15 @@
           "category": "AI Model"
         },
         {
-          "title": "ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
-          "link": "https://huggingface.co/ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
+          "title": "baidu/Unlimited-OCR",
+          "link": "https://huggingface.co/baidu/Unlimited-OCR",
           "date": "2026-08-06",
           "source": "HuggingFace",
-          "description": "• Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/baidu/Unlimited-OCR/resolve/main/assets/baidu.png",
           "is_english": true,
-          "summary": "• Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
+          "summary": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "baidu/Unlimited-OCR",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -159,6 +146,19 @@
           "category": "AI Model"
         },
         {
+          "title": "ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
+          "link": "https://huggingface.co/ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
+          "date": "2026-08-06",
+          "source": "HuggingFace",
+          "description": "• Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Audio8/Audio8-TTS-Preview-0.6b",
           "link": "https://huggingface.co/Audio8/Audio8-TTS-Preview-0.6b",
           "date": "2026-08-06",
@@ -168,19 +168,6 @@
           "is_english": true,
           "summary": "• Audio8-TTS-Preview-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Audio8/Audio8-TTS-Preview-0.6b",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "zai-org/GLM-5.2",
-          "link": "https://huggingface.co/zai-org/GLM-5.2",
-          "date": "2026-08-06",
-          "source": "HuggingFace",
-          "description": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
-          "is_english": true,
-          "summary": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "zai-org/GLM-5.2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -198,6 +185,19 @@
           "category": "AI Model"
         },
         {
+          "title": "zai-org/GLM-5.2",
+          "link": "https://huggingface.co/zai-org/GLM-5.2",
+          "date": "2026-08-06",
+          "source": "HuggingFace",
+          "description": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
+          "is_english": true,
+          "summary": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "zai-org/GLM-5.2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "XYZAILab/XYZ-Aquila-mini",
           "link": "https://huggingface.co/XYZAILab/XYZ-Aquila-mini",
           "date": "2026-08-06",
@@ -207,19 +207,6 @@
           "is_english": true,
           "summary": "• XYZ-Aquila-mini 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "XYZAILab/XYZ-Aquila-mini",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "EschaLabs/Qwen3.6-35B-A3B-Escha-W2",
-          "link": "https://huggingface.co/EschaLabs/Qwen3.6-35B-A3B-Escha-W2",
-          "date": "2026-08-06",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B-Escha-W2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B-Escha-W2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "EschaLabs/Qwen3.6-35B-A3B-Escha-W2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -250,15 +237,15 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Kimi-K3-GGUF",
-          "link": "https://huggingface.co/unsloth/Kimi-K3-GGUF",
+          "title": "EschaLabs/Qwen3.6-35B-A3B-Escha-W2",
+          "link": "https://huggingface.co/EschaLabs/Qwen3.6-35B-A3B-Escha-W2",
           "date": "2026-08-06",
           "source": "HuggingFace",
-          "description": "• Kimi-K3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "description": "• Qwen3.6-35B-A3B-Escha-W2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
           "is_english": true,
-          "summary": "• Kimi-K3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Kimi-K3-GGUF",
+          "summary": "• Qwen3.6-35B-A3B-Escha-W2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "EschaLabs/Qwen3.6-35B-A3B-Escha-W2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -276,15 +263,28 @@
           "category": "AI Model"
         },
         {
-          "title": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF",
-          "link": "https://huggingface.co/LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF",
+          "title": "unsloth/Kimi-K3-GGUF",
+          "link": "https://huggingface.co/unsloth/Kimi-K3-GGUF",
           "date": "2026-08-06",
           "source": "HuggingFace",
-          "description": "• Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF/resolve/main/pelikan_crop.PNG",
+          "description": "• Kimi-K3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
           "is_english": true,
-          "summary": "• Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF",
+          "summary": "• Kimi-K3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Kimi-K3-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "deepgrove/maple-preview",
+          "link": "https://huggingface.co/deepgrove/maple-preview",
+          "date": "2026-08-06",
+          "source": "HuggingFace",
+          "description": "• maple-preview 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/deepgrove/maple-preview/resolve/main/assets/01-speed-frontier.png",
+          "is_english": true,
+          "summary": "• maple-preview 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepgrove/maple-preview",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -292,8 +292,92 @@
     },
     {
       "date": "2026-08-05",
-      "update_time": "2026-08-05 16:27:01",
+      "update_time": "2026-08-05 22:05:42",
       "news": [
+        {
+          "title": "SKT 2분기 AIDC 매출 92% 급증...\"선수요 확보·직접투자 최소 원칙\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213541",
+          "date": "2026-08-05",
+          "source": "AI타임스",
+          "description": "SK텔레콤(대표 정재헌)이 5일 2분기 실적발표 컨퍼런스콜을 통해 AI 데이터센터(AIDC) 사업 추진 계획을 공개했다.2분기 AIDC 매출은 전년 동기 대비 92.5% 급증한 1362억원을 달성하며 핵심 성장 동력으로 자리매김했다.AIDC 사업의 본격적인 세력 확장을 위해 지난달 15GW(기가와트) 규모의 사업 개발을 전담할 별도 법인 \\'SK하이퍼\\'를 설립했다. SK하이퍼는 부지와 전력 등 핵심 요소를 선제적으로 확보하며 2029년 5GW, 2035년 15GW 규모로 사업을 점차 확대할 계획으로, 기존 SK브로드밴드의 데이터센터",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213541_217051_156.png",
+          "is_english": true,
+          "original_title": "SKT 2분기 AIDC 매출 92% 급증...\"선수요 확보·직접투자 최소 원칙\"",
+          "original_summary": "SK텔레콤(대표 정재헌)이 5일 2분기 실적발표 컨퍼런스콜을 통해 AI 데이터센터(AIDC) 사업 추진 계획을 공개했다.2분기 AIDC 매출은 전년 동기 대비 92.5% 급증한 1362억원을 달성하며 핵심 성장 동력으로 자리매김했다.AIDC 사업의 본격적인 세력 확장을 위해 지난달 15GW(기가와트) 규모의 사업 개발을 전담할 별도 법인 \\'SK하이퍼\\'를 설립했다. SK하이퍼는 부지와 전력 등 핵심 요소를 선제적으로 확보하며 2029년 5GW, 2035년 15GW 규모로 사업을 점차 확대할 계획으로, 기존 SK브로드밴드의 데이터센",
+          "summary": "SK텔레콤(대표 정재헌)이 5일 2분기 실적발표 컨퍼런스콜을 통해 AI 데이터센터(AIDC) 사업 추진 계획을 공개했다.2분기 AIDC 매출은 전년 동기 대비 92.5% 급증한 1362억원을 달성하며 핵심 성장 동력으로 자리매김했다.AIDC 사업의 본격적인 세력 확장을 위해 지난달 15GW(기가와트) 규모의 사업 개발을 전담할 별도 법인 \\'SK하이퍼\\'를 설립했다. SK하이퍼는 부지와 전력 등 핵심 요소를 선제적으로 확보하며 2029년 5GW, 2035년 15GW 규모로 사업을 점차 확대할 계획으로, 기존 SK브로드밴드의 데이터센"
+        },
+        {
+          "title": "[게시판] 빅밸류, 515만 페이지 분량 'AI GEO 데이터' 전면 개방 등 단신",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213580",
+          "date": "2026-08-05",
+          "source": "AI타임스",
+          "description": "■ 빅밸류(대표 구름·이병욱)는 전국 사업자·상권·의료 등 20개 카테고리의 약 515만 페이지 분량의 데이터를 AI가 읽을 수 있는 형태로 대폭 개방했다고 밝혔다. 이를 통해 챗GPT 등 AI 노출 및 인용률을 높여 빅밸류 데이터가 답변으로 노출될 수 있다는 설명이다. 실제 ‘AI 실시간 인용’ 건수는 하루 약 4100건, AI가 나중에 답하기 위한 ‘데이터 색인 수집’은 하루 약 10만건에 달했다.■ 씨이랩(대표 윤세혁·채정환)은 글로벌 유체 관리 솔루션 기업 \\'왓슨말로우\\'와 AI 데이터센터 사업 협력 강화를 논의했다고 밝혔다.",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213580_217101_2544.png",
+          "is_english": true,
+          "original_title": "[게시판] 빅밸류, 515만 페이지 분량 'AI GEO 데이터' 전면 개방 등 단신",
+          "original_summary": "■ 빅밸류(대표 구름·이병욱)는 전국 사업자·상권·의료 등 20개 카테고리의 약 515만 페이지 분량의 데이터를 AI가 읽을 수 있는 형태로 대폭 개방했다고 밝혔다. 이를 통해 챗GPT 등 AI 노출 및 인용률을 높여 빅밸류 데이터가 답변으로 노출될 수 있다는 설명이다. 실제 ‘AI 실시간 인용’ 건수는 하루 약 4100건, AI가 나중에 답하기 위한 ‘데이터 색인 수집’은 하루 약 10만건에 달했다.■ 씨이랩(대표 윤세혁·채정환)은 글로벌 유체 관리 솔루션 기업 \\'왓슨말로우\\'와 AI 데이터센터 사업 협력 강화를 논의했다고 밝혔",
+          "summary": "■ 빅밸류(대표 구름·이병욱)는 전국 사업자·상권·의료 등 20개 카테고리의 약 515만 페이지 분량의 데이터를 AI가 읽을 수 있는 형태로 대폭 개방했다고 밝혔다. 이를 통해 챗GPT 등 AI 노출 및 인용률을 높여 빅밸류 데이터가 답변으로 노출될 수 있다는 설명이다. 실제 ‘AI 실시간 인용’ 건수는 하루 약 4100건, AI가 나중에 답하기 위한 ‘데이터 색인 수집’은 하루 약 10만건에 달했다.■ 씨이랩(대표 윤세혁·채정환)은 글로벌 유체 관리 솔루션 기업 \\'왓슨말로우\\'와 AI 데이터센터 사업 협력 강화를 논의했다고 밝혔"
+        },
+        {
+          "title": "엔젤로보틱스, 보행보조 웨어러블 로봇 베트남 시장 진출",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213581",
+          "date": "2026-08-05",
+          "source": "AI타임스",
+          "description": "엔젤로보틱스(대표 조남민)는 보행보조 웨어러블 로봇 \\'엔젤슈트 H10\\'의 베트남 의료기기 등록을 완료하고, 현지 시장 진출을 본격화한다고 5일 밝혔다.엔젤슈트 H10은 사용자의 자세와 움직임을 실시간으로 분석해 고관절 움직임을 지원하는 보행훈련용 웨어러블 로봇이다. 베트남 \\'클래스 B\\' 의료기기 적용표준 신고 절차를 완료해 말레이시아에 이어 두 번째로 등록을 마쳤다.앞서 등록된 보행재활 로봇 \\'엔젤렉스 M20\\'과 연계해 환자 상태와 재활 단계에 따른 맞춤형 훈련이 가능하다는 설명이다.베트남 주요 국공립병원 및 재활기관을 대상으로 하",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213581_217102_481.jpg",
+          "is_english": false,
+          "original_title": "엔젤로보틱스, 보행보조 웨어러블 로봇 베트남 시장 진출",
+          "original_summary": "엔젤로보틱스(대표 조남민)는 보행보조 웨어러블 로봇 \\'엔젤슈트 H10\\'의 베트남 의료기기 등록을 완료하고, 현지 시장 진출을 본격화한다고 5일 밝혔다.엔젤슈트 H10은 사용자의 자세와 움직임을 실시간으로 분석해 고관절 움직임을 지원하는 보행훈련용 웨어러블 로봇이다. 베트남 \\'클래스 B\\' 의료기기 적용표준 신고 절차를 완료해 말레이시아에 이어 두 번째로 등록을 마쳤다.앞서 등록된 보행재활 로봇 \\'엔젤렉스 M20\\'과 연계해 환자 상태와 재활 단계에 따른 맞춤형 훈련이 가능하다는 설명이다.베트남 주요 국공립병원 및 재활기관을 ",
+          "summary": "엔젤로보틱스(대표 조남민)는 보행보조 웨어러블 로봇 \\'엔젤슈트 H10\\'의 베트남 의료기기 등록을 완료하고, 현지 시장 진출을 본격화한다고 5일 밝혔다.엔젤슈트 H10은 사용자의 자세와 움직임을 실시간으로 분석해 고관절 움직임을 지원하는 보행훈련용 웨어러블 로봇이다. 베트남 \\'클래스 B\\' 의료기기 적용표준 신고 절차를 완료해 말레이시아에 이어 두 번째로 등록을 마쳤다.앞서 등록된 보행재활 로봇 \\'엔젤렉스 M20\\'과 연계해 환자 상태와 재활 단계에 따른 맞춤형 훈련이 가능하다는 설명이다.베트남 주요 국공립병원 및 재활기관을 "
+        },
+        {
+          "title": "데이터 마이닝 최고 학술대회 9∼13일 제주 개최…구글·알리바바 기조강연",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213582",
+          "date": "2026-08-05",
+          "source": "AI타임스",
+          "description": "데이터마이닝 분야의 세계적인 국제학술대회가 제주에서 열린다. 국내에서 처음 열리는 이번 대회에는 구글·알리바바·아마존·에어비앤비·마이크로소프트·애플 등 세계적 빅테크 기업을 비롯해 3500여명이 참가한다.제주도는 ACM SIGKDD 2026(Conference on Knowledge Discovery and Data Mining)이 9일부터 13일까지 제주국제컨벤션센터(ICC 제주)에서 열린다고 밝혔다.이 행사는 1947년 설립된 세계 최초의 컴퓨터과학 학술단체인 ACM(Association for Computing Machiner",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213582_217103_4739.png",
+          "is_english": false,
+          "original_title": "데이터 마이닝 최고 학술대회 9∼13일 제주 개최…구글·알리바바 기조강연",
+          "original_summary": "데이터마이닝 분야의 세계적인 국제학술대회가 제주에서 열린다. 국내에서 처음 열리는 이번 대회에는 구글·알리바바·아마존·에어비앤비·마이크로소프트·애플 등 세계적 빅테크 기업을 비롯해 3500여명이 참가한다.제주도는 ACM SIGKDD 2026(Conference on Knowledge Discovery and Data Mining)이 9일부터 13일까지 제주국제컨벤션센터(ICC 제주)에서 열린다고 밝혔다.이 행사는 1947년 설립된 세계 최초의 컴퓨터과학 학술단체인 ACM(Association for Computing Machiner",
+          "summary": "데이터마이닝 분야의 세계적인 국제학술대회가 제주에서 열린다. 국내에서 처음 열리는 이번 대회에는 구글·알리바바·아마존·에어비앤비·마이크로소프트·애플 등 세계적 빅테크 기업을 비롯해 3500여명이 참가한다.제주도는 ACM SIGKDD 2026(Conference on Knowledge Discovery and Data Mining)이 9일부터 13일까지 제주국제컨벤션센터(ICC 제주)에서 열린다고 밝혔다.이 행사는 1947년 설립된 세계 최초의 컴퓨터과학 학술단체인 ACM(Association for Computing Machiner"
+        },
+        {
+          "title": "Meta launches Muse Code, an AI agent for large code bases",
+          "link": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+          "date": "2026-08-05",
+          "source": "TechCrunch",
+          "description": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2235448056.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Meta launches Muse Code, an AI agent for large code bases",
+          "original_summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+          "summary": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software."
+        },
+        {
+          "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+          "link": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
+          "date": "2026-08-05",
+          "source": "TechCrunch",
+          "description": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/Screenshot-2026-08-05-at-8.53.41-PM.png?resize=1200,868",
+          "is_english": true,
+          "original_title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+          "original_summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
+          "summary": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents."
+        },
+        {
+          "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+          "link": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup/",
+          "date": "2026-08-05",
+          "source": "TechCrunch",
+          "description": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1197130647.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+          "original_summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery. ",
+          "summary": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery. "
+        },
         {
           "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
           "link": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
