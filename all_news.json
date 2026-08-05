@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-08-05",
-      "update_time": "2026-08-05 11:11:58",
+      "update_time": "2026-08-05 13:42:18",
       "news": [
+        {
+          "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+          "link": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store/",
+          "date": "2026-08-05",
+          "source": "TechCrunch",
+          "description": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/MacPaw-x-Liquid-AI.png?resize=1200,675",
+          "is_english": true,
+          "original_title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+          "original_summary": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.",
+          "summary": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models."
+        },
         {
           "title": "화웨이 최고 과학자 \"엔비디아도 칩 제조 물리적 한계 봉착할 것\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=213568",
@@ -637,19 +649,6 @@
           "category": "AI Model"
         },
         {
-          "title": "ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
-          "link": "https://huggingface.co/ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
-          "date": "2026-08-05",
-          "source": "HuggingFace",
-          "description": "• Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "LiquidAI/LFM2.5-2.6B",
           "link": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
           "date": "2026-08-05",
@@ -659,6 +658,19 @@
           "is_english": true,
           "summary": "• LFM2.5-2.6B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "LiquidAI/LFM2.5-2.6B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
+          "link": "https://huggingface.co/ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
+          "date": "2026-08-05",
+          "source": "HuggingFace",
+          "description": "• Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -702,19 +714,6 @@
           "category": "AI Model"
         },
         {
-          "title": "zai-org/GLM-5.2",
-          "link": "https://huggingface.co/zai-org/GLM-5.2",
-          "date": "2026-08-05",
-          "source": "HuggingFace",
-          "description": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
-          "is_english": true,
-          "summary": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "zai-org/GLM-5.2",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "microsoft/Mage-VL",
           "link": "https://huggingface.co/microsoft/Mage-VL",
           "date": "2026-08-05",
@@ -737,6 +736,19 @@
           "is_english": true,
           "summary": "• KAT-Coder-V2.5-Dev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Kwaipilot/KAT-Coder-V2.5-Dev",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "zai-org/GLM-5.2",
+          "link": "https://huggingface.co/zai-org/GLM-5.2",
+          "date": "2026-08-05",
+          "source": "HuggingFace",
+          "description": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
+          "is_english": true,
+          "summary": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "zai-org/GLM-5.2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -780,15 +792,15 @@
           "category": "AI Model"
         },
         {
-          "title": "XYZAILab/XYZ-Aquila-pro",
-          "link": "https://huggingface.co/XYZAILab/XYZ-Aquila-pro",
+          "title": "inclusionAI/Ling-3.0-flash",
+          "link": "https://huggingface.co/inclusionAI/Ling-3.0-flash",
           "date": "2026-08-05",
           "source": "HuggingFace",
-          "description": "• XYZ-Aquila-pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/XYZAILab/XYZ-Aquila-pro/resolve/main/./assets/xyz-ai-lab-slogan.svg",
+          "description": "• Ling-3.0-flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://intranetproxy.alipay.com/skylark/lark/0/2026/png/23157180/1785831264180-d6ca4404-acef-4424-84db-fbc5a4c6db5f.png",
           "is_english": true,
-          "summary": "• XYZ-Aquila-pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "XYZAILab/XYZ-Aquila-pro",
+          "summary": "• Ling-3.0-flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "inclusionAI/Ling-3.0-flash",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
