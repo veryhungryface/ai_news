@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-08-06",
-      "update_time": "2026-08-05 16:27:01",
+      "update_time": "2026-08-05 19:13:45",
       "news": [
         {
           "title": "Anthropic, OpenAI Agents Faked Identities in Security Test",
@@ -172,6 +172,45 @@
           "category": "AI Model"
         },
         {
+          "title": "zai-org/GLM-5.2",
+          "link": "https://huggingface.co/zai-org/GLM-5.2",
+          "date": "2026-08-06",
+          "source": "HuggingFace",
+          "description": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
+          "is_english": true,
+          "summary": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "zai-org/GLM-5.2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "lodestones/Kroma",
+          "link": "https://huggingface.co/lodestones/Kroma",
+          "date": "2026-08-06",
+          "source": "HuggingFace",
+          "description": "• Kroma 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Kroma 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "lodestones/Kroma",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "XYZAILab/XYZ-Aquila-mini",
+          "link": "https://huggingface.co/XYZAILab/XYZ-Aquila-mini",
+          "date": "2026-08-06",
+          "source": "HuggingFace",
+          "description": "• XYZ-Aquila-mini 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/XYZAILab/XYZ-Aquila-mini/resolve/main/./assets/xyz-ai-lab-slogan.svg",
+          "is_english": true,
+          "summary": "• XYZ-Aquila-mini 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "XYZAILab/XYZ-Aquila-mini",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "EschaLabs/Qwen3.6-35B-A3B-Escha-W2",
           "link": "https://huggingface.co/EschaLabs/Qwen3.6-35B-A3B-Escha-W2",
           "date": "2026-08-06",
@@ -185,15 +224,15 @@
           "category": "AI Model"
         },
         {
-          "title": "zai-org/GLM-5.2",
-          "link": "https://huggingface.co/zai-org/GLM-5.2",
+          "title": "Kwaipilot/KAT-Coder-V2.5-Dev",
+          "link": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev",
           "date": "2026-08-06",
           "source": "HuggingFace",
-          "description": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
+          "description": "• KAT-Coder-V2.5-Dev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev/resolve/main/kat_logo_hd.png",
           "is_english": true,
-          "summary": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "zai-org/GLM-5.2",
+          "summary": "• KAT-Coder-V2.5-Dev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Kwaipilot/KAT-Coder-V2.5-Dev",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -220,45 +259,6 @@
           "is_english": true,
           "summary": "• Kimi-K3-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/Kimi-K3-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "lodestones/Kroma",
-          "link": "https://huggingface.co/lodestones/Kroma",
-          "date": "2026-08-06",
-          "source": "HuggingFace",
-          "description": "• Kroma 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Kroma 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "lodestones/Kroma",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "Kwaipilot/KAT-Coder-V2.5-Dev",
-          "link": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev",
-          "date": "2026-08-06",
-          "source": "HuggingFace",
-          "description": "• KAT-Coder-V2.5-Dev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev/resolve/main/kat_logo_hd.png",
-          "is_english": true,
-          "summary": "• KAT-Coder-V2.5-Dev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Kwaipilot/KAT-Coder-V2.5-Dev",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "XYZAILab/XYZ-Aquila-mini",
-          "link": "https://huggingface.co/XYZAILab/XYZ-Aquila-mini",
-          "date": "2026-08-06",
-          "source": "HuggingFace",
-          "description": "• XYZ-Aquila-mini 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/XYZAILab/XYZ-Aquila-mini/resolve/main/./assets/xyz-ai-lab-slogan.svg",
-          "is_english": true,
-          "summary": "• XYZ-Aquila-mini 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "XYZAILab/XYZ-Aquila-mini",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -7911,7 +7911,7 @@
         {
           "title": "baidu/Unlimited-OCR",
           "link": "https://huggingface.co/baidu/Unlimited-OCR",
-          "date": "2026-07-28",
+          "date": "2026-08-06",
           "source": "HuggingFace",
           "description": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/baidu/Unlimited-OCR/resolve/main/assets/baidu.png",
@@ -7924,7 +7924,7 @@
         {
           "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
           "link": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-          "date": "2026-07-28",
+          "date": "2026-08-06",
           "source": "HuggingFace",
           "description": "• Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF/resolve/main/valhalla.webp",
@@ -7976,7 +7976,7 @@
         {
           "title": "zai-org/GLM-5.2",
           "link": "https://huggingface.co/zai-org/GLM-5.2",
-          "date": "2026-07-28",
+          "date": "2026-08-06",
           "source": "HuggingFace",
           "description": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
@@ -7989,7 +7989,7 @@
         {
           "title": "Kwaipilot/KAT-Coder-V2.5-Dev",
           "link": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev",
-          "date": "2026-07-28",
+          "date": "2026-08-06",
           "source": "HuggingFace",
           "description": "• KAT-Coder-V2.5-Dev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev/resolve/main/kat_logo_hd.png",
