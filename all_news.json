@@ -2,8 +2,68 @@
   "dates": [
     {
       "date": "2026-08-07",
-      "update_time": "2026-08-07 04:48:43",
+      "update_time": "2026-08-07 07:00:03",
       "news": [
+        {
+          "title": "문샷 AI '키미 K3', 보안 테스트 중 샌드박스 탈출…\"오픈소스 첫 사례\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213667",
+          "date": "2026-08-07",
+          "source": "AI타임스",
+          "description": "오픈AI와 앤트로픽, 메타에 이어 이번에는 문샷 AI의 \\'키미 K3\\'가 사이버보안 평가 과정에서 격리된 시뮬레이션 환경(샌드박스)을 벗어나 외부 인터넷에 접속한 사실이 확인됐다. 특히 이번은 오픈소스 모델이라는 점에서 주목된다.미국 사이버 보안 스타트업 프론티어 시큐리티는 키미 K3의 사이버 보안 방어 능력을 검증하던 중 모델이 격리망을 무단 이탈해 평가 문제 해결에 필요한 답안을 외부 인터넷에서 직접 찾아낸 정황을 감지했다고 밝혔다. 프론티어 시큐리티는 영국 AI 안전 연구소(UK AISI)가 오픈소스로 공개한 평가 프레임워크(I",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213667_217192_2443.jpg",
+          "is_english": false,
+          "original_title": "문샷 AI '키미 K3', 보안 테스트 중 샌드박스 탈출…\"오픈소스 첫 사례\"",
+          "original_summary": "오픈AI와 앤트로픽, 메타에 이어 이번에는 문샷 AI의 \\'키미 K3\\'가 사이버보안 평가 과정에서 격리된 시뮬레이션 환경(샌드박스)을 벗어나 외부 인터넷에 접속한 사실이 확인됐다. 특히 이번은 오픈소스 모델이라는 점에서 주목된다.미국 사이버 보안 스타트업 프론티어 시큐리티는 키미 K3의 사이버 보안 방어 능력을 검증하던 중 모델이 격리망을 무단 이탈해 평가 문제 해결에 필요한 답안을 외부 인터넷에서 직접 찾아낸 정황을 감지했다고 밝혔다. 프론티어 시큐리티는 영국 AI 안전 연구소(UK AISI)가 오픈소스로 공개한 평가 프레임워크",
+          "summary": "오픈AI와 앤트로픽, 메타에 이어 이번에는 문샷 AI의 \\'키미 K3\\'가 사이버보안 평가 과정에서 격리된 시뮬레이션 환경(샌드박스)을 벗어나 외부 인터넷에 접속한 사실이 확인됐다. 특히 이번은 오픈소스 모델이라는 점에서 주목된다.미국 사이버 보안 스타트업 프론티어 시큐리티는 키미 K3의 사이버 보안 방어 능력을 검증하던 중 모델이 격리망을 무단 이탈해 평가 문제 해결에 필요한 답안을 외부 인터넷에서 직접 찾아낸 정황을 감지했다고 밝혔다. 프론티어 시큐리티는 영국 AI 안전 연구소(UK AISI)가 오픈소스로 공개한 평가 프레임워크"
+        },
+        {
+          "title": "모빌린트, USB형 AI 가속기 'MLD-R1' 출시...온디바이스 시장 공략",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213661",
+          "date": "2026-08-07",
+          "source": "AI타임스",
+          "description": "모빌린트(대표 신동주)는 USB 형태 AI 가속기 \\'MLD-R1\\'을 출시하며 온디바이스 AI 시장 공략에 나선다고 7일 밝혔다.MLD-R1은 모빌린트의 독립형 AI 시스템온칩(SoC) \\'레귤러스(REGULUS)\\'를 기반으로 개발됐으며, 지난 6월 \\'컴퓨텍스 2026\\'에서 공개된 이후 상용화 과정을 거쳐 정식 출시됐다.별도의 AI 가속기 카드 장착이나 시스템 변경 없이 USB 연결만으로 온디바이스 AI 추론 기능을 추가할 수 있는 것이 특징이다.노트북, 산업용 PC, 임베디드 시스템 등에 연결해 사용할 수 있으며, 윈도우와 리눅스 운",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213661_217187_5334.jpg",
+          "is_english": true,
+          "original_title": "모빌린트, USB형 AI 가속기 'MLD-R1' 출시...온디바이스 시장 공략",
+          "original_summary": "모빌린트(대표 신동주)는 USB 형태 AI 가속기 \\'MLD-R1\\'을 출시하며 온디바이스 AI 시장 공략에 나선다고 7일 밝혔다.MLD-R1은 모빌린트의 독립형 AI 시스템온칩(SoC) \\'레귤러스(REGULUS)\\'를 기반으로 개발됐으며, 지난 6월 \\'컴퓨텍스 2026\\'에서 공개된 이후 상용화 과정을 거쳐 정식 출시됐다.별도의 AI 가속기 카드 장착이나 시스템 변경 없이 USB 연결만으로 온디바이스 AI 추론 기능을 추가할 수 있는 것이 특징이다.노트북, 산업용 PC, 임베디드 시스템 등에 연결해 사용할 수 있으며, 윈도우와",
+          "summary": "모빌린트(대표 신동주)는 USB 형태 AI 가속기 \\'MLD-R1\\'을 출시하며 온디바이스 AI 시장 공략에 나선다고 7일 밝혔다.MLD-R1은 모빌린트의 독립형 AI 시스템온칩(SoC) \\'레귤러스(REGULUS)\\'를 기반으로 개발됐으며, 지난 6월 \\'컴퓨텍스 2026\\'에서 공개된 이후 상용화 과정을 거쳐 정식 출시됐다.별도의 AI 가속기 카드 장착이나 시스템 변경 없이 USB 연결만으로 온디바이스 AI 추론 기능을 추가할 수 있는 것이 특징이다.노트북, 산업용 PC, 임베디드 시스템 등에 연결해 사용할 수 있으며, 윈도우와"
+        },
+        {
+          "title": "스페이스X·테슬라, 텍사스에 24조 규모 반도체 '테라팹' 건설 본격화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213655",
+          "date": "2026-08-07",
+          "source": "AI타임스",
+          "description": "일론 머스크가 이끄는 스페이스X와 테슬라가 미국 텍사스주에 세계 최대 규모의 첨단 반도체 생산단지 \\'테라팹(Terafab)\\' 건설을 공식화했다. 양사는 우선 168억달러(약 24조원)를 투입해 공사를 시작하며, 최종적으로는 테슬라 기가팩토리 본관의 약 10배 규모인 1억 제곱피트(약 929만㎡)에 달하는 초대형 반도체 제조 캠퍼스로 확장할 계획이다.스페이스X와 테슬라는 6일(현지시간) 공동 발표를 통해 텍사스주 그라임스 카운티에 첨단 반도체 제조 시설인 테라팹을 건설한다고 밝혔다.초기 투자 규모는 168억달러로, 앞서 스페이스X가",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213655_217178_2748.png",
+          "is_english": false,
+          "original_title": "스페이스X·테슬라, 텍사스에 24조 규모 반도체 '테라팹' 건설 본격화",
+          "original_summary": "일론 머스크가 이끄는 스페이스X와 테슬라가 미국 텍사스주에 세계 최대 규모의 첨단 반도체 생산단지 \\'테라팹(Terafab)\\' 건설을 공식화했다. 양사는 우선 168억달러(약 24조원)를 투입해 공사를 시작하며, 최종적으로는 테슬라 기가팩토리 본관의 약 10배 규모인 1억 제곱피트(약 929만㎡)에 달하는 초대형 반도체 제조 캠퍼스로 확장할 계획이다.스페이스X와 테슬라는 6일(현지시간) 공동 발표를 통해 텍사스주 그라임스 카운티에 첨단 반도체 제조 시설인 테라팹을 건설한다고 밝혔다.초기 투자 규모는 168억달러로, 앞서 스페이스X",
+          "summary": "일론 머스크가 이끄는 스페이스X와 테슬라가 미국 텍사스주에 세계 최대 규모의 첨단 반도체 생산단지 \\'테라팹(Terafab)\\' 건설을 공식화했다. 양사는 우선 168억달러(약 24조원)를 투입해 공사를 시작하며, 최종적으로는 테슬라 기가팩토리 본관의 약 10배 규모인 1억 제곱피트(약 929만㎡)에 달하는 초대형 반도체 제조 캠퍼스로 확장할 계획이다.스페이스X와 테슬라는 6일(현지시간) 공동 발표를 통해 텍사스주 그라임스 카운티에 첨단 반도체 제조 시설인 테라팹을 건설한다고 밝혔다.초기 투자 규모는 168억달러로, 앞서 스페이스X"
+        },
+        {
+          "title": "베슬AI, 블랙웰 'B200' 1000장 확보...연내 1만장 목표로 'AI 팩토리' 구축 가속",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213659",
+          "date": "2026-08-07",
+          "source": "AI타임스",
+          "description": "베슬AI(대표 안재만)는 SK텔레콤과 협력해 엔비디아 블랙웰(B200) GPU 1000장 이상을 확보했다고 7일 밝혔다.이번에 확보한 B200은 \\'베슬 클라우드\\'를 통해 공급된다. 베슬AI는 현재 다수의 글로벌 데이터센터에서 확보한 A100, H100, B200 등 고성능 GPU를 온디맨드·스팟·예약형으로 서비스를 제공 중이다.해당 자원은 고객에게 공급되는 동시에 베슬 클라우드 서비스 고도화에도 활용된다. 이를 통해 고객별 AI 워크로드에 맞춰 컴퓨팅 자원과 개발·운영 환경, 인프라 체계를 통합 제공하는 \\'AI 팩토리 서비스\\' 구축",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213659_217184_120.png",
+          "is_english": true,
+          "original_title": "베슬AI, 블랙웰 'B200' 1000장 확보...연내 1만장 목표로 'AI 팩토리' 구축 가속",
+          "original_summary": "베슬AI(대표 안재만)는 SK텔레콤과 협력해 엔비디아 블랙웰(B200) GPU 1000장 이상을 확보했다고 7일 밝혔다.이번에 확보한 B200은 \\'베슬 클라우드\\'를 통해 공급된다. 베슬AI는 현재 다수의 글로벌 데이터센터에서 확보한 A100, H100, B200 등 고성능 GPU를 온디맨드·스팟·예약형으로 서비스를 제공 중이다.해당 자원은 고객에게 공급되는 동시에 베슬 클라우드 서비스 고도화에도 활용된다. 이를 통해 고객별 AI 워크로드에 맞춰 컴퓨팅 자원과 개발·운영 환경, 인프라 체계를 통합 제공하는 \\'AI 팩토리 서비스\\",
+          "summary": "베슬AI(대표 안재만)는 SK텔레콤과 협력해 엔비디아 블랙웰(B200) GPU 1000장 이상을 확보했다고 7일 밝혔다.이번에 확보한 B200은 \\'베슬 클라우드\\'를 통해 공급된다. 베슬AI는 현재 다수의 글로벌 데이터센터에서 확보한 A100, H100, B200 등 고성능 GPU를 온디맨드·스팟·예약형으로 서비스를 제공 중이다.해당 자원은 고객에게 공급되는 동시에 베슬 클라우드 서비스 고도화에도 활용된다. 이를 통해 고객별 AI 워크로드에 맞춰 컴퓨팅 자원과 개발·운영 환경, 인프라 체계를 통합 제공하는 \\'AI 팩토리 서비스\\"
+        },
+        {
+          "title": "딥시크, 11조 규모 2차 투자 유치 재개...몸값 105조로 상승",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213651",
+          "date": "2026-08-07",
+          "source": "AI타임스",
+          "description": "딥시크가 80억달러(약 11조원) 규모의 2차 투자 유치 절차를 재개했다. 량원펑 창립자의 투자자 대상 비공개 발언이 외부로 유출되면서 잠정 중단됐던 자금 조달을 다시 시작한 것으로, 기업 가치는 740억달러(약 105조원)로 높아졌다.6일(현지시간) 블룸버그에 따르면, 딥시크는 이번 투자 라운드에서 80억달러를 추가 조달하는 것을 목표로 하고 있다.기업 가치는 약 740억달러로 평가받고 있다. 이는 지난 6월 첫 외부 투자 유치 당시 500억달러(약 70조원)에서 크게 상승한 수준이다.이번 투자 협상은 지난달 량원펑 회장이 투자자",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213651_217173_5139.jpg",
+          "is_english": false,
+          "original_title": "딥시크, 11조 규모 2차 투자 유치 재개...몸값 105조로 상승",
+          "original_summary": "딥시크가 80억달러(약 11조원) 규모의 2차 투자 유치 절차를 재개했다. 량원펑 창립자의 투자자 대상 비공개 발언이 외부로 유출되면서 잠정 중단됐던 자금 조달을 다시 시작한 것으로, 기업 가치는 740억달러(약 105조원)로 높아졌다.6일(현지시간) 블룸버그에 따르면, 딥시크는 이번 투자 라운드에서 80억달러를 추가 조달하는 것을 목표로 하고 있다.기업 가치는 약 740억달러로 평가받고 있다. 이는 지난 6월 첫 외부 투자 유치 당시 500억달러(약 70조원)에서 크게 상승한 수준이다.이번 투자 협상은 지난달 량원펑 회장이 투자자",
+          "summary": "딥시크가 80억달러(약 11조원) 규모의 2차 투자 유치 절차를 재개했다. 량원펑 창립자의 투자자 대상 비공개 발언이 외부로 유출되면서 잠정 중단됐던 자금 조달을 다시 시작한 것으로, 기업 가치는 740억달러(약 105조원)로 높아졌다.6일(현지시간) 블룸버그에 따르면, 딥시크는 이번 투자 라운드에서 80억달러를 추가 조달하는 것을 목표로 하고 있다.기업 가치는 약 740억달러로 평가받고 있다. 이는 지난 6월 첫 외부 투자 유치 당시 500억달러(약 70조원)에서 크게 상승한 수준이다.이번 투자 협상은 지난달 량원펑 회장이 투자자"
+        },
         {
           "title": "소프트뱅크, 오픈AI 담보 14조 대출 확보…'인텔 효과'에 실적 호조",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=213657",
@@ -323,19 +383,6 @@
           "category": "AI Model"
         },
         {
-          "title": "LiquidAI/LFM2.5-2.6B",
-          "link": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
-          "date": "2026-08-07",
-          "source": "HuggingFace",
-          "description": "• LFM2.5-2.6B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/NAfUL2725b6KDUGf1KOd9.png",
-          "is_english": true,
-          "summary": "• LFM2.5-2.6B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "LiquidAI/LFM2.5-2.6B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
           "link": "https://huggingface.co/ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
           "date": "2026-08-07",
@@ -345,6 +392,19 @@
           "is_english": true,
           "summary": "• Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "LiquidAI/LFM2.5-2.6B",
+          "link": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+          "date": "2026-08-07",
+          "source": "HuggingFace",
+          "description": "• LFM2.5-2.6B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/NAfUL2725b6KDUGf1KOd9.png",
+          "is_english": true,
+          "summary": "• LFM2.5-2.6B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "LiquidAI/LFM2.5-2.6B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -388,6 +448,19 @@
           "category": "AI Model"
         },
         {
+          "title": "nvidia/NVIDIA-NemotronLabs-VoiceChat-11B",
+          "link": "https://huggingface.co/nvidia/NVIDIA-NemotronLabs-VoiceChat-11B",
+          "date": "2026-08-07",
+          "source": "HuggingFace",
+          "description": "• NVIDIA-NemotronLabs-VoiceChat-11B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• NVIDIA-NemotronLabs-VoiceChat-11B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/NVIDIA-NemotronLabs-VoiceChat-11B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "inclusionAI/Ling-3.0-flash",
           "link": "https://huggingface.co/inclusionAI/Ling-3.0-flash",
           "date": "2026-08-07",
@@ -410,19 +483,6 @@
           "is_english": true,
           "summary": "• Kroma 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "lodestones/Kroma",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "nvidia/NVIDIA-NemotronLabs-VoiceChat-11B",
-          "link": "https://huggingface.co/nvidia/NVIDIA-NemotronLabs-VoiceChat-11B",
-          "date": "2026-08-07",
-          "source": "HuggingFace",
-          "description": "• NVIDIA-NemotronLabs-VoiceChat-11B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• NVIDIA-NemotronLabs-VoiceChat-11B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/NVIDIA-NemotronLabs-VoiceChat-11B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -466,19 +526,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Kwaipilot/KAT-Coder-V2.5-Dev",
-          "link": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev",
-          "date": "2026-08-07",
-          "source": "HuggingFace",
-          "description": "• KAT-Coder-V2.5-Dev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev/resolve/main/kat_logo_hd.png",
-          "is_english": true,
-          "summary": "• KAT-Coder-V2.5-Dev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Kwaipilot/KAT-Coder-V2.5-Dev",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "realrebelai/MiniMax-H3_GGUFs",
           "link": "https://huggingface.co/realrebelai/MiniMax-H3_GGUFs",
           "date": "2026-08-07",
@@ -492,15 +539,28 @@
           "category": "AI Model"
         },
         {
-          "title": "Audio8/Audio8-TTS-Preview-0.6b",
-          "link": "https://huggingface.co/Audio8/Audio8-TTS-Preview-0.6b",
+          "title": "Kwaipilot/KAT-Coder-V2.5-Dev",
+          "link": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev",
           "date": "2026-08-07",
           "source": "HuggingFace",
-          "description": "• Audio8-TTS-Preview-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/GitHub-Audio8__TTS-black?style=for-the-badge&logo=github",
+          "description": "• KAT-Coder-V2.5-Dev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev/resolve/main/kat_logo_hd.png",
           "is_english": true,
-          "summary": "• Audio8-TTS-Preview-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Audio8/Audio8-TTS-Preview-0.6b",
+          "summary": "• KAT-Coder-V2.5-Dev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Kwaipilot/KAT-Coder-V2.5-Dev",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
+          "link": "https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
+          "date": "2026-08-07",
+          "source": "HuggingFace",
+          "description": "• MiniMax-H3-Turbo-Lora-ComfyUI 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/63473b59e5c0717e6737b872/zfVV_yKP-njnOrGinGy8K.png",
+          "is_english": true,
+          "summary": "• MiniMax-H3-Turbo-Lora-ComfyUI 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
