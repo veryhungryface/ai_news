@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-08-07",
-      "update_time": "2026-08-07 09:51:47",
+      "update_time": "2026-08-07 12:39:41",
       "news": [
+        {
+          "title": "엔비디아, '루빈 울트라' 메모리 사양 축소 검토...HBM4E 수급 난항 여파",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213662",
+          "date": "2026-08-07",
+          "source": "AI타임스",
+          "description": "엔비디아가 차세대 AI GPU \\'루빈 울트라(Rubin Ultra)\\'에 탑재할 고대역폭메모리(HBM) 사양을 대폭 낮추는 방안을 검토 중인 것으로 알려졌다. 차세대 HBM4E 공급 부족이 예상보다 심각해지면서 당초 계획했던 1테라바이트(TB) 메모리 구성을 유지하기 어려워졌기 때문이다.6일(현지시간) 디 인포메이션에 따르면, 엔비디아는 최근 몇 주 동안 메모리 구성을 변경한 루빈 울트라 프로토타입 최소 3종을 시험하고 있다. 일부 시제품은 기존에 공개했던 사양보다 메모리 용량이 크게 줄어든 것으로 전해졌다.엔비디아는 지난해 \\'GTC",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213662_217188_610.jpg",
+          "is_english": false,
+          "original_title": "엔비디아, '루빈 울트라' 메모리 사양 축소 검토...HBM4E 수급 난항 여파",
+          "original_summary": "엔비디아가 차세대 AI GPU \\'루빈 울트라(Rubin Ultra)\\'에 탑재할 고대역폭메모리(HBM) 사양을 대폭 낮추는 방안을 검토 중인 것으로 알려졌다. 차세대 HBM4E 공급 부족이 예상보다 심각해지면서 당초 계획했던 1테라바이트(TB) 메모리 구성을 유지하기 어려워졌기 때문이다.6일(현지시간) 디 인포메이션에 따르면, 엔비디아는 최근 몇 주 동안 메모리 구성을 변경한 루빈 울트라 프로토타입 최소 3종을 시험하고 있다. 일부 시제품은 기존에 공개했던 사양보다 메모리 용량이 크게 줄어든 것으로 전해졌다.엔비디아는 지난해 \\'",
+          "summary": "엔비디아가 차세대 AI GPU \\'루빈 울트라(Rubin Ultra)\\'에 탑재할 고대역폭메모리(HBM) 사양을 대폭 낮추는 방안을 검토 중인 것으로 알려졌다. 차세대 HBM4E 공급 부족이 예상보다 심각해지면서 당초 계획했던 1테라바이트(TB) 메모리 구성을 유지하기 어려워졌기 때문이다.6일(현지시간) 디 인포메이션에 따르면, 엔비디아는 최근 몇 주 동안 메모리 구성을 변경한 루빈 울트라 프로토타입 최소 3종을 시험하고 있다. 일부 시제품은 기존에 공개했던 사양보다 메모리 용량이 크게 줄어든 것으로 전해졌다.엔비디아는 지난해 \\'"
+        },
+        {
+          "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+          "link": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
+          "date": "2026-08-07",
+          "source": "TechCrunch",
+          "description": "Meta's total fine has raked up to $942 million in this case",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/zuckerberg-LA-trial-2026-GettyImages-2261841364.jpg?w=1024",
+          "is_english": true,
+          "original_title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+          "original_summary": "Meta's total fine has raked up to $942 million in this case",
+          "summary": "Meta's total fine has raked up to $942 million in this case"
+        },
         {
           "title": "\"큐원3.8-맥스, 벤치마크 비해 경쟁력 없어\"...AI 모델의 '숨은 비용' 함정",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=213665",
@@ -750,19 +774,6 @@
           "category": "AI Model"
         },
         {
-          "title": "lodestones/Kroma",
-          "link": "https://huggingface.co/lodestones/Kroma",
-          "date": "2026-08-07",
-          "source": "HuggingFace",
-          "description": "• Kroma 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Kroma 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "lodestones/Kroma",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "mistralai/Shieldstral-1.0-3B",
           "link": "https://huggingface.co/mistralai/Shieldstral-1.0-3B",
           "date": "2026-08-07",
@@ -772,6 +783,19 @@
           "is_english": true,
           "summary": "• Shieldstral-1.0-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "mistralai/Shieldstral-1.0-3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "lodestones/Kroma",
+          "link": "https://huggingface.co/lodestones/Kroma",
+          "date": "2026-08-07",
+          "source": "HuggingFace",
+          "description": "• Kroma 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Kroma 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "lodestones/Kroma",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -789,19 +813,6 @@
           "category": "AI Model"
         },
         {
-          "title": "zai-org/GLM-5.2",
-          "link": "https://huggingface.co/zai-org/GLM-5.2",
-          "date": "2026-08-07",
-          "source": "HuggingFace",
-          "description": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
-          "is_english": true,
-          "summary": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "zai-org/GLM-5.2",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "realrebelai/MiniMax-H3_GGUFs",
           "link": "https://huggingface.co/realrebelai/MiniMax-H3_GGUFs",
           "date": "2026-08-07",
@@ -815,15 +826,15 @@
           "category": "AI Model"
         },
         {
-          "title": "thinkingmachines/Inkling-Small",
-          "link": "https://huggingface.co/thinkingmachines/Inkling-Small",
+          "title": "zai-org/GLM-5.2",
+          "link": "https://huggingface.co/zai-org/GLM-5.2",
           "date": "2026-08-07",
           "source": "HuggingFace",
-          "description": "• Inkling-Small 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/630e8f0bf6f6d700f50ebd2e/AvmDwmrWRMnKjOWvmLieg.png",
+          "description": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
           "is_english": true,
-          "summary": "• Inkling-Small 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "thinkingmachines/Inkling-Small",
+          "summary": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "zai-org/GLM-5.2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -837,6 +848,19 @@
           "is_english": true,
           "summary": "• KAT-Coder-V2.5-Dev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Kwaipilot/KAT-Coder-V2.5-Dev",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "microsoft/Mage-VL",
+          "link": "https://huggingface.co/microsoft/Mage-VL",
+          "date": "2026-08-07",
+          "source": "HuggingFace",
+          "description": "• Mage-VL 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%8C%90-Project%20Page-blue",
+          "is_english": true,
+          "summary": "• Mage-VL 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "microsoft/Mage-VL",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -6672,7 +6696,7 @@
         {
           "title": "microsoft/Mage-VL",
           "link": "https://huggingface.co/microsoft/Mage-VL",
-          "date": "2026-08-06",
+          "date": "2026-08-07",
           "source": "HuggingFace",
           "description": "• Mage-VL 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%8C%90-Project%20Page-blue",
