@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-08-08",
-      "update_time": "2026-08-07 18:39:26",
+      "update_time": "2026-08-07 21:29:07",
       "news": [
         {
           "title": "Responding to the next frontier of critical cyber capabilities",
@@ -210,19 +210,6 @@
           "category": "AI Model"
         },
         {
-          "title": "drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
-          "link": "https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
-          "date": "2026-08-08",
-          "source": "HuggingFace",
-          "description": "• MiniMax-H3-Turbo-Lora-ComfyUI 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/63473b59e5c0717e6737b872/zfVV_yKP-njnOrGinGy8K.png",
-          "is_english": true,
-          "summary": "• MiniMax-H3-Turbo-Lora-ComfyUI 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "mistralai/Shieldstral-1.0-3B",
           "link": "https://huggingface.co/mistralai/Shieldstral-1.0-3B",
           "date": "2026-08-08",
@@ -232,6 +219,19 @@
           "is_english": true,
           "summary": "• Shieldstral-1.0-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "mistralai/Shieldstral-1.0-3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
+          "link": "https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
+          "date": "2026-08-08",
+          "source": "HuggingFace",
+          "description": "• MiniMax-H3-Turbo-Lora-ComfyUI 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/63473b59e5c0717e6737b872/zfVV_yKP-njnOrGinGy8K.png",
+          "is_english": true,
+          "summary": "• MiniMax-H3-Turbo-Lora-ComfyUI 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -262,15 +262,15 @@
           "category": "AI Model"
         },
         {
-          "title": "lodestones/Kroma",
-          "link": "https://huggingface.co/lodestones/Kroma",
+          "title": "LiquidAI/LFM2.5-2.6B-GGUF",
+          "link": "https://huggingface.co/LiquidAI/LFM2.5-2.6B-GGUF",
           "date": "2026-08-08",
           "source": "HuggingFace",
-          "description": "• Kroma 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "description": "• LFM2.5-2.6B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/2b08LKpev0DNEk6DlnWkY.png",
           "is_english": true,
-          "summary": "• Kroma 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "lodestones/Kroma",
+          "summary": "• LFM2.5-2.6B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "LiquidAI/LFM2.5-2.6B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -288,15 +288,15 @@
           "category": "AI Model"
         },
         {
-          "title": "LiquidAI/LFM2.5-2.6B-GGUF",
-          "link": "https://huggingface.co/LiquidAI/LFM2.5-2.6B-GGUF",
+          "title": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF",
+          "link": "https://huggingface.co/LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF",
           "date": "2026-08-08",
           "source": "HuggingFace",
-          "description": "• LFM2.5-2.6B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/2b08LKpev0DNEk6DlnWkY.png",
+          "description": "• Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF/resolve/main/pelikan_crop.PNG",
           "is_english": true,
-          "summary": "• LFM2.5-2.6B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "LiquidAI/LFM2.5-2.6B-GGUF",
+          "summary": "• Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -3151,7 +3151,7 @@
         {
           "title": "LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF",
           "link": "https://huggingface.co/LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF",
-          "date": "2026-08-06",
+          "date": "2026-08-08",
           "source": "HuggingFace",
           "description": "• Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/LuffyTheFox/Qwen3.6-35B-A3B-Uncensored-Genesis-Hermes-V7-GGUF/resolve/main/pelikan_crop.PNG",
