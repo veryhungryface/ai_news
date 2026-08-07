@@ -2,8 +2,44 @@
   "dates": [
     {
       "date": "2026-08-07",
-      "update_time": "2026-08-06 23:50:33",
+      "update_time": "2026-08-07 02:05:56",
       "news": [
+        {
+          "title": "KTL, 국민소통 자문회의 개최…AI 활용·양방향 소통 방안 논의",
+          "link": "https://www.yna.co.kr/view/AKR20260807057600052",
+          "date": "2026-08-07",
+          "source": "연합뉴스",
+          "description": "(진주=연합뉴스) 이준영 기자 = 한국산업기술시험원(KTL)은 지난 6일 2026년 국민소통 자문회의를 열고 인공지능(AI) 기반 콘텐츠 확대와...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/08/07/AKR20260807057600052_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "KTL, 국민소통 자문회의 개최…AI 활용·양방향 소통 방안 논의",
+          "original_summary": "(진주=연합뉴스) 이준영 기자 = 한국산업기술시험원(KTL)은 지난 6일 2026년 국민소통 자문회의를 열고 인공지능(AI) 기반 콘텐츠 확대와...",
+          "summary": "(진주=연합뉴스) 이준영 기자 = 한국산업기술시험원(KTL)은 지난 6일 2026년 국민소통 자문회의를 열고 인공지능(AI) 기반 콘텐츠 확대와..."
+        },
+        {
+          "title": "백엔드만의 영역이 아닌 프론트엔드 관찰가능성의 가치",
+          "link": "https://www.itworld.co.kr/article/4205485/%eb%b0%b1%ec%97%94%eb%93%9c%eb%a7%8c%ec%9d%98-%ec%98%81%ec%97%ad%ec%9d%b4-%ec%95%84%eb%8b%8c-%ed%94%84%eb%a1%a0%ed%8a%b8%ec%97%94%eb%93%9c-%ea%b4%80%ec%b0%b0%ea%b0%80%eb%8a%a5%ec%84%b1%ec%9d%98.html",
+          "date": "2026-08-07",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n필자는 오랫동안 관찰가능성을 주로 백엔드, 플랫폼 또는 사이트 신뢰성 엔지니어링 팀의 영역이라고 생각했다. 프론트엔드 엔지니어는 인터페이스를 구축하고 브라우저 동작을 처리하고 API를 호출했다. 그보다 더 깊은 시스템의 어딘가에서 무엇이 실패할 때 서버 로그와 인프라 대시보드를 살펴보는 것은 다른 팀의 몫이었다.\n\n\n\n그러나 애플리케이션이 기술적으로는 가용함에도 정작 사용자는 애플리케이션을 사용할 수 없는 상황이 될 때 이와 같은 역할 분담은 더 이상 통하지 않는다.\n\n\n\n페이지가 로드되지만 그 페이지의 가장 중요한 데이터가 몇 초 늦게 도착할 수 있고, 요청이 성공할 때까지 여러 번 재시도되는 동안 사용자는 로딩 중임을 알리는 아이콘만 바라보게 될 수도 있다. 페이지의 나머지 부분은 계속 작동하는 사이 클라우드 서비스 하나의 속도가 느려지는 경우도 있다. 인프라 관점에서는 이런 어떤 상황도 서비스 중단에 해당되지 않겠지만, 사용자 관점에서 ",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/08/4205485-0-83130300-1786068056-shutterstock_644476186-100935486-orig.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "백엔드만의 영역이 아닌 프론트엔드 관찰가능성의 가치",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n필자는 오랫동안 관찰가능성을 주로 백엔드, 플랫폼 또는 사이트 신뢰성 엔지니어링 팀의 영역이라고 생각했다. 프론트엔드 엔지니어는 인터페이스를 구축하고 브라우저 동작을 처리하고 API를 호출했다. 그보다 더 깊은 시스템의 어딘가에서 무엇이 실패할 때 서버 로그와 인프라 대시보드를 살펴보는 것은 다른 팀의 몫이었다.\n\n\n\n그러나 애플리케이션이 기술적으로는 가용함에도 정작 사용자는 애플리케이션을 사용할 수 없는 상황이 될 때 이와 같은 역할 분담은 더 이상 통하지 않는다.\n\n\n\n페이지가 로드되지만",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n필자는 오랫동안 관찰가능성을 주로 백엔드, 플랫폼 또는 사이트 신뢰성 엔지니어링 팀의 영역이라고 생각했다. 프론트엔드 엔지니어는 인터페이스를 구축하고 브라우저 동작을 처리하고 API를 호출했다. 그보다 더 깊은 시스템의 어딘가에서 무엇이 실패할 때 서버 로그와 인프라 대시보드를 살펴보는 것은 다른 팀의 몫이었다.\n\n\n\n그러나 애플리케이션이 기술적으로는 가용함에도 정작 사용자는 애플리케이션을 사용할 수 없는 상황이 될 때 이와 같은 역할 분담은 더 이상 통하지 않는다.\n\n\n\n페이지가 로드되지만"
+        },
+        {
+          "title": "아무도 감시하지 않는 AI 에이전트의 보안 위기",
+          "link": "https://www.itworld.co.kr/article/4205492/%ec%95%84%eb%ac%b4%eb%8f%84-%ea%b0%90%ec%8b%9c%ed%95%98%ec%a7%80-%ec%95%8a%eb%8a%94-ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%9d%98-%eb%b3%b4%ec%95%88-%ec%9c%84%ea%b8%b0.html",
+          "date": "2026-08-07",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n기업 AI의 현실, 즉 AI가 마침내 프로덕션 시스템에 도달하는 상황에 대해 많은 이야기가 오가고 있다. 아직 인식하지 못하는 사람도 있지만 이 현실(또는 악몽)은 이미 진행되는 중이다.\n\n\n\n모두 시작은 “파일럿”, “프로토타입”, 또는 “사이드 프로젝트”다. 누군가 에이전트로 내부 대시보드를 구축한다. 이 대시보드가 빠르게 필수적인 도구로 퍼지면서 실험이었던 것이 갑자기 프로덕션이 된다. 이 과정에서 누구도 재미없고 불편한 질문, “npm, PyPI, 또는 도커 허브에서 정확히 무엇을 가져왔는가? 인증은 어떻게 구성되는가(또는 구성돼 있었는가)? 에이전트가 선택하는 툴과 라이브러리를 대상으로 한 공급망 공격을 감시하는 사람이 있는가?”를 묻지 않는다.\n\n\n\n게다가 일회성 프로젝트나 한두 개의 애플리케이션에 그치는 사안이 아니다. AI는 기업이 전보다 더 많은 코드를 생성하고 더 많은 제품과 프로젝트를 더 빠르게 출시할 수 있게 해준다. 보",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/08/4205492-0-23724600-1786065748-fighter_hacker_skull-and-crossbone_skeleton_scary_mask_sebastiaan-stam-573834-unsplash-100759449-orig.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "아무도 감시하지 않는 AI 에이전트의 보안 위기",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n기업 AI의 현실, 즉 AI가 마침내 프로덕션 시스템에 도달하는 상황에 대해 많은 이야기가 오가고 있다. 아직 인식하지 못하는 사람도 있지만 이 현실(또는 악몽)은 이미 진행되는 중이다.\n\n\n\n모두 시작은 “파일럿”, “프로토타입”, 또는 “사이드 프로젝트”다. 누군가 에이전트로 내부 대시보드를 구축한다. 이 대시보드가 빠르게 필수적인 도구로 퍼지면서 실험이었던 것이 갑자기 프로덕션이 된다. 이 과정에서 누구도 재미없고 불편한 질문, “npm, PyPI, 또는 도커 허브에서 정확히 무엇을 가",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n기업 AI의 현실, 즉 AI가 마침내 프로덕션 시스템에 도달하는 상황에 대해 많은 이야기가 오가고 있다. 아직 인식하지 못하는 사람도 있지만 이 현실(또는 악몽)은 이미 진행되는 중이다.\n\n\n\n모두 시작은 “파일럿”, “프로토타입”, 또는 “사이드 프로젝트”다. 누군가 에이전트로 내부 대시보드를 구축한다. 이 대시보드가 빠르게 필수적인 도구로 퍼지면서 실험이었던 것이 갑자기 프로덕션이 된다. 이 과정에서 누구도 재미없고 불편한 질문, “npm, PyPI, 또는 도커 허브에서 정확히 무엇을 가"
+        },
         {
           "title": "[8월6일] \"AI의 미래는 셋으로 갈리지만\"...모건스탠리가 지목한 공통 승자는",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=213601",
@@ -155,19 +191,6 @@
           "category": "AI Model"
         },
         {
-          "title": "ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
-          "link": "https://huggingface.co/ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
-          "date": "2026-08-07",
-          "source": "HuggingFace",
-          "description": "• Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "LiquidAI/LFM2.5-2.6B",
           "link": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
           "date": "2026-08-07",
@@ -177,6 +200,19 @@
           "is_english": true,
           "summary": "• LFM2.5-2.6B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "LiquidAI/LFM2.5-2.6B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
+          "link": "https://huggingface.co/ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
+          "date": "2026-08-07",
+          "source": "HuggingFace",
+          "description": "• Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -207,19 +243,6 @@
           "category": "AI Model"
         },
         {
-          "title": "thinkingmachines/Inkling-Small",
-          "link": "https://huggingface.co/thinkingmachines/Inkling-Small",
-          "date": "2026-08-07",
-          "source": "HuggingFace",
-          "description": "• Inkling-Small 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/630e8f0bf6f6d700f50ebd2e/AvmDwmrWRMnKjOWvmLieg.png",
-          "is_english": true,
-          "summary": "• Inkling-Small 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "thinkingmachines/Inkling-Small",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "deepgrove/maple-preview",
           "link": "https://huggingface.co/deepgrove/maple-preview",
           "date": "2026-08-07",
@@ -229,6 +252,19 @@
           "is_english": true,
           "summary": "• maple-preview 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "deepgrove/maple-preview",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "thinkingmachines/Inkling-Small",
+          "link": "https://huggingface.co/thinkingmachines/Inkling-Small",
+          "date": "2026-08-07",
+          "source": "HuggingFace",
+          "description": "• Inkling-Small 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/630e8f0bf6f6d700f50ebd2e/AvmDwmrWRMnKjOWvmLieg.png",
+          "is_english": true,
+          "summary": "• Inkling-Small 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "thinkingmachines/Inkling-Small",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -8017,7 +8053,7 @@
         {
           "title": "moonshotai/Kimi-K3",
           "link": "https://huggingface.co/moonshotai/Kimi-K3",
-          "date": "2026-07-29",
+          "date": "2026-08-07",
           "source": "HuggingFace",
           "description": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/moonshotai/Kimi-K3/resolve/main/assets/kimi-logo.png",
@@ -8030,7 +8066,7 @@
         {
           "title": "baidu/Unlimited-OCR",
           "link": "https://huggingface.co/baidu/Unlimited-OCR",
-          "date": "2026-07-29",
+          "date": "2026-08-07",
           "source": "HuggingFace",
           "description": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/baidu/Unlimited-OCR/resolve/main/assets/baidu.png",
@@ -8043,7 +8079,7 @@
         {
           "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
           "link": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-          "date": "2026-07-29",
+          "date": "2026-08-07",
           "source": "HuggingFace",
           "description": "• Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF/resolve/main/valhalla.webp",
@@ -8095,7 +8131,7 @@
         {
           "title": "Kwaipilot/KAT-Coder-V2.5-Dev",
           "link": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev",
-          "date": "2026-07-29",
+          "date": "2026-08-07",
           "source": "HuggingFace",
           "description": "• KAT-Coder-V2.5-Dev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev/resolve/main/kat_logo_hd.png",
@@ -8121,7 +8157,7 @@
         {
           "title": "zai-org/GLM-5.2",
           "link": "https://huggingface.co/zai-org/GLM-5.2",
-          "date": "2026-07-29",
+          "date": "2026-08-07",
           "source": "HuggingFace",
           "description": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_52.png",
