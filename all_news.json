@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-08-08",
-      "update_time": "2026-08-08 04:05:35",
+      "update_time": "2026-08-08 06:34:56",
       "news": [
+        {
+          "title": "메타, 뉴멕시코주 청소년 정신 건강 기금에 8000억 배상 명령받아",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213707",
+          "date": "2026-08-08",
+          "source": "AI타임스",
+          "description": "메타가 페이스북과 인스타그램이 뉴멕시코 청소년의 정신건강을 해치고 성적 착취 위험에 충분히 대응하지 않았다는 법원의 판단에 따라 약 5억6700만달러(약 8000억원)을 청소년 정신건강 기금에 내게 됐다. 법원은 금전적 배상뿐 아니라 뉴멕시코주 내 청소년 이용자를 대상으로 페이스북과 인스타그램의 운영 방식도 대폭 변경하도록 명령했다.로이터 등에 따르면 뉴멕시코주 산타페 지방법원의 브라이언 비에드셰이드 판사는 6일(현지시간) 메타가 페이스북과 인스타그램을 청소년의 이용을 중독적으로 유도하는 방식으로 설계하고 플랫폼에서 발생하는 성적",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213707_217243_5253.jpg",
+          "is_english": false,
+          "original_title": "메타, 뉴멕시코주 청소년 정신 건강 기금에 8000억 배상 명령받아",
+          "original_summary": "메타가 페이스북과 인스타그램이 뉴멕시코 청소년의 정신건강을 해치고 성적 착취 위험에 충분히 대응하지 않았다는 법원의 판단에 따라 약 5억6700만달러(약 8000억원)을 청소년 정신건강 기금에 내게 됐다. 법원은 금전적 배상뿐 아니라 뉴멕시코주 내 청소년 이용자를 대상으로 페이스북과 인스타그램의 운영 방식도 대폭 변경하도록 명령했다.로이터 등에 따르면 뉴멕시코주 산타페 지방법원의 브라이언 비에드셰이드 판사는 6일(현지시간) 메타가 페이스북과 인스타그램을 청소년의 이용을 중독적으로 유도하는 방식으로 설계하고 플랫폼에서 발생하는 성적",
+          "summary": "메타가 페이스북과 인스타그램이 뉴멕시코 청소년의 정신건강을 해치고 성적 착취 위험에 충분히 대응하지 않았다는 법원의 판단에 따라 약 5억6700만달러(약 8000억원)을 청소년 정신건강 기금에 내게 됐다. 법원은 금전적 배상뿐 아니라 뉴멕시코주 내 청소년 이용자를 대상으로 페이스북과 인스타그램의 운영 방식도 대폭 변경하도록 명령했다.로이터 등에 따르면 뉴멕시코주 산타페 지방법원의 브라이언 비에드셰이드 판사는 6일(현지시간) 메타가 페이스북과 인스타그램을 청소년의 이용을 중독적으로 유도하는 방식으로 설계하고 플랫폼에서 발생하는 성적"
+        },
         {
           "title": "앤트로픽, 안전 분류기 고도화…'페이블 5' 오탐 답변 거부 85% 줄였다",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=213699",
@@ -490,6 +502,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Kijai/MiniMax-H3_comfy",
+          "link": "https://huggingface.co/Kijai/MiniMax-H3_comfy",
+          "date": "2026-08-08",
+          "source": "HuggingFace",
+          "description": "• MiniMax-H3_comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• MiniMax-H3_comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Kijai/MiniMax-H3_comfy",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "LiquidAI/LFM2.5-2.6B-GGUF",
           "link": "https://huggingface.co/LiquidAI/LFM2.5-2.6B-GGUF",
           "date": "2026-08-08",
@@ -512,19 +537,6 @@
           "is_english": true,
           "summary": "• GLM-5.2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "zai-org/GLM-5.2",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "Kwaipilot/KAT-Coder-V2.5-Dev",
-          "link": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev",
-          "date": "2026-08-08",
-          "source": "HuggingFace",
-          "description": "• KAT-Coder-V2.5-Dev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/Kwaipilot/KAT-Coder-V2.5-Dev/resolve/main/kat_logo_hd.png",
-          "is_english": true,
-          "summary": "• KAT-Coder-V2.5-Dev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Kwaipilot/KAT-Coder-V2.5-Dev",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
