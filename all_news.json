@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-08-09",
-      "update_time": "2026-08-08 15:19:42",
+      "update_time": "2026-08-08 18:21:55",
       "news": [
         {
           "title": "MiniMaxAI/MiniMax-H3",
@@ -239,19 +239,6 @@
           "category": "AI Model"
         },
         {
-          "title": "LiquidAI/LFM2.5-2.6B-GGUF",
-          "link": "https://huggingface.co/LiquidAI/LFM2.5-2.6B-GGUF",
-          "date": "2026-08-09",
-          "source": "HuggingFace",
-          "description": "• LFM2.5-2.6B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/2b08LKpev0DNEk6DlnWkY.png",
-          "is_english": true,
-          "summary": "• LFM2.5-2.6B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "LiquidAI/LFM2.5-2.6B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "SexGod1979/PinkCherry_MiniMax-H3",
           "link": "https://huggingface.co/SexGod1979/PinkCherry_MiniMax-H3",
           "date": "2026-08-09",
@@ -261,6 +248,19 @@
           "is_english": true,
           "summary": "• PinkCherry_MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "SexGod1979/PinkCherry_MiniMax-H3",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "LiquidAI/LFM2.5-2.6B-GGUF",
+          "link": "https://huggingface.co/LiquidAI/LFM2.5-2.6B-GGUF",
+          "date": "2026-08-09",
+          "source": "HuggingFace",
+          "description": "• LFM2.5-2.6B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/2b08LKpev0DNEk6DlnWkY.png",
+          "is_english": true,
+          "summary": "• LFM2.5-2.6B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "LiquidAI/LFM2.5-2.6B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -7453,7 +7453,7 @@
         {
           "title": "moonshotai/Kimi-K3",
           "link": "https://huggingface.co/moonshotai/Kimi-K3",
-          "date": "2026-07-31",
+          "date": "2026-08-09",
           "source": "HuggingFace",
           "description": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/moonshotai/Kimi-K3/resolve/main/assets/kimi-logo.png",
@@ -7466,7 +7466,7 @@
         {
           "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
           "link": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-          "date": "2026-07-31",
+          "date": "2026-08-09",
           "source": "HuggingFace",
           "description": "• Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF/resolve/main/valhalla.webp",
@@ -7479,7 +7479,7 @@
         {
           "title": "baidu/Unlimited-OCR",
           "link": "https://huggingface.co/baidu/Unlimited-OCR",
-          "date": "2026-07-31",
+          "date": "2026-08-09",
           "source": "HuggingFace",
           "description": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/baidu/Unlimited-OCR/resolve/main/assets/baidu.png",
