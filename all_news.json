@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-08-10",
-      "update_time": "2026-08-09 18:24:42",
+      "update_time": "2026-08-09 21:21:57",
       "news": [
+        {
+          "title": "AI시대 공공 정보보안 해법은…서울시 보안 콘퍼런스·워크숍",
+          "link": "https://www.yna.co.kr/view/AKR20260809026400004",
+          "date": "2026-08-10",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 김준태 기자 = 서울시는 11∼12일 강남구 코엑스(COEX)에서 &apos;사이버보안 콘퍼런스·개인정보보호 워크숍&apos;을 개최한다고 10...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/08/09/AKR20260809026400004_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "AI시대 공공 정보보안 해법은…서울시 보안 콘퍼런스·워크숍",
+          "original_summary": "(서울=연합뉴스) 김준태 기자 = 서울시는 11∼12일 강남구 코엑스(COEX)에서 &apos;사이버보안 콘퍼런스·개인정보보호 워크숍&apos;을 개최한다고 10...",
+          "summary": "(서울=연합뉴스) 김준태 기자 = 서울시는 11∼12일 강남구 코엑스(COEX)에서 &apos;사이버보안 콘퍼런스·개인정보보호 워크숍&apos;을 개최한다고 10..."
+        },
         {
           "title": "MiniMaxAI/MiniMax-H3",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
@@ -226,19 +238,6 @@
           "category": "AI Model"
         },
         {
-          "title": "baidu/Unlimited-OCR",
-          "link": "https://huggingface.co/baidu/Unlimited-OCR",
-          "date": "2026-08-10",
-          "source": "HuggingFace",
-          "description": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/baidu/Unlimited-OCR/resolve/main/assets/baidu.png",
-          "is_english": true,
-          "summary": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "baidu/Unlimited-OCR",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "realrebelai/MiniMax-H3_GGUFs",
           "link": "https://huggingface.co/realrebelai/MiniMax-H3_GGUFs",
           "date": "2026-08-10",
@@ -248,6 +247,19 @@
           "is_english": true,
           "summary": "• MiniMax-H3_GGUFs 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "realrebelai/MiniMax-H3_GGUFs",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "baidu/Unlimited-OCR",
+          "link": "https://huggingface.co/baidu/Unlimited-OCR",
+          "date": "2026-08-10",
+          "source": "HuggingFace",
+          "description": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/baidu/Unlimited-OCR/resolve/main/assets/baidu.png",
+          "is_english": true,
+          "summary": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "baidu/Unlimited-OCR",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +280,32 @@
     },
     {
       "date": "2026-08-09",
-      "update_time": "2026-08-09 18:24:42",
+      "update_time": "2026-08-09 21:21:57",
       "news": [
+        {
+          "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+          "link": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
+          "date": "2026-08-09",
+          "source": "TechCrunch",
+          "description": "The AI-focused hedge fund is still making some big bets.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+          "original_summary": "The AI-focused hedge fund is still making some big bets.",
+          "summary": "The AI-focused hedge fund is still making some big bets."
+        },
+        {
+          "title": "Anthropic is turning Claude Code’s auto mode on by default",
+          "link": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+          "date": "2026-08-09",
+          "source": "TechCrunch",
+          "description": "Programming with Claude Code will soon require even less human oversight.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Anthropic is turning Claude Code’s auto mode on by default",
+          "original_summary": "Programming with Claude Code will soon require even less human oversight.",
+          "summary": "Programming with Claude Code will soon require even less human oversight."
+        },
         {
           "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
           "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
