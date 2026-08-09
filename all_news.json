@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-08-10",
-      "update_time": "2026-08-09 15:22:00",
+      "update_time": "2026-08-09 18:24:42",
       "news": [
         {
           "title": "MiniMaxAI/MiniMax-H3",
@@ -70,19 +70,6 @@
           "category": "AI Model"
         },
         {
-          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-          "link": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-          "date": "2026-08-10",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF/resolve/main/valhalla.webp",
-          "is_english": true,
-          "summary": "• Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "LiquidAI/LFM2.5-2.6B",
           "link": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
           "date": "2026-08-10",
@@ -92,6 +79,19 @@
           "is_english": true,
           "summary": "• LFM2.5-2.6B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "LiquidAI/LFM2.5-2.6B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "link": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "date": "2026-08-10",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF/resolve/main/valhalla.webp",
+          "is_english": true,
+          "summary": "• Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -109,19 +109,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
-          "link": "https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF",
-          "date": "2026-08-10",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Flash-0731-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
-          "is_english": true,
-          "summary": "• DeepSeek-V4-Flash-0731-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "deepgrove/maple-preview",
           "link": "https://huggingface.co/deepgrove/maple-preview",
           "date": "2026-08-10",
@@ -131,6 +118,19 @@
           "is_english": true,
           "summary": "• maple-preview 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "deepgrove/maple-preview",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
+          "link": "https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF",
+          "date": "2026-08-10",
+          "source": "HuggingFace",
+          "description": "• DeepSeek-V4-Flash-0731-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "is_english": true,
+          "summary": "• DeepSeek-V4-Flash-0731-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -161,15 +161,15 @@
           "category": "AI Model"
         },
         {
-          "title": "drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
-          "link": "https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
+          "title": "Kijai/MiniMax-H3_comfy",
+          "link": "https://huggingface.co/Kijai/MiniMax-H3_comfy",
           "date": "2026-08-10",
           "source": "HuggingFace",
-          "description": "• MiniMax-H3-Turbo-Lora-ComfyUI 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/63473b59e5c0717e6737b872/zfVV_yKP-njnOrGinGy8K.png",
+          "description": "• MiniMax-H3_comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
           "is_english": true,
-          "summary": "• MiniMax-H3-Turbo-Lora-ComfyUI 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
+          "summary": "• MiniMax-H3_comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Kijai/MiniMax-H3_comfy",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -187,28 +187,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Kijai/MiniMax-H3_comfy",
-          "link": "https://huggingface.co/Kijai/MiniMax-H3_comfy",
+          "title": "drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
+          "link": "https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
           "date": "2026-08-10",
           "source": "HuggingFace",
-          "description": "• MiniMax-H3_comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "description": "• MiniMax-H3-Turbo-Lora-ComfyUI 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/63473b59e5c0717e6737b872/zfVV_yKP-njnOrGinGy8K.png",
           "is_english": true,
-          "summary": "• MiniMax-H3_comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Kijai/MiniMax-H3_comfy",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "mistralai/Shieldstral-1.0-3B",
-          "link": "https://huggingface.co/mistralai/Shieldstral-1.0-3B",
-          "date": "2026-08-10",
-          "source": "HuggingFace",
-          "description": "• Shieldstral-1.0-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Shieldstral-1.0-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "mistralai/Shieldstral-1.0-3B",
+          "summary": "• MiniMax-H3-Turbo-Lora-ComfyUI 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -222,6 +209,19 @@
           "is_english": true,
           "summary": "• PinkCherry_MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "SexGod1979/PinkCherry_MiniMax-H3",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "mistralai/Shieldstral-1.0-3B",
+          "link": "https://huggingface.co/mistralai/Shieldstral-1.0-3B",
+          "date": "2026-08-10",
+          "source": "HuggingFace",
+          "description": "• Shieldstral-1.0-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Shieldstral-1.0-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "mistralai/Shieldstral-1.0-3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +268,20 @@
     },
     {
       "date": "2026-08-09",
-      "update_time": "2026-08-09 15:22:00",
+      "update_time": "2026-08-09 18:24:42",
       "news": [
+        {
+          "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+          "link": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy/",
+          "date": "2026-08-09",
+          "source": "TechCrunch",
+          "description": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-491300440.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+          "original_summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
+          "summary": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader."
+        },
         {
           "title": "The AI safety test is becoming a safety risk",
           "link": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk/",
@@ -7057,7 +7069,7 @@
         {
           "title": "moonshotai/Kimi-K3",
           "link": "https://huggingface.co/moonshotai/Kimi-K3",
-          "date": "2026-08-01",
+          "date": "2026-08-10",
           "source": "HuggingFace",
           "description": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/moonshotai/Kimi-K3/resolve/main/assets/kimi-logo.png",
@@ -7070,7 +7082,7 @@
         {
           "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
-          "date": "2026-08-01",
+          "date": "2026-08-10",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4-Flash-0731 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
@@ -7083,7 +7095,7 @@
         {
           "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
           "link": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-          "date": "2026-08-01",
+          "date": "2026-08-10",
           "source": "HuggingFace",
           "description": "• Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF/resolve/main/valhalla.webp",
@@ -7096,7 +7108,7 @@
         {
           "title": "baidu/Unlimited-OCR",
           "link": "https://huggingface.co/baidu/Unlimited-OCR",
-          "date": "2026-08-01",
+          "date": "2026-08-10",
           "source": "HuggingFace",
           "description": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/baidu/Unlimited-OCR/resolve/main/assets/baidu.png",
