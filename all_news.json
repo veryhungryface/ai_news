@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-08-11",
-      "update_time": "2026-08-10 18:42:10",
+      "update_time": "2026-08-10 21:32:18",
       "news": [
+        {
+          "title": "당뇨환자 응급실행 AI로 미리 예측…질병청, 예측모델 개발",
+          "link": "https://www.yna.co.kr/view/AKR20260810122800530",
+          "date": "2026-08-11",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 김영신 기자 = 질병관리청 국립보건연구원은 국내 2형 당뇨병 환자의 실제 진료 데이터를 활용해 당뇨병 환자의 응급실 방문 위험...",
+          "image": "https://img.yna.co.kr/photo/cms/2016/03/30/01/C0A8CA3D00000153C4DF9880000106E3_P2.jpeg",
+          "is_english": false,
+          "original_title": "당뇨환자 응급실행 AI로 미리 예측…질병청, 예측모델 개발",
+          "original_summary": "(서울=연합뉴스) 김영신 기자 = 질병관리청 국립보건연구원은 국내 2형 당뇨병 환자의 실제 진료 데이터를 활용해 당뇨병 환자의 응급실 방문 위험...",
+          "summary": "(서울=연합뉴스) 김영신 기자 = 질병관리청 국립보건연구원은 국내 2형 당뇨병 환자의 실제 진료 데이터를 활용해 당뇨병 환자의 응급실 방문 위험..."
+        },
+        {
+          "title": "Meta Reverses Course with Open-Weight Muse Glimmer",
+          "link": "https://aibusiness.com/agentic-ai/meta-reverses-course-with-open-weight-muse-glimmer",
+          "date": "2026-08-11",
+          "source": "AI Business",
+          "description": "This shift responds to enterprise demand for tighter data control and local infrastructure systems, in contrast to Meta's recent focus on closed models such as Muse Spark 1.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt1c22b63856a469f9/6a7a3531d0a4173a63d881c5/MetaAI.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Meta Reverses Course with Open-Weight Muse Glimmer",
+          "original_summary": "This shift responds to enterprise demand for tighter data control and local infrastructure systems, in contrast to Meta's recent focus on closed models such as Muse Spark 1.",
+          "summary": "This shift responds to enterprise demand for tighter data control and local infrastructure systems, in contrast to Meta's recent focus on closed models such as Muse Spark 1."
+        },
         {
           "title": "What building an AI-native finance function taught me",
           "link": "https://openai.com/index/building-an-ai-native-finance-function",
@@ -56,19 +80,6 @@
           "category": "AI Model"
         },
         {
-          "title": "larryvrh/MiniMax-H3-Turbo-Lora",
-          "link": "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
-          "date": "2026-08-11",
-          "source": "HuggingFace",
-          "description": "• MiniMax-H3-Turbo-Lora 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• MiniMax-H3-Turbo-Lora 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "larryvrh/MiniMax-H3-Turbo-Lora",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "meta-models/Muse-Glimmer-30B",
           "link": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
           "date": "2026-08-11",
@@ -78,6 +89,19 @@
           "is_english": true,
           "summary": "• Muse-Glimmer-30B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "meta-models/Muse-Glimmer-30B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "larryvrh/MiniMax-H3-Turbo-Lora",
+          "link": "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
+          "date": "2026-08-11",
+          "source": "HuggingFace",
+          "description": "• MiniMax-H3-Turbo-Lora 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• MiniMax-H3-Turbo-Lora 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "larryvrh/MiniMax-H3-Turbo-Lora",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -251,6 +275,19 @@
           "category": "AI Model"
         },
         {
+          "title": "unsloth/Muse-Glimmer-30B-GGUF",
+          "link": "https://huggingface.co/unsloth/Muse-Glimmer-30B-GGUF",
+          "date": "2026-08-11",
+          "source": "HuggingFace",
+          "description": "• Muse-Glimmer-30B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "is_english": true,
+          "summary": "• Muse-Glimmer-30B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Muse-Glimmer-30B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Kijai/MiniMax-H3-experimental",
           "link": "https://huggingface.co/Kijai/MiniMax-H3-experimental",
           "date": "2026-08-11",
@@ -262,26 +299,85 @@
           "translated_title": "Kijai/MiniMax-H3-experimental",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "LiquidAI/LFM2.5-2.6B-GGUF",
-          "link": "https://huggingface.co/LiquidAI/LFM2.5-2.6B-GGUF",
-          "date": "2026-08-11",
-          "source": "HuggingFace",
-          "description": "• LFM2.5-2.6B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/2b08LKpev0DNEk6DlnWkY.png",
-          "is_english": true,
-          "summary": "• LFM2.5-2.6B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "LiquidAI/LFM2.5-2.6B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-08-10",
-      "update_time": "2026-08-10 18:42:10",
+      "update_time": "2026-08-10 21:32:16",
       "news": [
+        {
+          "title": "정부, 5조원 규모 반도체 신규 펀드 조성…메가 클러스터 구축에 속도낸다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213773",
+          "date": "2026-08-10",
+          "source": "AI타임스",
+          "description": "정부가 유망 반도체 소재·부품·장비(소부장) 및 팹리스 기업을 지원하기 위해 5조원 규모의 신규 반도체 펀드를 조성하고 메가 클러스터 구축 가속화에 나선다. 강훈식 대통령비서실장은 10일 청와대에서 주재된 메가프로젝트 제2차 점검회의 결과를 브리핑하며 수출 소부장 기업을 위한 5조원 규모의 상생무역금융 지원과 함께 10년간 1조원이 투입되는 반도체 함께성장 프로젝트를 추진하겠다고 발표했다. 이번 방안은 대기업 위주의 반도체 슈퍼사이클 투자 결실이 산업 생태계 전반으로 확산되도록 소부장 및 중소 팹리스 기업의 경쟁력을 제고하기 위해",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213773_217334_4832.jpg",
+          "is_english": false,
+          "original_title": "정부, 5조원 규모 반도체 신규 펀드 조성…메가 클러스터 구축에 속도낸다",
+          "original_summary": "정부가 유망 반도체 소재·부품·장비(소부장) 및 팹리스 기업을 지원하기 위해 5조원 규모의 신규 반도체 펀드를 조성하고 메가 클러스터 구축 가속화에 나선다. 강훈식 대통령비서실장은 10일 청와대에서 주재된 메가프로젝트 제2차 점검회의 결과를 브리핑하며 수출 소부장 기업을 위한 5조원 규모의 상생무역금융 지원과 함께 10년간 1조원이 투입되는 반도체 함께성장 프로젝트를 추진하겠다고 발표했다. 이번 방안은 대기업 위주의 반도체 슈퍼사이클 투자 결실이 산업 생태계 전반으로 확산되도록 소부장 및 중소 팹리스 기업의 경쟁력을 제고하기 위해",
+          "summary": "정부가 유망 반도체 소재·부품·장비(소부장) 및 팹리스 기업을 지원하기 위해 5조원 규모의 신규 반도체 펀드를 조성하고 메가 클러스터 구축 가속화에 나선다. 강훈식 대통령비서실장은 10일 청와대에서 주재된 메가프로젝트 제2차 점검회의 결과를 브리핑하며 수출 소부장 기업을 위한 5조원 규모의 상생무역금융 지원과 함께 10년간 1조원이 투입되는 반도체 함께성장 프로젝트를 추진하겠다고 발표했다. 이번 방안은 대기업 위주의 반도체 슈퍼사이클 투자 결실이 산업 생태계 전반으로 확산되도록 소부장 및 중소 팹리스 기업의 경쟁력을 제고하기 위해"
+        },
+        {
+          "title": "우주항공청, 17개사와 'K-우주 데이터센터' 구축 방안 논의",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213770",
+          "date": "2026-08-10",
+          "source": "AI타임스",
+          "description": "우주항공청(청장 오태석)은 AI 팹리스 기업 리벨리온 본사서 우주 데이터센터 기술 관련 산업계 관계자들과 \\'제9차 우주항공 SOS 간담회\\'를 개최했다고 10일 밝혔다.이번 간담회는 K-문샷 우주미션의 일환으로, AI·정보통신기술(ICT) 기업 등 비우주기업을 유도해 한국형 우주 데이터센터를 성공적으로 개발하기 위해 마련됐다.특히 우주에서 사용할 AI 반도체, 태양전지 등 핵심 기술을 산업계 중심의 공급망으로 구축하는 기반 마련을 목표로 한다.이날 간담회에는 AI 팹리스, 태양전지·배터리 등 전력 분야, 냉각기술 분야, 위성체계개발사",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213770_217331_2947.jpeg",
+          "is_english": false,
+          "original_title": "우주항공청, 17개사와 'K-우주 데이터센터' 구축 방안 논의",
+          "original_summary": "우주항공청(청장 오태석)은 AI 팹리스 기업 리벨리온 본사서 우주 데이터센터 기술 관련 산업계 관계자들과 \\'제9차 우주항공 SOS 간담회\\'를 개최했다고 10일 밝혔다.이번 간담회는 K-문샷 우주미션의 일환으로, AI·정보통신기술(ICT) 기업 등 비우주기업을 유도해 한국형 우주 데이터센터를 성공적으로 개발하기 위해 마련됐다.특히 우주에서 사용할 AI 반도체, 태양전지 등 핵심 기술을 산업계 중심의 공급망으로 구축하는 기반 마련을 목표로 한다.이날 간담회에는 AI 팹리스, 태양전지·배터리 등 전력 분야, 냉각기술 분야, 위성체계개",
+          "summary": "우주항공청(청장 오태석)은 AI 팹리스 기업 리벨리온 본사서 우주 데이터센터 기술 관련 산업계 관계자들과 \\'제9차 우주항공 SOS 간담회\\'를 개최했다고 10일 밝혔다.이번 간담회는 K-문샷 우주미션의 일환으로, AI·정보통신기술(ICT) 기업 등 비우주기업을 유도해 한국형 우주 데이터센터를 성공적으로 개발하기 위해 마련됐다.특히 우주에서 사용할 AI 반도체, 태양전지 등 핵심 기술을 산업계 중심의 공급망으로 구축하는 기반 마련을 목표로 한다.이날 간담회에는 AI 팹리스, 태양전지·배터리 등 전력 분야, 냉각기술 분야, 위성체계개"
+        },
+        {
+          "title": "광양경자청, 중국 과학자기업가협회 초청 산업 현장 시찰",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213772",
+          "date": "2026-08-10",
+          "source": "AI타임스",
+          "description": "광양만권경제자유구역청(청장 구충곤)은 중국 안후이성과학자기업가협회 다이젠화 당서기, 리홍웨이 부회장 등 회원사 관계자 12개사를 초청해 10일부터 11일까지 이틀간 광양만권 현장 시찰 및 투자무역간담회를 개최했다고 밝혔다.이번에 방문한 안후이성과학자기업가협회(Anhui Association of Scientists and Entrepreneurs)는 1988년 설립된 안후이성 대표 경제단체로 전력·자동차·에너지·식품 등 68개 업종 약 6000여개 회원사와 1100여명의 전문학자로 구성되어 있다.이번 방문은 지난 5월12일 중국 안",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213772_217333_4037.jpg",
+          "is_english": false,
+          "original_title": "광양경자청, 중국 과학자기업가협회 초청 산업 현장 시찰",
+          "original_summary": "광양만권경제자유구역청(청장 구충곤)은 중국 안후이성과학자기업가협회 다이젠화 당서기, 리홍웨이 부회장 등 회원사 관계자 12개사를 초청해 10일부터 11일까지 이틀간 광양만권 현장 시찰 및 투자무역간담회를 개최했다고 밝혔다.이번에 방문한 안후이성과학자기업가협회(Anhui Association of Scientists and Entrepreneurs)는 1988년 설립된 안후이성 대표 경제단체로 전력·자동차·에너지·식품 등 68개 업종 약 6000여개 회원사와 1100여명의 전문학자로 구성되어 있다.이번 방문은 지난 5월12일 중국 안",
+          "summary": "광양만권경제자유구역청(청장 구충곤)은 중국 안후이성과학자기업가협회 다이젠화 당서기, 리홍웨이 부회장 등 회원사 관계자 12개사를 초청해 10일부터 11일까지 이틀간 광양만권 현장 시찰 및 투자무역간담회를 개최했다고 밝혔다.이번에 방문한 안후이성과학자기업가협회(Anhui Association of Scientists and Entrepreneurs)는 1988년 설립된 안후이성 대표 경제단체로 전력·자동차·에너지·식품 등 68개 업종 약 6000여개 회원사와 1100여명의 전문학자로 구성되어 있다.이번 방문은 지난 5월12일 중국 안"
+        },
+        {
+          "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+          "link": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+          "date": "2026-08-10",
+          "source": "TechCrunch",
+          "description": "On Monday, Mark Zuckerberg published a 6,500 word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-2204064825.jpg?resize=1200,814",
+          "is_english": true,
+          "original_title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+          "original_summary": "On Monday, Mark Zuckerberg published a 6,500 word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building. ",
+          "summary": "On Monday, Mark Zuckerberg published a 6,500 word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building. "
+        },
+        {
+          "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+          "link": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+          "date": "2026-08-10",
+          "source": "TechCrunch",
+          "description": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/Claw-weight.png?resize=1200,600",
+          "is_english": true,
+          "original_title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+          "original_summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+          "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice."
+        },
+        {
+          "title": "With a feel for physics, AI models simulate a wider range of real-world scenarios",
+          "link": "https://news.mit.edu/2026/ai-models-simulate-wider-range-of-real-world-scenarios-0810",
+          "date": "2026-08-10",
+          "source": "MIT News",
+          "description": "“GeoPT” helps AI models understand the basics of physics so they can simulate how objects respond to things like wind and water more efficiently and accurately.",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/mit-csail-geopt.jpg?itok=QbX1i1qV",
+          "is_english": true,
+          "original_title": "With a feel for physics, AI models simulate a wider range of real-world scenarios",
+          "original_summary": "“GeoPT” helps AI models understand the basics of physics so they can simulate how objects respond to things like wind and water more efficiently and accurately.",
+          "summary": "“GeoPT” helps AI models understand the basics of physics so they can simulate how objects respond to things like wind and water more efficiently and accurately."
+        },
         {
           "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
           "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
