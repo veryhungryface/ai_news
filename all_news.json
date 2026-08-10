@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-08-10",
-      "update_time": "2026-08-10 10:08:56",
+      "update_time": "2026-08-10 12:44:15",
       "news": [
+        {
+          "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+          "link": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips/",
+          "date": "2026-08-10",
+          "source": "TechCrunch",
+          "description": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/discoverd-materials.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+          "original_summary": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips. ",
+          "summary": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips. "
+        },
         {
           "title": "서울대 공대 광역모집 90% 전기·정보공학 선택…반도체·AI 영향",
           "link": "https://www.yna.co.kr/view/AKR20260810141500004",
@@ -686,6 +698,19 @@
           "category": "AI Model"
         },
         {
+          "title": "nvidia/NVIDIA-NemotronLabs-VoiceChat-11B",
+          "link": "https://huggingface.co/nvidia/NVIDIA-NemotronLabs-VoiceChat-11B",
+          "date": "2026-08-10",
+          "source": "HuggingFace",
+          "description": "• NVIDIA-NemotronLabs-VoiceChat-11B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• NVIDIA-NemotronLabs-VoiceChat-11B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/NVIDIA-NemotronLabs-VoiceChat-11B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "inclusionAI/Ling-3.0-flash",
           "link": "https://huggingface.co/inclusionAI/Ling-3.0-flash",
           "date": "2026-08-10",
@@ -699,15 +724,15 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/NVIDIA-NemotronLabs-VoiceChat-11B",
-          "link": "https://huggingface.co/nvidia/NVIDIA-NemotronLabs-VoiceChat-11B",
+          "title": "meta-models/Muse-Glimmer-30B",
+          "link": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
           "date": "2026-08-10",
           "source": "HuggingFace",
-          "description": "• NVIDIA-NemotronLabs-VoiceChat-11B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "description": "• Muse-Glimmer-30B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
           "is_english": true,
-          "summary": "• NVIDIA-NemotronLabs-VoiceChat-11B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/NVIDIA-NemotronLabs-VoiceChat-11B",
+          "summary": "• Muse-Glimmer-30B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "meta-models/Muse-Glimmer-30B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -751,19 +776,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
-          "link": "https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF",
-          "date": "2026-08-10",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Flash-0731-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
-          "is_english": true,
-          "summary": "• DeepSeek-V4-Flash-0731-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "SexGod1979/PinkCherry_MiniMax-H3",
           "link": "https://huggingface.co/SexGod1979/PinkCherry_MiniMax-H3",
           "date": "2026-08-10",
@@ -773,6 +785,19 @@
           "is_english": true,
           "summary": "• PinkCherry_MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "SexGod1979/PinkCherry_MiniMax-H3",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
+          "link": "https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF",
+          "date": "2026-08-10",
+          "source": "HuggingFace",
+          "description": "• DeepSeek-V4-Flash-0731-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "is_english": true,
+          "summary": "• DeepSeek-V4-Flash-0731-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -812,19 +837,6 @@
           "is_english": true,
           "summary": "• LFM2.5-2.6B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "LiquidAI/LFM2.5-2.6B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "Abiray/Minimax-H3-nvfp4-INT4-INT8-Convrot",
-          "link": "https://huggingface.co/Abiray/Minimax-H3-nvfp4-INT4-INT8-Convrot",
-          "date": "2026-08-10",
-          "source": "HuggingFace",
-          "description": "• Minimax-H3-nvfp4-INT4-INT8-Convrot 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Minimax-H3-nvfp4-INT4-INT8-Convrot 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Abiray/Minimax-H3-nvfp4-INT4-INT8-Convrot",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
