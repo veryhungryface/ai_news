@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-08-11",
-      "update_time": "2026-08-10 15:50:19",
+      "update_time": "2026-08-10 18:42:10",
       "news": [
+        {
+          "title": "What building an AI-native finance function taught me",
+          "link": "https://openai.com/index/building-an-ai-native-finance-function",
+          "date": "2026-08-11",
+          "source": "OpenAI",
+          "description": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
+          "image": null,
+          "is_english": true,
+          "original_title": "What building an AI-native finance function taught me",
+          "original_summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI.",
+          "summary": "OpenAI CFO Sarah Friar shares five lessons for building an AI-native finance function, from automated forecasting to stronger controls and AI ROI."
+        },
         {
           "title": "MiniMaxAI/MiniMax-H3",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
@@ -57,6 +69,19 @@
           "category": "AI Model"
         },
         {
+          "title": "meta-models/Muse-Glimmer-30B",
+          "link": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+          "date": "2026-08-11",
+          "source": "HuggingFace",
+          "description": "• Muse-Glimmer-30B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Muse-Glimmer-30B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "meta-models/Muse-Glimmer-30B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "moonshotai/Kimi-K3",
           "link": "https://huggingface.co/moonshotai/Kimi-K3",
           "date": "2026-08-11",
@@ -79,19 +104,6 @@
           "is_english": true,
           "summary": "• LFM2.5-2.6B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "LiquidAI/LFM2.5-2.6B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "meta-models/Muse-Glimmer-30B",
-          "link": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
-          "date": "2026-08-11",
-          "source": "HuggingFace",
-          "description": "• Muse-Glimmer-30B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Muse-Glimmer-30B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "meta-models/Muse-Glimmer-30B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -135,19 +147,6 @@
           "category": "AI Model"
         },
         {
-          "title": "inclusionAI/Ling-3.0-flash",
-          "link": "https://huggingface.co/inclusionAI/Ling-3.0-flash",
-          "date": "2026-08-11",
-          "source": "HuggingFace",
-          "description": "• Ling-3.0-flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://intranetproxy.alipay.com/skylark/lark/0/2026/png/23157180/1785831264180-d6ca4404-acef-4424-84db-fbc5a4c6db5f.png",
-          "is_english": true,
-          "summary": "• Ling-3.0-flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "inclusionAI/Ling-3.0-flash",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nvidia/NVIDIA-NemotronLabs-VoiceChat-11B",
           "link": "https://huggingface.co/nvidia/NVIDIA-NemotronLabs-VoiceChat-11B",
           "date": "2026-08-11",
@@ -157,6 +156,19 @@
           "is_english": true,
           "summary": "• NVIDIA-NemotronLabs-VoiceChat-11B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nvidia/NVIDIA-NemotronLabs-VoiceChat-11B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "inclusionAI/Ling-3.0-flash",
+          "link": "https://huggingface.co/inclusionAI/Ling-3.0-flash",
+          "date": "2026-08-11",
+          "source": "HuggingFace",
+          "description": "• Ling-3.0-flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://intranetproxy.alipay.com/skylark/lark/0/2026/png/23157180/1785831264180-d6ca4404-acef-4424-84db-fbc5a4c6db5f.png",
+          "is_english": true,
+          "summary": "• Ling-3.0-flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "inclusionAI/Ling-3.0-flash",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -213,19 +225,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
-          "link": "https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF",
-          "date": "2026-08-11",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Flash-0731-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
-          "is_english": true,
-          "summary": "• DeepSeek-V4-Flash-0731-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "mistralai/Shieldstral-1.0-3B",
           "link": "https://huggingface.co/mistralai/Shieldstral-1.0-3B",
           "date": "2026-08-11",
@@ -239,15 +238,15 @@
           "category": "AI Model"
         },
         {
-          "title": "LiquidAI/LFM2.5-2.6B-GGUF",
-          "link": "https://huggingface.co/LiquidAI/LFM2.5-2.6B-GGUF",
+          "title": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
+          "link": "https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF",
           "date": "2026-08-11",
           "source": "HuggingFace",
-          "description": "• LFM2.5-2.6B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/2b08LKpev0DNEk6DlnWkY.png",
+          "description": "• DeepSeek-V4-Flash-0731-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
           "is_english": true,
-          "summary": "• LFM2.5-2.6B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "LiquidAI/LFM2.5-2.6B-GGUF",
+          "summary": "• DeepSeek-V4-Flash-0731-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -263,13 +262,74 @@
           "translated_title": "Kijai/MiniMax-H3-experimental",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "LiquidAI/LFM2.5-2.6B-GGUF",
+          "link": "https://huggingface.co/LiquidAI/LFM2.5-2.6B-GGUF",
+          "date": "2026-08-11",
+          "source": "HuggingFace",
+          "description": "• LFM2.5-2.6B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/2b08LKpev0DNEk6DlnWkY.png",
+          "is_english": true,
+          "summary": "• LFM2.5-2.6B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "LiquidAI/LFM2.5-2.6B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-08-10",
-      "update_time": "2026-08-10 15:50:19",
+      "update_time": "2026-08-10 18:42:10",
       "news": [
+        {
+          "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+          "link": "https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+          "date": "2026-08-10",
+          "source": "OpenAI",
+          "description": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Expanding Daybreak as the Cyber Defense Window Narrows",
+          "original_summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing.",
+          "summary": "Meet GPT-5.6-Cyber, OpenAI’s cybersecurity-specific model available through Daybreak Red for authorized vulnerability research, exploit validation, and security testing."
+        },
+        {
+          "title": "Putting frontier cyber models in more trusted hands",
+          "link": "https://openai.com/index/putting-frontier-cyber-models-in-more-trusted-hands",
+          "date": "2026-08-10",
+          "source": "OpenAI",
+          "description": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Putting frontier cyber models in more trusted hands",
+          "original_summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers.",
+          "summary": "Approved Daybreak partners can use OpenAI’s frontier cyber models to deliver authorized, governed cybersecurity services to customers."
+        },
+        {
+          "title": "Premium seats are coming to ChatGPT Business",
+          "link": "https://openai.com/index/premium-seats-chatgpt-business",
+          "date": "2026-08-10",
+          "source": "OpenAI",
+          "description": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Premium seats are coming to ChatGPT Business",
+          "original_summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work.",
+          "summary": "Premium seats are coming to ChatGPT Business. Sign up by August 20 to get $100 in workspace credits and unlock higher usage for your team's most demanding work."
+        },
+        {
+          "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+          "link": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision/",
+          "date": "2026-08-10",
+          "source": "TechCrunch",
+          "description": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as  the emerging divide between AI users can own and access.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/09/GettyImages-2173579243.jpg?resize=1200,799",
+          "is_english": true,
+          "original_title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+          "original_summary": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as  the emerging divide between AI users can own and access.",
+          "summary": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as  the emerging divide between AI users can own and access."
+        },
         {
           "title": "OpenAI’s letter to Governor Abbott on responsible AI infrastructure in Texas",
           "link": "https://openai.com/index/responsible-ai-infrastructure-texas",
@@ -7357,7 +7417,7 @@
         {
           "title": "moonshotai/Kimi-K3",
           "link": "https://huggingface.co/moonshotai/Kimi-K3",
-          "date": "2026-08-02",
+          "date": "2026-08-11",
           "source": "HuggingFace",
           "description": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/moonshotai/Kimi-K3/resolve/main/assets/kimi-logo.png",
@@ -7370,7 +7430,7 @@
         {
           "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
-          "date": "2026-08-02",
+          "date": "2026-08-11",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4-Flash-0731 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
@@ -7383,7 +7443,7 @@
         {
           "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
           "link": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-          "date": "2026-08-02",
+          "date": "2026-08-11",
           "source": "HuggingFace",
           "description": "• Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF/resolve/main/valhalla.webp",
@@ -7409,7 +7469,7 @@
         {
           "title": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
           "link": "https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF",
-          "date": "2026-08-02",
+          "date": "2026-08-11",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4-Flash-0731-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
