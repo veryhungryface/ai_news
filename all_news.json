@@ -2,8 +2,188 @@
   "dates": [
     {
       "date": "2026-08-12",
-      "update_time": "2026-08-12 09:53:12",
+      "update_time": "2026-08-12 12:43:30",
       "news": [
+        {
+          "title": "앤트로픽 미공개 모델, 160년 수학 난제 '리만 가설' 연구서 대기록",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213838",
+          "date": "2026-08-12",
+          "source": "AI타임스",
+          "description": "앤트로픽의 미공개 연구용 AI 모델이 160년 가까이 풀리지 않은 수학계 최대 난제 중 하나인 ‘리만 가설’과 관련해 기존 연구의 한계를 크게 뛰어넘는 성과를 냈다.앤트로픽은 10일(현지시간) 공개한 연구에서 아직 일반에 출시되지 않은 연구용 클로드(Claude)가 리만 가설에 도전하는 과정에서 큰 진전을 이뤘다고 발표했다.리만 가설 자체를 증명하는 데는 실패했지만, 리만 제타 함수의 비자명한 영점 가운데 리만 가설이 요구하는 선 위에 존재한다고 확인할 수 있는 영점의 비율에 대한 하한을 기존 41.6%에서 67.2%로 끌어올렸다.",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213838_217412_258.png",
+          "is_english": false,
+          "original_title": "앤트로픽 미공개 모델, 160년 수학 난제 '리만 가설' 연구서 대기록",
+          "original_summary": "앤트로픽의 미공개 연구용 AI 모델이 160년 가까이 풀리지 않은 수학계 최대 난제 중 하나인 ‘리만 가설’과 관련해 기존 연구의 한계를 크게 뛰어넘는 성과를 냈다.앤트로픽은 10일(현지시간) 공개한 연구에서 아직 일반에 출시되지 않은 연구용 클로드(Claude)가 리만 가설에 도전하는 과정에서 큰 진전을 이뤘다고 발표했다.리만 가설 자체를 증명하는 데는 실패했지만, 리만 제타 함수의 비자명한 영점 가운데 리만 가설이 요구하는 선 위에 존재한다고 확인할 수 있는 영점의 비율에 대한 하한을 기존 41.6%에서 67.2%로 끌어올렸다.",
+          "summary": "앤트로픽의 미공개 연구용 AI 모델이 160년 가까이 풀리지 않은 수학계 최대 난제 중 하나인 ‘리만 가설’과 관련해 기존 연구의 한계를 크게 뛰어넘는 성과를 냈다.앤트로픽은 10일(현지시간) 공개한 연구에서 아직 일반에 출시되지 않은 연구용 클로드(Claude)가 리만 가설에 도전하는 과정에서 큰 진전을 이뤘다고 발표했다.리만 가설 자체를 증명하는 데는 실패했지만, 리만 제타 함수의 비자명한 영점 가운데 리만 가설이 요구하는 선 위에 존재한다고 확인할 수 있는 영점의 비율에 대한 하한을 기존 41.6%에서 67.2%로 끌어올렸다."
+        },
+        {
+          "title": "엔비디아, 에이전트 비용 74% 낮추는 라우터 '네모 스위치야드' 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213846",
+          "date": "2026-08-12",
+          "source": "AI타임스",
+          "description": "엔비디아가 오픈소스 라우팅 기술을 공개했다. 복잡한 추론에는 고성능 프런티어 모델을, 반복적이고 대량으로 처리해야 하는 작업에는 저비용 모델을 투입하는 방식으로 AI 에이전트의 비용과 처리 효율을 동시에 개선하겠다는 전략이다.엔비디아는 11일(현지시간) 오픈소스 모델 라우팅 라이브러리인 \\'네모 스위치야드(NeMo Switchyard)\\'를 공개했다.스위치야드는 AI 에이전트의 각 작업 단계에서 요청 내용뿐 아니라 모델의 상태, 작업 진행 상황, 비용과 지연시간, 토큰 사용량 등을 종합적으로 분석해 여러 모델 가운데 가장 적합한 모델로",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213846_217424_3756.png",
+          "is_english": false,
+          "original_title": "엔비디아, 에이전트 비용 74% 낮추는 라우터 '네모 스위치야드' 공개",
+          "original_summary": "엔비디아가 오픈소스 라우팅 기술을 공개했다. 복잡한 추론에는 고성능 프런티어 모델을, 반복적이고 대량으로 처리해야 하는 작업에는 저비용 모델을 투입하는 방식으로 AI 에이전트의 비용과 처리 효율을 동시에 개선하겠다는 전략이다.엔비디아는 11일(현지시간) 오픈소스 모델 라우팅 라이브러리인 \\'네모 스위치야드(NeMo Switchyard)\\'를 공개했다.스위치야드는 AI 에이전트의 각 작업 단계에서 요청 내용뿐 아니라 모델의 상태, 작업 진행 상황, 비용과 지연시간, 토큰 사용량 등을 종합적으로 분석해 여러 모델 가운데 가장 적합한 모",
+          "summary": "엔비디아가 오픈소스 라우팅 기술을 공개했다. 복잡한 추론에는 고성능 프런티어 모델을, 반복적이고 대량으로 처리해야 하는 작업에는 저비용 모델을 투입하는 방식으로 AI 에이전트의 비용과 처리 효율을 동시에 개선하겠다는 전략이다.엔비디아는 11일(현지시간) 오픈소스 모델 라우팅 라이브러리인 \\'네모 스위치야드(NeMo Switchyard)\\'를 공개했다.스위치야드는 AI 에이전트의 각 작업 단계에서 요청 내용뿐 아니라 모델의 상태, 작업 진행 상황, 비용과 지연시간, 토큰 사용량 등을 종합적으로 분석해 여러 모델 가운데 가장 적합한 모"
+        },
+        {
+          "title": "오픈AI, 클로드·커서 작업 환경 흡수…'에이전트 통합 플랫폼' 승부수",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213849",
+          "date": "2026-08-12",
+          "source": "AI타임스",
+          "description": "오픈AI가 \\'챗GPT\\'를 중심으로 경쟁 AI 에이전트와의 경계를 허무는 작업 환경 통합에 나섰다. 사용자들이 여러 AI 에이전트를 오가며 작업하는 흐름이 확대되는 가운데, 기존 작업 환경을 그대로 옮겨와 연속성을 확보할 수 있도록 지원하는 것이 핵심이다. 오픈AI는 11일(현지시간) 경쟁사의 AI 에이전트에서 사용하던 프로젝트와 설정, 대화 기록 등을 자사 플랫폼으로 한 번에 가져와 계속 작업할 수 있는 ‘가져오기(Import)’ 기능을 선보였다.특정 AI 에이전트에 작업 환경이 종속되는 문제를 줄이고, 여러 AI 모델과 에이전트를",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213849_217429_827.jpg",
+          "is_english": false,
+          "original_title": "오픈AI, 클로드·커서 작업 환경 흡수…'에이전트 통합 플랫폼' 승부수",
+          "original_summary": "오픈AI가 \\'챗GPT\\'를 중심으로 경쟁 AI 에이전트와의 경계를 허무는 작업 환경 통합에 나섰다. 사용자들이 여러 AI 에이전트를 오가며 작업하는 흐름이 확대되는 가운데, 기존 작업 환경을 그대로 옮겨와 연속성을 확보할 수 있도록 지원하는 것이 핵심이다. 오픈AI는 11일(현지시간) 경쟁사의 AI 에이전트에서 사용하던 프로젝트와 설정, 대화 기록 등을 자사 플랫폼으로 한 번에 가져와 계속 작업할 수 있는 ‘가져오기(Import)’ 기능을 선보였다.특정 AI 에이전트에 작업 환경이 종속되는 문제를 줄이고, 여러 AI 모델과 에이전",
+          "summary": "오픈AI가 \\'챗GPT\\'를 중심으로 경쟁 AI 에이전트와의 경계를 허무는 작업 환경 통합에 나섰다. 사용자들이 여러 AI 에이전트를 오가며 작업하는 흐름이 확대되는 가운데, 기존 작업 환경을 그대로 옮겨와 연속성을 확보할 수 있도록 지원하는 것이 핵심이다. 오픈AI는 11일(현지시간) 경쟁사의 AI 에이전트에서 사용하던 프로젝트와 설정, 대화 기록 등을 자사 플랫폼으로 한 번에 가져와 계속 작업할 수 있는 ‘가져오기(Import)’ 기능을 선보였다.특정 AI 에이전트에 작업 환경이 종속되는 문제를 줄이고, 여러 AI 모델과 에이전"
+        },
+        {
+          "title": "xAI 창립자 이고르 바부슈킨, 리버 AI 설립...'맞춤형 오픈소스 AI' 도전",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213854",
+          "date": "2026-08-12",
+          "source": "AI타임스",
+          "description": "xAI의 공동 창립자 이고르 바부슈킨이 퇴사 후 ‘맞춤형 AI’ 시대를 겨냥한 스타트업 리버 AI(River AI)를 설립했다.로이터 등에 따르면, 바부슈킨 CEO는 11일(현지시간) 리버 AI가 설립 두 달 만에 11억달러(약 1조5000억원) 규모의 시드 및 시리즈 A 투자를 유치했다고 발표했다. 이번 투자 라운드는 제너럴 캐털리스트와 AMP PBC가 주도했으며, 엔비디아와 AMD 벤처스가 전략적 투자자로 참여했다. 와이콤비네이터와 싱가포르 국부펀드 테마섹도 투자에 합류했다. 기업 가치는 공개하지 않았다.리버 AI의 핵심 목표는",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213854_217433_5935.png",
+          "is_english": false,
+          "original_title": "xAI 창립자 이고르 바부슈킨, 리버 AI 설립...'맞춤형 오픈소스 AI' 도전",
+          "original_summary": "xAI의 공동 창립자 이고르 바부슈킨이 퇴사 후 ‘맞춤형 AI’ 시대를 겨냥한 스타트업 리버 AI(River AI)를 설립했다.로이터 등에 따르면, 바부슈킨 CEO는 11일(현지시간) 리버 AI가 설립 두 달 만에 11억달러(약 1조5000억원) 규모의 시드 및 시리즈 A 투자를 유치했다고 발표했다. 이번 투자 라운드는 제너럴 캐털리스트와 AMP PBC가 주도했으며, 엔비디아와 AMD 벤처스가 전략적 투자자로 참여했다. 와이콤비네이터와 싱가포르 국부펀드 테마섹도 투자에 합류했다. 기업 가치는 공개하지 않았다.리버 AI의 핵심 목표는",
+          "summary": "xAI의 공동 창립자 이고르 바부슈킨이 퇴사 후 ‘맞춤형 AI’ 시대를 겨냥한 스타트업 리버 AI(River AI)를 설립했다.로이터 등에 따르면, 바부슈킨 CEO는 11일(현지시간) 리버 AI가 설립 두 달 만에 11억달러(약 1조5000억원) 규모의 시드 및 시리즈 A 투자를 유치했다고 발표했다. 이번 투자 라운드는 제너럴 캐털리스트와 AMP PBC가 주도했으며, 엔비디아와 AMD 벤처스가 전략적 투자자로 참여했다. 와이콤비네이터와 싱가포르 국부펀드 테마섹도 투자에 합류했다. 기업 가치는 공개하지 않았다.리버 AI의 핵심 목표는"
+        },
+        {
+          "title": "인기 오픈 동영상 모델 ‘LTX-2.5’ 공개...엔비디아 칩서 10초 영상 6.8초 만에 생성",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213861",
+          "date": "2026-08-12",
+          "source": "AI타임스",
+          "description": "가장 인기 있는 오픈소스 비디오 생성 모델 LTX 시리즈의 최신 버전 \\'LTX-2.5\\'가 공개됐다. 비디오 생성의 속도와 품질을 크게 끌어올린 것은 물론, 소비자용 GPU와 맥(Mac)에서도 구동할 수 있도록 경량화해 로컬 활용을 확대할 것으로 기대된다.라이트릭스(Lightricks)에서 분사한 LTX는 11일(현지시간) 오픈웨이트 기반의 LTX-2.5를 공개했다.LTX 계열은 허깅페이스 등을 통해 누적 3300만건 이상의 다운로드를 기록했다. 직전 버전인 LTX-2.3도 1800만건 이상의 다운로드로 오픈 비디오 생성 분야에서 가",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213861_217444_1124.jpg",
+          "is_english": false,
+          "original_title": "인기 오픈 동영상 모델 ‘LTX-2.5’ 공개...엔비디아 칩서 10초 영상 6.8초 만에 생성",
+          "original_summary": "가장 인기 있는 오픈소스 비디오 생성 모델 LTX 시리즈의 최신 버전 \\'LTX-2.5\\'가 공개됐다. 비디오 생성의 속도와 품질을 크게 끌어올린 것은 물론, 소비자용 GPU와 맥(Mac)에서도 구동할 수 있도록 경량화해 로컬 활용을 확대할 것으로 기대된다.라이트릭스(Lightricks)에서 분사한 LTX는 11일(현지시간) 오픈웨이트 기반의 LTX-2.5를 공개했다.LTX 계열은 허깅페이스 등을 통해 누적 3300만건 이상의 다운로드를 기록했다. 직전 버전인 LTX-2.3도 1800만건 이상의 다운로드로 오픈 비디오 생성 분야에서",
+          "summary": "가장 인기 있는 오픈소스 비디오 생성 모델 LTX 시리즈의 최신 버전 \\'LTX-2.5\\'가 공개됐다. 비디오 생성의 속도와 품질을 크게 끌어올린 것은 물론, 소비자용 GPU와 맥(Mac)에서도 구동할 수 있도록 경량화해 로컬 활용을 확대할 것으로 기대된다.라이트릭스(Lightricks)에서 분사한 LTX는 11일(현지시간) 오픈웨이트 기반의 LTX-2.5를 공개했다.LTX 계열은 허깅페이스 등을 통해 누적 3300만건 이상의 다운로드를 기록했다. 직전 버전인 LTX-2.3도 1800만건 이상의 다운로드로 오픈 비디오 생성 분야에서"
+        },
+        {
+          "title": "독파모 4개사, '벤치맥싱' 의혹 일축...\"평가 보완책으로 영향 미미\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213859",
+          "date": "2026-08-12",
+          "source": "AI타임스",
+          "description": "독자 AI 파운데이션 모델(독파모) 프로젝트 2차 평가 결과 발표를 앞두고 제기된 \\'벤치맥싱(benchmaxxing)\\' 의혹에 대해 4개사 모두 사실이 아니라는 입장을 밝혔다.SKT는 12일 \\\"이번에 A.X K2를 개발하면서 AI 모델의 성능을 객관적으로 평가하기 위해 벤치마크 오염 방지를 가장 중요하게 고려했다\\\"며 선을 그었다.LG AI연구원과 업스테이지, 모티프테크놀로지스도 관련설을 모두 부인했다.이는 지난달 서울에서 열린 \\'국제머신러닝학회(ICML 2026)\\'에서 애프터쿼리와 스케일AI, 머코어(Mercor) 등 미국 AI 학",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213859_217443_729.png",
+          "is_english": false,
+          "original_title": "독파모 4개사, '벤치맥싱' 의혹 일축...\"평가 보완책으로 영향 미미\"",
+          "original_summary": "독자 AI 파운데이션 모델(독파모) 프로젝트 2차 평가 결과 발표를 앞두고 제기된 \\'벤치맥싱(benchmaxxing)\\' 의혹에 대해 4개사 모두 사실이 아니라는 입장을 밝혔다.SKT는 12일 \\\"이번에 A.X K2를 개발하면서 AI 모델의 성능을 객관적으로 평가하기 위해 벤치마크 오염 방지를 가장 중요하게 고려했다\\\"며 선을 그었다.LG AI연구원과 업스테이지, 모티프테크놀로지스도 관련설을 모두 부인했다.이는 지난달 서울에서 열린 \\'국제머신러닝학회(ICML 2026)\\'에서 애프터쿼리와 스케일AI, 머코어(Mercor) 등 미",
+          "summary": "독자 AI 파운데이션 모델(독파모) 프로젝트 2차 평가 결과 발표를 앞두고 제기된 \\'벤치맥싱(benchmaxxing)\\' 의혹에 대해 4개사 모두 사실이 아니라는 입장을 밝혔다.SKT는 12일 \\\"이번에 A.X K2를 개발하면서 AI 모델의 성능을 객관적으로 평가하기 위해 벤치마크 오염 방지를 가장 중요하게 고려했다\\\"며 선을 그었다.LG AI연구원과 업스테이지, 모티프테크놀로지스도 관련설을 모두 부인했다.이는 지난달 서울에서 열린 \\'국제머신러닝학회(ICML 2026)\\'에서 애프터쿼리와 스케일AI, 머코어(Mercor) 등 미"
+        },
+        {
+          "title": "구글, '제미나이' 인기에 국내 네이버 사용자 수 넘어...\"AI 확장 결실\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213866",
+          "date": "2026-08-12",
+          "source": "AI타임스",
+          "description": "국내 구글 앱 사용자가 네이버 앱보다 많은 것으로 나타났다. ‘제미나이’ 등 AI의 사용량 증가가 영향을 미쳤다는 분석이다.12일 아이지에이웍스 모바일인덱스에 따르면, 지난 7월 구글 앱의 월간 활성 이용자(MAU)가 네이버를 추월한 것으로 나타났다. 이는 지난 2021년 3월 이래 통계 집계 이후로 처음이다.7월 구글의 MAU는 4702만2854명을 기록하며 네이버(4684만5017명)보다 18만명 가량 앞섰다. 특히, 구글 앱의 급격한 이용자 증가 추이는 몇 달 전부터 가속화된 것으로 나타났다. 지난 5월에는 4628만7283명",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213866_217447_4455.jpg",
+          "is_english": false,
+          "original_title": "구글, '제미나이' 인기에 국내 네이버 사용자 수 넘어...\"AI 확장 결실\"",
+          "original_summary": "국내 구글 앱 사용자가 네이버 앱보다 많은 것으로 나타났다. ‘제미나이’ 등 AI의 사용량 증가가 영향을 미쳤다는 분석이다.12일 아이지에이웍스 모바일인덱스에 따르면, 지난 7월 구글 앱의 월간 활성 이용자(MAU)가 네이버를 추월한 것으로 나타났다. 이는 지난 2021년 3월 이래 통계 집계 이후로 처음이다.7월 구글의 MAU는 4702만2854명을 기록하며 네이버(4684만5017명)보다 18만명 가량 앞섰다. 특히, 구글 앱의 급격한 이용자 증가 추이는 몇 달 전부터 가속화된 것으로 나타났다. 지난 5월에는 4628만7283명",
+          "summary": "국내 구글 앱 사용자가 네이버 앱보다 많은 것으로 나타났다. ‘제미나이’ 등 AI의 사용량 증가가 영향을 미쳤다는 분석이다.12일 아이지에이웍스 모바일인덱스에 따르면, 지난 7월 구글 앱의 월간 활성 이용자(MAU)가 네이버를 추월한 것으로 나타났다. 이는 지난 2021년 3월 이래 통계 집계 이후로 처음이다.7월 구글의 MAU는 4702만2854명을 기록하며 네이버(4684만5017명)보다 18만명 가량 앞섰다. 특히, 구글 앱의 급격한 이용자 증가 추이는 몇 달 전부터 가속화된 것으로 나타났다. 지난 5월에는 4628만7283명"
+        },
+        {
+          "title": "[게시판] 피씨엔, ‘모두의 AI 실험실’ 온라인 플랫폼 운영 등 단신",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213870",
+          "date": "2026-08-12",
+          "source": "AI타임스",
+          "description": "■ 피씨엔(대표 송광헌)은 지난 5월 한국지능정보사회진흥원(NIA)이 발주한 ‘2026년 모두의 AI 실험실 온라인 플랫폼 운영 및 유지관리’ 사업에 선정된 이후 플랫폼의 안정적인 서비스 운영을 지원하고 있다고 밝혔다. ‘모두의 AI 실험실’은 국민 누구나 아이디어만 있으면 비용이나 기술적 장벽을 낮추고 직접 AI 서비스를 개발할 수 있도록 지원하는 온라인 플랫폼이다. 바이브코딩 환경과 생성 AI 모델 구독용 토큰, 민간 클라우드, AI 개발지원도구 등을 제공한다. ■ 사이냅소프트(대표 전경헌)는 국민대학교(총장 정승렬)가 주도하는",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213870_217453_3614.png",
+          "is_english": false,
+          "original_title": "[게시판] 피씨엔, ‘모두의 AI 실험실’ 온라인 플랫폼 운영 등 단신",
+          "original_summary": "■ 피씨엔(대표 송광헌)은 지난 5월 한국지능정보사회진흥원(NIA)이 발주한 ‘2026년 모두의 AI 실험실 온라인 플랫폼 운영 및 유지관리’ 사업에 선정된 이후 플랫폼의 안정적인 서비스 운영을 지원하고 있다고 밝혔다. ‘모두의 AI 실험실’은 국민 누구나 아이디어만 있으면 비용이나 기술적 장벽을 낮추고 직접 AI 서비스를 개발할 수 있도록 지원하는 온라인 플랫폼이다. 바이브코딩 환경과 생성 AI 모델 구독용 토큰, 민간 클라우드, AI 개발지원도구 등을 제공한다. ■ 사이냅소프트(대표 전경헌)는 국민대학교(총장 정승렬)가 주도하는",
+          "summary": "■ 피씨엔(대표 송광헌)은 지난 5월 한국지능정보사회진흥원(NIA)이 발주한 ‘2026년 모두의 AI 실험실 온라인 플랫폼 운영 및 유지관리’ 사업에 선정된 이후 플랫폼의 안정적인 서비스 운영을 지원하고 있다고 밝혔다. ‘모두의 AI 실험실’은 국민 누구나 아이디어만 있으면 비용이나 기술적 장벽을 낮추고 직접 AI 서비스를 개발할 수 있도록 지원하는 온라인 플랫폼이다. 바이브코딩 환경과 생성 AI 모델 구독용 토큰, 민간 클라우드, AI 개발지원도구 등을 제공한다. ■ 사이냅소프트(대표 전경헌)는 국민대학교(총장 정승렬)가 주도하는"
+        },
+        {
+          "title": "[게시판] 한컴, 프랑스 소방 로봇에 ‘에이전틱 OS’ 탑재 등 단신",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213867",
+          "date": "2026-08-12",
+          "source": "AI타임스",
+          "description": "■ 한컴(대표 김연수) 자회사 한컴라이프케어는 프랑스 로봇 기업 \\'샤크로보틱스\\'와 5년간 소방 로봇의 국내 독점 판매 및 기술 개발 협력 계약을 체결했다고 밝혔다. 대상은 대형 소방·구조 로봇 \\'콜로서스\\'와 방화문 차단 로봇 \\'라이노 프로텍트\\'다. 특히 해당 로봇에는 한컴의 자체 에이전틱 OS가 탑재된다. 에이전틱 OS는 여러 AI 에이전트를 한 체계 안에서 통제하고 관리하는 운영체제다.■ 코난테크놀로지(대표 김영섬)는 엔터프라이즈 AI 에이전트 플랫폼 \\'에이전트-X\\'를 론칭했다고 밝혔다. 해당 플랫폼은 산업 현장에서 검증된 40여",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213867_217451_2729.jpg",
+          "is_english": false,
+          "original_title": "[게시판] 한컴, 프랑스 소방 로봇에 ‘에이전틱 OS’ 탑재 등 단신",
+          "original_summary": "■ 한컴(대표 김연수) 자회사 한컴라이프케어는 프랑스 로봇 기업 \\'샤크로보틱스\\'와 5년간 소방 로봇의 국내 독점 판매 및 기술 개발 협력 계약을 체결했다고 밝혔다. 대상은 대형 소방·구조 로봇 \\'콜로서스\\'와 방화문 차단 로봇 \\'라이노 프로텍트\\'다. 특히 해당 로봇에는 한컴의 자체 에이전틱 OS가 탑재된다. 에이전틱 OS는 여러 AI 에이전트를 한 체계 안에서 통제하고 관리하는 운영체제다.■ 코난테크놀로지(대표 김영섬)는 엔터프라이즈 AI 에이전트 플랫폼 \\'에이전트-X\\'를 론칭했다고 밝혔다. 해당 플랫폼은 산업 현장에서",
+          "summary": "■ 한컴(대표 김연수) 자회사 한컴라이프케어는 프랑스 로봇 기업 \\'샤크로보틱스\\'와 5년간 소방 로봇의 국내 독점 판매 및 기술 개발 협력 계약을 체결했다고 밝혔다. 대상은 대형 소방·구조 로봇 \\'콜로서스\\'와 방화문 차단 로봇 \\'라이노 프로텍트\\'다. 특히 해당 로봇에는 한컴의 자체 에이전틱 OS가 탑재된다. 에이전틱 OS는 여러 AI 에이전트를 한 체계 안에서 통제하고 관리하는 운영체제다.■ 코난테크놀로지(대표 김영섬)는 엔터프라이즈 AI 에이전트 플랫폼 \\'에이전트-X\\'를 론칭했다고 밝혔다. 해당 플랫폼은 산업 현장에서"
+        },
+        {
+          "title": "메타와 갈라선 마누스, 독자 행보 공식화...사용자 데이터 정리 착수",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213856",
+          "date": "2026-08-12",
+          "source": "AI타임스",
+          "description": "중국 당국의 결정으로 메타와의 인수 거래를 되돌리고 있는 에이전트 스타트업 마누스(Manus)가 독립 기업으로의 복귀를 공식화했다. 메타와의 결별 과정에서 규제 요건을 충족하기 위해 일부 사용자 데이터를 이달 말까지 삭제할 예정이라고 밝혀, 양사의 운영·데이터 관계가 사실상 최종 정리 단계에 들어갔음을 보여줬다.마누스는 11일(현지시간) 이용자들에게 보낸 공지를 통해 “곧 독립 기업으로 운영을 재개할 것”이라고 밝혔다.2025년 12월29일 메타가 20억달러(약 2조8000억원)가 넘는 금액으로 인수한다고 발표했던 곳으로, 범용 A",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213856_217435_143.jpg",
+          "is_english": false,
+          "original_title": "메타와 갈라선 마누스, 독자 행보 공식화...사용자 데이터 정리 착수",
+          "original_summary": "중국 당국의 결정으로 메타와의 인수 거래를 되돌리고 있는 에이전트 스타트업 마누스(Manus)가 독립 기업으로의 복귀를 공식화했다. 메타와의 결별 과정에서 규제 요건을 충족하기 위해 일부 사용자 데이터를 이달 말까지 삭제할 예정이라고 밝혀, 양사의 운영·데이터 관계가 사실상 최종 정리 단계에 들어갔음을 보여줬다.마누스는 11일(현지시간) 이용자들에게 보낸 공지를 통해 “곧 독립 기업으로 운영을 재개할 것”이라고 밝혔다.2025년 12월29일 메타가 20억달러(약 2조8000억원)가 넘는 금액으로 인수한다고 발표했던 곳으로, 범용 A",
+          "summary": "중국 당국의 결정으로 메타와의 인수 거래를 되돌리고 있는 에이전트 스타트업 마누스(Manus)가 독립 기업으로의 복귀를 공식화했다. 메타와의 결별 과정에서 규제 요건을 충족하기 위해 일부 사용자 데이터를 이달 말까지 삭제할 예정이라고 밝혀, 양사의 운영·데이터 관계가 사실상 최종 정리 단계에 들어갔음을 보여줬다.마누스는 11일(현지시간) 이용자들에게 보낸 공지를 통해 “곧 독립 기업으로 운영을 재개할 것”이라고 밝혔다.2025년 12월29일 메타가 20억달러(약 2조8000억원)가 넘는 금액으로 인수한다고 발표했던 곳으로, 범용 A"
+        },
+        {
+          "title": "웹케시, B2B 바이브 코딩 플랫폼 'AXPort' 출시...\"기업 보안 정책 반영\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213868",
+          "date": "2026-08-12",
+          "source": "AI타임스",
+          "description": "금융 AI 전문 웹케시(대표 강원주)는 현업 실무자를 위한 B2B 바이브코딩 통합 플랫폼 ‘에이엑스포트(AXPort)’를 얼리버드로 출시하고, 참여 기업과 직원을 모집한다고 12일 밝혔다.오는 9월 정식 출시를 앞둔 ‘에이엑스포트’는 코딩 경험이 없는 현업 실무자도 자연어 대화를 통해 필요한 업무용 웹·앱을 직접 만들 수 있는 B2B 바이브코딩 통합 플랫폼이다. 직원은 회사가 승인한 환경에서 필요한 앱을 자유롭게 만들고, 기업은 제작된 앱과 코드, 데이터를 안전하게 관리해 조직의 자산으로 축적할 수 있다.웹케시그룹 내부에서도 재무,",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213868_217450_2137.png",
+          "is_english": true,
+          "original_title": "웹케시, B2B 바이브 코딩 플랫폼 'AXPort' 출시...\"기업 보안 정책 반영\"",
+          "original_summary": "금융 AI 전문 웹케시(대표 강원주)는 현업 실무자를 위한 B2B 바이브코딩 통합 플랫폼 ‘에이엑스포트(AXPort)’를 얼리버드로 출시하고, 참여 기업과 직원을 모집한다고 12일 밝혔다.오는 9월 정식 출시를 앞둔 ‘에이엑스포트’는 코딩 경험이 없는 현업 실무자도 자연어 대화를 통해 필요한 업무용 웹·앱을 직접 만들 수 있는 B2B 바이브코딩 통합 플랫폼이다. 직원은 회사가 승인한 환경에서 필요한 앱을 자유롭게 만들고, 기업은 제작된 앱과 코드, 데이터를 안전하게 관리해 조직의 자산으로 축적할 수 있다.웹케시그룹 내부에서도 재무,",
+          "summary": "금융 AI 전문 웹케시(대표 강원주)는 현업 실무자를 위한 B2B 바이브코딩 통합 플랫폼 ‘에이엑스포트(AXPort)’를 얼리버드로 출시하고, 참여 기업과 직원을 모집한다고 12일 밝혔다.오는 9월 정식 출시를 앞둔 ‘에이엑스포트’는 코딩 경험이 없는 현업 실무자도 자연어 대화를 통해 필요한 업무용 웹·앱을 직접 만들 수 있는 B2B 바이브코딩 통합 플랫폼이다. 직원은 회사가 승인한 환경에서 필요한 앱을 자유롭게 만들고, 기업은 제작된 앱과 코드, 데이터를 안전하게 관리해 조직의 자산으로 축적할 수 있다.웹케시그룹 내부에서도 재무,"
+        },
+        {
+          "title": "\"구직자 절반 자소서와 실제 역량 달라\"...무하유, AI 채용 분석 결과 발표",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213871",
+          "date": "2026-08-12",
+          "source": "AI타임스",
+          "description": "무하유(대표 신동호)는 자체 AI 채용 솔루션 \\'프리즘×몬스터\\'의 교차검증 데이터를 분석한 결과, 자소서에 서술한 역량과 역량검사에서 측정된 실제 역량이 일치하지 않는 비율이 52.2%에 달했다고 12일 밝혔다.최근 역량이나 경험이 부족해도 AI를 활용해 완성도 높은 자소서를 작성하는 사례가 늘면서 이를 역량검사와 AI 면접으로 교차검증하는 방식이 제시되고 있다.이번 분석은 프리즘×몬스터를 도입한 기업의 지난해 데이터를 대상으로 진행됐다.자소서에서 특정 역량이 높게 평가된 지원자가 역량검사에서도 동일하게 높은 평가를 받은 비율은 4",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213871_217454_5052.png",
+          "is_english": false,
+          "original_title": "\"구직자 절반 자소서와 실제 역량 달라\"...무하유, AI 채용 분석 결과 발표",
+          "original_summary": "무하유(대표 신동호)는 자체 AI 채용 솔루션 \\'프리즘×몬스터\\'의 교차검증 데이터를 분석한 결과, 자소서에 서술한 역량과 역량검사에서 측정된 실제 역량이 일치하지 않는 비율이 52.2%에 달했다고 12일 밝혔다.최근 역량이나 경험이 부족해도 AI를 활용해 완성도 높은 자소서를 작성하는 사례가 늘면서 이를 역량검사와 AI 면접으로 교차검증하는 방식이 제시되고 있다.이번 분석은 프리즘×몬스터를 도입한 기업의 지난해 데이터를 대상으로 진행됐다.자소서에서 특정 역량이 높게 평가된 지원자가 역량검사에서도 동일하게 높은 평가를 받은 비율은",
+          "summary": "무하유(대표 신동호)는 자체 AI 채용 솔루션 \\'프리즘×몬스터\\'의 교차검증 데이터를 분석한 결과, 자소서에 서술한 역량과 역량검사에서 측정된 실제 역량이 일치하지 않는 비율이 52.2%에 달했다고 12일 밝혔다.최근 역량이나 경험이 부족해도 AI를 활용해 완성도 높은 자소서를 작성하는 사례가 늘면서 이를 역량검사와 AI 면접으로 교차검증하는 방식이 제시되고 있다.이번 분석은 프리즘×몬스터를 도입한 기업의 지난해 데이터를 대상으로 진행됐다.자소서에서 특정 역량이 높게 평가된 지원자가 역량검사에서도 동일하게 높은 평가를 받은 비율은"
+        },
+        {
+          "title": "LG CNS, 동아쏘시오그룹에 'AI 신약개발 플랫폼' 구축",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213864",
+          "date": "2026-08-12",
+          "source": "AI타임스",
+          "description": "LG CNS(대표 현신균)는 동아쏘시오그룹 IT 계열사 DAI와 \\'AI 신약개발 플랫폼\\'을 구축했다고 12일 밝혔다.양사는 6개월에 걸쳐 이번 플랫폼을 구축했으며, 신약 연구 데이터를 통합하고 후보물질 발굴부터 검증까지 주요 연구 과정을 AI로 지원한다.특히 AI 예측 결과와 실제 실험 데이터를 지속적으로 연계·학습해 연구가 진행될수록 AI 예측 성능이 높아지도록 설계한 것이 특징이다.LG CNS는 이번 플랫폼을 통해 화합물·유전체 정보, 실험 결과, 논문, 특허 등 분산돼 있던 신약 연구 데이터를 통합·표준화했으며, 신약개발 과정",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213864_217449_346.jpg",
+          "is_english": false,
+          "original_title": "LG CNS, 동아쏘시오그룹에 'AI 신약개발 플랫폼' 구축",
+          "original_summary": "LG CNS(대표 현신균)는 동아쏘시오그룹 IT 계열사 DAI와 \\'AI 신약개발 플랫폼\\'을 구축했다고 12일 밝혔다.양사는 6개월에 걸쳐 이번 플랫폼을 구축했으며, 신약 연구 데이터를 통합하고 후보물질 발굴부터 검증까지 주요 연구 과정을 AI로 지원한다.특히 AI 예측 결과와 실제 실험 데이터를 지속적으로 연계·학습해 연구가 진행될수록 AI 예측 성능이 높아지도록 설계한 것이 특징이다.LG CNS는 이번 플랫폼을 통해 화합물·유전체 정보, 실험 결과, 논문, 특허 등 분산돼 있던 신약 연구 데이터를 통합·표준화했으며, 신약개발 ",
+          "summary": "LG CNS(대표 현신균)는 동아쏘시오그룹 IT 계열사 DAI와 \\'AI 신약개발 플랫폼\\'을 구축했다고 12일 밝혔다.양사는 6개월에 걸쳐 이번 플랫폼을 구축했으며, 신약 연구 데이터를 통합하고 후보물질 발굴부터 검증까지 주요 연구 과정을 AI로 지원한다.특히 AI 예측 결과와 실제 실험 데이터를 지속적으로 연계·학습해 연구가 진행될수록 AI 예측 성능이 높아지도록 설계한 것이 특징이다.LG CNS는 이번 플랫폼을 통해 화합물·유전체 정보, 실험 결과, 논문, 특허 등 분산돼 있던 신약 연구 데이터를 통합·표준화했으며, 신약개발 "
+        },
+        {
+          "title": "AI 슬립테크 스타트업 비브레스트, AI 중심 경영진 전면 개편",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213869",
+          "date": "2026-08-12",
+          "source": "AI타임스",
+          "description": "피플멀티가 사명을 \\'비브레스트\\'로 변경하고 경영진을 새롭게 구성해 AI 기반 슬립테크 기업으로 전환한다고 12일 밝혔다.올해 3월 취임한 하상우 대표는 서울대 경제학과를 졸업하고 커니 코리아 등 글로벌 경영 컨설팅사에서의 경험을 바탕으로 비브레스트의 사업모델 재편을 담당한다.AI 기술 조직은 최고 기술책임자(CTO)와 최고 AI책임자(CAIO) 투트랙으로 구성됐다. 최종환 CTO는 서울대 전산과학과 출신으로 마켓보로·키위플 CTO, 라인(LINE) 개발 실장, 삼성전자 개발·기획 업무를 거쳤다.이번 개편에서는 CAIO 직군을 신설해",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213869_217452_3014.png",
+          "is_english": false,
+          "original_title": "AI 슬립테크 스타트업 비브레스트, AI 중심 경영진 전면 개편",
+          "original_summary": "피플멀티가 사명을 \\'비브레스트\\'로 변경하고 경영진을 새롭게 구성해 AI 기반 슬립테크 기업으로 전환한다고 12일 밝혔다.올해 3월 취임한 하상우 대표는 서울대 경제학과를 졸업하고 커니 코리아 등 글로벌 경영 컨설팅사에서의 경험을 바탕으로 비브레스트의 사업모델 재편을 담당한다.AI 기술 조직은 최고 기술책임자(CTO)와 최고 AI책임자(CAIO) 투트랙으로 구성됐다. 최종환 CTO는 서울대 전산과학과 출신으로 마켓보로·키위플 CTO, 라인(LINE) 개발 실장, 삼성전자 개발·기획 업무를 거쳤다.이번 개편에서는 CAIO 직군을 신",
+          "summary": "피플멀티가 사명을 \\'비브레스트\\'로 변경하고 경영진을 새롭게 구성해 AI 기반 슬립테크 기업으로 전환한다고 12일 밝혔다.올해 3월 취임한 하상우 대표는 서울대 경제학과를 졸업하고 커니 코리아 등 글로벌 경영 컨설팅사에서의 경험을 바탕으로 비브레스트의 사업모델 재편을 담당한다.AI 기술 조직은 최고 기술책임자(CTO)와 최고 AI책임자(CAIO) 투트랙으로 구성됐다. 최종환 CTO는 서울대 전산과학과 출신으로 마켓보로·키위플 CTO, 라인(LINE) 개발 실장, 삼성전자 개발·기획 업무를 거쳤다.이번 개편에서는 CAIO 직군을 신"
+        },
+        {
+          "title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
+          "link": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+          "date": "2026-08-12",
+          "source": "TechCrunch",
+          "description": "Blacksmith says revenue has grown more than tenfold over the past year.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/blacksmith-logo.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "AI code-testing startup Blacksmith’s valuation jumps almost 10x in less than a year",
+          "original_summary": "Blacksmith says revenue has grown more than tenfold over the past year.",
+          "summary": "Blacksmith says revenue has grown more than tenfold over the past year."
+        },
         {
           "title": "영국·웨일스 법원, 메타 스마트 안경 반입·착용 전면 금지...\"몰래 촬영 우려\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=213865",
@@ -586,19 +766,6 @@
           "category": "AI Model"
         },
         {
-          "title": "moonshotai/Kimi-K3",
-          "link": "https://huggingface.co/moonshotai/Kimi-K3",
-          "date": "2026-08-12",
-          "source": "HuggingFace",
-          "description": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/moonshotai/Kimi-K3/resolve/main/assets/kimi-logo.png",
-          "is_english": true,
-          "summary": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "moonshotai/Kimi-K3",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Lightricks/LTX-2.5",
           "link": "https://huggingface.co/Lightricks/LTX-2.5",
           "date": "2026-08-12",
@@ -625,6 +792,19 @@
           "category": "AI Model"
         },
         {
+          "title": "moonshotai/Kimi-K3",
+          "link": "https://huggingface.co/moonshotai/Kimi-K3",
+          "date": "2026-08-12",
+          "source": "HuggingFace",
+          "description": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/moonshotai/Kimi-K3/resolve/main/assets/kimi-logo.png",
+          "is_english": true,
+          "summary": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "moonshotai/Kimi-K3",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
           "link": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
           "date": "2026-08-12",
@@ -638,19 +818,6 @@
           "category": "AI Model"
         },
         {
-          "title": "LiquidAI/LFM2.5-2.6B",
-          "link": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
-          "date": "2026-08-12",
-          "source": "HuggingFace",
-          "description": "• LFM2.5-2.6B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/NAfUL2725b6KDUGf1KOd9.png",
-          "is_english": true,
-          "summary": "• LFM2.5-2.6B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "LiquidAI/LFM2.5-2.6B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Muse-Glimmer-30B-GGUF",
           "link": "https://huggingface.co/unsloth/Muse-Glimmer-30B-GGUF",
           "date": "2026-08-12",
@@ -660,6 +827,19 @@
           "is_english": true,
           "summary": "• Muse-Glimmer-30B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/Muse-Glimmer-30B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "LiquidAI/LFM2.5-2.6B",
+          "link": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+          "date": "2026-08-12",
+          "source": "HuggingFace",
+          "description": "• LFM2.5-2.6B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/NAfUL2725b6KDUGf1KOd9.png",
+          "is_english": true,
+          "summary": "• LFM2.5-2.6B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "LiquidAI/LFM2.5-2.6B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -729,19 +909,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/NVIDIA-NemotronLabs-VoiceChat-11B",
-          "link": "https://huggingface.co/nvidia/NVIDIA-NemotronLabs-VoiceChat-11B",
-          "date": "2026-08-12",
-          "source": "HuggingFace",
-          "description": "• NVIDIA-NemotronLabs-VoiceChat-11B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• NVIDIA-NemotronLabs-VoiceChat-11B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/NVIDIA-NemotronLabs-VoiceChat-11B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "meta-models/Muse-Glimmer-30B-GGUF",
           "link": "https://huggingface.co/meta-models/Muse-Glimmer-30B-GGUF",
           "date": "2026-08-12",
@@ -755,6 +922,32 @@
           "category": "AI Model"
         },
         {
+          "title": "nvidia/NVIDIA-NemotronLabs-VoiceChat-11B",
+          "link": "https://huggingface.co/nvidia/NVIDIA-NemotronLabs-VoiceChat-11B",
+          "date": "2026-08-12",
+          "source": "HuggingFace",
+          "description": "• NVIDIA-NemotronLabs-VoiceChat-11B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• NVIDIA-NemotronLabs-VoiceChat-11B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/NVIDIA-NemotronLabs-VoiceChat-11B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "inclusionAI/Ling-3.0-tiny",
+          "link": "https://huggingface.co/inclusionAI/Ling-3.0-tiny",
+          "date": "2026-08-12",
+          "source": "HuggingFace",
+          "description": "• Ling-3.0-tiny 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*4QxcQrBlTiAAAAAAQXAAAAgAemJ7AQ/original",
+          "is_english": true,
+          "summary": "• Ling-3.0-tiny 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "inclusionAI/Ling-3.0-tiny",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Kijai/MiniMax-H3-experimental",
           "link": "https://huggingface.co/Kijai/MiniMax-H3-experimental",
           "date": "2026-08-12",
@@ -764,19 +957,6 @@
           "is_english": true,
           "summary": "• MiniMax-H3-experimental 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Kijai/MiniMax-H3-experimental",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "inclusionAI/Ling-3.0-flash",
-          "link": "https://huggingface.co/inclusionAI/Ling-3.0-flash",
-          "date": "2026-08-12",
-          "source": "HuggingFace",
-          "description": "• Ling-3.0-flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://intranetproxy.alipay.com/skylark/lark/0/2026/png/23157180/1785831264180-d6ca4404-acef-4424-84db-fbc5a4c6db5f.png",
-          "is_english": true,
-          "summary": "• Ling-3.0-flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "inclusionAI/Ling-3.0-flash",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
