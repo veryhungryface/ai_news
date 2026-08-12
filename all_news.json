@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-08-12",
-      "update_time": "2026-08-11 21:35:05",
+      "update_time": "2026-08-12 01:02:16",
       "news": [
+        {
+          "title": "[8월11일] AI 출시 전 가상 인간 100만명이 먼저 써본다…‘MatrAIx’ 등장",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213824",
+          "date": "2026-08-12",
+          "source": "AI타임스",
+          "description": "영화 \\'매트릭스\\'에서는 AI의 지배로 인간이 가상 세계에서 생활합니다. 그런데 이를 본떠 만든 \\'MatrAIx\\'라는 시뮬레이션 환경은 정반대입니다. 여기에서는 현실의 인간을 닮은 가상 인간들이 가상 세계에서 새로운 AI를 먼저 사용해 봅니다.목적은 단순한 제품 테스트가 아닙니다. 실제 사람에게 AI를 공개했을 때 어떤 일이 벌어질지를 미리 살펴보자는 것입니다.MatrAIx는 하버드대학교와 MIT를 비롯한 여러 대학과 연구기관의 연구자 93명이 참여한 대규모 프로젝트입니다. AI와 머신러닝뿐 아니라 인간-컴퓨터 상호작용, 의료 AI,",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213824_217393_242.jpeg",
+          "is_english": true,
+          "original_title": "[8월11일] AI 출시 전 가상 인간 100만명이 먼저 써본다…‘MatrAIx’ 등장",
+          "original_summary": "영화 \\'매트릭스\\'에서는 AI의 지배로 인간이 가상 세계에서 생활합니다. 그런데 이를 본떠 만든 \\'MatrAIx\\'라는 시뮬레이션 환경은 정반대입니다. 여기에서는 현실의 인간을 닮은 가상 인간들이 가상 세계에서 새로운 AI를 먼저 사용해 봅니다.목적은 단순한 제품 테스트가 아닙니다. 실제 사람에게 AI를 공개했을 때 어떤 일이 벌어질지를 미리 살펴보자는 것입니다.MatrAIx는 하버드대학교와 MIT를 비롯한 여러 대학과 연구기관의 연구자 93명이 참여한 대규모 프로젝트입니다. AI와 머신러닝뿐 아니라 인간-컴퓨터 상호작용, 의료",
+          "summary": "영화 \\'매트릭스\\'에서는 AI의 지배로 인간이 가상 세계에서 생활합니다. 그런데 이를 본떠 만든 \\'MatrAIx\\'라는 시뮬레이션 환경은 정반대입니다. 여기에서는 현실의 인간을 닮은 가상 인간들이 가상 세계에서 새로운 AI를 먼저 사용해 봅니다.목적은 단순한 제품 테스트가 아닙니다. 실제 사람에게 AI를 공개했을 때 어떤 일이 벌어질지를 미리 살펴보자는 것입니다.MatrAIx는 하버드대학교와 MIT를 비롯한 여러 대학과 연구기관의 연구자 93명이 참여한 대규모 프로젝트입니다. AI와 머신러닝뿐 아니라 인간-컴퓨터 상호작용, 의료"
+        },
         {
           "title": "The Difference Between Artificial Intelligence and Artificial Intellect",
           "link": "https://aibusiness.com/ai-ethics/the-difference-between-artificial-intelligence-and-artificial-intellect",
@@ -106,19 +118,6 @@
           "category": "AI Model"
         },
         {
-          "title": "LiquidAI/LFM2.5-2.6B",
-          "link": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
-          "date": "2026-08-12",
-          "source": "HuggingFace",
-          "description": "• LFM2.5-2.6B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/NAfUL2725b6KDUGf1KOd9.png",
-          "is_english": true,
-          "summary": "• LFM2.5-2.6B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "LiquidAI/LFM2.5-2.6B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "moonshotai/Kimi-K3",
           "link": "https://huggingface.co/moonshotai/Kimi-K3",
           "date": "2026-08-12",
@@ -128,6 +127,19 @@
           "is_english": true,
           "summary": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "moonshotai/Kimi-K3",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "LiquidAI/LFM2.5-2.6B",
+          "link": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+          "date": "2026-08-12",
+          "source": "HuggingFace",
+          "description": "• LFM2.5-2.6B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/NAfUL2725b6KDUGf1KOd9.png",
+          "is_english": true,
+          "summary": "• LFM2.5-2.6B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "LiquidAI/LFM2.5-2.6B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -145,19 +157,6 @@
           "category": "AI Model"
         },
         {
-          "title": "deepgrove/maple-preview",
-          "link": "https://huggingface.co/deepgrove/maple-preview",
-          "date": "2026-08-12",
-          "source": "HuggingFace",
-          "description": "• maple-preview 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/deepgrove/maple-preview/resolve/main/assets/01-speed-frontier.png",
-          "is_english": true,
-          "summary": "• maple-preview 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepgrove/maple-preview",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "lightx2v/Minimax-h3-Turbo",
           "link": "https://huggingface.co/lightx2v/Minimax-h3-Turbo",
           "date": "2026-08-12",
@@ -167,6 +166,19 @@
           "is_english": true,
           "summary": "• Minimax-h3-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "lightx2v/Minimax-h3-Turbo",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "deepgrove/maple-preview",
+          "link": "https://huggingface.co/deepgrove/maple-preview",
+          "date": "2026-08-12",
+          "source": "HuggingFace",
+          "description": "• maple-preview 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/deepgrove/maple-preview/resolve/main/assets/01-speed-frontier.png",
+          "is_english": true,
+          "summary": "• maple-preview 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepgrove/maple-preview",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -249,15 +261,15 @@
           "category": "AI Model"
         },
         {
-          "title": "inclusionAI/Ling-3.0-flash",
-          "link": "https://huggingface.co/inclusionAI/Ling-3.0-flash",
+          "title": "Lightricks/LTX-2.5",
+          "link": "https://huggingface.co/Lightricks/LTX-2.5",
           "date": "2026-08-12",
           "source": "HuggingFace",
-          "description": "• Ling-3.0-flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://intranetproxy.alipay.com/skylark/lark/0/2026/png/23157180/1785831264180-d6ca4404-acef-4424-84db-fbc5a4c6db5f.png",
+          "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
           "is_english": true,
-          "summary": "• Ling-3.0-flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "inclusionAI/Ling-3.0-flash",
+          "summary": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Lightricks/LTX-2.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -275,6 +287,19 @@
           "category": "AI Model"
         },
         {
+          "title": "inclusionAI/Ling-3.0-flash",
+          "link": "https://huggingface.co/inclusionAI/Ling-3.0-flash",
+          "date": "2026-08-12",
+          "source": "HuggingFace",
+          "description": "• Ling-3.0-flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://intranetproxy.alipay.com/skylark/lark/0/2026/png/23157180/1785831264180-d6ca4404-acef-4424-84db-fbc5a4c6db5f.png",
+          "is_english": true,
+          "summary": "• Ling-3.0-flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "inclusionAI/Ling-3.0-flash",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Kijai/MiniMax-H3-experimental",
           "link": "https://huggingface.co/Kijai/MiniMax-H3-experimental",
           "date": "2026-08-12",
@@ -286,26 +311,37 @@
           "translated_title": "Kijai/MiniMax-H3-experimental",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
-          "link": "https://huggingface.co/unsloth/DeepSeek-V4-Flash-0731-GGUF",
-          "date": "2026-08-12",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Flash-0731-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
-          "is_english": true,
-          "summary": "• DeepSeek-V4-Flash-0731-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/DeepSeek-V4-Flash-0731-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-08-11",
-      "update_time": "2026-08-11 21:35:05",
+      "update_time": "2026-08-12 01:02:13",
       "news": [
+        {
+          "title": "Daybreak models are now available on AWS",
+          "link": "https://openai.com/index/daybreak-models-are-now-available-on-aws",
+          "date": "2026-08-11",
+          "source": "OpenAI",
+          "description": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Daybreak models are now available on AWS",
+          "original_summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows.",
+          "summary": "OpenAI and AWS are making Daybreak cybersecurity capabilities available through Amazon Bedrock to support enterprise security workflows."
+        },
+        {
+          "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+          "link": "https://techcrunch.com/2026/08/11/accel-closes-oversubscribed-550m-india-fund-within-weeks-19-months-after-its-last/",
+          "date": "2026-08-11",
+          "source": "TechCrunch",
+          "description": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/accel.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
+          "original_summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment.",
+          "summary": "The U.S. VC firm still has more than 55% of its previous $650 million India fund available for deployment."
+        },
         {
           "title": "OpenAI launches ChatGPT desktop app for Linux",
           "link": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux/",
