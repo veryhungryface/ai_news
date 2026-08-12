@@ -2,8 +2,56 @@
   "dates": [
     {
       "date": "2026-08-13",
-      "update_time": "2026-08-12 15:50:26",
+      "update_time": "2026-08-12 18:47:29",
       "news": [
+        {
+          "title": "Chinese Company Envisions 100,000 Self-Driving Trucks on Road by 2030",
+          "link": "https://aibusiness.com/generative-ai/chinese-company-envisions-100-000-self-driving-trucks-road-by-2030",
+          "date": "2026-08-13",
+          "source": "AI Business",
+          "description": "The ambitious plan comes as autonomous truck development lags behind that of autonomous cars.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltd05efdf2233beb1f/6a7c9ba6d32e8d25dc34551f/Pony.ai_truck.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Chinese Company Envisions 100,000 Self-Driving Trucks on Road by 2030",
+          "original_summary": "The ambitious plan comes as autonomous truck development lags behind that of autonomous cars.",
+          "summary": "The ambitious plan comes as autonomous truck development lags behind that of autonomous cars."
+        },
+        {
+          "title": "What is RAFT? RAG + Fine-Tuning",
+          "link": "https://becominghuman.ai/what-is-raft-rag-fine-tuning-e16cbb3e03f0?source=rss----5e5bef33608a---4",
+          "date": "2026-08-13",
+          "source": "Medium AI",
+          "description": "",
+          "image": null,
+          "is_english": true,
+          "original_title": "What is RAFT? RAG + Fine-Tuning",
+          "original_summary": "",
+          "summary": ""
+        },
+        {
+          "title": "Modern Operating Systems for AI Agents",
+          "link": "https://becominghuman.ai/modern-operating-systems-for-ai-agents-ef66f88103c4?source=rss----5e5bef33608a---4",
+          "date": "2026-08-13",
+          "source": "Medium AI",
+          "description": "",
+          "image": null,
+          "is_english": true,
+          "original_title": "Modern Operating Systems for AI Agents",
+          "original_summary": "",
+          "summary": ""
+        },
+        {
+          "title": "NLP in 2026: Trends, Use Cases & Future of Language AI | Shaip",
+          "link": "https://becominghuman.ai/nlp-in-2026-trends-use-cases-future-of-language-ai-shaip-3a0c0362191e?source=rss----5e5bef33608a---4",
+          "date": "2026-08-13",
+          "source": "Medium AI",
+          "description": "",
+          "image": null,
+          "is_english": true,
+          "original_title": "NLP in 2026: Trends, Use Cases & Future of Language AI | Shaip",
+          "original_summary": "",
+          "summary": ""
+        },
         {
           "title": "IBM Signs $240M Deal for Nvidia-Powered AI Cluster",
           "link": "https://aibusiness.com/generative-ai/ibm-signs-240m-deal-nvidia-powered-ai-cluster",
@@ -69,19 +117,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Comfy-Org/MiniMax-H3",
-          "link": "https://huggingface.co/Comfy-Org/MiniMax-H3",
-          "date": "2026-08-13",
-          "source": "HuggingFace",
-          "description": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Comfy-Org/MiniMax-H3",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Lightricks/LTX-2.5",
           "link": "https://huggingface.co/Lightricks/LTX-2.5",
           "date": "2026-08-13",
@@ -91,6 +126,19 @@
           "is_english": true,
           "summary": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Lightricks/LTX-2.5",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Comfy-Org/MiniMax-H3",
+          "link": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+          "date": "2026-08-13",
+          "source": "HuggingFace",
+          "description": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Comfy-Org/MiniMax-H3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -130,6 +178,19 @@
           "is_english": true,
           "summary": "• Muse-Glimmer-30B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/Muse-Glimmer-30B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.8-2.4T-A95B",
+          "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+          "date": "2026-08-13",
+          "source": "HuggingFace",
+          "description": "• Qwen3.8-2.4T-A95B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/Qwen%20Studio-536af5?logo=qwen&logoColor=white",
+          "is_english": true,
+          "summary": "• Qwen3.8-2.4T-A95B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.8-2.4T-A95B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -238,19 +299,6 @@
           "category": "AI Model"
         },
         {
-          "title": "ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
-          "link": "https://huggingface.co/ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
-          "date": "2026-08-13",
-          "source": "HuggingFace",
-          "description": "• Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
           "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
           "date": "2026-08-13",
@@ -264,15 +312,15 @@
           "category": "AI Model"
         },
         {
-          "title": "inclusionAI/Ling-3.0-tiny",
-          "link": "https://huggingface.co/inclusionAI/Ling-3.0-tiny",
+          "title": "ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
+          "link": "https://huggingface.co/ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
           "date": "2026-08-13",
           "source": "HuggingFace",
-          "description": "• Ling-3.0-tiny 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*4QxcQrBlTiAAAAAAQXAAAAgAemJ7AQ/original",
+          "description": "• Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• Ling-3.0-tiny 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "inclusionAI/Ling-3.0-tiny",
+          "summary": "• Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "ethanfel/Qwen3-VL-32B-Ultra-Heretic-H3-ComfyUI-INT8-ConvRot",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -280,8 +328,92 @@
     },
     {
       "date": "2026-08-12",
-      "update_time": "2026-08-12 15:50:24",
+      "update_time": "2026-08-12 18:47:27",
       "news": [
+        {
+          "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+          "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
+          "date": "2026-08-12",
+          "source": "TechCrunch",
+          "description": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/Scott-wu-headshot-e1780070238342.png?resize=1200,1004",
+          "is_english": true,
+          "original_title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
+          "original_summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation. ",
+          "summary": "Cognition may be looking to raise another mega round just a few months after raising $1 billion at a $26 billion valuation. "
+        },
+        {
+          "title": "As AI safety concerns mount, three pioneers make the case for staying open",
+          "link": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open/",
+          "date": "2026-08-12",
+          "source": "TechCrunch",
+          "description": "At Ai4, three of the world's most respected AI experts—Geoffrey Hinton, Fei-Fei Li, and Andrew Ng—debated regulation, open-source access, and how America can compete as China advances in Asia.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/HALL1410.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "As AI safety concerns mount, three pioneers make the case for staying open",
+          "original_summary": "At Ai4, three of the world's most respected AI experts—Geoffrey Hinton, Fei-Fei Li, and Andrew Ng—debated regulation, open-source access, and how America can compete as China advances in Asia.",
+          "summary": "At Ai4, three of the world's most respected AI experts—Geoffrey Hinton, Fei-Fei Li, and Andrew Ng—debated regulation, open-source access, and how America can compete as China advances in Asia."
+        },
+        {
+          "title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+          "link": "https://techcrunch.com/2026/08/12/openai-backed-thrive-holdings-raises-2b-to-bring-ai-to-the-enterprise/",
+          "date": "2026-08-12",
+          "source": "TechCrunch",
+          "description": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Alitmeter Capital. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/holdings_all_team.jpg?resize=1200,407",
+          "is_english": true,
+          "original_title": "OpenAI-backed Thrive Holdings raises $2B to bring AI to the enterprise",
+          "original_summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Alitmeter Capital. ",
+          "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Alitmeter Capital. "
+        },
+        {
+          "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
+          "link": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
+          "date": "2026-08-12",
+          "source": "TechCrunch",
+          "description": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/android_header.webp?resize=1200,854",
+          "is_english": true,
+          "original_title": "Mesh, Automattic’s CRM for everyone, comes to Android",
+          "original_summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app. ",
+          "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app. "
+        },
+        {
+          "title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
+          "link": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+          "date": "2026-08-12",
+          "source": "TechCrunch",
+          "description": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especially — are betting people want to capture stray thoughts and ideas the same way.&#160; One of [&#8230;]",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/IMG_0402.CR3_.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Why Stream ring-maker Sandbar says the future of AI wearables is voice",
+          "original_summary": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings espe",
+          "summary": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings espe"
+        },
+        {
+          "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+          "link": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+          "date": "2026-08-12",
+          "source": "TechCrunch",
+          "description": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/08/picnew-copy.png?resize=1200,801",
+          "is_english": true,
+          "original_title": "Lovable confirms new $13.3B valuation, raises another $400M",
+          "original_summary": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch.",
+          "summary": "This new funding comes after Lovable hit $500 million in annualized run rate revenue in June, the startup told TechCrunch."
+        },
+        {
+          "title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
+          "link": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
+          "date": "2026-08-12",
+          "source": "TechCrunch",
+          "description": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings especially — are betting people want to capture stray thoughts and ideas the same way.&#160; One of [&#8230;]",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/11/Sandbar_stream_ring-feat.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "Why Sandbar thinks it’s voice-enabled ring can avoid the AI hardware graveyard",
+          "original_summary": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings espe",
+          "summary": "AI notetaking hardware has taken off&#160;over&#160;the past&#160;couple of years, with credit-card-sized devices, pendants, pins,&#160;and&#160;even transcribing earbuds all promising to capture your meetings and turn them into summaries and action items. Now, a whole wave of wearables — rings espe"
+        },
         {
           "title": "From assistance to execution: How enterprises put AI to work",
           "link": "https://openai.com/index/how-enterprises-put-ai-to-work",
@@ -8329,7 +8461,7 @@
         {
           "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
-          "date": "2026-08-04",
+          "date": "2026-08-13",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4-Flash-0731 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
@@ -8342,7 +8474,7 @@
         {
           "title": "moonshotai/Kimi-K3",
           "link": "https://huggingface.co/moonshotai/Kimi-K3",
-          "date": "2026-08-04",
+          "date": "2026-08-13",
           "source": "HuggingFace",
           "description": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/moonshotai/Kimi-K3/resolve/main/assets/kimi-logo.png",
@@ -8355,7 +8487,7 @@
         {
           "title": "MiniMaxAI/MiniMax-H3",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
-          "date": "2026-08-04",
+          "date": "2026-08-13",
           "source": "HuggingFace",
           "description": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/MiniMaxAI/MiniMax-H3/resolve/main/assets/minimax-h3.png",
@@ -8368,7 +8500,7 @@
         {
           "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
           "link": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-          "date": "2026-08-04",
+          "date": "2026-08-13",
           "source": "HuggingFace",
           "description": "• Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF/resolve/main/valhalla.webp",
@@ -8381,7 +8513,7 @@
         {
           "title": "Comfy-Org/MiniMax-H3",
           "link": "https://huggingface.co/Comfy-Org/MiniMax-H3",
-          "date": "2026-08-04",
+          "date": "2026-08-13",
           "source": "HuggingFace",
           "description": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
