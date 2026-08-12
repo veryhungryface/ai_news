@@ -2,8 +2,44 @@
   "dates": [
     {
       "date": "2026-08-13",
-      "update_time": "2026-08-12 18:47:29",
+      "update_time": "2026-08-12 21:34:27",
       "news": [
+        {
+          "title": "\"AI 이용 지출 얼마?\" 달라진 서울살이 묻는다…2026 서울서베이",
+          "link": "https://www.yna.co.kr/view/AKR20260812138300004",
+          "date": "2026-08-13",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 김준태 기자 = 서울시는 오는 16일부터 9월 30일까지 &apos;2026 서울서베이를 벌인다고 13일 밝혔다.",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/08/12/AKR20260812138300004_02_i_P2.jpg",
+          "is_english": false,
+          "original_title": "\"AI 이용 지출 얼마?\" 달라진 서울살이 묻는다…2026 서울서베이",
+          "original_summary": "(서울=연합뉴스) 김준태 기자 = 서울시는 오는 16일부터 9월 30일까지 &apos;2026 서울서베이를 벌인다고 13일 밝혔다.",
+          "summary": "(서울=연합뉴스) 김준태 기자 = 서울시는 오는 16일부터 9월 30일까지 &apos;2026 서울서베이를 벌인다고 13일 밝혔다."
+        },
+        {
+          "title": "Mistral Aims to Build 1GB of Compute Capacity by 2030",
+          "link": "https://aibusiness.com/generative-ai/mistral-aims-build-1gb-of-compute-capacity-2030",
+          "date": "2026-08-13",
+          "source": "AI Business",
+          "description": "The Paris-based vendor continues to build European AI infrastructure.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blteb9897069c8bccf0/6a7cd0c280b6664615b56f51/Mistral_AI.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Mistral Aims to Build 1GB of Compute Capacity by 2030",
+          "original_summary": "The Paris-based vendor continues to build European AI infrastructure.",
+          "summary": "The Paris-based vendor continues to build European AI infrastructure."
+        },
+        {
+          "title": "Microsoft, Seeking to Stay Competitive, Slashes Prices for Coding Model",
+          "link": "https://aibusiness.com/generative-ai/microsoft-seeking-stay-competitive-slashes-prices-coding-model",
+          "date": "2026-08-13",
+          "source": "AI Business",
+          "description": "The cloud provider said the upgraded model is now better at completing tasks more quickly and using fewer tokens.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt3f9d37ddf623a39e/6a7ccab26cdfe32b89b49a11/New_Microsoft.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Microsoft, Seeking to Stay Competitive, Slashes Prices for Coding Model",
+          "original_summary": "The cloud provider said the upgraded model is now better at completing tasks more quickly and using fewer tokens.",
+          "summary": "The cloud provider said the upgraded model is now better at completing tasks more quickly and using fewer tokens."
+        },
         {
           "title": "Chinese Company Envisions 100,000 Self-Driving Trucks on Road by 2030",
           "link": "https://aibusiness.com/generative-ai/chinese-company-envisions-100-000-self-driving-trucks-road-by-2030",
@@ -143,6 +179,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Qwen/Qwen3.8-2.4T-A95B",
+          "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+          "date": "2026-08-13",
+          "source": "HuggingFace",
+          "description": "• Qwen3.8-2.4T-A95B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/Qwen%20Studio-536af5?logo=qwen&logoColor=white",
+          "is_english": true,
+          "summary": "• Qwen3.8-2.4T-A95B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.8-2.4T-A95B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "lightx2v/Minimax-h3-Turbo",
           "link": "https://huggingface.co/lightx2v/Minimax-h3-Turbo",
           "date": "2026-08-13",
@@ -152,19 +201,6 @@
           "is_english": true,
           "summary": "• Minimax-h3-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "lightx2v/Minimax-h3-Turbo",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "moonshotai/Kimi-K3",
-          "link": "https://huggingface.co/moonshotai/Kimi-K3",
-          "date": "2026-08-13",
-          "source": "HuggingFace",
-          "description": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/moonshotai/Kimi-K3/resolve/main/assets/kimi-logo.png",
-          "is_english": true,
-          "summary": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "moonshotai/Kimi-K3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -182,15 +218,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.8-2.4T-A95B",
-          "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+          "title": "moonshotai/Kimi-K3",
+          "link": "https://huggingface.co/moonshotai/Kimi-K3",
           "date": "2026-08-13",
           "source": "HuggingFace",
-          "description": "• Qwen3.8-2.4T-A95B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/Qwen%20Studio-536af5?logo=qwen&logoColor=white",
+          "description": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/moonshotai/Kimi-K3/resolve/main/assets/kimi-logo.png",
           "is_english": true,
-          "summary": "• Qwen3.8-2.4T-A95B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.8-2.4T-A95B",
+          "summary": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "moonshotai/Kimi-K3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -286,19 +322,6 @@
           "category": "AI Model"
         },
         {
-          "title": "deepgrove/maple-preview",
-          "link": "https://huggingface.co/deepgrove/maple-preview",
-          "date": "2026-08-13",
-          "source": "HuggingFace",
-          "description": "• maple-preview 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/deepgrove/maple-preview/resolve/main/assets/01-speed-frontier.png",
-          "is_english": true,
-          "summary": "• maple-preview 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepgrove/maple-preview",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
           "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
           "date": "2026-08-13",
@@ -308,6 +331,19 @@
           "is_english": true,
           "summary": "• NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "deepgrove/maple-preview",
+          "link": "https://huggingface.co/deepgrove/maple-preview",
+          "date": "2026-08-13",
+          "source": "HuggingFace",
+          "description": "• maple-preview 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/deepgrove/maple-preview/resolve/main/assets/01-speed-frontier.png",
+          "is_english": true,
+          "summary": "• maple-preview 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepgrove/maple-preview",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -328,8 +364,20 @@
     },
     {
       "date": "2026-08-12",
-      "update_time": "2026-08-12 18:47:27",
+      "update_time": "2026-08-12 21:34:27",
       "news": [
+        {
+          "title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+          "link": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+          "date": "2026-08-12",
+          "source": "TechCrunch",
+          "description": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/03/twitch-reflection.jpg?resize=1200,799",
+          "is_english": true,
+          "original_title": "Amazon will train on Twitch streamers’ content by default, unless they opt out",
+          "original_summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\"",
+          "summary": "\"If this was opt-in, nobody would opt in,\" Twitch CPO Mike Minton said on a livestream responding to user feedback. \"That's honestly the answer.\""
+        },
         {
           "title": "AI coding startup Cognition reportedly already in talks to raise at $40B valuation",
           "link": "https://techcrunch.com/2026/08/12/ai-coding-startup-cognition-reportedly-already-in-talks-to-raise-at-40b-valuation/",
