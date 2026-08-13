@@ -2,8 +2,104 @@
   "dates": [
     {
       "date": "2026-08-13",
-      "update_time": "2026-08-13 09:53:34",
+      "update_time": "2026-08-13 12:44:18",
       "news": [
+        {
+          "title": "오픈AI·앤트로픽 암호화 '사고 과정' 통째 유출...API 설계 허점 파문",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213894",
+          "date": "2026-08-13",
+          "source": "AI타임스",
+          "description": "오픈AI와 앤트로픽, 구글 등 주요 AI 기업이 경쟁력 보호와 정보 유출 방지를 위해 암호화해 숨겨둔 대형언어모델(LLM)의 내부 사고 과정(CoT)이 API 설계상의 허점을 통해 복원될 수 있다는 연구 결과가 나왔다. 특히 공격자가 고성능 모델 자체를 직접 탈옥하지 않고도 같은 생태계의 상대적으로 저렴하고 안전장치가 약한 모델을 \\'해독기\\'로 활용해 암호화된 추론(reasoning) 데이터를 평문으로 출력하도록 만들 수 있는 것으로 나타나 AI 업계에 상당한 파장이 예상된다.독일 튀빙겐의 ELLIS 연구소와 막스플랑크 지능시스템연구",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213894_217481_4156.png",
+          "is_english": false,
+          "original_title": "오픈AI·앤트로픽 암호화 '사고 과정' 통째 유출...API 설계 허점 파문",
+          "original_summary": "오픈AI와 앤트로픽, 구글 등 주요 AI 기업이 경쟁력 보호와 정보 유출 방지를 위해 암호화해 숨겨둔 대형언어모델(LLM)의 내부 사고 과정(CoT)이 API 설계상의 허점을 통해 복원될 수 있다는 연구 결과가 나왔다. 특히 공격자가 고성능 모델 자체를 직접 탈옥하지 않고도 같은 생태계의 상대적으로 저렴하고 안전장치가 약한 모델을 \\'해독기\\'로 활용해 암호화된 추론(reasoning) 데이터를 평문으로 출력하도록 만들 수 있는 것으로 나타나 AI 업계에 상당한 파장이 예상된다.독일 튀빙겐의 ELLIS 연구소와 막스플랑크 지능시스템",
+          "summary": "오픈AI와 앤트로픽, 구글 등 주요 AI 기업이 경쟁력 보호와 정보 유출 방지를 위해 암호화해 숨겨둔 대형언어모델(LLM)의 내부 사고 과정(CoT)이 API 설계상의 허점을 통해 복원될 수 있다는 연구 결과가 나왔다. 특히 공격자가 고성능 모델 자체를 직접 탈옥하지 않고도 같은 생태계의 상대적으로 저렴하고 안전장치가 약한 모델을 \\'해독기\\'로 활용해 암호화된 추론(reasoning) 데이터를 평문으로 출력하도록 만들 수 있는 것으로 나타나 AI 업계에 상당한 파장이 예상된다.독일 튀빙겐의 ELLIS 연구소와 막스플랑크 지능시스템"
+        },
+        {
+          "title": "오픈AI, \"8달러 내면 사용량 리셋\"...챗GPT 플러스 유료 재설정 기습 테스트",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213889",
+          "date": "2026-08-13",
+          "source": "AI타임스",
+          "description": "오픈AI가 월 20달러짜리 \\'챗GPT 플러스\\' 사용자를 대상으로 주간 사용량 한도를 고액을 지불하고 즉시 초기화할 수 있는 새로운 기능을 시험하고 있는 것으로 나타났다. 12일(현지시간) 비즈니스인사이더에 따르면, 주간 사용 한도를 모두 소진한 일부 사용자에게 “8달러를 지불하고 재설정하라(Pay $8 to reset)”는 버튼이 나타난 것으로 확인됐다.공식 발표 없이 일부 계정을 대상으로 진행되는 테스트로 보이며, AI 서비스를 집중적으로 사용하는 사용자에게 추가 사용량을 판매하는 새로운 수익 모델로 이어질지 주목된다.이번 기능은",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213889_217473_3325.jpg",
+          "is_english": false,
+          "original_title": "오픈AI, \"8달러 내면 사용량 리셋\"...챗GPT 플러스 유료 재설정 기습 테스트",
+          "original_summary": "오픈AI가 월 20달러짜리 \\'챗GPT 플러스\\' 사용자를 대상으로 주간 사용량 한도를 고액을 지불하고 즉시 초기화할 수 있는 새로운 기능을 시험하고 있는 것으로 나타났다. 12일(현지시간) 비즈니스인사이더에 따르면, 주간 사용 한도를 모두 소진한 일부 사용자에게 “8달러를 지불하고 재설정하라(Pay $8 to reset)”는 버튼이 나타난 것으로 확인됐다.공식 발표 없이 일부 계정을 대상으로 진행되는 테스트로 보이며, AI 서비스를 집중적으로 사용하는 사용자에게 추가 사용량을 판매하는 새로운 수익 모델로 이어질지 주목된다.이번 기",
+          "summary": "오픈AI가 월 20달러짜리 \\'챗GPT 플러스\\' 사용자를 대상으로 주간 사용량 한도를 고액을 지불하고 즉시 초기화할 수 있는 새로운 기능을 시험하고 있는 것으로 나타났다. 12일(현지시간) 비즈니스인사이더에 따르면, 주간 사용 한도를 모두 소진한 일부 사용자에게 “8달러를 지불하고 재설정하라(Pay $8 to reset)”는 버튼이 나타난 것으로 확인됐다.공식 발표 없이 일부 계정을 대상으로 진행되는 테스트로 보이며, AI 서비스를 집중적으로 사용하는 사용자에게 추가 사용량을 판매하는 새로운 수익 모델로 이어질지 주목된다.이번 기"
+        },
+        {
+          "title": "딥시크, '클로드 코드' 추격 공식 선언...'하네스 팀' 전면 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213883",
+          "date": "2026-08-13",
+          "source": "AI타임스",
+          "description": "딥시크가 AI 모델을 자율적으로 업무를 수행하는 에이전트로 전환하기 위한 ‘하네스(Harness)’ 전담 조직을 공식화하고 대규모 인재 채용에 나섰다. 특히 앤트로픽의 AI 코딩 에이전트 ‘클로드 코드’와 같은 제품을 겨냥해 모델 자체의 성능 경쟁을 넘어 실제 업무를 수행하는 에이전트 생태계 구축에 본격적으로 뛰어드는 모습이다.12일(현지시간) 블룸버그에 따르면, 딥시크는 중국 최대 인터넷 기업 텐센트의 메신저 플랫폼 위챗(WeChat)에 ‘딥시크 하네스 팀(DeepSeek Harness Team)’ 공식 계정을 개설했다.이 계정은",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213883_217463_3137.jpg",
+          "is_english": false,
+          "original_title": "딥시크, '클로드 코드' 추격 공식 선언...'하네스 팀' 전면 공개",
+          "original_summary": "딥시크가 AI 모델을 자율적으로 업무를 수행하는 에이전트로 전환하기 위한 ‘하네스(Harness)’ 전담 조직을 공식화하고 대규모 인재 채용에 나섰다. 특히 앤트로픽의 AI 코딩 에이전트 ‘클로드 코드’와 같은 제품을 겨냥해 모델 자체의 성능 경쟁을 넘어 실제 업무를 수행하는 에이전트 생태계 구축에 본격적으로 뛰어드는 모습이다.12일(현지시간) 블룸버그에 따르면, 딥시크는 중국 최대 인터넷 기업 텐센트의 메신저 플랫폼 위챗(WeChat)에 ‘딥시크 하네스 팀(DeepSeek Harness Team)’ 공식 계정을 개설했다.이 계정은",
+          "summary": "딥시크가 AI 모델을 자율적으로 업무를 수행하는 에이전트로 전환하기 위한 ‘하네스(Harness)’ 전담 조직을 공식화하고 대규모 인재 채용에 나섰다. 특히 앤트로픽의 AI 코딩 에이전트 ‘클로드 코드’와 같은 제품을 겨냥해 모델 자체의 성능 경쟁을 넘어 실제 업무를 수행하는 에이전트 생태계 구축에 본격적으로 뛰어드는 모습이다.12일(현지시간) 블룸버그에 따르면, 딥시크는 중국 최대 인터넷 기업 텐센트의 메신저 플랫폼 위챗(WeChat)에 ‘딥시크 하네스 팀(DeepSeek Harness Team)’ 공식 계정을 개설했다.이 계정은"
+        },
+        {
+          "title": "오픈AI, 기업 AI 지출서 앤트로픽에 반격…'GPT-5.6 솔', 페이블 5 제쳤다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213909",
+          "date": "2026-08-13",
+          "source": "AI타임스",
+          "description": "그동안 기업용 AI 시장에서 앤트로픽에 밀리던 오픈AI가 \\'GPT-5.6 솔\\' 출시를 계기로 반격에 성공했다. 기업들의 실제 지출 규모에서 앤트로픽의 \\'페이블 5\\'를 앞지르며 시장 판도를 뒤집는 양상이다.미국 핀테크 기업 램프(Ramp)가 7만개 이상의 미국 기업 고객의 청구서와 비용 지출 데이터를 분석해 발표한 AI 지수에 따르면, 지난 7월 앤트로픽의 페이블 5가 기록한 기업 AI 지출은 오픈AI의 GPT-5.6 솔의 약 75% 수준에 그쳤다.이는 앤트로픽의 최고 성능 모델보다 오픈AI의 최고 모델에 기업들이 더 많은 비용을 지",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213909_217498_4752.jpg",
+          "is_english": true,
+          "original_title": "오픈AI, 기업 AI 지출서 앤트로픽에 반격…'GPT-5.6 솔', 페이블 5 제쳤다",
+          "original_summary": "그동안 기업용 AI 시장에서 앤트로픽에 밀리던 오픈AI가 \\'GPT-5.6 솔\\' 출시를 계기로 반격에 성공했다. 기업들의 실제 지출 규모에서 앤트로픽의 \\'페이블 5\\'를 앞지르며 시장 판도를 뒤집는 양상이다.미국 핀테크 기업 램프(Ramp)가 7만개 이상의 미국 기업 고객의 청구서와 비용 지출 데이터를 분석해 발표한 AI 지수에 따르면, 지난 7월 앤트로픽의 페이블 5가 기록한 기업 AI 지출은 오픈AI의 GPT-5.6 솔의 약 75% 수준에 그쳤다.이는 앤트로픽의 최고 성능 모델보다 오픈AI의 최고 모델에 기업들이 더 많은 비",
+          "summary": "그동안 기업용 AI 시장에서 앤트로픽에 밀리던 오픈AI가 \\'GPT-5.6 솔\\' 출시를 계기로 반격에 성공했다. 기업들의 실제 지출 규모에서 앤트로픽의 \\'페이블 5\\'를 앞지르며 시장 판도를 뒤집는 양상이다.미국 핀테크 기업 램프(Ramp)가 7만개 이상의 미국 기업 고객의 청구서와 비용 지출 데이터를 분석해 발표한 AI 지수에 따르면, 지난 7월 앤트로픽의 페이블 5가 기록한 기업 AI 지출은 오픈AI의 GPT-5.6 솔의 약 75% 수준에 그쳤다.이는 앤트로픽의 최고 성능 모델보다 오픈AI의 최고 모델에 기업들이 더 많은 비"
+        },
+        {
+          "title": "챗GPT로 반려견 암 치료법 만든 호주 사업가, ‘맞춤형 mRNA’ 스타트업 창립",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213911",
+          "date": "2026-08-13",
+          "source": "AI타임스",
+          "description": "생성 AI와 유전체 분석을 활용해 반려견의 암 치료법을 설계한 일로 세계적인 화제가 된 호주의 사업가가 결국 개인 맞춤형 mRNA 암 백신 개발 스타트업을 설립했다. 폴 코닝엄은 12일 X를 통해 스타트업 갬지(Gamgee)를 설립하고 AI와 유전학을 결합해 반려견을 위한 개인 맞춤형 mRNA 암 백신을 개발하겠다고 밝혔다.코닝엄은 앞서 자신의 반려견 ‘로지’의 종양 유전자 정보를 분석하고 챗GPT와 그록 등 AI 도구를 활용해 맞춤형 암 백신 후보를 설계한 사례로 유명해졌다.My dog Rosie was given months t",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213911_217500_1615.jpg",
+          "is_english": false,
+          "original_title": "챗GPT로 반려견 암 치료법 만든 호주 사업가, ‘맞춤형 mRNA’ 스타트업 창립",
+          "original_summary": "생성 AI와 유전체 분석을 활용해 반려견의 암 치료법을 설계한 일로 세계적인 화제가 된 호주의 사업가가 결국 개인 맞춤형 mRNA 암 백신 개발 스타트업을 설립했다. 폴 코닝엄은 12일 X를 통해 스타트업 갬지(Gamgee)를 설립하고 AI와 유전학을 결합해 반려견을 위한 개인 맞춤형 mRNA 암 백신을 개발하겠다고 밝혔다.코닝엄은 앞서 자신의 반려견 ‘로지’의 종양 유전자 정보를 분석하고 챗GPT와 그록 등 AI 도구를 활용해 맞춤형 암 백신 후보를 설계한 사례로 유명해졌다.My dog Rosie was given months t",
+          "summary": "생성 AI와 유전체 분석을 활용해 반려견의 암 치료법을 설계한 일로 세계적인 화제가 된 호주의 사업가가 결국 개인 맞춤형 mRNA 암 백신 개발 스타트업을 설립했다. 폴 코닝엄은 12일 X를 통해 스타트업 갬지(Gamgee)를 설립하고 AI와 유전학을 결합해 반려견을 위한 개인 맞춤형 mRNA 암 백신을 개발하겠다고 밝혔다.코닝엄은 앞서 자신의 반려견 ‘로지’의 종양 유전자 정보를 분석하고 챗GPT와 그록 등 AI 도구를 활용해 맞춤형 암 백신 후보를 설계한 사례로 유명해졌다.My dog Rosie was given months t"
+        },
+        {
+          "title": "[게시판] 딥핑소스, 국내 자동차 전시장 대상 AI 영상분석 솔루션 적용 등 단신",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213921",
+          "date": "2026-08-13",
+          "source": "AI타임스",
+          "description": "■ AI 공간분석 전문 딥핑소스는 국내 한 자동차 전시장에 영상분석 솔루션을 적용, 그간 수기로 진행되던 ‘고객 유형 분석’ 업무를 AI로 자동화했다고 밝혔다. 현재 전시장에서 방문객 수, 고객 동선, 체류 시간, 퍼널(Funnel) 분석 등 고객 행동 데이터를 AI 영상분석 기술로 분석하고 있다. ■ 모빌린트는 시스텝온칩(SoC) ‘레귤러스’의 양산 체계 구축에 이어, 국내외 주요 고객사를 대상으로 본격 제품 공급에 착수했다고 밝혔다. 국내는 물론, 미국과 독일, 대만, 일본 등에 진출해 있다. 최근 기존 시스템을 크게 변경하지",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213921_217511_1427.png",
+          "is_english": false,
+          "original_title": "[게시판] 딥핑소스, 국내 자동차 전시장 대상 AI 영상분석 솔루션 적용 등 단신",
+          "original_summary": "■ AI 공간분석 전문 딥핑소스는 국내 한 자동차 전시장에 영상분석 솔루션을 적용, 그간 수기로 진행되던 ‘고객 유형 분석’ 업무를 AI로 자동화했다고 밝혔다. 현재 전시장에서 방문객 수, 고객 동선, 체류 시간, 퍼널(Funnel) 분석 등 고객 행동 데이터를 AI 영상분석 기술로 분석하고 있다. ■ 모빌린트는 시스텝온칩(SoC) ‘레귤러스’의 양산 체계 구축에 이어, 국내외 주요 고객사를 대상으로 본격 제품 공급에 착수했다고 밝혔다. 국내는 물론, 미국과 독일, 대만, 일본 등에 진출해 있다. 최근 기존 시스템을 크게 변경하지",
+          "summary": "■ AI 공간분석 전문 딥핑소스는 국내 한 자동차 전시장에 영상분석 솔루션을 적용, 그간 수기로 진행되던 ‘고객 유형 분석’ 업무를 AI로 자동화했다고 밝혔다. 현재 전시장에서 방문객 수, 고객 동선, 체류 시간, 퍼널(Funnel) 분석 등 고객 행동 데이터를 AI 영상분석 기술로 분석하고 있다. ■ 모빌린트는 시스텝온칩(SoC) ‘레귤러스’의 양산 체계 구축에 이어, 국내외 주요 고객사를 대상으로 본격 제품 공급에 착수했다고 밝혔다. 국내는 물론, 미국과 독일, 대만, 일본 등에 진출해 있다. 최근 기존 시스템을 크게 변경하지"
+        },
+        {
+          "title": "브릴스, 로봇 플랫폼으로 코스닥 도전 \"레고처럼 조립하는 모듈화가 핵심\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213922",
+          "date": "2026-08-13",
+          "source": "AI타임스",
+          "description": "로봇 모듈화 플랫폼 기업 브릴스(대표 전진)는 13일 서울 여의도에서 기자간담회를 열고 코스닥 상장 추진 배경과 핵심 경쟁력을 발표했다.로봇 모듈화 플랫폼으로 시스템통합(SI) 중심 사업을 넘어 피지컬 AI 기반 지능형 로봇 플랫폼 기업으로 도약하겠다는 계획이다.■ \\\"레고 블록처럼 조합해 SI 한계 넘을 것\\\" 확장성·호환성이 강점전진 대표는 기존 SI 산업의 한계를 지적했다. \\\"대부분의 SI 기업은 대기업이 이미 정해놓은 공정 레이아웃에 맞춰 매번 신규 기술을 개발해야 하는 구조라 프로젝트를 수행할수록 인건비와 연구개발비가 오히려",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213922_217515_4311.jpg",
+          "is_english": false,
+          "original_title": "브릴스, 로봇 플랫폼으로 코스닥 도전 \"레고처럼 조립하는 모듈화가 핵심\"",
+          "original_summary": "로봇 모듈화 플랫폼 기업 브릴스(대표 전진)는 13일 서울 여의도에서 기자간담회를 열고 코스닥 상장 추진 배경과 핵심 경쟁력을 발표했다.로봇 모듈화 플랫폼으로 시스템통합(SI) 중심 사업을 넘어 피지컬 AI 기반 지능형 로봇 플랫폼 기업으로 도약하겠다는 계획이다.■ \\\"레고 블록처럼 조합해 SI 한계 넘을 것\\\" 확장성·호환성이 강점전진 대표는 기존 SI 산업의 한계를 지적했다. \\\"대부분의 SI 기업은 대기업이 이미 정해놓은 공정 레이아웃에 맞춰 매번 신규 기술을 개발해야 하는 구조라 프로젝트를 수행할수록 인건비와 연구개발비가 오",
+          "summary": "로봇 모듈화 플랫폼 기업 브릴스(대표 전진)는 13일 서울 여의도에서 기자간담회를 열고 코스닥 상장 추진 배경과 핵심 경쟁력을 발표했다.로봇 모듈화 플랫폼으로 시스템통합(SI) 중심 사업을 넘어 피지컬 AI 기반 지능형 로봇 플랫폼 기업으로 도약하겠다는 계획이다.■ \\\"레고 블록처럼 조합해 SI 한계 넘을 것\\\" 확장성·호환성이 강점전진 대표는 기존 SI 산업의 한계를 지적했다. \\\"대부분의 SI 기업은 대기업이 이미 정해놓은 공정 레이아웃에 맞춰 매번 신규 기술을 개발해야 하는 구조라 프로젝트를 수행할수록 인건비와 연구개발비가 오"
+        },
+        {
+          "title": "마에스트로포렌식, ‘AI 스마트 안경·생성 AI 범죄’ 수사 도구 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213923",
+          "date": "2026-08-13",
+          "source": "AI타임스",
+          "description": "보안 전문 마에스트로 포렌식(대표 김종광)은 13일 서울 금천구에서 기자간담회를 열고, AI 신종 디지털 범죄에 대응하는 차세대 포렌식 솔루션 ‘AI 스마트 안경(MAESTRO WiSDOM AI Glasses) 포렌식’과 ‘생성 AI(MAESTRO WiSDOM GenAI) 포렌식’을 발표했다. 두 제품은 기존 통합 디지털 포렌식 플랫폼 \\'마에스트로 위즈덤(MAESTRO WiSDOM)\\' 제품군의 최신 솔루션이다. 최근 급증하는 AI 스마트 안경 악용 범죄와 생성 AI 디지털 범죄에 특화됐다.기존 포렌식 도구는 PC와 스마트폰 중심으로",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213923_217513_2538.jpeg",
+          "is_english": false,
+          "original_title": "마에스트로포렌식, ‘AI 스마트 안경·생성 AI 범죄’ 수사 도구 공개",
+          "original_summary": "보안 전문 마에스트로 포렌식(대표 김종광)은 13일 서울 금천구에서 기자간담회를 열고, AI 신종 디지털 범죄에 대응하는 차세대 포렌식 솔루션 ‘AI 스마트 안경(MAESTRO WiSDOM AI Glasses) 포렌식’과 ‘생성 AI(MAESTRO WiSDOM GenAI) 포렌식’을 발표했다. 두 제품은 기존 통합 디지털 포렌식 플랫폼 \\'마에스트로 위즈덤(MAESTRO WiSDOM)\\' 제품군의 최신 솔루션이다. 최근 급증하는 AI 스마트 안경 악용 범죄와 생성 AI 디지털 범죄에 특화됐다.기존 포렌식 도구는 PC와 스마트폰 중심",
+          "summary": "보안 전문 마에스트로 포렌식(대표 김종광)은 13일 서울 금천구에서 기자간담회를 열고, AI 신종 디지털 범죄에 대응하는 차세대 포렌식 솔루션 ‘AI 스마트 안경(MAESTRO WiSDOM AI Glasses) 포렌식’과 ‘생성 AI(MAESTRO WiSDOM GenAI) 포렌식’을 발표했다. 두 제품은 기존 통합 디지털 포렌식 플랫폼 \\'마에스트로 위즈덤(MAESTRO WiSDOM)\\' 제품군의 최신 솔루션이다. 최근 급증하는 AI 스마트 안경 악용 범죄와 생성 AI 디지털 범죄에 특화됐다.기존 포렌식 도구는 PC와 스마트폰 중심"
+        },
         {
           "title": "'AI 시대 외로움 해법은'…KAIST서 18일 글로벌 콘퍼런스",
           "link": "https://www.yna.co.kr/view/AKR20260813157500063",
@@ -707,19 +803,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Comfy-Org/MiniMax-H3",
-          "link": "https://huggingface.co/Comfy-Org/MiniMax-H3",
-          "date": "2026-08-13",
-          "source": "HuggingFace",
-          "description": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Comfy-Org/MiniMax-H3",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "lightx2v/Minimax-h3-Turbo",
           "link": "https://huggingface.co/lightx2v/Minimax-h3-Turbo",
           "date": "2026-08-13",
@@ -729,6 +812,19 @@
           "is_english": true,
           "summary": "• Minimax-h3-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "lightx2v/Minimax-h3-Turbo",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Comfy-Org/MiniMax-H3",
+          "link": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+          "date": "2026-08-13",
+          "source": "HuggingFace",
+          "description": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Comfy-Org/MiniMax-H3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -798,19 +894,6 @@
           "category": "AI Model"
         },
         {
-          "title": "drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
-          "link": "https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
-          "date": "2026-08-13",
-          "source": "HuggingFace",
-          "description": "• MiniMax-H3-Turbo-Lora-ComfyUI 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/63473b59e5c0717e6737b872/zfVV_yKP-njnOrGinGy8K.png",
-          "is_english": true,
-          "summary": "• MiniMax-H3-Turbo-Lora-ComfyUI 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "meta-models/Muse-Glimmer-30B-GGUF",
           "link": "https://huggingface.co/meta-models/Muse-Glimmer-30B-GGUF",
           "date": "2026-08-13",
@@ -820,6 +903,19 @@
           "is_english": true,
           "summary": "• Muse-Glimmer-30B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "meta-models/Muse-Glimmer-30B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
+          "link": "https://huggingface.co/drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
+          "date": "2026-08-13",
+          "source": "HuggingFace",
+          "description": "• MiniMax-H3-Turbo-Lora-ComfyUI 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/63473b59e5c0717e6737b872/zfVV_yKP-njnOrGinGy8K.png",
+          "is_english": true,
+          "summary": "• MiniMax-H3-Turbo-Lora-ComfyUI 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "drbaph/MiniMax-H3-Turbo-Lora-ComfyUI",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -850,19 +946,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/NVIDIA-NemotronLabs-VoiceChat-11B",
-          "link": "https://huggingface.co/nvidia/NVIDIA-NemotronLabs-VoiceChat-11B",
-          "date": "2026-08-13",
-          "source": "HuggingFace",
-          "description": "• NVIDIA-NemotronLabs-VoiceChat-11B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• NVIDIA-NemotronLabs-VoiceChat-11B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/NVIDIA-NemotronLabs-VoiceChat-11B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "inclusionAI/Ling-3.0-tiny",
           "link": "https://huggingface.co/inclusionAI/Ling-3.0-tiny",
           "date": "2026-08-13",
@@ -872,6 +955,19 @@
           "is_english": true,
           "summary": "• Ling-3.0-tiny 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "inclusionAI/Ling-3.0-tiny",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/NVIDIA-NemotronLabs-VoiceChat-11B",
+          "link": "https://huggingface.co/nvidia/NVIDIA-NemotronLabs-VoiceChat-11B",
+          "date": "2026-08-13",
+          "source": "HuggingFace",
+          "description": "• NVIDIA-NemotronLabs-VoiceChat-11B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• NVIDIA-NemotronLabs-VoiceChat-11B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/NVIDIA-NemotronLabs-VoiceChat-11B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
