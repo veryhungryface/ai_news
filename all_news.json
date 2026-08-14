@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-08-15",
-      "update_time": "2026-08-14 18:40:17",
+      "update_time": "2026-08-14 21:15:47",
       "news": [
+        {
+          "title": "여고생 유관순·학생선수 안중근·교장 김구…광복절 기념 AI영상 화제",
+          "link": "https://www.yna.co.kr/view/AKR20260814075200063",
+          "date": "2026-08-15",
+          "source": "연합뉴스",
+          "description": "(대전=연합뉴스) 이주형 기자 = &quot;덕분에 제가, 우리 국민들이 대한민국이란 이렇게 좋은 나라에서 살아가고 있습니다. 부디 그곳에서도 이렇게 살...",
+          "image": "https://img.yna.co.kr/photo/cms/2026/08/14/45/PCM20260814000045990_P2.jpg",
+          "is_english": false,
+          "original_title": "여고생 유관순·학생선수 안중근·교장 김구…광복절 기념 AI영상 화제",
+          "original_summary": "(대전=연합뉴스) 이주형 기자 = &quot;덕분에 제가, 우리 국민들이 대한민국이란 이렇게 좋은 나라에서 살아가고 있습니다. 부디 그곳에서도 이렇게 살...",
+          "summary": "(대전=연합뉴스) 이주형 기자 = &quot;덕분에 제가, 우리 국민들이 대한민국이란 이렇게 좋은 나라에서 살아가고 있습니다. 부디 그곳에서도 이렇게 살..."
+        },
         {
           "title": "IBM, OpenAI Partner to Accelerate Enterprise AI",
           "link": "https://aibusiness.com/generative-ai/ibm-openai-partner-accelerate-enterprise-ai",
@@ -94,19 +106,6 @@
           "category": "AI Model"
         },
         {
-          "title": "MiniMaxAI/MiniMax-Music3",
-          "link": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
-          "date": "2026-08-15",
-          "source": "HuggingFace",
-          "description": "• MiniMax-Music3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/MiniMaxAI/MiniMax-Music3/resolve/main/figures/Music3.png",
-          "is_english": true,
-          "summary": "• MiniMax-Music3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "MiniMaxAI/MiniMax-Music3",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Qwen3.8-27B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
           "date": "2026-08-15",
@@ -116,6 +115,19 @@
           "is_english": true,
           "summary": "• Qwen3.8-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/Qwen3.8-27B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-Music3",
+          "link": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+          "date": "2026-08-15",
+          "source": "HuggingFace",
+          "description": "• MiniMax-Music3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/MiniMaxAI/MiniMax-Music3/resolve/main/figures/Music3.png",
+          "is_english": true,
+          "summary": "• MiniMax-Music3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "MiniMaxAI/MiniMax-Music3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -224,6 +236,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Qwen/Qwen3.8-27B-FP8",
+          "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+          "date": "2026-08-15",
+          "source": "HuggingFace",
+          "description": "• Qwen3.8-27B-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.8-27B-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.8-27B-FP8",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "meta-models/Muse-Glimmer-30B-GGUF",
           "link": "https://huggingface.co/meta-models/Muse-Glimmer-30B-GGUF",
           "date": "2026-08-15",
@@ -274,26 +299,37 @@
           "translated_title": "LiquidAI/LFM2.5-2.6B",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "inclusionAI/Ling-3.0-tiny",
-          "link": "https://huggingface.co/inclusionAI/Ling-3.0-tiny",
-          "date": "2026-08-15",
-          "source": "HuggingFace",
-          "description": "• Ling-3.0-tiny 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*4QxcQrBlTiAAAAAAQXAAAAgAemJ7AQ/original",
-          "is_english": true,
-          "summary": "• Ling-3.0-tiny 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "inclusionAI/Ling-3.0-tiny",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-08-14",
-      "update_time": "2026-08-14 18:40:17",
+      "update_time": "2026-08-14 21:15:45",
       "news": [
+        {
+          "title": "[게시판] 원티드랩, AI 교육 성장 힘입어 17억 흑자전환 등 단신",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213980",
+          "date": "2026-08-14",
+          "source": "AI타임스",
+          "description": "■ 원티드랩은 14일 공시를 통해 2분기 실적을 발표했다. 매출은 전분기 대비 32% 증가한 117억원, 영업이익은 17억원을 기록하며 흑자전환했다. AI 교육 영역의 성과가 두드러졌다. 기업·공공기관·대학 등에서 AI 도입이 본격화되면서 실무형 교육 수요가 증가함에 따라, AI 교육 관련 매출이 전분기 대비 18% 상승했다. 특히 ‘AX 챔피언’을 비롯한 AI 인재 양성 프로그램은 단기간에 누적 참여 인원 4000명을 넘어섰다. ■ 포바이포는 2026년 상반기 별도 기준 매출액 91억7000만원을 기록하며 전년 동기 대비 50.8",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213980_217585_164.jpeg",
+          "is_english": false,
+          "original_title": "[게시판] 원티드랩, AI 교육 성장 힘입어 17억 흑자전환 등 단신",
+          "original_summary": "■ 원티드랩은 14일 공시를 통해 2분기 실적을 발표했다. 매출은 전분기 대비 32% 증가한 117억원, 영업이익은 17억원을 기록하며 흑자전환했다. AI 교육 영역의 성과가 두드러졌다. 기업·공공기관·대학 등에서 AI 도입이 본격화되면서 실무형 교육 수요가 증가함에 따라, AI 교육 관련 매출이 전분기 대비 18% 상승했다. 특히 ‘AX 챔피언’을 비롯한 AI 인재 양성 프로그램은 단기간에 누적 참여 인원 4000명을 넘어섰다. ■ 포바이포는 2026년 상반기 별도 기준 매출액 91억7000만원을 기록하며 전년 동기 대비 50.8",
+          "summary": "■ 원티드랩은 14일 공시를 통해 2분기 실적을 발표했다. 매출은 전분기 대비 32% 증가한 117억원, 영업이익은 17억원을 기록하며 흑자전환했다. AI 교육 영역의 성과가 두드러졌다. 기업·공공기관·대학 등에서 AI 도입이 본격화되면서 실무형 교육 수요가 증가함에 따라, AI 교육 관련 매출이 전분기 대비 18% 상승했다. 특히 ‘AX 챔피언’을 비롯한 AI 인재 양성 프로그램은 단기간에 누적 참여 인원 4000명을 넘어섰다. ■ 포바이포는 2026년 상반기 별도 기준 매출액 91억7000만원을 기록하며 전년 동기 대비 50.8"
+        },
+        {
+          "title": "이스트소프트, 상반기 매출 607억...\"AI 중심 역대 최대\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213979",
+          "date": "2026-08-14",
+          "source": "AI타임스",
+          "description": "이스트소프트(대표 정상원)는 K-IFRS 연결재무제표 기준 상반기 누적 매출이 607억원으로 전년 동기 대비 7.6% 증가했다고 14일 밝혔다.상반기 매출 성장은 AI/SW·게임·자산운용 사업이 견인했으며, 같은 기간 영업손실은 53.3% 줄어 큰 폭 개선을 이뤘다고 전했다.AI/SW 사업은 303억원 매출을 기록하며 18.3% 성장했다. AI 아바타 기반 생성 서비스 페르소에이아이 및 AX 사업, AI 교육 사업이 성장을 이끌었다. 게임 사업은 신작 ‘카발RED’ 출시 효과가 크게 작용하며 2.9% 증가한 164억원을 자산운용업은",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213979_217583_1440.png",
+          "is_english": false,
+          "original_title": "이스트소프트, 상반기 매출 607억...\"AI 중심 역대 최대\"",
+          "original_summary": "이스트소프트(대표 정상원)는 K-IFRS 연결재무제표 기준 상반기 누적 매출이 607억원으로 전년 동기 대비 7.6% 증가했다고 14일 밝혔다.상반기 매출 성장은 AI/SW·게임·자산운용 사업이 견인했으며, 같은 기간 영업손실은 53.3% 줄어 큰 폭 개선을 이뤘다고 전했다.AI/SW 사업은 303억원 매출을 기록하며 18.3% 성장했다. AI 아바타 기반 생성 서비스 페르소에이아이 및 AX 사업, AI 교육 사업이 성장을 이끌었다. 게임 사업은 신작 ‘카발RED’ 출시 효과가 크게 작용하며 2.9% 증가한 164억원을 자산운용업은",
+          "summary": "이스트소프트(대표 정상원)는 K-IFRS 연결재무제표 기준 상반기 누적 매출이 607억원으로 전년 동기 대비 7.6% 증가했다고 14일 밝혔다.상반기 매출 성장은 AI/SW·게임·자산운용 사업이 견인했으며, 같은 기간 영업손실은 53.3% 줄어 큰 폭 개선을 이뤘다고 전했다.AI/SW 사업은 303억원 매출을 기록하며 18.3% 성장했다. AI 아바타 기반 생성 서비스 페르소에이아이 및 AX 사업, AI 교육 사업이 성장을 이끌었다. 게임 사업은 신작 ‘카발RED’ 출시 효과가 크게 작용하며 2.9% 증가한 164억원을 자산운용업은"
+        },
         {
           "title": "Google will now allow users to remove visible watermark from its AI generations",
           "link": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations/",
