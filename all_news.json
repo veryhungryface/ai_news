@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-08-14",
-      "update_time": "2026-08-14 09:51:22",
+      "update_time": "2026-08-14 12:40:01",
       "news": [
+        {
+          "title": "천재교과서의 AI교과서 가격고시 불복소송 1심 각하",
+          "link": "https://www.yna.co.kr/view/AKR20260814169000004",
+          "date": "2026-08-14",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 이영섭 기자 = 정부와 협상 끝에 정했던 인공지능(AI) 디지털교과서 가격이 부당하다며 발행사가 낸 소송이 각하 결정을 받았다...",
+          "image": "https://img.yna.co.kr/photo/cms/2024/09/26/43/PCM20240926000043990_P2.jpg",
+          "is_english": false,
+          "original_title": "천재교과서의 AI교과서 가격고시 불복소송 1심 각하",
+          "original_summary": "(서울=연합뉴스) 이영섭 기자 = 정부와 협상 끝에 정했던 인공지능(AI) 디지털교과서 가격이 부당하다며 발행사가 낸 소송이 각하 결정을 받았다...",
+          "summary": "(서울=연합뉴스) 이영섭 기자 = 정부와 협상 끝에 정했던 인공지능(AI) 디지털교과서 가격이 부당하다며 발행사가 낸 소송이 각하 결정을 받았다..."
+        },
         {
           "title": "앤트로픽 \"동일 작업 투입된 에이전트, 상대 방해하고 악성코드 만들어 영역 싸움\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=213964",
@@ -585,19 +597,6 @@
           "category": "AI Model"
         },
         {
-          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
-          "date": "2026-08-14",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Flash-0731 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
-          "is_english": true,
-          "summary": "• DeepSeek-V4-Flash-0731 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepseek-ai/DeepSeek-V4-Flash-0731",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "MiniMaxAI/MiniMax-Music3",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
           "date": "2026-08-14",
@@ -607,6 +606,19 @@
           "is_english": true,
           "summary": "• MiniMax-Music3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "MiniMaxAI/MiniMax-Music3",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+          "date": "2026-08-14",
+          "source": "HuggingFace",
+          "description": "• DeepSeek-V4-Flash-0731 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
+          "is_english": true,
+          "summary": "• DeepSeek-V4-Flash-0731 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepseek-ai/DeepSeek-V4-Flash-0731",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -780,15 +792,15 @@
           "category": "AI Model"
         },
         {
-          "title": "endless-frontier/BigBang-v1",
-          "link": "https://huggingface.co/endless-frontier/BigBang-v1",
+          "title": "Qwen/Qwen3.8-2.4T-A95B-FP8",
+          "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8",
           "date": "2026-08-14",
           "source": "HuggingFace",
-          "description": "• BigBang-v1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/endless-frontier/BigBang-v1/resolve/main/./bigbang_main_figure.png",
+          "description": "• Qwen3.8-2.4T-A95B-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/Qwen%20Studio-536af5?logo=qwen&logoColor=white",
           "is_english": true,
-          "summary": "• BigBang-v1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "endless-frontier/BigBang-v1",
+          "summary": "• Qwen3.8-2.4T-A95B-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.8-2.4T-A95B-FP8",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
