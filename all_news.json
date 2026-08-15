@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-08-15",
-      "update_time": "2026-08-15 09:16:55",
+      "update_time": "2026-08-15 12:16:56",
       "news": [
+        {
+          "title": "앤트로픽 '워터마크' 도입에 사용자 반발…'클로드' 구독 취소 확산",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213998",
+          "date": "2026-08-15",
+          "source": "AI타임스",
+          "description": "앤트로픽이 \\'클로드\\'가 출력하는 텍스트에 보이지 않는 워터마크 기술을 도입하면서 유료 사용자들의 반발과 구독 취소 사태가 확대되고 있다. 지난 2일부터 발효된 유럽연합(EU) AI 법의 투명성 규정을 준수하기 위한 조치이지만, 실제 현장에서는 AI 사용 흔적이 남는 것에 대한 우려가 커지며 개발자와 전문가의 이탈로 이어지는 양상이다.비즈니스 인사이더에 따르면, 앤트로픽이 워터마크를 직용했다고 밝힌 10일 이후 수십명의 사용자가 클로드 구독을 취소했다는 글을 X에 올렸다.이중 미국의 공공 정책 분야에 종사하는 아르투로 비야로야라는 사",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213998_217611_2333.png",
+          "is_english": false,
+          "original_title": "앤트로픽 '워터마크' 도입에 사용자 반발…'클로드' 구독 취소 확산",
+          "original_summary": "앤트로픽이 \\'클로드\\'가 출력하는 텍스트에 보이지 않는 워터마크 기술을 도입하면서 유료 사용자들의 반발과 구독 취소 사태가 확대되고 있다. 지난 2일부터 발효된 유럽연합(EU) AI 법의 투명성 규정을 준수하기 위한 조치이지만, 실제 현장에서는 AI 사용 흔적이 남는 것에 대한 우려가 커지며 개발자와 전문가의 이탈로 이어지는 양상이다.비즈니스 인사이더에 따르면, 앤트로픽이 워터마크를 직용했다고 밝힌 10일 이후 수십명의 사용자가 클로드 구독을 취소했다는 글을 X에 올렸다.이중 미국의 공공 정책 분야에 종사하는 아르투로 비야로야라는",
+          "summary": "앤트로픽이 \\'클로드\\'가 출력하는 텍스트에 보이지 않는 워터마크 기술을 도입하면서 유료 사용자들의 반발과 구독 취소 사태가 확대되고 있다. 지난 2일부터 발효된 유럽연합(EU) AI 법의 투명성 규정을 준수하기 위한 조치이지만, 실제 현장에서는 AI 사용 흔적이 남는 것에 대한 우려가 커지며 개발자와 전문가의 이탈로 이어지는 양상이다.비즈니스 인사이더에 따르면, 앤트로픽이 워터마크를 직용했다고 밝힌 10일 이후 수십명의 사용자가 클로드 구독을 취소했다는 글을 X에 올렸다.이중 미국의 공공 정책 분야에 종사하는 아르투로 비야로야라는"
+        },
         {
           "title": "알리바바, '큐원3.8-맥스' 가중치 공개…상업적 이용엔 라이선스 필요",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=213997",
@@ -437,19 +449,6 @@
           "category": "AI Model"
         },
         {
-          "title": "moonshotai/Kimi-K3",
-          "link": "https://huggingface.co/moonshotai/Kimi-K3",
-          "date": "2026-08-15",
-          "source": "HuggingFace",
-          "description": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/moonshotai/Kimi-K3/resolve/main/assets/kimi-logo.png",
-          "is_english": true,
-          "summary": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "moonshotai/Kimi-K3",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Comfy-Org/MiniMax-H3",
           "link": "https://huggingface.co/Comfy-Org/MiniMax-H3",
           "date": "2026-08-15",
@@ -459,6 +458,19 @@
           "is_english": true,
           "summary": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Comfy-Org/MiniMax-H3",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "moonshotai/Kimi-K3",
+          "link": "https://huggingface.co/moonshotai/Kimi-K3",
+          "date": "2026-08-15",
+          "source": "HuggingFace",
+          "description": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/moonshotai/Kimi-K3/resolve/main/assets/kimi-logo.png",
+          "is_english": true,
+          "summary": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "moonshotai/Kimi-K3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
