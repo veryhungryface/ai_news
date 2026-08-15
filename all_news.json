@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-08-15",
-      "update_time": "2026-08-14 21:15:47",
+      "update_time": "2026-08-15 00:37:47",
       "news": [
+        {
+          "title": "[8월14일] AI는 싸졌는데 비용은 늘어난다…‘토큰 경제학’이 흔드는 AI 가격표",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213944",
+          "date": "2026-08-15",
+          "source": "AI타임스",
+          "description": "AI를 도입한 기업들이 갈수록 비용을 예측하기 어려워지고 있습니다. BBC에 따르면, 최근 AI 에이전트를 서비스에 적용하고 있는 기업들은 앞으로 1~3년의 AI 비용을 미리 계산하는 것조차 쉽지 않다고 밝혔습니다.우버가 올해 초 불과 몇 달 만에 1년 치 AI 코딩 토큰 예산을 모두 소진했다는 것은 잘 알려진 사실입니다. 마이크로소프트는 엔지니어들의 일부 외부 AI 코딩 도구 사용을 제한한 것으로 전해졌습니다.그러나 이는 단순히 AI가 비싸서 생긴 문제가 아닙니다. AI 자체의 가격은 계속 내려가고 있으며, 실제로 4개월여 만에",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213944_217535_5813.png",
+          "is_english": false,
+          "original_title": "[8월14일] AI는 싸졌는데 비용은 늘어난다…‘토큰 경제학’이 흔드는 AI 가격표",
+          "original_summary": "AI를 도입한 기업들이 갈수록 비용을 예측하기 어려워지고 있습니다. BBC에 따르면, 최근 AI 에이전트를 서비스에 적용하고 있는 기업들은 앞으로 1~3년의 AI 비용을 미리 계산하는 것조차 쉽지 않다고 밝혔습니다.우버가 올해 초 불과 몇 달 만에 1년 치 AI 코딩 토큰 예산을 모두 소진했다는 것은 잘 알려진 사실입니다. 마이크로소프트는 엔지니어들의 일부 외부 AI 코딩 도구 사용을 제한한 것으로 전해졌습니다.그러나 이는 단순히 AI가 비싸서 생긴 문제가 아닙니다. AI 자체의 가격은 계속 내려가고 있으며, 실제로 4개월여 만에",
+          "summary": "AI를 도입한 기업들이 갈수록 비용을 예측하기 어려워지고 있습니다. BBC에 따르면, 최근 AI 에이전트를 서비스에 적용하고 있는 기업들은 앞으로 1~3년의 AI 비용을 미리 계산하는 것조차 쉽지 않다고 밝혔습니다.우버가 올해 초 불과 몇 달 만에 1년 치 AI 코딩 토큰 예산을 모두 소진했다는 것은 잘 알려진 사실입니다. 마이크로소프트는 엔지니어들의 일부 외부 AI 코딩 도구 사용을 제한한 것으로 전해졌습니다.그러나 이는 단순히 AI가 비싸서 생긴 문제가 아닙니다. AI 자체의 가격은 계속 내려가고 있으며, 실제로 4개월여 만에"
+        },
         {
           "title": "여고생 유관순·학생선수 안중근·교장 김구…광복절 기념 AI영상 화제",
           "link": "https://www.yna.co.kr/view/AKR20260814075200063",
@@ -93,19 +105,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Lightricks/LTX-2.5",
-          "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-08-15",
-          "source": "HuggingFace",
-          "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Lightricks/LTX-2.5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Qwen3.8-27B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
           "date": "2026-08-15",
@@ -115,6 +114,19 @@
           "is_english": true,
           "summary": "• Qwen3.8-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/Qwen3.8-27B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Lightricks/LTX-2.5",
+          "link": "https://huggingface.co/Lightricks/LTX-2.5",
+          "date": "2026-08-15",
+          "source": "HuggingFace",
+          "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Lightricks/LTX-2.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -223,19 +235,6 @@
           "category": "AI Model"
         },
         {
-          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-          "link": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-          "date": "2026-08-15",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF/resolve/main/valhalla.webp",
-          "is_english": true,
-          "summary": "• Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.8-27B-FP8",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
           "date": "2026-08-15",
@@ -245,6 +244,19 @@
           "is_english": true,
           "summary": "• Qwen3.8-27B-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.8-27B-FP8",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "link": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "date": "2026-08-15",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF/resolve/main/valhalla.webp",
+          "is_english": true,
+          "summary": "• Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -275,15 +287,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Kijai/MiniMax-H3_comfy",
-          "link": "https://huggingface.co/Kijai/MiniMax-H3_comfy",
+          "title": "inclusionAI/Ling-3.0-tiny",
+          "link": "https://huggingface.co/inclusionAI/Ling-3.0-tiny",
           "date": "2026-08-15",
           "source": "HuggingFace",
-          "description": "• MiniMax-H3_comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "description": "• Ling-3.0-tiny 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*4QxcQrBlTiAAAAAAQXAAAAgAemJ7AQ/original",
           "is_english": true,
-          "summary": "• MiniMax-H3_comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Kijai/MiniMax-H3_comfy",
+          "summary": "• Ling-3.0-tiny 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "inclusionAI/Ling-3.0-tiny",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -304,8 +316,32 @@
     },
     {
       "date": "2026-08-14",
-      "update_time": "2026-08-14 21:15:45",
+      "update_time": "2026-08-15 00:37:47",
       "news": [
+        {
+          "title": "\"AI·로봇으로 미래 국방 혁신\"...산업부-육군-현대차, 첨단기술 활용 MOU",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213984",
+          "date": "2026-08-14",
+          "source": "AI타임스",
+          "description": "산업통상부(장관 김정관)는 육군, 현대자동차그룹과 손잡고 3대 메가프로젝트 중 하나인 \\'피지컬 AI\\' 국방 분야 적용과 국방 로봇 도입 확대에 속도를 낸다고 밝혔다.산업부는 14일 충남 계룡대에서 육군, 현대차그룹과 국방분야 \\'로봇·피지컬 AI 및 첨단기술 활용 확대를 위한 업무협약(MOU)\\'을 체결했다. 협약식에는 이민우 산업부 산업성장실장 전담직무대리, 최장식(중장) 육군참모차장, 이항수 현대차그룹 정책지원담당 부사장이 각 기관을 대표해 서명했다.이번 협약은 민간의 첨단 피지컬 AI 기술을 군에서 신속하게 실증하고 실제 군 전력",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213984_217593_509.jpg",
+          "is_english": false,
+          "original_title": "\"AI·로봇으로 미래 국방 혁신\"...산업부-육군-현대차, 첨단기술 활용 MOU",
+          "original_summary": "산업통상부(장관 김정관)는 육군, 현대자동차그룹과 손잡고 3대 메가프로젝트 중 하나인 \\'피지컬 AI\\' 국방 분야 적용과 국방 로봇 도입 확대에 속도를 낸다고 밝혔다.산업부는 14일 충남 계룡대에서 육군, 현대차그룹과 국방분야 \\'로봇·피지컬 AI 및 첨단기술 활용 확대를 위한 업무협약(MOU)\\'을 체결했다. 협약식에는 이민우 산업부 산업성장실장 전담직무대리, 최장식(중장) 육군참모차장, 이항수 현대차그룹 정책지원담당 부사장이 각 기관을 대표해 서명했다.이번 협약은 민간의 첨단 피지컬 AI 기술을 군에서 신속하게 실증하고 실제 ",
+          "summary": "산업통상부(장관 김정관)는 육군, 현대자동차그룹과 손잡고 3대 메가프로젝트 중 하나인 \\'피지컬 AI\\' 국방 분야 적용과 국방 로봇 도입 확대에 속도를 낸다고 밝혔다.산업부는 14일 충남 계룡대에서 육군, 현대차그룹과 국방분야 \\'로봇·피지컬 AI 및 첨단기술 활용 확대를 위한 업무협약(MOU)\\'을 체결했다. 협약식에는 이민우 산업부 산업성장실장 전담직무대리, 최장식(중장) 육군참모차장, 이항수 현대차그룹 정책지원담당 부사장이 각 기관을 대표해 서명했다.이번 협약은 민간의 첨단 피지컬 AI 기술을 군에서 신속하게 실증하고 실제 "
+        },
+        {
+          "title": "GS칼텍스, OCP 코리아 테크 데이서 차세대 데이터센터용 액체냉각기술 선보인다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213983",
+          "date": "2026-08-14",
+          "source": "AI타임스",
+          "description": "GS칼텍스가 오는 21일 서울 코엑스에서 열리는 2026 OCP 코리아 테크 데이에서 차세대 데이터센터용 액체냉각기술을 선보인다고 밝혔다. OCP(Open Compute Project) 재단은 서버, 스토리지, 네트워킹, 전력, 냉각 등 데이터센터 분야 핵심 인프라 기술 분야에서 개방형 협업 개발 및 설계 공유를 바탕으로 데이터센터 분야의 표준을 수립하는 글로벌 커뮤니티이며, OCP 코리아 테크 데이는 국내외 데이터센터 관련 업체들이 참여하는 공식 연례 컨퍼러스다. GS칼텍스는 이번 행사에서 국내 전문 스타트업인 쿨마이크로, 에스디",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213983_217592_4010.jpg",
+          "is_english": false,
+          "original_title": "GS칼텍스, OCP 코리아 테크 데이서 차세대 데이터센터용 액체냉각기술 선보인다",
+          "original_summary": "GS칼텍스가 오는 21일 서울 코엑스에서 열리는 2026 OCP 코리아 테크 데이에서 차세대 데이터센터용 액체냉각기술을 선보인다고 밝혔다. OCP(Open Compute Project) 재단은 서버, 스토리지, 네트워킹, 전력, 냉각 등 데이터센터 분야 핵심 인프라 기술 분야에서 개방형 협업 개발 및 설계 공유를 바탕으로 데이터센터 분야의 표준을 수립하는 글로벌 커뮤니티이며, OCP 코리아 테크 데이는 국내외 데이터센터 관련 업체들이 참여하는 공식 연례 컨퍼러스다. GS칼텍스는 이번 행사에서 국내 전문 스타트업인 쿨마이크로, 에스디",
+          "summary": "GS칼텍스가 오는 21일 서울 코엑스에서 열리는 2026 OCP 코리아 테크 데이에서 차세대 데이터센터용 액체냉각기술을 선보인다고 밝혔다. OCP(Open Compute Project) 재단은 서버, 스토리지, 네트워킹, 전력, 냉각 등 데이터센터 분야 핵심 인프라 기술 분야에서 개방형 협업 개발 및 설계 공유를 바탕으로 데이터센터 분야의 표준을 수립하는 글로벌 커뮤니티이며, OCP 코리아 테크 데이는 국내외 데이터센터 관련 업체들이 참여하는 공식 연례 컨퍼러스다. GS칼텍스는 이번 행사에서 국내 전문 스타트업인 쿨마이크로, 에스디"
+        },
         {
           "title": "[게시판] 원티드랩, AI 교육 성장 힘입어 17억 흑자전환 등 단신",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=213980",
