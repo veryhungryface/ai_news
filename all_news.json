@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-08-16",
-      "update_time": "2026-08-15 18:13:43",
+      "update_time": "2026-08-15 21:11:46",
       "news": [
         {
           "title": "Qwen/Qwen3.8-27B",
@@ -213,15 +213,15 @@
           "category": "AI Model"
         },
         {
-          "title": "larryvrh/MiniMax-H3-Turbo-Lora",
-          "link": "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
+          "title": "inclusionAI/Ling-3.0-tiny",
+          "link": "https://huggingface.co/inclusionAI/Ling-3.0-tiny",
           "date": "2026-08-16",
           "source": "HuggingFace",
-          "description": "• MiniMax-H3-Turbo-Lora 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "description": "• Ling-3.0-tiny 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*4QxcQrBlTiAAAAAAQXAAAAgAemJ7AQ/original",
           "is_english": true,
-          "summary": "• MiniMax-H3-Turbo-Lora 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "larryvrh/MiniMax-H3-Turbo-Lora",
+          "summary": "• Ling-3.0-tiny 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "inclusionAI/Ling-3.0-tiny",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,15 +239,15 @@
           "category": "AI Model"
         },
         {
-          "title": "inclusionAI/Ling-3.0-tiny",
-          "link": "https://huggingface.co/inclusionAI/Ling-3.0-tiny",
+          "title": "larryvrh/MiniMax-H3-Turbo-Lora",
+          "link": "https://huggingface.co/larryvrh/MiniMax-H3-Turbo-Lora",
           "date": "2026-08-16",
           "source": "HuggingFace",
-          "description": "• Ling-3.0-tiny 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*4QxcQrBlTiAAAAAAQXAAAAgAemJ7AQ/original",
+          "description": "• MiniMax-H3-Turbo-Lora 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
           "is_english": true,
-          "summary": "• Ling-3.0-tiny 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "inclusionAI/Ling-3.0-tiny",
+          "summary": "• MiniMax-H3-Turbo-Lora 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "larryvrh/MiniMax-H3-Turbo-Lora",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +268,20 @@
     },
     {
       "date": "2026-08-15",
-      "update_time": "2026-08-15 18:13:43",
+      "update_time": "2026-08-15 21:11:46",
       "news": [
+        {
+          "title": "Anthropic shares more details about how Claude’s new watermarks will work",
+          "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+          "date": "2026-08-15",
+          "source": "TechCrunch",
+          "description": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/01/Magnifying-glasses.jpg?resize=1200,840",
+          "is_english": true,
+          "original_title": "Anthropic shares more details about how Claude’s new watermarks will work",
+          "original_summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
+          "summary": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?"
+        },
         {
           "title": "SpaceX officially closes its Cursor acquisition",
           "link": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
