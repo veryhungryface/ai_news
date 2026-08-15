@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-08-15",
-      "update_time": "2026-08-15 03:30:16",
+      "update_time": "2026-08-15 06:19:32",
       "news": [
+        {
+          "title": "스페이스X, 85조 규모 커서 인수 최종 마무리…그록 생태계 통합 가속",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213996",
+          "date": "2026-08-15",
+          "source": "AI타임스",
+          "description": "스페이스X가 코딩 스타트업 커서의 600억달러(약 85조원) 인수 절차를 최종 완료했다. 이를 통해 \\'그록(Grok)\\' 라인업을 강화하고 AI 코딩과 에이전트 기술 강화에 박차를 가할 전망이다.커서는 14일(현지시간) X를 통해 스페이스X와의 인수 절차가 공식적으로 마무리됐다고 발표했다. 일론 머스크 CEO는 \\\"환영한다\\\"는 댓글을 달며 응답했다. 미 증권거래위원회(SEC)에 제출된 공시 서류에도 이번 거래가 14일자로 발효됐음을 명시하고 있다.커서 팀은 스페이스X 내 AI 전담 조직인 스페이스XAI에 합류해 그록을 비롯해 \\'그록 빌",
+          "image": "https://cdn.aitimes.com/news/photo/202608/213996_217607_165.jpg",
+          "is_english": false,
+          "original_title": "스페이스X, 85조 규모 커서 인수 최종 마무리…그록 생태계 통합 가속",
+          "original_summary": "스페이스X가 코딩 스타트업 커서의 600억달러(약 85조원) 인수 절차를 최종 완료했다. 이를 통해 \\'그록(Grok)\\' 라인업을 강화하고 AI 코딩과 에이전트 기술 강화에 박차를 가할 전망이다.커서는 14일(현지시간) X를 통해 스페이스X와의 인수 절차가 공식적으로 마무리됐다고 발표했다. 일론 머스크 CEO는 \\\"환영한다\\\"는 댓글을 달며 응답했다. 미 증권거래위원회(SEC)에 제출된 공시 서류에도 이번 거래가 14일자로 발효됐음을 명시하고 있다.커서 팀은 스페이스X 내 AI 전담 조직인 스페이스XAI에 합류해 그록을 비롯해 \\",
+          "summary": "스페이스X가 코딩 스타트업 커서의 600억달러(약 85조원) 인수 절차를 최종 완료했다. 이를 통해 \\'그록(Grok)\\' 라인업을 강화하고 AI 코딩과 에이전트 기술 강화에 박차를 가할 전망이다.커서는 14일(현지시간) X를 통해 스페이스X와의 인수 절차가 공식적으로 마무리됐다고 발표했다. 일론 머스크 CEO는 \\\"환영한다\\\"는 댓글을 달며 응답했다. 미 증권거래위원회(SEC)에 제출된 공시 서류에도 이번 거래가 14일자로 발효됐음을 명시하고 있다.커서 팀은 스페이스X 내 AI 전담 조직인 스페이스XAI에 합류해 그록을 비롯해 \\"
+        },
         {
           "title": "오픈AI 기업용 매출, '챗GPT' 넘어섰다…“강력한 매출로 악재 돌파”",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=213994",
@@ -187,19 +199,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.8-2.4T-A95B",
-          "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
-          "date": "2026-08-15",
-          "source": "HuggingFace",
-          "description": "• Qwen3.8-2.4T-A95B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/Qwen%20Studio-536af5?logo=qwen&logoColor=white",
-          "is_english": true,
-          "summary": "• Qwen3.8-2.4T-A95B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.8-2.4T-A95B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Qwen3.8-27B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
           "date": "2026-08-15",
@@ -209,6 +208,19 @@
           "is_english": true,
           "summary": "• Qwen3.8-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/Qwen3.8-27B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.8-2.4T-A95B",
+          "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+          "date": "2026-08-15",
+          "source": "HuggingFace",
+          "description": "• Qwen3.8-2.4T-A95B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/Qwen%20Studio-536af5?logo=qwen&logoColor=white",
+          "is_english": true,
+          "summary": "• Qwen3.8-2.4T-A95B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.8-2.4T-A95B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -291,19 +303,6 @@
           "category": "AI Model"
         },
         {
-          "title": "lightx2v/Minimax-h3-Turbo",
-          "link": "https://huggingface.co/lightx2v/Minimax-h3-Turbo",
-          "date": "2026-08-15",
-          "source": "HuggingFace",
-          "description": "• Minimax-h3-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Minimax-h3-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "lightx2v/Minimax-h3-Turbo",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.8-27B-FP8",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
           "date": "2026-08-15",
@@ -313,6 +312,19 @@
           "is_english": true,
           "summary": "• Qwen3.8-27B-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.8-27B-FP8",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "lightx2v/Minimax-h3-Turbo",
+          "link": "https://huggingface.co/lightx2v/Minimax-h3-Turbo",
+          "date": "2026-08-15",
+          "source": "HuggingFace",
+          "description": "• Minimax-h3-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Minimax-h3-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "lightx2v/Minimax-h3-Turbo",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
