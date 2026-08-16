@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-08-17",
-      "update_time": "2026-08-16 18:13:24",
+      "update_time": "2026-08-16 21:10:35",
       "news": [
         {
           "title": "Qwen/Qwen3.8-27B",
@@ -187,19 +187,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Comfy-Org/MiniMax-H3",
-          "link": "https://huggingface.co/Comfy-Org/MiniMax-H3",
-          "date": "2026-08-17",
-          "source": "HuggingFace",
-          "description": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Comfy-Org/MiniMax-H3",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "meta-models/Muse-Glimmer-30B-GGUF",
           "link": "https://huggingface.co/meta-models/Muse-Glimmer-30B-GGUF",
           "date": "2026-08-17",
@@ -239,6 +226,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Comfy-Org/MiniMax-H3",
+          "link": "https://huggingface.co/Comfy-Org/MiniMax-H3",
+          "date": "2026-08-17",
+          "source": "HuggingFace",
+          "description": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Comfy-Org/MiniMax-H3",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
           "link": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
           "date": "2026-08-17",
@@ -268,8 +268,32 @@
     },
     {
       "date": "2026-08-16",
-      "update_time": "2026-08-16 18:13:24",
+      "update_time": "2026-08-16 21:10:35",
       "news": [
+        {
+          "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+          "link": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+          "date": "2026-08-16",
+          "source": "TechCrunch",
+          "description": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/04/Stripe-resized.webp?resize=1200,674",
+          "is_english": true,
+          "original_title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+          "original_summary": "OpenRouter's CEO recently described the startup as Stripe for AI.",
+          "summary": "OpenRouter's CEO recently described the startup as Stripe for AI."
+        },
+        {
+          "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+          "link": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+          "date": "2026-08-16",
+          "source": "TechCrunch",
+          "description": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2239280474.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Why people aren’t buying Mark Zuckerberg’s AI future",
+          "original_summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
+          "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision."
+        },
         {
           "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
           "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
