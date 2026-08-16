@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-08-16",
-      "update_time": "2026-08-15 21:11:46",
+      "update_time": "2026-08-16 00:39:48",
       "news": [
+        {
+          "title": "엔비디아, 오픈AI 오하이오 데이터센터 보증 지원 '절반 축소'",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214000",
+          "date": "2026-08-16",
+          "source": "AI타임스",
+          "description": "엔비디아가 오픈AI의 대규모 AI 데이터센터 구축 프로젝트를 위한 재정 보증 지원 조건을 기존 구상보다 대폭 축소하는 방향으로 막바지 협상을 진행하는 것으로 알려졌다.15일(현지시간) 월스트리트저널에 따르면, 엔비디아와 오픈AI는 오하이오주에 건설 예정인 10기가와트(GW) 규모의 데이터센터 캠퍼스 임대를 위해 신용 보증 계약 체결에 임박했다. 다만 초기 협상 단계에서 거론되던 2500억달러(약 355조원) 규모의 전액 보증 대신, 전체 프로젝트 중 절반에 해당하는 1단계 사업에 한해 1200억달러 미만의 신용 한도를 보증하는 방식",
+          "image": "https://cdn.aitimes.com/news/photo/202608/214000_217612_344.jpg",
+          "is_english": false,
+          "original_title": "엔비디아, 오픈AI 오하이오 데이터센터 보증 지원 '절반 축소'",
+          "original_summary": "엔비디아가 오픈AI의 대규모 AI 데이터센터 구축 프로젝트를 위한 재정 보증 지원 조건을 기존 구상보다 대폭 축소하는 방향으로 막바지 협상을 진행하는 것으로 알려졌다.15일(현지시간) 월스트리트저널에 따르면, 엔비디아와 오픈AI는 오하이오주에 건설 예정인 10기가와트(GW) 규모의 데이터센터 캠퍼스 임대를 위해 신용 보증 계약 체결에 임박했다. 다만 초기 협상 단계에서 거론되던 2500억달러(약 355조원) 규모의 전액 보증 대신, 전체 프로젝트 중 절반에 해당하는 1단계 사업에 한해 1200억달러 미만의 신용 한도를 보증하는 방식",
+          "summary": "엔비디아가 오픈AI의 대규모 AI 데이터센터 구축 프로젝트를 위한 재정 보증 지원 조건을 기존 구상보다 대폭 축소하는 방향으로 막바지 협상을 진행하는 것으로 알려졌다.15일(현지시간) 월스트리트저널에 따르면, 엔비디아와 오픈AI는 오하이오주에 건설 예정인 10기가와트(GW) 규모의 데이터센터 캠퍼스 임대를 위해 신용 보증 계약 체결에 임박했다. 다만 초기 협상 단계에서 거론되던 2500억달러(약 355조원) 규모의 전액 보증 대신, 전체 프로젝트 중 절반에 해당하는 1단계 사업에 한해 1200억달러 미만의 신용 한도를 보증하는 방식"
+        },
         {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
@@ -70,19 +82,6 @@
           "category": "AI Model"
         },
         {
-          "title": "MiniMaxAI/MiniMax-H3",
-          "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
-          "date": "2026-08-16",
-          "source": "HuggingFace",
-          "description": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/MiniMaxAI/MiniMax-H3/resolve/main/assets/minimax-h3.png",
-          "is_english": true,
-          "summary": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "MiniMaxAI/MiniMax-H3",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "MiniMaxAI/MiniMax-Music3",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
           "date": "2026-08-16",
@@ -92,6 +91,19 @@
           "is_english": true,
           "summary": "• MiniMax-Music3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "MiniMaxAI/MiniMax-Music3",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-H3",
+          "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+          "date": "2026-08-16",
+          "source": "HuggingFace",
+          "description": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/MiniMaxAI/MiniMax-H3/resolve/main/assets/minimax-h3.png",
+          "is_english": true,
+          "summary": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "MiniMaxAI/MiniMax-H3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +280,20 @@
     },
     {
       "date": "2026-08-15",
-      "update_time": "2026-08-15 21:11:46",
+      "update_time": "2026-08-16 00:39:47",
       "news": [
+        {
+          "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+          "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
+          "date": "2026-08-15",
+          "source": "TechCrunch",
+          "description": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
+          "original_summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
+          "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\""
+        },
         {
           "title": "Anthropic shares more details about how Claude’s new watermarks will work",
           "link": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
