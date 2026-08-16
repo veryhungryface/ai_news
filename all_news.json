@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-08-16",
-      "update_time": "2026-08-16 03:39:27",
+      "update_time": "2026-08-16 06:21:44",
       "news": [
         {
           "title": "구로문화누리도서관, AI 기반 도서 추천 '아테나' 시범운영",
@@ -256,19 +256,6 @@
           "category": "AI Model"
         },
         {
-          "title": "lightx2v/Minimax-h3-Turbo",
-          "link": "https://huggingface.co/lightx2v/Minimax-h3-Turbo",
-          "date": "2026-08-16",
-          "source": "HuggingFace",
-          "description": "• Minimax-h3-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Minimax-h3-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "lightx2v/Minimax-h3-Turbo",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "moonshotai/Kimi-K3",
           "link": "https://huggingface.co/moonshotai/Kimi-K3",
           "date": "2026-08-16",
@@ -278,6 +265,19 @@
           "is_english": true,
           "summary": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "moonshotai/Kimi-K3",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "lightx2v/Minimax-h3-Turbo",
+          "link": "https://huggingface.co/lightx2v/Minimax-h3-Turbo",
+          "date": "2026-08-16",
+          "source": "HuggingFace",
+          "description": "• Minimax-h3-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Minimax-h3-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "lightx2v/Minimax-h3-Turbo",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -360,15 +360,15 @@
           "category": "AI Model"
         },
         {
-          "title": "LiquidAI/LFM2.5-2.6B",
-          "link": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+          "title": "fal/MiniMax-H3-Realism-People-LoRA",
+          "link": "https://huggingface.co/fal/MiniMax-H3-Realism-People-LoRA",
           "date": "2026-08-16",
           "source": "HuggingFace",
-          "description": "• LFM2.5-2.6B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/644249b08443bce4c9890a0f/NAfUL2725b6KDUGf1KOd9.png",
+          "description": "• MiniMax-H3-Realism-People-LoRA 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• LFM2.5-2.6B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "LiquidAI/LFM2.5-2.6B",
+          "summary": "• MiniMax-H3-Realism-People-LoRA 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "fal/MiniMax-H3-Realism-People-LoRA",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
