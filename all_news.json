@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-08-17",
-      "update_time": "2026-08-16 15:11:18",
+      "update_time": "2026-08-16 18:13:24",
       "news": [
         {
           "title": "Qwen/Qwen3.8-27B",
@@ -148,15 +148,15 @@
           "category": "AI Model"
         },
         {
-          "title": "moonshotai/Kimi-K3",
-          "link": "https://huggingface.co/moonshotai/Kimi-K3",
+          "title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
+          "link": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
           "date": "2026-08-17",
           "source": "HuggingFace",
-          "description": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/moonshotai/Kimi-K3/resolve/main/assets/kimi-logo.png",
+          "description": "• Qwen3.8-27B-Uncensored-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
           "is_english": true,
-          "summary": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "moonshotai/Kimi-K3",
+          "summary": "• Qwen3.8-27B-Uncensored-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -174,6 +174,19 @@
           "category": "AI Model"
         },
         {
+          "title": "moonshotai/Kimi-K3",
+          "link": "https://huggingface.co/moonshotai/Kimi-K3",
+          "date": "2026-08-17",
+          "source": "HuggingFace",
+          "description": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/moonshotai/Kimi-K3/resolve/main/assets/kimi-logo.png",
+          "is_english": true,
+          "summary": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "moonshotai/Kimi-K3",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Comfy-Org/MiniMax-H3",
           "link": "https://huggingface.co/Comfy-Org/MiniMax-H3",
           "date": "2026-08-17",
@@ -183,19 +196,6 @@
           "is_english": true,
           "summary": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Comfy-Org/MiniMax-H3",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-          "link": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
-          "date": "2026-08-17",
-          "source": "HuggingFace",
-          "description": "• Qwen3.8-27B-Uncensored-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.8-27B-Uncensored-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +268,20 @@
     },
     {
       "date": "2026-08-16",
-      "update_time": "2026-08-16 12:18:23",
+      "update_time": "2026-08-16 18:13:24",
       "news": [
+        {
+          "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+          "link": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust/",
+          "date": "2026-08-16",
+          "source": "TechCrunch",
+          "description": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
+          "original_summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
+          "summary": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI."
+        },
         {
           "title": "GLM-5.3, '커서' 보안 취약점 찾아냈다...AI 보안 역량 입증",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214011",
@@ -7705,7 +7717,7 @@
         {
           "title": "MiniMaxAI/MiniMax-H3",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
-          "date": "2026-08-08",
+          "date": "2026-08-17",
           "source": "HuggingFace",
           "description": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/MiniMaxAI/MiniMax-H3/resolve/main/assets/minimax-h3.png",
@@ -7718,7 +7730,7 @@
         {
           "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
-          "date": "2026-08-08",
+          "date": "2026-08-17",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4-Flash-0731 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
@@ -7731,7 +7743,7 @@
         {
           "title": "Comfy-Org/MiniMax-H3",
           "link": "https://huggingface.co/Comfy-Org/MiniMax-H3",
-          "date": "2026-08-08",
+          "date": "2026-08-17",
           "source": "HuggingFace",
           "description": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -7744,7 +7756,7 @@
         {
           "title": "moonshotai/Kimi-K3",
           "link": "https://huggingface.co/moonshotai/Kimi-K3",
-          "date": "2026-08-08",
+          "date": "2026-08-17",
           "source": "HuggingFace",
           "description": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/moonshotai/Kimi-K3/resolve/main/assets/kimi-logo.png",
@@ -7757,7 +7769,7 @@
         {
           "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
           "link": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-          "date": "2026-08-08",
+          "date": "2026-08-17",
           "source": "HuggingFace",
           "description": "• Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF/resolve/main/valhalla.webp",
