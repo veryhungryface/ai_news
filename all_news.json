@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-08-16",
-      "update_time": "2026-08-16 09:17:34",
+      "update_time": "2026-08-16 12:18:23",
       "news": [
+        {
+          "title": "GLM-5.3, '커서' 보안 취약점 찾아냈다...AI 보안 역량 입증",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214011",
+          "date": "2026-08-16",
+          "source": "AI타임스",
+          "description": "지푸 AI(Z.ai)의 최신 오픈웨이트 모델 \\'GLM-5.3\\'이 강화된 사이버 보안 능력을 통해 코딩 플랫폼 커서(Cursor)의 심각한 잠재적 보안 취약점을 발견한 것으로 알려졌다. 지푸 AI의 개발자 옹호자(Developer Advocate)로 활동 중인 루는 14일(현지시간) X에 올린 글을 통해 GLM-5.3에 복잡한 리버스 엔지니어링 과제를 부여한 결과, 커서에서 \\\"잠재적으로 심각한 취약점\\\"을 찾아냈다고 밝혔다.그는 발견한 취약점을 커서에 제보했으며, 커서가 문제를 해결하기 위해 지푸와 긴밀하게 협력하고 있다고 전했다.루는",
+          "image": "https://cdn.aitimes.com/news/photo/202608/214011_217627_2129.jpeg",
+          "is_english": true,
+          "original_title": "GLM-5.3, '커서' 보안 취약점 찾아냈다...AI 보안 역량 입증",
+          "original_summary": "지푸 AI(Z.ai)의 최신 오픈웨이트 모델 \\'GLM-5.3\\'이 강화된 사이버 보안 능력을 통해 코딩 플랫폼 커서(Cursor)의 심각한 잠재적 보안 취약점을 발견한 것으로 알려졌다. 지푸 AI의 개발자 옹호자(Developer Advocate)로 활동 중인 루는 14일(현지시간) X에 올린 글을 통해 GLM-5.3에 복잡한 리버스 엔지니어링 과제를 부여한 결과, 커서에서 \\\"잠재적으로 심각한 취약점\\\"을 찾아냈다고 밝혔다.그는 발견한 취약점을 커서에 제보했으며, 커서가 문제를 해결하기 위해 지푸와 긴밀하게 협력하고 있다고 전했",
+          "summary": "지푸 AI(Z.ai)의 최신 오픈웨이트 모델 \\'GLM-5.3\\'이 강화된 사이버 보안 능력을 통해 코딩 플랫폼 커서(Cursor)의 심각한 잠재적 보안 취약점을 발견한 것으로 알려졌다. 지푸 AI의 개발자 옹호자(Developer Advocate)로 활동 중인 루는 14일(현지시간) X에 올린 글을 통해 GLM-5.3에 복잡한 리버스 엔지니어링 과제를 부여한 결과, 커서에서 \\\"잠재적으로 심각한 취약점\\\"을 찾아냈다고 밝혔다.그는 발견한 취약점을 커서에 제보했으며, 커서가 문제를 해결하기 위해 지푸와 긴밀하게 협력하고 있다고 전했"
+        },
         {
           "title": "허깅페이스 점령한 중국 AI...'큐원' 다운로드 20억건·파생 모델 15만개 돌파",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214007",
@@ -301,19 +313,6 @@
           "category": "AI Model"
         },
         {
-          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
-          "date": "2026-08-16",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Flash-0731 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
-          "is_english": true,
-          "summary": "• DeepSeek-V4-Flash-0731 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepseek-ai/DeepSeek-V4-Flash-0731",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.8-27B-FP8",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
           "date": "2026-08-16",
@@ -323,6 +322,19 @@
           "is_english": true,
           "summary": "• Qwen3.8-27B-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.8-27B-FP8",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+          "date": "2026-08-16",
+          "source": "HuggingFace",
+          "description": "• DeepSeek-V4-Flash-0731 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
+          "is_english": true,
+          "summary": "• DeepSeek-V4-Flash-0731 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepseek-ai/DeepSeek-V4-Flash-0731",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -418,19 +430,6 @@
           "category": "AI Model"
         },
         {
-          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-          "link": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-          "date": "2026-08-16",
-          "source": "HuggingFace",
-          "description": "• Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF/resolve/main/valhalla.webp",
-          "is_english": true,
-          "summary": "• Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
           "link": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
           "date": "2026-08-16",
@@ -440,6 +439,19 @@
           "is_english": true,
           "summary": "• Qwen3.8-27B-Uncensored-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "link": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "date": "2026-08-16",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF/resolve/main/valhalla.webp",
+          "is_english": true,
+          "summary": "• Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
