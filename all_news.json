@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-08-18",
-      "update_time": "2026-08-17 18:22:34",
+      "update_time": "2026-08-17 21:16:36",
       "news": [
+        {
+          "title": "챗GPT에 산업인력공단 공공데이터 실시간 반영…24시간 검색",
+          "link": "https://www.yna.co.kr/view/AKR20260817033800530",
+          "date": "2026-08-18",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 한혜원 기자 = 한국산업인력공단(HRD)은 18일부터 생성형 인공지능(AI)이 공단의 공공데이터를 실시간으로 조회해 답변하는 ...",
+          "image": "https://img.yna.co.kr/photo/cms/2024/12/19/09/PCM20241219000009530_P2.jpg",
+          "is_english": false,
+          "original_title": "챗GPT에 산업인력공단 공공데이터 실시간 반영…24시간 검색",
+          "original_summary": "(서울=연합뉴스) 한혜원 기자 = 한국산업인력공단(HRD)은 18일부터 생성형 인공지능(AI)이 공단의 공공데이터를 실시간으로 조회해 답변하는 ...",
+          "summary": "(서울=연합뉴스) 한혜원 기자 = 한국산업인력공단(HRD)은 18일부터 생성형 인공지능(AI)이 공단의 공공데이터를 실시간으로 조회해 답변하는 ..."
+        },
+        {
+          "title": "Speech-to-Text AI Specialist Now Valued at $2B",
+          "link": "https://aibusiness.com/generative-ai/speech-to-text-ai-specialist-valued-at-2b",
+          "date": "2026-08-18",
+          "source": "AI Business",
+          "description": "The vendor is part of a wave of native-AI startups that are attracting strong funding.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt487022175ba6461d/6a83714f4b4cd3bef7a710a1/Wispr.png?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Speech-to-Text AI Specialist Now Valued at $2B",
+          "original_summary": "The vendor is part of a wave of native-AI startups that are attracting strong funding.",
+          "summary": "The vendor is part of a wave of native-AI startups that are attracting strong funding."
+        },
         {
           "title": "Alibaba Qwen 3.8 27B Model Targets Edge AI",
           "link": "https://aibusiness.com/generative-ai/alibaba-qwen-3-8-27b-model-targets-edge-ai",
@@ -43,19 +67,6 @@
           "category": "AI Model"
         },
         {
-          "title": "meta-models/Muse-Glimmer-30B",
-          "link": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
-          "date": "2026-08-18",
-          "source": "HuggingFace",
-          "description": "• Muse-Glimmer-30B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Muse-Glimmer-30B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "meta-models/Muse-Glimmer-30B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.8-2.4T-A95B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
           "date": "2026-08-18",
@@ -65,6 +76,19 @@
           "is_english": true,
           "summary": "• Qwen3.8-2.4T-A95B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.8-2.4T-A95B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "meta-models/Muse-Glimmer-30B",
+          "link": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+          "date": "2026-08-18",
+          "source": "HuggingFace",
+          "description": "• Muse-Glimmer-30B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Muse-Glimmer-30B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "meta-models/Muse-Glimmer-30B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -173,19 +197,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Muse-Glimmer-30B-GGUF",
-          "link": "https://huggingface.co/unsloth/Muse-Glimmer-30B-GGUF",
-          "date": "2026-08-18",
-          "source": "HuggingFace",
-          "description": "• Muse-Glimmer-30B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
-          "is_english": true,
-          "summary": "• Muse-Glimmer-30B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Muse-Glimmer-30B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
           "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
           "date": "2026-08-18",
@@ -208,6 +219,19 @@
           "is_english": true,
           "summary": "• Qwen3.8-27B-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/Muse-Glimmer-30B-GGUF",
+          "link": "https://huggingface.co/unsloth/Muse-Glimmer-30B-GGUF",
+          "date": "2026-08-18",
+          "source": "HuggingFace",
+          "description": "• Muse-Glimmer-30B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "is_english": true,
+          "summary": "• Muse-Glimmer-30B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Muse-Glimmer-30B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -238,15 +262,15 @@
           "category": "AI Model"
         },
         {
-          "title": "fal/MiniMax-H3-Realism-People-LoRA",
-          "link": "https://huggingface.co/fal/MiniMax-H3-Realism-People-LoRA",
+          "title": "unsloth/Qwen3.8-27B-NVFP4",
+          "link": "https://huggingface.co/unsloth/Qwen3.8-27B-NVFP4",
           "date": "2026-08-18",
           "source": "HuggingFace",
-          "description": "• MiniMax-H3-Realism-People-LoRA 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "description": "• Qwen3.8-27B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
           "is_english": true,
-          "summary": "• MiniMax-H3-Realism-People-LoRA 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "fal/MiniMax-H3-Realism-People-LoRA",
+          "summary": "• Qwen3.8-27B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Qwen3.8-27B-NVFP4",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -264,15 +288,15 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.8-27B-NVFP4",
-          "link": "https://huggingface.co/unsloth/Qwen3.8-27B-NVFP4",
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "link": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
           "date": "2026-08-18",
           "source": "HuggingFace",
-          "description": "• Qwen3.8-27B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "description": "• Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF/resolve/main/valhalla.webp",
           "is_english": true,
-          "summary": "• Qwen3.8-27B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Qwen3.8-27B-NVFP4",
+          "summary": "• Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -280,8 +304,20 @@
     },
     {
       "date": "2026-08-17",
-      "update_time": "2026-08-17 18:22:33",
+      "update_time": "2026-08-17 21:16:36",
       "news": [
+        {
+          "title": "Q&A: Rethinking how innovation happens",
+          "link": "https://news.mit.edu/2026/qa-eugene-fitzgerald-rethinking-how-innovation-happens-0818",
+          "date": "2026-08-17",
+          "source": "MIT News",
+          "description": "In his latest book, Professor Eugene Fitzgerald examines the forces that turn breakthroughs into value — and why innovation resists simple formulas.",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/MIT-Fitzgerald-Innovation-Book-01-press.jpg?itok=Pl-hiOMe",
+          "is_english": true,
+          "original_title": "Q&A: Rethinking how innovation happens",
+          "original_summary": "In his latest book, Professor Eugene Fitzgerald examines the forces that turn breakthroughs into value — and why innovation resists simple formulas.",
+          "summary": "In his latest book, Professor Eugene Fitzgerald examines the forces that turn breakthroughs into value — and why innovation resists simple formulas."
+        },
         {
           "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
           "link": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
@@ -7842,7 +7878,7 @@
         {
           "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
           "link": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-          "date": "2026-08-09",
+          "date": "2026-08-18",
           "source": "HuggingFace",
           "description": "• Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF/resolve/main/valhalla.webp",
