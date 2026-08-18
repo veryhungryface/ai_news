@@ -2,8 +2,68 @@
   "dates": [
     {
       "date": "2026-08-18",
-      "update_time": "2026-08-18 09:23:21",
+      "update_time": "2026-08-18 12:23:09",
       "news": [
+        {
+          "title": "알리바바, ‘해피쉬림프 1.0’ 베타 공개...음악 AI 시장 첫 발",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214052",
+          "date": "2026-08-18",
+          "source": "AI타임스",
+          "description": "알리바바가 텍스트 한 줄만으로 작곡부터 편곡, 가사 작성, 보컬까지 완성된 음악을 만들어주는 AI 음악 생성 모델을 공개했다. 알리바바가 오디오·음성 분야를 넘어 음악 제작 전 과정을 자동화하는 전용 생성 모델을 선보인 것은 이번이 처음으로, AI 사업 영역을 음악 콘텐츠 분야까지 확대하는 움직임으로 풀이된다.알리바바는 17일(현지시간) AI 음악 생성 모델 ‘해피쉬림프(HappyShrimp) 1.0’의 베타 테스트를 시작했다. 사용자는 감정이나 스토리, 원하는 음악 장르 등 추상적인 아이디어를 자연어로 입력하기만 하면 하나의 완성",
+          "image": "https://cdn.aitimes.com/news/photo/202608/214052_217682_1628.png",
+          "is_english": false,
+          "original_title": "알리바바, ‘해피쉬림프 1.0’ 베타 공개...음악 AI 시장 첫 발",
+          "original_summary": "알리바바가 텍스트 한 줄만으로 작곡부터 편곡, 가사 작성, 보컬까지 완성된 음악을 만들어주는 AI 음악 생성 모델을 공개했다. 알리바바가 오디오·음성 분야를 넘어 음악 제작 전 과정을 자동화하는 전용 생성 모델을 선보인 것은 이번이 처음으로, AI 사업 영역을 음악 콘텐츠 분야까지 확대하는 움직임으로 풀이된다.알리바바는 17일(현지시간) AI 음악 생성 모델 ‘해피쉬림프(HappyShrimp) 1.0’의 베타 테스트를 시작했다. 사용자는 감정이나 스토리, 원하는 음악 장르 등 추상적인 아이디어를 자연어로 입력하기만 하면 하나의 완성",
+          "summary": "알리바바가 텍스트 한 줄만으로 작곡부터 편곡, 가사 작성, 보컬까지 완성된 음악을 만들어주는 AI 음악 생성 모델을 공개했다. 알리바바가 오디오·음성 분야를 넘어 음악 제작 전 과정을 자동화하는 전용 생성 모델을 선보인 것은 이번이 처음으로, AI 사업 영역을 음악 콘텐츠 분야까지 확대하는 움직임으로 풀이된다.알리바바는 17일(현지시간) AI 음악 생성 모델 ‘해피쉬림프(HappyShrimp) 1.0’의 베타 테스트를 시작했다. 사용자는 감정이나 스토리, 원하는 음악 장르 등 추상적인 아이디어를 자연어로 입력하기만 하면 하나의 완성"
+        },
+        {
+          "title": "미니맥스, 5분 음악 생성 오픈웨이트 모델 '뮤직3' 공개…\"즉시 서비스 적용 가능\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214055",
+          "date": "2026-08-18",
+          "source": "AI타임스",
+          "description": "미니맥스가 가사와 음악 설명만 입력하면 최대 5분 길이의 완성된 음악을 한 번에 생성하는 오픈웨이트 모델을 공개했다. 특히 모델 가중치와 추론 코드, 서버 구축 방법까지 제공해 연구용 데모를 넘어 개발자와 기업이 즉시 실제 서비스에 적용할 수 있도록 한 것이 특징이다.미니맥스는 17일 텍스트-투-뮤직(text-to-music) 모델 ‘미니맥스-뮤직3(MiniMax-Music3)’를 공개했다.사용자는 가사와 음악에 대한 상세한 설명을 입력할 수 있으며, 모델은 이를 바탕으로 최대 5분 길이의 스테레오 WAV 음원을 생성한다. 출력 품",
+          "image": "https://cdn.aitimes.com/news/photo/202608/214055_217685_4142.png",
+          "is_english": false,
+          "original_title": "미니맥스, 5분 음악 생성 오픈웨이트 모델 '뮤직3' 공개…\"즉시 서비스 적용 가능\"",
+          "original_summary": "미니맥스가 가사와 음악 설명만 입력하면 최대 5분 길이의 완성된 음악을 한 번에 생성하는 오픈웨이트 모델을 공개했다. 특히 모델 가중치와 추론 코드, 서버 구축 방법까지 제공해 연구용 데모를 넘어 개발자와 기업이 즉시 실제 서비스에 적용할 수 있도록 한 것이 특징이다.미니맥스는 17일 텍스트-투-뮤직(text-to-music) 모델 ‘미니맥스-뮤직3(MiniMax-Music3)’를 공개했다.사용자는 가사와 음악에 대한 상세한 설명을 입력할 수 있으며, 모델은 이를 바탕으로 최대 5분 길이의 스테레오 WAV 음원을 생성한다. 출력 품",
+          "summary": "미니맥스가 가사와 음악 설명만 입력하면 최대 5분 길이의 완성된 음악을 한 번에 생성하는 오픈웨이트 모델을 공개했다. 특히 모델 가중치와 추론 코드, 서버 구축 방법까지 제공해 연구용 데모를 넘어 개발자와 기업이 즉시 실제 서비스에 적용할 수 있도록 한 것이 특징이다.미니맥스는 17일 텍스트-투-뮤직(text-to-music) 모델 ‘미니맥스-뮤직3(MiniMax-Music3)’를 공개했다.사용자는 가사와 음악에 대한 상세한 설명을 입력할 수 있으며, 모델은 이를 바탕으로 최대 5분 길이의 스테레오 WAV 음원을 생성한다. 출력 품"
+        },
+        {
+          "title": "맥주 한 잔에 코딩 토큰 '무제한'…베이징에 들어선 'AGI 바'",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214084",
+          "date": "2026-08-18",
+          "source": "AI타임스",
+          "description": "중국 베이징의 대표적인 첨단기술 지구이자 \\'중국의 실리콘밸리\\'로 불리는 중관춘 이노웨이 창업 거리에 세계 최초의 AI 테마 바인 \\'AGI 바(Bar)\\'가 들어서 AI 연구자들 사이에서 큰 화제를 모으고 있다. 30대 독립 AI 개발자인 송더 대표가 오픈한 이 공간은 단순한 유흥업소를 넘어 중국 AI 생태계의 새로운 정보 교류 거점으로 빠르게 자리매김하는 모양새다. AGI 바의 내부와 외관은 AI 산업의 현재를 한눈에 보여주는 디테일들로 가득 차 있다. 매장 내부 벽면은 주요 AI 기업들의 로고와 알록달록한 피규어, 기념상품들로 빽빽",
+          "image": "https://cdn.aitimes.com/news/photo/202608/214084_217719_5116.png",
+          "is_english": false,
+          "original_title": "맥주 한 잔에 코딩 토큰 '무제한'…베이징에 들어선 'AGI 바'",
+          "original_summary": "중국 베이징의 대표적인 첨단기술 지구이자 \\'중국의 실리콘밸리\\'로 불리는 중관춘 이노웨이 창업 거리에 세계 최초의 AI 테마 바인 \\'AGI 바(Bar)\\'가 들어서 AI 연구자들 사이에서 큰 화제를 모으고 있다. 30대 독립 AI 개발자인 송더 대표가 오픈한 이 공간은 단순한 유흥업소를 넘어 중국 AI 생태계의 새로운 정보 교류 거점으로 빠르게 자리매김하는 모양새다. AGI 바의 내부와 외관은 AI 산업의 현재를 한눈에 보여주는 디테일들로 가득 차 있다. 매장 내부 벽면은 주요 AI 기업들의 로고와 알록달록한 피규어, 기념상품들",
+          "summary": "중국 베이징의 대표적인 첨단기술 지구이자 \\'중국의 실리콘밸리\\'로 불리는 중관춘 이노웨이 창업 거리에 세계 최초의 AI 테마 바인 \\'AGI 바(Bar)\\'가 들어서 AI 연구자들 사이에서 큰 화제를 모으고 있다. 30대 독립 AI 개발자인 송더 대표가 오픈한 이 공간은 단순한 유흥업소를 넘어 중국 AI 생태계의 새로운 정보 교류 거점으로 빠르게 자리매김하는 모양새다. AGI 바의 내부와 외관은 AI 산업의 현재를 한눈에 보여주는 디테일들로 가득 차 있다. 매장 내부 벽면은 주요 AI 기업들의 로고와 알록달록한 피규어, 기념상품들"
+        },
+        {
+          "title": "Partnering with CodeAI to prepare the first AI generation",
+          "link": "https://openai.com/index/partnering-with-codeai",
+          "date": "2026-08-18",
+          "source": "OpenAI",
+          "description": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Partnering with CodeAI to prepare the first AI generation",
+          "original_summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly.",
+          "summary": "OpenAI and CodeAI are partnering to help students build AI literacy, think critically about AI, and develop the skills to use and shape it responsibly."
+        },
+        {
+          "title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+          "link": "https://openai.com/index/chatgpt-for-teens",
+          "date": "2026-08-18",
+          "source": "OpenAI",
+          "description": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Introducing ChatGPT for Teens: Built for learning, backed by protections",
+          "original_summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents.",
+          "summary": "ChatGPT for Teens helps teens learn, think critically, and use AI with confidence, with stronger built-in protections, healthy-use features, and additional controls for parents."
+        },
         {
           "title": "유니트리, 상하이 상장 직전 신형 로봇 ‘슈퍼맨’ 공개...\"우사인 볼트보다 빨라\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214068",
@@ -768,19 +828,6 @@
           "category": "AI Model"
         },
         {
-          "title": "MiniMaxAI/MiniMax-H3",
-          "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
-          "date": "2026-08-18",
-          "source": "HuggingFace",
-          "description": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/MiniMaxAI/MiniMax-H3/resolve/main/assets/minimax-h3.png",
-          "is_english": true,
-          "summary": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "MiniMaxAI/MiniMax-H3",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.8-27B-FP8",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
           "date": "2026-08-18",
@@ -790,6 +837,19 @@
           "is_english": true,
           "summary": "• Qwen3.8-27B-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.8-27B-FP8",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-H3",
+          "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+          "date": "2026-08-18",
+          "source": "HuggingFace",
+          "description": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/MiniMaxAI/MiniMax-H3/resolve/main/assets/minimax-h3.png",
+          "is_english": true,
+          "summary": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "MiniMaxAI/MiniMax-H3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -859,19 +919,6 @@
           "category": "AI Model"
         },
         {
-          "title": "moonshotai/Kimi-K3",
-          "link": "https://huggingface.co/moonshotai/Kimi-K3",
-          "date": "2026-08-18",
-          "source": "HuggingFace",
-          "description": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/moonshotai/Kimi-K3/resolve/main/assets/kimi-logo.png",
-          "is_english": true,
-          "summary": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "moonshotai/Kimi-K3",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Qwen3.8-27B-NVFP4",
           "link": "https://huggingface.co/unsloth/Qwen3.8-27B-NVFP4",
           "date": "2026-08-18",
@@ -881,6 +928,19 @@
           "is_english": true,
           "summary": "• Qwen3.8-27B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/Qwen3.8-27B-NVFP4",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "moonshotai/Kimi-K3",
+          "link": "https://huggingface.co/moonshotai/Kimi-K3",
+          "date": "2026-08-18",
+          "source": "HuggingFace",
+          "description": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/moonshotai/Kimi-K3/resolve/main/assets/kimi-logo.png",
+          "is_english": true,
+          "summary": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "moonshotai/Kimi-K3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -898,15 +958,15 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Muse-Glimmer-30B-GGUF",
-          "link": "https://huggingface.co/unsloth/Muse-Glimmer-30B-GGUF",
+          "title": "Qwen/Qwen3.8-2.4T-A95B-FP8",
+          "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8",
           "date": "2026-08-18",
           "source": "HuggingFace",
-          "description": "• Muse-Glimmer-30B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "description": "• Qwen3.8-2.4T-A95B-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/Qwen%20Studio-536af5?logo=qwen&logoColor=white",
           "is_english": true,
-          "summary": "• Muse-Glimmer-30B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Muse-Glimmer-30B-GGUF",
+          "summary": "• Qwen3.8-2.4T-A95B-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.8-2.4T-A95B-FP8",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -924,15 +984,15 @@
           "category": "AI Model"
         },
         {
-          "title": "inclusionAI/Ling-3.0-tiny",
-          "link": "https://huggingface.co/inclusionAI/Ling-3.0-tiny",
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "link": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
           "date": "2026-08-18",
           "source": "HuggingFace",
-          "description": "• Ling-3.0-tiny 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://mdn.alipayobjects.com/huamei_qa8qxu/afts/img/A*4QxcQrBlTiAAAAAAQXAAAAgAemJ7AQ/original",
+          "description": "• Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF/resolve/main/valhalla.webp",
           "is_english": true,
-          "summary": "• Ling-3.0-tiny 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "inclusionAI/Ling-3.0-tiny",
+          "summary": "• Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -3646,7 +3706,7 @@
         {
           "title": "Qwen/Qwen3.8-2.4T-A95B-FP8",
           "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8",
-          "date": "2026-08-14",
+          "date": "2026-08-18",
           "source": "HuggingFace",
           "description": "• Qwen3.8-2.4T-A95B-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/Qwen%20Studio-536af5?logo=qwen&logoColor=white",
