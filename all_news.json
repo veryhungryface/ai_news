@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-08-19",
-      "update_time": "2026-08-18 18:21:20",
+      "update_time": "2026-08-18 21:13:35",
       "news": [
+        {
+          "title": "Strengthening democratic oversight in national security",
+          "link": "https://openai.com/index/strengthening-democratic-oversight-in-national-security",
+          "date": "2026-08-19",
+          "source": "OpenAI",
+          "description": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Strengthening democratic oversight in national security",
+          "original_summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise.",
+          "summary": "OpenAI launches an initiative to strengthen democratic oversight of AI in national security, supporting government institutions with tools, training, and expertise."
+        },
+        {
+          "title": "How Enterprises Can Catch Up With the Rapid Pace of AI Advances",
+          "link": "https://aibusiness.com/generative-ai/how-enterprises-catch-up-with-rapid-pace-of-ai-advances",
+          "date": "2026-08-19",
+          "source": "AI Business",
+          "description": "To be successful using constantly evolving AI technology, enterprises need a deep understanding of their business processes and flexibility in the models and agents they use.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt368d8ae6ea139470/6a84a5862f7666c6e6cca1e6/Dataiku.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "How Enterprises Can Catch Up With the Rapid Pace of AI Advances",
+          "original_summary": "To be successful using constantly evolving AI technology, enterprises need a deep understanding of their business processes and flexibility in the models and agents they use.",
+          "summary": "To be successful using constantly evolving AI technology, enterprises need a deep understanding of their business processes and flexibility in the models and agents they use."
+        },
         {
           "title": "Nvidia to Back OpenAI Data Center With $105B Investment",
           "link": "https://aibusiness.com/data-centers/nvidia-back-openai-data-center-105b-investment",
@@ -56,19 +80,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Lightricks/LTX-2.5",
-          "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-08-19",
-          "source": "HuggingFace",
-          "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Lightricks/LTX-2.5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "MiniMaxAI/MiniMax-Music3",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
           "date": "2026-08-19",
@@ -82,15 +93,15 @@
           "category": "AI Model"
         },
         {
-          "title": "meta-models/Muse-Glimmer-30B",
-          "link": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+          "title": "Lightricks/LTX-2.5",
+          "link": "https://huggingface.co/Lightricks/LTX-2.5",
           "date": "2026-08-19",
           "source": "HuggingFace",
-          "description": "• Muse-Glimmer-30B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
           "is_english": true,
-          "summary": "• Muse-Glimmer-30B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "meta-models/Muse-Glimmer-30B",
+          "summary": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Lightricks/LTX-2.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -104,6 +115,19 @@
           "is_english": true,
           "summary": "• DeepSeek-V4-Pro-0813 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "deepseek-ai/DeepSeek-V4-Pro-0813",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "meta-models/Muse-Glimmer-30B",
+          "link": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+          "date": "2026-08-19",
+          "source": "HuggingFace",
+          "description": "• Muse-Glimmer-30B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Muse-Glimmer-30B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "meta-models/Muse-Glimmer-30B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -199,19 +223,6 @@
           "category": "AI Model"
         },
         {
-          "title": "moonshotai/Kimi-K3",
-          "link": "https://huggingface.co/moonshotai/Kimi-K3",
-          "date": "2026-08-19",
-          "source": "HuggingFace",
-          "description": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/moonshotai/Kimi-K3/resolve/main/assets/kimi-logo.png",
-          "is_english": true,
-          "summary": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "moonshotai/Kimi-K3",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Gazingstars123/Anima-2.9B",
           "link": "https://huggingface.co/Gazingstars123/Anima-2.9B",
           "date": "2026-08-19",
@@ -225,15 +236,15 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
-          "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
+          "title": "moonshotai/Kimi-K3",
+          "link": "https://huggingface.co/moonshotai/Kimi-K3",
           "date": "2026-08-19",
           "source": "HuggingFace",
-          "description": "• NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4/resolve/main/./accuracy_plot.png",
+          "description": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/moonshotai/Kimi-K3/resolve/main/assets/kimi-logo.png",
           "is_english": true,
-          "summary": "• NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/NVIDIA-Nemotron-3.5-Lightning-30B-A3B-NVFP4",
+          "summary": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "moonshotai/Kimi-K3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -275,13 +286,38 @@
           "translated_title": "froggeric/Qwen-Fixed-Chat-Templates",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "link": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "date": "2026-08-19",
+          "source": "HuggingFace",
+          "description": "• Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF/resolve/main/valhalla.webp",
+          "is_english": true,
+          "summary": "• Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-08-18",
-      "update_time": "2026-08-18 18:21:19",
+      "update_time": "2026-08-18 21:13:35",
       "news": [
+        {
+          "title": "Pacing model development in an era of cyber-critical capabilities",
+          "link": "https://openai.com/index/pacing-model-development-cyber-capabilities",
+          "date": "2026-08-18",
+          "source": "OpenAI",
+          "description": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Pacing model development in an era of cyber-critical capabilities",
+          "original_summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development.",
+          "summary": "OpenAI is strengthening monitoring, alignment, and security for frontier AI models. See how new safeguards are guiding the pace of model development."
+        },
         {
           "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
           "link": "https://openai.com/index/asana",
@@ -8480,7 +8516,7 @@
         {
           "title": "DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
           "link": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF",
-          "date": "2026-08-10",
+          "date": "2026-08-19",
           "source": "HuggingFace",
           "description": "• Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/DavidAU/Qwen3.6-27B-Fable-Fusion-711-Uncensored-Heretic-NM-DAU-NEO-MAX-MTP-GGUF/resolve/main/valhalla.webp",
