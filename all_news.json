@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-08-20",
-      "update_time": "2026-08-19 15:21:08",
+      "update_time": "2026-08-19 18:18:19",
       "news": [
+        {
+          "title": "Offering Zero Data Retention for frontier models",
+          "link": "https://openai.com/index/our-commitment-to-zero-data-retention",
+          "date": "2026-08-20",
+          "source": "OpenAI",
+          "description": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Offering Zero Data Retention for frontier models",
+          "original_summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+          "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy."
+        },
         {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
@@ -57,19 +69,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Lightricks/LTX-2.5",
-          "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-08-20",
-          "source": "HuggingFace",
-          "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Lightricks/LTX-2.5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "deepseek-ai/DeepSeek-V4-Pro-0813",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
           "date": "2026-08-20",
@@ -79,6 +78,19 @@
           "is_english": true,
           "summary": "• DeepSeek-V4-Pro-0813 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "deepseek-ai/DeepSeek-V4-Pro-0813",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Lightricks/LTX-2.5",
+          "link": "https://huggingface.co/Lightricks/LTX-2.5",
+          "date": "2026-08-20",
+          "source": "HuggingFace",
+          "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Lightricks/LTX-2.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -122,15 +134,15 @@
           "category": "AI Model"
         },
         {
-          "title": "meta-models/Muse-Glimmer-30B",
-          "link": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+          "title": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+          "link": "https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
           "date": "2026-08-20",
           "source": "HuggingFace",
-          "description": "• Muse-Glimmer-30B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "description": "• Qwen3.8-27B-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
           "is_english": true,
-          "summary": "• Muse-Glimmer-30B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "meta-models/Muse-Glimmer-30B",
+          "summary": "• Qwen3.8-27B-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -148,15 +160,15 @@
           "category": "AI Model"
         },
         {
-          "title": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-          "link": "https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+          "title": "meta-models/Muse-Glimmer-30B",
+          "link": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
           "date": "2026-08-20",
           "source": "HuggingFace",
-          "description": "• Qwen3.8-27B-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "description": "• Muse-Glimmer-30B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
           "is_english": true,
-          "summary": "• Qwen3.8-27B-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+          "summary": "• Muse-Glimmer-30B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "meta-models/Muse-Glimmer-30B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -174,19 +186,6 @@
           "category": "AI Model"
         },
         {
-          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
-          "date": "2026-08-20",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Flash-0731 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
-          "is_english": true,
-          "summary": "• DeepSeek-V4-Flash-0731 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepseek-ai/DeepSeek-V4-Flash-0731",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
           "link": "https://huggingface.co/HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
           "date": "2026-08-20",
@@ -196,6 +195,19 @@
           "is_english": true,
           "summary": "• Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+          "date": "2026-08-20",
+          "source": "HuggingFace",
+          "description": "• DeepSeek-V4-Flash-0731 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
+          "is_english": true,
+          "summary": "• DeepSeek-V4-Flash-0731 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepseek-ai/DeepSeek-V4-Flash-0731",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +280,32 @@
     },
     {
       "date": "2026-08-19",
-      "update_time": "2026-08-19 15:21:06",
+      "update_time": "2026-08-19 18:18:19",
       "news": [
+        {
+          "title": "Meet the startup helping Wall Street put a price on AI compute",
+          "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+          "date": "2026-08-19",
+          "source": "TechCrunch",
+          "description": "The AI buildout shows no signs of slowing. And&#160;with&#160;hundreds of&#160;billions of dollars a year going into data centers and GPUs,&#160;compute has&#160;become the single biggest cost for anyone building AI products. But for all that spending, there still&#160;isn’t&#160;a straightforward way to put a price on&#160;compute&#160;— or&#160;for firms to hedge their exposure when the price&#160;changes.&#160; Silicon Data [&#8230;]",
+          "image": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-914452330.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Meet the startup helping Wall Street put a price on AI compute",
+          "original_summary": "The AI buildout shows no signs of slowing. And&#160;with&#160;hundreds of&#160;billions of dollars a year going into data centers and GPUs,&#160;compute has&#160;become the single biggest cost for anyone building AI products. But for all that spending, there still&#160;isn’t&#160;a straightforward w",
+          "summary": "The AI buildout shows no signs of slowing. And&#160;with&#160;hundreds of&#160;billions of dollars a year going into data centers and GPUs,&#160;compute has&#160;become the single biggest cost for anyone building AI products. But for all that spending, there still&#160;isn’t&#160;a straightforward w"
+        },
+        {
+          "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+          "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+          "date": "2026-08-19",
+          "source": "TechCrunch",
+          "description": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/terrapower-power-plant.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+          "original_summary": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
+          "summary": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals."
+        },
         {
           "title": "Replit expands access to software creation with GPT-5.6 Luna",
           "link": "https://openai.com/index/replit",
@@ -8341,7 +8377,7 @@
         {
           "title": "MiniMaxAI/MiniMax-H3",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
-          "date": "2026-08-11",
+          "date": "2026-08-20",
           "source": "HuggingFace",
           "description": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/MiniMaxAI/MiniMax-H3/resolve/main/assets/minimax-h3.png",
@@ -8354,7 +8390,7 @@
         {
           "title": "meta-models/Muse-Glimmer-30B",
           "link": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
-          "date": "2026-08-11",
+          "date": "2026-08-20",
           "source": "HuggingFace",
           "description": "• Muse-Glimmer-30B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -8367,7 +8403,7 @@
         {
           "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
-          "date": "2026-08-11",
+          "date": "2026-08-20",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4-Flash-0731 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
@@ -8419,7 +8455,7 @@
         {
           "title": "moonshotai/Kimi-K3",
           "link": "https://huggingface.co/moonshotai/Kimi-K3",
-          "date": "2026-08-11",
+          "date": "2026-08-20",
           "source": "HuggingFace",
           "description": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/moonshotai/Kimi-K3/resolve/main/assets/kimi-logo.png",
