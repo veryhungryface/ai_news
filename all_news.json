@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-08-20",
-      "update_time": "2026-08-19 18:18:19",
+      "update_time": "2026-08-19 21:16:11",
       "news": [
+        {
+          "title": "서울시평생교육진흥원, 인문담론 'AI 시대, 일의 미래'",
+          "link": "https://www.yna.co.kr/view/AKR20260819148900004",
+          "date": "2026-08-20",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 황재하 기자 = 서울시평생교육진흥원(원장 한용진)은 &apos;바른 과학기술사회 실현을 위한 국민연합(과실연) AI 미래포럼&apos; 의장단과...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/08/19/AKR20260819148900004_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "서울시평생교육진흥원, 인문담론 'AI 시대, 일의 미래'",
+          "original_summary": "(서울=연합뉴스) 황재하 기자 = 서울시평생교육진흥원(원장 한용진)은 &apos;바른 과학기술사회 실현을 위한 국민연합(과실연) AI 미래포럼&apos; 의장단과...",
+          "summary": "(서울=연합뉴스) 황재하 기자 = 서울시평생교육진흥원(원장 한용진)은 &apos;바른 과학기술사회 실현을 위한 국민연합(과실연) AI 미래포럼&apos; 의장단과..."
+        },
+        {
+          "title": "Offering Zero Data Retention for frontier models",
+          "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+          "date": "2026-08-20",
+          "source": "OpenAI",
+          "description": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Offering Zero Data Retention for frontier models",
+          "original_summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+          "summary": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy."
+        },
         {
           "title": "Offering Zero Data Retention for frontier models",
           "link": "https://openai.com/index/our-commitment-to-zero-data-retention",
@@ -82,19 +106,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Lightricks/LTX-2.5",
-          "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-08-20",
-          "source": "HuggingFace",
-          "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Lightricks/LTX-2.5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.8-27B-FP8",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
           "date": "2026-08-20",
@@ -104,6 +115,19 @@
           "is_english": true,
           "summary": "• Qwen3.8-27B-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.8-27B-FP8",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Lightricks/LTX-2.5",
+          "link": "https://huggingface.co/Lightricks/LTX-2.5",
+          "date": "2026-08-20",
+          "source": "HuggingFace",
+          "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Lightricks/LTX-2.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -251,15 +275,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Gazingstars123/Anima-2.9B",
-          "link": "https://huggingface.co/Gazingstars123/Anima-2.9B",
+          "title": "empero-ai/Qwen3.8-27B-Ridge-GGUF",
+          "link": "https://huggingface.co/empero-ai/Qwen3.8-27B-Ridge-GGUF",
           "date": "2026-08-20",
           "source": "HuggingFace",
-          "description": "• Anima-2.9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/Ko--fi-Support-ff5e5b?logo=ko-fi&logoColor=white",
+          "description": "• Qwen3.8-27B-Ridge-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
           "is_english": true,
-          "summary": "• Anima-2.9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Gazingstars123/Anima-2.9B",
+          "summary": "• Qwen3.8-27B-Ridge-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "empero-ai/Qwen3.8-27B-Ridge-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -280,8 +304,56 @@
     },
     {
       "date": "2026-08-19",
-      "update_time": "2026-08-19 18:18:19",
+      "update_time": "2026-08-19 21:16:09",
       "news": [
+        {
+          "title": "AI was supposed to win people over by now — it hasn’t",
+          "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+          "date": "2026-08-19",
+          "source": "TechCrunch",
+          "description": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
+          "is_english": true,
+          "original_title": "AI was supposed to win people over by now — it hasn’t",
+          "original_summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
+          "summary": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance."
+        },
+        {
+          "title": "Google packs Search and Gemini with new AI study tools",
+          "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+          "date": "2026-08-19",
+          "source": "TechCrunch",
+          "description": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Google packs Search and Gemini with new AI study tools",
+          "original_summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
+          "summary": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI."
+        },
+        {
+          "title": "Researchers say OpenAI revoked their access to limited cyber program",
+          "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+          "date": "2026-08-19",
+          "source": "TechCrunch",
+          "description": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/openai-daybreak.jpg?resize=1200,798",
+          "is_english": true,
+          "original_title": "Researchers say OpenAI revoked their access to limited cyber program",
+          "original_summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster. ",
+          "summary": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched faster. "
+        },
+        {
+          "title": "5 new ways to level up your learning with Search",
+          "link": "https://blog.google/products-and-platforms/products/search/back-to-school-study-tools/",
+          "date": "2026-08-19",
+          "source": "Google AI",
+          "description": "Here’s how you can use Google Search tools to study for classes and standardized tests.",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_header_2_JwwDb02.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "5 new ways to level up your learning with Search",
+          "original_summary": "Here’s how you can use Google Search tools to study for classes and standardized tests.",
+          "summary": "Here’s how you can use Google Search tools to study for classes and standardized tests."
+        },
         {
           "title": "Meet the startup helping Wall Street put a price on AI compute",
           "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
