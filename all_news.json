@@ -2,8 +2,104 @@
   "dates": [
     {
       "date": "2026-08-19",
-      "update_time": "2026-08-19 00:38:07",
+      "update_time": "2026-08-19 03:38:17",
       "news": [
+        {
+          "title": "취약계층·농어촌 고교생 12만명에 유료 AI서비스 지원",
+          "link": "https://www.yna.co.kr/view/AKR20260819043200530",
+          "date": "2026-08-19",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 노재현 기자 = 교육부는 한국장학재단과 함께 취약계층 및 취약지역 고등학생에게 인공지능(AI) 서비스와 교육 프로그램을 제공하...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/08/19/AKR20260819043200530_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "취약계층·농어촌 고교생 12만명에 유료 AI서비스 지원",
+          "original_summary": "(서울=연합뉴스) 노재현 기자 = 교육부는 한국장학재단과 함께 취약계층 및 취약지역 고등학생에게 인공지능(AI) 서비스와 교육 프로그램을 제공하...",
+          "summary": "(서울=연합뉴스) 노재현 기자 = 교육부는 한국장학재단과 함께 취약계층 및 취약지역 고등학생에게 인공지능(AI) 서비스와 교육 프로그램을 제공하..."
+        },
+        {
+          "title": "오픈AI, 사이버 보안 위험으로 차세대 모델 '아스트라' 개발 2주 중단",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214095",
+          "date": "2026-08-19",
+          "source": "AI타임스",
+          "description": "오픈AI가 차세대 AI 모델의 강화학습(RL) 훈련을 2주간 중단하고 연구·훈련 환경의 보안을 전면 재정비한다. AI 모델이 갈수록 강력한 사이버 공격 능력을 갖추면서 개발 과정에서조차 연구진이 예상하지 못한 방식으로 외부 시스템에 접근할 위험이 커지고 있다는 판단에서다.오픈AI는 18일(현지시간) 모델 중단 사실을 발표하며, 최근 몇 주 동안 발생한 두 가지 사건이 AI 안전성 강화의 필요성을 분명하게 보여줬다고 설명했다.먼저 AI 에이전트가 보안 평가 과정에서 AI 개발 플랫폼인 허깅페이스의 시스템을 실제로 공격한 사건을 꼽았다",
+          "image": "https://cdn.aitimes.com/news/photo/202608/214095_217728_4156.jpg",
+          "is_english": false,
+          "original_title": "오픈AI, 사이버 보안 위험으로 차세대 모델 '아스트라' 개발 2주 중단",
+          "original_summary": "오픈AI가 차세대 AI 모델의 강화학습(RL) 훈련을 2주간 중단하고 연구·훈련 환경의 보안을 전면 재정비한다. AI 모델이 갈수록 강력한 사이버 공격 능력을 갖추면서 개발 과정에서조차 연구진이 예상하지 못한 방식으로 외부 시스템에 접근할 위험이 커지고 있다는 판단에서다.오픈AI는 18일(현지시간) 모델 중단 사실을 발표하며, 최근 몇 주 동안 발생한 두 가지 사건이 AI 안전성 강화의 필요성을 분명하게 보여줬다고 설명했다.먼저 AI 에이전트가 보안 평가 과정에서 AI 개발 플랫폼인 허깅페이스의 시스템을 실제로 공격한 사건을 꼽았다",
+          "summary": "오픈AI가 차세대 AI 모델의 강화학습(RL) 훈련을 2주간 중단하고 연구·훈련 환경의 보안을 전면 재정비한다. AI 모델이 갈수록 강력한 사이버 공격 능력을 갖추면서 개발 과정에서조차 연구진이 예상하지 못한 방식으로 외부 시스템에 접근할 위험이 커지고 있다는 판단에서다.오픈AI는 18일(현지시간) 모델 중단 사실을 발표하며, 최근 몇 주 동안 발생한 두 가지 사건이 AI 안전성 강화의 필요성을 분명하게 보여줬다고 설명했다.먼저 AI 에이전트가 보안 평가 과정에서 AI 개발 플랫폼인 허깅페이스의 시스템을 실제로 공격한 사건을 꼽았다"
+        },
+        {
+          "title": "스노우플레이크, AI 모델 라우팅 기능 출시...\"프론티어·오픈 모델 최적화\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214093",
+          "date": "2026-08-19",
+          "source": "AI타임스",
+          "description": "스노우플레이크가 기업용 AI 에이전트의 보안 및 비용 관리를 지원하는 \\'코텍스 AI 게이트웨이\\'에 \\'다이나믹 모델 라우팅\\' 기능을 새롭게 도입했다고 19일 밝혔다.다이나믹 모델 라우팅은 작업 성격에 맞춰 최적화된 모델을 자동 배분하는 기능이다. \\'딥시크 V4 플래시 0731\\' \\'GLM-5.32\\' 등 비용 효율적 오픈웨이트 모델을 포함해 앤트로픽, 오픈AI, 구글 등 상용·프론티어급 모델까지 접근할 수 있다는 설명이다.스노우플레이크 코코, 스노우플레이크 코워크 등 주요 AI 제품을 포함해 코텍스 AI 게이트웨이를 사용하는 서드파티 A",
+          "image": "https://cdn.aitimes.com/news/photo/202608/214093_217727_3247.jpg",
+          "is_english": false,
+          "original_title": "스노우플레이크, AI 모델 라우팅 기능 출시...\"프론티어·오픈 모델 최적화\"",
+          "original_summary": "스노우플레이크가 기업용 AI 에이전트의 보안 및 비용 관리를 지원하는 \\'코텍스 AI 게이트웨이\\'에 \\'다이나믹 모델 라우팅\\' 기능을 새롭게 도입했다고 19일 밝혔다.다이나믹 모델 라우팅은 작업 성격에 맞춰 최적화된 모델을 자동 배분하는 기능이다. \\'딥시크 V4 플래시 0731\\' \\'GLM-5.32\\' 등 비용 효율적 오픈웨이트 모델을 포함해 앤트로픽, 오픈AI, 구글 등 상용·프론티어급 모델까지 접근할 수 있다는 설명이다.스노우플레이크 코코, 스노우플레이크 코워크 등 주요 AI 제품을 포함해 코텍스 AI 게이트웨이를 사용하",
+          "summary": "스노우플레이크가 기업용 AI 에이전트의 보안 및 비용 관리를 지원하는 \\'코텍스 AI 게이트웨이\\'에 \\'다이나믹 모델 라우팅\\' 기능을 새롭게 도입했다고 19일 밝혔다.다이나믹 모델 라우팅은 작업 성격에 맞춰 최적화된 모델을 자동 배분하는 기능이다. \\'딥시크 V4 플래시 0731\\' \\'GLM-5.32\\' 등 비용 효율적 오픈웨이트 모델을 포함해 앤트로픽, 오픈AI, 구글 등 상용·프론티어급 모델까지 접근할 수 있다는 설명이다.스노우플레이크 코코, 스노우플레이크 코워크 등 주요 AI 제품을 포함해 코텍스 AI 게이트웨이를 사용하"
+        },
+        {
+          "title": "엠아이큐브솔루션, 팔도 라면 공장에 AI 자율제조 플랫폼 공급",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214096",
+          "date": "2026-08-19",
+          "source": "AI타임스",
+          "description": "엠아이큐브솔루션(대표 심효준)은 팔도 라면 공장에 자율제조 플랫폼을 구축한다고 19일 밝혔다.이번 사업은 중소벤처기업부가 추진하고 중소기업기술정보진흥원 인공지능혁신추진단이 운영하는 \\'AI 응용제품 신속 상용화 지원 사업\\'의 일환으로 진행된다.총사업비는 23억7000만원이며, 엠아이큐브솔루션은 \\'K-푸드 제조 AX 선도를 위한 AI 기반 자율제조 공정 최적화 엔진 실증 및 구축 사업\\'을 수행한다.엠아이큐브솔루션은 도시락을 비롯해 왕뚜껑, 팔도비빔면 등 팔도의 주요 제품을 생산하는 나주 공장에 AI 자율제조 플랫폼을 구축한다.구축 대상",
+          "image": "https://cdn.aitimes.com/news/photo/202608/214096_217729_5936.png",
+          "is_english": false,
+          "original_title": "엠아이큐브솔루션, 팔도 라면 공장에 AI 자율제조 플랫폼 공급",
+          "original_summary": "엠아이큐브솔루션(대표 심효준)은 팔도 라면 공장에 자율제조 플랫폼을 구축한다고 19일 밝혔다.이번 사업은 중소벤처기업부가 추진하고 중소기업기술정보진흥원 인공지능혁신추진단이 운영하는 \\'AI 응용제품 신속 상용화 지원 사업\\'의 일환으로 진행된다.총사업비는 23억7000만원이며, 엠아이큐브솔루션은 \\'K-푸드 제조 AX 선도를 위한 AI 기반 자율제조 공정 최적화 엔진 실증 및 구축 사업\\'을 수행한다.엠아이큐브솔루션은 도시락을 비롯해 왕뚜껑, 팔도비빔면 등 팔도의 주요 제품을 생산하는 나주 공장에 AI 자율제조 플랫폼을 구축한다.구",
+          "summary": "엠아이큐브솔루션(대표 심효준)은 팔도 라면 공장에 자율제조 플랫폼을 구축한다고 19일 밝혔다.이번 사업은 중소벤처기업부가 추진하고 중소기업기술정보진흥원 인공지능혁신추진단이 운영하는 \\'AI 응용제품 신속 상용화 지원 사업\\'의 일환으로 진행된다.총사업비는 23억7000만원이며, 엠아이큐브솔루션은 \\'K-푸드 제조 AX 선도를 위한 AI 기반 자율제조 공정 최적화 엔진 실증 및 구축 사업\\'을 수행한다.엠아이큐브솔루션은 도시락을 비롯해 왕뚜껑, 팔도비빔면 등 팔도의 주요 제품을 생산하는 나주 공장에 AI 자율제조 플랫폼을 구축한다.구"
+        },
+        {
+          "title": "뉴플로이, 개인 PC에서 구동하는 '온디바이스 AI OCR 솔루션' 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214098",
+          "date": "2026-08-19",
+          "source": "AI타임스",
+          "description": "뉴플로이(대표 김진용)는 온디바이스 AI 기반 문서 광학문자인식(OCR) 소프트웨어 ‘뉴플로이 AI\\'를 출시하고 개인 및 기업 고객에게 무료로 제공한다고 19일 밝혔다.뉴플로이 AI는 PDF와 스캔 문서의 글자, 표, 레이아웃을 데이터 형태로 구조화하는 솔루션이다. 텍스트 인식을 넘어 문서 레이아웃, 표 데이터 내 연관 관계 분석까지 가능하며, 수식은 이공계 논문 작성 표준인 \\'라텍(LaTeX)\\' 형식으로 변환해 제공한다.특히 자체 온디바이스 AI 모델을 기반으로 사용자의 디바이스 내에서 작동해 파일이 외부 서버로 전송되지 않는다.",
+          "image": "https://cdn.aitimes.com/news/photo/202608/214098_217733_171.jpg",
+          "is_english": false,
+          "original_title": "뉴플로이, 개인 PC에서 구동하는 '온디바이스 AI OCR 솔루션' 출시",
+          "original_summary": "뉴플로이(대표 김진용)는 온디바이스 AI 기반 문서 광학문자인식(OCR) 소프트웨어 ‘뉴플로이 AI\\'를 출시하고 개인 및 기업 고객에게 무료로 제공한다고 19일 밝혔다.뉴플로이 AI는 PDF와 스캔 문서의 글자, 표, 레이아웃을 데이터 형태로 구조화하는 솔루션이다. 텍스트 인식을 넘어 문서 레이아웃, 표 데이터 내 연관 관계 분석까지 가능하며, 수식은 이공계 논문 작성 표준인 \\'라텍(LaTeX)\\' 형식으로 변환해 제공한다.특히 자체 온디바이스 AI 모델을 기반으로 사용자의 디바이스 내에서 작동해 파일이 외부 서버로 전송되지 않",
+          "summary": "뉴플로이(대표 김진용)는 온디바이스 AI 기반 문서 광학문자인식(OCR) 소프트웨어 ‘뉴플로이 AI\\'를 출시하고 개인 및 기업 고객에게 무료로 제공한다고 19일 밝혔다.뉴플로이 AI는 PDF와 스캔 문서의 글자, 표, 레이아웃을 데이터 형태로 구조화하는 솔루션이다. 텍스트 인식을 넘어 문서 레이아웃, 표 데이터 내 연관 관계 분석까지 가능하며, 수식은 이공계 논문 작성 표준인 \\'라텍(LaTeX)\\' 형식으로 변환해 제공한다.특히 자체 온디바이스 AI 모델을 기반으로 사용자의 디바이스 내에서 작동해 파일이 외부 서버로 전송되지 않"
+        },
+        {
+          "title": "독일, 태양광 입찰 경쟁 지속…모집보다 1GW 더 몰려",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214091",
+          "date": "2026-08-19",
+          "source": "AI타임스",
+          "description": "독일 대규모 태양광 입찰에 모집물량보다 약 1기가와트(GW) 많은 사업이 몰리면서 초과응찰이 이어졌다. 평균 낙찰가격도 직전 입찰보다 낮아졌다.독일 연방네트워크청은 18일(현지시간) 지난 7월1일 마감한 태양광 1부문 입찰 결과를 발표했다. 이번 입찰은 지상형 태양광과 건물·방음벽이 아닌 구조물에 설치하는 태양광이 대상이다.모집 규모는 2135메가와트(MW)였으며, 총 401건에 3170MW가 응찰했다. 모집 물량보다 1035MW 많은 규모다.이번 입찰은 독일 재생에너지법(EEG)에 따라 태양광 발전사업자에게 지원 물량과 가격을 배",
+          "image": "https://cdn.aitimes.com/news/photo/202608/214091_217725_3155.jpg",
+          "is_english": false,
+          "original_title": "독일, 태양광 입찰 경쟁 지속…모집보다 1GW 더 몰려",
+          "original_summary": "독일 대규모 태양광 입찰에 모집물량보다 약 1기가와트(GW) 많은 사업이 몰리면서 초과응찰이 이어졌다. 평균 낙찰가격도 직전 입찰보다 낮아졌다.독일 연방네트워크청은 18일(현지시간) 지난 7월1일 마감한 태양광 1부문 입찰 결과를 발표했다. 이번 입찰은 지상형 태양광과 건물·방음벽이 아닌 구조물에 설치하는 태양광이 대상이다.모집 규모는 2135메가와트(MW)였으며, 총 401건에 3170MW가 응찰했다. 모집 물량보다 1035MW 많은 규모다.이번 입찰은 독일 재생에너지법(EEG)에 따라 태양광 발전사업자에게 지원 물량과 가격을 배",
+          "summary": "독일 대규모 태양광 입찰에 모집물량보다 약 1기가와트(GW) 많은 사업이 몰리면서 초과응찰이 이어졌다. 평균 낙찰가격도 직전 입찰보다 낮아졌다.독일 연방네트워크청은 18일(현지시간) 지난 7월1일 마감한 태양광 1부문 입찰 결과를 발표했다. 이번 입찰은 지상형 태양광과 건물·방음벽이 아닌 구조물에 설치하는 태양광이 대상이다.모집 규모는 2135메가와트(MW)였으며, 총 401건에 3170MW가 응찰했다. 모집 물량보다 1035MW 많은 규모다.이번 입찰은 독일 재생에너지법(EEG)에 따라 태양광 발전사업자에게 지원 물량과 가격을 배"
+        },
+        {
+          "title": "우크라이나, 전쟁 피해 전력망 재건에 100MW 태양광 구축",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214087",
+          "date": "2026-08-19",
+          "source": "AI타임스",
+          "description": "중국 라이젠 에너지(Risen Energy)와 우크라이나 아스카니아 에너지(Ascania Energy)가 우크라이나에 최대 100메가와트(MW) 규모 태양광과 200메가와트시(MWh) 규모 배터리 에너지저장장치(BESS)를 구축하는 사업을 추진한다.라이젠 에너지는 18일(현지시간) 양사가 우크라이나 태양광·에너지저장 사업 협력을 위한 양해각서(MOU) 2건을 체결했다고 발표했다.우크라이나 전쟁으로 발전·송배전 인프라가 반복적으로 훼손된 상태에서 기존 전력설비 복구와 함께 분산형 전원과 저장장치를 늘리는 움직임이 이어지고 있다. 라이",
+          "image": "https://cdn.aitimes.com/news/photo/202608/214087_217723_5439.jpg",
+          "is_english": false,
+          "original_title": "우크라이나, 전쟁 피해 전력망 재건에 100MW 태양광 구축",
+          "original_summary": "중국 라이젠 에너지(Risen Energy)와 우크라이나 아스카니아 에너지(Ascania Energy)가 우크라이나에 최대 100메가와트(MW) 규모 태양광과 200메가와트시(MWh) 규모 배터리 에너지저장장치(BESS)를 구축하는 사업을 추진한다.라이젠 에너지는 18일(현지시간) 양사가 우크라이나 태양광·에너지저장 사업 협력을 위한 양해각서(MOU) 2건을 체결했다고 발표했다.우크라이나 전쟁으로 발전·송배전 인프라가 반복적으로 훼손된 상태에서 기존 전력설비 복구와 함께 분산형 전원과 저장장치를 늘리는 움직임이 이어지고 있다. 라이",
+          "summary": "중국 라이젠 에너지(Risen Energy)와 우크라이나 아스카니아 에너지(Ascania Energy)가 우크라이나에 최대 100메가와트(MW) 규모 태양광과 200메가와트시(MWh) 규모 배터리 에너지저장장치(BESS)를 구축하는 사업을 추진한다.라이젠 에너지는 18일(현지시간) 양사가 우크라이나 태양광·에너지저장 사업 협력을 위한 양해각서(MOU) 2건을 체결했다고 발표했다.우크라이나 전쟁으로 발전·송배전 인프라가 반복적으로 훼손된 상태에서 기존 전력설비 복구와 함께 분산형 전원과 저장장치를 늘리는 움직임이 이어지고 있다. 라이"
+        },
+        {
+          "title": "빠른 속도 아래 그늘, 기업을 위협하는 바이브 코딩의 허점",
+          "link": "https://www.itworld.co.kr/article/4211278/%eb%b9%a0%eb%a5%b8-%ec%86%8d%eb%8f%84-%ec%95%84%eb%9e%98-%ea%b7%b8%eb%8a%98-%ea%b8%b0%ec%97%85%ec%9d%84-%ec%9c%84%ed%98%91%ed%95%98%eb%8a%94-%eb%b0%94%ec%9d%b4%eb%b8%8c-%ec%bd%94%eb%94%a9%ec%9d%98.html",
+          "date": "2026-08-19",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n바이브 코딩이 기업의 최대 보안 위협 중 하나로 부상하고 있다. 애널리스트와 임원들은 바이브 코딩이 데이터를 외부로 유출시킬 수 있다고 경고한다.\n\n\n\n가트너 사이버보안 리서치 총괄 피트 쇼어드는 “현재 가장 큰 리스크는 바이브 코딩으로 개발한 애플리케이션을 통해 하드코딩된 시크릿(보안 자격증명)이 깃허브에 업로드되고, 침투 경로가 되는 것”이라고 말했다.\n\n\n\n‘바이브 코딩’이라는 용어는 안드레이 카르파티가 처음 만들었다. 개발자가 생성형 AI 도구 및 서비스와 대화하는 방식으로 애플리케이션을 만드는 방법을 표현하기 위해서다. AI는 빠르게 코드를 생성해 프로그램을 만들 수 있으며, 기존의 수작업 개발 방식과는 극적인 차이를 보인다.\n\n\n\n바이브 코딩이 개발자 커뮤니티에서 최신 유행으로 자리잡은 것은 어쩌면 당연한 결과다.\n\n\n\n기업은 비기술직 직원에게 바이브 코딩을 장려하며 기술 활용 역량을 키우기 위한 재교육에 앞다퉈 나서고 있다. 빠른",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/08/4211278-0-28745400-1787100610-GettyImages-2218083283.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "빠른 속도 아래 그늘, 기업을 위협하는 바이브 코딩의 허점",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n바이브 코딩이 기업의 최대 보안 위협 중 하나로 부상하고 있다. 애널리스트와 임원들은 바이브 코딩이 데이터를 외부로 유출시킬 수 있다고 경고한다.\n\n\n\n가트너 사이버보안 리서치 총괄 피트 쇼어드는 “현재 가장 큰 리스크는 바이브 코딩으로 개발한 애플리케이션을 통해 하드코딩된 시크릿(보안 자격증명)이 깃허브에 업로드되고, 침투 경로가 되는 것”이라고 말했다.\n\n\n\n‘바이브 코딩’이라는 용어는 안드레이 카르파티가 처음 만들었다. 개발자가 생성형 AI 도구 및 서비스와 대화하는 방식으로 애플리케이",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n바이브 코딩이 기업의 최대 보안 위협 중 하나로 부상하고 있다. 애널리스트와 임원들은 바이브 코딩이 데이터를 외부로 유출시킬 수 있다고 경고한다.\n\n\n\n가트너 사이버보안 리서치 총괄 피트 쇼어드는 “현재 가장 큰 리스크는 바이브 코딩으로 개발한 애플리케이션을 통해 하드코딩된 시크릿(보안 자격증명)이 깃허브에 업로드되고, 침투 경로가 되는 것”이라고 말했다.\n\n\n\n‘바이브 코딩’이라는 용어는 안드레이 카르파티가 처음 만들었다. 개발자가 생성형 AI 도구 및 서비스와 대화하는 방식으로 애플리케이"
+        },
         {
           "title": "성남시-KAIST, 인공지능 경진대회…지역현안 해결 모색",
           "link": "https://www.yna.co.kr/view/AKR20260819042700061",
@@ -205,19 +301,6 @@
           "category": "AI Model"
         },
         {
-          "title": "MiniMaxAI/MiniMax-H3",
-          "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
-          "date": "2026-08-19",
-          "source": "HuggingFace",
-          "description": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/MiniMaxAI/MiniMax-H3/resolve/main/assets/minimax-h3.png",
-          "is_english": true,
-          "summary": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "MiniMaxAI/MiniMax-H3",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
           "link": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
           "date": "2026-08-19",
@@ -227,6 +310,19 @@
           "is_english": true,
           "summary": "• Qwen3.8-27B-Uncensored-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-H3",
+          "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+          "date": "2026-08-19",
+          "source": "HuggingFace",
+          "description": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/MiniMaxAI/MiniMax-H3/resolve/main/assets/minimax-h3.png",
+          "is_english": true,
+          "summary": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "MiniMaxAI/MiniMax-H3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -257,19 +353,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.8-27B-NVFP4",
-          "link": "https://huggingface.co/unsloth/Qwen3.8-27B-NVFP4",
-          "date": "2026-08-19",
-          "source": "HuggingFace",
-          "description": "• Qwen3.8-27B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
-          "is_english": true,
-          "summary": "• Qwen3.8-27B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Qwen3.8-27B-NVFP4",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
           "link": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
           "date": "2026-08-19",
@@ -283,15 +366,15 @@
           "category": "AI Model"
         },
         {
-          "title": "lightx2v/Minimax-h3-Turbo",
-          "link": "https://huggingface.co/lightx2v/Minimax-h3-Turbo",
+          "title": "unsloth/Qwen3.8-27B-NVFP4",
+          "link": "https://huggingface.co/unsloth/Qwen3.8-27B-NVFP4",
           "date": "2026-08-19",
           "source": "HuggingFace",
-          "description": "• Minimax-h3-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• Qwen3.8-27B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
           "is_english": true,
-          "summary": "• Minimax-h3-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "lightx2v/Minimax-h3-Turbo",
+          "summary": "• Qwen3.8-27B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Qwen3.8-27B-NVFP4",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -305,6 +388,19 @@
           "is_english": true,
           "summary": "• Anima-2.9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Gazingstars123/Anima-2.9B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "lightx2v/Minimax-h3-Turbo",
+          "link": "https://huggingface.co/lightx2v/Minimax-h3-Turbo",
+          "date": "2026-08-19",
+          "source": "HuggingFace",
+          "description": "• Minimax-h3-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Minimax-h3-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "lightx2v/Minimax-h3-Turbo",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
