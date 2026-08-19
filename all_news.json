@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-08-19",
-      "update_time": "2026-08-19 03:38:17",
+      "update_time": "2026-08-19 06:25:07",
       "news": [
+        {
+          "title": "오픈AI, 청소년 전용 ‘챗GPT 포 틴즈’ 글로벌 출시...안전장치·학습 기능 강화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214094",
+          "date": "2026-08-19",
+          "source": "AI타임스",
+          "description": "오픈AI가 13~17세 청소년을 위한 전용 AI 챗봇 경험인 ‘챗GPT 포 틴즈(ChatGPT for Teens)’를 글로벌 출시했다. 오픈AI는 18일(현지시간) 이를 공개하며 청소년이 AI를 안전하게 활용하면서도 비판적으로 사고하고 학습할 수 있도록 설계했다고 밝혔다.사용자가 자신의 나이를 13~17세라고 밝히거나, 가입 정보와 이용 행태, 질문 유형 등 여러 신호를 바탕으로 시스템이 18세 미만으로 추정하면 별도의 신청 절차 없이 청소년용 경험으로 자동 전환된다.나이 판단이 확실하지 않으면 안전 설정이 우선 적용된다. 성인 이",
+          "image": "https://cdn.aitimes.com/news/photo/202608/214094_217726_2357.png",
+          "is_english": false,
+          "original_title": "오픈AI, 청소년 전용 ‘챗GPT 포 틴즈’ 글로벌 출시...안전장치·학습 기능 강화",
+          "original_summary": "오픈AI가 13~17세 청소년을 위한 전용 AI 챗봇 경험인 ‘챗GPT 포 틴즈(ChatGPT for Teens)’를 글로벌 출시했다. 오픈AI는 18일(현지시간) 이를 공개하며 청소년이 AI를 안전하게 활용하면서도 비판적으로 사고하고 학습할 수 있도록 설계했다고 밝혔다.사용자가 자신의 나이를 13~17세라고 밝히거나, 가입 정보와 이용 행태, 질문 유형 등 여러 신호를 바탕으로 시스템이 18세 미만으로 추정하면 별도의 신청 절차 없이 청소년용 경험으로 자동 전환된다.나이 판단이 확실하지 않으면 안전 설정이 우선 적용된다. 성인 이",
+          "summary": "오픈AI가 13~17세 청소년을 위한 전용 AI 챗봇 경험인 ‘챗GPT 포 틴즈(ChatGPT for Teens)’를 글로벌 출시했다. 오픈AI는 18일(현지시간) 이를 공개하며 청소년이 AI를 안전하게 활용하면서도 비판적으로 사고하고 학습할 수 있도록 설계했다고 밝혔다.사용자가 자신의 나이를 13~17세라고 밝히거나, 가입 정보와 이용 행태, 질문 유형 등 여러 신호를 바탕으로 시스템이 18세 미만으로 추정하면 별도의 신청 절차 없이 청소년용 경험으로 자동 전환된다.나이 판단이 확실하지 않으면 안전 설정이 우선 적용된다. 성인 이"
+        },
+        {
+          "title": "ChatGPT Ads expands across Europe",
+          "link": "https://openai.com/index/chatgpt-ads-expands-across-europe",
+          "date": "2026-08-19",
+          "source": "OpenAI",
+          "description": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+          "image": null,
+          "is_english": true,
+          "original_title": "ChatGPT Ads expands across Europe",
+          "original_summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions.",
+          "summary": "ChatGPT Ads is expanding to 31 European markets. Learn how advertisers can reach people as they explore, compare options, and make decisions."
+        },
         {
           "title": "취약계층·농어촌 고교생 12만명에 유료 AI서비스 지원",
           "link": "https://www.yna.co.kr/view/AKR20260819043200530",
@@ -288,19 +312,6 @@
           "category": "AI Model"
         },
         {
-          "title": "meta-models/Muse-Glimmer-30B",
-          "link": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
-          "date": "2026-08-19",
-          "source": "HuggingFace",
-          "description": "• Muse-Glimmer-30B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Muse-Glimmer-30B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "meta-models/Muse-Glimmer-30B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
           "link": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
           "date": "2026-08-19",
@@ -310,6 +321,19 @@
           "is_english": true,
           "summary": "• Qwen3.8-27B-Uncensored-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "meta-models/Muse-Glimmer-30B",
+          "link": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+          "date": "2026-08-19",
+          "source": "HuggingFace",
+          "description": "• Muse-Glimmer-30B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Muse-Glimmer-30B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "meta-models/Muse-Glimmer-30B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -340,19 +364,6 @@
           "category": "AI Model"
         },
         {
-          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
-          "date": "2026-08-19",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Flash-0731 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
-          "is_english": true,
-          "summary": "• DeepSeek-V4-Flash-0731 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepseek-ai/DeepSeek-V4-Flash-0731",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
           "link": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
           "date": "2026-08-19",
@@ -362,6 +373,19 @@
           "is_english": true,
           "summary": "• Qwen3.8-27B-Uncensored-MLX 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+          "date": "2026-08-19",
+          "source": "HuggingFace",
+          "description": "• DeepSeek-V4-Flash-0731 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
+          "is_english": true,
+          "summary": "• DeepSeek-V4-Flash-0731 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepseek-ai/DeepSeek-V4-Flash-0731",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -392,19 +416,6 @@
           "category": "AI Model"
         },
         {
-          "title": "lightx2v/Minimax-h3-Turbo",
-          "link": "https://huggingface.co/lightx2v/Minimax-h3-Turbo",
-          "date": "2026-08-19",
-          "source": "HuggingFace",
-          "description": "• Minimax-h3-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Minimax-h3-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "lightx2v/Minimax-h3-Turbo",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "moonshotai/Kimi-K3",
           "link": "https://huggingface.co/moonshotai/Kimi-K3",
           "date": "2026-08-19",
@@ -418,15 +429,28 @@
           "category": "AI Model"
         },
         {
-          "title": "dots-studio/dots3-note-prev",
-          "link": "https://huggingface.co/dots-studio/dots3-note-prev",
+          "title": "lightx2v/Minimax-h3-Turbo",
+          "link": "https://huggingface.co/lightx2v/Minimax-h3-Turbo",
           "date": "2026-08-19",
           "source": "HuggingFace",
-          "description": "• dots3-note-prev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/dots-studio/dots3-note-prev/resolve/main/assets/dots%20logo@3x.png",
+          "description": "• Minimax-h3-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• dots3-note-prev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "dots-studio/dots3-note-prev",
+          "summary": "• Minimax-h3-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "lightx2v/Minimax-h3-Turbo",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+          "link": "https://huggingface.co/HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+          "date": "2026-08-19",
+          "source": "HuggingFace",
+          "description": "• Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -444,15 +468,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.8-2.4T-A95B-FP8",
-          "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B-FP8",
+          "title": "dots-studio/dots3-note-prev",
+          "link": "https://huggingface.co/dots-studio/dots3-note-prev",
           "date": "2026-08-19",
           "source": "HuggingFace",
-          "description": "• Qwen3.8-2.4T-A95B-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/Qwen%20Studio-536af5?logo=qwen&logoColor=white",
+          "description": "• dots3-note-prev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/dots-studio/dots3-note-prev/resolve/main/assets/dots%20logo@3x.png",
           "is_english": true,
-          "summary": "• Qwen3.8-2.4T-A95B-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.8-2.4T-A95B-FP8",
+          "summary": "• dots3-note-prev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "dots-studio/dots3-note-prev",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
