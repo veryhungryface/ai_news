@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-08-21",
-      "update_time": "2026-08-20 15:24:06",
+      "update_time": "2026-08-20 18:23:06",
       "news": [
+        {
+          "title": "Meta AI Now Available as a Desktop App for Mac",
+          "link": "https://aibusiness.com/generative-ai/meta-ai-now-available-as-desktop-app-mac",
+          "date": "2026-08-21",
+          "source": "AI Business",
+          "description": "The release is part of the company’s strengthened emphasis on AI and appealing to businesses.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltf46451657f3e280e/6a873e2c2e99fe250e58b77c/Meta_AI_logo.png?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Meta AI Now Available as a Desktop App for Mac",
+          "original_summary": "The release is part of the company’s strengthened emphasis on AI and appealing to businesses.",
+          "summary": "The release is part of the company’s strengthened emphasis on AI and appealing to businesses."
+        },
         {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
@@ -96,19 +108,6 @@
           "category": "AI Model"
         },
         {
-          "title": "deepseek-ai/DeepSeek-V4-Pro-0813",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
-          "date": "2026-08-21",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Pro-0813 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
-          "is_english": true,
-          "summary": "• DeepSeek-V4-Pro-0813 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepseek-ai/DeepSeek-V4-Pro-0813",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
           "link": "https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
           "date": "2026-08-21",
@@ -122,15 +121,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.8-2.4T-A95B",
-          "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+          "title": "deepseek-ai/DeepSeek-V4-Pro-0813",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
           "date": "2026-08-21",
           "source": "HuggingFace",
-          "description": "• Qwen3.8-2.4T-A95B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/Qwen%20Studio-536af5?logo=qwen&logoColor=white",
+          "description": "• DeepSeek-V4-Pro-0813 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
           "is_english": true,
-          "summary": "• Qwen3.8-2.4T-A95B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.8-2.4T-A95B",
+          "summary": "• DeepSeek-V4-Pro-0813 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepseek-ai/DeepSeek-V4-Pro-0813",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -148,6 +147,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Qwen/Qwen3.8-2.4T-A95B",
+          "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+          "date": "2026-08-21",
+          "source": "HuggingFace",
+          "description": "• Qwen3.8-2.4T-A95B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/Qwen%20Studio-536af5?logo=qwen&logoColor=white",
+          "is_english": true,
+          "summary": "• Qwen3.8-2.4T-A95B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.8-2.4T-A95B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
           "link": "https://huggingface.co/HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
           "date": "2026-08-21",
@@ -161,19 +173,6 @@
           "category": "AI Model"
         },
         {
-          "title": "meta-models/Muse-Glimmer-30B",
-          "link": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
-          "date": "2026-08-21",
-          "source": "HuggingFace",
-          "description": "• Muse-Glimmer-30B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Muse-Glimmer-30B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "meta-models/Muse-Glimmer-30B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Qwen3.8-27B-NVFP4",
           "link": "https://huggingface.co/unsloth/Qwen3.8-27B-NVFP4",
           "date": "2026-08-21",
@@ -183,6 +182,19 @@
           "is_english": true,
           "summary": "• Qwen3.8-27B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/Qwen3.8-27B-NVFP4",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "meta-models/Muse-Glimmer-30B",
+          "link": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+          "date": "2026-08-21",
+          "source": "HuggingFace",
+          "description": "• Muse-Glimmer-30B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Muse-Glimmer-30B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "meta-models/Muse-Glimmer-30B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -226,19 +238,6 @@
           "category": "AI Model"
         },
         {
-          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
-          "date": "2026-08-21",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Flash-0731 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
-          "is_english": true,
-          "summary": "• DeepSeek-V4-Flash-0731 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepseek-ai/DeepSeek-V4-Flash-0731",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "moonshotai/Kimi-K3",
           "link": "https://huggingface.co/moonshotai/Kimi-K3",
           "date": "2026-08-21",
@@ -252,15 +251,28 @@
           "category": "AI Model"
         },
         {
-          "title": "Comfy-Org/MiniMax-Music-3",
-          "link": "https://huggingface.co/Comfy-Org/MiniMax-Music-3",
+          "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
           "date": "2026-08-21",
           "source": "HuggingFace",
-          "description": "• MiniMax-Music-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• DeepSeek-V4-Flash-0731 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
           "is_english": true,
-          "summary": "• MiniMax-Music-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Comfy-Org/MiniMax-Music-3",
+          "summary": "• DeepSeek-V4-Flash-0731 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "ornith-ai/Ornith-1.5-35B-A3B",
+          "link": "https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B",
+          "date": "2026-08-21",
+          "source": "HuggingFace",
+          "description": "• Ornith-1.5-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%A6%A2%EF%B8%8F%20Ornith%20Blog%20-FD8E5B",
+          "is_english": true,
+          "summary": "• Ornith-1.5-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "ornith-ai/Ornith-1.5-35B-A3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -268,8 +280,92 @@
     },
     {
       "date": "2026-08-20",
-      "update_time": "2026-08-20 15:24:06",
+      "update_time": "2026-08-20 18:23:04",
       "news": [
+        {
+          "title": "How ChatGPT Work helps Stampli move ideas to market",
+          "link": "https://openai.com/index/stampli",
+          "date": "2026-08-20",
+          "source": "OpenAI",
+          "description": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+          "image": null,
+          "is_english": true,
+          "original_title": "How ChatGPT Work helps Stampli move ideas to market",
+          "original_summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days.",
+          "summary": "With a fixed deadline and design resources committed elsewhere, Stampli used Codex and ChatGPT Work to compress weeks of launch production into days."
+        },
+        {
+          "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+          "link": "https://techcrunch.com/2026/08/20/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+          "date": "2026-08-20",
+          "source": "TechCrunch",
+          "description": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/Linkdaze-calendar.jpeg?w=1200",
+          "is_english": true,
+          "original_title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+          "original_summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool. ",
+          "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool. "
+        },
+        {
+          "title": "Grok keeps sending gibberish responses to users",
+          "link": "https://techcrunch.com/2026/08/20/grok-keeps-sending-gibberish-responses-to-users/",
+          "date": "2026-08-20",
+          "source": "TechCrunch",
+          "description": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2218892225.jpg?resize=1200,804",
+          "is_english": true,
+          "original_title": "Grok keeps sending gibberish responses to users",
+          "original_summary": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning.",
+          "summary": "Affected users told TechCrunch they were using Grok Lite, and noticed the issues as early as Wednesday morning."
+        },
+        {
+          "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+          "link": "https://techcrunch.com/2026/08/20/a-third-of-webpages-published-since-chatgpts-launch-show-signs-of-ai-authorship-study-finds/",
+          "date": "2026-08-20",
+          "source": "TechCrunch",
+          "description": "ChatGPT and other AI models are now authoring and editing much of the new web. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2170386424.jpg?w=1024",
+          "is_english": true,
+          "original_title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
+          "original_summary": "ChatGPT and other AI models are now authoring and editing much of the new web. ",
+          "summary": "ChatGPT and other AI models are now authoring and editing much of the new web. "
+        },
+        {
+          "title": "Ramp launches its own AI model router, called Router",
+          "link": "https://techcrunch.com/2026/08/20/ramp-launches-its-own-ai-model-router-called-router/",
+          "date": "2026-08-20",
+          "source": "TechCrunch",
+          "description": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/03/GettyImages-1434828961.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Ramp launches its own AI model router, called Router",
+          "original_summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API.",
+          "summary": "Ramp has launched its own AI model routing service, dubbed Router, that lets users and companies use and switch between various large language models via an API."
+        },
+        {
+          "title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+          "link": "https://techcrunch.com/2026/08/20/meta-brings-pocket-an-app-that-lets-you-vibe-code-and-share-games-to-us-users/",
+          "date": "2026-08-20",
+          "source": "TechCrunch",
+          "description": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/pocket-image.png?resize=1200,675",
+          "is_english": true,
+          "original_title": "Meta brings Pocket, an app that lets you vibe-code and share games, to US users",
+          "original_summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil.",
+          "summary": "Meta is bringing Pocket, its experimental AI-powered app for creating and sharing interactive games, to users across the U.S. after quietly testing it in Brazil."
+        },
+        {
+          "title": "Inertia Enterprises finds a way to make its fusion fuel fast",
+          "link": "https://techcrunch.com/2026/08/20/inertia-enterprises-finds-a-way-to-make-its-fusion-fuel-fast/",
+          "date": "2026-08-20",
+          "source": "TechCrunch",
+          "description": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant.",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/08/nif-1209-18047.jpg?resize=1200,927",
+          "is_english": true,
+          "original_title": "Inertia Enterprises finds a way to make its fusion fuel fast",
+          "original_summary": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant.",
+          "summary": "Fusion power startup Inertia Enterprises reduced the fuel filling process from a week to just a few hours. It's one of 10 hurdles the company must overcome to make a profitable power plant."
+        },
         {
           "title": "Nvidia’s SONIC Teaches Humanoids to Move",
           "link": "https://aibusiness.com/robotics/nvidia-s-sonic-teaches-humanoids-move",
@@ -8257,7 +8353,7 @@
         {
           "title": "MiniMaxAI/MiniMax-H3",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
-          "date": "2026-08-12",
+          "date": "2026-08-21",
           "source": "HuggingFace",
           "description": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/MiniMaxAI/MiniMax-H3/resolve/main/assets/minimax-h3.png",
@@ -8270,7 +8366,7 @@
         {
           "title": "meta-models/Muse-Glimmer-30B",
           "link": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
-          "date": "2026-08-12",
+          "date": "2026-08-21",
           "source": "HuggingFace",
           "description": "• Muse-Glimmer-30B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -8296,7 +8392,7 @@
         {
           "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
-          "date": "2026-08-12",
+          "date": "2026-08-21",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4-Flash-0731 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
@@ -8348,7 +8444,7 @@
         {
           "title": "moonshotai/Kimi-K3",
           "link": "https://huggingface.co/moonshotai/Kimi-K3",
-          "date": "2026-08-12",
+          "date": "2026-08-21",
           "source": "HuggingFace",
           "description": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/moonshotai/Kimi-K3/resolve/main/assets/kimi-logo.png",
