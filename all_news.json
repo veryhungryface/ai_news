@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-08-22",
-      "update_time": "2026-08-21 18:21:28",
+      "update_time": "2026-08-21 21:14:09",
       "news": [
         {
           "title": "Qwen/Qwen3.8-27B",
@@ -96,19 +96,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.8-27B-FP8",
-          "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-          "date": "2026-08-22",
-          "source": "HuggingFace",
-          "description": "• Qwen3.8-27B-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.8-27B-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.8-27B-FP8",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
           "link": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
           "date": "2026-08-22",
@@ -131,6 +118,19 @@
           "is_english": true,
           "summary": "• Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.8-27B-FP8",
+          "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+          "date": "2026-08-22",
+          "source": "HuggingFace",
+          "description": "• Qwen3.8-27B-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.8-27B-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.8-27B-FP8",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -174,19 +174,6 @@
           "category": "AI Model"
         },
         {
-          "title": "deepseek-ai/DeepSeek-V4-Pro-0813",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
-          "date": "2026-08-22",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Pro-0813 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
-          "is_english": true,
-          "summary": "• DeepSeek-V4-Pro-0813 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepseek-ai/DeepSeek-V4-Pro-0813",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "empero-ai/Qwen3.8-27B-Ridge-GGUF",
           "link": "https://huggingface.co/empero-ai/Qwen3.8-27B-Ridge-GGUF",
           "date": "2026-08-22",
@@ -200,15 +187,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.8-2.4T-A95B",
-          "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+          "title": "deepseek-ai/DeepSeek-V4-Pro-0813",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
           "date": "2026-08-22",
           "source": "HuggingFace",
-          "description": "• Qwen3.8-2.4T-A95B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/Qwen%20Studio-536af5?logo=qwen&logoColor=white",
+          "description": "• DeepSeek-V4-Pro-0813 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
           "is_english": true,
-          "summary": "• Qwen3.8-2.4T-A95B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.8-2.4T-A95B",
+          "summary": "• DeepSeek-V4-Pro-0813 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepseek-ai/DeepSeek-V4-Pro-0813",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -226,15 +213,15 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.8-27B-NVFP4",
-          "link": "https://huggingface.co/unsloth/Qwen3.8-27B-NVFP4",
+          "title": "Qwen/Qwen3.8-2.4T-A95B",
+          "link": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
           "date": "2026-08-22",
           "source": "HuggingFace",
-          "description": "• Qwen3.8-27B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "description": "• Qwen3.8-2.4T-A95B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/Qwen%20Studio-536af5?logo=qwen&logoColor=white",
           "is_english": true,
-          "summary": "• Qwen3.8-27B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Qwen3.8-27B-NVFP4",
+          "summary": "• Qwen3.8-2.4T-A95B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.8-2.4T-A95B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -252,15 +239,28 @@
           "category": "AI Model"
         },
         {
-          "title": "meta-models/Muse-Glimmer-30B",
-          "link": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+          "title": "unsloth/Qwen3.8-27B-NVFP4",
+          "link": "https://huggingface.co/unsloth/Qwen3.8-27B-NVFP4",
           "date": "2026-08-22",
           "source": "HuggingFace",
-          "description": "• Muse-Glimmer-30B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "description": "• Qwen3.8-27B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
           "is_english": true,
-          "summary": "• Muse-Glimmer-30B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "meta-models/Muse-Glimmer-30B",
+          "summary": "• Qwen3.8-27B-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Qwen3.8-27B-NVFP4",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "moonshotai/Kimi-K3",
+          "link": "https://huggingface.co/moonshotai/Kimi-K3",
+          "date": "2026-08-22",
+          "source": "HuggingFace",
+          "description": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/moonshotai/Kimi-K3/resolve/main/assets/kimi-logo.png",
+          "is_english": true,
+          "summary": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "moonshotai/Kimi-K3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -268,8 +268,20 @@
     },
     {
       "date": "2026-08-21",
-      "update_time": "2026-08-21 18:21:28",
+      "update_time": "2026-08-21 21:14:08",
       "news": [
+        {
+          "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+          "link": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero/",
+          "date": "2026-08-21",
+          "source": "TechCrunch",
+          "description": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/Nvidia-VP-of-product-Adel-El-Hallak.jpg?resize=1200,898",
+          "is_english": true,
+          "original_title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+          "original_summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+          "summary": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task."
+        },
         {
           "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
           "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
@@ -8206,7 +8218,7 @@
         {
           "title": "moonshotai/Kimi-K3",
           "link": "https://huggingface.co/moonshotai/Kimi-K3",
-          "date": "2026-08-13",
+          "date": "2026-08-22",
           "source": "HuggingFace",
           "description": "• Kimi-K3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/moonshotai/Kimi-K3/resolve/main/assets/kimi-logo.png",
