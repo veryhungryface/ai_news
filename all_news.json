@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-08-22",
-      "update_time": "2026-08-22 06:21:13",
+      "update_time": "2026-08-22 09:17:17",
       "news": [
+        {
+          "title": "익명 'Ox 알파' 등장…코딩 성능·100조 토큰 무상 제공에 '발칵'",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214249",
+          "date": "2026-08-22",
+          "source": "AI타임스",
+          "description": "AI 라우팅 전문 오픈라우터(OpenRouter)에 정체불명의 프론티어급 모델 \\'Ox 알파(Ox Alpha)\\'가 깜짝 등장하며 기술 커뮤니티가 뜨겁게 달아오르고 있다. 20일(현지시간) 오픈라우터에는 운영 주체가 베일에 가려진 스텔스 형태로 Ox 알파가 업로드됐다. 일주일간 \\'하루 100조 토큰\\'이라는 파격적인 무료 제공 정책과 함께 기존 첨단 AI 기업의 최상위 모델들을 위협하는 코딩과 추론 성능을 선보이며 제2의 \\'딥시크 파동\\'을 예고하는 분위기다.Ox 알파는 100만 토큰에 달하는 대용량 컨텍스트 창과 최대 13만1072 토큰",
+          "image": "https://cdn.aitimes.com/news/photo/202608/214249_217923_02.jpeg",
+          "is_english": false,
+          "original_title": "익명 'Ox 알파' 등장…코딩 성능·100조 토큰 무상 제공에 '발칵'",
+          "original_summary": "AI 라우팅 전문 오픈라우터(OpenRouter)에 정체불명의 프론티어급 모델 \\'Ox 알파(Ox Alpha)\\'가 깜짝 등장하며 기술 커뮤니티가 뜨겁게 달아오르고 있다. 20일(현지시간) 오픈라우터에는 운영 주체가 베일에 가려진 스텔스 형태로 Ox 알파가 업로드됐다. 일주일간 \\'하루 100조 토큰\\'이라는 파격적인 무료 제공 정책과 함께 기존 첨단 AI 기업의 최상위 모델들을 위협하는 코딩과 추론 성능을 선보이며 제2의 \\'딥시크 파동\\'을 예고하는 분위기다.Ox 알파는 100만 토큰에 달하는 대용량 컨텍스트 창과 최대 13만1",
+          "summary": "AI 라우팅 전문 오픈라우터(OpenRouter)에 정체불명의 프론티어급 모델 \\'Ox 알파(Ox Alpha)\\'가 깜짝 등장하며 기술 커뮤니티가 뜨겁게 달아오르고 있다. 20일(현지시간) 오픈라우터에는 운영 주체가 베일에 가려진 스텔스 형태로 Ox 알파가 업로드됐다. 일주일간 \\'하루 100조 토큰\\'이라는 파격적인 무료 제공 정책과 함께 기존 첨단 AI 기업의 최상위 모델들을 위협하는 코딩과 추론 성능을 선보이며 제2의 \\'딥시크 파동\\'을 예고하는 분위기다.Ox 알파는 100만 토큰에 달하는 대용량 컨텍스트 창과 최대 13만1"
+        },
         {
           "title": "플리토, 쓰면 쓸수록 똑똑해지는 '자가발전 AI 통역 비서' 고도화",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214234",
@@ -346,15 +358,15 @@
           "category": "AI Model"
         },
         {
-          "title": "MiniMaxAI/MiniMax-Music3",
-          "link": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+          "title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+          "link": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
           "date": "2026-08-22",
           "source": "HuggingFace",
-          "description": "• MiniMax-Music3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/MiniMaxAI/MiniMax-Music3/resolve/main/figures/Music3.png",
+          "description": "• Qwen3.8-27B-OBLITERATED 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
           "is_english": true,
-          "summary": "• MiniMax-Music3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "MiniMaxAI/MiniMax-Music3",
+          "summary": "• Qwen3.8-27B-OBLITERATED 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -372,15 +384,15 @@
           "category": "AI Model"
         },
         {
-          "title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-          "link": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+          "title": "MiniMaxAI/MiniMax-Music3",
+          "link": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
           "date": "2026-08-22",
           "source": "HuggingFace",
-          "description": "• Qwen3.8-27B-OBLITERATED 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "description": "• MiniMax-Music3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/MiniMaxAI/MiniMax-Music3/resolve/main/figures/Music3.png",
           "is_english": true,
-          "summary": "• Qwen3.8-27B-OBLITERATED 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+          "summary": "• MiniMax-Music3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "MiniMaxAI/MiniMax-Music3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -476,19 +488,6 @@
           "category": "AI Model"
         },
         {
-          "title": "deepseek-ai/DeepSeek-V4-Pro-0813",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
-          "date": "2026-08-22",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Pro-0813 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
-          "is_english": true,
-          "summary": "• DeepSeek-V4-Pro-0813 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepseek-ai/DeepSeek-V4-Pro-0813",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
           "link": "https://huggingface.co/huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
           "date": "2026-08-22",
@@ -515,15 +514,15 @@
           "category": "AI Model"
         },
         {
-          "title": "0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
-          "link": "https://huggingface.co/0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
+          "title": "deepseek-ai/DeepSeek-V4-Pro-0813",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
           "date": "2026-08-22",
           "source": "HuggingFace",
-          "description": "• Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "description": "• DeepSeek-V4-Pro-0813 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
           "is_english": true,
-          "summary": "• Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
+          "summary": "• DeepSeek-V4-Pro-0813 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepseek-ai/DeepSeek-V4-Pro-0813",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -537,6 +536,19 @@
           "is_english": true,
           "summary": "• Huihui-Qwen3.8-27B-abliterated 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "huihui-ai/Huihui-Qwen3.8-27B-abliterated",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
+          "link": "https://huggingface.co/0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
+          "date": "2026-08-22",
+          "source": "HuggingFace",
+          "description": "• Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
