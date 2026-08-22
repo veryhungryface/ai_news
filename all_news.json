@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-08-22",
-      "update_time": "2026-08-22 09:17:17",
+      "update_time": "2026-08-22 12:18:20",
       "news": [
+        {
+          "title": "에임인텔리전스 \"AI 보안 사고 막으려면 공격·방어 결합한 '퍼플티밍'이 해답\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214018",
+          "date": "2026-08-22",
+          "source": "AI타임스",
+          "description": "최근 AI 업계는 자율 에이전트의 잇따른 보안 사고로 몸살을 앓고 있다. 오픈AI를 시작으로 앤트로픽과 메타에 이어 문샷 AI의 오픈 모델까지 통제 구역을 이탈한 사건이 연속적으로 발생했다.이 때문에 일부에서는 AI가 자율적으로 위협 행위를 시도하는, 이른바 \\'스카이넷\\'식 공포까지 거론되고 있다. 그러나 이에 대해 박하언 에임인텔리전스 최고 기술책임자(CTO)는 \\\"복합적인 설정 오류와 방어 기전의 공백이 불러온 현상일 뿐, 자의식을 가진 AI의 공격으로 보는 것은 과장\\\"이라고 분석했다.■ 잇따른 AI 보안 사고, 원인은 다르지만 결",
+          "image": "https://cdn.aitimes.com/news/photo/202608/214018_217654_917.png",
+          "is_english": false,
+          "original_title": "에임인텔리전스 \"AI 보안 사고 막으려면 공격·방어 결합한 '퍼플티밍'이 해답\"",
+          "original_summary": "최근 AI 업계는 자율 에이전트의 잇따른 보안 사고로 몸살을 앓고 있다. 오픈AI를 시작으로 앤트로픽과 메타에 이어 문샷 AI의 오픈 모델까지 통제 구역을 이탈한 사건이 연속적으로 발생했다.이 때문에 일부에서는 AI가 자율적으로 위협 행위를 시도하는, 이른바 \\'스카이넷\\'식 공포까지 거론되고 있다. 그러나 이에 대해 박하언 에임인텔리전스 최고 기술책임자(CTO)는 \\\"복합적인 설정 오류와 방어 기전의 공백이 불러온 현상일 뿐, 자의식을 가진 AI의 공격으로 보는 것은 과장\\\"이라고 분석했다.■ 잇따른 AI 보안 사고, 원인은 다르",
+          "summary": "최근 AI 업계는 자율 에이전트의 잇따른 보안 사고로 몸살을 앓고 있다. 오픈AI를 시작으로 앤트로픽과 메타에 이어 문샷 AI의 오픈 모델까지 통제 구역을 이탈한 사건이 연속적으로 발생했다.이 때문에 일부에서는 AI가 자율적으로 위협 행위를 시도하는, 이른바 \\'스카이넷\\'식 공포까지 거론되고 있다. 그러나 이에 대해 박하언 에임인텔리전스 최고 기술책임자(CTO)는 \\\"복합적인 설정 오류와 방어 기전의 공백이 불러온 현상일 뿐, 자의식을 가진 AI의 공격으로 보는 것은 과장\\\"이라고 분석했다.■ 잇따른 AI 보안 사고, 원인은 다르"
+        },
         {
           "title": "익명 'Ox 알파' 등장…코딩 성능·100조 토큰 무상 제공에 '발칵'",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214249",
@@ -384,19 +396,6 @@
           "category": "AI Model"
         },
         {
-          "title": "MiniMaxAI/MiniMax-Music3",
-          "link": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
-          "date": "2026-08-22",
-          "source": "HuggingFace",
-          "description": "• MiniMax-Music3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/MiniMaxAI/MiniMax-Music3/resolve/main/figures/Music3.png",
-          "is_english": true,
-          "summary": "• MiniMax-Music3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "MiniMaxAI/MiniMax-Music3",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
           "link": "https://huggingface.co/HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
           "date": "2026-08-22",
@@ -410,15 +409,15 @@
           "category": "AI Model"
         },
         {
-          "title": "MiniMaxAI/MiniMax-H3",
-          "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+          "title": "MiniMaxAI/MiniMax-Music3",
+          "link": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
           "date": "2026-08-22",
           "source": "HuggingFace",
-          "description": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/MiniMaxAI/MiniMax-H3/resolve/main/assets/minimax-h3.png",
+          "description": "• MiniMax-Music3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/MiniMaxAI/MiniMax-Music3/resolve/main/figures/Music3.png",
           "is_english": true,
-          "summary": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "MiniMaxAI/MiniMax-H3",
+          "summary": "• MiniMax-Music3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "MiniMaxAI/MiniMax-Music3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -436,15 +435,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.8-27B-FP8",
-          "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+          "title": "MiniMaxAI/MiniMax-H3",
+          "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
           "date": "2026-08-22",
           "source": "HuggingFace",
-          "description": "• Qwen3.8-27B-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "description": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/MiniMaxAI/MiniMax-H3/resolve/main/assets/minimax-h3.png",
           "is_english": true,
-          "summary": "• Qwen3.8-27B-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.8-27B-FP8",
+          "summary": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "MiniMaxAI/MiniMax-H3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -458,6 +457,19 @@
           "is_english": true,
           "summary": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "froggeric/Qwen-Fixed-Chat-Templates",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.8-27B-FP8",
+          "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+          "date": "2026-08-22",
+          "source": "HuggingFace",
+          "description": "• Qwen3.8-27B-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.8-27B-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.8-27B-FP8",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -540,15 +552,15 @@
           "category": "AI Model"
         },
         {
-          "title": "0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
-          "link": "https://huggingface.co/0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
+          "title": "superwhisper/s1-mini",
+          "link": "https://huggingface.co/superwhisper/s1-mini",
           "date": "2026-08-22",
           "source": "HuggingFace",
-          "description": "• Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "description": "• s1-mini 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/Website-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PGxpbmUgeDE9IjIiIHkxPSIxMiIgeDI9IjIyIiB5Mj0iMTIiLz48cGF0aCBkPSJNMTIgMmExNS4zIDE1LjMgMCAwIDEgNCAxMCAxNS4zIDE1LjMgMCAwIDEtNCAxMCAxNS4zIDE1LjMgMCAwIDEtNC0xMCAxNS4zIDE1LjMgMCAwIDEgNC0xMHoiLz48L3N2Zz4=",
           "is_english": true,
-          "summary": "• Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "0bserverx/Qwen3.8-27B-Heretic-Abliterated-Uncensored-GGUF",
+          "summary": "• s1-mini 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "superwhisper/s1-mini",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
