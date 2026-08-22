@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-08-23",
-      "update_time": "2026-08-22 18:14:21",
+      "update_time": "2026-08-22 21:11:55",
       "news": [
         {
           "title": "[AI 이슈트렌드] 집중호우 피해·민주당 전당대회 주목…증권가는 '대형 주주환원' 화제",
@@ -43,19 +43,6 @@
           "category": "AI Model"
         },
         {
-          "title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-          "link": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
-          "date": "2026-08-23",
-          "source": "HuggingFace",
-          "description": "• Qwen3.8-27B-Uncensored-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.8-27B-Uncensored-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
           "link": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
           "date": "2026-08-23",
@@ -65,6 +52,19 @@
           "is_english": true,
           "summary": "• Qwen3.8-27B-Uncensored-MLX 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
+          "link": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
+          "date": "2026-08-23",
+          "source": "HuggingFace",
+          "description": "• Qwen3.8-27B-Uncensored-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.8-27B-Uncensored-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -186,32 +186,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.8-27B-FP8",
-          "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
-          "date": "2026-08-23",
-          "source": "HuggingFace",
-          "description": "• Qwen3.8-27B-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.8-27B-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.8-27B-FP8",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "empero-ai/Qwen3.8-27B-Ridge-GGUF",
-          "link": "https://huggingface.co/empero-ai/Qwen3.8-27B-Ridge-GGUF",
-          "date": "2026-08-23",
-          "source": "HuggingFace",
-          "description": "• Qwen3.8-27B-Ridge-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.8-27B-Ridge-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "empero-ai/Qwen3.8-27B-Ridge-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
           "link": "https://huggingface.co/huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
           "date": "2026-08-23",
@@ -225,6 +199,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Qwen/Qwen3.8-27B-FP8",
+          "link": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+          "date": "2026-08-23",
+          "source": "HuggingFace",
+          "description": "• Qwen3.8-27B-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.8-27B-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.8-27B-FP8",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
           "link": "https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B-GGUF",
           "date": "2026-08-23",
@@ -234,6 +221,19 @@
           "is_english": true,
           "summary": "• Ornith-1.5-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "empero-ai/Qwen3.8-27B-Ridge-GGUF",
+          "link": "https://huggingface.co/empero-ai/Qwen3.8-27B-Ridge-GGUF",
+          "date": "2026-08-23",
+          "source": "HuggingFace",
+          "description": "• Qwen3.8-27B-Ridge-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.8-27B-Ridge-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "empero-ai/Qwen3.8-27B-Ridge-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -280,8 +280,20 @@
     },
     {
       "date": "2026-08-22",
-      "update_time": "2026-08-22 18:14:19",
+      "update_time": "2026-08-22 21:11:55",
       "news": [
+        {
+          "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+          "link": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research/",
+          "date": "2026-08-22",
+          "source": "TechCrunch",
+          "description": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/inherent-labs-cofounders-credit-Anna-Gordon.jpeg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
+          "original_summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation. ",
+          "summary": "Built by DeepMind alumni, British AI lab Inherent released Faraday, an AI agent whose ability to replicate scientific papers could be a stepping stone for innovation. "
+        },
         {
           "title": "OpenAI says California should strengthen its AI safety bill",
           "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
