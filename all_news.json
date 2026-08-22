@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-08-23",
-      "update_time": "2026-08-22 15:10:40",
+      "update_time": "2026-08-22 18:14:21",
       "news": [
+        {
+          "title": "[AI 이슈트렌드] 집중호우 피해·민주당 전당대회 주목…증권가는 '대형 주주환원' 화제",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214251",
+          "date": "2026-08-23",
+          "source": "AI타임스",
+          "description": "AI타임스와 이스트에이드의 8월 셋째 주(8월14일~20일) 이슈 분석 결과, 경남 거제 호우를 포함해 을지연습과 정치권 주요 이슈들이 상위권을 차지했다.이번 주 검색량 1위는 \\'경남 거제 호우(12.27%)\\'가 압도적인 검색량을 기록했다. 남부지방에 이례적인 집중호우가 쏟아진 가운데 정부는 경남 거제시 전역과 통영시 산양읍·봉평동을 특별재난지역으로 우선 선포하며 신속한 피해 복구에 나섰다.전남 해남에서는 2점대 지진이 6차례 잇따르며 \\'해남 지진(2.32%)\\'이, 사망자가 47명으로 늘어난 \\'인도네시아 7.7 강진 사망(2.22%",
+          "image": "https://cdn.aitimes.com/news/photo/202608/214251_217928_211.jpeg",
+          "is_english": false,
+          "original_title": "[AI 이슈트렌드] 집중호우 피해·민주당 전당대회 주목…증권가는 '대형 주주환원' 화제",
+          "original_summary": "AI타임스와 이스트에이드의 8월 셋째 주(8월14일~20일) 이슈 분석 결과, 경남 거제 호우를 포함해 을지연습과 정치권 주요 이슈들이 상위권을 차지했다.이번 주 검색량 1위는 \\'경남 거제 호우(12.27%)\\'가 압도적인 검색량을 기록했다. 남부지방에 이례적인 집중호우가 쏟아진 가운데 정부는 경남 거제시 전역과 통영시 산양읍·봉평동을 특별재난지역으로 우선 선포하며 신속한 피해 복구에 나섰다.전남 해남에서는 2점대 지진이 6차례 잇따르며 \\'해남 지진(2.32%)\\'이, 사망자가 47명으로 늘어난 \\'인도네시아 7.7 강진 사망(",
+          "summary": "AI타임스와 이스트에이드의 8월 셋째 주(8월14일~20일) 이슈 분석 결과, 경남 거제 호우를 포함해 을지연습과 정치권 주요 이슈들이 상위권을 차지했다.이번 주 검색량 1위는 \\'경남 거제 호우(12.27%)\\'가 압도적인 검색량을 기록했다. 남부지방에 이례적인 집중호우가 쏟아진 가운데 정부는 경남 거제시 전역과 통영시 산양읍·봉평동을 특별재난지역으로 우선 선포하며 신속한 피해 복구에 나섰다.전남 해남에서는 2점대 지진이 6차례 잇따르며 \\'해남 지진(2.32%)\\'이, 사망자가 47명으로 늘어난 \\'인도네시아 7.7 강진 사망("
+        },
         {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
@@ -148,19 +160,6 @@
           "category": "AI Model"
         },
         {
-          "title": "froggeric/Qwen-Fixed-Chat-Templates",
-          "link": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
-          "date": "2026-08-23",
-          "source": "HuggingFace",
-          "description": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "froggeric/Qwen-Fixed-Chat-Templates",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
           "link": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-GGUF",
           "date": "2026-08-23",
@@ -170,6 +169,19 @@
           "is_english": true,
           "summary": "• Qwen3.8-27B-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "froggeric/Qwen-Fixed-Chat-Templates",
+          "link": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
+          "date": "2026-08-23",
+          "source": "HuggingFace",
+          "description": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "froggeric/Qwen-Fixed-Chat-Templates",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,19 +251,6 @@
           "category": "AI Model"
         },
         {
-          "title": "deepseek-ai/DeepSeek-V4-Pro-0813",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro-0813",
-          "date": "2026-08-23",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Pro-0813 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
-          "is_english": true,
-          "summary": "• DeepSeek-V4-Pro-0813 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepseek-ai/DeepSeek-V4-Pro-0813",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "superwhisper/s1-mini",
           "link": "https://huggingface.co/superwhisper/s1-mini",
           "date": "2026-08-23",
@@ -263,13 +262,50 @@
           "translated_title": "superwhisper/s1-mini",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "TenStrip/10Eros-Max",
+          "link": "https://huggingface.co/TenStrip/10Eros-Max",
+          "date": "2026-08-23",
+          "source": "HuggingFace",
+          "description": "• 10Eros-Max 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• 10Eros-Max 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "TenStrip/10Eros-Max",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-08-22",
-      "update_time": "2026-08-22 12:18:20",
+      "update_time": "2026-08-22 18:14:19",
       "news": [
+        {
+          "title": "OpenAI says California should strengthen its AI safety bill",
+          "link": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+          "date": "2026-08-22",
+          "source": "TechCrunch",
+          "description": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2263890424.jpg?w=1024",
+          "is_english": true,
+          "original_title": "OpenAI says California should strengthen its AI safety bill",
+          "original_summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed.",
+          "summary": "OpenAI is calling for California to strengthen SB 53, an AI safety bill that the company previously opposed."
+        },
+        {
+          "title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+          "link": "https://techcrunch.com/2026/08/22/frontier-ai-labs-still-wont-say-how-theyd-contain-a-rogue-model/",
+          "date": "2026-08-22",
+          "source": "TechCrunch",
+          "description": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+          "image": "https://techcrunch.com/wp-content/uploads/2019/07/kill-switch-ransomware.jpg?resize=1200,638",
+          "is_english": true,
+          "original_title": "Frontier AI labs still won’t say how they’d contain a rogue model",
+          "original_summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior.",
+          "summary": "A new study finds leading AI labs have few publicly documented plans for containing rogue models, raising questions about preparedness as AI systems increasingly demonstrate unexpected and potentially dangerous behavior."
+        },
         {
           "title": "에임인텔리전스 \"AI 보안 사고 막으려면 공격·방어 결합한 '퍼플티밍'이 해답\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214018",
@@ -7562,7 +7598,7 @@
         {
           "title": "MiniMaxAI/MiniMax-H3",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
-          "date": "2026-08-14",
+          "date": "2026-08-23",
           "source": "HuggingFace",
           "description": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/MiniMaxAI/MiniMax-H3/resolve/main/assets/minimax-h3.png",
@@ -7588,7 +7624,7 @@
         {
           "title": "Lightricks/LTX-2.5",
           "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-08-14",
+          "date": "2026-08-23",
           "source": "HuggingFace",
           "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
