@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-08-24",
-      "update_time": "2026-08-23 15:12:17",
+      "update_time": "2026-08-23 18:14:20",
       "news": [
         {
           "title": "Qwen/Qwen3.8-27B",
@@ -268,8 +268,20 @@
     },
     {
       "date": "2026-08-23",
-      "update_time": "2026-08-23 15:12:17",
+      "update_time": "2026-08-23 18:14:20",
       "news": [
+        {
+          "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+          "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
+          "date": "2026-08-23",
+          "source": "TechCrunch",
+          "description": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/flock-camera-pole.jpg?resize=1200,799",
+          "is_english": true,
+          "original_title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
+          "original_summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
+          "summary": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused."
+        },
         {
           "title": "한국딥러닝 “문서 에이전트, 인식률 넘어 ‘오답 찾는 능력’이 더 중요해”",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214266",
@@ -7301,7 +7313,7 @@
         {
           "title": "MiniMaxAI/MiniMax-H3",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
-          "date": "2026-08-15",
+          "date": "2026-08-24",
           "source": "HuggingFace",
           "description": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/MiniMaxAI/MiniMax-H3/resolve/main/assets/minimax-h3.png",
@@ -7314,7 +7326,7 @@
         {
           "title": "Lightricks/LTX-2.5",
           "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-08-15",
+          "date": "2026-08-24",
           "source": "HuggingFace",
           "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -7327,7 +7339,7 @@
         {
           "title": "MiniMaxAI/MiniMax-Music3",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
-          "date": "2026-08-15",
+          "date": "2026-08-24",
           "source": "HuggingFace",
           "description": "• MiniMax-Music3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/MiniMaxAI/MiniMax-Music3/resolve/main/figures/Music3.png",
