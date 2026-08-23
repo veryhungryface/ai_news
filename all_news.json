@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-08-24",
-      "update_time": "2026-08-23 18:14:20",
+      "update_time": "2026-08-23 21:11:34",
       "news": [
+        {
+          "title": "서울시민대학 AI마스터위크 성료…석학 특강은 '전석매진'",
+          "link": "https://www.yna.co.kr/view/AKR20260823027800004",
+          "date": "2026-08-24",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 김준태 기자 = 서울시평생교육진흥원은 지난 달 22일부터 5주간 서울시민대학 동남권캠퍼스에서 열린 &apos;수요미래특강: AI(인공지...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/08/23/AKR20260823027800004_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "서울시민대학 AI마스터위크 성료…석학 특강은 '전석매진'",
+          "original_summary": "(서울=연합뉴스) 김준태 기자 = 서울시평생교육진흥원은 지난 달 22일부터 5주간 서울시민대학 동남권캠퍼스에서 열린 &apos;수요미래특강: AI(인공지...",
+          "summary": "(서울=연합뉴스) 김준태 기자 = 서울시평생교육진흥원은 지난 달 22일부터 5주간 서울시민대학 동남권캠퍼스에서 열린 &apos;수요미래특강: AI(인공지..."
+        },
         {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
@@ -44,19 +56,6 @@
           "category": "AI Model"
         },
         {
-          "title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-          "link": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
-          "date": "2026-08-24",
-          "source": "HuggingFace",
-          "description": "• Qwen3.8-27B-Uncensored-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.8-27B-Uncensored-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
           "link": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
           "date": "2026-08-24",
@@ -66,6 +65,19 @@
           "is_english": true,
           "summary": "• Qwen3.8-27B-OBLITERATED 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
+          "link": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
+          "date": "2026-08-24",
+          "source": "HuggingFace",
+          "description": "• Qwen3.8-27B-Uncensored-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.8-27B-Uncensored-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -109,19 +121,6 @@
           "category": "AI Model"
         },
         {
-          "title": "MiniMaxAI/MiniMax-Music3",
-          "link": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
-          "date": "2026-08-24",
-          "source": "HuggingFace",
-          "description": "• MiniMax-Music3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/MiniMaxAI/MiniMax-Music3/resolve/main/figures/Music3.png",
-          "is_english": true,
-          "summary": "• MiniMax-Music3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "MiniMaxAI/MiniMax-Music3",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "ornith-ai/Ornith-1.5-35B-A3B",
           "link": "https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B",
           "date": "2026-08-24",
@@ -131,6 +130,19 @@
           "is_english": true,
           "summary": "• Ornith-1.5-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "ornith-ai/Ornith-1.5-35B-A3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-Music3",
+          "link": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+          "date": "2026-08-24",
+          "source": "HuggingFace",
+          "description": "• MiniMax-Music3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/MiniMaxAI/MiniMax-Music3/resolve/main/figures/Music3.png",
+          "is_english": true,
+          "summary": "• MiniMax-Music3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "MiniMaxAI/MiniMax-Music3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -252,15 +264,15 @@
           "category": "AI Model"
         },
         {
-          "title": "empero-ai/Qwen3.8-27B-Ridge-GGUF",
-          "link": "https://huggingface.co/empero-ai/Qwen3.8-27B-Ridge-GGUF",
+          "title": "ornith-ai/Ornith-1.5-9B",
+          "link": "https://huggingface.co/ornith-ai/Ornith-1.5-9B",
           "date": "2026-08-24",
           "source": "HuggingFace",
-          "description": "• Qwen3.8-27B-Ridge-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "description": "• Ornith-1.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/ornith-ai/Ornith-1.5-9B/resolve/main/assets/ornith_logo.png",
           "is_english": true,
-          "summary": "• Qwen3.8-27B-Ridge-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "empero-ai/Qwen3.8-27B-Ridge-GGUF",
+          "summary": "• Ornith-1.5-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "ornith-ai/Ornith-1.5-9B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -268,8 +280,32 @@
     },
     {
       "date": "2026-08-23",
-      "update_time": "2026-08-23 18:14:20",
+      "update_time": "2026-08-23 21:11:32",
       "news": [
+        {
+          "title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+          "link": "https://techcrunch.com/2026/08/23/whos-behind-the-new-stealth-model-ox-alpha/",
+          "date": "2026-08-23",
+          "source": "TechCrunch",
+          "description": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/02/magnifying-glasses-Getty.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "Who’s behind the new ‘stealth model’ Ox Alpha?",
+          "original_summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation.",
+          "summary": "A mysterious new AI model called Ox Alpha has driven certain corners of the internet into a frenzy of speculation."
+        },
+        {
+          "title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+          "link": "https://techcrunch.com/2026/08/23/linkdazes-smart-calendar-is-built-to-run-a-household-not-just-track-a-schedule/",
+          "date": "2026-08-23",
+          "source": "TechCrunch",
+          "description": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/Linkdaze-calendar.jpeg?w=1200",
+          "is_english": true,
+          "original_title": "Linkdaze’s smart calendar is built to run a household, not just track a schedule",
+          "original_summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool. ",
+          "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool. "
+        },
         {
           "title": "Flock CEO calls for ‘compromise’ as surveillance company faces growing backlash",
           "link": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash/",
