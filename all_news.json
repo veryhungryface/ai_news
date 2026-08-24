@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-08-25",
-      "update_time": "2026-08-24 15:28:22",
+      "update_time": "2026-08-24 18:24:24",
       "news": [
+        {
+          "title": "Waymo Develops Its Own Chip for Self-Driving",
+          "link": "https://aibusiness.com/generative-ai/waymo-develops-own-chip-for-self-driving",
+          "date": "2026-08-25",
+          "source": "AI Business",
+          "description": "The vendor said this chip is fast enough to handle real-time driving conditions.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt98856e4785dc30c6/6a8c632b0197ec65a33ee46a/Waymonew.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Waymo Develops Its Own Chip for Self-Driving",
+          "original_summary": "The vendor said this chip is fast enough to handle real-time driving conditions.",
+          "summary": "The vendor said this chip is fast enough to handle real-time driving conditions."
+        },
+        {
+          "title": "I made a hologram!",
+          "link": "https://www.aiweirdness.com/i-made-a-hologram/",
+          "date": "2026-08-25",
+          "source": "AI Weirdness",
+          "description": "See! Real holograms! Dice and crystals that aren't there any more, thanks to the power of lasers!!1!",
+          "image": "https://storage.ghost.io/c/88/01/8801c921-e9ec-4479-88c3-381d53470eca/content/images/2026/08/laser-angry-at-moving-plant.png",
+          "is_english": true,
+          "original_title": "I made a hologram!",
+          "original_summary": "See! Real holograms! Dice and crystals that aren't there any more, thanks to the power of lasers!!1!",
+          "summary": "See! Real holograms! Dice and crystals that aren't there any more, thanks to the power of lasers!!1!"
+        },
         {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
@@ -174,19 +198,6 @@
           "category": "AI Model"
         },
         {
-          "title": "froggeric/Qwen-Fixed-Chat-Templates",
-          "link": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
-          "date": "2026-08-25",
-          "source": "HuggingFace",
-          "description": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "froggeric/Qwen-Fixed-Chat-Templates",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
           "link": "https://huggingface.co/huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
           "date": "2026-08-25",
@@ -196,6 +207,19 @@
           "is_english": true,
           "summary": "• Huihui-Qwen3.8-27B-abliterated-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "froggeric/Qwen-Fixed-Chat-Templates",
+          "link": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
+          "date": "2026-08-25",
+          "source": "HuggingFace",
+          "description": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "froggeric/Qwen-Fixed-Chat-Templates",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +292,32 @@
     },
     {
       "date": "2026-08-24",
-      "update_time": "2026-08-24 15:28:21",
+      "update_time": "2026-08-24 18:24:24",
       "news": [
+        {
+          "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+          "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
+          "date": "2026-08-24",
+          "source": "TechCrunch",
+          "description": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/11/hand-key-illustration-getty.jpg?resize=1200,786",
+          "is_english": true,
+          "original_title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
+          "original_summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs",
+          "summary": "Early testers are raving about what Instinct can do, but some say the AI assistant’s sweeping access, broad terms and ability to act on users’ behalf come with uncomfortable trade-offs"
+        },
+        {
+          "title": "Generating scenarios for extreme events, without extreme data",
+          "link": "https://news.mit.edu/2026/generating-scenarios-extreme-events-without-extreme-data-0824",
+          "date": "2026-08-24",
+          "source": "MIT News",
+          "description": "A new algorithm learns to anticipate the unprecedented scenarios that critical infrastructure and global supply chains are least prepared for.",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/MIT-ExtremeLearning-01-press.jpg?itok=145vyyEe",
+          "is_english": true,
+          "original_title": "Generating scenarios for extreme events, without extreme data",
+          "original_summary": "A new algorithm learns to anticipate the unprecedented scenarios that critical infrastructure and global supply chains are least prepared for.",
+          "summary": "A new algorithm learns to anticipate the unprecedented scenarios that critical infrastructure and global supply chains are least prepared for."
+        },
         {
           "title": "Valor, Point72 back General Intuition at $6B valuation as AI startup pushes into robotics",
           "link": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
@@ -7585,7 +7633,7 @@
         {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "date": "2026-08-16",
+          "date": "2026-08-25",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -7611,7 +7659,7 @@
         {
           "title": "unsloth/Qwen3.8-27B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
-          "date": "2026-08-16",
+          "date": "2026-08-25",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
@@ -7637,7 +7685,7 @@
         {
           "title": "Lightricks/LTX-2.5",
           "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-08-16",
+          "date": "2026-08-25",
           "source": "HuggingFace",
           "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -7650,7 +7698,7 @@
         {
           "title": "MiniMaxAI/MiniMax-Music3",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
-          "date": "2026-08-16",
+          "date": "2026-08-25",
           "source": "HuggingFace",
           "description": "• MiniMax-Music3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/MiniMaxAI/MiniMax-Music3/resolve/main/figures/Music3.png",
@@ -7663,7 +7711,7 @@
         {
           "title": "MiniMaxAI/MiniMax-H3",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
-          "date": "2026-08-16",
+          "date": "2026-08-25",
           "source": "HuggingFace",
           "description": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/MiniMaxAI/MiniMax-H3/resolve/main/assets/minimax-h3.png",
