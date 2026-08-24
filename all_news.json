@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-08-24",
-      "update_time": "2026-08-24 09:37:00",
+      "update_time": "2026-08-24 12:25:40",
       "news": [
+        {
+          "title": "엔비디아, 퍼플렉시티에 수십억달러 투자 논의…기업 가치 41조 평가",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214316",
+          "date": "2026-08-24",
+          "source": "AI타임스",
+          "description": "엔비디아가 AI 검색 스타트업 퍼플렉시티에 수십억달러 규모의 지분 투자를 논의 중인 것으로 확인됐다. 이번 투자가 성사되면 퍼플렉시티의 기업 가치는 300억달러(약 41조5000억원)를 넘어설 전망이다.디 인포메이션은 23일(현지시간) 복수의 관계자를 인용, 퍼플렉시티가 1년 전 마지막 투자 유치에서 기록한 몸값을 50% 이상 끌어올려 협상 중이라고 보도했다.가치가 이처럼 급등한 것은 폭발적인 매출 성장 때문이다. 올해 초 2억5000만달러 미만이던 연간 반복 매출(ARR)은 최근 7억 5000만달러(약 1조원) 이상으로 3배가량",
+          "image": "https://cdn.aitimes.com/news/photo/202608/214316_218007_2042.png",
+          "is_english": false,
+          "original_title": "엔비디아, 퍼플렉시티에 수십억달러 투자 논의…기업 가치 41조 평가",
+          "original_summary": "엔비디아가 AI 검색 스타트업 퍼플렉시티에 수십억달러 규모의 지분 투자를 논의 중인 것으로 확인됐다. 이번 투자가 성사되면 퍼플렉시티의 기업 가치는 300억달러(약 41조5000억원)를 넘어설 전망이다.디 인포메이션은 23일(현지시간) 복수의 관계자를 인용, 퍼플렉시티가 1년 전 마지막 투자 유치에서 기록한 몸값을 50% 이상 끌어올려 협상 중이라고 보도했다.가치가 이처럼 급등한 것은 폭발적인 매출 성장 때문이다. 올해 초 2억5000만달러 미만이던 연간 반복 매출(ARR)은 최근 7억 5000만달러(약 1조원) 이상으로 3배가량",
+          "summary": "엔비디아가 AI 검색 스타트업 퍼플렉시티에 수십억달러 규모의 지분 투자를 논의 중인 것으로 확인됐다. 이번 투자가 성사되면 퍼플렉시티의 기업 가치는 300억달러(약 41조5000억원)를 넘어설 전망이다.디 인포메이션은 23일(현지시간) 복수의 관계자를 인용, 퍼플렉시티가 1년 전 마지막 투자 유치에서 기록한 몸값을 50% 이상 끌어올려 협상 중이라고 보도했다.가치가 이처럼 급등한 것은 폭발적인 매출 성장 때문이다. 올해 초 2억5000만달러 미만이던 연간 반복 매출(ARR)은 최근 7억 5000만달러(약 1조원) 이상으로 3배가량"
+        },
+        {
+          "title": "엔비디아, AI 모델 라우팅 병목 뚫었다...‘선형 연산’으로 KV 캐시 전송 성공",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214291",
+          "date": "2026-08-24",
+          "source": "AI타임스",
+          "description": "엔비디아가 여러 AI 모델을 번갈아 사용하는 장시간 AI 에이전트 작업에서 다른 모델로 전환할 때 발생하는 막대한 연산 비용과 지연시간 등 \\'라우팅 병목\\'을 줄일 수 있는 새로운 기술을 제시했다. 엔비디아는 최근 AI 모델이 축적한 KV(Key-Value) 캐시를 다른 모델이 그대로 재활용할 수 있도록 변환하는 ‘크로스 모델 KV 캐시 전송(Cross-Model KV Cache Transfer)’ 기술을 온라인 아카이브를 통해 공개했다.기존에는 AI가 대화 도중 더 큰 모델이나 더 저렴한 모델로 전환할 때 수신 모델이 누적된 대화",
+          "image": "https://cdn.aitimes.com/news/photo/202608/214291_217985_349.png",
+          "is_english": false,
+          "original_title": "엔비디아, AI 모델 라우팅 병목 뚫었다...‘선형 연산’으로 KV 캐시 전송 성공",
+          "original_summary": "엔비디아가 여러 AI 모델을 번갈아 사용하는 장시간 AI 에이전트 작업에서 다른 모델로 전환할 때 발생하는 막대한 연산 비용과 지연시간 등 \\'라우팅 병목\\'을 줄일 수 있는 새로운 기술을 제시했다. 엔비디아는 최근 AI 모델이 축적한 KV(Key-Value) 캐시를 다른 모델이 그대로 재활용할 수 있도록 변환하는 ‘크로스 모델 KV 캐시 전송(Cross-Model KV Cache Transfer)’ 기술을 온라인 아카이브를 통해 공개했다.기존에는 AI가 대화 도중 더 큰 모델이나 더 저렴한 모델로 전환할 때 수신 모델이 누적된 대",
+          "summary": "엔비디아가 여러 AI 모델을 번갈아 사용하는 장시간 AI 에이전트 작업에서 다른 모델로 전환할 때 발생하는 막대한 연산 비용과 지연시간 등 \\'라우팅 병목\\'을 줄일 수 있는 새로운 기술을 제시했다. 엔비디아는 최근 AI 모델이 축적한 KV(Key-Value) 캐시를 다른 모델이 그대로 재활용할 수 있도록 변환하는 ‘크로스 모델 KV 캐시 전송(Cross-Model KV Cache Transfer)’ 기술을 온라인 아카이브를 통해 공개했다.기존에는 AI가 대화 도중 더 큰 모델이나 더 저렴한 모델로 전환할 때 수신 모델이 누적된 대"
+        },
         {
           "title": "AI·디지털 역기능 예방 창작 공모전…14점 수상",
           "link": "https://www.yna.co.kr/view/AKR20260824153900017",
@@ -753,19 +777,6 @@
           "category": "AI Model"
         },
         {
-          "title": "DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF",
-          "link": "https://huggingface.co/DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF",
-          "date": "2026-08-24",
-          "source": "HuggingFace",
-          "description": "• Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF/resolve/main/cannonball.webp",
-          "is_english": true,
-          "summary": "• Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "z-lab/Qwen3.8-27B-DFlash2",
           "link": "https://huggingface.co/z-lab/Qwen3.8-27B-DFlash2",
           "date": "2026-08-24",
@@ -775,6 +786,19 @@
           "is_english": true,
           "summary": "• Qwen3.8-27B-DFlash2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "z-lab/Qwen3.8-27B-DFlash2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF",
+          "link": "https://huggingface.co/DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF",
+          "date": "2026-08-24",
+          "source": "HuggingFace",
+          "description": "• Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF/resolve/main/cannonball.webp",
+          "is_english": true,
+          "summary": "• Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -792,15 +816,15 @@
           "category": "AI Model"
         },
         {
-          "title": "ornith-ai/Ornith-1.5-9B-GGUF",
-          "link": "https://huggingface.co/ornith-ai/Ornith-1.5-9B-GGUF",
+          "title": "incoai/Qwen3.8-27B-DFlash2",
+          "link": "https://huggingface.co/incoai/Qwen3.8-27B-DFlash2",
           "date": "2026-08-24",
           "source": "HuggingFace",
-          "description": "• Ornith-1.5-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/ornith-ai/Ornith-1.5-9B-GGUF/resolve/main/assets/ornith_logo.png",
+          "description": "• Qwen3.8-27B-DFlash2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/incoai/Qwen3.8-27B-DFlash2/resolve/main/assets/dflash2-figure.png",
           "is_english": true,
-          "summary": "• Ornith-1.5-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ornith-ai/Ornith-1.5-9B-GGUF",
+          "summary": "• Qwen3.8-27B-DFlash2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "incoai/Qwen3.8-27B-DFlash2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
