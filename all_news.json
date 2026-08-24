@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-08-25",
-      "update_time": "2026-08-24 18:24:24",
+      "update_time": "2026-08-24 21:19:09",
       "news": [
+        {
+          "title": "사찰·한방에 AI 접목 관광스타트업 찾는다…실증비 1억원",
+          "link": "https://www.yna.co.kr/view/AKR20260824166400004",
+          "date": "2026-08-25",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 김동규 기자 = 사찰 음식과 사찰 체험(템플스테이), 한방 등 한국 고유의 관광자원에 인공지능(AI)과 디지털 기술을 접목해 ...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/08/24/AKR20260824166400004_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "사찰·한방에 AI 접목 관광스타트업 찾는다…실증비 1억원",
+          "original_summary": "(서울=연합뉴스) 김동규 기자 = 사찰 음식과 사찰 체험(템플스테이), 한방 등 한국 고유의 관광자원에 인공지능(AI)과 디지털 기술을 접목해 ...",
+          "summary": "(서울=연합뉴스) 김동규 기자 = 사찰 음식과 사찰 체험(템플스테이), 한방 등 한국 고유의 관광자원에 인공지능(AI)과 디지털 기술을 접목해 ..."
+        },
+        {
+          "title": "Thomson Reuters’ New Model Could Inspire Other SaaS Vendors",
+          "link": "https://aibusiness.com/generative-ai/thomson-reuters-model-could-inspire-other-saas-vendors",
+          "date": "2026-08-25",
+          "source": "AI Business",
+          "description": "The company used an open-weight model as the base for its own model.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt35c87f948465995f/6a8ca0061b16102cce1c42e7/Thomson_REuters.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Thomson Reuters’ New Model Could Inspire Other SaaS Vendors",
+          "original_summary": "The company used an open-weight model as the base for its own model.",
+          "summary": "The company used an open-weight model as the base for its own model."
+        },
         {
           "title": "Waymo Develops Its Own Chip for Self-Driving",
           "link": "https://aibusiness.com/generative-ai/waymo-develops-own-chip-for-self-driving",
@@ -250,19 +274,6 @@
           "category": "AI Model"
         },
         {
-          "title": "DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF",
-          "link": "https://huggingface.co/DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF",
-          "date": "2026-08-25",
-          "source": "HuggingFace",
-          "description": "• Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF/resolve/main/cannonball.webp",
-          "is_english": true,
-          "summary": "• Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "ornith-ai/Ornith-1.5-9B",
           "link": "https://huggingface.co/ornith-ai/Ornith-1.5-9B",
           "date": "2026-08-25",
@@ -276,15 +287,28 @@
           "category": "AI Model"
         },
         {
-          "title": "ornith-ai/Ornith-1.5-9B-GGUF",
-          "link": "https://huggingface.co/ornith-ai/Ornith-1.5-9B-GGUF",
+          "title": "DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF",
+          "link": "https://huggingface.co/DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF",
           "date": "2026-08-25",
           "source": "HuggingFace",
-          "description": "• Ornith-1.5-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/ornith-ai/Ornith-1.5-9B-GGUF/resolve/main/assets/ornith_logo.png",
+          "description": "• Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF/resolve/main/cannonball.webp",
           "is_english": true,
-          "summary": "• Ornith-1.5-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ornith-ai/Ornith-1.5-9B-GGUF",
+          "summary": "• Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "DavidAU/Qwen3.8-27B-Cold-Fusion-GAIN-V1.1-NM-DAU-NEO-MAX-MTP-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "peculiar-ragdoll/Qwen-Sharp-Chat-Templates",
+          "link": "https://huggingface.co/peculiar-ragdoll/Qwen-Sharp-Chat-Templates",
+          "date": "2026-08-25",
+          "source": "HuggingFace",
+          "description": "• Qwen-Sharp-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/peculiar-ragdoll/Qwen-Sharp-Chat-Templates/resolve/main/plates/sharp_template_plate.png",
+          "is_english": true,
+          "summary": "• Qwen-Sharp-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "peculiar-ragdoll/Qwen-Sharp-Chat-Templates",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -292,8 +316,32 @@
     },
     {
       "date": "2026-08-24",
-      "update_time": "2026-08-24 18:24:24",
+      "update_time": "2026-08-24 21:19:08",
       "news": [
+        {
+          "title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+          "link": "https://openai.com/index/gpt-5-6-in-kiro",
+          "date": "2026-08-24",
+          "source": "OpenAI",
+          "description": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Advancing price-performance for developers with GPT‑5.6 in Kiro",
+          "original_summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance.",
+          "summary": "GPT‑5.6 is now available in Kiro, helping developers plan, build, review, and test software with better price-performance."
+        },
+        {
+          "title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/08/24/amjad-masad-ceo-and-co-founder-of-replit-joins-the-disrupt-stage-at-techcrunch-disrupt-2026/",
+          "date": "2026-08-24",
+          "source": "TechCrunch",
+          "description": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/Amjad-Masad-Disrupt-Stage-2026.png?w=1200",
+          "is_english": true,
+          "original_title": "Amjad Masad, CEO and co-founder of Replit, joins the Disrupt Stage at TechCrunch Disrupt 2026",
+          "original_summary": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it.",
+          "summary": "At TechCrunch Disrupt 2026, Replit CEO Amjad Masad will share his perspective on the future of programming and Replit's role in developing it."
+        },
         {
           "title": "Instinct’s powerful AI assistant is raising privacy and security concerns",
           "link": "https://techcrunch.com/2026/08/24/instincts-powerful-ai-assistant-is-raising-privacy-and-security-concerns/",
