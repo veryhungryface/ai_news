@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-08-26",
-      "update_time": "2026-08-25 18:23:32",
+      "update_time": "2026-08-25 21:18:11",
       "news": [
+        {
+          "title": "In Catch-up Mode, Google Intros AI Agents for Financial, Legal Services",
+          "link": "https://aibusiness.com/agentic-ai/in-catch-up-google-intros-ai-agents-financial-legal-services",
+          "date": "2026-08-26",
+          "source": "AI Business",
+          "description": "The new platforms show how the vendor is moving toward more vertical use of AI agents, but also how far behind it is.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltcd6f45172c9ba689/6a8deffbd21c5b19a06d2876/Google_AI.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "In Catch-up Mode, Google Intros AI Agents for Financial, Legal Services",
+          "original_summary": "The new platforms show how the vendor is moving toward more vertical use of AI agents, but also how far behind it is.",
+          "summary": "The new platforms show how the vendor is moving toward more vertical use of AI agents, but also how far behind it is."
+        },
         {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
@@ -200,19 +212,6 @@
           "category": "AI Model"
         },
         {
-          "title": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
-          "link": "https://huggingface.co/huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
-          "date": "2026-08-26",
-          "source": "HuggingFace",
-          "description": "• Huihui-Qwen3.8-27B-abliterated-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Huihui-Qwen3.8-27B-abliterated-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "froggeric/Qwen-Fixed-Chat-Templates",
           "link": "https://huggingface.co/froggeric/Qwen-Fixed-Chat-Templates",
           "date": "2026-08-26",
@@ -222,6 +221,19 @@
           "is_english": true,
           "summary": "• Qwen-Fixed-Chat-Templates 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "froggeric/Qwen-Fixed-Chat-Templates",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
+          "link": "https://huggingface.co/huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
+          "date": "2026-08-26",
+          "source": "HuggingFace",
+          "description": "• Huihui-Qwen3.8-27B-abliterated-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Huihui-Qwen3.8-27B-abliterated-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,19 +251,6 @@
           "category": "AI Model"
         },
         {
-          "title": "ornith-ai/Ornith-1.5-9B-GGUF",
-          "link": "https://huggingface.co/ornith-ai/Ornith-1.5-9B-GGUF",
-          "date": "2026-08-26",
-          "source": "HuggingFace",
-          "description": "• Ornith-1.5-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/ornith-ai/Ornith-1.5-9B-GGUF/resolve/main/assets/ornith_logo.png",
-          "is_english": true,
-          "summary": "• Ornith-1.5-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ornith-ai/Ornith-1.5-9B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "peculiar-ragdoll/Qwen-Sharp-Chat-Templates",
           "link": "https://huggingface.co/peculiar-ragdoll/Qwen-Sharp-Chat-Templates",
           "date": "2026-08-26",
@@ -263,13 +262,38 @@
           "translated_title": "peculiar-ragdoll/Qwen-Sharp-Chat-Templates",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "ornith-ai/Ornith-1.5-9B-GGUF",
+          "link": "https://huggingface.co/ornith-ai/Ornith-1.5-9B-GGUF",
+          "date": "2026-08-26",
+          "source": "HuggingFace",
+          "description": "• Ornith-1.5-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/ornith-ai/Ornith-1.5-9B-GGUF/resolve/main/assets/ornith_logo.png",
+          "is_english": true,
+          "summary": "• Ornith-1.5-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "ornith-ai/Ornith-1.5-9B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-08-25",
-      "update_time": "2026-08-25 18:23:31",
+      "update_time": "2026-08-25 21:18:11",
       "news": [
+        {
+          "title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+          "link": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding/",
+          "date": "2026-08-25",
+          "source": "TechCrunch",
+          "description": "The company's new fundraising total now stands at $232 million. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/10/unnamed-2.png?w=1152",
+          "is_english": true,
+          "original_title": "Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding",
+          "original_summary": "The company's new fundraising total now stands at $232 million. ",
+          "summary": "The company's new fundraising total now stands at $232 million. "
+        },
         {
           "title": "The full stack behind abundant intelligence",
           "link": "https://openai.com/index/the-full-stack-behind-abundant-intelligence",
