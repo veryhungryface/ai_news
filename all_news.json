@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-08-27",
-      "update_time": "2026-08-26 16:09:33",
+      "update_time": "2026-08-26 19:30:20",
       "news": [
+        {
+          "title": "China's Humanoid Edge Is Hardware, Not AI",
+          "link": "https://aibusiness.com/robotics/china-s-humanoid-edge-hardware-not-ai",
+          "date": "2026-08-27",
+          "source": "AI Business",
+          "description": "A new report from OpenMind argues the race for dominance in humanoid robotics will be decided by magnets, gearboxes and electricians, not AI.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt439ef752d7ac5953/6a8f19d69bbbc9e2ffdd5e26/Made_in_China.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "China's Humanoid Edge Is Hardware, Not AI",
+          "original_summary": "A new report from OpenMind argues the race for dominance in humanoid robotics will be decided by magnets, gearboxes and electricians, not AI.",
+          "summary": "A new report from OpenMind argues the race for dominance in humanoid robotics will be decided by magnets, gearboxes and electricians, not AI."
+        },
         {
           "title": "Qwen/Qwen3.8-Flash-Next",
           "link": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
@@ -57,19 +69,6 @@
           "category": "AI Model"
         },
         {
-          "title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-          "link": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
-          "date": "2026-08-27",
-          "source": "HuggingFace",
-          "description": "• Qwen3.8-27B-Uncensored-MLX 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.8-27B-Uncensored-MLX 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "zai-org/GLM-5.3-Flash",
           "link": "https://huggingface.co/zai-org/GLM-5.3-Flash",
           "date": "2026-08-27",
@@ -79,6 +78,19 @@
           "is_english": true,
           "summary": "• GLM-5.3-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "zai-org/GLM-5.3-Flash",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
+          "link": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
+          "date": "2026-08-27",
+          "source": "HuggingFace",
+          "description": "• Qwen3.8-27B-Uncensored-MLX 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.8-27B-Uncensored-MLX 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -135,15 +147,15 @@
           "category": "AI Model"
         },
         {
-          "title": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
-          "link": "https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B-GGUF",
+          "title": "unsloth/Qwen3.8-Flash-Next-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
           "date": "2026-08-27",
           "source": "HuggingFace",
-          "description": "• Ornith-1.5-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%A6%A2%EF%B8%8F%20Ornith%20Blog%20-FD8E5B",
+          "description": "• Qwen3.8-Flash-Next-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3.8-Flash-Next/architecture.png",
           "is_english": true,
-          "summary": "• Ornith-1.5-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
+          "summary": "• Qwen3.8-Flash-Next-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Qwen3.8-Flash-Next-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -161,15 +173,15 @@
           "category": "AI Model"
         },
         {
-          "title": "superwhisper/s1-mini",
-          "link": "https://huggingface.co/superwhisper/s1-mini",
+          "title": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
+          "link": "https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B-GGUF",
           "date": "2026-08-27",
           "source": "HuggingFace",
-          "description": "• s1-mini 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/Website-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PGxpbmUgeDE9IjIiIHkxPSIxMiIgeDI9IjIyIiB5Mj0iMTIiLz48cGF0aCBkPSJNMTIgMmExNS4zIDE1LjMgMCAwIDEgNCAxMCAxNS4zIDE1LjMgMCAwIDEtNCAxMCAxNS4zIDE1LjMgMCAwIDEtNC0xMCAxNS4zIDE1LjMgMCAwIDEgNC0xMHoiLz48L3N2Zz4=",
+          "description": "• Ornith-1.5-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%A6%A2%EF%B8%8F%20Ornith%20Blog%20-FD8E5B",
           "is_english": true,
-          "summary": "• s1-mini 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "superwhisper/s1-mini",
+          "summary": "• Ornith-1.5-35B-A3B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "ornith-ai/Ornith-1.5-35B-A3B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -187,28 +199,15 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.8-Flash-Next-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
+          "title": "superwhisper/s1-mini",
+          "link": "https://huggingface.co/superwhisper/s1-mini",
           "date": "2026-08-27",
           "source": "HuggingFace",
-          "description": "• Qwen3.8-Flash-Next-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3.8-Flash-Next/architecture.png",
+          "description": "• s1-mini 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/Website-blue?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PGxpbmUgeDE9IjIiIHkxPSIxMiIgeDI9IjIyIiB5Mj0iMTIiLz48cGF0aCBkPSJNMTIgMmExNS4zIDE1LjMgMCAwIDEgNCAxMCAxNS4zIDE1LjMgMCAwIDEtNCAxMCAxNS4zIDE1LjMgMCAwIDEtNC0xMCAxNS4zIDE1LjMgMCAwIDEgNC0xMHoiLz48L3N2Zz4=",
           "is_english": true,
-          "summary": "• Qwen3.8-Flash-Next-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Qwen3.8-Flash-Next-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "MiniMaxAI/MiniMax-Music3",
-          "link": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
-          "date": "2026-08-27",
-          "source": "HuggingFace",
-          "description": "• MiniMax-Music3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/MiniMaxAI/MiniMax-Music3/resolve/main/figures/Music3.png",
-          "is_english": true,
-          "summary": "• MiniMax-Music3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "MiniMaxAI/MiniMax-Music3",
+          "summary": "• s1-mini 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "superwhisper/s1-mini",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -222,6 +221,19 @@
           "is_english": true,
           "summary": "• Qwen3.8-27B-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-Music3",
+          "link": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+          "date": "2026-08-27",
+          "source": "HuggingFace",
+          "description": "• MiniMax-Music3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/MiniMaxAI/MiniMax-Music3/resolve/main/figures/Music3.png",
+          "is_english": true,
+          "summary": "• MiniMax-Music3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "MiniMaxAI/MiniMax-Music3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -252,15 +264,15 @@
           "category": "AI Model"
         },
         {
-          "title": "ornith-ai/Ornith-1.5-9B-GGUF",
-          "link": "https://huggingface.co/ornith-ai/Ornith-1.5-9B-GGUF",
+          "title": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
+          "link": "https://huggingface.co/huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
           "date": "2026-08-27",
           "source": "HuggingFace",
-          "description": "• Ornith-1.5-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/ornith-ai/Ornith-1.5-9B-GGUF/resolve/main/assets/ornith_logo.png",
+          "description": "• Huihui-Qwen3.8-27B-abliterated-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• Ornith-1.5-9B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ornith-ai/Ornith-1.5-9B-GGUF",
+          "summary": "• Huihui-Qwen3.8-27B-abliterated-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -268,8 +280,44 @@
     },
     {
       "date": "2026-08-26",
-      "update_time": "2026-08-26 16:09:29",
+      "update_time": "2026-08-26 19:30:20",
       "news": [
+        {
+          "title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+          "link": "https://openai.com/index/bringing-chatgpt-for-teachers-to-more-us-school-districts",
+          "date": "2026-08-26",
+          "source": "OpenAI",
+          "description": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Bringing ChatGPT for Teachers to more U.S. school districts",
+          "original_summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff.",
+          "summary": "ChatGPT for Teachers is expanding to 55 U.S. school systems, bringing secure AI tools, training, and support to over 100,000 more educators and staff."
+        },
+        {
+          "title": "Learning never stops: How AI makes learning continuous",
+          "link": "https://openai.com/index/learning-never-stops",
+          "date": "2026-08-26",
+          "source": "OpenAI",
+          "description": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Learning never stops: How AI makes learning continuous",
+          "original_summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom.",
+          "summary": "OpenAI’s new report explores how students and educators use ChatGPT to make learning more continuous, with support that extends beyond the classroom."
+        },
+        {
+          "title": "OpenAI releases its official report on the Hugging Face breach",
+          "link": "https://techcrunch.com/2026/08/26/openai-releases-its-official-report-on-the-hugging-face-breach/",
+          "date": "2026-08-26",
+          "source": "TechCrunch",
+          "description": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+          "is_english": true,
+          "original_title": "OpenAI releases its official report on the Hugging Face breach",
+          "original_summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date.",
+          "summary": "The report, which spans several discrete cybersecurity compromises, is the most complete accounting of the incident to date."
+        },
         {
           "title": "Radar makes podcasts searchable — and usable by AI agents",
           "link": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents/",
@@ -4520,7 +4568,7 @@
         {
           "title": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
           "link": "https://huggingface.co/huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
-          "date": "2026-08-26",
+          "date": "2026-08-27",
           "source": "HuggingFace",
           "description": "• Huihui-Qwen3.8-27B-abliterated-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -8581,7 +8629,7 @@
         {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "date": "2026-08-18",
+          "date": "2026-08-27",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -8594,7 +8642,7 @@
         {
           "title": "unsloth/Qwen3.8-27B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
-          "date": "2026-08-18",
+          "date": "2026-08-27",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
@@ -8620,7 +8668,7 @@
         {
           "title": "Lightricks/LTX-2.5",
           "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-08-18",
+          "date": "2026-08-27",
           "source": "HuggingFace",
           "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -8633,7 +8681,7 @@
         {
           "title": "MiniMaxAI/MiniMax-Music3",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
-          "date": "2026-08-18",
+          "date": "2026-08-27",
           "source": "HuggingFace",
           "description": "• MiniMax-Music3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/MiniMaxAI/MiniMax-Music3/resolve/main/figures/Music3.png",
@@ -8685,7 +8733,7 @@
         {
           "title": "MiniMaxAI/MiniMax-H3",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
-          "date": "2026-08-18",
+          "date": "2026-08-27",
           "source": "HuggingFace",
           "description": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/MiniMaxAI/MiniMax-H3/resolve/main/assets/minimax-h3.png",
@@ -8698,7 +8746,7 @@
         {
           "title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
           "link": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
-          "date": "2026-08-18",
+          "date": "2026-08-27",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B-Uncensored-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -8711,7 +8759,7 @@
         {
           "title": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
           "link": "https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-          "date": "2026-08-18",
+          "date": "2026-08-27",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
