@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-08-30",
-      "update_time": "2026-08-29 20:09:30",
+      "update_time": "2026-08-29 22:55:30",
       "news": [
+        {
+          "title": "\"다음은 내 차례?\"…AI 감원, 직원들은 두달 전부터 눈치챘다",
+          "link": "https://www.yna.co.kr/view/AKR20260828149700017",
+          "date": "2026-08-30",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 한상용 기자 = 인공지능(AI) 전환과 맞물린 대규모 감원을 단행한 기업이 공식 발표하기에 앞서 직장인들은 두 달여 전 조직 ...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/08/28/AKR20260828149700017_04_i_P2.jpg",
+          "is_english": false,
+          "original_title": "\"다음은 내 차례?\"…AI 감원, 직원들은 두달 전부터 눈치챘다",
+          "original_summary": "(서울=연합뉴스) 한상용 기자 = 인공지능(AI) 전환과 맞물린 대규모 감원을 단행한 기업이 공식 발표하기에 앞서 직장인들은 두 달여 전 조직 ...",
+          "summary": "(서울=연합뉴스) 한상용 기자 = 인공지능(AI) 전환과 맞물린 대규모 감원을 단행한 기업이 공식 발표하기에 앞서 직장인들은 두 달여 전 조직 ..."
+        },
+        {
+          "title": "[만나보니] 코스포 의장 \"AI는 국경 없는 경쟁…한국만의 규제 걷어내야\"",
+          "link": "https://www.yna.co.kr/view/AKR20260829043300017",
+          "date": "2026-08-30",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 오지은 기자 = &quot;인공지능(AI)과 딥테크 스타트업들은 국경 없는 전쟁을 치르고 있습니다. 국내 스타트업들이 글로벌 빅테크와 ...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/08/29/AKR20260829043300017_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "[만나보니] 코스포 의장 \"AI는 국경 없는 경쟁…한국만의 규제 걷어내야\"",
+          "original_summary": "(서울=연합뉴스) 오지은 기자 = &quot;인공지능(AI)과 딥테크 스타트업들은 국경 없는 전쟁을 치르고 있습니다. 국내 스타트업들이 글로벌 빅테크와 ...",
+          "summary": "(서울=연합뉴스) 오지은 기자 = &quot;인공지능(AI)과 딥테크 스타트업들은 국경 없는 전쟁을 치르고 있습니다. 국내 스타트업들이 글로벌 빅테크와 ..."
+        },
         {
           "title": "Qwen/Qwen3.8-Flash-Next",
           "link": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
@@ -239,15 +263,15 @@
           "category": "AI Model"
         },
         {
-          "title": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
-          "link": "https://huggingface.co/JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+          "title": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
+          "link": "https://huggingface.co/huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
           "date": "2026-08-30",
           "source": "HuggingFace",
-          "description": "• Qwen3.8-27B-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "description": "• Huihui-Qwen3.8-27B-abliterated-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• Qwen3.8-27B-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "JonathanColetti/Qwen3.8-27B-Uncensored-GGUF",
+          "summary": "• Huihui-Qwen3.8-27B-abliterated-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "huihui-ai/Huihui-Qwen3.8-27B-abliterated-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
