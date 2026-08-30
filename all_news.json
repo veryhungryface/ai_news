@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-08-31",
-      "update_time": "2026-08-30 18:15:02",
+      "update_time": "2026-08-30 23:00:31",
       "news": [
         {
           "title": "Qwen/Qwen3.8-Flash-Next",
@@ -148,19 +148,6 @@
           "category": "AI Model"
         },
         {
-          "title": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-          "link": "https://huggingface.co/HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-          "date": "2026-08-31",
-          "source": "HuggingFace",
-          "description": "• Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "MiniMaxAI/MiniMax-H3",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
           "date": "2026-08-31",
@@ -170,6 +157,19 @@
           "is_english": true,
           "summary": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "MiniMaxAI/MiniMax-H3",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+          "link": "https://huggingface.co/HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+          "date": "2026-08-31",
+          "source": "HuggingFace",
+          "description": "• Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,19 +239,6 @@
           "category": "AI Model"
         },
         {
-          "title": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
-          "link": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-GGUF",
-          "date": "2026-08-31",
-          "source": "HuggingFace",
-          "description": "• Qwen3.8-27B-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.8-27B-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "orcarouter/Qwen3.8-27B-Uncensored-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "thomsonreuters/Thomson-1.0-Small",
           "link": "https://huggingface.co/thomsonreuters/Thomson-1.0-Small",
           "date": "2026-08-31",
@@ -261,6 +248,19 @@
           "is_english": true,
           "summary": "• Thomson-1.0-Small 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "thomsonreuters/Thomson-1.0-Small",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "alibaba-pai/MiniMax-H3-Acc-LoRAs",
+          "link": "https://huggingface.co/alibaba-pai/MiniMax-H3-Acc-LoRAs",
+          "date": "2026-08-31",
+          "source": "HuggingFace",
+          "description": "• MiniMax-H3-Acc-LoRAs 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• MiniMax-H3-Acc-LoRAs 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "alibaba-pai/MiniMax-H3-Acc-LoRAs",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -7333,7 +7333,7 @@
         {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "date": "2026-08-22",
+          "date": "2026-08-31",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -7346,7 +7346,7 @@
         {
           "title": "unsloth/Qwen3.8-27B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
-          "date": "2026-08-22",
+          "date": "2026-08-31",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
@@ -7359,7 +7359,7 @@
         {
           "title": "orcarouter/Qwen3.8-27B-Uncensored-FP8",
           "link": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-FP8",
-          "date": "2026-08-22",
+          "date": "2026-08-31",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B-Uncensored-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -7372,7 +7372,7 @@
         {
           "title": "orcarouter/Qwen3.8-27B-Uncensored-MLX",
           "link": "https://huggingface.co/orcarouter/Qwen3.8-27B-Uncensored-MLX",
-          "date": "2026-08-22",
+          "date": "2026-08-31",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B-Uncensored-MLX 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -7398,7 +7398,7 @@
         {
           "title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
           "link": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-          "date": "2026-08-22",
+          "date": "2026-08-31",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B-OBLITERATED 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -7411,7 +7411,7 @@
         {
           "title": "Lightricks/LTX-2.5",
           "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-08-22",
+          "date": "2026-08-31",
           "source": "HuggingFace",
           "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -7424,7 +7424,7 @@
         {
           "title": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
           "link": "https://huggingface.co/HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-          "date": "2026-08-22",
+          "date": "2026-08-31",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
@@ -7463,7 +7463,7 @@
         {
           "title": "MiniMaxAI/MiniMax-H3",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
-          "date": "2026-08-22",
+          "date": "2026-08-31",
           "source": "HuggingFace",
           "description": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/MiniMaxAI/MiniMax-H3/resolve/main/assets/minimax-h3.png",
