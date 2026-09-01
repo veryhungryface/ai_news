@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-09-02",
-      "update_time": "2026-09-01 18:03:02",
+      "update_time": "2026-09-01 22:54:26",
       "news": [
+        {
+          "title": "앤트로픽, 최고 성능 '페이블 5.1' 출시...캐시 읽기 75% 파격 할인",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214725",
+          "date": "2026-09-02",
+          "source": "AI타임스",
+          "description": "앤트로픽이 세계 최고 성능을 발휘하는 차세대 모델 \\'클로드 페이블 5.1(Claude Fable 5.1)\\'과 \\'클로드 미소스 5.1(Claude Mythos 5.1)\\'을 공개했다. 이전 모델 대비 강력한 추론 능력을 확보함과 동시에 입력 캐시 가격을 파격적으로 인하해 고도화된 AI 에이전트 운용 비용을 크게 낮췄다.앤트로픽은 1일(현지시간) 코딩과 복잡한 지식 작업 처리에 특화된 프론티어 모델 \\'클로드 페이블 5.1\\'과 이를 사이버 보안 및 생명과학 연구 전용으로 고도화한 \\'클로드 미소스 5.1\\'을 출시했다고 밝혔다.두 모델은 동일",
+          "image": "https://cdn.aitimes.com/news/photo/202609/214725_218436_5924.png",
+          "is_english": false,
+          "original_title": "앤트로픽, 최고 성능 '페이블 5.1' 출시...캐시 읽기 75% 파격 할인",
+          "original_summary": "앤트로픽이 세계 최고 성능을 발휘하는 차세대 모델 \\'클로드 페이블 5.1(Claude Fable 5.1)\\'과 \\'클로드 미소스 5.1(Claude Mythos 5.1)\\'을 공개했다. 이전 모델 대비 강력한 추론 능력을 확보함과 동시에 입력 캐시 가격을 파격적으로 인하해 고도화된 AI 에이전트 운용 비용을 크게 낮췄다.앤트로픽은 1일(현지시간) 코딩과 복잡한 지식 작업 처리에 특화된 프론티어 모델 \\'클로드 페이블 5.1\\'과 이를 사이버 보안 및 생명과학 연구 전용으로 고도화한 \\'클로드 미소스 5.1\\'을 출시했다고 밝혔다.",
+          "summary": "앤트로픽이 세계 최고 성능을 발휘하는 차세대 모델 \\'클로드 페이블 5.1(Claude Fable 5.1)\\'과 \\'클로드 미소스 5.1(Claude Mythos 5.1)\\'을 공개했다. 이전 모델 대비 강력한 추론 능력을 확보함과 동시에 입력 캐시 가격을 파격적으로 인하해 고도화된 AI 에이전트 운용 비용을 크게 낮췄다.앤트로픽은 1일(현지시간) 코딩과 복잡한 지식 작업 처리에 특화된 프론티어 모델 \\'클로드 페이블 5.1\\'과 이를 사이버 보안 및 생명과학 연구 전용으로 고도화한 \\'클로드 미소스 5.1\\'을 출시했다고 밝혔다."
+        },
+        {
+          "title": "Anthropic R&amp;D Slowdown Shows Need for Heightened AI Agent Security",
+          "link": "https://aibusiness.com/cybersecurity/anthropic-r-d-slowdown-shows-need-heightened-ai-agent-security",
+          "date": "2026-09-02",
+          "source": "AI Business",
+          "description": "The move comes after rival OpenAI paused development for two weeks following agent escapes.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt6b67c7b66c1ba503/6a973ed48aa170f63e25f367/Anthropic_Claude.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Anthropic R&amp;D Slowdown Shows Need for Heightened AI Agent Security",
+          "original_summary": "The move comes after rival OpenAI paused development for two weeks following agent escapes.",
+          "summary": "The move comes after rival OpenAI paused development for two weeks following agent escapes."
+        },
         {
           "title": "How AI-native companies turn workflows into operating capability",
           "link": "https://openai.com/index/ai-native-company-workflows",
@@ -211,6 +235,19 @@
           "category": "AI Model"
         },
         {
+          "title": "google/timesfm-3.0-pytorch",
+          "link": "https://huggingface.co/google/timesfm-3.0-pytorch",
+          "date": "2026-09-02",
+          "source": "HuggingFace",
+          "description": "• timesfm-3.0-pytorch 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• timesfm-3.0-pytorch 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/timesfm-3.0-pytorch",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "pipecat-ai/phonellm-alpha-1",
           "link": "https://huggingface.co/pipecat-ai/phonellm-alpha-1",
           "date": "2026-09-02",
@@ -263,19 +300,6 @@
           "category": "AI Model"
         },
         {
-          "title": "google/timesfm-3.0-pytorch",
-          "link": "https://huggingface.co/google/timesfm-3.0-pytorch",
-          "date": "2026-09-02",
-          "source": "HuggingFace",
-          "description": "• timesfm-3.0-pytorch 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• timesfm-3.0-pytorch 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/timesfm-3.0-pytorch",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "thomsonreuters/Thomson-1.0-Small",
           "link": "https://huggingface.co/thomsonreuters/Thomson-1.0-Small",
           "date": "2026-09-02",
@@ -292,8 +316,116 @@
     },
     {
       "date": "2026-09-01",
-      "update_time": "2026-09-01 18:03:00",
+      "update_time": "2026-09-01 22:54:26",
       "news": [
+        {
+          "title": "IBM \"AI 에이전트 시대, 핵심은 신뢰성과 운영 체계'\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214723",
+          "date": "2026-09-01",
+          "source": "AI타임스",
+          "description": "한국IBM이 1일 서울 웨스틴 조선 서울에서 ‘AI 서밋 코리아(AI Summit Korea)’를 개최하고, 전통 인프라 역량과 AI 시대의 새로운 운영 인프라를 결합한 기술 저력을 강조했다.대표적인 기술 기업 IBM은 최근 AI 혁신 국면에서 수혜를 입기보다 다소 주춤하는 모습을 보였다. 2분기 실적 발표에 따르면 인프라 부문 매출은 38억달러로 전년 동기 대비 7% 감소했다. 특히 핵심 고성능 서버인 ‘Z 메인프레임’ 매출은 전년 대비 42%나 떨어졌다. 기업들의 예산이 AI 인프라 구축에 집중되면서 전통 IT 인프라 매출이 크",
+          "image": "https://cdn.aitimes.com/news/photo/202609/214723_218432_2044.jpg",
+          "is_english": false,
+          "original_title": "IBM \"AI 에이전트 시대, 핵심은 신뢰성과 운영 체계'\"",
+          "original_summary": "한국IBM이 1일 서울 웨스틴 조선 서울에서 ‘AI 서밋 코리아(AI Summit Korea)’를 개최하고, 전통 인프라 역량과 AI 시대의 새로운 운영 인프라를 결합한 기술 저력을 강조했다.대표적인 기술 기업 IBM은 최근 AI 혁신 국면에서 수혜를 입기보다 다소 주춤하는 모습을 보였다. 2분기 실적 발표에 따르면 인프라 부문 매출은 38억달러로 전년 동기 대비 7% 감소했다. 특히 핵심 고성능 서버인 ‘Z 메인프레임’ 매출은 전년 대비 42%나 떨어졌다. 기업들의 예산이 AI 인프라 구축에 집중되면서 전통 IT 인프라 매출이 크",
+          "summary": "한국IBM이 1일 서울 웨스틴 조선 서울에서 ‘AI 서밋 코리아(AI Summit Korea)’를 개최하고, 전통 인프라 역량과 AI 시대의 새로운 운영 인프라를 결합한 기술 저력을 강조했다.대표적인 기술 기업 IBM은 최근 AI 혁신 국면에서 수혜를 입기보다 다소 주춤하는 모습을 보였다. 2분기 실적 발표에 따르면 인프라 부문 매출은 38억달러로 전년 동기 대비 7% 감소했다. 특히 핵심 고성능 서버인 ‘Z 메인프레임’ 매출은 전년 대비 42%나 떨어졌다. 기업들의 예산이 AI 인프라 구축에 집중되면서 전통 IT 인프라 매출이 크"
+        },
+        {
+          "title": "곡성 옛 입면장터, 주민과 지역 이야기를 담은 문화공간 조성",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214724",
+          "date": "2026-09-01",
+          "source": "AI타임스",
+          "description": "전남 곡성군 옛 입면장터에 지역의 이야기와 주민 참여를 바탕으로 한 새로운 문화공간이 조성됐다. 과거 주민들의 만남과 교류가 이뤄졌던 장터의 의미를 되살리는 동시에 현대적인 디자인 요소를 더해, 지역민과 방문객이 함께 머물고 즐길 수 있는 공간으로 재구성한 것이 특징이다.이번 사업은 장터 곳곳에 설치되는 아트월을 통해 기존 공간에 새로운 이미지를 입혔다. 디자인에는 \\'곡성장난감\\', \\'NANGAM POP MARKET\\' 등 장터의 새로운 정체성을 보여주는 문구와 함께 닭을 모티브로 한 캐릭터, 장난감, 로봇 등 다양한 그래픽 요소가 활",
+          "image": "https://cdn.aitimes.com/news/photo/202609/214724_218435_5251.jpg",
+          "is_english": false,
+          "original_title": "곡성 옛 입면장터, 주민과 지역 이야기를 담은 문화공간 조성",
+          "original_summary": "전남 곡성군 옛 입면장터에 지역의 이야기와 주민 참여를 바탕으로 한 새로운 문화공간이 조성됐다. 과거 주민들의 만남과 교류가 이뤄졌던 장터의 의미를 되살리는 동시에 현대적인 디자인 요소를 더해, 지역민과 방문객이 함께 머물고 즐길 수 있는 공간으로 재구성한 것이 특징이다.이번 사업은 장터 곳곳에 설치되는 아트월을 통해 기존 공간에 새로운 이미지를 입혔다. 디자인에는 \\'곡성장난감\\', \\'NANGAM POP MARKET\\' 등 장터의 새로운 정체성을 보여주는 문구와 함께 닭을 모티브로 한 캐릭터, 장난감, 로봇 등 다양한 그래픽 요",
+          "summary": "전남 곡성군 옛 입면장터에 지역의 이야기와 주민 참여를 바탕으로 한 새로운 문화공간이 조성됐다. 과거 주민들의 만남과 교류가 이뤄졌던 장터의 의미를 되살리는 동시에 현대적인 디자인 요소를 더해, 지역민과 방문객이 함께 머물고 즐길 수 있는 공간으로 재구성한 것이 특징이다.이번 사업은 장터 곳곳에 설치되는 아트월을 통해 기존 공간에 새로운 이미지를 입혔다. 디자인에는 \\'곡성장난감\\', \\'NANGAM POP MARKET\\' 등 장터의 새로운 정체성을 보여주는 문구와 함께 닭을 모티브로 한 캐릭터, 장난감, 로봇 등 다양한 그래픽 요"
+        },
+        {
+          "title": "Path to Astra: critical capabilities and frontier safeguards",
+          "link": "https://openai.com/index/path-to-astra",
+          "date": "2026-09-01",
+          "source": "OpenAI",
+          "description": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Path to Astra: critical capabilities and frontier safeguards",
+          "original_summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release.",
+          "summary": "Astra is the first OpenAI model to meet the Critical cybersecurity capability threshold under the Preparedness Framework, with stronger safeguards for release."
+        },
+        {
+          "title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+          "link": "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+          "date": "2026-09-01",
+          "source": "TechCrunch",
+          "description": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1569337822.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+          "original_summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April.",
+          "summary": "AI model-training startup AfterQuery has reportedly raised a round that valued it at $3.2 billion, just five months after announcing its $30 million Series A at a $300 million valuation in April."
+        },
+        {
+          "title": "Open AI’s Astra model is on the way — and very good at breaking into computer systems",
+          "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+          "date": "2026-09-01",
+          "source": "TechCrunch",
+          "description": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+          "is_english": true,
+          "original_title": "Open AI’s Astra model is on the way — and very good at breaking into computer systems",
+          "original_summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
+          "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM."
+        },
+        {
+          "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+          "link": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
+          "date": "2026-09-01",
+          "source": "TechCrunch",
+          "description": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/MotionAssist-Google.png?w=1200",
+          "is_english": true,
+          "original_title": "Google’s Android update tackles motion sickness, accessibility, and more",
+          "original_summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
+          "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements."
+        },
+        {
+          "title": "Anthropic’s new Fable release is cheaper, less restrictive",
+          "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
+          "date": "2026-09-01",
+          "source": "TechCrunch",
+          "description": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2269811684.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Anthropic’s new Fable release is cheaper, less restrictive",
+          "original_summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
+          "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards."
+        },
+        {
+          "title": "Walter Torous named executive director of MIT Center for Real Estate",
+          "link": "https://news.mit.edu/2026/walter-torous-named-executive-director-mit-center-real-estate-0901",
+          "date": "2026-09-01",
+          "source": "MIT News",
+          "description": "The senior lecturer, already director of the degree program, will now oversee all aspects of the center’s activities and operations.",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/Torous-MIT-A1.jpg?itok=8qiWk_oP",
+          "is_english": true,
+          "original_title": "Walter Torous named executive director of MIT Center for Real Estate",
+          "original_summary": "The senior lecturer, already director of the degree program, will now oversee all aspects of the center’s activities and operations.",
+          "summary": "The senior lecturer, already director of the degree program, will now oversee all aspects of the center’s activities and operations."
+        },
+        {
+          "title": "The latest AI news we announced in August 2026",
+          "link": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+          "date": "2026-09-01",
+          "source": "Google AI",
+          "description": "Here are Google’s latest AI updates from August 2026",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/August_AI_Recap_social.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "The latest AI news we announced in August 2026",
+          "original_summary": "Here are Google’s latest AI updates from August 2026",
+          "summary": "Here are Google’s latest AI updates from August 2026"
+        },
         {
           "title": "Healthcare organizations can now connect EHR and additional industry data to ChatGPT",
           "link": "https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources",
@@ -8065,7 +8197,7 @@
         {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "date": "2026-08-24",
+          "date": "2026-09-02",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -8078,7 +8210,7 @@
         {
           "title": "unsloth/Qwen3.8-27B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
-          "date": "2026-08-24",
+          "date": "2026-09-02",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
@@ -8104,7 +8236,7 @@
         {
           "title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
           "link": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-          "date": "2026-08-24",
+          "date": "2026-09-02",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B-OBLITERATED 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -8130,7 +8262,7 @@
         {
           "title": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
           "link": "https://huggingface.co/HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-          "date": "2026-08-24",
+          "date": "2026-09-02",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
@@ -8143,7 +8275,7 @@
         {
           "title": "Lightricks/LTX-2.5",
           "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-08-24",
+          "date": "2026-09-02",
           "source": "HuggingFace",
           "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -8195,7 +8327,7 @@
         {
           "title": "MiniMaxAI/MiniMax-H3",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
-          "date": "2026-08-24",
+          "date": "2026-09-02",
           "source": "HuggingFace",
           "description": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/MiniMaxAI/MiniMax-H3/resolve/main/assets/minimax-h3.png",
