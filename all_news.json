@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-09-05",
-      "update_time": "2026-09-04 20:01:00",
+      "update_time": "2026-09-04 22:38:44",
       "news": [
+        {
+          "title": "[9월4일] 오픈AI가 '아스트라' 성능보다 안전 설명에 집중한 이유",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214841",
+          "date": "2026-09-05",
+          "source": "AI타임스",
+          "description": "오픈AI가 차세대 모델 ‘GPT-6 아스트라(Astra)’를 공개했습니다. 이번 발표에서 가장 눈에 띄는 것은 모델 성능보다 안전성에 대한 설명입니다.그동안 AI 모델 출시에서는 벤치마크 성적과 경쟁 모델 대비 성능 향상이 주로 관심을 받았습니다. 하지만 오픈AI는 아스트라 출시를 앞두고 별도의 안전성 테스트를 공개하고 관련 인터뷰에서도 안전 문제를 반복해서 설명했습니다. 출시와 함께 공개한 시스템 카드에도 정렬(alignment) 수준뿐 아니라 탈옥과 프롬프트 인젝션 내성, 실제 컴퓨터 사용 과정의 행동 감시, 모델의 사고 과정인",
+          "image": "https://cdn.aitimes.com/news/photo/202609/214841_218570_3238.png",
+          "is_english": false,
+          "original_title": "[9월4일] 오픈AI가 '아스트라' 성능보다 안전 설명에 집중한 이유",
+          "original_summary": "오픈AI가 차세대 모델 ‘GPT-6 아스트라(Astra)’를 공개했습니다. 이번 발표에서 가장 눈에 띄는 것은 모델 성능보다 안전성에 대한 설명입니다.그동안 AI 모델 출시에서는 벤치마크 성적과 경쟁 모델 대비 성능 향상이 주로 관심을 받았습니다. 하지만 오픈AI는 아스트라 출시를 앞두고 별도의 안전성 테스트를 공개하고 관련 인터뷰에서도 안전 문제를 반복해서 설명했습니다. 출시와 함께 공개한 시스템 카드에도 정렬(alignment) 수준뿐 아니라 탈옥과 프롬프트 인젝션 내성, 실제 컴퓨터 사용 과정의 행동 감시, 모델의 사고 과정인",
+          "summary": "오픈AI가 차세대 모델 ‘GPT-6 아스트라(Astra)’를 공개했습니다. 이번 발표에서 가장 눈에 띄는 것은 모델 성능보다 안전성에 대한 설명입니다.그동안 AI 모델 출시에서는 벤치마크 성적과 경쟁 모델 대비 성능 향상이 주로 관심을 받았습니다. 하지만 오픈AI는 아스트라 출시를 앞두고 별도의 안전성 테스트를 공개하고 관련 인터뷰에서도 안전 문제를 반복해서 설명했습니다. 출시와 함께 공개한 시스템 카드에도 정렬(alignment) 수준뿐 아니라 탈옥과 프롬프트 인젝션 내성, 실제 컴퓨터 사용 과정의 행동 감시, 모델의 사고 과정인"
+        },
         {
           "title": "OpenAI Touts GPT-6 Astra as Its Safest Model, But It's Still Dangerous",
           "link": "https://aibusiness.com/generative-ai/openai-touts-gpt-6-astra-safest-model-still-dangerous",
@@ -17,15 +29,15 @@
           "summary": "With the new model. OpenAI addressed persistent safety problems, with a focus on cybersecurity."
         },
         {
-          "title": "Qwen/Qwen3.8-Flash-Next",
-          "link": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+          "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
           "date": "2026-09-05",
           "source": "HuggingFace",
-          "description": "• Qwen3.8-Flash-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3.8-Flash-Next/architecture.png",
+          "description": "• DeepSeek-V4-Flash-Vision-Exp 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
           "is_english": true,
-          "summary": "• Qwen3.8-Flash-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.8-Flash-Next",
+          "summary": "• DeepSeek-V4-Flash-Vision-Exp 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -43,15 +55,15 @@
           "category": "AI Model"
         },
         {
-          "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+          "title": "Qwen/Qwen3.8-Flash-Next",
+          "link": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
           "date": "2026-09-05",
           "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Flash-Vision-Exp 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
+          "description": "• Qwen3.8-Flash-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3.8-Flash-Next/architecture.png",
           "is_english": true,
-          "summary": "• DeepSeek-V4-Flash-Vision-Exp 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+          "summary": "• Qwen3.8-Flash-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.8-Flash-Next",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -82,19 +94,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Lightricks/LTX-2.5",
-          "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-09-05",
-          "source": "HuggingFace",
-          "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Lightricks/LTX-2.5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "google/timesfm-3.0-pytorch",
           "link": "https://huggingface.co/google/timesfm-3.0-pytorch",
           "date": "2026-09-05",
@@ -121,15 +120,15 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.8-27B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+          "title": "Lightricks/LTX-2.5",
+          "link": "https://huggingface.co/Lightricks/LTX-2.5",
           "date": "2026-09-05",
           "source": "HuggingFace",
-          "description": "• Qwen3.8-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
           "is_english": true,
-          "summary": "• Qwen3.8-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Qwen3.8-27B-GGUF",
+          "summary": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Lightricks/LTX-2.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -147,6 +146,19 @@
           "category": "AI Model"
         },
         {
+          "title": "unsloth/Qwen3.8-27B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+          "date": "2026-09-05",
+          "source": "HuggingFace",
+          "description": "• Qwen3.8-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "is_english": true,
+          "summary": "• Qwen3.8-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Qwen3.8-27B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "BreezeBlue/Breeze-TTS-2",
           "link": "https://huggingface.co/BreezeBlue/Breeze-TTS-2",
           "date": "2026-09-05",
@@ -156,19 +168,6 @@
           "is_english": true,
           "summary": "• Breeze-TTS-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "BreezeBlue/Breeze-TTS-2",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "unsloth/Qwen3.8-Flash-Next-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
-          "date": "2026-09-05",
-          "source": "HuggingFace",
-          "description": "• Qwen3.8-Flash-Next-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3.8-Flash-Next/architecture.png",
-          "is_english": true,
-          "summary": "• Qwen3.8-Flash-Next-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Qwen3.8-Flash-Next-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -186,15 +185,15 @@
           "category": "AI Model"
         },
         {
-          "title": "FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree",
-          "link": "https://huggingface.co/FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree",
+          "title": "unsloth/Qwen3.8-Flash-Next-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
           "date": "2026-09-05",
           "source": "HuggingFace",
-          "description": "• FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/hao-ai-lab/FastVideo/main/assets/logos/logo.svg",
+          "description": "• Qwen3.8-Flash-Next-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3.8-Flash-Next/architecture.png",
           "is_english": true,
-          "summary": "• FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree",
+          "summary": "• Qwen3.8-Flash-Next-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Qwen3.8-Flash-Next-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -212,6 +211,19 @@
           "category": "AI Model"
         },
         {
+          "title": "FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree",
+          "link": "https://huggingface.co/FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree",
+          "date": "2026-09-05",
+          "source": "HuggingFace",
+          "description": "• FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://raw.githubusercontent.com/hao-ai-lab/FastVideo/main/assets/logos/logo.svg",
+          "is_english": true,
+          "summary": "• FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "openai-community/gpt2",
           "link": "https://huggingface.co/openai-community/gpt2",
           "date": "2026-09-05",
@@ -221,19 +233,6 @@
           "is_english": true,
           "summary": "• gpt2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "openai-community/gpt2",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "tencent/Hy4-preview",
-          "link": "https://huggingface.co/tencent/Hy4-preview",
-          "date": "2026-09-05",
-          "source": "HuggingFace",
-          "description": "• Hy4-preview 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/License-Apache%202.0-blue",
-          "is_english": true,
-          "summary": "• Hy4-preview 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "tencent/Hy4-preview",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -251,15 +250,15 @@
           "category": "AI Model"
         },
         {
-          "title": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-          "link": "https://huggingface.co/HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+          "title": "facebook/mms-300m",
+          "link": "https://huggingface.co/facebook/mms-300m",
           "date": "2026-09-05",
           "source": "HuggingFace",
-          "description": "• Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "description": "• mms-300m 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
           "is_english": true,
-          "summary": "• Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+          "summary": "• mms-300m 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "facebook/mms-300m",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -275,13 +274,62 @@
           "translated_title": "distilbert/distilbert-base-uncased",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "tencent/Hy4-preview",
+          "link": "https://huggingface.co/tencent/Hy4-preview",
+          "date": "2026-09-05",
+          "source": "HuggingFace",
+          "description": "• Hy4-preview 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/License-Apache%202.0-blue",
+          "is_english": true,
+          "summary": "• Hy4-preview 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "tencent/Hy4-preview",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-09-04",
-      "update_time": "2026-09-04 17:54:17",
+      "update_time": "2026-09-04 22:38:43",
       "news": [
+        {
+          "title": "[게시판] 코난테크놀로지, KAI와 차세대 항공우주 기술 교류 등 단신",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214840",
+          "date": "2026-09-04",
+          "source": "AI타임스",
+          "description": "■ 코난테크놀로지(대표 김영섬)는 \\'제4회 KAI(한국항공우주산업) 패밀리기업 기술교류회\\'를 개최했다고 밝혔다. 이날 행사에서는 KAI 출자사 간 사업·기술 교류와 함께 ▲위성 ▲AI ▲MUM-T(유·무인 복합체계) 분야의 중장기 계획과 기술협력 방안을 논의했다. 코난테크놀로지는 KAI 출자사로서 미래 핵심기술 분야의 협력 접점을 확대할 방침이다.■ 사이버 보안 전문 AI스페라(대표 강병탁)는 테크파크스, 클라우드스페라, 리콘 등 현지 파트너사 3곳과 협력 체계를 구축하고, 중동 보안 시장 공략에 나선다고 밝혔다. 파트너십 체결 이",
+          "image": "https://cdn.aitimes.com/news/photo/202609/214840_218614_3933.jpg",
+          "is_english": false,
+          "original_title": "[게시판] 코난테크놀로지, KAI와 차세대 항공우주 기술 교류 등 단신",
+          "original_summary": "■ 코난테크놀로지(대표 김영섬)는 \\'제4회 KAI(한국항공우주산업) 패밀리기업 기술교류회\\'를 개최했다고 밝혔다. 이날 행사에서는 KAI 출자사 간 사업·기술 교류와 함께 ▲위성 ▲AI ▲MUM-T(유·무인 복합체계) 분야의 중장기 계획과 기술협력 방안을 논의했다. 코난테크놀로지는 KAI 출자사로서 미래 핵심기술 분야의 협력 접점을 확대할 방침이다.■ 사이버 보안 전문 AI스페라(대표 강병탁)는 테크파크스, 클라우드스페라, 리콘 등 현지 파트너사 3곳과 협력 체계를 구축하고, 중동 보안 시장 공략에 나선다고 밝혔다. 파트너십 체결",
+          "summary": "■ 코난테크놀로지(대표 김영섬)는 \\'제4회 KAI(한국항공우주산업) 패밀리기업 기술교류회\\'를 개최했다고 밝혔다. 이날 행사에서는 KAI 출자사 간 사업·기술 교류와 함께 ▲위성 ▲AI ▲MUM-T(유·무인 복합체계) 분야의 중장기 계획과 기술협력 방안을 논의했다. 코난테크놀로지는 KAI 출자사로서 미래 핵심기술 분야의 협력 접점을 확대할 방침이다.■ 사이버 보안 전문 AI스페라(대표 강병탁)는 테크파크스, 클라우드스페라, 리콘 등 현지 파트너사 3곳과 협력 체계를 구축하고, 중동 보안 시장 공략에 나선다고 밝혔다. 파트너십 체결"
+        },
+        {
+          "title": "광양경자청, 동티모르 정부대표단 방문해 경제자유구역 운영 경험 공유",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214877",
+          "date": "2026-09-04",
+          "source": "AI타임스",
+          "description": "광양만권경제자유구역청(청장 구충곤)은 4일 오후 동티모르 필리푸스 페레이라 상공부 장관을 비롯한 정부대표단이 경제협력 방안 협의 및 산업 현장 시찰을 위해 광양경자청을 공식 방문했다고 밝혔다.이번 방문은 동티모르 고위 각료들이 광양만권의 선진적인 경제자유구역 운영 시스템을 벤치마킹하고 향후 양측 간 실질적인 경제․산업 교류 협력을 확대하기 위해 성사됐다. 광양경자청은 동티모르 대표단에게 광양만권 투자 환경 및 핵심 산업 인프라에 대한 브리핑을 했다. 이어 광양만권과 동티모르 양국 간의 상호 호혜적인 경제협력 방안과 우호 증진을 위한",
+          "image": "https://cdn.aitimes.com/news/photo/202609/214877_218616_2742.jpeg",
+          "is_english": false,
+          "original_title": "광양경자청, 동티모르 정부대표단 방문해 경제자유구역 운영 경험 공유",
+          "original_summary": "광양만권경제자유구역청(청장 구충곤)은 4일 오후 동티모르 필리푸스 페레이라 상공부 장관을 비롯한 정부대표단이 경제협력 방안 협의 및 산업 현장 시찰을 위해 광양경자청을 공식 방문했다고 밝혔다.이번 방문은 동티모르 고위 각료들이 광양만권의 선진적인 경제자유구역 운영 시스템을 벤치마킹하고 향후 양측 간 실질적인 경제․산업 교류 협력을 확대하기 위해 성사됐다. 광양경자청은 동티모르 대표단에게 광양만권 투자 환경 및 핵심 산업 인프라에 대한 브리핑을 했다. 이어 광양만권과 동티모르 양국 간의 상호 호혜적인 경제협력 방안과 우호 증진을 위한",
+          "summary": "광양만권경제자유구역청(청장 구충곤)은 4일 오후 동티모르 필리푸스 페레이라 상공부 장관을 비롯한 정부대표단이 경제협력 방안 협의 및 산업 현장 시찰을 위해 광양경자청을 공식 방문했다고 밝혔다.이번 방문은 동티모르 고위 각료들이 광양만권의 선진적인 경제자유구역 운영 시스템을 벤치마킹하고 향후 양측 간 실질적인 경제․산업 교류 협력을 확대하기 위해 성사됐다. 광양경자청은 동티모르 대표단에게 광양만권 투자 환경 및 핵심 산업 인프라에 대한 브리핑을 했다. 이어 광양만권과 동티모르 양국 간의 상호 호혜적인 경제협력 방안과 우호 증진을 위한"
+        },
+        {
+          "title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+          "link": "https://techcrunch.com/2026/09/04/ai-compute-provider-nscale-is-looking-for-3-5b-in-pre-ipo-financing/",
+          "date": "2026-09-04",
+          "source": "TechCrunch",
+          "description": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2266843677.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "AI compute provider Nscale is looking for $3.5B in pre-IPO financing",
+          "original_summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO. ",
+          "summary": "Nscale, which recently struck a $45 billion deal with Anthropic, is in talks to raise additional funds in anticipation of an upcoming IPO. "
+        },
         {
           "title": "What will Apple’s John Ternus era look like?",
           "link": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like/",
