@@ -2,8 +2,104 @@
   "dates": [
     {
       "date": "2026-09-04",
-      "update_time": "2026-09-04 07:31:45",
+      "update_time": "2026-09-04 13:00:39",
       "news": [
+        {
+          "title": "UAE, 세계 최대 규모 완전 오픈소스 AI 'K2 호라이즌' 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214861",
+          "date": "2026-09-04",
+          "source": "AI타임스",
+          "description": "아랍에미리트(UAE)에서 단순 가중치 공개(오픈웨이트) 수준을 넘어 AI 역사상 최대 규모의 완전 오픈소스 AI 모델 모음이 등장했다.아부다비의 모하메드 빈 자예드 인공지능 대학교(MBZUAI) 산하 기초 모델 연구소(IFM)는 3일 6종의 파운데이션 모델 라인업으로 구성된 \\'K2 호라이즌(K2 Horizon)\\'을 발표했다.단순 가중치 배포를 넘어 소스 코드, 전체 학습 데이터셋, 평가 및 학습 레시피(방법론)까지 포함해 연구 재현성과 투명성을 극대화했다. 최종 결과물만 공개하는 기존 방식과 달리, 학습 과정의 변화를 추적할 수 있",
+          "image": "https://cdn.aitimes.com/news/photo/202609/214861_218590_5630.png",
+          "is_english": true,
+          "original_title": "UAE, 세계 최대 규모 완전 오픈소스 AI 'K2 호라이즌' 공개",
+          "original_summary": "아랍에미리트(UAE)에서 단순 가중치 공개(오픈웨이트) 수준을 넘어 AI 역사상 최대 규모의 완전 오픈소스 AI 모델 모음이 등장했다.아부다비의 모하메드 빈 자예드 인공지능 대학교(MBZUAI) 산하 기초 모델 연구소(IFM)는 3일 6종의 파운데이션 모델 라인업으로 구성된 \\'K2 호라이즌(K2 Horizon)\\'을 발표했다.단순 가중치 배포를 넘어 소스 코드, 전체 학습 데이터셋, 평가 및 학습 레시피(방법론)까지 포함해 연구 재현성과 투명성을 극대화했다. 최종 결과물만 공개하는 기존 방식과 달리, 학습 과정의 변화를 추적할 수",
+          "summary": "아랍에미리트(UAE)에서 단순 가중치 공개(오픈웨이트) 수준을 넘어 AI 역사상 최대 규모의 완전 오픈소스 AI 모델 모음이 등장했다.아부다비의 모하메드 빈 자예드 인공지능 대학교(MBZUAI) 산하 기초 모델 연구소(IFM)는 3일 6종의 파운데이션 모델 라인업으로 구성된 \\'K2 호라이즌(K2 Horizon)\\'을 발표했다.단순 가중치 배포를 넘어 소스 코드, 전체 학습 데이터셋, 평가 및 학습 레시피(방법론)까지 포함해 연구 재현성과 투명성을 극대화했다. 최종 결과물만 공개하는 기존 방식과 달리, 학습 과정의 변화를 추적할 수"
+        },
+        {
+          "title": "앤트로픽, 전자상거래로 확장... 연말 대목 겨냥 '클로드 상거래 에이전트' 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214851",
+          "date": "2026-09-04",
+          "source": "AI타임스",
+          "description": "개발자 도구와 연구 중심 이미지가 강했던 앤트로픽이 거대한 전자상거래 시장으로 눈을 돌렸다. 연말 쇼핑 시즌을 앞두고 기업들이 B2B 매출 증대와 상업용 AI 도입을 가속할 수 있도록 지원하는 오픈소스 청사진을 공개했다.앤트로픽은 3일(현지시간) ‘클로드 상거래 에이전트(Claude Commerce Agents)’라는 이름으로 쇼핑 에이전트와 머천트 에이전트를 구현할 수 있는 기본 예시 코드(참조 구현)와 청사진을 공개했다.개발자는 이를 기반으로 자사의 상품 카탈로그와 장바구니, 주문, 정책 및 내부 데이터 시스템을 연결해 실제 서",
+          "image": "https://cdn.aitimes.com/news/photo/202609/214851_218583_433.jpg",
+          "is_english": false,
+          "original_title": "앤트로픽, 전자상거래로 확장... 연말 대목 겨냥 '클로드 상거래 에이전트' 공개",
+          "original_summary": "개발자 도구와 연구 중심 이미지가 강했던 앤트로픽이 거대한 전자상거래 시장으로 눈을 돌렸다. 연말 쇼핑 시즌을 앞두고 기업들이 B2B 매출 증대와 상업용 AI 도입을 가속할 수 있도록 지원하는 오픈소스 청사진을 공개했다.앤트로픽은 3일(현지시간) ‘클로드 상거래 에이전트(Claude Commerce Agents)’라는 이름으로 쇼핑 에이전트와 머천트 에이전트를 구현할 수 있는 기본 예시 코드(참조 구현)와 청사진을 공개했다.개발자는 이를 기반으로 자사의 상품 카탈로그와 장바구니, 주문, 정책 및 내부 데이터 시스템을 연결해 실제 서",
+          "summary": "개발자 도구와 연구 중심 이미지가 강했던 앤트로픽이 거대한 전자상거래 시장으로 눈을 돌렸다. 연말 쇼핑 시즌을 앞두고 기업들이 B2B 매출 증대와 상업용 AI 도입을 가속할 수 있도록 지원하는 오픈소스 청사진을 공개했다.앤트로픽은 3일(현지시간) ‘클로드 상거래 에이전트(Claude Commerce Agents)’라는 이름으로 쇼핑 에이전트와 머천트 에이전트를 구현할 수 있는 기본 예시 코드(참조 구현)와 청사진을 공개했다.개발자는 이를 기반으로 자사의 상품 카탈로그와 장바구니, 주문, 정책 및 내부 데이터 시스템을 연결해 실제 서"
+        },
+        {
+          "title": "구글, 워크스페이스에 ‘제미나이 오디오’ 탑재...음성으로 문서·메일·메모 처리",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214866",
+          "date": "2026-09-04",
+          "source": "AI타임스",
+          "description": "구글이 AI음성 비서 기능을 업무 수행 영역으로 확장하고 있다. 지메일과 구글 독스, 구글 킵에서도 사용자가 키보드를 사용하지 않고도 이메일을 검색하고 문서를 작성하며 아이디어를 정리할 수 있도록 했다.구글은 3일(현지시간) 제미나이 오디오(Gemini Audio) 모델을 기반으로 한 ‘지메일 라이브(Gmail Live)’ ‘독스 라이브(Docs Live)’ ‘킵 라이브(Keep Live)’ 기능을 공식 출시한다고 밝혔다.지난 5월 열린 I/O에서 처음 공개된 것으로, 이번 주부터 사용자에게 차례로 제공된다. 모든 기능은 영어로 제",
+          "image": "https://cdn.aitimes.com/news/photo/202609/214866_218598_5830.jpg",
+          "is_english": false,
+          "original_title": "구글, 워크스페이스에 ‘제미나이 오디오’ 탑재...음성으로 문서·메일·메모 처리",
+          "original_summary": "구글이 AI음성 비서 기능을 업무 수행 영역으로 확장하고 있다. 지메일과 구글 독스, 구글 킵에서도 사용자가 키보드를 사용하지 않고도 이메일을 검색하고 문서를 작성하며 아이디어를 정리할 수 있도록 했다.구글은 3일(현지시간) 제미나이 오디오(Gemini Audio) 모델을 기반으로 한 ‘지메일 라이브(Gmail Live)’ ‘독스 라이브(Docs Live)’ ‘킵 라이브(Keep Live)’ 기능을 공식 출시한다고 밝혔다.지난 5월 열린 I/O에서 처음 공개된 것으로, 이번 주부터 사용자에게 차례로 제공된다. 모든 기능은 영어로 제",
+          "summary": "구글이 AI음성 비서 기능을 업무 수행 영역으로 확장하고 있다. 지메일과 구글 독스, 구글 킵에서도 사용자가 키보드를 사용하지 않고도 이메일을 검색하고 문서를 작성하며 아이디어를 정리할 수 있도록 했다.구글은 3일(현지시간) 제미나이 오디오(Gemini Audio) 모델을 기반으로 한 ‘지메일 라이브(Gmail Live)’ ‘독스 라이브(Docs Live)’ ‘킵 라이브(Keep Live)’ 기능을 공식 출시한다고 밝혔다.지난 5월 열린 I/O에서 처음 공개된 것으로, 이번 주부터 사용자에게 차례로 제공된다. 모든 기능은 영어로 제"
+        },
+        {
+          "title": "MS, 'MAI-트랜스크라이브-2' 공개...속도·정확도·가격 다 잡은 음성 인식 모델",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214858",
+          "date": "2026-09-04",
+          "source": "AI타임스",
+          "description": "마이크로소프트(MS)가 AI 음성 인식 시장에서 성능과 가격을 동시에 앞세워 공세에 나섰다. 지난 4월 첫 모델을 선보인 지 불과 5개월 만에 처리 속도와 다국어 정확도를 대폭 높인 동시에 가격을 70% 이상 낮춘 새 음성 인식 모델을 내놓으면서 오픈AI와 구글 등 주요 경쟁 모델과의 격차 확대에 나섰다.MS는 3일(현지시간) 음성 인식 모델 ‘MAI-트랜스크라이브-2(MAI-Transcribe-2)’를 공개했다.이 모델이 현재 자체 개발한 가장 뛰어난 음성 전사 모델일 뿐 아니라 경쟁 모델과 비교해 성능과 효율성 측면에서도 앞선다",
+          "image": "https://cdn.aitimes.com/news/photo/202609/214858_218591_412.png",
+          "is_english": false,
+          "original_title": "MS, 'MAI-트랜스크라이브-2' 공개...속도·정확도·가격 다 잡은 음성 인식 모델",
+          "original_summary": "마이크로소프트(MS)가 AI 음성 인식 시장에서 성능과 가격을 동시에 앞세워 공세에 나섰다. 지난 4월 첫 모델을 선보인 지 불과 5개월 만에 처리 속도와 다국어 정확도를 대폭 높인 동시에 가격을 70% 이상 낮춘 새 음성 인식 모델을 내놓으면서 오픈AI와 구글 등 주요 경쟁 모델과의 격차 확대에 나섰다.MS는 3일(현지시간) 음성 인식 모델 ‘MAI-트랜스크라이브-2(MAI-Transcribe-2)’를 공개했다.이 모델이 현재 자체 개발한 가장 뛰어난 음성 전사 모델일 뿐 아니라 경쟁 모델과 비교해 성능과 효율성 측면에서도 앞선다",
+          "summary": "마이크로소프트(MS)가 AI 음성 인식 시장에서 성능과 가격을 동시에 앞세워 공세에 나섰다. 지난 4월 첫 모델을 선보인 지 불과 5개월 만에 처리 속도와 다국어 정확도를 대폭 높인 동시에 가격을 70% 이상 낮춘 새 음성 인식 모델을 내놓으면서 오픈AI와 구글 등 주요 경쟁 모델과의 격차 확대에 나섰다.MS는 3일(현지시간) 음성 인식 모델 ‘MAI-트랜스크라이브-2(MAI-Transcribe-2)’를 공개했다.이 모델이 현재 자체 개발한 가장 뛰어난 음성 전사 모델일 뿐 아니라 경쟁 모델과 비교해 성능과 효율성 측면에서도 앞선다"
+        },
+        {
+          "title": "[게시판] 워크데이, 2분기 AI 신규 연간계약 급증 등 단신",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214873",
+          "date": "2026-09-04",
+          "source": "AI타임스",
+          "description": "■ 워크데이가 2분기 실적을 발표했다. 총 매출은 26억4900만달러(약 3조5800억원)로, 2026 회계연도 2분기 대비 12.8% 증가했다. 구독 매출은 24억7100만달러로 전년 동기 대비 13.9% 증가했으며, 영업이익은 3억1300만 달러로 매출의 11.8%를 기록했다. 아닐 부스리 워크데이 CEO 겸 이사회 의장은 “AI가 신규 연간계약금액(ACV)의 25% 이상을 견인하고 현재 5500개 이상 고객사가 워크데이의 에이전트를 사용하고 있다”라고 말했다. ■ 딥노이드(대표 최우식)는 연구 초록 8편이 ‘KCR 2026(K",
+          "image": "https://cdn.aitimes.com/news/photo/202609/214873_218613_2817.jpeg",
+          "is_english": false,
+          "original_title": "[게시판] 워크데이, 2분기 AI 신규 연간계약 급증 등 단신",
+          "original_summary": "■ 워크데이가 2분기 실적을 발표했다. 총 매출은 26억4900만달러(약 3조5800억원)로, 2026 회계연도 2분기 대비 12.8% 증가했다. 구독 매출은 24억7100만달러로 전년 동기 대비 13.9% 증가했으며, 영업이익은 3억1300만 달러로 매출의 11.8%를 기록했다. 아닐 부스리 워크데이 CEO 겸 이사회 의장은 “AI가 신규 연간계약금액(ACV)의 25% 이상을 견인하고 현재 5500개 이상 고객사가 워크데이의 에이전트를 사용하고 있다”라고 말했다. ■ 딥노이드(대표 최우식)는 연구 초록 8편이 ‘KCR 2026(K",
+          "summary": "■ 워크데이가 2분기 실적을 발표했다. 총 매출은 26억4900만달러(약 3조5800억원)로, 2026 회계연도 2분기 대비 12.8% 증가했다. 구독 매출은 24억7100만달러로 전년 동기 대비 13.9% 증가했으며, 영업이익은 3억1300만 달러로 매출의 11.8%를 기록했다. 아닐 부스리 워크데이 CEO 겸 이사회 의장은 “AI가 신규 연간계약금액(ACV)의 25% 이상을 견인하고 현재 5500개 이상 고객사가 워크데이의 에이전트를 사용하고 있다”라고 말했다. ■ 딥노이드(대표 최우식)는 연구 초록 8편이 ‘KCR 2026(K"
+        },
+        {
+          "title": "이해진 네이버 의장, 브룩필드 회장과 회동… ‘1GW급 AI 팩토리 사업’ 후속 논의",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214871",
+          "date": "2026-09-04",
+          "source": "AI타임스",
+          "description": "네이버는 이해진 의장이 3일 네이버 1784 사옥에서 브루스 플랫 브룩필드자산운용 회장과 만나 1기가와트(GW)급 AI 팩토리 사업에 대한 후속 논의를 진행했다고 4일 밝혔다. 브룩필드는 전세계에서 1조달러 이상의 자산을 운용하는 글로벌 대체자산 운용사로, 네이버와 엔비디아의 1GW급 AI 팩토리 구축 사업 중 1단계(200MW)에 최대 90억 달러를 투입하기로 했다. 이번 1단계 파이낸싱을 시작으로 이후 단계에서도 파트너십을 이어갈 계획이다.이해진 의장은 네이버 AI 팩토리 사업에 대한 브룩필드의 투자 결정에 감사를 표했다. “인",
+          "image": "https://cdn.aitimes.com/news/photo/202609/214871_218608_5318.jpeg",
+          "is_english": false,
+          "original_title": "이해진 네이버 의장, 브룩필드 회장과 회동… ‘1GW급 AI 팩토리 사업’ 후속 논의",
+          "original_summary": "네이버는 이해진 의장이 3일 네이버 1784 사옥에서 브루스 플랫 브룩필드자산운용 회장과 만나 1기가와트(GW)급 AI 팩토리 사업에 대한 후속 논의를 진행했다고 4일 밝혔다. 브룩필드는 전세계에서 1조달러 이상의 자산을 운용하는 글로벌 대체자산 운용사로, 네이버와 엔비디아의 1GW급 AI 팩토리 구축 사업 중 1단계(200MW)에 최대 90억 달러를 투입하기로 했다. 이번 1단계 파이낸싱을 시작으로 이후 단계에서도 파트너십을 이어갈 계획이다.이해진 의장은 네이버 AI 팩토리 사업에 대한 브룩필드의 투자 결정에 감사를 표했다. “인",
+          "summary": "네이버는 이해진 의장이 3일 네이버 1784 사옥에서 브루스 플랫 브룩필드자산운용 회장과 만나 1기가와트(GW)급 AI 팩토리 사업에 대한 후속 논의를 진행했다고 4일 밝혔다. 브룩필드는 전세계에서 1조달러 이상의 자산을 운용하는 글로벌 대체자산 운용사로, 네이버와 엔비디아의 1GW급 AI 팩토리 구축 사업 중 1단계(200MW)에 최대 90억 달러를 투입하기로 했다. 이번 1단계 파이낸싱을 시작으로 이후 단계에서도 파트너십을 이어갈 계획이다.이해진 의장은 네이버 AI 팩토리 사업에 대한 브룩필드의 투자 결정에 감사를 표했다. “인"
+        },
+        {
+          "title": "과기부, '모두의 AI' 간담회 개최…2500억 예산으로 국민 체감 AI 서비스 추진",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214869",
+          "date": "2026-09-04",
+          "source": "AI타임스",
+          "description": "전 국민을 위한 AI 서비스 구축을 위해 국가대표 AI 기업이 총출동했다. 현장에는 백준호 퓨리오사AI 대표, 김성훈 업스테이지 대표, 이경일 솔트룩스 대표, 박윤영 KT 대표, 배경훈 부총리, 정재헌 SK텔레콤 대표, 정신아 카카오 대표, 김지훈 SK텔레콤 본부장 등 업계 대표 AI 전문가들이 모였다. 과학기술정보통신부가 4일 서울 한국프레스센터 기자회견장에서 ‘모두의 AI’ 프로젝트에 선정된 3개 컨소시엄의 서비스 개발 계획을 청취하고, 협력 방안을 논의하는 사업자 간담회를 개최했다.이번 프로젝트에는 SK텔레콤 컨소시엄, 카카오",
+          "image": "https://cdn.aitimes.com/news/photo/202609/214869_218605_360.jpeg",
+          "is_english": false,
+          "original_title": "과기부, '모두의 AI' 간담회 개최…2500억 예산으로 국민 체감 AI 서비스 추진",
+          "original_summary": "전 국민을 위한 AI 서비스 구축을 위해 국가대표 AI 기업이 총출동했다. 현장에는 백준호 퓨리오사AI 대표, 김성훈 업스테이지 대표, 이경일 솔트룩스 대표, 박윤영 KT 대표, 배경훈 부총리, 정재헌 SK텔레콤 대표, 정신아 카카오 대표, 김지훈 SK텔레콤 본부장 등 업계 대표 AI 전문가들이 모였다. 과학기술정보통신부가 4일 서울 한국프레스센터 기자회견장에서 ‘모두의 AI’ 프로젝트에 선정된 3개 컨소시엄의 서비스 개발 계획을 청취하고, 협력 방안을 논의하는 사업자 간담회를 개최했다.이번 프로젝트에는 SK텔레콤 컨소시엄, 카카오",
+          "summary": "전 국민을 위한 AI 서비스 구축을 위해 국가대표 AI 기업이 총출동했다. 현장에는 백준호 퓨리오사AI 대표, 김성훈 업스테이지 대표, 이경일 솔트룩스 대표, 박윤영 KT 대표, 배경훈 부총리, 정재헌 SK텔레콤 대표, 정신아 카카오 대표, 김지훈 SK텔레콤 본부장 등 업계 대표 AI 전문가들이 모였다. 과학기술정보통신부가 4일 서울 한국프레스센터 기자회견장에서 ‘모두의 AI’ 프로젝트에 선정된 3개 컨소시엄의 서비스 개발 계획을 청취하고, 협력 방안을 논의하는 사업자 간담회를 개최했다.이번 프로젝트에는 SK텔레콤 컨소시엄, 카카오"
+        },
+        {
+          "title": "사우디 휴메인, 미니맥스 협력으로 아랍어 모델 ‘휴메인-m3’ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214868",
+          "date": "2026-09-04",
+          "source": "AI타임스",
+          "description": "사우디아라비아가 중국 미니맥스와 협력해 아랍어에 특화된 초거대 AI 모델을 개발하며 소버린 AI 경쟁에 뛰어들었다. 사우디 국부펀드(PIF) 산하 AI 기업 휴메인(HUMAIN)은 3일 최첨단 아랍어 모델 역량 확보와 자국 AI 생태계 강화를 위해 ‘휴메인-m3(humain-m3)’를 공개했다.기술 행사 LEAP에서 휴메인-m3를 발표하고, 자체 AI 플랫폼인 ‘휴메인 노드(HUMAIN Node)’를 통해 연구·평가용 프리뷰 형태로 제공한다고 밝혔다.휴메인-m3는 미니맥스의 \\'M3\\' 모델을 기반으로 개발한 모델이다. 4280억개 매",
+          "image": "https://cdn.aitimes.com/news/photo/202609/214868_218603_3440.png",
+          "is_english": false,
+          "original_title": "사우디 휴메인, 미니맥스 협력으로 아랍어 모델 ‘휴메인-m3’ 공개",
+          "original_summary": "사우디아라비아가 중국 미니맥스와 협력해 아랍어에 특화된 초거대 AI 모델을 개발하며 소버린 AI 경쟁에 뛰어들었다. 사우디 국부펀드(PIF) 산하 AI 기업 휴메인(HUMAIN)은 3일 최첨단 아랍어 모델 역량 확보와 자국 AI 생태계 강화를 위해 ‘휴메인-m3(humain-m3)’를 공개했다.기술 행사 LEAP에서 휴메인-m3를 발표하고, 자체 AI 플랫폼인 ‘휴메인 노드(HUMAIN Node)’를 통해 연구·평가용 프리뷰 형태로 제공한다고 밝혔다.휴메인-m3는 미니맥스의 \\'M3\\' 모델을 기반으로 개발한 모델이다. 4280억개",
+          "summary": "사우디아라비아가 중국 미니맥스와 협력해 아랍어에 특화된 초거대 AI 모델을 개발하며 소버린 AI 경쟁에 뛰어들었다. 사우디 국부펀드(PIF) 산하 AI 기업 휴메인(HUMAIN)은 3일 최첨단 아랍어 모델 역량 확보와 자국 AI 생태계 강화를 위해 ‘휴메인-m3(humain-m3)’를 공개했다.기술 행사 LEAP에서 휴메인-m3를 발표하고, 자체 AI 플랫폼인 ‘휴메인 노드(HUMAIN Node)’를 통해 연구·평가용 프리뷰 형태로 제공한다고 밝혔다.휴메인-m3는 미니맥스의 \\'M3\\' 모델을 기반으로 개발한 모델이다. 4280억개"
+        },
         {
           "title": "구글, 매시간 날씨 예보 AI '웨더넥스트 3' 공개...청정에너지·전력망 정밀도 높여",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214867",
@@ -392,19 +488,6 @@
           "category": "AI Model"
         },
         {
-          "title": "zai-org/GLM-5.3-Flash",
-          "link": "https://huggingface.co/zai-org/GLM-5.3-Flash",
-          "date": "2026-09-04",
-          "source": "HuggingFace",
-          "description": "• GLM-5.3-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_53.png",
-          "is_english": true,
-          "summary": "• GLM-5.3-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "zai-org/GLM-5.3-Flash",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
           "date": "2026-09-04",
@@ -414,6 +497,19 @@
           "is_english": true,
           "summary": "• DeepSeek-V4-Flash-Vision-Exp 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "zai-org/GLM-5.3-Flash",
+          "link": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+          "date": "2026-09-04",
+          "source": "HuggingFace",
+          "description": "• GLM-5.3-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_53.png",
+          "is_english": true,
+          "summary": "• GLM-5.3-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "zai-org/GLM-5.3-Flash",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -444,15 +540,15 @@
           "category": "AI Model"
         },
         {
-          "title": "tencent/Hy4-preview",
-          "link": "https://huggingface.co/tencent/Hy4-preview",
+          "title": "XHToken/Spark-X2.5-4B",
+          "link": "https://huggingface.co/XHToken/Spark-X2.5-4B",
           "date": "2026-09-04",
           "source": "HuggingFace",
-          "description": "• Hy4-preview 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/License-Apache%202.0-blue",
+          "description": "• Spark-X2.5-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/Slack-Join-4A154B?logo=slack&logoColor=white",
           "is_english": true,
-          "summary": "• Hy4-preview 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "tencent/Hy4-preview",
+          "summary": "• Spark-X2.5-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "XHToken/Spark-X2.5-4B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -483,6 +579,19 @@
           "category": "AI Model"
         },
         {
+          "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+          "link": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+          "date": "2026-09-04",
+          "source": "HuggingFace",
+          "description": "• Qwen3.8-27B-GSQ-RCO-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/arXiv-GSQ_2604.18556-b31b1b?logo=arxiv&logoColor=white",
+          "is_english": true,
+          "summary": "• Qwen3.8-27B-GSQ-RCO-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "BreezeBlue/Breeze-TTS-2",
           "link": "https://huggingface.co/BreezeBlue/Breeze-TTS-2",
           "date": "2026-09-04",
@@ -509,19 +618,6 @@
           "category": "AI Model"
         },
         {
-          "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-          "link": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-          "date": "2026-09-04",
-          "source": "HuggingFace",
-          "description": "• Qwen3.8-27B-GSQ-RCO-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/arXiv-GSQ_2604.18556-b31b1b?logo=arxiv&logoColor=white",
-          "is_english": true,
-          "summary": "• Qwen3.8-27B-GSQ-RCO-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree",
           "link": "https://huggingface.co/FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree",
           "date": "2026-09-04",
@@ -531,6 +627,19 @@
           "is_english": true,
           "summary": "• FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "tencent/Hy4-preview",
+          "link": "https://huggingface.co/tencent/Hy4-preview",
+          "date": "2026-09-04",
+          "source": "HuggingFace",
+          "description": "• Hy4-preview 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/License-Apache%202.0-blue",
+          "is_english": true,
+          "summary": "• Hy4-preview 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "tencent/Hy4-preview",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -574,32 +683,6 @@
           "category": "AI Model"
         },
         {
-          "title": "XHToken/Spark-X2.5-4B",
-          "link": "https://huggingface.co/XHToken/Spark-X2.5-4B",
-          "date": "2026-09-04",
-          "source": "HuggingFace",
-          "description": "• Spark-X2.5-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/Slack-Join-4A154B?logo=slack&logoColor=white",
-          "is_english": true,
-          "summary": "• Spark-X2.5-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "XHToken/Spark-X2.5-4B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-          "link": "https://huggingface.co/OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-          "date": "2026-09-04",
-          "source": "HuggingFace",
-          "description": "• Qwen3.8-27B-OBLITERATED 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.8-27B-OBLITERATED 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "OBLITERATUS/Qwen3.8-27B-OBLITERATED",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "google-bert/bert-base-uncased",
           "link": "https://huggingface.co/google-bert/bert-base-uncased",
           "date": "2026-09-04",
@@ -609,6 +692,19 @@
           "is_english": true,
           "summary": "• bert-base-uncased 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "google-bert/bert-base-uncased",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "distilbert/distilbert-base-uncased",
+          "link": "https://huggingface.co/distilbert/distilbert-base-uncased",
+          "date": "2026-09-04",
+          "source": "HuggingFace",
+          "description": "• distilbert-base-uncased 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• distilbert-base-uncased 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "distilbert/distilbert-base-uncased",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
