@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-09-05",
-      "update_time": "2026-09-04 22:38:44",
+      "update_time": "2026-09-05 01:57:02",
       "news": [
+        {
+          "title": "웹툰·게임·AI 한자리에서 즐긴다…12일 '창원콘텐츠컨벤션'",
+          "link": "https://www.yna.co.kr/view/AKR20260904138200052",
+          "date": "2026-09-05",
+          "source": "연합뉴스",
+          "description": "(창원=연합뉴스) 김선경 기자 = 경남 창원시는 오는 12일 오전 10시부터 오후 6시까지 창원컨벤션센터 제3전시장에서 &apos;2026 창원콘텐츠컨벤...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/04/AKR20260904138200052_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "웹툰·게임·AI 한자리에서 즐긴다…12일 '창원콘텐츠컨벤션'",
+          "original_summary": "(창원=연합뉴스) 김선경 기자 = 경남 창원시는 오는 12일 오전 10시부터 오후 6시까지 창원컨벤션센터 제3전시장에서 &apos;2026 창원콘텐츠컨벤...",
+          "summary": "(창원=연합뉴스) 김선경 기자 = 경남 창원시는 오는 12일 오전 10시부터 오후 6시까지 창원컨벤션센터 제3전시장에서 &apos;2026 창원콘텐츠컨벤..."
+        },
         {
           "title": "[9월4일] 오픈AI가 '아스트라' 성능보다 안전 설명에 집중한 이유",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214841",
@@ -94,19 +106,6 @@
           "category": "AI Model"
         },
         {
-          "title": "google/timesfm-3.0-pytorch",
-          "link": "https://huggingface.co/google/timesfm-3.0-pytorch",
-          "date": "2026-09-05",
-          "source": "HuggingFace",
-          "description": "• timesfm-3.0-pytorch 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• timesfm-3.0-pytorch 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/timesfm-3.0-pytorch",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "XHToken/Spark-X2.5-4B",
           "link": "https://huggingface.co/XHToken/Spark-X2.5-4B",
           "date": "2026-09-05",
@@ -116,6 +115,19 @@
           "is_english": true,
           "summary": "• Spark-X2.5-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "XHToken/Spark-X2.5-4B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "google/timesfm-3.0-pytorch",
+          "link": "https://huggingface.co/google/timesfm-3.0-pytorch",
+          "date": "2026-09-05",
+          "source": "HuggingFace",
+          "description": "• timesfm-3.0-pytorch 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• timesfm-3.0-pytorch 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/timesfm-3.0-pytorch",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -133,19 +145,6 @@
           "category": "AI Model"
         },
         {
-          "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-          "link": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-          "date": "2026-09-05",
-          "source": "HuggingFace",
-          "description": "• Qwen3.8-27B-GSQ-RCO-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/arXiv-GSQ_2604.18556-b31b1b?logo=arxiv&logoColor=white",
-          "is_english": true,
-          "summary": "• Qwen3.8-27B-GSQ-RCO-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Qwen3.8-27B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
           "date": "2026-09-05",
@@ -155,6 +154,19 @@
           "is_english": true,
           "summary": "• Qwen3.8-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/Qwen3.8-27B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+          "link": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+          "date": "2026-09-05",
+          "source": "HuggingFace",
+          "description": "• Qwen3.8-27B-GSQ-RCO-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/arXiv-GSQ_2604.18556-b31b1b?logo=arxiv&logoColor=white",
+          "is_english": true,
+          "summary": "• Qwen3.8-27B-GSQ-RCO-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -211,19 +223,6 @@
           "category": "AI Model"
         },
         {
-          "title": "FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree",
-          "link": "https://huggingface.co/FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree",
-          "date": "2026-09-05",
-          "source": "HuggingFace",
-          "description": "• FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/hao-ai-lab/FastVideo/main/assets/logos/logo.svg",
-          "is_english": true,
-          "summary": "• FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "openai-community/gpt2",
           "link": "https://huggingface.co/openai-community/gpt2",
           "date": "2026-09-05",
@@ -233,6 +232,19 @@
           "is_english": true,
           "summary": "• gpt2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "openai-community/gpt2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree",
+          "link": "https://huggingface.co/FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree",
+          "date": "2026-09-05",
+          "source": "HuggingFace",
+          "description": "• FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://raw.githubusercontent.com/hao-ai-lab/FastVideo/main/assets/logos/logo.svg",
+          "is_english": true,
+          "summary": "• FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "FastVideo/FastVideo-FastH3-4-step-Preview-v1-VSA-DataFree",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -292,8 +304,32 @@
     },
     {
       "date": "2026-09-04",
-      "update_time": "2026-09-04 22:38:43",
+      "update_time": "2026-09-05 01:57:02",
       "news": [
+        {
+          "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+          "link": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation/",
+          "date": "2026-09-04",
+          "source": "TechCrunch",
+          "description": "The round is being raised just months after the robot data startup exited from stealth. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/DSC_2479.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+          "original_summary": "The round is being raised just months after the robot data startup exited from stealth. ",
+          "summary": "The round is being raised just months after the robot data startup exited from stealth. "
+        },
+        {
+          "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+          "link": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+          "date": "2026-09-04",
+          "source": "TechCrunch",
+          "description": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/ai-agents-GettyImages-2229880232.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+          "original_summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+          "summary": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews."
+        },
         {
           "title": "[게시판] 코난테크놀로지, KAI와 차세대 항공우주 기술 교류 등 단신",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214840",
