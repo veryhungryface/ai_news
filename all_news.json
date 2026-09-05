@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-09-06",
-      "update_time": "2026-09-05 17:00:58",
+      "update_time": "2026-09-05 19:41:29",
       "news": [
         {
           "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
@@ -148,32 +148,6 @@
           "category": "AI Model"
         },
         {
-          "title": "MiniMaxAI/MiniMax-H3",
-          "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
-          "date": "2026-09-06",
-          "source": "HuggingFace",
-          "description": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/MiniMaxAI/MiniMax-H3/resolve/main/assets/minimax-h3.png",
-          "is_english": true,
-          "summary": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "MiniMaxAI/MiniMax-H3",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "unsloth/Qwen3.8-Flash-Next-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
-          "date": "2026-09-06",
-          "source": "HuggingFace",
-          "description": "• Qwen3.8-Flash-Next-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3.8-Flash-Next/architecture.png",
-          "is_english": true,
-          "summary": "• Qwen3.8-Flash-Next-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Qwen3.8-Flash-Next-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "sentence-transformers/all-MiniLM-L6-v2",
           "link": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
           "date": "2026-09-06",
@@ -200,15 +174,28 @@
           "category": "AI Model"
         },
         {
-          "title": "facebook/mms-300m",
-          "link": "https://huggingface.co/facebook/mms-300m",
+          "title": "MiniMaxAI/MiniMax-H3",
+          "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
           "date": "2026-09-06",
           "source": "HuggingFace",
-          "description": "• mms-300m 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "description": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/MiniMaxAI/MiniMax-H3/resolve/main/assets/minimax-h3.png",
           "is_english": true,
-          "summary": "• mms-300m 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "facebook/mms-300m",
+          "summary": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "MiniMaxAI/MiniMax-H3",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/Qwen3.8-Flash-Next-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
+          "date": "2026-09-06",
+          "source": "HuggingFace",
+          "description": "• Qwen3.8-Flash-Next-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3.8-Flash-Next/architecture.png",
+          "is_english": true,
+          "summary": "• Qwen3.8-Flash-Next-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Qwen3.8-Flash-Next-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -222,6 +209,19 @@
           "is_english": true,
           "summary": "• bert-base-uncased 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "google-bert/bert-base-uncased",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "facebook/mms-300m",
+          "link": "https://huggingface.co/facebook/mms-300m",
+          "date": "2026-09-06",
+          "source": "HuggingFace",
+          "description": "• mms-300m 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• mms-300m 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "facebook/mms-300m",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +268,32 @@
     },
     {
       "date": "2026-09-05",
-      "update_time": "2026-09-05 12:13:22",
+      "update_time": "2026-09-05 19:41:28",
       "news": [
+        {
+          "title": "Hikers rescued after using Google Gemini for planning",
+          "link": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+          "date": "2026-09-05",
+          "source": "TechCrunch",
+          "description": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+          "image": "https://techcrunch.com/wp-content/uploads/2017/11/gettyimages-677147499.jpg?resize=1200,600",
+          "is_english": true,
+          "original_title": "Hikers rescued after using Google Gemini for planning",
+          "original_summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+          "summary": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\""
+        },
+        {
+          "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+          "link": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+          "date": "2026-09-05",
+          "source": "TechCrunch",
+          "description": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
+          "is_english": true,
+          "original_title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+          "original_summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+          "summary": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum."
+        },
         {
           "title": "“AI는 돈 벌고 사람은 취업난, 사실일까”…’AI 현황 보고서’ 저자의 진단",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214893",
@@ -7537,7 +7561,7 @@
         {
           "title": "Qwen/Qwen3.8-Flash-Next",
           "link": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
-          "date": "2026-08-28",
+          "date": "2026-09-06",
           "source": "HuggingFace",
           "description": "• Qwen3.8-Flash-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3.8-Flash-Next/architecture.png",
@@ -7550,7 +7574,7 @@
         {
           "title": "zai-org/GLM-5.3-Flash",
           "link": "https://huggingface.co/zai-org/GLM-5.3-Flash",
-          "date": "2026-08-28",
+          "date": "2026-09-06",
           "source": "HuggingFace",
           "description": "• GLM-5.3-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_53.png",
@@ -7563,7 +7587,7 @@
         {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "date": "2026-08-28",
+          "date": "2026-09-06",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -7576,7 +7600,7 @@
         {
           "title": "unsloth/Qwen3.8-27B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
-          "date": "2026-08-28",
+          "date": "2026-09-06",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
@@ -7589,7 +7613,7 @@
         {
           "title": "unsloth/Qwen3.8-Flash-Next-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
-          "date": "2026-08-28",
+          "date": "2026-09-06",
           "source": "HuggingFace",
           "description": "• Qwen3.8-Flash-Next-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3.8-Flash-Next/architecture.png",
@@ -7628,7 +7652,7 @@
         {
           "title": "Lightricks/LTX-2.5",
           "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-08-28",
+          "date": "2026-09-06",
           "source": "HuggingFace",
           "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -7654,7 +7678,7 @@
         {
           "title": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
           "link": "https://huggingface.co/HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-          "date": "2026-08-28",
+          "date": "2026-09-06",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
@@ -7680,7 +7704,7 @@
         {
           "title": "MiniMaxAI/MiniMax-H3",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
-          "date": "2026-08-28",
+          "date": "2026-09-06",
           "source": "HuggingFace",
           "description": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/MiniMaxAI/MiniMax-H3/resolve/main/assets/minimax-h3.png",
