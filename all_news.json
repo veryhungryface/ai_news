@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-09-06",
-      "update_time": "2026-09-05 19:41:29",
+      "update_time": "2026-09-05 22:28:24",
       "news": [
         {
           "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
@@ -57,19 +57,6 @@
           "category": "AI Model"
         },
         {
-          "title": "zai-org/GLM-5.3-Flash",
-          "link": "https://huggingface.co/zai-org/GLM-5.3-Flash",
-          "date": "2026-09-06",
-          "source": "HuggingFace",
-          "description": "• GLM-5.3-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_53.png",
-          "is_english": true,
-          "summary": "• GLM-5.3-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "zai-org/GLM-5.3-Flash",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "google/timesfm-3.0-pytorch",
           "link": "https://huggingface.co/google/timesfm-3.0-pytorch",
           "date": "2026-09-06",
@@ -79,6 +66,19 @@
           "is_english": true,
           "summary": "• timesfm-3.0-pytorch 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "google/timesfm-3.0-pytorch",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "zai-org/GLM-5.3-Flash",
+          "link": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+          "date": "2026-09-06",
+          "source": "HuggingFace",
+          "description": "• GLM-5.3-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_53.png",
+          "is_english": true,
+          "summary": "• GLM-5.3-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "zai-org/GLM-5.3-Flash",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -135,19 +135,6 @@
           "category": "AI Model"
         },
         {
-          "title": "BreezeBlue/Breeze-TTS-2",
-          "link": "https://huggingface.co/BreezeBlue/Breeze-TTS-2",
-          "date": "2026-09-06",
-          "source": "HuggingFace",
-          "description": "• Breeze-TTS-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/BreezeBlue/Breeze-TTS-2/resolve/main/assets/breezeblue-logo.png",
-          "is_english": true,
-          "summary": "• Breeze-TTS-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "BreezeBlue/Breeze-TTS-2",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "sentence-transformers/all-MiniLM-L6-v2",
           "link": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
           "date": "2026-09-06",
@@ -157,6 +144,19 @@
           "is_english": true,
           "summary": "• all-MiniLM-L6-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "sentence-transformers/all-MiniLM-L6-v2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "BreezeBlue/Breeze-TTS-2",
+          "link": "https://huggingface.co/BreezeBlue/Breeze-TTS-2",
+          "date": "2026-09-06",
+          "source": "HuggingFace",
+          "description": "• Breeze-TTS-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/BreezeBlue/Breeze-TTS-2/resolve/main/assets/breezeblue-logo.png",
+          "is_english": true,
+          "summary": "• Breeze-TTS-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "BreezeBlue/Breeze-TTS-2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -187,19 +187,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.8-Flash-Next-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
-          "date": "2026-09-06",
-          "source": "HuggingFace",
-          "description": "• Qwen3.8-Flash-Next-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3.8-Flash-Next/architecture.png",
-          "is_english": true,
-          "summary": "• Qwen3.8-Flash-Next-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Qwen3.8-Flash-Next-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "google-bert/bert-base-uncased",
           "link": "https://huggingface.co/google-bert/bert-base-uncased",
           "date": "2026-09-06",
@@ -209,6 +196,19 @@
           "is_english": true,
           "summary": "• bert-base-uncased 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "google-bert/bert-base-uncased",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/Qwen3.8-Flash-Next-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
+          "date": "2026-09-06",
+          "source": "HuggingFace",
+          "description": "• Qwen3.8-Flash-Next-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3.8-Flash-Next/architecture.png",
+          "is_english": true,
+          "summary": "• Qwen3.8-Flash-Next-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Qwen3.8-Flash-Next-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -252,15 +252,15 @@
           "category": "AI Model"
         },
         {
-          "title": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
-          "link": "https://huggingface.co/HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+          "title": "openai/clip-vit-base-patch32",
+          "link": "https://huggingface.co/openai/clip-vit-base-patch32",
           "date": "2026-09-06",
           "source": "HuggingFace",
-          "description": "• Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "description": "• clip-vit-base-patch32 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HauhauCS/Qwen3.8-27B-Uncensored-HauhauCS-Aggressive-MTP-GGUF",
+          "summary": "• clip-vit-base-patch32 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "openai/clip-vit-base-patch32",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
