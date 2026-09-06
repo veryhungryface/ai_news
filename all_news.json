@@ -2,8 +2,44 @@
   "dates": [
     {
       "date": "2026-09-07",
-      "update_time": "2026-09-06 19:44:15",
+      "update_time": "2026-09-06 22:33:39",
       "news": [
+        {
+          "title": "AI 허위정보 확산하는데…국내 팩트체크 기관은 단 2곳",
+          "link": "https://www.yna.co.kr/view/AKR20260903166200017",
+          "date": "2026-09-07",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 유현민 기자 = 인공지능(AI)으로 만든 가짜 영상과 이미지가 빠르게 확산하고 허위 조작정보가 사회적 문제로 떠오르면서 사실 ...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/03/AKR20260903166200017_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "AI 허위정보 확산하는데…국내 팩트체크 기관은 단 2곳",
+          "original_summary": "(서울=연합뉴스) 유현민 기자 = 인공지능(AI)으로 만든 가짜 영상과 이미지가 빠르게 확산하고 허위 조작정보가 사회적 문제로 떠오르면서 사실 ...",
+          "summary": "(서울=연합뉴스) 유현민 기자 = 인공지능(AI)으로 만든 가짜 영상과 이미지가 빠르게 확산하고 허위 조작정보가 사회적 문제로 떠오르면서 사실 ..."
+        },
+        {
+          "title": "노사발전재단, AI 캐릭터 공모전 대상작 이름 '로사' 확정",
+          "link": "https://www.yna.co.kr/view/AKR20260904162000530",
+          "date": "2026-09-07",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 옥성구 기자 = 노사발전재단은 &apos;2026년 인공지능(AI) 활용 캐릭터 공모전&apos;에서 대상을 받은 캐릭터 이름을 &apos;로사&apos;(ROS...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/04/AKR20260904162000530_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "노사발전재단, AI 캐릭터 공모전 대상작 이름 '로사' 확정",
+          "original_summary": "(서울=연합뉴스) 옥성구 기자 = 노사발전재단은 &apos;2026년 인공지능(AI) 활용 캐릭터 공모전&apos;에서 대상을 받은 캐릭터 이름을 &apos;로사&apos;(ROS...",
+          "summary": "(서울=연합뉴스) 옥성구 기자 = 노사발전재단은 &apos;2026년 인공지능(AI) 활용 캐릭터 공모전&apos;에서 대상을 받은 캐릭터 이름을 &apos;로사&apos;(ROS..."
+        },
+        {
+          "title": "서울AI재단, 공공분야 종사자 대상 '서울AI브리지' 운영",
+          "link": "https://www.yna.co.kr/view/AKR20260906027900004",
+          "date": "2026-09-07",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 황재하 기자 = 서울AI재단은 서울시 공공 분야 인공지능(AI) 도입을 지원하기 위한 통합 플랫폼 &apos;서울AI브리지&apos;를 운영한다...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/06/AKR20260906027900004_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "서울AI재단, 공공분야 종사자 대상 '서울AI브리지' 운영",
+          "original_summary": "(서울=연합뉴스) 황재하 기자 = 서울AI재단은 서울시 공공 분야 인공지능(AI) 도입을 지원하기 위한 통합 플랫폼 &apos;서울AI브리지&apos;를 운영한다...",
+          "summary": "(서울=연합뉴스) 황재하 기자 = 서울AI재단은 서울시 공공 분야 인공지능(AI) 도입을 지원하기 위한 통합 플랫폼 &apos;서울AI브리지&apos;를 운영한다..."
+        },
         {
           "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
@@ -135,32 +171,6 @@
           "category": "AI Model"
         },
         {
-          "title": "sentence-transformers/all-MiniLM-L6-v2",
-          "link": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-          "date": "2026-09-07",
-          "source": "HuggingFace",
-          "description": "• all-MiniLM-L6-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
-          "is_english": true,
-          "summary": "• all-MiniLM-L6-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "sentence-transformers/all-MiniLM-L6-v2",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "openai-community/gpt2",
-          "link": "https://huggingface.co/openai-community/gpt2",
-          "date": "2026-09-07",
-          "source": "HuggingFace",
-          "description": "• gpt2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• gpt2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "openai-community/gpt2",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "BreezeBlue/Breeze-TTS-2",
           "link": "https://huggingface.co/BreezeBlue/Breeze-TTS-2",
           "date": "2026-09-07",
@@ -174,15 +184,15 @@
           "category": "AI Model"
         },
         {
-          "title": "MiniMaxAI/MiniMax-H3",
-          "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+          "title": "sentence-transformers/all-MiniLM-L6-v2",
+          "link": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
           "date": "2026-09-07",
           "source": "HuggingFace",
-          "description": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/MiniMaxAI/MiniMax-H3/resolve/main/assets/minimax-h3.png",
+          "description": "• all-MiniLM-L6-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
           "is_english": true,
-          "summary": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "MiniMaxAI/MiniMax-H3",
+          "summary": "• all-MiniLM-L6-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "sentence-transformers/all-MiniLM-L6-v2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -200,6 +210,32 @@
           "category": "AI Model"
         },
         {
+          "title": "openai-community/gpt2",
+          "link": "https://huggingface.co/openai-community/gpt2",
+          "date": "2026-09-07",
+          "source": "HuggingFace",
+          "description": "• gpt2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• gpt2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "openai-community/gpt2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-H3",
+          "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+          "date": "2026-09-07",
+          "source": "HuggingFace",
+          "description": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/MiniMaxAI/MiniMax-H3/resolve/main/assets/minimax-h3.png",
+          "is_english": true,
+          "summary": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "MiniMaxAI/MiniMax-H3",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "OpenVDN/vdn-minimax-h3",
           "link": "https://huggingface.co/OpenVDN/vdn-minimax-h3",
           "date": "2026-09-07",
@@ -209,6 +245,19 @@
           "is_english": true,
           "summary": "• vdn-minimax-h3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "OpenVDN/vdn-minimax-h3",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/Qwen3.8-Flash-Next-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
+          "date": "2026-09-07",
+          "source": "HuggingFace",
+          "description": "• Qwen3.8-Flash-Next-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3.8-Flash-Next/architecture.png",
+          "is_english": true,
+          "summary": "• Qwen3.8-Flash-Next-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Qwen3.8-Flash-Next-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,28 +288,15 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.8-Flash-Next-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
+          "title": "IFM/K2-Horizon-MoVA-36B-A4B",
+          "link": "https://huggingface.co/IFM/K2-Horizon-MoVA-36B-A4B",
           "date": "2026-09-07",
           "source": "HuggingFace",
-          "description": "• Qwen3.8-Flash-Next-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3.8-Flash-Next/architecture.png",
+          "description": "• K2-Horizon-MoVA-36B-A4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/IFM/K2-Horizon-MoVA-36B-A4B/resolve/main/assets/k2-horizon-mova-36b-a4b-benchmarks.png",
           "is_english": true,
-          "summary": "• Qwen3.8-Flash-Next-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Qwen3.8-Flash-Next-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "distilbert/distilbert-base-uncased",
-          "link": "https://huggingface.co/distilbert/distilbert-base-uncased",
-          "date": "2026-09-07",
-          "source": "HuggingFace",
-          "description": "• distilbert-base-uncased 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• distilbert-base-uncased 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "distilbert/distilbert-base-uncased",
+          "summary": "• K2-Horizon-MoVA-36B-A4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "IFM/K2-Horizon-MoVA-36B-A4B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -268,8 +304,20 @@
     },
     {
       "date": "2026-09-06",
-      "update_time": "2026-09-06 17:25:08",
+      "update_time": "2026-09-06 22:33:38",
       "news": [
+        {
+          "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+          "link": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement/",
+          "date": "2026-09-06",
+          "source": "TechCrunch",
+          "description": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/12/49688202642_09fd5ccc38_k.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+          "original_summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+          "summary": "Authors say publishers seem to be claiming more than their fair share of settlement payments."
+        },
         {
           "title": "An Alien Mind",
           "link": "https://openai.com/index/an-alien-mind",
