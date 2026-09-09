@@ -2,8 +2,44 @@
   "dates": [
     {
       "date": "2026-09-10",
-      "update_time": "2026-09-09 18:09:18",
+      "update_time": "2026-09-09 22:50:32",
       "news": [
+        {
+          "title": "[9월9일] 소비자 시장서 구글에 추격받던 오픈AI, GPT-5.6 이후 다시 격차 벌렸다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215023",
+          "date": "2026-09-10",
+          "source": "AI타임스",
+          "description": "올해 들어 AI 시장의 주요 관심사는 오픈AI와 앤트로픽의 기업 시장 점유율 경쟁에 맞춰져 있었습니다. 그런데 그 사이 2022년 11월 \\'챗GPT\\' 출시 이후 좀처럼 흔들리지 않았던 오픈AI의 소비자 시장에서 이상 신호가 나타났습니다. 구글이 \\'제미나이\\'를 앞세워 빠르게 추격하면서 오픈AI의 독주가 끝날 수 있다는 전망까지 나왔습니다. 실제로 7월 말 제미나이의 월간 이용자는 9억5000만명까지 늘었고, 8월에는 양쪽 모두 10억명을 넘어섰습니다.그런데 7월부터 흐름이 바뀌기 시작했습니다. 7일 시밀러웹이 공개한 데이터에 따르면,",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215023_218784_4518.png",
+          "is_english": false,
+          "original_title": "[9월9일] 소비자 시장서 구글에 추격받던 오픈AI, GPT-5.6 이후 다시 격차 벌렸다",
+          "original_summary": "올해 들어 AI 시장의 주요 관심사는 오픈AI와 앤트로픽의 기업 시장 점유율 경쟁에 맞춰져 있었습니다. 그런데 그 사이 2022년 11월 \\'챗GPT\\' 출시 이후 좀처럼 흔들리지 않았던 오픈AI의 소비자 시장에서 이상 신호가 나타났습니다. 구글이 \\'제미나이\\'를 앞세워 빠르게 추격하면서 오픈AI의 독주가 끝날 수 있다는 전망까지 나왔습니다. 실제로 7월 말 제미나이의 월간 이용자는 9억5000만명까지 늘었고, 8월에는 양쪽 모두 10억명을 넘어섰습니다.그런데 7월부터 흐름이 바뀌기 시작했습니다. 7일 시밀러웹이 공개한 데이터에 ",
+          "summary": "올해 들어 AI 시장의 주요 관심사는 오픈AI와 앤트로픽의 기업 시장 점유율 경쟁에 맞춰져 있었습니다. 그런데 그 사이 2022년 11월 \\'챗GPT\\' 출시 이후 좀처럼 흔들리지 않았던 오픈AI의 소비자 시장에서 이상 신호가 나타났습니다. 구글이 \\'제미나이\\'를 앞세워 빠르게 추격하면서 오픈AI의 독주가 끝날 수 있다는 전망까지 나왔습니다. 실제로 7월 말 제미나이의 월간 이용자는 9억5000만명까지 늘었고, 8월에는 양쪽 모두 10억명을 넘어섰습니다.그런데 7월부터 흐름이 바뀌기 시작했습니다. 7일 시밀러웹이 공개한 데이터에 "
+        },
+        {
+          "title": "Neura Robotics, Seco Partner to Scale Physical AI in Europe",
+          "link": "https://aibusiness.com/robotics/neura-robotics-seco-partner-scale-physical-ai-europe",
+          "date": "2026-09-10",
+          "source": "AI Business",
+          "description": "The companies will develop compute modules using Qualcomm Dragonwing processors, as Neura looks to scale physical AI in Europe.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt084df4f95a0ce678/6aa1c63983627c78f117e607/Neura.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Neura Robotics, Seco Partner to Scale Physical AI in Europe",
+          "original_summary": "The companies will develop compute modules using Qualcomm Dragonwing processors, as Neura looks to scale physical AI in Europe.",
+          "summary": "The companies will develop compute modules using Qualcomm Dragonwing processors, as Neura looks to scale physical AI in Europe."
+        },
+        {
+          "title": "Qualcomm Forges AI Chip Deal with Amazon",
+          "link": "https://aibusiness.com/data-centers/qualcomm-forges-ai-chip-deal-amazon",
+          "date": "2026-09-10",
+          "source": "AI Business",
+          "description": "The chipmaker is competing with Nvidia, the world’s dominant producer of AI processors.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltbdee5699c72db54d/6aa1c2a3b43752d42ee375d4/Qualcomm2.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Qualcomm Forges AI Chip Deal with Amazon",
+          "original_summary": "The chipmaker is competing with Nvidia, the world’s dominant producer of AI processors.",
+          "summary": "The chipmaker is competing with Nvidia, the world’s dominant producer of AI processors."
+        },
         {
           "title": "Paul Christiano joins OpenAI Foundation Board",
           "link": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
@@ -43,19 +79,6 @@
           "category": "AI Model"
         },
         {
-          "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-          "link": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-          "date": "2026-09-10",
-          "source": "HuggingFace",
-          "description": "• Qwen3.8-27B-GSQ-RCO-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/arXiv-GSQ_2604.18556-b31b1b?logo=arxiv&logoColor=white",
-          "is_english": true,
-          "summary": "• Qwen3.8-27B-GSQ-RCO-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
           "date": "2026-09-10",
@@ -65,6 +88,19 @@
           "is_english": true,
           "summary": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.8-27B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+          "link": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+          "date": "2026-09-10",
+          "source": "HuggingFace",
+          "description": "• Qwen3.8-27B-GSQ-RCO-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/arXiv-GSQ_2604.18556-b31b1b?logo=arxiv&logoColor=white",
+          "is_english": true,
+          "summary": "• Qwen3.8-27B-GSQ-RCO-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -121,19 +157,6 @@
           "category": "AI Model"
         },
         {
-          "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-          "link": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-          "date": "2026-09-10",
-          "source": "HuggingFace",
-          "description": "• Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF/resolve/main/star-wars-hans-solo.gif",
-          "is_english": true,
-          "summary": "• Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "openai-community/gpt2",
           "link": "https://huggingface.co/openai-community/gpt2",
           "date": "2026-09-10",
@@ -143,6 +166,19 @@
           "is_english": true,
           "summary": "• gpt2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "openai-community/gpt2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+          "link": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+          "date": "2026-09-10",
+          "source": "HuggingFace",
+          "description": "• Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF/resolve/main/star-wars-hans-solo.gif",
+          "is_english": true,
+          "summary": "• Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -173,6 +209,19 @@
           "category": "AI Model"
         },
         {
+          "title": "google-bert/bert-base-uncased",
+          "link": "https://huggingface.co/google-bert/bert-base-uncased",
+          "date": "2026-09-10",
+          "source": "HuggingFace",
+          "description": "• bert-base-uncased 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• bert-base-uncased 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google-bert/bert-base-uncased",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Qwen/Qwen3.8-Flash-Next",
           "link": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
           "date": "2026-09-10",
@@ -199,32 +248,6 @@
           "category": "AI Model"
         },
         {
-          "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
-          "date": "2026-09-10",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Flash-Vision-Exp 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
-          "is_english": true,
-          "summary": "• DeepSeek-V4-Flash-Vision-Exp 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "google-bert/bert-base-uncased",
-          "link": "https://huggingface.co/google-bert/bert-base-uncased",
-          "date": "2026-09-10",
-          "source": "HuggingFace",
-          "description": "• bert-base-uncased 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• bert-base-uncased 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google-bert/bert-base-uncased",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "openai/clip-vit-base-patch32",
           "link": "https://huggingface.co/openai/clip-vit-base-patch32",
           "date": "2026-09-10",
@@ -234,19 +257,6 @@
           "is_english": true,
           "summary": "• clip-vit-base-patch32 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "openai/clip-vit-base-patch32",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "facebook/mms-300m",
-          "link": "https://huggingface.co/facebook/mms-300m",
-          "date": "2026-09-10",
-          "source": "HuggingFace",
-          "description": "• mms-300m 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
-          "is_english": true,
-          "summary": "• mms-300m 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "facebook/mms-300m",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -264,15 +274,41 @@
           "category": "AI Model"
         },
         {
-          "title": "zai-org/GLM-5.3-Flash",
-          "link": "https://huggingface.co/zai-org/GLM-5.3-Flash",
+          "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
           "date": "2026-09-10",
           "source": "HuggingFace",
-          "description": "• GLM-5.3-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_53.png",
+          "description": "• DeepSeek-V4-Flash-Vision-Exp 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
           "is_english": true,
-          "summary": "• GLM-5.3-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "zai-org/GLM-5.3-Flash",
+          "summary": "• DeepSeek-V4-Flash-Vision-Exp 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "facebook/mms-300m",
+          "link": "https://huggingface.co/facebook/mms-300m",
+          "date": "2026-09-10",
+          "source": "HuggingFace",
+          "description": "• mms-300m 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• mms-300m 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "facebook/mms-300m",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "WarmBloodAban/Minimax-h3_Singularity",
+          "link": "https://huggingface.co/WarmBloodAban/Minimax-h3_Singularity",
+          "date": "2026-09-10",
+          "source": "HuggingFace",
+          "description": "• Minimax-h3_Singularity 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/🚀_Online_Demo-RunningHub-blue.svg",
+          "is_english": true,
+          "summary": "• Minimax-h3_Singularity 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "WarmBloodAban/Minimax-h3_Singularity",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -280,8 +316,140 @@
     },
     {
       "date": "2026-09-09",
-      "update_time": "2026-09-09 18:09:17",
+      "update_time": "2026-09-09 22:50:31",
       "news": [
+        {
+          "title": "과기부, 프랑스와 AI·양자기술 협력 강화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215061",
+          "date": "2026-09-09",
+          "source": "AI타임스",
+          "description": "이재명 대통령의 프랑스 국빈 방문을 계기로, 한국과 프랑스 간의 AI 및 양자기술 파트너십을 강화했다. 과학기술정보통신부(장관 배경훈)는 8일 프랑스 파리에서 AI, 반도체 및 양자기술 분야 협력 강화를 위한 MOU를 체결했다고 밝혔다.이번 MOU는 지난 4월 3일 에마뉘엘 마크롱 대통령의 방한 당시 체결한 AI, 반도체, 양자기술 협력의향서(LOI)를 바탕으로 한다. 구체적이고 실질적인 협력 방안을 담아 이번 파트너십을 강화했다는 설명이다. 양국은 이번 협력을 통해 ▲AI, 양자 분야 정례 회의 개최 ▲연구자 간 공동연구 및 혁신",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215061_218824_3255.jpeg",
+          "is_english": false,
+          "original_title": "과기부, 프랑스와 AI·양자기술 협력 강화",
+          "original_summary": "이재명 대통령의 프랑스 국빈 방문을 계기로, 한국과 프랑스 간의 AI 및 양자기술 파트너십을 강화했다. 과학기술정보통신부(장관 배경훈)는 8일 프랑스 파리에서 AI, 반도체 및 양자기술 분야 협력 강화를 위한 MOU를 체결했다고 밝혔다.이번 MOU는 지난 4월 3일 에마뉘엘 마크롱 대통령의 방한 당시 체결한 AI, 반도체, 양자기술 협력의향서(LOI)를 바탕으로 한다. 구체적이고 실질적인 협력 방안을 담아 이번 파트너십을 강화했다는 설명이다. 양국은 이번 협력을 통해 ▲AI, 양자 분야 정례 회의 개최 ▲연구자 간 공동연구 및 혁신",
+          "summary": "이재명 대통령의 프랑스 국빈 방문을 계기로, 한국과 프랑스 간의 AI 및 양자기술 파트너십을 강화했다. 과학기술정보통신부(장관 배경훈)는 8일 프랑스 파리에서 AI, 반도체 및 양자기술 분야 협력 강화를 위한 MOU를 체결했다고 밝혔다.이번 MOU는 지난 4월 3일 에마뉘엘 마크롱 대통령의 방한 당시 체결한 AI, 반도체, 양자기술 협력의향서(LOI)를 바탕으로 한다. 구체적이고 실질적인 협력 방안을 담아 이번 파트너십을 강화했다는 설명이다. 양국은 이번 협력을 통해 ▲AI, 양자 분야 정례 회의 개최 ▲연구자 간 공동연구 및 혁신"
+        },
+        {
+          "title": "광양경자청, 1조원대 투자 협약 체결…에너지·방산 등 미래 산업 전환 가속",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215069",
+          "date": "2026-09-09",
+          "source": "AI타임스",
+          "description": "광양만권경제자유구역청(청장 구충곤)은 9일 에너지·해상풍력·방산 등 미래 산업 분야 4개사와 1조655억원의 투자 협약을 체결했다고 밝혔다.이번 투자 협약은 ‘전남광주통합특별시 시대, 광양만권 외자유치의 새로운 기회’를 주제로 여수 소노캄호텔 그랜드볼룸에서 열린‘광양만권 외국인 투자유치 활성화 포럼 및 투자 협약식’에서 진행됐다.민형배 전남광주통합특별시장, 구충곤 광양경자청장, 서영학 여수시장, 손훈모 순천시장, 박성현 광양시장이 참석했으며, 기업 측에서는 쉬린 CGN율촌전력 회장, 송주호 CGN율촌전력 대표, 김덕한 EEW KHP",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215069_218838_132.jpeg",
+          "is_english": false,
+          "original_title": "광양경자청, 1조원대 투자 협약 체결…에너지·방산 등 미래 산업 전환 가속",
+          "original_summary": "광양만권경제자유구역청(청장 구충곤)은 9일 에너지·해상풍력·방산 등 미래 산업 분야 4개사와 1조655억원의 투자 협약을 체결했다고 밝혔다.이번 투자 협약은 ‘전남광주통합특별시 시대, 광양만권 외자유치의 새로운 기회’를 주제로 여수 소노캄호텔 그랜드볼룸에서 열린‘광양만권 외국인 투자유치 활성화 포럼 및 투자 협약식’에서 진행됐다.민형배 전남광주통합특별시장, 구충곤 광양경자청장, 서영학 여수시장, 손훈모 순천시장, 박성현 광양시장이 참석했으며, 기업 측에서는 쉬린 CGN율촌전력 회장, 송주호 CGN율촌전력 대표, 김덕한 EEW KHP",
+          "summary": "광양만권경제자유구역청(청장 구충곤)은 9일 에너지·해상풍력·방산 등 미래 산업 분야 4개사와 1조655억원의 투자 협약을 체결했다고 밝혔다.이번 투자 협약은 ‘전남광주통합특별시 시대, 광양만권 외자유치의 새로운 기회’를 주제로 여수 소노캄호텔 그랜드볼룸에서 열린‘광양만권 외국인 투자유치 활성화 포럼 및 투자 협약식’에서 진행됐다.민형배 전남광주통합특별시장, 구충곤 광양경자청장, 서영학 여수시장, 손훈모 순천시장, 박성현 광양시장이 참석했으며, 기업 측에서는 쉬린 CGN율촌전력 회장, 송주호 CGN율촌전력 대표, 김덕한 EEW KHP"
+        },
+        {
+          "title": "GPT-6 Astra: The next generation in intelligence for work",
+          "link": "https://openai.com/index/gpt-6-astra-next-generation-work",
+          "date": "2026-09-09",
+          "source": "OpenAI",
+          "description": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+          "image": null,
+          "is_english": true,
+          "original_title": "GPT-6 Astra: The next generation in intelligence for work",
+          "original_summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment.",
+          "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment."
+        },
+        {
+          "title": "OpenAI adds a prominent AI doomer to its board of directors",
+          "link": "https://techcrunch.com/2026/09/09/openai-adds-a-prominent-ai-doomer-to-its-board-of-directors/",
+          "date": "2026-09-09",
+          "source": "TechCrunch",
+          "description": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "OpenAI adds a prominent AI doomer to its board of directors",
+          "original_summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board.",
+          "summary": "Paul Christiano, an influential AI researcher focused on alignment, is joining the OpenAI Foundation as a member of its board."
+        },
+        {
+          "title": "Massachusetts hits data centers with new clean power rules",
+          "link": "https://techcrunch.com/2026/09/09/massachusetts-hits-data-centers-with-new-clean-power-rules/",
+          "date": "2026-09-09",
+          "source": "TechCrunch",
+          "description": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2001268132.jpeg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Massachusetts hits data centers with new clean power rules",
+          "original_summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
+          "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development."
+        },
+        {
+          "title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+          "link": "https://techcrunch.com/2026/09/09/apple-watchs-new-ai-features-are-normalizing-the-idea-that-technology-is-always-listening/",
+          "date": "2026-09-09",
+          "source": "TechCrunch",
+          "description": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/live-rewind.jpg?resize=1200,679",
+          "is_english": true,
+          "original_title": "Apple Watch’s new AI features are normalizing the idea that technology is always listening",
+          "original_summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded.",
+          "summary": "Apple says its new watches won’t save raw audio, but features that can transcribe recent speech and summarize ambient conversations raise new questions about consent, privacy, and how people behave when they know they could always be recorded."
+        },
+        {
+          "title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+          "link": "https://techcrunch.com/2026/09/09/everything-apple-announced-at-its-fall-iphone-event-from-the-foldable-iphone-duo-to-an-always-listening-apple-watch/",
+          "date": "2026-09-09",
+          "source": "TechCrunch",
+          "description": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-2.56.54-PM.png?resize=1200,730",
+          "is_english": true,
+          "original_title": "Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch",
+          "original_summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo.",
+          "summary": "The main event was the tech giant's highly anticipated first foldable phone, the iPhone Duo."
+        },
+        {
+          "title": "The hinge for Apple’s new foldable phone was built with AI",
+          "link": "https://techcrunch.com/2026/09/09/the-hinge-for-apples-new-foldable-phone-was-built-with-ai/",
+          "date": "2026-09-09",
+          "source": "TechCrunch",
+          "description": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-2.14.55-PM.jpg?resize=1200,687",
+          "is_english": true,
+          "original_title": "The hinge for Apple’s new foldable phone was built with AI",
+          "original_summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone. ",
+          "summary": "Apple says it used AI and 3D printing in the manufacturing process for its long-awaited foldable phone. "
+        },
+        {
+          "title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
+          "link": "https://techcrunch.com/2026/09/09/apples-revamped-health-app-will-calculate-your-health-age-and-readiness-score/",
+          "date": "2026-09-09",
+          "source": "TechCrunch",
+          "description": "The update uses Apple Intelligence to make better sense of your health data. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-09-at-1.42.28-PM.jpg?resize=1200,727",
+          "is_english": true,
+          "original_title": "Apple’s revamped Health app will calculate your ‘health age’ and readiness score",
+          "original_summary": "The update uses Apple Intelligence to make better sense of your health data. ",
+          "summary": "The update uses Apple Intelligence to make better sense of your health data. "
+        },
+        {
+          "title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
+          "link": "https://techcrunch.com/2026/09/09/apple-has-a-new-way-prove-your-iphone-photos-arent-ai-slop/",
+          "date": "2026-09-09",
+          "source": "TechCrunch",
+          "description": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/Apple-iPhone-18-Pro-Photos-app-Apple-Reference-Image-260909_big.jpg.large_2x.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Apple has a new way to prove your iPhone photos aren’t AI slop",
+          "original_summary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI.",
+          "summary": "Apple introduced Apple Reference Image to help users determine whether photos have been edited, including alterations made by AI."
+        },
+        {
+          "title": "MIT Schwarzman College of Computing launches pilot to help educators teach AI across disciplines",
+          "link": "https://news.mit.edu/2026/mit-schwarzman-college-computing-launches-pilot-help-educators-teach-ai-across-disciplines-0909",
+          "date": "2026-09-09",
+          "source": "MIT News",
+          "description": "A weeklong summer workshop brought higher education faculty to campus to explore how AI and machine learning materials can be adapted for their classrooms.",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202608/mit-schwarzman-AI-EDUCATORS.jpg?itok=7n4L56BI",
+          "is_english": true,
+          "original_title": "MIT Schwarzman College of Computing launches pilot to help educators teach AI across disciplines",
+          "original_summary": "A weeklong summer workshop brought higher education faculty to campus to explore how AI and machine learning materials can be adapted for their classrooms.",
+          "summary": "A weeklong summer workshop brought higher education faculty to campus to explore how AI and machine learning materials can be adapted for their classrooms."
+        },
         {
           "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
           "link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
@@ -8305,7 +8473,7 @@
         {
           "title": "Qwen/Qwen3.8-Flash-Next",
           "link": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
-          "date": "2026-09-01",
+          "date": "2026-09-10",
           "source": "HuggingFace",
           "description": "• Qwen3.8-Flash-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3.8-Flash-Next/architecture.png",
@@ -8344,7 +8512,7 @@
         {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "date": "2026-09-01",
+          "date": "2026-09-10",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -8396,7 +8564,7 @@
         {
           "title": "unsloth/Qwen3.8-27B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
-          "date": "2026-09-01",
+          "date": "2026-09-10",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
@@ -8409,7 +8577,7 @@
         {
           "title": "Lightricks/LTX-2.5",
           "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-09-01",
+          "date": "2026-09-10",
           "source": "HuggingFace",
           "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
