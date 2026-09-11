@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-09-12",
-      "update_time": "2026-09-11 20:33:10",
+      "update_time": "2026-09-11 22:52:57",
       "news": [
+        {
+          "title": "[9월11일] 실리콘밸리에서 갑자기 ‘AI 종말론’이 다시 떠오른 이유",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215136",
+          "date": "2026-09-12",
+          "source": "AI타임스",
+          "description": "AI가 인간을 넘어서는 순간 인류가 통제력을 잃을 수 있다는 경고는 새로운 이야기가 아닙니다. 수년 전부터 AI 석학과 연구자들이 비슷한 우려를 내놨고, AI가 인간을 속이거나 감독을 피할 수 있는지 확인하는 실험도 이어졌습니다. 하지만 대중에게는 여전히 먼 미래의 이야기, 혹은 SF에 가까운 이야기로 받아들여졌습니다.그런데 최근 들어 분위기가 달라지고 있습니다. 앤트로픽 연구원의 사퇴를 비롯해 AI 에이전트의 이상 행동과 안전 문제가 불거지면서 미국에서는 AI 종말론이 다시 주요 이슈로 떠오르고 있습니다.특히 정치권까지 가세하면서",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215136_218914_2023.png",
+          "is_english": false,
+          "original_title": "[9월11일] 실리콘밸리에서 갑자기 ‘AI 종말론’이 다시 떠오른 이유",
+          "original_summary": "AI가 인간을 넘어서는 순간 인류가 통제력을 잃을 수 있다는 경고는 새로운 이야기가 아닙니다. 수년 전부터 AI 석학과 연구자들이 비슷한 우려를 내놨고, AI가 인간을 속이거나 감독을 피할 수 있는지 확인하는 실험도 이어졌습니다. 하지만 대중에게는 여전히 먼 미래의 이야기, 혹은 SF에 가까운 이야기로 받아들여졌습니다.그런데 최근 들어 분위기가 달라지고 있습니다. 앤트로픽 연구원의 사퇴를 비롯해 AI 에이전트의 이상 행동과 안전 문제가 불거지면서 미국에서는 AI 종말론이 다시 주요 이슈로 떠오르고 있습니다.특히 정치권까지 가세하면서",
+          "summary": "AI가 인간을 넘어서는 순간 인류가 통제력을 잃을 수 있다는 경고는 새로운 이야기가 아닙니다. 수년 전부터 AI 석학과 연구자들이 비슷한 우려를 내놨고, AI가 인간을 속이거나 감독을 피할 수 있는지 확인하는 실험도 이어졌습니다. 하지만 대중에게는 여전히 먼 미래의 이야기, 혹은 SF에 가까운 이야기로 받아들여졌습니다.그런데 최근 들어 분위기가 달라지고 있습니다. 앤트로픽 연구원의 사퇴를 비롯해 AI 에이전트의 이상 행동과 안전 문제가 불거지면서 미국에서는 AI 종말론이 다시 주요 이슈로 떠오르고 있습니다.특히 정치권까지 가세하면서"
+        },
         {
           "title": "Prompt: AI Governance Enters Its Verification Phase",
           "link": "https://aibusiness.com/ai-policy/prompt-ai-governance-enters-verification-phase",
@@ -68,19 +80,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nex-agi/Nex-N2.5-mini",
-          "link": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
-          "date": "2026-09-12",
-          "source": "HuggingFace",
-          "description": "• Nex-N2.5-mini 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/nex-agi/Nex-N2.5-mini/resolve/main/./figures/NEX_logo.svg",
-          "is_english": true,
-          "summary": "• Nex-N2.5-mini 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nex-agi/Nex-N2.5-mini",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
           "date": "2026-09-12",
@@ -90,6 +89,19 @@
           "is_english": true,
           "summary": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.8-27B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nex-agi/Nex-N2.5-mini",
+          "link": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
+          "date": "2026-09-12",
+          "source": "HuggingFace",
+          "description": "• Nex-N2.5-mini 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/nex-agi/Nex-N2.5-mini/resolve/main/./figures/NEX_logo.svg",
+          "is_english": true,
+          "summary": "• Nex-N2.5-mini 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nex-agi/Nex-N2.5-mini",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -172,19 +184,6 @@
           "category": "AI Model"
         },
         {
-          "title": "google/timesfm-3.0-pytorch",
-          "link": "https://huggingface.co/google/timesfm-3.0-pytorch",
-          "date": "2026-09-12",
-          "source": "HuggingFace",
-          "description": "• timesfm-3.0-pytorch 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• timesfm-3.0-pytorch 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/timesfm-3.0-pytorch",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
           "link": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
           "date": "2026-09-12",
@@ -194,6 +193,19 @@
           "is_english": true,
           "summary": "• Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "google/timesfm-3.0-pytorch",
+          "link": "https://huggingface.co/google/timesfm-3.0-pytorch",
+          "date": "2026-09-12",
+          "source": "HuggingFace",
+          "description": "• timesfm-3.0-pytorch 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• timesfm-3.0-pytorch 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/timesfm-3.0-pytorch",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -224,6 +236,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Qwen/Qwen3.8-Flash-Next",
+          "link": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+          "date": "2026-09-12",
+          "source": "HuggingFace",
+          "description": "• Qwen3.8-Flash-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3.8-Flash-Next/architecture.png",
+          "is_english": true,
+          "summary": "• Qwen3.8-Flash-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.8-Flash-Next",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "nvidia/Qwen3.8-Flash-Next-NVFP4",
           "link": "https://huggingface.co/nvidia/Qwen3.8-Flash-Next-NVFP4",
           "date": "2026-09-12",
@@ -250,19 +275,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.8-Flash-Next",
-          "link": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
-          "date": "2026-09-12",
-          "source": "HuggingFace",
-          "description": "• Qwen3.8-Flash-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3.8-Flash-Next/architecture.png",
-          "is_english": true,
-          "summary": "• Qwen3.8-Flash-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.8-Flash-Next",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "zai-org/GLM-5.3-Flash",
           "link": "https://huggingface.co/zai-org/GLM-5.3-Flash",
           "date": "2026-09-12",
@@ -276,15 +288,15 @@
           "category": "AI Model"
         },
         {
-          "title": "openbmb/MiniCPM5-2B-GGUF",
-          "link": "https://huggingface.co/openbmb/MiniCPM5-2B-GGUF",
+          "title": "sentence-transformers/all-MiniLM-L6-v2",
+          "link": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
           "date": "2026-09-12",
           "source": "HuggingFace",
-          "description": "• MiniCPM5-2B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/OpenBMB/MiniCPM/main/assets/minicpm_logo.png",
+          "description": "• all-MiniLM-L6-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
           "is_english": true,
-          "summary": "• MiniCPM5-2B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "openbmb/MiniCPM5-2B-GGUF",
+          "summary": "• all-MiniLM-L6-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "sentence-transformers/all-MiniLM-L6-v2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -292,8 +304,56 @@
     },
     {
       "date": "2026-09-11",
-      "update_time": "2026-09-11 20:33:10",
+      "update_time": "2026-09-11 22:52:57",
       "news": [
+        {
+          "title": "한전KDN, 에이치투와 에너지ICT·차세대 배터리 결합으로 차세대전력망 시장 선도",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215179",
+          "date": "2026-09-11",
+          "source": "AI타임스",
+          "description": "에너지ICT 전문 공기업 한전KDN(사장 박상형)과 에이치투(대표 한신)는 11일 에이치투 계룡사업장에서 ‘바나듐흐름전지·에너지ICT 연계 공동 사업개발’을 위한 업무협약을 체결했다.이날 협약은 한전KDN이 30여년간 전력 계통의 정보통신기술(ICT) 운영으로 축적해 온 에너지ICT 역량과 에이치투가 보유한 바나듐흐름전지(VFB) 기반 에너지저장장치(ESS) 기술의 융합을 통해 차세대 ESS 시장을 공동으로 개척하기 위해 추진됐다.바나듐흐름전지는 높은 안전성으로 화재나 폭발 위험을 줄이고 전극과 전해액의 손상을 최소화한 반영구적인",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215179_218960_331.jpg",
+          "is_english": false,
+          "original_title": "한전KDN, 에이치투와 에너지ICT·차세대 배터리 결합으로 차세대전력망 시장 선도",
+          "original_summary": "에너지ICT 전문 공기업 한전KDN(사장 박상형)과 에이치투(대표 한신)는 11일 에이치투 계룡사업장에서 ‘바나듐흐름전지·에너지ICT 연계 공동 사업개발’을 위한 업무협약을 체결했다.이날 협약은 한전KDN이 30여년간 전력 계통의 정보통신기술(ICT) 운영으로 축적해 온 에너지ICT 역량과 에이치투가 보유한 바나듐흐름전지(VFB) 기반 에너지저장장치(ESS) 기술의 융합을 통해 차세대 ESS 시장을 공동으로 개척하기 위해 추진됐다.바나듐흐름전지는 높은 안전성으로 화재나 폭발 위험을 줄이고 전극과 전해액의 손상을 최소화한 반영구적인",
+          "summary": "에너지ICT 전문 공기업 한전KDN(사장 박상형)과 에이치투(대표 한신)는 11일 에이치투 계룡사업장에서 ‘바나듐흐름전지·에너지ICT 연계 공동 사업개발’을 위한 업무협약을 체결했다.이날 협약은 한전KDN이 30여년간 전력 계통의 정보통신기술(ICT) 운영으로 축적해 온 에너지ICT 역량과 에이치투가 보유한 바나듐흐름전지(VFB) 기반 에너지저장장치(ESS) 기술의 융합을 통해 차세대 ESS 시장을 공동으로 개척하기 위해 추진됐다.바나듐흐름전지는 높은 안전성으로 화재나 폭발 위험을 줄이고 전극과 전해액의 손상을 최소화한 반영구적인"
+        },
+        {
+          "title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+          "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+          "date": "2026-09-11",
+          "source": "TechCrunch",
+          "description": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/garry-tan-sxsw-getty.jpg?resize=1200,801",
+          "is_english": true,
+          "original_title": "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+          "original_summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.",
+          "summary": "Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese."
+        },
+        {
+          "title": "OpenAI’s feud with mathematicians is only escalating",
+          "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+          "date": "2026-09-11",
+          "source": "TechCrunch",
+          "description": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/openai-logo-code-background.jpg?resize=1200,798",
+          "is_english": true,
+          "original_title": "OpenAI’s feud with mathematicians is only escalating",
+          "original_summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+          "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work."
+        },
+        {
+          "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+          "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+          "date": "2026-09-11",
+          "source": "TechCrunch",
+          "description": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/01/Exhibit-Early-Stage.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+          "original_summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
+          "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline."
+        },
         {
           "title": "[게시판] 포티투마루, AX 확산 분과로 수요·공급 기업 매칭 주도 등 단신",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215162",
@@ -7370,7 +7430,7 @@
         {
           "title": "sentence-transformers/all-MiniLM-L6-v2",
           "link": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-          "date": "2026-09-10",
+          "date": "2026-09-12",
           "source": "HuggingFace",
           "description": "• all-MiniLM-L6-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
