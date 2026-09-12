@@ -2,8 +2,44 @@
   "dates": [
     {
       "date": "2026-09-12",
-      "update_time": "2026-09-11 22:52:57",
+      "update_time": "2026-09-12 02:04:38",
       "news": [
+        {
+          "title": "경남교육청, 교원 대상 '연구윤리 준수·AI 기반' 직무연수",
+          "link": "https://www.yna.co.kr/view/AKR20260911114900052",
+          "date": "2026-09-12",
+          "source": "연합뉴스",
+          "description": "(창원=연합뉴스) 김동민 기자 = 경남도교육청은 12일과 오는 19일 두차례에 걸쳐 창원시 진해구 이순신리더십국제센터에서 교원 35명을 대상으로...",
+          "image": "https://img.yna.co.kr/photo/cms/2026/07/29/74/PCM20260729000174990_P2.jpg",
+          "is_english": false,
+          "original_title": "경남교육청, 교원 대상 '연구윤리 준수·AI 기반' 직무연수",
+          "original_summary": "(창원=연합뉴스) 김동민 기자 = 경남도교육청은 12일과 오는 19일 두차례에 걸쳐 창원시 진해구 이순신리더십국제센터에서 교원 35명을 대상으로...",
+          "summary": "(창원=연합뉴스) 김동민 기자 = 경남도교육청은 12일과 오는 19일 두차례에 걸쳐 창원시 진해구 이순신리더십국제센터에서 교원 35명을 대상으로..."
+        },
+        {
+          "title": "[로펌을만나다] 김지홍 지평 대표 \"AI시대 경쟁력, 정보 아닌 전문적 판단\"",
+          "link": "https://www.yna.co.kr/view/AKR20260911158800004",
+          "date": "2026-09-12",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 이미령 이승연 기자 = &quot;국제무역 질서가 재편되고 규제 방향까지 빠르게 변화하면서 과거에는 2차 함수였던 기업의 사업전략이 이...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911158800004_08_i_P2.jpg",
+          "is_english": false,
+          "original_title": "[로펌을만나다] 김지홍 지평 대표 \"AI시대 경쟁력, 정보 아닌 전문적 판단\"",
+          "original_summary": "(서울=연합뉴스) 이미령 이승연 기자 = &quot;국제무역 질서가 재편되고 규제 방향까지 빠르게 변화하면서 과거에는 2차 함수였던 기업의 사업전략이 이...",
+          "summary": "(서울=연합뉴스) 이미령 이승연 기자 = &quot;국제무역 질서가 재편되고 규제 방향까지 빠르게 변화하면서 과거에는 2차 함수였던 기업의 사업전략이 이..."
+        },
+        {
+          "title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+          "link": "https://openai.com/index/cognition-devin-testing-with-astra",
+          "date": "2026-09-12",
+          "source": "OpenAI",
+          "description": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Cognition helps Devin test its own work with GPT‑6 Astra",
+          "original_summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.",
+          "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more."
+        },
         {
           "title": "[9월11일] 실리콘밸리에서 갑자기 ‘AI 종말론’이 다시 떠오른 이유",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215136",
@@ -80,19 +116,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.8-27B",
-          "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "date": "2026-09-12",
-          "source": "HuggingFace",
-          "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.8-27B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nex-agi/Nex-N2.5-mini",
           "link": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
           "date": "2026-09-12",
@@ -102,6 +125,19 @@
           "is_english": true,
           "summary": "• Nex-N2.5-mini 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nex-agi/Nex-N2.5-mini",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "date": "2026-09-12",
+          "source": "HuggingFace",
+          "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.8-27B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -249,19 +285,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/Qwen3.8-Flash-Next-NVFP4",
-          "link": "https://huggingface.co/nvidia/Qwen3.8-Flash-Next-NVFP4",
-          "date": "2026-09-12",
-          "source": "HuggingFace",
-          "description": "• Qwen3.8-Flash-Next-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.8-Flash-Next-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/Qwen3.8-Flash-Next-NVFP4",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-Vision-Exp",
           "date": "2026-09-12",
@@ -288,6 +311,19 @@
           "category": "AI Model"
         },
         {
+          "title": "nvidia/Qwen3.8-Flash-Next-NVFP4",
+          "link": "https://huggingface.co/nvidia/Qwen3.8-Flash-Next-NVFP4",
+          "date": "2026-09-12",
+          "source": "HuggingFace",
+          "description": "• Qwen3.8-Flash-Next-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.8-Flash-Next-NVFP4 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/Qwen3.8-Flash-Next-NVFP4",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "sentence-transformers/all-MiniLM-L6-v2",
           "link": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
           "date": "2026-09-12",
@@ -304,8 +340,20 @@
     },
     {
       "date": "2026-09-11",
-      "update_time": "2026-09-11 22:52:57",
+      "update_time": "2026-09-12 02:04:38",
       "news": [
+        {
+          "title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+          "link": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+          "date": "2026-09-11",
+          "source": "TechCrunch",
+          "description": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2082335389.jpg?resize=1200,857",
+          "is_english": true,
+          "original_title": "Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data",
+          "original_summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A.",
+          "summary": "The round for the two-year-old startup is coming together months after Mecka announced its Series A."
+        },
         {
           "title": "한전KDN, 에이치투와 에너지ICT·차세대 배터리 결합으로 차세대전력망 시장 선도",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215179",
