@@ -20,8 +20,44 @@
     },
     {
       "date": "2026-09-13",
-      "update_time": "2026-09-12 19:51:19",
+      "update_time": "2026-09-12 22:42:54",
       "news": [
+        {
+          "title": "'반도체 인재 키우자'…전남광주 대학가, 관련 학과신설 봇물",
+          "link": "https://www.yna.co.kr/view/AKR20260911145300054",
+          "date": "2026-09-13",
+          "source": "연합뉴스",
+          "description": "(전남광주=연합뉴스) 장아름 기자 = 정부와 세계적 기업들의 호남권 반도체·인공지능(AI) 클러스터 조성 계획이 가시화되면서 지역 대학들도 인재...",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/07/30/PYH2026073016360001300_P2.jpg",
+          "is_english": false,
+          "original_title": "'반도체 인재 키우자'…전남광주 대학가, 관련 학과신설 봇물",
+          "original_summary": "(전남광주=연합뉴스) 장아름 기자 = 정부와 세계적 기업들의 호남권 반도체·인공지능(AI) 클러스터 조성 계획이 가시화되면서 지역 대학들도 인재...",
+          "summary": "(전남광주=연합뉴스) 장아름 기자 = 정부와 세계적 기업들의 호남권 반도체·인공지능(AI) 클러스터 조성 계획이 가시화되면서 지역 대학들도 인재..."
+        },
+        {
+          "title": "경기도, '부동산 콘퍼런스' 15일 개최…AI 활용 등 논의",
+          "link": "https://www.yna.co.kr/view/AKR20260911115700061",
+          "date": "2026-09-13",
+          "source": "연합뉴스",
+          "description": "(수원=연합뉴스) 최종호 기자 = 경기도는 &apos;경기 부동산 콘퍼런스 2026&apos;을 오는 15일 경기도청 1층 다산홀에서 개최한다고 13일 밝혔다.\n",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/11/AKR20260911115700061_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "경기도, '부동산 콘퍼런스' 15일 개최…AI 활용 등 논의",
+          "original_summary": "(수원=연합뉴스) 최종호 기자 = 경기도는 &apos;경기 부동산 콘퍼런스 2026&apos;을 오는 15일 경기도청 1층 다산홀에서 개최한다고 13일 밝혔다.\n",
+          "summary": "(수원=연합뉴스) 최종호 기자 = 경기도는 &apos;경기 부동산 콘퍼런스 2026&apos;을 오는 15일 경기도청 1층 다산홀에서 개최한다고 13일 밝혔다.\n"
+        },
+        {
+          "title": "AI 시대 개인정보 어디까지 털리나…OTT·미용까지 뚫렸다",
+          "link": "https://www.yna.co.kr/view/AKR20260911145600017",
+          "date": "2026-09-13",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 한상용 오지은 기자 = 통신·카드·이커머스에서 시작된 개인정보 유출 사태가 올해 들어서는 OTT·의료·결제·미용·콘텐츠 플랫폼...",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/03/PYH2026090314070001300_P2.jpg",
+          "is_english": false,
+          "original_title": "AI 시대 개인정보 어디까지 털리나…OTT·미용까지 뚫렸다",
+          "original_summary": "(서울=연합뉴스) 한상용 오지은 기자 = 통신·카드·이커머스에서 시작된 개인정보 유출 사태가 올해 들어서는 OTT·의료·결제·미용·콘텐츠 플랫폼...",
+          "summary": "(서울=연합뉴스) 한상용 오지은 기자 = 통신·카드·이커머스에서 시작된 개인정보 유출 사태가 올해 들어서는 OTT·의료·결제·미용·콘텐츠 플랫폼..."
+        },
         {
           "title": "deepseek-ai/DeepSeek-V4.1-Flash",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
@@ -88,19 +124,6 @@
           "category": "AI Model"
         },
         {
-          "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-          "link": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-          "date": "2026-09-13",
-          "source": "HuggingFace",
-          "description": "• Qwen3.8-27B-GSQ-RCO-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/arXiv-GSQ_2604.18556-b31b1b?logo=arxiv&logoColor=white",
-          "is_english": true,
-          "summary": "• Qwen3.8-27B-GSQ-RCO-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nex-agi/Nex-N2.5-Pro",
           "link": "https://huggingface.co/nex-agi/Nex-N2.5-Pro",
           "date": "2026-09-13",
@@ -110,6 +133,19 @@
           "is_english": true,
           "summary": "• Nex-N2.5-Pro 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nex-agi/Nex-N2.5-Pro",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+          "link": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+          "date": "2026-09-13",
+          "source": "HuggingFace",
+          "description": "• Qwen3.8-27B-GSQ-RCO-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/arXiv-GSQ_2604.18556-b31b1b?logo=arxiv&logoColor=white",
+          "is_english": true,
+          "summary": "• Qwen3.8-27B-GSQ-RCO-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -231,15 +267,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.8-Flash-Next",
-          "link": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+          "title": "sentence-transformers/all-MiniLM-L6-v2",
+          "link": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
           "date": "2026-09-13",
           "source": "HuggingFace",
-          "description": "• Qwen3.8-Flash-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3.8-Flash-Next/architecture.png",
+          "description": "• all-MiniLM-L6-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
           "is_english": true,
-          "summary": "• Qwen3.8-Flash-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.8-Flash-Next",
+          "summary": "• all-MiniLM-L6-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "sentence-transformers/all-MiniLM-L6-v2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -257,15 +293,15 @@
           "category": "AI Model"
         },
         {
-          "title": "sentence-transformers/all-MiniLM-L6-v2",
-          "link": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
+          "title": "Qwen/Qwen3.8-Flash-Next",
+          "link": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
           "date": "2026-09-13",
           "source": "HuggingFace",
-          "description": "• all-MiniLM-L6-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "description": "• Qwen3.8-Flash-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3.8-Flash-Next/architecture.png",
           "is_english": true,
-          "summary": "• all-MiniLM-L6-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "sentence-transformers/all-MiniLM-L6-v2",
+          "summary": "• Qwen3.8-Flash-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.8-Flash-Next",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -286,8 +322,20 @@
     },
     {
       "date": "2026-09-12",
-      "update_time": "2026-09-12 17:32:04",
+      "update_time": "2026-09-12 22:42:54",
       "news": [
+        {
+          "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+          "link": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026/",
+          "date": "2026-09-12",
+          "source": "TechCrunch",
+          "description": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2198353376.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+          "original_summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+          "summary": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman."
+        },
         {
           "title": "Anthropic CEO outlines plan to ‘pace the frontier’",
           "link": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
