@@ -20,7 +20,7 @@
     },
     {
       "date": "2026-09-13",
-      "update_time": "2026-09-12 17:32:04",
+      "update_time": "2026-09-12 19:51:19",
       "news": [
         {
           "title": "deepseek-ai/DeepSeek-V4.1-Flash",
@@ -114,19 +114,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Lightricks/LTX-2.5",
-          "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-09-13",
-          "source": "HuggingFace",
-          "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Lightricks/LTX-2.5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Edge0/Edge0-35B-A3B-preview",
           "link": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
           "date": "2026-09-13",
@@ -136,6 +123,19 @@
           "is_english": true,
           "summary": "• Edge0-35B-A3B-preview 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Edge0/Edge0-35B-A3B-preview",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Lightricks/LTX-2.5",
+          "link": "https://huggingface.co/Lightricks/LTX-2.5",
+          "date": "2026-09-13",
+          "source": "HuggingFace",
+          "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Lightricks/LTX-2.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -192,19 +192,6 @@
           "category": "AI Model"
         },
         {
-          "title": "google/timesfm-3.0-pytorch",
-          "link": "https://huggingface.co/google/timesfm-3.0-pytorch",
-          "date": "2026-09-13",
-          "source": "HuggingFace",
-          "description": "• timesfm-3.0-pytorch 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• timesfm-3.0-pytorch 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/timesfm-3.0-pytorch",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
           "link": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
           "date": "2026-09-13",
@@ -214,6 +201,19 @@
           "is_english": true,
           "summary": "• Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "google/timesfm-3.0-pytorch",
+          "link": "https://huggingface.co/google/timesfm-3.0-pytorch",
+          "date": "2026-09-13",
+          "source": "HuggingFace",
+          "description": "• timesfm-3.0-pytorch 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• timesfm-3.0-pytorch 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/timesfm-3.0-pytorch",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -7038,7 +7038,7 @@
         {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "date": "2026-09-05",
+          "date": "2026-09-13",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -7051,7 +7051,7 @@
         {
           "title": "Qwen/Qwen3.8-Flash-Next",
           "link": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
-          "date": "2026-09-05",
+          "date": "2026-09-13",
           "source": "HuggingFace",
           "description": "• Qwen3.8-Flash-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3.8-Flash-Next/architecture.png",
@@ -7064,7 +7064,7 @@
         {
           "title": "zai-org/GLM-5.3-Flash",
           "link": "https://huggingface.co/zai-org/GLM-5.3-Flash",
-          "date": "2026-09-05",
+          "date": "2026-09-13",
           "source": "HuggingFace",
           "description": "• GLM-5.3-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_53.png",
@@ -7077,7 +7077,7 @@
         {
           "title": "XHToken/Spark-X2.5-4B",
           "link": "https://huggingface.co/XHToken/Spark-X2.5-4B",
-          "date": "2026-09-05",
+          "date": "2026-09-13",
           "source": "HuggingFace",
           "description": "• Spark-X2.5-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/Slack-Join-4A154B?logo=slack&logoColor=white",
@@ -7103,7 +7103,7 @@
         {
           "title": "google/timesfm-3.0-pytorch",
           "link": "https://huggingface.co/google/timesfm-3.0-pytorch",
-          "date": "2026-09-05",
+          "date": "2026-09-13",
           "source": "HuggingFace",
           "description": "• timesfm-3.0-pytorch 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -7116,7 +7116,7 @@
         {
           "title": "Lightricks/LTX-2.5",
           "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-09-05",
+          "date": "2026-09-13",
           "source": "HuggingFace",
           "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -7129,7 +7129,7 @@
         {
           "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
           "link": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-          "date": "2026-09-05",
+          "date": "2026-09-13",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B-GSQ-RCO-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/arXiv-GSQ_2604.18556-b31b1b?logo=arxiv&logoColor=white",
@@ -7142,7 +7142,7 @@
         {
           "title": "unsloth/Qwen3.8-27B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
-          "date": "2026-09-05",
+          "date": "2026-09-13",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
@@ -7168,7 +7168,7 @@
         {
           "title": "MiniMaxAI/MiniMax-H3",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
-          "date": "2026-09-05",
+          "date": "2026-09-13",
           "source": "HuggingFace",
           "description": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/MiniMaxAI/MiniMax-H3/resolve/main/assets/minimax-h3.png",
@@ -7194,7 +7194,7 @@
         {
           "title": "sentence-transformers/all-MiniLM-L6-v2",
           "link": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-          "date": "2026-09-05",
+          "date": "2026-09-13",
           "source": "HuggingFace",
           "description": "• all-MiniLM-L6-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
