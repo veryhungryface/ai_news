@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-09-14",
-      "update_time": "2026-09-13 20:00:01",
+      "update_time": "2026-09-13 22:43:35",
       "news": [
+        {
+          "title": "AI건축·한옥 미래상은…서울건축문화제 연계 도시건축학교 특강",
+          "link": "https://www.yna.co.kr/view/AKR20260913016200004",
+          "date": "2026-09-14",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 김준태 기자 = 서울시는 오는 15일부터 진행되는 &apos;제18회 서울건축문화제&apos;에 맞춰 시민 대상 도시·건축 교육 프로그램 &apos;서울...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/13/AKR20260913016200004_02_i_P2.jpg",
+          "is_english": false,
+          "original_title": "AI건축·한옥 미래상은…서울건축문화제 연계 도시건축학교 특강",
+          "original_summary": "(서울=연합뉴스) 김준태 기자 = 서울시는 오는 15일부터 진행되는 &apos;제18회 서울건축문화제&apos;에 맞춰 시민 대상 도시·건축 교육 프로그램 &apos;서울...",
+          "summary": "(서울=연합뉴스) 김준태 기자 = 서울시는 오는 15일부터 진행되는 &apos;제18회 서울건축문화제&apos;에 맞춰 시민 대상 도시·건축 교육 프로그램 &apos;서울..."
+        },
         {
           "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
           "link": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
@@ -186,19 +198,6 @@
           "category": "AI Model"
         },
         {
-          "title": "dealignai/GLM-5.3-CYBERSECURITY-FP8",
-          "link": "https://huggingface.co/dealignai/GLM-5.3-CYBERSECURITY-FP8",
-          "date": "2026-09-14",
-          "source": "HuggingFace",
-          "description": "• GLM-5.3-CYBERSECURITY-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/dealignai/GLM-5.3-CYBERSECURITY-FP8/resolve/main/dealign_mascot.png",
-          "is_english": true,
-          "summary": "• GLM-5.3-CYBERSECURITY-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "dealignai/GLM-5.3-CYBERSECURITY-FP8",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "google/timesfm-3.0-pytorch",
           "link": "https://huggingface.co/google/timesfm-3.0-pytorch",
           "date": "2026-09-14",
@@ -208,6 +207,19 @@
           "is_english": true,
           "summary": "• timesfm-3.0-pytorch 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "google/timesfm-3.0-pytorch",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "dealignai/GLM-5.3-CYBERSECURITY-FP8",
+          "link": "https://huggingface.co/dealignai/GLM-5.3-CYBERSECURITY-FP8",
+          "date": "2026-09-14",
+          "source": "HuggingFace",
+          "description": "• GLM-5.3-CYBERSECURITY-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/dealignai/GLM-5.3-CYBERSECURITY-FP8/resolve/main/dealign_mascot.png",
+          "is_english": true,
+          "summary": "• GLM-5.3-CYBERSECURITY-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "dealignai/GLM-5.3-CYBERSECURITY-FP8",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -264,15 +276,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.8-Flash-Next",
-          "link": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+          "title": "tencent/AuK",
+          "link": "https://huggingface.co/tencent/AuK",
           "date": "2026-09-14",
           "source": "HuggingFace",
-          "description": "• Qwen3.8-Flash-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3.8-Flash-Next/architecture.png",
+          "description": "• AuK 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/🌐_Website-AuK-1a73e8",
           "is_english": true,
-          "summary": "• Qwen3.8-Flash-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.8-Flash-Next",
+          "summary": "• AuK 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "tencent/AuK",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
