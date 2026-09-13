@@ -20,8 +20,20 @@
     },
     {
       "date": "2026-09-13",
-      "update_time": "2026-09-13 07:45:18",
+      "update_time": "2026-09-13 13:32:10",
       "news": [
+        {
+          "title": "'가상 초파리' 뇌 시뮬레이션 이색 시도 열풍…‘파리 언어모델'까지 등장",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215207",
+          "date": "2026-09-13",
+          "source": "AI타임스",
+          "description": "과학계가 성체 초파리의 전체 신경망(커넥톰) 시뮬레이션 모델을 오픈소스로 공개하자, 글로벌 개발자 커뮤니티에서 이를 활용한 기발하고 다채로운 실험이 쏟아지고 있다. 16만6700개의 가상 뉴런과 2500만여개의 신경 교착점을 갖춘 곤충의 뇌가 디지털 공간에서 고전 게임을 플레이하는 것을 넘어 로봇 제어, 암호화폐 매매, 대형언어모델(LLM) 결합 및 코드 작성에 이르기까지 영역을 넓히는 모습이다.구글 리서치와 하워드 휴즈 의학연구소(HHMI) 자넬리아 연구캠퍼스 공동 연구진은 지난 3일(현지시간) 성체 수컷 초파리의 뇌와 중추신경계",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215207_219006_1614.png",
+          "is_english": false,
+          "original_title": "'가상 초파리' 뇌 시뮬레이션 이색 시도 열풍…‘파리 언어모델'까지 등장",
+          "original_summary": "과학계가 성체 초파리의 전체 신경망(커넥톰) 시뮬레이션 모델을 오픈소스로 공개하자, 글로벌 개발자 커뮤니티에서 이를 활용한 기발하고 다채로운 실험이 쏟아지고 있다. 16만6700개의 가상 뉴런과 2500만여개의 신경 교착점을 갖춘 곤충의 뇌가 디지털 공간에서 고전 게임을 플레이하는 것을 넘어 로봇 제어, 암호화폐 매매, 대형언어모델(LLM) 결합 및 코드 작성에 이르기까지 영역을 넓히는 모습이다.구글 리서치와 하워드 휴즈 의학연구소(HHMI) 자넬리아 연구캠퍼스 공동 연구진은 지난 3일(현지시간) 성체 수컷 초파리의 뇌와 중추신경계",
+          "summary": "과학계가 성체 초파리의 전체 신경망(커넥톰) 시뮬레이션 모델을 오픈소스로 공개하자, 글로벌 개발자 커뮤니티에서 이를 활용한 기발하고 다채로운 실험이 쏟아지고 있다. 16만6700개의 가상 뉴런과 2500만여개의 신경 교착점을 갖춘 곤충의 뇌가 디지털 공간에서 고전 게임을 플레이하는 것을 넘어 로봇 제어, 암호화폐 매매, 대형언어모델(LLM) 결합 및 코드 작성에 이르기까지 영역을 넓히는 모습이다.구글 리서치와 하워드 휴즈 의학연구소(HHMI) 자넬리아 연구캠퍼스 공동 연구진은 지난 3일(현지시간) 성체 수컷 초파리의 뇌와 중추신경계"
+        },
         {
           "title": "'통증, 스마트폰 원격 관리 가능'…붙이는 마이크로니들 전자약 개발",
           "link": "https://www.yna.co.kr/view/AKR20260911112200063",
@@ -301,19 +313,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nex-agi/Nex-N2.5-mini",
-          "link": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
-          "date": "2026-09-13",
-          "source": "HuggingFace",
-          "description": "• Nex-N2.5-mini 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/nex-agi/Nex-N2.5-mini/resolve/main/./figures/NEX_logo.svg",
-          "is_english": true,
-          "summary": "• Nex-N2.5-mini 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nex-agi/Nex-N2.5-mini",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Edge0/Edge0-35B-A3B-preview",
           "link": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
           "date": "2026-09-13",
@@ -323,6 +322,19 @@
           "is_english": true,
           "summary": "• Edge0-35B-A3B-preview 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Edge0/Edge0-35B-A3B-preview",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nex-agi/Nex-N2.5-mini",
+          "link": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
+          "date": "2026-09-13",
+          "source": "HuggingFace",
+          "description": "• Nex-N2.5-mini 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/nex-agi/Nex-N2.5-mini/resolve/main/./figures/NEX_logo.svg",
+          "is_english": true,
+          "summary": "• Nex-N2.5-mini 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nex-agi/Nex-N2.5-mini",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -392,19 +404,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.8-27B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
-          "date": "2026-09-13",
-          "source": "HuggingFace",
-          "description": "• Qwen3.8-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
-          "is_english": true,
-          "summary": "• Qwen3.8-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Qwen3.8-27B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "m-a-p/YuE2-3B",
           "link": "https://huggingface.co/m-a-p/YuE2-3B",
           "date": "2026-09-13",
@@ -418,15 +417,15 @@
           "category": "AI Model"
         },
         {
-          "title": "WarmBloodAban/Minimax-h3_Singularity",
-          "link": "https://huggingface.co/WarmBloodAban/Minimax-h3_Singularity",
+          "title": "unsloth/Qwen3.8-27B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
           "date": "2026-09-13",
           "source": "HuggingFace",
-          "description": "• Minimax-h3_Singularity 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/🚀_Online_Demo-RunningHub-blue.svg",
+          "description": "• Qwen3.8-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
           "is_english": true,
-          "summary": "• Minimax-h3_Singularity 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "WarmBloodAban/Minimax-h3_Singularity",
+          "summary": "• Qwen3.8-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Qwen3.8-27B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -440,6 +439,19 @@
           "is_english": true,
           "summary": "• Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "WarmBloodAban/Minimax-h3_Singularity",
+          "link": "https://huggingface.co/WarmBloodAban/Minimax-h3_Singularity",
+          "date": "2026-09-13",
+          "source": "HuggingFace",
+          "description": "• Minimax-h3_Singularity 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/🚀_Online_Demo-RunningHub-blue.svg",
+          "is_english": true,
+          "summary": "• Minimax-h3_Singularity 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "WarmBloodAban/Minimax-h3_Singularity",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -470,19 +482,6 @@
           "category": "AI Model"
         },
         {
-          "title": "MiniMaxAI/MiniMax-H3",
-          "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
-          "date": "2026-09-13",
-          "source": "HuggingFace",
-          "description": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/MiniMaxAI/MiniMax-H3/resolve/main/assets/minimax-h3.png",
-          "is_english": true,
-          "summary": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "MiniMaxAI/MiniMax-H3",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "sentence-transformers/all-MiniLM-L6-v2",
           "link": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
           "date": "2026-09-13",
@@ -492,6 +491,19 @@
           "is_english": true,
           "summary": "• all-MiniLM-L6-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "sentence-transformers/all-MiniLM-L6-v2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-H3",
+          "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+          "date": "2026-09-13",
+          "source": "HuggingFace",
+          "description": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/MiniMaxAI/MiniMax-H3/resolve/main/assets/minimax-h3.png",
+          "is_english": true,
+          "summary": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "MiniMaxAI/MiniMax-H3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -509,6 +521,19 @@
           "category": "AI Model"
         },
         {
+          "title": "openai-community/gpt2",
+          "link": "https://huggingface.co/openai-community/gpt2",
+          "date": "2026-09-13",
+          "source": "HuggingFace",
+          "description": "• gpt2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• gpt2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "openai-community/gpt2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Qwen/Qwen3.8-Flash-Next",
           "link": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
           "date": "2026-09-13",
@@ -518,19 +543,6 @@
           "is_english": true,
           "summary": "• Qwen3.8-Flash-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.8-Flash-Next",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "zai-org/GLM-5.3-Flash",
-          "link": "https://huggingface.co/zai-org/GLM-5.3-Flash",
-          "date": "2026-09-13",
-          "source": "HuggingFace",
-          "description": "• GLM-5.3-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/zai-org/GLM-5/refs/heads/main/resources/bench_53.png",
-          "is_english": true,
-          "summary": "• GLM-5.3-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "zai-org/GLM-5.3-Flash",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -7471,7 +7483,7 @@
         {
           "title": "openai-community/gpt2",
           "link": "https://huggingface.co/openai-community/gpt2",
-          "date": "2026-09-05",
+          "date": "2026-09-13",
           "source": "HuggingFace",
           "description": "• gpt2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
