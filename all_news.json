@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-09-14",
-      "update_time": "2026-09-13 17:47:24",
+      "update_time": "2026-09-13 20:00:01",
       "news": [
         {
           "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
@@ -121,19 +121,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Lightricks/LTX-2.5",
-          "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-09-14",
-          "source": "HuggingFace",
-          "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Lightricks/LTX-2.5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "m-a-p/YuE2-3B",
           "link": "https://huggingface.co/m-a-p/YuE2-3B",
           "date": "2026-09-14",
@@ -143,6 +130,19 @@
           "is_english": true,
           "summary": "• YuE2-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "m-a-p/YuE2-3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Lightricks/LTX-2.5",
+          "link": "https://huggingface.co/Lightricks/LTX-2.5",
+          "date": "2026-09-14",
+          "source": "HuggingFace",
+          "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Lightricks/LTX-2.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -280,8 +280,20 @@
     },
     {
       "date": "2026-09-13",
-      "update_time": "2026-09-13 17:47:24",
+      "update_time": "2026-09-13 20:00:00",
       "news": [
+        {
+          "title": "What’s behind the AI industry’s latest warnings of doom?",
+          "link": "https://techcrunch.com/2026/09/13/whats-behind-the-ai-industrys-latest-warnings-of-doom/",
+          "date": "2026-09-13",
+          "source": "TechCrunch",
+          "description": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2233466982.jpg?resize=1200,821",
+          "is_english": true,
+          "original_title": "What’s behind the AI industry’s latest warnings of doom?",
+          "original_summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity.",
+          "summary": "On Equity, we discussed the AI industry's latest debate about whether it poses an existential threat to humanity."
+        },
         {
           "title": "Obama urges Democrats to have a ‘clear plan’ for AI safeguards",
           "link": "https://techcrunch.com/2026/09/13/obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards/",
