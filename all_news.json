@@ -2,8 +2,44 @@
   "dates": [
     {
       "date": "2026-09-17",
-      "update_time": "2026-09-16 18:33:07",
+      "update_time": "2026-09-16 23:23:28",
       "news": [
+        {
+          "title": "[9월16일] ‘AI 속도 조절’은 투자의 후퇴인가… 월가의 엇갈린 셈법",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215331",
+          "date": "2026-09-17",
+          "source": "AI타임스",
+          "description": "AI 업계에서 ‘속도를 늦추자’는 목소리가 나온 직후 글로벌 증시가 크게 흔들렸습니다. 첫날인 14일 국내 코스피는 3.26% 떨어졌고, 삼성전자와 SK하이닉스도 4~6%대 급락했습니다. 미국에서도 엔비디아를 비롯한 반도체주가 밀리면서 필라델피아 반도체 지수가 5.9% 하락했습니다.한국 증시는 다음 날에도 약세를 이어갔습니다. 15일 코스피는 0.85% 추가 하락했고, 삼성전자와 SK하이닉스는 각각 0.20%, 0.41% 내렸습니다. 중국 상하이종합지수와 대만 가권지수, 홍콩 항셍지수도 하락했지만, 일본 닛케이는 거의 보합에 머물렀",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215331_219138_3840.png",
+          "is_english": false,
+          "original_title": "[9월16일] ‘AI 속도 조절’은 투자의 후퇴인가… 월가의 엇갈린 셈법",
+          "original_summary": "AI 업계에서 ‘속도를 늦추자’는 목소리가 나온 직후 글로벌 증시가 크게 흔들렸습니다. 첫날인 14일 국내 코스피는 3.26% 떨어졌고, 삼성전자와 SK하이닉스도 4~6%대 급락했습니다. 미국에서도 엔비디아를 비롯한 반도체주가 밀리면서 필라델피아 반도체 지수가 5.9% 하락했습니다.한국 증시는 다음 날에도 약세를 이어갔습니다. 15일 코스피는 0.85% 추가 하락했고, 삼성전자와 SK하이닉스는 각각 0.20%, 0.41% 내렸습니다. 중국 상하이종합지수와 대만 가권지수, 홍콩 항셍지수도 하락했지만, 일본 닛케이는 거의 보합에 머물렀",
+          "summary": "AI 업계에서 ‘속도를 늦추자’는 목소리가 나온 직후 글로벌 증시가 크게 흔들렸습니다. 첫날인 14일 국내 코스피는 3.26% 떨어졌고, 삼성전자와 SK하이닉스도 4~6%대 급락했습니다. 미국에서도 엔비디아를 비롯한 반도체주가 밀리면서 필라델피아 반도체 지수가 5.9% 하락했습니다.한국 증시는 다음 날에도 약세를 이어갔습니다. 15일 코스피는 0.85% 추가 하락했고, 삼성전자와 SK하이닉스는 각각 0.20%, 0.41% 내렸습니다. 중국 상하이종합지수와 대만 가권지수, 홍콩 항셍지수도 하락했지만, 일본 닛케이는 거의 보합에 머물렀"
+        },
+        {
+          "title": "Our framework for reporting model misalignment",
+          "link": "https://openai.com/index/model-misalignment-reporting-framework",
+          "date": "2026-09-17",
+          "source": "OpenAI",
+          "description": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Our framework for reporting model misalignment",
+          "original_summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior.",
+          "summary": "OpenAI shares a framework for tracking, investigating, and disclosing model misalignment, alongside six reports of unexpected or concerning model behavior."
+        },
+        {
+          "title": "Agility Unveils Digit 5, a Safety-Conscious Humanoid",
+          "link": "https://aibusiness.com/robotics/agility-unveils-digit-5-safety-conscious-humanoid",
+          "date": "2026-09-17",
+          "source": "AI Business",
+          "description": "The robot maker says its latest humanoid is designed to work alongside people, but analysts warn that industrywide safety standards remain underdeveloped.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt09a2d50a969d694a/6aab0471e6ac8400db172a46/Agility.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Agility Unveils Digit 5, a Safety-Conscious Humanoid",
+          "original_summary": "The robot maker says its latest humanoid is designed to work alongside people, but analysts warn that industrywide safety standards remain underdeveloped.",
+          "summary": "The robot maker says its latest humanoid is designed to work alongside people, but analysts warn that industrywide safety standards remain underdeveloped."
+        },
         {
           "title": "Helping older adults use AI in everyday life",
           "link": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
@@ -55,15 +91,15 @@
           "category": "AI Model"
         },
         {
-          "title": "openbmb/MiniCPM5-2B",
-          "link": "https://huggingface.co/openbmb/MiniCPM5-2B",
+          "title": "m-a-p/YuE2-3B",
+          "link": "https://huggingface.co/m-a-p/YuE2-3B",
           "date": "2026-09-17",
           "source": "HuggingFace",
-          "description": "• MiniCPM5-2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/OpenBMB/MiniCPM/main/assets/minicpm_logo.png",
+          "description": "• YuE2-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/m-a-p/YuE2-3B/resolve/main/assets/logo.png",
           "is_english": true,
-          "summary": "• MiniCPM5-2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "openbmb/MiniCPM5-2B",
+          "summary": "• YuE2-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "m-a-p/YuE2-3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -81,15 +117,15 @@
           "category": "AI Model"
         },
         {
-          "title": "m-a-p/YuE2-3B",
-          "link": "https://huggingface.co/m-a-p/YuE2-3B",
+          "title": "openbmb/MiniCPM5-2B",
+          "link": "https://huggingface.co/openbmb/MiniCPM5-2B",
           "date": "2026-09-17",
           "source": "HuggingFace",
-          "description": "• YuE2-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/m-a-p/YuE2-3B/resolve/main/assets/logo.png",
+          "description": "• MiniCPM5-2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://raw.githubusercontent.com/OpenBMB/MiniCPM/main/assets/minicpm_logo.png",
           "is_english": true,
-          "summary": "• YuE2-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "m-a-p/YuE2-3B",
+          "summary": "• MiniCPM5-2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "openbmb/MiniCPM5-2B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -146,19 +182,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.8-27B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
-          "date": "2026-09-17",
-          "source": "HuggingFace",
-          "description": "• Qwen3.8-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
-          "is_english": true,
-          "summary": "• Qwen3.8-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Qwen3.8-27B-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
           "link": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
           "date": "2026-09-17",
@@ -168,6 +191,19 @@
           "is_english": true,
           "summary": "• Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/Qwen3.8-27B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+          "date": "2026-09-17",
+          "source": "HuggingFace",
+          "description": "• Qwen3.8-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "is_english": true,
+          "summary": "• Qwen3.8-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Qwen3.8-27B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -211,19 +247,6 @@
           "category": "AI Model"
         },
         {
-          "title": "WarmBloodAban/Minimax-h3_Singularity",
-          "link": "https://huggingface.co/WarmBloodAban/Minimax-h3_Singularity",
-          "date": "2026-09-17",
-          "source": "HuggingFace",
-          "description": "• Minimax-h3_Singularity 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/🚀_Online_Demo-RunningHub-blue.svg",
-          "is_english": true,
-          "summary": "• Minimax-h3_Singularity 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "WarmBloodAban/Minimax-h3_Singularity",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "MiniMaxAI/MiniMax-H3",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
           "date": "2026-09-17",
@@ -250,15 +273,15 @@
           "category": "AI Model"
         },
         {
-          "title": "openai-community/gpt2",
-          "link": "https://huggingface.co/openai-community/gpt2",
+          "title": "WarmBloodAban/Minimax-h3_Singularity",
+          "link": "https://huggingface.co/WarmBloodAban/Minimax-h3_Singularity",
           "date": "2026-09-17",
           "source": "HuggingFace",
-          "description": "• gpt2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• Minimax-h3_Singularity 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/🚀_Online_Demo-RunningHub-blue.svg",
           "is_english": true,
-          "summary": "• gpt2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "openai-community/gpt2",
+          "summary": "• Minimax-h3_Singularity 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "WarmBloodAban/Minimax-h3_Singularity",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -272,6 +295,19 @@
           "is_english": true,
           "summary": "• Qwen3.8-Flash-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.8-Flash-Next",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "openai-community/gpt2",
+          "link": "https://huggingface.co/openai-community/gpt2",
+          "date": "2026-09-17",
+          "source": "HuggingFace",
+          "description": "• gpt2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• gpt2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "openai-community/gpt2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -292,8 +328,44 @@
     },
     {
       "date": "2026-09-16",
-      "update_time": "2026-09-16 18:33:07",
+      "update_time": "2026-09-16 23:23:28",
       "news": [
+        {
+          "title": "How to connect AI usage to business value",
+          "link": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+          "date": "2026-09-16",
+          "source": "OpenAI",
+          "description": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+          "image": null,
+          "is_english": true,
+          "original_title": "How to connect AI usage to business value",
+          "original_summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes.",
+          "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes."
+        },
+        {
+          "title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+          "link": "https://techcrunch.com/2026/09/16/anthropic-and-openai-want-to-embed-safety-evaluators-will-they-really-be-independent/",
+          "date": "2026-09-16",
+          "source": "TechCrunch",
+          "description": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261514463.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?",
+          "original_summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation.",
+          "summary": "Anthropic and OpenAI want to embed independent safety evaluators inside their AI labs. Researchers welcome the unprecedented access, but warn meaningful oversight requires transparency, independence, and eventually regulation."
+        },
+        {
+          "title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+          "link": "https://techcrunch.com/2026/09/16/after-accusations-of-selling-perv-glasses-meta-prepares-to-sell-a-pair-without-a-camera/",
+          "date": "2026-09-16",
+          "source": "TechCrunch",
+          "description": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product? ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/zuck-glasses-2173579471-e1788354102893.jpg?resize=1200,761",
+          "is_english": true,
+          "original_title": "After accusations of selling ‘perv glasses,’ Meta prepares to sell a pair without a camera",
+          "original_summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product? ",
+          "summary": "Can Meta dodge the \"pervert glasses\" accusations with a new camera-free product? "
+        },
         {
           "title": "넘즈AI, 정형 데이터 모델 '코실로' 탭아레나 세계 1위 차지",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215363",
@@ -8545,7 +8617,7 @@
         {
           "title": "XHToken/Spark-X2.5-4B",
           "link": "https://huggingface.co/XHToken/Spark-X2.5-4B",
-          "date": "2026-09-08",
+          "date": "2026-09-17",
           "source": "HuggingFace",
           "description": "• Spark-X2.5-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/Slack-Join-4A154B?logo=slack&logoColor=white",
@@ -8558,7 +8630,7 @@
         {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "date": "2026-09-08",
+          "date": "2026-09-17",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -8571,7 +8643,7 @@
         {
           "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
           "link": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-          "date": "2026-09-08",
+          "date": "2026-09-17",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B-GSQ-RCO-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/arXiv-GSQ_2604.18556-b31b1b?logo=arxiv&logoColor=white",
@@ -8610,7 +8682,7 @@
         {
           "title": "Lightricks/LTX-2.5",
           "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-09-08",
+          "date": "2026-09-17",
           "source": "HuggingFace",
           "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -8623,7 +8695,7 @@
         {
           "title": "Qwen/Qwen3.8-Flash-Next",
           "link": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
-          "date": "2026-09-08",
+          "date": "2026-09-17",
           "source": "HuggingFace",
           "description": "• Qwen3.8-Flash-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3.8-Flash-Next/architecture.png",
@@ -8636,7 +8708,7 @@
         {
           "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
           "link": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-          "date": "2026-09-08",
+          "date": "2026-09-17",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF/resolve/main/star-wars-hans-solo.gif",
@@ -8662,7 +8734,7 @@
         {
           "title": "unsloth/Qwen3.8-27B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
-          "date": "2026-09-08",
+          "date": "2026-09-17",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
@@ -8727,7 +8799,7 @@
         {
           "title": "MiniMaxAI/MiniMax-H3",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
-          "date": "2026-09-08",
+          "date": "2026-09-17",
           "source": "HuggingFace",
           "description": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/MiniMaxAI/MiniMax-H3/resolve/main/assets/minimax-h3.png",
@@ -8753,7 +8825,7 @@
         {
           "title": "sentence-transformers/all-MiniLM-L6-v2",
           "link": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2",
-          "date": "2026-09-08",
+          "date": "2026-09-17",
           "source": "HuggingFace",
           "description": "• all-MiniLM-L6-v2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
@@ -8766,7 +8838,7 @@
         {
           "title": "openai-community/gpt2",
           "link": "https://huggingface.co/openai-community/gpt2",
-          "date": "2026-09-08",
+          "date": "2026-09-17",
           "source": "HuggingFace",
           "description": "• gpt2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
