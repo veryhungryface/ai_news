@@ -2,8 +2,176 @@
   "dates": [
     {
       "date": "2026-09-18",
-      "update_time": "2026-09-18 07:44:53",
+      "update_time": "2026-09-18 13:15:38",
       "news": [
+        {
+          "title": "구글, AI 문제 해결에 ‘재귀적 자기개선’ 도입...탐색 비용 162배 절감",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215459",
+          "date": "2026-09-18",
+          "source": "AI타임스",
+          "description": "구글이 AI 에이전트의 문제 해결 과정에 재귀적 자기개선(RSI)을 적용하면서도 탐색에 필요한 실행 비용을 크게 줄이는 새로운 방법을 공개했다. 구글은 17일(현지시간) AI 코딩 및 문제 해결(탐색) 에이전트가 실패한 경로를 반복 실행하며 막대한 연산 비용을 낭비하는 문제를 해결하기 위해, 과거의 경로 탐색 기록을 재사용하는 \\'드림-RSI(Dream-RSI)\\' 시스템을 공개했다.과거 탐색 기록을 일종의 시뮬레이터로 활용해 수천개의 새로운 탐색 전략을 실제 코드 실행 없이 평가하는 것이 핵심이다.RSI는 AI가 문제를 해결하는 과정",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215459_219292_422.png",
+          "is_english": false,
+          "original_title": "구글, AI 문제 해결에 ‘재귀적 자기개선’ 도입...탐색 비용 162배 절감",
+          "original_summary": "구글이 AI 에이전트의 문제 해결 과정에 재귀적 자기개선(RSI)을 적용하면서도 탐색에 필요한 실행 비용을 크게 줄이는 새로운 방법을 공개했다. 구글은 17일(현지시간) AI 코딩 및 문제 해결(탐색) 에이전트가 실패한 경로를 반복 실행하며 막대한 연산 비용을 낭비하는 문제를 해결하기 위해, 과거의 경로 탐색 기록을 재사용하는 \\'드림-RSI(Dream-RSI)\\' 시스템을 공개했다.과거 탐색 기록을 일종의 시뮬레이터로 활용해 수천개의 새로운 탐색 전략을 실제 코드 실행 없이 평가하는 것이 핵심이다.RSI는 AI가 문제를 해결하는 ",
+          "summary": "구글이 AI 에이전트의 문제 해결 과정에 재귀적 자기개선(RSI)을 적용하면서도 탐색에 필요한 실행 비용을 크게 줄이는 새로운 방법을 공개했다. 구글은 17일(현지시간) AI 코딩 및 문제 해결(탐색) 에이전트가 실패한 경로를 반복 실행하며 막대한 연산 비용을 낭비하는 문제를 해결하기 위해, 과거의 경로 탐색 기록을 재사용하는 \\'드림-RSI(Dream-RSI)\\' 시스템을 공개했다.과거 탐색 기록을 일종의 시뮬레이터로 활용해 수천개의 새로운 탐색 전략을 실제 코드 실행 없이 평가하는 것이 핵심이다.RSI는 AI가 문제를 해결하는 "
+        },
+        {
+          "title": "앤드류 응 \"AI 인류 멸종 위협은 SF\"...'공포 마케팅' 일침",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215461",
+          "date": "2026-09-18",
+          "source": "AI타임스",
+          "description": "초지능 AI가 인류를 멸종시킬 수 있다는 경고가 잇따르는 가운데, AI 분야의 개척자로 꼽히는 앤드류 응 스탠포드대학교 교수가 이러한 주장을 강하게 비판했다. 그는 AI의 현실적인 위험에 대해서는 대응해야 하지만, 이를 인류 멸종 위협으로 확대하는 것은 과학적 근거보다 SF에 가깝다고 주장했다.응 교수는 17일(현지시간) 블룸버그TV와의 인터뷰에서 빅테크 기업과 AI 연구진이 AI 붐 초기부터 잠재적인 재앙을 강조하며 과도한 홍보 효과를 누리고, 자신들에게 유리한 규제 환경을 조성하려 했다고 지적했다.그는 최근 다시 AI의 실존적",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215461_219317_1657.png",
+          "is_english": true,
+          "original_title": "앤드류 응 \"AI 인류 멸종 위협은 SF\"...'공포 마케팅' 일침",
+          "original_summary": "초지능 AI가 인류를 멸종시킬 수 있다는 경고가 잇따르는 가운데, AI 분야의 개척자로 꼽히는 앤드류 응 스탠포드대학교 교수가 이러한 주장을 강하게 비판했다. 그는 AI의 현실적인 위험에 대해서는 대응해야 하지만, 이를 인류 멸종 위협으로 확대하는 것은 과학적 근거보다 SF에 가깝다고 주장했다.응 교수는 17일(현지시간) 블룸버그TV와의 인터뷰에서 빅테크 기업과 AI 연구진이 AI 붐 초기부터 잠재적인 재앙을 강조하며 과도한 홍보 효과를 누리고, 자신들에게 유리한 규제 환경을 조성하려 했다고 지적했다.그는 최근 다시 AI의 실존적",
+          "summary": "초지능 AI가 인류를 멸종시킬 수 있다는 경고가 잇따르는 가운데, AI 분야의 개척자로 꼽히는 앤드류 응 스탠포드대학교 교수가 이러한 주장을 강하게 비판했다. 그는 AI의 현실적인 위험에 대해서는 대응해야 하지만, 이를 인류 멸종 위협으로 확대하는 것은 과학적 근거보다 SF에 가깝다고 주장했다.응 교수는 17일(현지시간) 블룸버그TV와의 인터뷰에서 빅테크 기업과 AI 연구진이 AI 붐 초기부터 잠재적인 재앙을 강조하며 과도한 홍보 효과를 누리고, 자신들에게 유리한 규제 환경을 조성하려 했다고 지적했다.그는 최근 다시 AI의 실존적"
+        },
+        {
+          "title": "오픈AI, 또 다른 밀레니엄 수학 문제 '호지 추측' 해결에 근접",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215443",
+          "date": "2026-09-18",
+          "source": "AI타임스",
+          "description": "오픈AI가 밀레니엄 수학 난제 가운데 하나인 ‘나비에-스토크스 존재성과 매끄러움 문제’ 해결에 이어서 또 다른 난제 ‘호지 추측(Hodge Conjecture)’ 해결에 가까워진 것으로 전해졌다. 17일(현지시간) 디 인포메이션에 따르면, 오픈AI는 호지 추측의 해법을 비교적 가까운 시일 내 도출할 수 있을 것으로 기대하고 있다.호지 추측은 다항식 방정식으로 정의되는 도형의 특정 기하학적 특징을 더 단순한 대수적 요소를 이용해 표현할 수 있는지를 묻는 문제다. 2000년 클레이 수학연구소가 선정한 7개의 ‘밀레니엄 수학 문제’ 가운",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215443_219272_1453.jpg",
+          "is_english": false,
+          "original_title": "오픈AI, 또 다른 밀레니엄 수학 문제 '호지 추측' 해결에 근접",
+          "original_summary": "오픈AI가 밀레니엄 수학 난제 가운데 하나인 ‘나비에-스토크스 존재성과 매끄러움 문제’ 해결에 이어서 또 다른 난제 ‘호지 추측(Hodge Conjecture)’ 해결에 가까워진 것으로 전해졌다. 17일(현지시간) 디 인포메이션에 따르면, 오픈AI는 호지 추측의 해법을 비교적 가까운 시일 내 도출할 수 있을 것으로 기대하고 있다.호지 추측은 다항식 방정식으로 정의되는 도형의 특정 기하학적 특징을 더 단순한 대수적 요소를 이용해 표현할 수 있는지를 묻는 문제다. 2000년 클레이 수학연구소가 선정한 7개의 ‘밀레니엄 수학 문제’ 가운",
+          "summary": "오픈AI가 밀레니엄 수학 난제 가운데 하나인 ‘나비에-스토크스 존재성과 매끄러움 문제’ 해결에 이어서 또 다른 난제 ‘호지 추측(Hodge Conjecture)’ 해결에 가까워진 것으로 전해졌다. 17일(현지시간) 디 인포메이션에 따르면, 오픈AI는 호지 추측의 해법을 비교적 가까운 시일 내 도출할 수 있을 것으로 기대하고 있다.호지 추측은 다항식 방정식으로 정의되는 도형의 특정 기하학적 특징을 더 단순한 대수적 요소를 이용해 표현할 수 있는지를 묻는 문제다. 2000년 클레이 수학연구소가 선정한 7개의 ‘밀레니엄 수학 문제’ 가운"
+        },
+        {
+          "title": "스탠포드, 논문을 '대화형 에이전트'로 만드는 프레임워크 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215465",
+          "date": "2026-09-18",
+          "source": "AI타임스",
+          "description": "논문에 포함된 복잡한 분석 코드와 연구 방법을 자동으로 검증하고, 자연어로 실행할 수 있는 대화형 AI 에이전트로 바꾸는 오픈소스 시스템이 등장했다. 스탠포드대학교 연구진은 16일(현지시간) 논문과 코드 저장소를 분석해 연구 방법을 실행 가능한 도구로 변환하는 \\'페이퍼투에이전트(Paper2Agent)\\'를 네이처를 통해 공개했다. 단순히 논문 내용을 요약하는 것을 넘어, 논문에 담긴 연구 방법을 검증 가능한 실행 도구로 바꾼다는 점이 핵심이다.컴퓨터과학이나 바이오메디컬 분야의 연구 논문은 코드가 함께 공개되더라도 일반 연구자가 직접",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215465_219316_5426.png",
+          "is_english": false,
+          "original_title": "스탠포드, 논문을 '대화형 에이전트'로 만드는 프레임워크 공개",
+          "original_summary": "논문에 포함된 복잡한 분석 코드와 연구 방법을 자동으로 검증하고, 자연어로 실행할 수 있는 대화형 AI 에이전트로 바꾸는 오픈소스 시스템이 등장했다. 스탠포드대학교 연구진은 16일(현지시간) 논문과 코드 저장소를 분석해 연구 방법을 실행 가능한 도구로 변환하는 \\'페이퍼투에이전트(Paper2Agent)\\'를 네이처를 통해 공개했다. 단순히 논문 내용을 요약하는 것을 넘어, 논문에 담긴 연구 방법을 검증 가능한 실행 도구로 바꾼다는 점이 핵심이다.컴퓨터과학이나 바이오메디컬 분야의 연구 논문은 코드가 함께 공개되더라도 일반 연구자가 직",
+          "summary": "논문에 포함된 복잡한 분석 코드와 연구 방법을 자동으로 검증하고, 자연어로 실행할 수 있는 대화형 AI 에이전트로 바꾸는 오픈소스 시스템이 등장했다. 스탠포드대학교 연구진은 16일(현지시간) 논문과 코드 저장소를 분석해 연구 방법을 실행 가능한 도구로 변환하는 \\'페이퍼투에이전트(Paper2Agent)\\'를 네이처를 통해 공개했다. 단순히 논문 내용을 요약하는 것을 넘어, 논문에 담긴 연구 방법을 검증 가능한 실행 도구로 바꾼다는 점이 핵심이다.컴퓨터과학이나 바이오메디컬 분야의 연구 논문은 코드가 함께 공개되더라도 일반 연구자가 직"
+        },
+        {
+          "title": "\"낯선 가정서 집안일 척척\"...피규어 AI, 로봇 모델 '헬릭스 2.5' 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215470",
+          "date": "2026-09-18",
+          "source": "AI타임스",
+          "description": "휴머노이드 로봇이 한 번도 방문하지 않은 가정에서도 별도의 환경 적응이나 추가 데이터 수집 없이 집안일을 수행할 수 있다는 실험 결과가 나왔다. 이번 결과는 작업 장소마다 별도로 학습하는 방식에서 벗어나, 인간의 행동 경험을 사전 학습해 실제 환경에 바로 적용하는 방향으로 발전할 가능성을 보여준다.피규어 AI는 17일(현지시간) 인간의 행동 데이터를 대규모로 사전 학습한 신경망 모델을 기반으로 새로운 환경에서도 즉시 작업할 수 있는 \\'제로샷(Zero-Shot)\\' 전신 제어 능력을 구현했다고 밝혔다.이번에 공개한 \\'헬릭스 2.5(He",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215470_219311_437.jpg",
+          "is_english": false,
+          "original_title": "\"낯선 가정서 집안일 척척\"...피규어 AI, 로봇 모델 '헬릭스 2.5' 공개",
+          "original_summary": "휴머노이드 로봇이 한 번도 방문하지 않은 가정에서도 별도의 환경 적응이나 추가 데이터 수집 없이 집안일을 수행할 수 있다는 실험 결과가 나왔다. 이번 결과는 작업 장소마다 별도로 학습하는 방식에서 벗어나, 인간의 행동 경험을 사전 학습해 실제 환경에 바로 적용하는 방향으로 발전할 가능성을 보여준다.피규어 AI는 17일(현지시간) 인간의 행동 데이터를 대규모로 사전 학습한 신경망 모델을 기반으로 새로운 환경에서도 즉시 작업할 수 있는 \\'제로샷(Zero-Shot)\\' 전신 제어 능력을 구현했다고 밝혔다.이번에 공개한 \\'헬릭스 2.5",
+          "summary": "휴머노이드 로봇이 한 번도 방문하지 않은 가정에서도 별도의 환경 적응이나 추가 데이터 수집 없이 집안일을 수행할 수 있다는 실험 결과가 나왔다. 이번 결과는 작업 장소마다 별도로 학습하는 방식에서 벗어나, 인간의 행동 경험을 사전 학습해 실제 환경에 바로 적용하는 방향으로 발전할 가능성을 보여준다.피규어 AI는 17일(현지시간) 인간의 행동 데이터를 대규모로 사전 학습한 신경망 모델을 기반으로 새로운 환경에서도 즉시 작업할 수 있는 \\'제로샷(Zero-Shot)\\' 전신 제어 능력을 구현했다고 밝혔다.이번에 공개한 \\'헬릭스 2.5"
+        },
+        {
+          "title": "클로드 코드·코덱스, '스킬' 무단 업데이트에 서버 탈취 위험",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215454",
+          "date": "2026-09-18",
+          "source": "AI타임스",
+          "description": "주요 AI 코딩 에이전트 전반에서 \\'스킬\\'을 업데이트하는 과정에서 치명적인 구조적 보안 결함이 드러났다. 사용자가 아무런 클릭을 하지 않아도 시스템 제어권을 해커에게 완전히 빼앗기는 치명적 문제로, 현재는 모두 해결된 상태다.사이버 보안 스타트업 에어(Air)는 18일 발표한 연구 보고서를 통해 앤트로픽의 \\'클로드 코드\\', 오픈AI의 \\'코덱스\\', 구글의 \\'제미나이 CLI\\', 마이크로소프트(MS)의 \\'깃허브 코파일럿\\' 등 4종의 AI 코딩 에이전트에서 제로 클릭(Zero-Click) 원격 코드 실행 취약점인 \\'플러그인4쉘(Plugin",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215454_219284_4756.png",
+          "is_english": false,
+          "original_title": "클로드 코드·코덱스, '스킬' 무단 업데이트에 서버 탈취 위험",
+          "original_summary": "주요 AI 코딩 에이전트 전반에서 \\'스킬\\'을 업데이트하는 과정에서 치명적인 구조적 보안 결함이 드러났다. 사용자가 아무런 클릭을 하지 않아도 시스템 제어권을 해커에게 완전히 빼앗기는 치명적 문제로, 현재는 모두 해결된 상태다.사이버 보안 스타트업 에어(Air)는 18일 발표한 연구 보고서를 통해 앤트로픽의 \\'클로드 코드\\', 오픈AI의 \\'코덱스\\', 구글의 \\'제미나이 CLI\\', 마이크로소프트(MS)의 \\'깃허브 코파일럿\\' 등 4종의 AI 코딩 에이전트에서 제로 클릭(Zero-Click) 원격 코드 실행 취약점인 \\'플러",
+          "summary": "주요 AI 코딩 에이전트 전반에서 \\'스킬\\'을 업데이트하는 과정에서 치명적인 구조적 보안 결함이 드러났다. 사용자가 아무런 클릭을 하지 않아도 시스템 제어권을 해커에게 완전히 빼앗기는 치명적 문제로, 현재는 모두 해결된 상태다.사이버 보안 스타트업 에어(Air)는 18일 발표한 연구 보고서를 통해 앤트로픽의 \\'클로드 코드\\', 오픈AI의 \\'코덱스\\', 구글의 \\'제미나이 CLI\\', 마이크로소프트(MS)의 \\'깃허브 코파일럿\\' 등 4종의 AI 코딩 에이전트에서 제로 클릭(Zero-Click) 원격 코드 실행 취약점인 \\'플러"
+        },
+        {
+          "title": "\"AI 검색 속도 최대 20배\"...구글, 차세대 프레임워크 'R4T' 발표",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215460",
+          "date": "2026-09-18",
+          "source": "AI타임스",
+          "description": "AI 검색이 복잡해질수록 질문을 여러 세부 검색어로 나누고 결과를 조합하는 과정에서 막대한 추론 연산과 응답 지연이 발생하고 있다. 구글은 이러한 문제를 실시간 검색 단계가 아닌 사전 학습 단계에서 해결해 검색 속도를 최대 20배 향상하는 새로운 방식을 제시했다. 구글은 15일(현지시간) 복잡한 AI 검색에서 발생하는 추론 시간과 연산 비용을 줄이기 위한 새로운 프레임워크 ‘리트리브 포 트레인(R4T·Retrieve-for-Train)’을 온라인 아카이브를 통해 공개했다.이 방식은 검색할 때마다 대형언어모델(LLM)이 수백개의 사고",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215460_219312_2641.png",
+          "is_english": true,
+          "original_title": "\"AI 검색 속도 최대 20배\"...구글, 차세대 프레임워크 'R4T' 발표",
+          "original_summary": "AI 검색이 복잡해질수록 질문을 여러 세부 검색어로 나누고 결과를 조합하는 과정에서 막대한 추론 연산과 응답 지연이 발생하고 있다. 구글은 이러한 문제를 실시간 검색 단계가 아닌 사전 학습 단계에서 해결해 검색 속도를 최대 20배 향상하는 새로운 방식을 제시했다. 구글은 15일(현지시간) 복잡한 AI 검색에서 발생하는 추론 시간과 연산 비용을 줄이기 위한 새로운 프레임워크 ‘리트리브 포 트레인(R4T·Retrieve-for-Train)’을 온라인 아카이브를 통해 공개했다.이 방식은 검색할 때마다 대형언어모델(LLM)이 수백개의 사고",
+          "summary": "AI 검색이 복잡해질수록 질문을 여러 세부 검색어로 나누고 결과를 조합하는 과정에서 막대한 추론 연산과 응답 지연이 발생하고 있다. 구글은 이러한 문제를 실시간 검색 단계가 아닌 사전 학습 단계에서 해결해 검색 속도를 최대 20배 향상하는 새로운 방식을 제시했다. 구글은 15일(현지시간) 복잡한 AI 검색에서 발생하는 추론 시간과 연산 비용을 줄이기 위한 새로운 프레임워크 ‘리트리브 포 트레인(R4T·Retrieve-for-Train)’을 온라인 아카이브를 통해 공개했다.이 방식은 검색할 때마다 대형언어모델(LLM)이 수백개의 사고"
+        },
+        {
+          "title": "중국 AI 총매출, 오픈AI·앤트로픽 10% 불과...몸값 '거품' 논란",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215463",
+          "date": "2026-09-18",
+          "source": "AI타임스",
+          "description": "중국의 AI 모델이 빠르게 인기를 얻고 있지만, 수익 창출은 미국 주요 AI 기업에 크게 못 미치는 것으로 나타났다. CNBC에 따르면, 시장조사기관 로디움 그룹(Rhodium Group)은 17일(현지시간) 중국 AI 기업들의 낮은 매출과 높은 기업가치 사이에 상당한 격차가 있다며, 일부 기업의 가치 평가가 과도할 수 있다는 분석을 내놨다.이에 따르면, 중국 주요 AI 모델 기업들의 연간 반복 매출(ARR)을 모두 합쳐도 오픈AI와 앤트로픽이 각각 기록한 매출의 약 10% 수준에 그치는 것으로 추정됐다. ARR은 최근 월간 매출을",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215463_219301_176.jpg",
+          "is_english": false,
+          "original_title": "중국 AI 총매출, 오픈AI·앤트로픽 10% 불과...몸값 '거품' 논란",
+          "original_summary": "중국의 AI 모델이 빠르게 인기를 얻고 있지만, 수익 창출은 미국 주요 AI 기업에 크게 못 미치는 것으로 나타났다. CNBC에 따르면, 시장조사기관 로디움 그룹(Rhodium Group)은 17일(현지시간) 중국 AI 기업들의 낮은 매출과 높은 기업가치 사이에 상당한 격차가 있다며, 일부 기업의 가치 평가가 과도할 수 있다는 분석을 내놨다.이에 따르면, 중국 주요 AI 모델 기업들의 연간 반복 매출(ARR)을 모두 합쳐도 오픈AI와 앤트로픽이 각각 기록한 매출의 약 10% 수준에 그치는 것으로 추정됐다. ARR은 최근 월간 매출을",
+          "summary": "중국의 AI 모델이 빠르게 인기를 얻고 있지만, 수익 창출은 미국 주요 AI 기업에 크게 못 미치는 것으로 나타났다. CNBC에 따르면, 시장조사기관 로디움 그룹(Rhodium Group)은 17일(현지시간) 중국 AI 기업들의 낮은 매출과 높은 기업가치 사이에 상당한 격차가 있다며, 일부 기업의 가치 평가가 과도할 수 있다는 분석을 내놨다.이에 따르면, 중국 주요 AI 모델 기업들의 연간 반복 매출(ARR)을 모두 합쳐도 오픈AI와 앤트로픽이 각각 기록한 매출의 약 10% 수준에 그치는 것으로 추정됐다. ARR은 최근 월간 매출을"
+        },
+        {
+          "title": "[게시판] 에스트래픽, 강릉 ITS 세계총회서 지능형 AI 챗봇 운영 등 단신",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215473",
+          "date": "2026-09-18",
+          "source": "AI타임스",
+          "description": "■ 스마트교통 전문 에스트래픽(대표 문찬종)이 2026 강릉 ITS 세계총회\\'의 개최를 위해 국토교통부 대도시권광역교통위원회(대광위), 강릉시, 한국도로공사와 MOU를 체결했다고 밝혔다. 현장 이용자 편의를 극대화하기 위해 \\'지능형 AI 챗봇\\' 형태의 스마트 고객 응대 시스템을 운영한다. 다국적 방문객들의 문의에 신속하고 직관적으로 대응, 단순 기술 시연을 넘어 완성도 높은 K-MaaS 운영 모델을 입증한다는 계획이다.■ 양자보안 팹리스 전문 아이씨티케이(ICTK, 대표 이정원)는 지란지교시큐리티(대표 조원희)와 ‘큐브릿지(Q-BR",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215473_219313_3026.jpeg",
+          "is_english": false,
+          "original_title": "[게시판] 에스트래픽, 강릉 ITS 세계총회서 지능형 AI 챗봇 운영 등 단신",
+          "original_summary": "■ 스마트교통 전문 에스트래픽(대표 문찬종)이 2026 강릉 ITS 세계총회\\'의 개최를 위해 국토교통부 대도시권광역교통위원회(대광위), 강릉시, 한국도로공사와 MOU를 체결했다고 밝혔다. 현장 이용자 편의를 극대화하기 위해 \\'지능형 AI 챗봇\\' 형태의 스마트 고객 응대 시스템을 운영한다. 다국적 방문객들의 문의에 신속하고 직관적으로 대응, 단순 기술 시연을 넘어 완성도 높은 K-MaaS 운영 모델을 입증한다는 계획이다.■ 양자보안 팹리스 전문 아이씨티케이(ICTK, 대표 이정원)는 지란지교시큐리티(대표 조원희)와 ‘큐브릿지(Q",
+          "summary": "■ 스마트교통 전문 에스트래픽(대표 문찬종)이 2026 강릉 ITS 세계총회\\'의 개최를 위해 국토교통부 대도시권광역교통위원회(대광위), 강릉시, 한국도로공사와 MOU를 체결했다고 밝혔다. 현장 이용자 편의를 극대화하기 위해 \\'지능형 AI 챗봇\\' 형태의 스마트 고객 응대 시스템을 운영한다. 다국적 방문객들의 문의에 신속하고 직관적으로 대응, 단순 기술 시연을 넘어 완성도 높은 K-MaaS 운영 모델을 입증한다는 계획이다.■ 양자보안 팹리스 전문 아이씨티케이(ICTK, 대표 이정원)는 지란지교시큐리티(대표 조원희)와 ‘큐브릿지(Q"
+        },
+        {
+          "title": "[게시판] 코난테크놀로지, 경남 '피지컬AI 국책사업' 선정 등 단신",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215468",
+          "date": "2026-09-18",
+          "source": "AI타임스",
+          "description": "■ 코난테크놀로지(대표 김영섬)는 과학기술정보통신부 주관 \\'전북특별자치도·경상남도 피지컬AI 연구개발(R&D) 사업\\'에 착수한다고 밝혔다. 이번 사업은 총 6763억원 규모로 \\'인간-AI 협업형 거대행동모델(LAM)\\' 개발을 목표로 한다. 코난테크놀로지는 메가존, 한국전자통신연구원(ETRI)과 제조데이터 신뢰성 확보 과제에 참여해 비정형 데이터 변환과 데이터 품질 관리를 담당한다.■ 로브로스(대표 노승준)는 지난 17일 대한상공회의소 국제회의장에서 열린 \\'2026 M.AX 대상\\'에서 산업통상부 장관 표창을 수상했다고 밝혔다. 로브로",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215468_219310_5914.png",
+          "is_english": false,
+          "original_title": "[게시판] 코난테크놀로지, 경남 '피지컬AI 국책사업' 선정 등 단신",
+          "original_summary": "■ 코난테크놀로지(대표 김영섬)는 과학기술정보통신부 주관 \\'전북특별자치도·경상남도 피지컬AI 연구개발(R&D) 사업\\'에 착수한다고 밝혔다. 이번 사업은 총 6763억원 규모로 \\'인간-AI 협업형 거대행동모델(LAM)\\' 개발을 목표로 한다. 코난테크놀로지는 메가존, 한국전자통신연구원(ETRI)과 제조데이터 신뢰성 확보 과제에 참여해 비정형 데이터 변환과 데이터 품질 관리를 담당한다.■ 로브로스(대표 노승준)는 지난 17일 대한상공회의소 국제회의장에서 열린 \\'2026 M.AX 대상\\'에서 산업통상부 장관 표창을 수상했다고 밝혔",
+          "summary": "■ 코난테크놀로지(대표 김영섬)는 과학기술정보통신부 주관 \\'전북특별자치도·경상남도 피지컬AI 연구개발(R&D) 사업\\'에 착수한다고 밝혔다. 이번 사업은 총 6763억원 규모로 \\'인간-AI 협업형 거대행동모델(LAM)\\' 개발을 목표로 한다. 코난테크놀로지는 메가존, 한국전자통신연구원(ETRI)과 제조데이터 신뢰성 확보 과제에 참여해 비정형 데이터 변환과 데이터 품질 관리를 담당한다.■ 로브로스(대표 노승준)는 지난 17일 대한상공회의소 국제회의장에서 열린 \\'2026 M.AX 대상\\'에서 산업통상부 장관 표창을 수상했다고 밝혔"
+        },
+        {
+          "title": "'작지만 강한' 업스테이지 솔라 미니 4, 수능 수학 정답·속도 다 잡아",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215457",
+          "date": "2026-09-18",
+          "source": "AI타임스",
+          "description": "서강대학교 수학과 김종락 교수 연구팀은 업스테이지의 경량 모델 \\'솔라 미니 4 프리뷰\\'가 수능 수학 평가에서 높은 정답률과 빠른 속도, 뛰어난 도구 활용 능력을 보였다고 18일 밝혔다.솔라 미니 4는 전체 매개변수 350억개, 토큰당 활성 매개변수 30억개의 경량 모델이다. 연구팀은 자체 AI 수학 추론 평가 플랫폼 \\'앤트로피매스\\'를 통해 해당 모델의 수능 수학 문제 해결 능력을 검증했다.평가는 총 46문항으로 공통 22문항과 확률과 통계·미적분·기하 각 8문항으로 구성됐다.평가 결과, 솔라 미니 4는 문항당 세 번 시도 중 한 번",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215457_219302_2213.jpeg",
+          "is_english": false,
+          "original_title": "'작지만 강한' 업스테이지 솔라 미니 4, 수능 수학 정답·속도 다 잡아",
+          "original_summary": "서강대학교 수학과 김종락 교수 연구팀은 업스테이지의 경량 모델 \\'솔라 미니 4 프리뷰\\'가 수능 수학 평가에서 높은 정답률과 빠른 속도, 뛰어난 도구 활용 능력을 보였다고 18일 밝혔다.솔라 미니 4는 전체 매개변수 350억개, 토큰당 활성 매개변수 30억개의 경량 모델이다. 연구팀은 자체 AI 수학 추론 평가 플랫폼 \\'앤트로피매스\\'를 통해 해당 모델의 수능 수학 문제 해결 능력을 검증했다.평가는 총 46문항으로 공통 22문항과 확률과 통계·미적분·기하 각 8문항으로 구성됐다.평가 결과, 솔라 미니 4는 문항당 세 번 시도 중",
+          "summary": "서강대학교 수학과 김종락 교수 연구팀은 업스테이지의 경량 모델 \\'솔라 미니 4 프리뷰\\'가 수능 수학 평가에서 높은 정답률과 빠른 속도, 뛰어난 도구 활용 능력을 보였다고 18일 밝혔다.솔라 미니 4는 전체 매개변수 350억개, 토큰당 활성 매개변수 30억개의 경량 모델이다. 연구팀은 자체 AI 수학 추론 평가 플랫폼 \\'앤트로피매스\\'를 통해 해당 모델의 수능 수학 문제 해결 능력을 검증했다.평가는 총 46문항으로 공통 22문항과 확률과 통계·미적분·기하 각 8문항으로 구성됐다.평가 결과, 솔라 미니 4는 문항당 세 번 시도 중"
+        },
+        {
+          "title": "저커버그·젠슨 황·머스크, 트럼프 직접 설득…백악관 'AI 규제안' 무산",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215469",
+          "date": "2026-09-18",
+          "source": "AI타임스",
+          "description": "마크 저커버그 메타 CEO와 젠슨 황 엔비디아 CEO, 일론 머스크 CEO 등 빅테크 수장 3인이 도널드 트럼프 미국 대통령을 직접 설득해 민간 주도의 AI 규제 기구 설립 구상을 무산시킨 것으로 얼려졌다.16일(현지시간) 월스트리트저널(WSJ)에 따르면, 수지 와일스 백악관 비서실장과 스콧 베선트 재무장관, 숀 케언크로스 국가사이버보안 책임자 등 백악관 고위 관리들은 최근 AI 기술 위험성에 대응하기 위해 민간 자금으로 설립되는 규제 기관 설치를 포함해 정부 차원의 검토를 의무화하는 방안을 추진해 왔다. 베선트 장관은 AI 기반",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215469_219309_4357.jpg",
+          "is_english": false,
+          "original_title": "저커버그·젠슨 황·머스크, 트럼프 직접 설득…백악관 'AI 규제안' 무산",
+          "original_summary": "마크 저커버그 메타 CEO와 젠슨 황 엔비디아 CEO, 일론 머스크 CEO 등 빅테크 수장 3인이 도널드 트럼프 미국 대통령을 직접 설득해 민간 주도의 AI 규제 기구 설립 구상을 무산시킨 것으로 얼려졌다.16일(현지시간) 월스트리트저널(WSJ)에 따르면, 수지 와일스 백악관 비서실장과 스콧 베선트 재무장관, 숀 케언크로스 국가사이버보안 책임자 등 백악관 고위 관리들은 최근 AI 기술 위험성에 대응하기 위해 민간 자금으로 설립되는 규제 기관 설치를 포함해 정부 차원의 검토를 의무화하는 방안을 추진해 왔다. 베선트 장관은 AI 기반",
+          "summary": "마크 저커버그 메타 CEO와 젠슨 황 엔비디아 CEO, 일론 머스크 CEO 등 빅테크 수장 3인이 도널드 트럼프 미국 대통령을 직접 설득해 민간 주도의 AI 규제 기구 설립 구상을 무산시킨 것으로 얼려졌다.16일(현지시간) 월스트리트저널(WSJ)에 따르면, 수지 와일스 백악관 비서실장과 스콧 베선트 재무장관, 숀 케언크로스 국가사이버보안 책임자 등 백악관 고위 관리들은 최근 AI 기술 위험성에 대응하기 위해 민간 자금으로 설립되는 규제 기관 설치를 포함해 정부 차원의 검토를 의무화하는 방안을 추진해 왔다. 베선트 장관은 AI 기반"
+        },
+        {
+          "title": "AI스페라, 위협 노출 관리 솔루션에 MS 에이전트 기술 적용",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215471",
+          "date": "2026-09-18",
+          "source": "AI타임스",
+          "description": "AI스페라(대표 강병탁)는 자체 AI 기반 위협 노출 관리(AITEM)에 마이크로소프트(MS)의 AI 에이전트 기술을 적용, 보안 운영 자동화를 구현했다고 18일 밝혔다.AITEM은 자체 사이버 위협 인텔리전스 \\'크리미널 IP\\'를 활용해 기업의 외부 노출 자산과 취약점, 위협 인텔리전스를 식별·분석하고 대응 우선순위를 지원하는 서비스다.이번에 AI 에이전트 기능을 새롭게 적용해 자산 식별부터 위험 분석, 대응 검토에 이르는 전 과정을 자동화했다.이를 구현하기 위해 MS의 파운드리 기반 AI 개발·운영 환경을 활용했다. MS 파운드리",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215471_219314_4136.png",
+          "is_english": false,
+          "original_title": "AI스페라, 위협 노출 관리 솔루션에 MS 에이전트 기술 적용",
+          "original_summary": "AI스페라(대표 강병탁)는 자체 AI 기반 위협 노출 관리(AITEM)에 마이크로소프트(MS)의 AI 에이전트 기술을 적용, 보안 운영 자동화를 구현했다고 18일 밝혔다.AITEM은 자체 사이버 위협 인텔리전스 \\'크리미널 IP\\'를 활용해 기업의 외부 노출 자산과 취약점, 위협 인텔리전스를 식별·분석하고 대응 우선순위를 지원하는 서비스다.이번에 AI 에이전트 기능을 새롭게 적용해 자산 식별부터 위험 분석, 대응 검토에 이르는 전 과정을 자동화했다.이를 구현하기 위해 MS의 파운드리 기반 AI 개발·운영 환경을 활용했다. MS 파운",
+          "summary": "AI스페라(대표 강병탁)는 자체 AI 기반 위협 노출 관리(AITEM)에 마이크로소프트(MS)의 AI 에이전트 기술을 적용, 보안 운영 자동화를 구현했다고 18일 밝혔다.AITEM은 자체 사이버 위협 인텔리전스 \\'크리미널 IP\\'를 활용해 기업의 외부 노출 자산과 취약점, 위협 인텔리전스를 식별·분석하고 대응 우선순위를 지원하는 서비스다.이번에 AI 에이전트 기능을 새롭게 적용해 자산 식별부터 위험 분석, 대응 검토에 이르는 전 과정을 자동화했다.이를 구현하기 위해 MS의 파운드리 기반 AI 개발·운영 환경을 활용했다. MS 파운"
+        },
+        {
+          "title": "Co-creating the future of fashion with Google",
+          "link": "https://blog.google/innovation-and-ai/technology/ai/google-flow-fashion-week/",
+          "date": "2026-09-18",
+          "source": "Google AI",
+          "description": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
+          "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Blog_Header_V2.max-600x600.format-webp.webp",
+          "is_english": true,
+          "original_title": "Co-creating the future of fashion with Google",
+          "original_summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW.",
+          "summary": "Google worked side-by-side with designers Jane Wade and Sergio Hudson to custom-design Google Flow tools to prep for NYFW."
+        },
         {
           "title": "국가기록·역사자료 AI로 한번에 검색한다…통합체계 시범검증",
           "link": "https://www.yna.co.kr/view/AKR20260918071200530",
@@ -391,6 +559,19 @@
           "category": "AI Model"
         },
         {
+          "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+          "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+          "date": "2026-09-18",
+          "source": "HuggingFace",
+          "description": "• Ternary-Bonsai-2-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
+          "is_english": true,
+          "summary": "• Ternary-Bonsai-2-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
           "date": "2026-09-18",
@@ -456,19 +637,6 @@
           "category": "AI Model"
         },
         {
-          "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-          "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
-          "date": "2026-09-18",
-          "source": "HuggingFace",
-          "description": "• Ternary-Bonsai-2-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
-          "is_english": true,
-          "summary": "• Ternary-Bonsai-2-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "ukisai/Swift-Qwen3.8-27b",
           "link": "https://huggingface.co/ukisai/Swift-Qwen3.8-27b",
           "date": "2026-09-18",
@@ -508,15 +676,15 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/Qwen3.8-27B-GGUF",
-          "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
+          "title": "XingChen-AGI/Xing4.0-29B-A4B",
+          "link": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
           "date": "2026-09-18",
           "source": "HuggingFace",
-          "description": "• Qwen3.8-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "description": "• Xing4.0-29B-A4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
           "is_english": true,
-          "summary": "• Qwen3.8-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/Qwen3.8-27B-GGUF",
+          "summary": "• Xing4.0-29B-A4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "XingChen-AGI/Xing4.0-29B-A4B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -534,15 +702,15 @@
           "category": "AI Model"
         },
         {
-          "title": "XingChen-AGI/Xing4.0-29B-A4B",
-          "link": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
+          "title": "unsloth/Qwen3.8-27B-GGUF",
+          "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
           "date": "2026-09-18",
           "source": "HuggingFace",
-          "description": "• Xing4.0-29B-A4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "description": "• Qwen3.8-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
           "is_english": true,
-          "summary": "• Xing4.0-29B-A4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "XingChen-AGI/Xing4.0-29B-A4B",
+          "summary": "• Qwen3.8-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/Qwen3.8-27B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -569,19 +737,6 @@
           "is_english": true,
           "summary": "• Qwen3.8-Flash-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.8-Flash-Next",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
-          "link": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
-          "date": "2026-09-18",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4.1-Flash-UNCENSORED-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8/resolve/main/dealign_mascot.png",
-          "is_english": true,
-          "summary": "• DeepSeek-V4.1-Flash-UNCENSORED-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -621,6 +776,19 @@
           "is_english": true,
           "summary": "• Agnes-3.0-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Agnes-AI/Agnes-3.0-Flash",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
+          "link": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
+          "date": "2026-09-18",
+          "source": "HuggingFace",
+          "description": "• DeepSeek-V4.1-Flash-UNCENSORED-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8/resolve/main/dealign_mascot.png",
+          "is_english": true,
+          "summary": "• DeepSeek-V4.1-Flash-UNCENSORED-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
