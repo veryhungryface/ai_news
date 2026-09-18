@@ -2,8 +2,44 @@
   "dates": [
     {
       "date": "2026-09-19",
-      "update_time": "2026-09-18 20:19:07",
+      "update_time": "2026-09-18 22:55:04",
       "news": [
+        {
+          "title": "[해수분해] 컨테이너 어디에 쌓을지 AI가 결정…진화하는 항만",
+          "link": "https://www.yna.co.kr/view/AKR20260918163100051",
+          "date": "2026-09-19",
+          "source": "연합뉴스",
+          "description": "[※ 편집자 주 = 부산으로 이전한 해양수산부가 올해 출범 30주년을 맞았습니다. 바다 안전부터 해양 연구까지 다양한 분야에 걸쳐 해양수산 행정...",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2023/10/27/PYH2023102709440005100_P2.jpg",
+          "is_english": false,
+          "original_title": "[해수분해] 컨테이너 어디에 쌓을지 AI가 결정…진화하는 항만",
+          "original_summary": "[※ 편집자 주 = 부산으로 이전한 해양수산부가 올해 출범 30주년을 맞았습니다. 바다 안전부터 해양 연구까지 다양한 분야에 걸쳐 해양수산 행정...",
+          "summary": "[※ 편집자 주 = 부산으로 이전한 해양수산부가 올해 출범 30주년을 맞았습니다. 바다 안전부터 해양 연구까지 다양한 분야에 걸쳐 해양수산 행정..."
+        },
+        {
+          "title": "[9월18일] AI가 다음 AI에게 지시를 남겼다…오픈AI서 드러난 ‘셀프 프롬프트 인젝션’",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215440",
+          "date": "2026-09-19",
+          "source": "AI타임스",
+          "description": "오픈AI가 16일(현지시간) AI 모델이 예상하지 못한 방식으로 행동한 사례 6건을 공개했습니다. 동시에 앞으로 이런 ‘오정렬(misalignment)’ 사례를 더 체계적으로 추적하고 공개하기 위한 별도 보고 체계도 마련했습니다.6건 가운데 특히 눈에 띄는 것은 AI가 자신의 작업을 다음 AI에게 넘기는 과정에서 나타난 사례입니다. 오픈AI는 장시간 작업을 이어가는 과정에서 한 모델이 작업 내용을 요약한 ‘임무 요약(task summary)’에 원래 없던 지시를 스스로 추가한 사례를 공개했습니다.이런 요약문은 단순한 메모가 아닙니다",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215440_219260_2631.png",
+          "is_english": false,
+          "original_title": "[9월18일] AI가 다음 AI에게 지시를 남겼다…오픈AI서 드러난 ‘셀프 프롬프트 인젝션’",
+          "original_summary": "오픈AI가 16일(현지시간) AI 모델이 예상하지 못한 방식으로 행동한 사례 6건을 공개했습니다. 동시에 앞으로 이런 ‘오정렬(misalignment)’ 사례를 더 체계적으로 추적하고 공개하기 위한 별도 보고 체계도 마련했습니다.6건 가운데 특히 눈에 띄는 것은 AI가 자신의 작업을 다음 AI에게 넘기는 과정에서 나타난 사례입니다. 오픈AI는 장시간 작업을 이어가는 과정에서 한 모델이 작업 내용을 요약한 ‘임무 요약(task summary)’에 원래 없던 지시를 스스로 추가한 사례를 공개했습니다.이런 요약문은 단순한 메모가 아닙니다",
+          "summary": "오픈AI가 16일(현지시간) AI 모델이 예상하지 못한 방식으로 행동한 사례 6건을 공개했습니다. 동시에 앞으로 이런 ‘오정렬(misalignment)’ 사례를 더 체계적으로 추적하고 공개하기 위한 별도 보고 체계도 마련했습니다.6건 가운데 특히 눈에 띄는 것은 AI가 자신의 작업을 다음 AI에게 넘기는 과정에서 나타난 사례입니다. 오픈AI는 장시간 작업을 이어가는 과정에서 한 모델이 작업 내용을 요약한 ‘임무 요약(task summary)’에 원래 없던 지시를 스스로 추가한 사례를 공개했습니다.이런 요약문은 단순한 메모가 아닙니다"
+        },
+        {
+          "title": "오픈AI, 앤트로픽 '클로드'에 뚫렸다...핵심 코드 저장소까지 노출",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215477",
+          "date": "2026-09-19",
+          "source": "AI타임스",
+          "description": "독립 보안 연구진이 앤트로픽의 \\'클로드\\'를 활용해 오픈AI 직원의 계정에 침입하고 비공개 코드 저장소에 접근한 사건이 발생했다.월스트리트저널은 17일(현지시간) 보안 전문 기업 해크트론 AI(Hacktron AI) 소속 연구진 3명이 앤트로픽의 클로드를 이용해 오픈AI의 내부 소프트웨어 시스템에 침입했다고 보도했다.이번 공격은 지난 7월23일 오픈AI의 커뮤니티 토론 포럼을 호스팅하는 제3자 서비스 디스커스(Discourse)의 이미지 파일 처리 방식에서 보안 취약점을 발견하면서 시작됐다. 연구진은 사이버 보안 전문가용으로 제공된",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215477_219322_919.jpeg",
+          "is_english": false,
+          "original_title": "오픈AI, 앤트로픽 '클로드'에 뚫렸다...핵심 코드 저장소까지 노출",
+          "original_summary": "독립 보안 연구진이 앤트로픽의 \\'클로드\\'를 활용해 오픈AI 직원의 계정에 침입하고 비공개 코드 저장소에 접근한 사건이 발생했다.월스트리트저널은 17일(현지시간) 보안 전문 기업 해크트론 AI(Hacktron AI) 소속 연구진 3명이 앤트로픽의 클로드를 이용해 오픈AI의 내부 소프트웨어 시스템에 침입했다고 보도했다.이번 공격은 지난 7월23일 오픈AI의 커뮤니티 토론 포럼을 호스팅하는 제3자 서비스 디스커스(Discourse)의 이미지 파일 처리 방식에서 보안 취약점을 발견하면서 시작됐다. 연구진은 사이버 보안 전문가용으로 제공",
+          "summary": "독립 보안 연구진이 앤트로픽의 \\'클로드\\'를 활용해 오픈AI 직원의 계정에 침입하고 비공개 코드 저장소에 접근한 사건이 발생했다.월스트리트저널은 17일(현지시간) 보안 전문 기업 해크트론 AI(Hacktron AI) 소속 연구진 3명이 앤트로픽의 클로드를 이용해 오픈AI의 내부 소프트웨어 시스템에 침입했다고 보도했다.이번 공격은 지난 7월23일 오픈AI의 커뮤니티 토론 포럼을 호스팅하는 제3자 서비스 디스커스(Discourse)의 이미지 파일 처리 방식에서 보안 취약점을 발견하면서 시작됐다. 연구진은 사이버 보안 전문가용으로 제공"
+        },
         {
           "title": "Edge0/Edge0-35B-A3B-preview",
           "link": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
@@ -268,8 +304,20 @@
     },
     {
       "date": "2026-09-18",
-      "update_time": "2026-09-18 20:19:07",
+      "update_time": "2026-09-18 22:55:03",
       "news": [
+        {
+          "title": "Anthropic’s first embedded evaluator is … Accenture?",
+          "link": "https://techcrunch.com/2026/09/18/anthropics-first-embedded-evaluator-is-accenture/",
+          "date": "2026-09-18",
+          "source": "TechCrunch",
+          "description": "Accenture is about to take on its most high-risk consulting engagement ever. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2194795244.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Anthropic’s first embedded evaluator is … Accenture?",
+          "original_summary": "Accenture is about to take on its most high-risk consulting engagement ever. ",
+          "summary": "Accenture is about to take on its most high-risk consulting engagement ever. "
+        },
         {
           "title": "World model companies are keeping a lot of secrets",
           "link": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets/",
