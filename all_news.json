@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-09-20",
-      "update_time": "2026-09-19 19:45:23",
+      "update_time": "2026-09-19 22:34:43",
       "news": [
+        {
+          "title": "경기도, 노인·환자 200명 대상 'AI 스마트홈 돌봄사업'",
+          "link": "https://www.yna.co.kr/view/AKR20260918128100061",
+          "date": "2026-09-20",
+          "source": "연합뉴스",
+          "description": "(수원=연합뉴스) 최종호 기자 = 경기도는 인공지능(AI)과 사물인터넷(IoT) 기술을 활용해 돌봄이 필요한 어르신들에게 통합 돌봄서비스를 제공...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/18/AKR20260918128100061_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "경기도, 노인·환자 200명 대상 'AI 스마트홈 돌봄사업'",
+          "original_summary": "(수원=연합뉴스) 최종호 기자 = 경기도는 인공지능(AI)과 사물인터넷(IoT) 기술을 활용해 돌봄이 필요한 어르신들에게 통합 돌봄서비스를 제공...",
+          "summary": "(수원=연합뉴스) 최종호 기자 = 경기도는 인공지능(AI)과 사물인터넷(IoT) 기술을 활용해 돌봄이 필요한 어르신들에게 통합 돌봄서비스를 제공..."
+        },
         {
           "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
           "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
@@ -70,19 +82,6 @@
           "category": "AI Model"
         },
         {
-          "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-          "link": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-          "date": "2026-09-20",
-          "source": "HuggingFace",
-          "description": "• Qwen3.8-27B-GSQ-RCO-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/arXiv-GSQ_2604.18556-b31b1b?logo=arxiv&logoColor=white",
-          "is_english": true,
-          "summary": "• Qwen3.8-27B-GSQ-RCO-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "convaiinnovations/laya",
           "link": "https://huggingface.co/convaiinnovations/laya",
           "date": "2026-09-20",
@@ -92,6 +91,19 @@
           "is_english": true,
           "summary": "• laya 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "convaiinnovations/laya",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+          "link": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+          "date": "2026-09-20",
+          "source": "HuggingFace",
+          "description": "• Qwen3.8-27B-GSQ-RCO-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/arXiv-GSQ_2604.18556-b31b1b?logo=arxiv&logoColor=white",
+          "is_english": true,
+          "summary": "• Qwen3.8-27B-GSQ-RCO-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -200,6 +212,19 @@
           "category": "AI Model"
         },
         {
+          "title": "prism-ml/Ternary-Bonsai-2-27B-mlx-2bit",
+          "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-mlx-2bit",
+          "date": "2026-09-20",
+          "source": "HuggingFace",
+          "description": "• Ternary-Bonsai-2-27B-mlx-2bit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-mlx-2bit/resolve/main/./assets/bonsai-logo.svg",
+          "is_english": true,
+          "summary": "• Ternary-Bonsai-2-27B-mlx-2bit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "prism-ml/Ternary-Bonsai-2-27B-mlx-2bit",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Edge0/Edge0-35B-A3B-preview",
           "link": "https://huggingface.co/Edge0/Edge0-35B-A3B-preview",
           "date": "2026-09-20",
@@ -226,15 +251,15 @@
           "category": "AI Model"
         },
         {
-          "title": "prism-ml/Ternary-Bonsai-2-27B-mlx-2bit",
-          "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-mlx-2bit",
+          "title": "dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
+          "link": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
           "date": "2026-09-20",
           "source": "HuggingFace",
-          "description": "• Ternary-Bonsai-2-27B-mlx-2bit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-mlx-2bit/resolve/main/./assets/bonsai-logo.svg",
+          "description": "• DeepSeek-V4.1-Flash-UNCENSORED-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8/resolve/main/dealign_mascot.png",
           "is_english": true,
-          "summary": "• Ternary-Bonsai-2-27B-mlx-2bit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "prism-ml/Ternary-Bonsai-2-27B-mlx-2bit",
+          "summary": "• DeepSeek-V4.1-Flash-UNCENSORED-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -250,26 +275,37 @@
           "translated_title": "MiniMaxAI/MiniMax-H3",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
-          "link": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
-          "date": "2026-09-20",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4.1-Flash-UNCENSORED-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8/resolve/main/dealign_mascot.png",
-          "is_english": true,
-          "summary": "• DeepSeek-V4.1-Flash-UNCENSORED-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "dealignai/DeepSeek-V4.1-Flash-UNCENSORED-FP8",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-09-19",
-      "update_time": "2026-09-19 19:45:23",
+      "update_time": "2026-09-19 22:34:43",
       "news": [
+        {
+          "title": "Flock reportedly tries to shrink workforce with employee buyouts",
+          "link": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
+          "date": "2026-09-19",
+          "source": "TechCrunch",
+          "description": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/flock-protest.jpg?resize=1131,1200",
+          "is_english": true,
+          "original_title": "Flock reportedly tries to shrink workforce with employee buyouts",
+          "original_summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff.",
+          "summary": "Without buyouts, Flock would \"almost certainly\" need to lay off staff."
+        },
+        {
+          "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+          "link": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
+          "date": "2026-09-19",
+          "source": "TechCrunch",
+          "description": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/donald-trump-open-mouth.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
+          "original_summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax.",
+          "summary": "Trump claimed, without evidence, that the AI backlash is a Democratic hoax."
+        },
         {
           "title": "Google’s Gemini is the latest AI model to hack other companies",
           "link": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
