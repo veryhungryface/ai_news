@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-09-21",
-      "update_time": "2026-09-20 19:57:40",
+      "update_time": "2026-09-20 22:47:49",
       "news": [
+        {
+          "title": "AI 고용서비스 발굴 온라인 해커톤…내달 13일까지 참가팀 모집",
+          "link": "https://www.yna.co.kr/view/AKR20260918167100530",
+          "date": "2026-09-21",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 옥성구 기자 = 고용노동부와 한국고용정보원은 &apos;고용24 국민참여 인공지능(AI) 고용서비스 발굴 온라인 해커톤&apos; 참가팀을 모집...",
+          "image": "https://img.yna.co.kr/photo/cms/2023/10/13/26/PCM20231013000026990_P2.jpg",
+          "is_english": false,
+          "original_title": "AI 고용서비스 발굴 온라인 해커톤…내달 13일까지 참가팀 모집",
+          "original_summary": "(서울=연합뉴스) 옥성구 기자 = 고용노동부와 한국고용정보원은 &apos;고용24 국민참여 인공지능(AI) 고용서비스 발굴 온라인 해커톤&apos; 참가팀을 모집...",
+          "summary": "(서울=연합뉴스) 옥성구 기자 = 고용노동부와 한국고용정보원은 &apos;고용24 국민참여 인공지능(AI) 고용서비스 발굴 온라인 해커톤&apos; 참가팀을 모집..."
+        },
         {
           "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
           "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
@@ -57,19 +69,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.8-27B",
-          "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "date": "2026-09-21",
-          "source": "HuggingFace",
-          "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.8-27B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen-Image-2.1",
           "link": "https://huggingface.co/Qwen/Qwen-Image-2.1",
           "date": "2026-09-21",
@@ -79,6 +78,19 @@
           "is_english": true,
           "summary": "• Qwen-Image-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen-Image-2.1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "date": "2026-09-21",
+          "source": "HuggingFace",
+          "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.8-27B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -187,19 +199,6 @@
           "category": "AI Model"
         },
         {
-          "title": "openbmb/MiniCPM5-2B",
-          "link": "https://huggingface.co/openbmb/MiniCPM5-2B",
-          "date": "2026-09-21",
-          "source": "HuggingFace",
-          "description": "• MiniCPM5-2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/OpenBMB/MiniCPM/main/assets/minicpm_logo.png",
-          "is_english": true,
-          "summary": "• MiniCPM5-2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "openbmb/MiniCPM5-2B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "prism-ml/Ternary-Bonsai-2-27B-mlx-2bit",
           "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-mlx-2bit",
           "date": "2026-09-21",
@@ -239,6 +238,19 @@
           "category": "AI Model"
         },
         {
+          "title": "openbmb/MiniCPM5-2B",
+          "link": "https://huggingface.co/openbmb/MiniCPM5-2B",
+          "date": "2026-09-21",
+          "source": "HuggingFace",
+          "description": "• MiniCPM5-2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://raw.githubusercontent.com/OpenBMB/MiniCPM/main/assets/minicpm_logo.png",
+          "is_english": true,
+          "summary": "• MiniCPM5-2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "openbmb/MiniCPM5-2B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Comfy-Org/Qwen-Image-2.1",
           "link": "https://huggingface.co/Comfy-Org/Qwen-Image-2.1",
           "date": "2026-09-21",
@@ -268,8 +280,20 @@
     },
     {
       "date": "2026-09-20",
-      "update_time": "2026-09-20 19:57:39",
+      "update_time": "2026-09-20 22:47:49",
       "news": [
+        {
+          "title": "World model companies are keeping a lot of secrets",
+          "link": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets/",
+          "date": "2026-09-20",
+          "source": "TechCrunch",
+          "description": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.\n",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/ALLIN_16-09-AM_melanieolmsteadphotographe-635.jpg?w=1024",
+          "is_english": true,
+          "original_title": "World model companies are keeping a lot of secrets",
+          "original_summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.\n",
+          "summary": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.\n"
+        },
         {
           "title": "Is the AI industry really ready to slow down?",
           "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
