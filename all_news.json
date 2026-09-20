@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-09-21",
-      "update_time": "2026-09-20 17:47:38",
+      "update_time": "2026-09-20 19:57:40",
       "news": [
         {
           "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
@@ -70,19 +70,6 @@
           "category": "AI Model"
         },
         {
-          "title": "m-a-p/YuE2-3B",
-          "link": "https://huggingface.co/m-a-p/YuE2-3B",
-          "date": "2026-09-21",
-          "source": "HuggingFace",
-          "description": "• YuE2-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/m-a-p/YuE2-3B/resolve/main/assets/logo.png",
-          "is_english": true,
-          "summary": "• YuE2-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "m-a-p/YuE2-3B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen-Image-2.1",
           "link": "https://huggingface.co/Qwen/Qwen-Image-2.1",
           "date": "2026-09-21",
@@ -92,6 +79,19 @@
           "is_english": true,
           "summary": "• Qwen-Image-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen-Image-2.1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "m-a-p/YuE2-3B",
+          "link": "https://huggingface.co/m-a-p/YuE2-3B",
+          "date": "2026-09-21",
+          "source": "HuggingFace",
+          "description": "• YuE2-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/m-a-p/YuE2-3B/resolve/main/assets/logo.png",
+          "is_english": true,
+          "summary": "• YuE2-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "m-a-p/YuE2-3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -148,19 +148,6 @@
           "category": "AI Model"
         },
         {
-          "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-          "link": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-          "date": "2026-09-21",
-          "source": "HuggingFace",
-          "description": "• Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF/resolve/main/star-wars-hans-solo.gif",
-          "is_english": true,
-          "summary": "• Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Qwen3.8-27B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
           "date": "2026-09-21",
@@ -170,6 +157,19 @@
           "is_english": true,
           "summary": "• Qwen3.8-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/Qwen3.8-27B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+          "link": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+          "date": "2026-09-21",
+          "source": "HuggingFace",
+          "description": "• Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF/resolve/main/star-wars-hans-solo.gif",
+          "is_english": true,
+          "summary": "• Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -200,19 +200,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.8-Flash-Next",
-          "link": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
-          "date": "2026-09-21",
-          "source": "HuggingFace",
-          "description": "• Qwen3.8-Flash-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3.8-Flash-Next/architecture.png",
-          "is_english": true,
-          "summary": "• Qwen3.8-Flash-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.8-Flash-Next",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "prism-ml/Ternary-Bonsai-2-27B-mlx-2bit",
           "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-mlx-2bit",
           "date": "2026-09-21",
@@ -222,6 +209,19 @@
           "is_english": true,
           "summary": "• Ternary-Bonsai-2-27B-mlx-2bit 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "prism-ml/Ternary-Bonsai-2-27B-mlx-2bit",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.8-Flash-Next",
+          "link": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+          "date": "2026-09-21",
+          "source": "HuggingFace",
+          "description": "• Qwen3.8-Flash-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3.8-Flash-Next/architecture.png",
+          "is_english": true,
+          "summary": "• Qwen3.8-Flash-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.8-Flash-Next",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,6 +239,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Comfy-Org/Qwen-Image-2.1",
+          "link": "https://huggingface.co/Comfy-Org/Qwen-Image-2.1",
+          "date": "2026-09-21",
+          "source": "HuggingFace",
+          "description": "• Qwen-Image-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen-Image-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Comfy-Org/Qwen-Image-2.1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "meta-llama/Llama-3.1-8B-Instruct",
           "link": "https://huggingface.co/meta-llama/Llama-3.1-8B-Instruct",
           "date": "2026-09-21",
@@ -250,26 +263,49 @@
           "translated_title": "meta-llama/Llama-3.1-8B-Instruct",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "MiniMaxAI/MiniMax-H3",
-          "link": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
-          "date": "2026-09-21",
-          "source": "HuggingFace",
-          "description": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/MiniMaxAI/MiniMax-H3/resolve/main/assets/minimax-h3.png",
-          "is_english": true,
-          "summary": "• MiniMax-H3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "MiniMaxAI/MiniMax-H3",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-09-20",
-      "update_time": "2026-09-20 17:47:36",
+      "update_time": "2026-09-20 19:57:39",
       "news": [
+        {
+          "title": "Is the AI industry really ready to slow down?",
+          "link": "https://techcrunch.com/2026/09/20/is-the-ai-industry-really-ready-to-slow-down/",
+          "date": "2026-09-20",
+          "source": "TechCrunch",
+          "description": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2294936867.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Is the AI industry really ready to slow down?",
+          "original_summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down.",
+          "summary": "On Equity, we debated whether Ai executives are serious about wanting to slow down."
+        },
+        {
+          "title": "Vocci’s ring adds a new form factor to meeting note-taking",
+          "link": "https://techcrunch.com/2026/09/20/voccis-ring-adds-a-new-form-factor-to-meeting-note-taking/",
+          "date": "2026-09-20",
+          "source": "TechCrunch",
+          "description": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/Vocci-feat.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "Vocci’s ring adds a new form factor to meeting note-taking",
+          "original_summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions",
+          "summary": "Vocci's lightweight ring costs $249, and might pose some privacy questions"
+        },
+        {
+          "title": "ScrollEd wants to turn textbooks into TikTok",
+          "link": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+          "date": "2026-09-20",
+          "source": "TechCrunch",
+          "description": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/Socrates-as-Tik-Tok-feed.png?resize=1200,800",
+          "is_english": true,
+          "original_title": "ScrollEd wants to turn textbooks into TikTok",
+          "original_summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.",
+          "summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt."
+        },
         {
           "title": "6 days left to get ahead at TechCrunch Disrupt 2026",
           "link": "https://techcrunch.com/2026/09/20/6-days-left-to-get-ahead-at-techcrunch-disrupt-2026/",
@@ -7837,7 +7873,7 @@
         {
           "title": "deepseek-ai/DeepSeek-V4.1-Flash",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
-          "date": "2026-09-12",
+          "date": "2026-09-21",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4.1-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
@@ -7850,7 +7886,7 @@
         {
           "title": "openbmb/MiniCPM5-2B",
           "link": "https://huggingface.co/openbmb/MiniCPM5-2B",
-          "date": "2026-09-12",
+          "date": "2026-09-21",
           "source": "HuggingFace",
           "description": "• MiniCPM5-2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://raw.githubusercontent.com/OpenBMB/MiniCPM/main/assets/minicpm_logo.png",
@@ -7889,7 +7925,7 @@
         {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "date": "2026-09-12",
+          "date": "2026-09-21",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -7902,7 +7938,7 @@
         {
           "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
           "link": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-          "date": "2026-09-12",
+          "date": "2026-09-21",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B-GSQ-RCO-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/arXiv-GSQ_2604.18556-b31b1b?logo=arxiv&logoColor=white",
@@ -7928,7 +7964,7 @@
         {
           "title": "Lightricks/LTX-2.5",
           "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-09-12",
+          "date": "2026-09-21",
           "source": "HuggingFace",
           "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -7941,7 +7977,7 @@
         {
           "title": "unsloth/Qwen3.8-27B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
-          "date": "2026-09-12",
+          "date": "2026-09-21",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
@@ -8006,7 +8042,7 @@
         {
           "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
           "link": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-          "date": "2026-09-12",
+          "date": "2026-09-21",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF/resolve/main/star-wars-hans-solo.gif",
@@ -8019,7 +8055,7 @@
         {
           "title": "m-a-p/YuE2-3B",
           "link": "https://huggingface.co/m-a-p/YuE2-3B",
-          "date": "2026-09-12",
+          "date": "2026-09-21",
           "source": "HuggingFace",
           "description": "• YuE2-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/m-a-p/YuE2-3B/resolve/main/assets/logo.png",
@@ -8045,7 +8081,7 @@
         {
           "title": "Qwen/Qwen3.8-Flash-Next",
           "link": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
-          "date": "2026-09-12",
+          "date": "2026-09-21",
           "source": "HuggingFace",
           "description": "• Qwen3.8-Flash-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3.8-Flash-Next/architecture.png",
