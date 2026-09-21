@@ -2,20 +2,55 @@
   "dates": [
     {
       "date": "2026-09-22",
-      "update_time": "2026-09-21 15:28:28",
+      "update_time": "2026-09-21 21:23:40",
       "news": [
         {
-          "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-          "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+          "title": "사찰과 한의학에 AI를 입히다…서울시, 관광새싹기업 3곳 선정",
+          "link": "https://www.yna.co.kr/view/AKR20260921154800004",
           "date": "2026-09-22",
-          "source": "HuggingFace",
-          "description": "• Ternary-Bonsai-2-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 김준태 기자 = 서울시는 지난 17일 강남구 솜씨빌딩에서 &apos;2026 서울 관광새싹기업(스타트업) 상생협력 사업&apos;의 심층 간담회...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/21/AKR20260921154800004_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "사찰과 한의학에 AI를 입히다…서울시, 관광새싹기업 3곳 선정",
+          "original_summary": "(서울=연합뉴스) 김준태 기자 = 서울시는 지난 17일 강남구 솜씨빌딩에서 &apos;2026 서울 관광새싹기업(스타트업) 상생협력 사업&apos;의 심층 간담회...",
+          "summary": "(서울=연합뉴스) 김준태 기자 = 서울시는 지난 17일 강남구 솜씨빌딩에서 &apos;2026 서울 관광새싹기업(스타트업) 상생협력 사업&apos;의 심층 간담회..."
+        },
+        {
+          "title": "KAIST, ‘지식 재사용’으로 서버 호출 57% 줄였다…“증류·추가학습 필요 없어”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215545",
+          "date": "2026-09-22",
+          "source": "AI타임스",
+          "description": "국내 연구진이 한 번 얻은 지식을 기기 내부 저장소에 쌓아뒀다가 재사용하는 온디바이스 AI 기술을 개발했다. 기존 모델을 추가로 학습시킬 필요 없이 대형 AI 모델에 대한 서버 의존도를 낮춘 것이 특징이다.한국과학기술원(KAIST, 총장 배충식)은 이재길 전산학부 교수 연구팀이 기기의 소형 AI와 서버의 대형 AI를 효율적으로 연결하는 협업 프레임워크 ‘CURE(Cumulative Knowledge Reuse, 누적 지식 재사용)’를 개발했다고 22일 밝혔다.연구팀은 문제 난이도에 따라 필요한 연산량이 다르다는 점에 착안했다. 소형",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215545_219433_4652.png",
+          "is_english": false,
+          "original_title": "KAIST, ‘지식 재사용’으로 서버 호출 57% 줄였다…“증류·추가학습 필요 없어”",
+          "original_summary": "국내 연구진이 한 번 얻은 지식을 기기 내부 저장소에 쌓아뒀다가 재사용하는 온디바이스 AI 기술을 개발했다. 기존 모델을 추가로 학습시킬 필요 없이 대형 AI 모델에 대한 서버 의존도를 낮춘 것이 특징이다.한국과학기술원(KAIST, 총장 배충식)은 이재길 전산학부 교수 연구팀이 기기의 소형 AI와 서버의 대형 AI를 효율적으로 연결하는 협업 프레임워크 ‘CURE(Cumulative Knowledge Reuse, 누적 지식 재사용)’를 개발했다고 22일 밝혔다.연구팀은 문제 난이도에 따라 필요한 연산량이 다르다는 점에 착안했다. 소형",
+          "summary": "국내 연구진이 한 번 얻은 지식을 기기 내부 저장소에 쌓아뒀다가 재사용하는 온디바이스 AI 기술을 개발했다. 기존 모델을 추가로 학습시킬 필요 없이 대형 AI 모델에 대한 서버 의존도를 낮춘 것이 특징이다.한국과학기술원(KAIST, 총장 배충식)은 이재길 전산학부 교수 연구팀이 기기의 소형 AI와 서버의 대형 AI를 효율적으로 연결하는 협업 프레임워크 ‘CURE(Cumulative Knowledge Reuse, 누적 지식 재사용)’를 개발했다고 22일 밝혔다.연구팀은 문제 난이도에 따라 필요한 연산량이 다르다는 점에 착안했다. 소형"
+        },
+        {
+          "title": "뉴로퓨전, 답 없는 글로벌 AI 미래 예측 벤치마크 1위…국내 스타트업 ‘기술력 증명’",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215547",
+          "date": "2026-09-22",
+          "source": "AI타임스",
+          "description": "리더보드 관련 평가 데이터 과적합, 결과 공정성에 대한 문제 제기가 계속되는 가운데, 국내 기업이 ‘답을 알 수 없는’ 글로벌 벤치마크에서 1위를 달성하는 유의미한 성과를 거뒀다. 미래 사건의 결과를 예측하는 벤치마크로, 문제 풀이 시점에는 누구도 답을 알 수 없다는 것이 특징이다.금융 AI 투자 플랫폼 \\'밸리 AI(Valley AI)\\'를 운영하는 뉴로퓨전(대표 최한철)이 글로벌 AI 미래 예측 벤치마크인 \\'포캐스트벤치(ForecastBench)\\'의 선행(preliminary) 리더보드에서 1위를 기록했다고 22일 밝혔다.포캐스트벤",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215547_219436_5313.png",
+          "is_english": false,
+          "original_title": "뉴로퓨전, 답 없는 글로벌 AI 미래 예측 벤치마크 1위…국내 스타트업 ‘기술력 증명’",
+          "original_summary": "리더보드 관련 평가 데이터 과적합, 결과 공정성에 대한 문제 제기가 계속되는 가운데, 국내 기업이 ‘답을 알 수 없는’ 글로벌 벤치마크에서 1위를 달성하는 유의미한 성과를 거뒀다. 미래 사건의 결과를 예측하는 벤치마크로, 문제 풀이 시점에는 누구도 답을 알 수 없다는 것이 특징이다.금융 AI 투자 플랫폼 \\'밸리 AI(Valley AI)\\'를 운영하는 뉴로퓨전(대표 최한철)이 글로벌 AI 미래 예측 벤치마크인 \\'포캐스트벤치(ForecastBench)\\'의 선행(preliminary) 리더보드에서 1위를 기록했다고 22일 밝혔다.포",
+          "summary": "리더보드 관련 평가 데이터 과적합, 결과 공정성에 대한 문제 제기가 계속되는 가운데, 국내 기업이 ‘답을 알 수 없는’ 글로벌 벤치마크에서 1위를 달성하는 유의미한 성과를 거뒀다. 미래 사건의 결과를 예측하는 벤치마크로, 문제 풀이 시점에는 누구도 답을 알 수 없다는 것이 특징이다.금융 AI 투자 플랫폼 \\'밸리 AI(Valley AI)\\'를 운영하는 뉴로퓨전(대표 최한철)이 글로벌 AI 미래 예측 벤치마크인 \\'포캐스트벤치(ForecastBench)\\'의 선행(preliminary) 리더보드에서 1위를 기록했다고 22일 밝혔다.포"
+        },
+        {
+          "title": "Accelerating AI adoption and governance amid an AI slowdown",
+          "link": "https://aibusiness.com/data-governance/accelerating-ai-adoption-governance-amid-an-ai-slowdown",
+          "date": "2026-09-22",
+          "source": "AI Business",
+          "description": "While many organizations are accelerating their use of AI, they need to focus on governance and invest in trust, security and alignment.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltaaf6ff164374647c/6ab151f29668a5a31c5c2c06/Cloud.jpg?width=720&quality=80&disable=upscale",
           "is_english": true,
-          "summary": "• Ternary-Bonsai-2-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
+          "original_title": "Accelerating AI adoption and governance amid an AI slowdown",
+          "original_summary": "While many organizations are accelerating their use of AI, they need to focus on governance and invest in trust, security and alignment.",
+          "summary": "While many organizations are accelerating their use of AI, they need to focus on governance and invest in trust, security and alignment."
         },
         {
           "title": "convaiinnovations/laya",
@@ -27,6 +62,19 @@
           "is_english": true,
           "summary": "• laya 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "convaiinnovations/laya",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+          "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+          "date": "2026-09-22",
+          "source": "HuggingFace",
+          "description": "• Ternary-Bonsai-2-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
+          "is_english": true,
+          "summary": "• Ternary-Bonsai-2-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -83,6 +131,19 @@
           "category": "AI Model"
         },
         {
+          "title": "abenzerps/Qwen-Image-2.1-GGUF",
+          "link": "https://huggingface.co/abenzerps/Qwen-Image-2.1-GGUF",
+          "date": "2026-09-22",
+          "source": "HuggingFace",
+          "description": "• Qwen-Image-2.1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/abenzerps/Qwen-Image-2.1-GGUF/resolve/main/assets/Qwen-Image-2.1-Benchmark.png",
+          "is_english": true,
+          "summary": "• Qwen-Image-2.1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "abenzerps/Qwen-Image-2.1-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "harshatheg/Qwen-2.5-1B-RLCD",
           "link": "https://huggingface.co/harshatheg/Qwen-2.5-1B-RLCD",
           "date": "2026-09-22",
@@ -122,6 +183,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Comfy-Org/Qwen-Image-2.1",
+          "link": "https://huggingface.co/Comfy-Org/Qwen-Image-2.1",
+          "date": "2026-09-22",
+          "source": "HuggingFace",
+          "description": "• Qwen-Image-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen-Image-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Comfy-Org/Qwen-Image-2.1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Lightricks/LTX-2.5",
           "link": "https://huggingface.co/Lightricks/LTX-2.5",
           "date": "2026-09-22",
@@ -131,6 +205,19 @@
           "is_english": true,
           "summary": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Lightricks/LTX-2.5",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "AlexWortega/openjev",
+          "link": "https://huggingface.co/AlexWortega/openjev",
+          "date": "2026-09-22",
+          "source": "HuggingFace",
+          "description": "• openjev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/AlexWortega/openjev/resolve/main/assets/radar_openjev.png",
+          "is_english": true,
+          "summary": "• openjev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "AlexWortega/openjev",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -148,41 +235,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Comfy-Org/Qwen-Image-2.1",
-          "link": "https://huggingface.co/Comfy-Org/Qwen-Image-2.1",
+          "title": "Altworld/Hemmingway-1",
+          "link": "https://huggingface.co/Altworld/Hemmingway-1",
           "date": "2026-09-22",
           "source": "HuggingFace",
-          "description": "• Qwen-Image-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "description": "• Hemmingway-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/Altworld/Hemmingway-1/resolve/main/charts/communicationbench.png",
           "is_english": true,
-          "summary": "• Qwen-Image-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Comfy-Org/Qwen-Image-2.1",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "abenzerps/Qwen-Image-2.1-GGUF",
-          "link": "https://huggingface.co/abenzerps/Qwen-Image-2.1-GGUF",
-          "date": "2026-09-22",
-          "source": "HuggingFace",
-          "description": "• Qwen-Image-2.1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/abenzerps/Qwen-Image-2.1-GGUF/resolve/main/assets/Qwen-Image-2.1-Benchmark.png",
-          "is_english": true,
-          "summary": "• Qwen-Image-2.1-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "abenzerps/Qwen-Image-2.1-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "AlexWortega/openjev",
-          "link": "https://huggingface.co/AlexWortega/openjev",
-          "date": "2026-09-22",
-          "source": "HuggingFace",
-          "description": "• openjev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/AlexWortega/openjev/resolve/main/assets/radar_openjev.png",
-          "is_english": true,
-          "summary": "• openjev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "AlexWortega/openjev",
+          "summary": "• Hemmingway-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Altworld/Hemmingway-1",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,19 +300,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Altworld/Hemmingway-1",
-          "link": "https://huggingface.co/Altworld/Hemmingway-1",
-          "date": "2026-09-22",
-          "source": "HuggingFace",
-          "description": "• Hemmingway-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/Altworld/Hemmingway-1/resolve/main/charts/communicationbench.png",
-          "is_english": true,
-          "summary": "• Hemmingway-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Altworld/Hemmingway-1",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "ukisai/Swift-Qwen3.8-27B-GGUF",
           "link": "https://huggingface.co/ukisai/Swift-Qwen3.8-27B-GGUF",
           "date": "2026-09-22",
@@ -268,8 +316,116 @@
     },
     {
       "date": "2026-09-21",
-      "update_time": "2026-09-21 15:28:25",
+      "update_time": "2026-09-21 21:23:40",
       "news": [
+        {
+          "title": "Advisory Group on Mathematics and Artificial Intelligence",
+          "link": "https://openai.com/index/advisory-group-on-mathematics-and-ai",
+          "date": "2026-09-21",
+          "source": "OpenAI",
+          "description": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Advisory Group on Mathematics and Artificial Intelligence",
+          "original_summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results.",
+          "summary": "OpenAI is working with an independent Advisory Group on Mathematics and Artificial Intelligence to guide the review and communication of emerging AI results."
+        },
+        {
+          "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+          "link": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+          "date": "2026-09-21",
+          "source": "OpenAI",
+          "description": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+          "original_summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster.",
+          "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster."
+        },
+        {
+          "title": "Building standards for the next phase of AI",
+          "link": "https://openai.com/index/building-standards-next-phase-ai",
+          "date": "2026-09-21",
+          "source": "OpenAI",
+          "description": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Building standards for the next phase of AI",
+          "original_summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety.",
+          "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety."
+        },
+        {
+          "title": "Expanding OpenAI Academy with new learning paths",
+          "link": "https://openai.com/index/expanding-openai-academy-with-new-learning-paths",
+          "date": "2026-09-21",
+          "source": "OpenAI",
+          "description": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Expanding OpenAI Academy with new learning paths",
+          "original_summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills.",
+          "summary": "Explore new OpenAI Academy learning paths for employees, developers, leaders, educators, and students to build and demonstrate practical AI skills."
+        },
+        {
+          "title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+          "link": "https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/",
+          "date": "2026-09-21",
+          "source": "TechCrunch",
+          "description": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/51013975207_8dcac5cf72_k.jpg?resize=1200,900",
+          "is_english": true,
+          "original_title": "OpenAI forms math advisory group as its AI resolves more than 100 open problems",
+          "original_summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research.",
+          "summary": "The group won't be given leeway to slow down or redirect OpenAI's ongoing mathematical research."
+        },
+        {
+          "title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
+          "link": "https://techcrunch.com/2026/09/21/discover-whats-next-5-days-left-to-save-up-to-200-on-techcrunch-disrupt-2026/",
+          "date": "2026-09-21",
+          "source": "TechCrunch",
+          "description": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on September 25 at 11:59 p.m. PT.",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/07/expo_hall.png?resize=1200,675",
+          "is_english": true,
+          "original_title": "Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket",
+          "original_summary": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on September 25 at 11:59 p.m. PT.",
+          "summary": "Five days left to save up to $200 on your TechCrunch Disrupt 2026 pass + 50% off a second one. Join 10,000+ founders, investors, and operators at San Francisco’s Moscone West, October 13-15. Grab your ticket savings before prices go up on September 25 at 11:59 p.m. PT."
+        },
+        {
+          "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+          "link": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+          "date": "2026-09-21",
+          "source": "TechCrunch",
+          "description": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-finger-on-app-GettyImages-2293791808.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+          "original_summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
+          "summary": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures."
+        },
+        {
+          "title": "Meta’s AI agent has been blocked from using Amazon.com",
+          "link": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+          "date": "2026-09-21",
+          "source": "TechCrunch",
+          "description": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/meta-muse-app-GettyImages-2293792137.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Meta’s AI agent has been blocked from using Amazon.com",
+          "original_summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
+          "summary": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?"
+        },
+        {
+          "title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+          "link": "https://techcrunch.com/2026/09/21/with-tabby-a-former-accountant-is-using-ai-to-make-accountants-obsolete/",
+          "date": "2026-09-21",
+          "source": "TechCrunch",
+          "description": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/07/GettyImages-1415313623-e1689969929952.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "With Tabby, a former accountant is using AI to make accountants obsolete",
+          "original_summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss.",
+          "summary": "Tabby is designed to be a real-time bookkeeping interface, handling clients’ paperwork as it gives them up-to-the-minute data on their business’s profit and loss."
+        },
         {
           "title": "'AI 순찰 로봇' 광주 시연회서 불꽃도 감지 못해",
           "link": "https://www.yna.co.kr/view/AKR20260921163500054",
@@ -8029,7 +8185,7 @@
         {
           "title": "deepseek-ai/DeepSeek-V4.1-Flash",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
-          "date": "2026-09-13",
+          "date": "2026-09-22",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4.1-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
@@ -8081,7 +8237,7 @@
         {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "date": "2026-09-13",
+          "date": "2026-09-22",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -8120,7 +8276,7 @@
         {
           "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
           "link": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-          "date": "2026-09-13",
+          "date": "2026-09-22",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B-GSQ-RCO-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/arXiv-GSQ_2604.18556-b31b1b?logo=arxiv&logoColor=white",
@@ -8133,7 +8289,7 @@
         {
           "title": "Lightricks/LTX-2.5",
           "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-09-13",
+          "date": "2026-09-22",
           "source": "HuggingFace",
           "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -8146,7 +8302,7 @@
         {
           "title": "m-a-p/YuE2-3B",
           "link": "https://huggingface.co/m-a-p/YuE2-3B",
-          "date": "2026-09-13",
+          "date": "2026-09-22",
           "source": "HuggingFace",
           "description": "• YuE2-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/m-a-p/YuE2-3B/resolve/main/assets/logo.png",
@@ -8159,7 +8315,7 @@
         {
           "title": "unsloth/Qwen3.8-27B-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.8-27B-GGUF",
-          "date": "2026-09-13",
+          "date": "2026-09-22",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
@@ -8172,7 +8328,7 @@
         {
           "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
           "link": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-          "date": "2026-09-13",
+          "date": "2026-09-22",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF/resolve/main/star-wars-hans-solo.gif",
@@ -8276,7 +8432,7 @@
         {
           "title": "Qwen/Qwen3.8-Flash-Next",
           "link": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
-          "date": "2026-09-13",
+          "date": "2026-09-22",
           "source": "HuggingFace",
           "description": "• Qwen3.8-Flash-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3.8-Flash-Next/architecture.png",
