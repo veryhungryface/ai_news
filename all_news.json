@@ -2,8 +2,200 @@
   "dates": [
     {
       "date": "2026-09-23",
-      "update_time": "2026-09-23 02:21:01",
+      "update_time": "2026-09-23 08:05:55",
       "news": [
+        {
+          "title": "\"프롬프트 인젝션·과도한 권한 위험\"…에이전틱 AI 기준 만든다",
+          "link": "https://www.yna.co.kr/view/AKR20260923137900530",
+          "date": "2026-09-23",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 차민지 기자 = 개인정보위는 23일 서울 은행회관에서 &apos;인공지능(AI) 프라이버시 민·관 정책협의회 2기 제2차 전체회의&apos;를 ...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/23/AKR20260923137900530_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "\"프롬프트 인젝션·과도한 권한 위험\"…에이전틱 AI 기준 만든다",
+          "original_summary": "(서울=연합뉴스) 차민지 기자 = 개인정보위는 23일 서울 은행회관에서 &apos;인공지능(AI) 프라이버시 민·관 정책협의회 2기 제2차 전체회의&apos;를 ...",
+          "summary": "(서울=연합뉴스) 차민지 기자 = 개인정보위는 23일 서울 은행회관에서 &apos;인공지능(AI) 프라이버시 민·관 정책협의회 2기 제2차 전체회의&apos;를 ..."
+        },
+        {
+          "title": "텐센트, 고성능 'Hy 이미지 3.5' 출시...경쟁사 추격 기대감에 주가 급등",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215599",
+          "date": "2026-09-23",
+          "source": "AI타임스",
+          "description": "텐센트가 주요 경쟁사인 알리바바의 대형 AI 행사 개막일에 맞춰 최신 이미지 생성 AI 모델을 공개하며 선두 추격에 속도를 냈다. 기술력 개선 기대감이 반영되며 이날 홍콩 증시에서 텐센트 주가는 7% 이상 급등했다.텐센트는 22일(현지시간) 고성능 이미지 생성 모델 ‘Hy 이미지 3.5(Hy Image 3.5)’를 공개했다. 이번 모델은 이전 버전인 ‘Hy 이미지 3.0’보다 전반적인 성능이 30% 향상된 것이 특징이다.특히 기존 3개에 불과했던 참조 이미지 입력 한도를 최대 20개까지 대폭 확대하며 경쟁 모델들과 차별화를 이뤘다.",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215599_219507_453.png",
+          "is_english": false,
+          "original_title": "텐센트, 고성능 'Hy 이미지 3.5' 출시...경쟁사 추격 기대감에 주가 급등",
+          "original_summary": "텐센트가 주요 경쟁사인 알리바바의 대형 AI 행사 개막일에 맞춰 최신 이미지 생성 AI 모델을 공개하며 선두 추격에 속도를 냈다. 기술력 개선 기대감이 반영되며 이날 홍콩 증시에서 텐센트 주가는 7% 이상 급등했다.텐센트는 22일(현지시간) 고성능 이미지 생성 모델 ‘Hy 이미지 3.5(Hy Image 3.5)’를 공개했다. 이번 모델은 이전 버전인 ‘Hy 이미지 3.0’보다 전반적인 성능이 30% 향상된 것이 특징이다.특히 기존 3개에 불과했던 참조 이미지 입력 한도를 최대 20개까지 대폭 확대하며 경쟁 모델들과 차별화를 이뤘다.",
+          "summary": "텐센트가 주요 경쟁사인 알리바바의 대형 AI 행사 개막일에 맞춰 최신 이미지 생성 AI 모델을 공개하며 선두 추격에 속도를 냈다. 기술력 개선 기대감이 반영되며 이날 홍콩 증시에서 텐센트 주가는 7% 이상 급등했다.텐센트는 22일(현지시간) 고성능 이미지 생성 모델 ‘Hy 이미지 3.5(Hy Image 3.5)’를 공개했다. 이번 모델은 이전 버전인 ‘Hy 이미지 3.0’보다 전반적인 성능이 30% 향상된 것이 특징이다.특히 기존 3개에 불과했던 참조 이미지 입력 한도를 최대 20개까지 대폭 확대하며 경쟁 모델들과 차별화를 이뤘다."
+        },
+        {
+          "title": "퀄컴, 차세대 온디바이스 AI 칩 공개…\"에이전트 중심 경험 전환\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215614",
+          "date": "2026-09-23",
+          "source": "AI타임스",
+          "description": "퀄컴이 온디바이스 AI 기능을 강화한 차세대 프리미엄 안드로이드용 칩을 공개했다. 스마트폰 자체에서 AI 모델을 실행하고 사용자의 맥락을 이해하는 \\'에이전틱 AI\\' 기능을 앞세워 프리미엄 시장 공략에 나선다는 전략이다.퀄컴은 22일(현지시간) \\'스냅드래곤 8 엘리트 익스트림 젠 6(Snapdragon 8 Elite Extreme Gen 6) \\'과 \\'스냅드래곤 8 엘리트 젠 6(Snapdragon 8 Elite Gen 6)\\' 등 2종의 플래그십 모바일 플랫폼을 공개했다.두 제품 모두 대만 TSMC의 2나노미터(nm) 공정을 통해 제작",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215614_219515_4630.png",
+          "is_english": false,
+          "original_title": "퀄컴, 차세대 온디바이스 AI 칩 공개…\"에이전트 중심 경험 전환\"",
+          "original_summary": "퀄컴이 온디바이스 AI 기능을 강화한 차세대 프리미엄 안드로이드용 칩을 공개했다. 스마트폰 자체에서 AI 모델을 실행하고 사용자의 맥락을 이해하는 \\'에이전틱 AI\\' 기능을 앞세워 프리미엄 시장 공략에 나선다는 전략이다.퀄컴은 22일(현지시간) \\'스냅드래곤 8 엘리트 익스트림 젠 6(Snapdragon 8 Elite Extreme Gen 6) \\'과 \\'스냅드래곤 8 엘리트 젠 6(Snapdragon 8 Elite Gen 6)\\' 등 2종의 플래그십 모바일 플랫폼을 공개했다.두 제품 모두 대만 TSMC의 2나노미터(nm) 공정을",
+          "summary": "퀄컴이 온디바이스 AI 기능을 강화한 차세대 프리미엄 안드로이드용 칩을 공개했다. 스마트폰 자체에서 AI 모델을 실행하고 사용자의 맥락을 이해하는 \\'에이전틱 AI\\' 기능을 앞세워 프리미엄 시장 공략에 나선다는 전략이다.퀄컴은 22일(현지시간) \\'스냅드래곤 8 엘리트 익스트림 젠 6(Snapdragon 8 Elite Extreme Gen 6) \\'과 \\'스냅드래곤 8 엘리트 젠 6(Snapdragon 8 Elite Gen 6)\\' 등 2종의 플래그십 모바일 플랫폼을 공개했다.두 제품 모두 대만 TSMC의 2나노미터(nm) 공정을"
+        },
+        {
+          "title": "오픈AI, 모델 개발 초기부터 외부 안전성 검증 받는다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215615",
+          "date": "2026-09-23",
+          "source": "AI타임스",
+          "description": "오픈AI가 AI 모델의 출시 직전뿐 아니라 학습과 평가 등 개발 초기 단계부터 외부 독립기관이 안전성을 점검할 수 있도록 평가 권한을 확대한다. AI 모델이 예상치 못한 방식으로 작동하거나 다른 시스템에 접근하는 사례가 잇따르면서 개발 과정 전반에 대한 독립적인 검증을 강화하려는 조치다.오픈AI는 22일(현지시간) AI 모델의 학습·평가·배포 과정에서 외부 기관이 기술적 안전성 평가를 수행하도록 할 계획이라고 밝혔다. 라마 아마드 오픈AI 외부 안전성 검토 담당자는 \\\"위험이 커지고 있는 만큼 배포뿐 아니라 높은 위험이 수반되는 학습",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215615_219516_5659.jpg",
+          "is_english": false,
+          "original_title": "오픈AI, 모델 개발 초기부터 외부 안전성 검증 받는다",
+          "original_summary": "오픈AI가 AI 모델의 출시 직전뿐 아니라 학습과 평가 등 개발 초기 단계부터 외부 독립기관이 안전성을 점검할 수 있도록 평가 권한을 확대한다. AI 모델이 예상치 못한 방식으로 작동하거나 다른 시스템에 접근하는 사례가 잇따르면서 개발 과정 전반에 대한 독립적인 검증을 강화하려는 조치다.오픈AI는 22일(현지시간) AI 모델의 학습·평가·배포 과정에서 외부 기관이 기술적 안전성 평가를 수행하도록 할 계획이라고 밝혔다. 라마 아마드 오픈AI 외부 안전성 검토 담당자는 \\\"위험이 커지고 있는 만큼 배포뿐 아니라 높은 위험이 수반되는 학",
+          "summary": "오픈AI가 AI 모델의 출시 직전뿐 아니라 학습과 평가 등 개발 초기 단계부터 외부 독립기관이 안전성을 점검할 수 있도록 평가 권한을 확대한다. AI 모델이 예상치 못한 방식으로 작동하거나 다른 시스템에 접근하는 사례가 잇따르면서 개발 과정 전반에 대한 독립적인 검증을 강화하려는 조치다.오픈AI는 22일(현지시간) AI 모델의 학습·평가·배포 과정에서 외부 기관이 기술적 안전성 평가를 수행하도록 할 계획이라고 밝혔다. 라마 아마드 오픈AI 외부 안전성 검토 담당자는 \\\"위험이 커지고 있는 만큼 배포뿐 아니라 높은 위험이 수반되는 학"
+        },
+        {
+          "title": "3D 코딩 대결...클로드 오퍼스 5.5 \"디테일\" vs GPT-5.6 \"비용·속도\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215618",
+          "date": "2026-09-23",
+          "source": "AI타임스",
+          "description": "같은 날 공개된 \\'클로드 오퍼스 5.5\\'와 \\'GPT-6 솔\\' 간의 3D 웹 연출 비교 결과가 등장했다.AI 모델 라우팅 전문 AI/ML은 23일 앤트로픽과 오픈AI의 API를 통해 두 모델에 같은 프롬프트를 입력한 결과를 비교했다. 여기에는 움직이는 물고기 떼(Fish School), 소용돌이(Maelstrom), 폭풍 속의 배(Ship in a storm), 쓰나미(Tsunami) 등 4가지 프롬프트로 작성된 3D 애니메이션 생성 결과물이 포함됐다.그 결과, 결과물의 퀄리티와 비용은 엇갈렸다. 단 한 단어의 간결한 지시문 환경에서",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215618_219518_3752.png",
+          "is_english": true,
+          "original_title": "3D 코딩 대결...클로드 오퍼스 5.5 \"디테일\" vs GPT-5.6 \"비용·속도\"",
+          "original_summary": "같은 날 공개된 \\'클로드 오퍼스 5.5\\'와 \\'GPT-6 솔\\' 간의 3D 웹 연출 비교 결과가 등장했다.AI 모델 라우팅 전문 AI/ML은 23일 앤트로픽과 오픈AI의 API를 통해 두 모델에 같은 프롬프트를 입력한 결과를 비교했다. 여기에는 움직이는 물고기 떼(Fish School), 소용돌이(Maelstrom), 폭풍 속의 배(Ship in a storm), 쓰나미(Tsunami) 등 4가지 프롬프트로 작성된 3D 애니메이션 생성 결과물이 포함됐다.그 결과, 결과물의 퀄리티와 비용은 엇갈렸다. 단 한 단어의 간결한 지시문 ",
+          "summary": "같은 날 공개된 \\'클로드 오퍼스 5.5\\'와 \\'GPT-6 솔\\' 간의 3D 웹 연출 비교 결과가 등장했다.AI 모델 라우팅 전문 AI/ML은 23일 앤트로픽과 오픈AI의 API를 통해 두 모델에 같은 프롬프트를 입력한 결과를 비교했다. 여기에는 움직이는 물고기 떼(Fish School), 소용돌이(Maelstrom), 폭풍 속의 배(Ship in a storm), 쓰나미(Tsunami) 등 4가지 프롬프트로 작성된 3D 애니메이션 생성 결과물이 포함됐다.그 결과, 결과물의 퀄리티와 비용은 엇갈렸다. 단 한 단어의 간결한 지시문 "
+        },
+        {
+          "title": "중국 당국, 딥시크·문샷 수사 중...\"국방·민감 정보, 미국 서버로 넘어가\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215610",
+          "date": "2026-09-23",
+          "source": "AI타임스",
+          "description": "중국 인터넷 규제 당국이 딥시크와 문샷 AI를 상대로 데이터 보안 관련 조사를 벌이고 있는 것으로 알려졌다. 앤트로픽이 두 회사가 민감한 데이터를 \\'클로드\\'로 전달했다고 주장한 데 따른 조치다.22일(현지시간) 디 인포메이션에 따르면, 중국 사이버공간관리국(CAC)은 딥시크와 문샷을 대상으로 공식 조사에 착수했다. 앤트로픽은 지난 10일 위협 인텔리전스 보고서를 공개하고 중국 기업들이 클로드를 무단 활용해 모델의 성능을 높이는 ‘증류(distillation)’ 작업을 벌였다고 주장했다.이 과정에서 일부 중국 기업들은 사용자의 어려운",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215610_219511_1751.png",
+          "is_english": false,
+          "original_title": "중국 당국, 딥시크·문샷 수사 중...\"국방·민감 정보, 미국 서버로 넘어가\"",
+          "original_summary": "중국 인터넷 규제 당국이 딥시크와 문샷 AI를 상대로 데이터 보안 관련 조사를 벌이고 있는 것으로 알려졌다. 앤트로픽이 두 회사가 민감한 데이터를 \\'클로드\\'로 전달했다고 주장한 데 따른 조치다.22일(현지시간) 디 인포메이션에 따르면, 중국 사이버공간관리국(CAC)은 딥시크와 문샷을 대상으로 공식 조사에 착수했다. 앤트로픽은 지난 10일 위협 인텔리전스 보고서를 공개하고 중국 기업들이 클로드를 무단 활용해 모델의 성능을 높이는 ‘증류(distillation)’ 작업을 벌였다고 주장했다.이 과정에서 일부 중국 기업들은 사용자의 어",
+          "summary": "중국 인터넷 규제 당국이 딥시크와 문샷 AI를 상대로 데이터 보안 관련 조사를 벌이고 있는 것으로 알려졌다. 앤트로픽이 두 회사가 민감한 데이터를 \\'클로드\\'로 전달했다고 주장한 데 따른 조치다.22일(현지시간) 디 인포메이션에 따르면, 중국 사이버공간관리국(CAC)은 딥시크와 문샷을 대상으로 공식 조사에 착수했다. 앤트로픽은 지난 10일 위협 인텔리전스 보고서를 공개하고 중국 기업들이 클로드를 무단 활용해 모델의 성능을 높이는 ‘증류(distillation)’ 작업을 벌였다고 주장했다.이 과정에서 일부 중국 기업들은 사용자의 어"
+        },
+        {
+          "title": "알트먼·아모데이·딥시크 총출동…유엔 안보리서 'AI 안전' 논의",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215613",
+          "date": "2026-09-23",
+          "source": "AI타임스",
+          "description": "샘 알트먼 오픈AI CEO와 다리오 아모데이 앤트로픽 CEO를 비롯해 중국 딥시크와 문샷 AI 등의 주요 관계자들이 AI와 국제안보를 논의하는 유엔 안전보장이사회 브리핑에 참여한다. 세계 각국 정상들이 유엔총회 참석을 위해 뉴욕에 모인 가운데 AI의 안전성과 관리 방안을 둘러싼 논의가 글로벌 차원으로 확대되고 있다.유엔 안보리는 23일(현지시간) AI가 국제 평화와 안보에 미치는 영향을 주제로 회의를 개최할 예정이다.로이터에 따르면, 이번 회의에는 알트먼과 아모데이 CEO 외에도 AI 분야의 주요 인사들이 참석한다. 클레망 들랑그",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215613_219513_355.jpg",
+          "is_english": false,
+          "original_title": "알트먼·아모데이·딥시크 총출동…유엔 안보리서 'AI 안전' 논의",
+          "original_summary": "샘 알트먼 오픈AI CEO와 다리오 아모데이 앤트로픽 CEO를 비롯해 중국 딥시크와 문샷 AI 등의 주요 관계자들이 AI와 국제안보를 논의하는 유엔 안전보장이사회 브리핑에 참여한다. 세계 각국 정상들이 유엔총회 참석을 위해 뉴욕에 모인 가운데 AI의 안전성과 관리 방안을 둘러싼 논의가 글로벌 차원으로 확대되고 있다.유엔 안보리는 23일(현지시간) AI가 국제 평화와 안보에 미치는 영향을 주제로 회의를 개최할 예정이다.로이터에 따르면, 이번 회의에는 알트먼과 아모데이 CEO 외에도 AI 분야의 주요 인사들이 참석한다. 클레망 들랑그",
+          "summary": "샘 알트먼 오픈AI CEO와 다리오 아모데이 앤트로픽 CEO를 비롯해 중국 딥시크와 문샷 AI 등의 주요 관계자들이 AI와 국제안보를 논의하는 유엔 안전보장이사회 브리핑에 참여한다. 세계 각국 정상들이 유엔총회 참석을 위해 뉴욕에 모인 가운데 AI의 안전성과 관리 방안을 둘러싼 논의가 글로벌 차원으로 확대되고 있다.유엔 안보리는 23일(현지시간) AI가 국제 평화와 안보에 미치는 영향을 주제로 회의를 개최할 예정이다.로이터에 따르면, 이번 회의에는 알트먼과 아모데이 CEO 외에도 AI 분야의 주요 인사들이 참석한다. 클레망 들랑그"
+        },
+        {
+          "title": "[게시판] KAIST·스카이인텔리전스·다임리서치, ‘제조 피지컬AI 스타케이트’ 결성 등 단신",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215617",
+          "date": "2026-09-23",
+          "source": "AI타임스",
+          "description": "■ 스카이인텔리전스(대표 이재철)는 KAIST 제조피지컬AI연구소, 다임리서치와 피지컬 AI 분야 기술 협력 및 산업 생태계 확산을 위한 3자 MOU를 체결했다고 밝혔다. 제조 현장의 AI 전환을 위해 공동 연구·사업 및 실증 과제 발굴부터 전문인력 양성, 생태계 확산과 공동 시장 개발까지 협력 범위를 넓혀갈 계획이다. 설비와 물류, 개별 로봇부터 로봇 군집 운영까지 아우르는 공동 연구와 사업을 추진, 실증 과제도 발굴해 나간다.■ 시티아이랩은 현대차 1차 벤더사 공장의 물대포 기반 진압 장비와 연계해 강서 재활용센터에 AI 화재",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215617_219517_817.jpeg",
+          "is_english": false,
+          "original_title": "[게시판] KAIST·스카이인텔리전스·다임리서치, ‘제조 피지컬AI 스타케이트’ 결성 등 단신",
+          "original_summary": "■ 스카이인텔리전스(대표 이재철)는 KAIST 제조피지컬AI연구소, 다임리서치와 피지컬 AI 분야 기술 협력 및 산업 생태계 확산을 위한 3자 MOU를 체결했다고 밝혔다. 제조 현장의 AI 전환을 위해 공동 연구·사업 및 실증 과제 발굴부터 전문인력 양성, 생태계 확산과 공동 시장 개발까지 협력 범위를 넓혀갈 계획이다. 설비와 물류, 개별 로봇부터 로봇 군집 운영까지 아우르는 공동 연구와 사업을 추진, 실증 과제도 발굴해 나간다.■ 시티아이랩은 현대차 1차 벤더사 공장의 물대포 기반 진압 장비와 연계해 강서 재활용센터에 AI 화재",
+          "summary": "■ 스카이인텔리전스(대표 이재철)는 KAIST 제조피지컬AI연구소, 다임리서치와 피지컬 AI 분야 기술 협력 및 산업 생태계 확산을 위한 3자 MOU를 체결했다고 밝혔다. 제조 현장의 AI 전환을 위해 공동 연구·사업 및 실증 과제 발굴부터 전문인력 양성, 생태계 확산과 공동 시장 개발까지 협력 범위를 넓혀갈 계획이다. 설비와 물류, 개별 로봇부터 로봇 군집 운영까지 아우르는 공동 연구와 사업을 추진, 실증 과제도 발굴해 나간다.■ 시티아이랩은 현대차 1차 벤더사 공장의 물대포 기반 진압 장비와 연계해 강서 재활용센터에 AI 화재"
+        },
+        {
+          "title": "인핸스, GS칼텍스와 암묵지 AI 모델 개발 착수 \"제조 베테랑 노하우 AI에 새긴다\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215612",
+          "date": "2026-09-23",
+          "source": "AI타임스",
+          "description": "인핸스(대표 이승현)는 GS칼텍스와 \\'제조 암묵지 기반 AI 모델 개발\\' 프로젝트를 수행한다고 23일 밝혔다.산업통상자원부의 \\'2026 제조 암묵지 기반 AI 모델 개발 사업\\'에 따라 진행되며, 인핸스는 주관기관으로 연구개발을 총괄한다. 오픈그래프랩스는 비정형 문서 파싱을 담당하고 전남대와 광주과학기술원(GIST)은 공동연구기관으로 참여한다.제조 현장의 암묵지를 AI 및 챗봇으로 구현하는 것이 목표다. GS칼텍스 설비 83만 2996대와 비정형 문서 2900건을 온톨로지로 구조화해 설비·부품·이상 징후·원인·조치 간 데이터와 지식",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215612_219514_3841.png",
+          "is_english": false,
+          "original_title": "인핸스, GS칼텍스와 암묵지 AI 모델 개발 착수 \"제조 베테랑 노하우 AI에 새긴다\"",
+          "original_summary": "인핸스(대표 이승현)는 GS칼텍스와 \\'제조 암묵지 기반 AI 모델 개발\\' 프로젝트를 수행한다고 23일 밝혔다.산업통상자원부의 \\'2026 제조 암묵지 기반 AI 모델 개발 사업\\'에 따라 진행되며, 인핸스는 주관기관으로 연구개발을 총괄한다. 오픈그래프랩스는 비정형 문서 파싱을 담당하고 전남대와 광주과학기술원(GIST)은 공동연구기관으로 참여한다.제조 현장의 암묵지를 AI 및 챗봇으로 구현하는 것이 목표다. GS칼텍스 설비 83만 2996대와 비정형 문서 2900건을 온톨로지로 구조화해 설비·부품·이상 징후·원인·조치 간 데이터와",
+          "summary": "인핸스(대표 이승현)는 GS칼텍스와 \\'제조 암묵지 기반 AI 모델 개발\\' 프로젝트를 수행한다고 23일 밝혔다.산업통상자원부의 \\'2026 제조 암묵지 기반 AI 모델 개발 사업\\'에 따라 진행되며, 인핸스는 주관기관으로 연구개발을 총괄한다. 오픈그래프랩스는 비정형 문서 파싱을 담당하고 전남대와 광주과학기술원(GIST)은 공동연구기관으로 참여한다.제조 현장의 암묵지를 AI 및 챗봇으로 구현하는 것이 목표다. GS칼텍스 설비 83만 2996대와 비정형 문서 2900건을 온톨로지로 구조화해 설비·부품·이상 징후·원인·조치 간 데이터와"
+        },
+        {
+          "title": "프랑스 영농형 태양광 실증…가뭄 속 옥수수 수확량 19.6% 증가",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215586",
+          "date": "2026-09-23",
+          "source": "AI타임스",
+          "description": "프랑스 영농형 태양광 실증에서 패널 아래 재배한 사일리지용 옥수수의 건조물 기준 수확량이 일반 노지보다 19.6% 높게 나타났다. 다른 보리 재배 실증에서는 작물과 토양에서 빠져나가는 수분을 나타내는 증발산량이 한 작기 동안 20% 감소했다. 티에스이(TSE)는 폭염과 가뭄이 심했던 올해 태양광 구조물이 작물의 고온·수분 스트레스를 줄인 결과로 분석했다.프랑스 태양광 개발사 티에스이(TSE)는 지난 18일(현지시간) 프랑스 내 영농형 태양광 실증부지의 2026년 농업 모니터링 결과를 공개했다. 이번 결과에는 오트손주 아망스의 옥수수",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215586_219494_1154.jpg",
+          "is_english": false,
+          "original_title": "프랑스 영농형 태양광 실증…가뭄 속 옥수수 수확량 19.6% 증가",
+          "original_summary": "프랑스 영농형 태양광 실증에서 패널 아래 재배한 사일리지용 옥수수의 건조물 기준 수확량이 일반 노지보다 19.6% 높게 나타났다. 다른 보리 재배 실증에서는 작물과 토양에서 빠져나가는 수분을 나타내는 증발산량이 한 작기 동안 20% 감소했다. 티에스이(TSE)는 폭염과 가뭄이 심했던 올해 태양광 구조물이 작물의 고온·수분 스트레스를 줄인 결과로 분석했다.프랑스 태양광 개발사 티에스이(TSE)는 지난 18일(현지시간) 프랑스 내 영농형 태양광 실증부지의 2026년 농업 모니터링 결과를 공개했다. 이번 결과에는 오트손주 아망스의 옥수수",
+          "summary": "프랑스 영농형 태양광 실증에서 패널 아래 재배한 사일리지용 옥수수의 건조물 기준 수확량이 일반 노지보다 19.6% 높게 나타났다. 다른 보리 재배 실증에서는 작물과 토양에서 빠져나가는 수분을 나타내는 증발산량이 한 작기 동안 20% 감소했다. 티에스이(TSE)는 폭염과 가뭄이 심했던 올해 태양광 구조물이 작물의 고온·수분 스트레스를 줄인 결과로 분석했다.프랑스 태양광 개발사 티에스이(TSE)는 지난 18일(현지시간) 프랑스 내 영농형 태양광 실증부지의 2026년 농업 모니터링 결과를 공개했다. 이번 결과에는 오트손주 아망스의 옥수수"
+        },
+        {
+          "title": "트럼프 \"AI 명칭 '초지능'으로 변경\"…글로벌 규약도 거부",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215609",
+          "date": "2026-09-23",
+          "source": "AI타임스",
+          "description": "도널드 트럼프 미국 대통령이 AI라는 명칭을 공식 문서에서 \\'초지능(Super Intelligence)\\'으로 변경하겠다고 선언했다. 이와 함께 AI 위험 관리를 위한 국제 협력 체계 구축 시도를 거부하는 한편, 필요시 미국 법무부를 통한 자체 기업 규제 가능성을 내비쳤다.트럼프 대통령은 22일(현지시간) 뉴욕에서 열린 제81차 유엔총회 연설에서 \\\"인공(Artificial)이라는 단어는 기술이 진짜가 아닌 가짜처럼 느끼게 만든다\\\"며 \\\"앞으로 미국 정부의 모든 문서에서 인공지능을 훨씬 정확한 표현인 \\'초지능(SI)\\'으로 바꿔 부르겠다\\\"",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215609_219508_526.jpg",
+          "is_english": false,
+          "original_title": "트럼프 \"AI 명칭 '초지능'으로 변경\"…글로벌 규약도 거부",
+          "original_summary": "도널드 트럼프 미국 대통령이 AI라는 명칭을 공식 문서에서 \\'초지능(Super Intelligence)\\'으로 변경하겠다고 선언했다. 이와 함께 AI 위험 관리를 위한 국제 협력 체계 구축 시도를 거부하는 한편, 필요시 미국 법무부를 통한 자체 기업 규제 가능성을 내비쳤다.트럼프 대통령은 22일(현지시간) 뉴욕에서 열린 제81차 유엔총회 연설에서 \\\"인공(Artificial)이라는 단어는 기술이 진짜가 아닌 가짜처럼 느끼게 만든다\\\"며 \\\"앞으로 미국 정부의 모든 문서에서 인공지능을 훨씬 정확한 표현인 \\'초지능(SI)\\'으로 바",
+          "summary": "도널드 트럼프 미국 대통령이 AI라는 명칭을 공식 문서에서 \\'초지능(Super Intelligence)\\'으로 변경하겠다고 선언했다. 이와 함께 AI 위험 관리를 위한 국제 협력 체계 구축 시도를 거부하는 한편, 필요시 미국 법무부를 통한 자체 기업 규제 가능성을 내비쳤다.트럼프 대통령은 22일(현지시간) 뉴욕에서 열린 제81차 유엔총회 연설에서 \\\"인공(Artificial)이라는 단어는 기술이 진짜가 아닌 가짜처럼 느끼게 만든다\\\"며 \\\"앞으로 미국 정부의 모든 문서에서 인공지능을 훨씬 정확한 표현인 \\'초지능(SI)\\'으로 바"
+        },
+        {
+          "title": "햇빛소득마을 2차 공모 617곳 신청…에너지공단, 사업관리 강화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215587",
+          "date": "2026-09-23",
+          "source": "AI타임스",
+          "description": "한국에너지공단이 주민참여형 태양광 사업인 ‘햇빛소득마을’ 확대에 맞춰 사업 기획부터 시공·운영까지 지원하는 전문기업의 운영·관리 체계를 고도화한다. 부지·재원 확인 절차와 사업 수행 과정에서 레스코가 맡아야 할 역할과 책임을 구체화하고 주민과 사업자 간 신뢰를 높이기 위한 관리 방향도 마련한다.한국에너지공단은 지난 15일 충북 청주오스코에서 재생에너지 종합서비스기업(ReSCO·레스코)을 대상으로 종합 설명회를 열었다고 밝혔다. 행정안전부 햇빛소득마을 추진단과 공단 관계자, 레스코 선정기업 담당자 등 약 200명이 참석했다.레스코는",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215587_219493_810.jpg",
+          "is_english": false,
+          "original_title": "햇빛소득마을 2차 공모 617곳 신청…에너지공단, 사업관리 강화",
+          "original_summary": "한국에너지공단이 주민참여형 태양광 사업인 ‘햇빛소득마을’ 확대에 맞춰 사업 기획부터 시공·운영까지 지원하는 전문기업의 운영·관리 체계를 고도화한다. 부지·재원 확인 절차와 사업 수행 과정에서 레스코가 맡아야 할 역할과 책임을 구체화하고 주민과 사업자 간 신뢰를 높이기 위한 관리 방향도 마련한다.한국에너지공단은 지난 15일 충북 청주오스코에서 재생에너지 종합서비스기업(ReSCO·레스코)을 대상으로 종합 설명회를 열었다고 밝혔다. 행정안전부 햇빛소득마을 추진단과 공단 관계자, 레스코 선정기업 담당자 등 약 200명이 참석했다.레스코는",
+          "summary": "한국에너지공단이 주민참여형 태양광 사업인 ‘햇빛소득마을’ 확대에 맞춰 사업 기획부터 시공·운영까지 지원하는 전문기업의 운영·관리 체계를 고도화한다. 부지·재원 확인 절차와 사업 수행 과정에서 레스코가 맡아야 할 역할과 책임을 구체화하고 주민과 사업자 간 신뢰를 높이기 위한 관리 방향도 마련한다.한국에너지공단은 지난 15일 충북 청주오스코에서 재생에너지 종합서비스기업(ReSCO·레스코)을 대상으로 종합 설명회를 열었다고 밝혔다. 행정안전부 햇빛소득마을 추진단과 공단 관계자, 레스코 선정기업 담당자 등 약 200명이 참석했다.레스코는"
+        },
+        {
+          "title": "순천, 추석 앞두고 산불 예방 강화…불법 소각 집중 단속",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215603",
+          "date": "2026-09-23",
+          "source": "AI타임스",
+          "description": "AI 생성 영상순천시가 건조한 가을 날씨와 추석 연휴를 앞두고 산불 예방과 산림 내 불법행위 단속을 강화한다.순천은 올해 9월20일 기준 산불이 7건 발생해 약 4.2ha의 산림 피해가 발생했다고 밝혔다.주요 원인은 영농부산물과 쓰레기 소각, 용접작업 등 불씨 취급 부주의로 파악됐다. 산불로 이어지지 않은 경우에도 산림인접지역에서 불법 소각 등 위반행위가 확인돼 과태료 7건이 부과됐다.실제 산불로 번져 산림 피해가 발생한 사건에 대해서는 검찰 송치 등 형사절차를 진행하고 있다고 설명했다.추석 연휴와 가을철 등산객·성묘객 증가에 대비",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215603_219506_4454.jpg",
+          "is_english": false,
+          "original_title": "순천, 추석 앞두고 산불 예방 강화…불법 소각 집중 단속",
+          "original_summary": "AI 생성 영상순천시가 건조한 가을 날씨와 추석 연휴를 앞두고 산불 예방과 산림 내 불법행위 단속을 강화한다.순천은 올해 9월20일 기준 산불이 7건 발생해 약 4.2ha의 산림 피해가 발생했다고 밝혔다.주요 원인은 영농부산물과 쓰레기 소각, 용접작업 등 불씨 취급 부주의로 파악됐다. 산불로 이어지지 않은 경우에도 산림인접지역에서 불법 소각 등 위반행위가 확인돼 과태료 7건이 부과됐다.실제 산불로 번져 산림 피해가 발생한 사건에 대해서는 검찰 송치 등 형사절차를 진행하고 있다고 설명했다.추석 연휴와 가을철 등산객·성묘객 증가에 대비",
+          "summary": "AI 생성 영상순천시가 건조한 가을 날씨와 추석 연휴를 앞두고 산불 예방과 산림 내 불법행위 단속을 강화한다.순천은 올해 9월20일 기준 산불이 7건 발생해 약 4.2ha의 산림 피해가 발생했다고 밝혔다.주요 원인은 영농부산물과 쓰레기 소각, 용접작업 등 불씨 취급 부주의로 파악됐다. 산불로 이어지지 않은 경우에도 산림인접지역에서 불법 소각 등 위반행위가 확인돼 과태료 7건이 부과됐다.실제 산불로 번져 산림 피해가 발생한 사건에 대해서는 검찰 송치 등 형사절차를 진행하고 있다고 설명했다.추석 연휴와 가을철 등산객·성묘객 증가에 대비"
+        },
+        {
+          "title": "순천만국가정원, 추석 연휴 전통놀이·공연…달토끼 포토존도",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215602",
+          "date": "2026-09-23",
+          "source": "AI타임스",
+          "description": "AI 생성 영상순천만국가정원이 추석 연휴를 맞아 전통놀이와 공연, 가족 체험 프로그램을 운영한다.순천시는 24일부터 27일까지 4일간 순천만국가정원 동문 호수정원과 테라피가든 일원에서 ‘정원에서 만나는 한가위’를 주제로 문화행사를 연다고 밝혔다.동문 호수정원에서는 매일 오후 1시부터 5시까지 제기차기와 딱지치기, 투호, 오재미, 사방치기, 칠교놀이 등 전통놀이를 즐길 수 있다. 개인전과 가족 협동 미션으로 진행하는 민속놀이 레크리에이션과 댄스, 퓨전국악, 대중가요 버스킹 공연도 마련된다.가족 단위 방문객을 위한 문화체험도 운영한다.",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215602_219504_4215.jpg",
+          "is_english": false,
+          "original_title": "순천만국가정원, 추석 연휴 전통놀이·공연…달토끼 포토존도",
+          "original_summary": "AI 생성 영상순천만국가정원이 추석 연휴를 맞아 전통놀이와 공연, 가족 체험 프로그램을 운영한다.순천시는 24일부터 27일까지 4일간 순천만국가정원 동문 호수정원과 테라피가든 일원에서 ‘정원에서 만나는 한가위’를 주제로 문화행사를 연다고 밝혔다.동문 호수정원에서는 매일 오후 1시부터 5시까지 제기차기와 딱지치기, 투호, 오재미, 사방치기, 칠교놀이 등 전통놀이를 즐길 수 있다. 개인전과 가족 협동 미션으로 진행하는 민속놀이 레크리에이션과 댄스, 퓨전국악, 대중가요 버스킹 공연도 마련된다.가족 단위 방문객을 위한 문화체험도 운영한다.",
+          "summary": "AI 생성 영상순천만국가정원이 추석 연휴를 맞아 전통놀이와 공연, 가족 체험 프로그램을 운영한다.순천시는 24일부터 27일까지 4일간 순천만국가정원 동문 호수정원과 테라피가든 일원에서 ‘정원에서 만나는 한가위’를 주제로 문화행사를 연다고 밝혔다.동문 호수정원에서는 매일 오후 1시부터 5시까지 제기차기와 딱지치기, 투호, 오재미, 사방치기, 칠교놀이 등 전통놀이를 즐길 수 있다. 개인전과 가족 협동 미션으로 진행하는 민속놀이 레크리에이션과 댄스, 퓨전국악, 대중가요 버스킹 공연도 마련된다.가족 단위 방문객을 위한 문화체험도 운영한다."
+        },
+        {
+          "title": "알리바바, 10조 매개변수 초대형 모델 내놓는다...중국 최강 칩도 선보여",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215594",
+          "date": "2026-09-23",
+          "source": "AI타임스",
+          "description": "알리바바가 최대 10조개 매개변수에 달하는 초대형 AI 모델 개발을 추진하고 차세대 AI 가속기까지 공개하는 등 AI 모델부터 반도체, 클라우드 인프라까지 아우르는 ‘풀스택 AI’ 전략을 본격화했다.알리바바는 22일(현지시간) 중국 항저우에서 열린 연례 기술 행사 ‘아스파라 컨퍼런스’에서 차세대 AI 모델 ‘큐원(Qwen) 4’가 현재 학습 단계에 들어갔다고 밝혔다.이어 ‘큐원 4.5’와 ‘큐원 5’로 이어지는 로드맵을 공개하며 앞으로 모델의 매개변수 규모를 5조~10조개까지 확대할 계획이라고 설명했다. 이는 지난 7월 공개한 2조",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215594_219498_1519.png",
+          "is_english": false,
+          "original_title": "알리바바, 10조 매개변수 초대형 모델 내놓는다...중국 최강 칩도 선보여",
+          "original_summary": "알리바바가 최대 10조개 매개변수에 달하는 초대형 AI 모델 개발을 추진하고 차세대 AI 가속기까지 공개하는 등 AI 모델부터 반도체, 클라우드 인프라까지 아우르는 ‘풀스택 AI’ 전략을 본격화했다.알리바바는 22일(현지시간) 중국 항저우에서 열린 연례 기술 행사 ‘아스파라 컨퍼런스’에서 차세대 AI 모델 ‘큐원(Qwen) 4’가 현재 학습 단계에 들어갔다고 밝혔다.이어 ‘큐원 4.5’와 ‘큐원 5’로 이어지는 로드맵을 공개하며 앞으로 모델의 매개변수 규모를 5조~10조개까지 확대할 계획이라고 설명했다. 이는 지난 7월 공개한 2조",
+          "summary": "알리바바가 최대 10조개 매개변수에 달하는 초대형 AI 모델 개발을 추진하고 차세대 AI 가속기까지 공개하는 등 AI 모델부터 반도체, 클라우드 인프라까지 아우르는 ‘풀스택 AI’ 전략을 본격화했다.알리바바는 22일(현지시간) 중국 항저우에서 열린 연례 기술 행사 ‘아스파라 컨퍼런스’에서 차세대 AI 모델 ‘큐원(Qwen) 4’가 현재 학습 단계에 들어갔다고 밝혔다.이어 ‘큐원 4.5’와 ‘큐원 5’로 이어지는 로드맵을 공개하며 앞으로 모델의 매개변수 규모를 5조~10조개까지 확대할 계획이라고 설명했다. 이는 지난 7월 공개한 2조"
+        },
+        {
+          "title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+          "link": "https://techcrunch.com/2026/09/22/were-already-fighting-yesterdays-battle-greeces-prime-minister-gets-candid-about-ai/",
+          "date": "2026-09-23",
+          "source": "TechCrunch",
+          "description": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.\n",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/Mitsotakis_c8978d.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "‘We’re already fighting yesterday’s battle’: Greece’s prime minister gets candid about AI",
+          "original_summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.\n",
+          "summary": "Most leaders on a trade mission stick to the pitch, but when I interviewed Greek Prime Minister Kyriakos Mitsotakis this week, he also admitted that no government is ready for what AI is about to do.\n"
+        },
         {
           "title": "[AI리더의 서가] LLM 마스터: 모델 × 시스템 엔지니어링",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215467",
@@ -150,19 +342,6 @@
           "category": "AI Model"
         },
         {
-          "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-          "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
-          "date": "2026-09-23",
-          "source": "HuggingFace",
-          "description": "• Ternary-Bonsai-2-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
-          "is_english": true,
-          "summary": "• Ternary-Bonsai-2-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen-Image-2.1",
           "link": "https://huggingface.co/Qwen/Qwen-Image-2.1",
           "date": "2026-09-23",
@@ -172,6 +351,19 @@
           "is_english": true,
           "summary": "• Qwen-Image-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen-Image-2.1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
+          "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+          "date": "2026-09-23",
+          "source": "HuggingFace",
+          "description": "• Ternary-Bonsai-2-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
+          "is_english": true,
+          "summary": "• Ternary-Bonsai-2-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -215,19 +407,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.8-27B",
-          "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "date": "2026-09-23",
-          "source": "HuggingFace",
-          "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.8-27B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Comfy-Org/Qwen-Image-2.1",
           "link": "https://huggingface.co/Comfy-Org/Qwen-Image-2.1",
           "date": "2026-09-23",
@@ -241,15 +420,15 @@
           "category": "AI Model"
         },
         {
-          "title": "harshatheg/Qwen-2.5-1B-RLCD",
-          "link": "https://huggingface.co/harshatheg/Qwen-2.5-1B-RLCD",
+          "title": "Qwen/Qwen3.8-27B",
+          "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
           "date": "2026-09-23",
           "source": "HuggingFace",
-          "description": "• Qwen-2.5-1B-RLCD 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm.svg",
+          "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
           "is_english": true,
-          "summary": "• Qwen-2.5-1B-RLCD 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "harshatheg/Qwen-2.5-1B-RLCD",
+          "summary": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.8-27B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -263,6 +442,19 @@
           "is_english": true,
           "summary": "• Hemmingway-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Altworld/Hemmingway-1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "harshatheg/Qwen-2.5-1B-RLCD",
+          "link": "https://huggingface.co/harshatheg/Qwen-2.5-1B-RLCD",
+          "date": "2026-09-23",
+          "source": "HuggingFace",
+          "description": "• Qwen-2.5-1B-RLCD 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm.svg",
+          "is_english": true,
+          "summary": "• Qwen-2.5-1B-RLCD 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "harshatheg/Qwen-2.5-1B-RLCD",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -293,19 +485,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Lightricks/LTX-2.5",
-          "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-09-23",
-          "source": "HuggingFace",
-          "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Lightricks/LTX-2.5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "XiaomiMiMo/MiMo-V2.6-Pro-RL",
           "link": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL",
           "date": "2026-09-23",
@@ -328,6 +507,19 @@
           "is_english": true,
           "summary": "• MiMo-V2.6-Flash-RL 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "XiaomiMiMo/MiMo-V2.6-Flash-RL",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Lightricks/LTX-2.5",
+          "link": "https://huggingface.co/Lightricks/LTX-2.5",
+          "date": "2026-09-23",
+          "source": "HuggingFace",
+          "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Lightricks/LTX-2.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
