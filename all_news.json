@@ -2,8 +2,44 @@
   "dates": [
     {
       "date": "2026-09-25",
-      "update_time": "2026-09-24 18:45:10",
+      "update_time": "2026-09-24 23:40:10",
       "news": [
+        {
+          "title": "오픈AI 에이전트 무단 침입 또 드러나… 피해 전모 파악에 '수개월'",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215648",
+          "date": "2026-09-25",
+          "source": "AI타임스",
+          "description": "오픈AI의 에이전트들이 데이터 수집 과정에서 사용자의 지시 없이 대학과 기관 사이트를 해킹하려 시도한 사실이 또다시 밝혀졌다. 호주 정부 사이트에 이어 연일 관련 사례가 공개되는 등 전체 규모가 밝혀지기까지는 시간이 꽤 걸릴 것으로 보인다.월스트리트저널(WSJ)은 24일(현지시간) 비영리 AI 연구소 트랜슬루스(Transluce)의 연구 결과를 인용해 오픈AI 연관 AI 에이전트들이 5월과 6월 주요 기관 웹사이트에 무단 침입해 정보를 추출하려 했다고 보도했다. 여기에는 호주 보건복지연구소, 뉴멕시코대학교, 공공 데이터 프로젝트인",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215648_219569_5628.png",
+          "is_english": false,
+          "original_title": "오픈AI 에이전트 무단 침입 또 드러나… 피해 전모 파악에 '수개월'",
+          "original_summary": "오픈AI의 에이전트들이 데이터 수집 과정에서 사용자의 지시 없이 대학과 기관 사이트를 해킹하려 시도한 사실이 또다시 밝혀졌다. 호주 정부 사이트에 이어 연일 관련 사례가 공개되는 등 전체 규모가 밝혀지기까지는 시간이 꽤 걸릴 것으로 보인다.월스트리트저널(WSJ)은 24일(현지시간) 비영리 AI 연구소 트랜슬루스(Transluce)의 연구 결과를 인용해 오픈AI 연관 AI 에이전트들이 5월과 6월 주요 기관 웹사이트에 무단 침입해 정보를 추출하려 했다고 보도했다. 여기에는 호주 보건복지연구소, 뉴멕시코대학교, 공공 데이터 프로젝트인",
+          "summary": "오픈AI의 에이전트들이 데이터 수집 과정에서 사용자의 지시 없이 대학과 기관 사이트를 해킹하려 시도한 사실이 또다시 밝혀졌다. 호주 정부 사이트에 이어 연일 관련 사례가 공개되는 등 전체 규모가 밝혀지기까지는 시간이 꽤 걸릴 것으로 보인다.월스트리트저널(WSJ)은 24일(현지시간) 비영리 AI 연구소 트랜슬루스(Transluce)의 연구 결과를 인용해 오픈AI 연관 AI 에이전트들이 5월과 6월 주요 기관 웹사이트에 무단 침입해 정보를 추출하려 했다고 보도했다. 여기에는 호주 보건복지연구소, 뉴멕시코대학교, 공공 데이터 프로젝트인"
+        },
+        {
+          "title": "Gemini 3.8 text-to-speech refines voice AI capabilities",
+          "link": "https://aibusiness.com/generative-ai/gemini-3-8-text-speech-refines-voice-ai-capabilities",
+          "date": "2026-09-25",
+          "source": "AI Business",
+          "description": "The features Google introduced build on existing technology and provide enterprises with a hub for all their AI model capabilities.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt437ce87350c4d4cc/6ab58bf99aed71cadd6d5629/Google.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Gemini 3.8 text-to-speech refines voice AI capabilities",
+          "original_summary": "The features Google introduced build on existing technology and provide enterprises with a hub for all their AI model capabilities.",
+          "summary": "The features Google introduced build on existing technology and provide enterprises with a hub for all their AI model capabilities."
+        },
+        {
+          "title": "Anthropic, OpenAI launches show shift toward multi-model enterprise AI",
+          "link": "https://aibusiness.com/generative-ai/anthropic-openai-launches-shift-multi-model-enterprise-ai",
+          "date": "2026-09-25",
+          "source": "AI Business",
+          "description": "Anthropic and OpenAI released new models this week, expanding the range of models enterprises can use for different workloads and raising new considerations for multi-model management.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blta0e5e29b4f8b857d/6ab58a9061fd9f3cae35e16a/Models.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Anthropic, OpenAI launches show shift toward multi-model enterprise AI",
+          "original_summary": "Anthropic and OpenAI released new models this week, expanding the range of models enterprises can use for different workloads and raising new considerations for multi-model management.",
+          "summary": "Anthropic and OpenAI released new models this week, expanding the range of models enterprises can use for different workloads and raising new considerations for multi-model management."
+        },
         {
           "title": "convaiinnovations/laya",
           "link": "https://huggingface.co/convaiinnovations/laya",
@@ -44,19 +80,6 @@
           "category": "AI Model"
         },
         {
-          "title": "XingChen-AGI/Xing4.0-29B-A4B",
-          "link": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
-          "date": "2026-09-25",
-          "source": "HuggingFace",
-          "description": "• Xing4.0-29B-A4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Xing4.0-29B-A4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "XingChen-AGI/Xing4.0-29B-A4B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
           "link": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
           "date": "2026-09-25",
@@ -66,6 +89,19 @@
           "is_english": true,
           "summary": "• Qwen-Image-2.1-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "XingChen-AGI/Xing4.0-29B-A4B",
+          "link": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
+          "date": "2026-09-25",
+          "source": "HuggingFace",
+          "description": "• Xing4.0-29B-A4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Xing4.0-29B-A4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "XingChen-AGI/Xing4.0-29B-A4B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -135,19 +171,6 @@
           "category": "AI Model"
         },
         {
-          "title": "AlexWortega/openjev",
-          "link": "https://huggingface.co/AlexWortega/openjev",
-          "date": "2026-09-25",
-          "source": "HuggingFace",
-          "description": "• openjev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/AlexWortega/openjev/resolve/main/assets/radar_openjev.png",
-          "is_english": true,
-          "summary": "• openjev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "AlexWortega/openjev",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "XiaomiMiMo/MiMo-V2.6-Pro-RL",
           "link": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Pro-RL",
           "date": "2026-09-25",
@@ -157,6 +180,19 @@
           "is_english": true,
           "summary": "• MiMo-V2.6-Pro-RL 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "XiaomiMiMo/MiMo-V2.6-Pro-RL",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "AlexWortega/openjev",
+          "link": "https://huggingface.co/AlexWortega/openjev",
+          "date": "2026-09-25",
+          "source": "HuggingFace",
+          "description": "• openjev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/AlexWortega/openjev/resolve/main/assets/radar_openjev.png",
+          "is_english": true,
+          "summary": "• openjev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "AlexWortega/openjev",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,19 +275,6 @@
           "category": "AI Model"
         },
         {
-          "title": "harshatheg/Qwen-2.5-1B-RLCD",
-          "link": "https://huggingface.co/harshatheg/Qwen-2.5-1B-RLCD",
-          "date": "2026-09-25",
-          "source": "HuggingFace",
-          "description": "• Qwen-2.5-1B-RLCD 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm.svg",
-          "is_english": true,
-          "summary": "• Qwen-2.5-1B-RLCD 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "harshatheg/Qwen-2.5-1B-RLCD",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "yandex/AliceAI-Foundation-80B-A3B-Base",
           "link": "https://huggingface.co/yandex/AliceAI-Foundation-80B-A3B-Base",
           "date": "2026-09-25",
@@ -263,13 +286,62 @@
           "translated_title": "yandex/AliceAI-Foundation-80B-A3B-Base",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "harshatheg/Qwen-2.5-1B-RLCD",
+          "link": "https://huggingface.co/harshatheg/Qwen-2.5-1B-RLCD",
+          "date": "2026-09-25",
+          "source": "HuggingFace",
+          "description": "• Qwen-2.5-1B-RLCD 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm.svg",
+          "is_english": true,
+          "summary": "• Qwen-2.5-1B-RLCD 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "harshatheg/Qwen-2.5-1B-RLCD",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-09-24",
-      "update_time": "2026-09-24 18:45:10",
+      "update_time": "2026-09-24 23:40:10",
       "news": [
+        {
+          "title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+          "link": "https://techcrunch.com/2026/09/24/bring-your-co-founder-partner-or-colleague-and-get-50-off-a-second-techcrunch-disrupt-2026-pass/",
+          "date": "2026-09-24",
+          "source": "TechCrunch",
+          "description": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/07/expo_hall.png?resize=1200,675",
+          "is_english": true,
+          "original_title": "Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass",
+          "original_summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT.",
+          "summary": "Buy one pass to TechCrunch Disrupt 2026 and get 50% off a second of the same ticket type. Register before event starts on October 13 at 8 a.m. PT."
+        },
+        {
+          "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+          "link": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+          "date": "2026-09-24",
+          "source": "TechCrunch",
+          "description": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/PrismML-Snapdragon-smartglasses.png?w=612",
+          "is_english": true,
+          "original_title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+          "original_summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+          "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have."
+        },
+        {
+          "title": "Estimating suicide risk from text",
+          "link": "https://news.mit.edu/2026/estimating-suicide-risk-from-text-0924",
+          "date": "2026-09-24",
+          "source": "MIT News",
+          "description": "A new language-processing tool could help identify the highest-risk individuals from natural language, enabling swifter interventions.",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/mit-mcgovern-suicide.jpg?itok=Zo0kabFj",
+          "is_english": true,
+          "original_title": "Estimating suicide risk from text",
+          "original_summary": "A new language-processing tool could help identify the highest-risk individuals from natural language, enabling swifter interventions.",
+          "summary": "A new language-processing tool could help identify the highest-risk individuals from natural language, enabling swifter interventions."
+        },
         {
           "title": "메타, 펜던트형 AI 기기 '뮤즈 참'  12월 출시 예고",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215647",
@@ -8257,7 +8329,7 @@
         {
           "title": "deepseek-ai/DeepSeek-V4.1-Flash",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
-          "date": "2026-09-16",
+          "date": "2026-09-25",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4.1-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
@@ -8296,7 +8368,7 @@
         {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "date": "2026-09-16",
+          "date": "2026-09-25",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -8335,7 +8407,7 @@
         {
           "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
           "link": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-          "date": "2026-09-16",
+          "date": "2026-09-25",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B-GSQ-RCO-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/arXiv-GSQ_2604.18556-b31b1b?logo=arxiv&logoColor=white",
@@ -8348,7 +8420,7 @@
         {
           "title": "Lightricks/LTX-2.5",
           "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-09-16",
+          "date": "2026-09-25",
           "source": "HuggingFace",
           "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
