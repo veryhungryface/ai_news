@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-09-27",
-      "update_time": "2026-09-26 18:10:08",
+      "update_time": "2026-09-26 23:14:45",
       "news": [
+        {
+          "title": "경기도, 10월 'AI 콘텐츠 어워즈' 개최…20편 본선 진출",
+          "link": "https://www.yna.co.kr/view/AKR20260923135200061",
+          "date": "2026-09-27",
+          "source": "연합뉴스",
+          "description": "(수원=연합뉴스) 최종호 기자 = 경기도는 오는 10월 15일부터 16일까지 롯데시네마 수원에서 열리는 &apos;대한민국 AI 콘텐츠 어워즈&apos; 국제공모...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/23/AKR20260923135200061_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "경기도, 10월 'AI 콘텐츠 어워즈' 개최…20편 본선 진출",
+          "original_summary": "(수원=연합뉴스) 최종호 기자 = 경기도는 오는 10월 15일부터 16일까지 롯데시네마 수원에서 열리는 &apos;대한민국 AI 콘텐츠 어워즈&apos; 국제공모...",
+          "summary": "(수원=연합뉴스) 최종호 기자 = 경기도는 오는 10월 15일부터 16일까지 롯데시네마 수원에서 열리는 &apos;대한민국 AI 콘텐츠 어워즈&apos; 국제공모..."
+        },
         {
           "title": "convaiinnovations/laya",
           "link": "https://huggingface.co/convaiinnovations/laya",
@@ -122,19 +134,6 @@
           "category": "AI Model"
         },
         {
-          "title": "TaichuAI/ZDTaichu5.0-9B",
-          "link": "https://huggingface.co/TaichuAI/ZDTaichu5.0-9B",
-          "date": "2026-09-27",
-          "source": "HuggingFace",
-          "description": "• ZDTaichu5.0-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
-          "is_english": true,
-          "summary": "• ZDTaichu5.0-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "TaichuAI/ZDTaichu5.0-9B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B",
           "link": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B",
           "date": "2026-09-27",
@@ -144,6 +143,19 @@
           "is_english": true,
           "summary": "• MiMo-V2.6-Distill-Qwen-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "XiaomiMiMo/MiMo-V2.6-Distill-Qwen-9B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "TaichuAI/ZDTaichu5.0-9B",
+          "link": "https://huggingface.co/TaichuAI/ZDTaichu5.0-9B",
+          "date": "2026-09-27",
+          "source": "HuggingFace",
+          "description": "• ZDTaichu5.0-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• ZDTaichu5.0-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "TaichuAI/ZDTaichu5.0-9B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -213,6 +225,19 @@
           "category": "AI Model"
         },
         {
+          "title": "StarDoc-AI/TeleOCR",
+          "link": "https://huggingface.co/StarDoc-AI/TeleOCR",
+          "date": "2026-09-27",
+          "source": "HuggingFace",
+          "description": "• TeleOCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/License-Apache--2.0-blue.svg",
+          "is_english": true,
+          "summary": "• TeleOCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "StarDoc-AI/TeleOCR",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "deepseek-ai/DeepSeek-V4.1-Flash",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
           "date": "2026-09-27",
@@ -239,28 +264,15 @@
           "category": "AI Model"
         },
         {
-          "title": "StarDoc-AI/TeleOCR",
-          "link": "https://huggingface.co/StarDoc-AI/TeleOCR",
+          "title": "Viggle/Qwen-Image-2.1-viggle-turbo",
+          "link": "https://huggingface.co/Viggle/Qwen-Image-2.1-viggle-turbo",
           "date": "2026-09-27",
           "source": "HuggingFace",
-          "description": "• TeleOCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/License-Apache--2.0-blue.svg",
+          "description": "• Qwen-Image-2.1-viggle-turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• TeleOCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "StarDoc-AI/TeleOCR",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-          "link": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-          "date": "2026-09-27",
-          "source": "HuggingFace",
-          "description": "• Qwen3.8-27B-GSQ-RCO-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/arXiv-GSQ_2604.18556-b31b1b?logo=arxiv&logoColor=white",
-          "is_english": true,
-          "summary": "• Qwen3.8-27B-GSQ-RCO-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
+          "summary": "• Qwen-Image-2.1-viggle-turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Viggle/Qwen-Image-2.1-viggle-turbo",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -268,8 +280,20 @@
     },
     {
       "date": "2026-09-26",
-      "update_time": "2026-09-26 18:10:07",
+      "update_time": "2026-09-26 23:14:44",
       "news": [
+        {
+          "title": "Insurers claim AI is already increasing healthcare costs",
+          "link": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs/",
+          "date": "2026-09-26",
+          "source": "TechCrunch",
+          "description": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+          "image": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1214954967.jpg?resize=1200,612",
+          "is_english": true,
+          "original_title": "Insurers claim AI is already increasing healthcare costs",
+          "original_summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period.",
+          "summary": "Blue Cross Blue Shield says hospital use of AI tools led to an additional $942M in healthcare spending over a two-year period."
+        },
         {
           "title": "I created an interactive digital avatar of myself — and you can talk to it",
           "link": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/",
@@ -7298,7 +7322,7 @@
         {
           "title": "deepseek-ai/DeepSeek-V4.1-Flash",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
-          "date": "2026-09-18",
+          "date": "2026-09-27",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4.1-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
@@ -7324,7 +7348,7 @@
         {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "date": "2026-09-18",
+          "date": "2026-09-27",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -7376,7 +7400,7 @@
         {
           "title": "Lightricks/LTX-2.5",
           "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-09-18",
+          "date": "2026-09-27",
           "source": "HuggingFace",
           "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
