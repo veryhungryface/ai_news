@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-09-28",
-      "update_time": "2026-09-27 18:45:56",
+      "update_time": "2026-09-27 23:29:08",
       "news": [
+        {
+          "title": "트럼프, 아모데이와 백악관 첫 일대일 만찬 개최",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215694",
+          "date": "2026-09-28",
+          "source": "AI타임스",
+          "description": "도널드 트럼프 미국 대통령이 다리오 아모데이 앤트로픽 CEO를 백악관으로 초청해 비공개 만찬을 가진다.악시오스는 27일(현지시간) 트럼프 대통령이 이날 저녁 백악관에서 아모데이 CEO와 만난다고 보도했다.이는 백악관이 주요 AI 기업 수장들을 소집해 개최할 예정인 회의를 앞두고 이뤄진 독대 자리다. 트럼프 대통령은 29일 기술 및 AI 분야 리더들과 함께 새로운 정부 웹사이트를 공개하는 행사를 주최할 예정이다. 여기에는 젠슨 황, 일론 머스크 등이 참석할 것으로 알려졌다.이번 만찬은 그동안 긴장 관계를 이어온 미국 행정부와 앤트로픽",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215694_219639_1358.png",
+          "is_english": false,
+          "original_title": "트럼프, 아모데이와 백악관 첫 일대일 만찬 개최",
+          "original_summary": "도널드 트럼프 미국 대통령이 다리오 아모데이 앤트로픽 CEO를 백악관으로 초청해 비공개 만찬을 가진다.악시오스는 27일(현지시간) 트럼프 대통령이 이날 저녁 백악관에서 아모데이 CEO와 만난다고 보도했다.이는 백악관이 주요 AI 기업 수장들을 소집해 개최할 예정인 회의를 앞두고 이뤄진 독대 자리다. 트럼프 대통령은 29일 기술 및 AI 분야 리더들과 함께 새로운 정부 웹사이트를 공개하는 행사를 주최할 예정이다. 여기에는 젠슨 황, 일론 머스크 등이 참석할 것으로 알려졌다.이번 만찬은 그동안 긴장 관계를 이어온 미국 행정부와 앤트로픽",
+          "summary": "도널드 트럼프 미국 대통령이 다리오 아모데이 앤트로픽 CEO를 백악관으로 초청해 비공개 만찬을 가진다.악시오스는 27일(현지시간) 트럼프 대통령이 이날 저녁 백악관에서 아모데이 CEO와 만난다고 보도했다.이는 백악관이 주요 AI 기업 수장들을 소집해 개최할 예정인 회의를 앞두고 이뤄진 독대 자리다. 트럼프 대통령은 29일 기술 및 AI 분야 리더들과 함께 새로운 정부 웹사이트를 공개하는 행사를 주최할 예정이다. 여기에는 젠슨 황, 일론 머스크 등이 참석할 것으로 알려졌다.이번 만찬은 그동안 긴장 관계를 이어온 미국 행정부와 앤트로픽"
+        },
         {
           "title": "convaiinnovations/laya",
           "link": "https://huggingface.co/convaiinnovations/laya",
@@ -70,19 +82,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Altworld/Hemmingway-1",
-          "link": "https://huggingface.co/Altworld/Hemmingway-1",
-          "date": "2026-09-28",
-          "source": "HuggingFace",
-          "description": "• Hemmingway-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/Altworld/Hemmingway-1/resolve/main/charts/communicationbench.png",
-          "is_english": true,
-          "summary": "• Hemmingway-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Altworld/Hemmingway-1",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
           "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
           "date": "2026-09-28",
@@ -96,15 +95,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Comfy-Org/Qwen-Image-2.1",
-          "link": "https://huggingface.co/Comfy-Org/Qwen-Image-2.1",
+          "title": "Altworld/Hemmingway-1",
+          "link": "https://huggingface.co/Altworld/Hemmingway-1",
           "date": "2026-09-28",
           "source": "HuggingFace",
-          "description": "• Qwen-Image-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "description": "• Hemmingway-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/Altworld/Hemmingway-1/resolve/main/charts/communicationbench.png",
           "is_english": true,
-          "summary": "• Qwen-Image-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Comfy-Org/Qwen-Image-2.1",
+          "summary": "• Hemmingway-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Altworld/Hemmingway-1",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -135,6 +134,32 @@
           "category": "AI Model"
         },
         {
+          "title": "Comfy-Org/Qwen-Image-2.1",
+          "link": "https://huggingface.co/Comfy-Org/Qwen-Image-2.1",
+          "date": "2026-09-28",
+          "source": "HuggingFace",
+          "description": "• Qwen-Image-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen-Image-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Comfy-Org/Qwen-Image-2.1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "StarDoc-AI/TeleOCR",
+          "link": "https://huggingface.co/StarDoc-AI/TeleOCR",
+          "date": "2026-09-28",
+          "source": "HuggingFace",
+          "description": "• TeleOCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/License-Apache--2.0-blue.svg",
+          "is_english": true,
+          "summary": "• TeleOCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "StarDoc-AI/TeleOCR",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "XiaomiMiMo/MiMo-V2.6-Flash-RL",
           "link": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Flash-RL",
           "date": "2026-09-28",
@@ -161,19 +186,6 @@
           "category": "AI Model"
         },
         {
-          "title": "StarDoc-AI/TeleOCR",
-          "link": "https://huggingface.co/StarDoc-AI/TeleOCR",
-          "date": "2026-09-28",
-          "source": "HuggingFace",
-          "description": "• TeleOCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/License-Apache--2.0-blue.svg",
-          "is_english": true,
-          "summary": "• TeleOCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "StarDoc-AI/TeleOCR",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
           "date": "2026-09-28",
@@ -187,19 +199,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/Nemotron-3-Diarization",
-          "link": "https://huggingface.co/nvidia/Nemotron-3-Diarization",
-          "date": "2026-09-28",
-          "source": "HuggingFace",
-          "description": "• Nemotron-3-Diarization 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/nvidia/Nemotron-3-Diarization/resolve/main/streaming_diarization_demo.gif",
-          "is_english": true,
-          "summary": "• Nemotron-3-Diarization 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/Nemotron-3-Diarization",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Contrastive-LM/CLM-v0.1-8B",
           "link": "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B",
           "date": "2026-09-28",
@@ -209,6 +208,19 @@
           "is_english": true,
           "summary": "• CLM-v0.1-8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Contrastive-LM/CLM-v0.1-8B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/Nemotron-3-Diarization",
+          "link": "https://huggingface.co/nvidia/Nemotron-3-Diarization",
+          "date": "2026-09-28",
+          "source": "HuggingFace",
+          "description": "• Nemotron-3-Diarization 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/nvidia/Nemotron-3-Diarization/resolve/main/streaming_diarization_demo.gif",
+          "is_english": true,
+          "summary": "• Nemotron-3-Diarization 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/Nemotron-3-Diarization",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,19 +251,6 @@
           "category": "AI Model"
         },
         {
-          "title": "AlexWortega/openjev",
-          "link": "https://huggingface.co/AlexWortega/openjev",
-          "date": "2026-09-28",
-          "source": "HuggingFace",
-          "description": "• openjev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/AlexWortega/openjev/resolve/main/assets/radar_openjev.png",
-          "is_english": true,
-          "summary": "• openjev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "AlexWortega/openjev",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "inclusionAI/Ming-Image-0.1-Design",
           "link": "https://huggingface.co/inclusionAI/Ming-Image-0.1-Design",
           "date": "2026-09-28",
@@ -263,13 +262,50 @@
           "translated_title": "inclusionAI/Ming-Image-0.1-Design",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "AlexWortega/openjev",
+          "link": "https://huggingface.co/AlexWortega/openjev",
+          "date": "2026-09-28",
+          "source": "HuggingFace",
+          "description": "• openjev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/AlexWortega/openjev/resolve/main/assets/radar_openjev.png",
+          "is_english": true,
+          "summary": "• openjev 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "AlexWortega/openjev",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-09-27",
-      "update_time": "2026-09-27 18:45:54",
+      "update_time": "2026-09-27 23:29:08",
       "news": [
+        {
+          "title": "Anthropic’s CEO is about to have dinner with President Trump",
+          "link": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump/",
+          "date": "2026-09-27",
+          "source": "TechCrunch",
+          "description": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2261854833.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Anthropic’s CEO is about to have dinner with President Trump",
+          "original_summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump",
+          "summary": "This will be the first one-on-one meeting between Dario Amodei and Donald Trump"
+        },
+        {
+          "title": "Can Muse overcome Meta’s trust issues?",
+          "link": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+          "date": "2026-09-27",
+          "source": "TechCrunch",
+          "description": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2296215726.jpg?resize=1200,799",
+          "is_english": true,
+          "original_title": "Can Muse overcome Meta’s trust issues?",
+          "original_summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic.",
+          "summary": "On Equity, we discussed how Meta's AI announcement managed to steal the spotlight from OpenAI and Anthropic."
+        },
         {
           "title": "Anthropic’s Dario Amodei gets the SNL treatment",
           "link": "https://techcrunch.com/2026/09/27/anthropics-dario-amodei-gets-the-snl-treatment/",
@@ -6757,7 +6793,7 @@
         {
           "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
           "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
-          "date": "2026-09-19",
+          "date": "2026-09-28",
           "source": "HuggingFace",
           "description": "• Ternary-Bonsai-2-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
@@ -6783,7 +6819,7 @@
         {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "date": "2026-09-19",
+          "date": "2026-09-28",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -6809,7 +6845,7 @@
         {
           "title": "XingChen-AGI/Xing4.0-29B-A4B",
           "link": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
-          "date": "2026-09-19",
+          "date": "2026-09-28",
           "source": "HuggingFace",
           "description": "• Xing4.0-29B-A4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -6848,7 +6884,7 @@
         {
           "title": "Lightricks/LTX-2.5",
           "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-09-19",
+          "date": "2026-09-28",
           "source": "HuggingFace",
           "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
