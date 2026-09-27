@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-09-27",
-      "update_time": "2026-09-27 08:42:58",
+      "update_time": "2026-09-27 14:24:00",
       "news": [
+        {
+          "title": "GPT-6 아스트라, 물리적 명령에 잇따라 치명적 행위 실행",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215692",
+          "date": "2026-09-27",
+          "source": "AI타임스",
+          "description": "오픈AI의 \\'GPT-6 아스트라\\'가 물리적·로보틱스 시뮬레이션 환경에서 치명적인 유해 명령을 거부하지 않고 수행한 연구 결과들이 잇달아 공개됐다. 오픈AI는 아스트라를 \\'가장 지능적이고 안전하게 정렬된 모델\\'로 소개했으나, 텍스트 통제와 실제 물리적 행위 사이의 격차가 드러난 것이다.AI 연구자인 알렉스 워머스는 21일(현지시간) 블로그와 깃허브를 통해 3D 루프탑 시뮬레이션 환경에서 진행한 \\'절벽 밀치기(Rooftop Push)\\' 실험 결과를 발표했다. 가상의 인물이 절벽 끝에 서 있는 상황에서 모델들에게 \\\"이 사람을 절벽 아래로",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215692_219633_3218.jpg",
+          "is_english": false,
+          "original_title": "GPT-6 아스트라, 물리적 명령에 잇따라 치명적 행위 실행",
+          "original_summary": "오픈AI의 \\'GPT-6 아스트라\\'가 물리적·로보틱스 시뮬레이션 환경에서 치명적인 유해 명령을 거부하지 않고 수행한 연구 결과들이 잇달아 공개됐다. 오픈AI는 아스트라를 \\'가장 지능적이고 안전하게 정렬된 모델\\'로 소개했으나, 텍스트 통제와 실제 물리적 행위 사이의 격차가 드러난 것이다.AI 연구자인 알렉스 워머스는 21일(현지시간) 블로그와 깃허브를 통해 3D 루프탑 시뮬레이션 환경에서 진행한 \\'절벽 밀치기(Rooftop Push)\\' 실험 결과를 발표했다. 가상의 인물이 절벽 끝에 서 있는 상황에서 모델들에게 \\\"이 사람을",
+          "summary": "오픈AI의 \\'GPT-6 아스트라\\'가 물리적·로보틱스 시뮬레이션 환경에서 치명적인 유해 명령을 거부하지 않고 수행한 연구 결과들이 잇달아 공개됐다. 오픈AI는 아스트라를 \\'가장 지능적이고 안전하게 정렬된 모델\\'로 소개했으나, 텍스트 통제와 실제 물리적 행위 사이의 격차가 드러난 것이다.AI 연구자인 알렉스 워머스는 21일(현지시간) 블로그와 깃허브를 통해 3D 루프탑 시뮬레이션 환경에서 진행한 \\'절벽 밀치기(Rooftop Push)\\' 실험 결과를 발표했다. 가상의 인물이 절벽 끝에 서 있는 상황에서 모델들에게 \\\"이 사람을"
+        },
         {
           "title": "'AI로 재난안전 업무 개선'…행안부, 우수사례 경진대회 개최",
           "link": "https://www.yna.co.kr/view/AKR20260923178900530",
@@ -274,15 +286,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Comfy-Org/Qwen-Image-2.1",
-          "link": "https://huggingface.co/Comfy-Org/Qwen-Image-2.1",
+          "title": "Altworld/Hemmingway-1",
+          "link": "https://huggingface.co/Altworld/Hemmingway-1",
           "date": "2026-09-27",
           "source": "HuggingFace",
-          "description": "• Qwen-Image-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "description": "• Hemmingway-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/Altworld/Hemmingway-1/resolve/main/charts/communicationbench.png",
           "is_english": true,
-          "summary": "• Qwen-Image-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Comfy-Org/Qwen-Image-2.1",
+          "summary": "• Hemmingway-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Altworld/Hemmingway-1",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -300,15 +312,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Altworld/Hemmingway-1",
-          "link": "https://huggingface.co/Altworld/Hemmingway-1",
+          "title": "Comfy-Org/Qwen-Image-2.1",
+          "link": "https://huggingface.co/Comfy-Org/Qwen-Image-2.1",
           "date": "2026-09-27",
           "source": "HuggingFace",
-          "description": "• Hemmingway-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/Altworld/Hemmingway-1/resolve/main/charts/communicationbench.png",
+          "description": "• Qwen-Image-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
           "is_english": true,
-          "summary": "• Hemmingway-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Altworld/Hemmingway-1",
+          "summary": "• Qwen-Image-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Comfy-Org/Qwen-Image-2.1",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -339,19 +351,6 @@
           "category": "AI Model"
         },
         {
-          "title": "TaichuAI/ZDTaichu5.0-9B",
-          "link": "https://huggingface.co/TaichuAI/ZDTaichu5.0-9B",
-          "date": "2026-09-27",
-          "source": "HuggingFace",
-          "description": "• ZDTaichu5.0-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
-          "is_english": true,
-          "summary": "• ZDTaichu5.0-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "TaichuAI/ZDTaichu5.0-9B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "XiaomiMiMo/MiMo-V2.6-Flash-RL",
           "link": "https://huggingface.co/XiaomiMiMo/MiMo-V2.6-Flash-RL",
           "date": "2026-09-27",
@@ -365,15 +364,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.8-27B",
-          "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "title": "TaichuAI/ZDTaichu5.0-9B",
+          "link": "https://huggingface.co/TaichuAI/ZDTaichu5.0-9B",
           "date": "2026-09-27",
           "source": "HuggingFace",
-          "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "description": "• ZDTaichu5.0-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
           "is_english": true,
-          "summary": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.8-27B",
+          "summary": "• ZDTaichu5.0-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "TaichuAI/ZDTaichu5.0-9B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -391,6 +390,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Qwen/Qwen3.8-27B",
+          "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "date": "2026-09-27",
+          "source": "HuggingFace",
+          "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.8-27B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "nvidia/Nemotron-3-Diarization",
           "link": "https://huggingface.co/nvidia/Nemotron-3-Diarization",
           "date": "2026-09-27",
@@ -400,6 +412,19 @@
           "is_english": true,
           "summary": "• Nemotron-3-Diarization 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nvidia/Nemotron-3-Diarization",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Contrastive-LM/CLM-v0.1-8B",
+          "link": "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B",
+          "date": "2026-09-27",
+          "source": "HuggingFace",
+          "description": "• CLM-v0.1-8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://raw.githubusercontent.com/Contrastive-LM/CLM/main/assets/logo.png",
+          "is_english": true,
+          "summary": "• CLM-v0.1-8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Contrastive-LM/CLM-v0.1-8B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -430,15 +455,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Contrastive-LM/CLM-v0.1-8B",
-          "link": "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B",
+          "title": "Viggle/Qwen-Image-2.1-viggle-turbo",
+          "link": "https://huggingface.co/Viggle/Qwen-Image-2.1-viggle-turbo",
           "date": "2026-09-27",
           "source": "HuggingFace",
-          "description": "• CLM-v0.1-8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/Contrastive-LM/CLM/main/assets/logo.png",
+          "description": "• Qwen-Image-2.1-viggle-turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• CLM-v0.1-8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Contrastive-LM/CLM-v0.1-8B",
+          "summary": "• Qwen-Image-2.1-viggle-turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Viggle/Qwen-Image-2.1-viggle-turbo",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -452,19 +477,6 @@
           "is_english": true,
           "summary": "• Confucius4-R2T2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "netease-youdao/Confucius4-R2T2",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "Viggle/Qwen-Image-2.1-viggle-turbo",
-          "link": "https://huggingface.co/Viggle/Qwen-Image-2.1-viggle-turbo",
-          "date": "2026-09-27",
-          "source": "HuggingFace",
-          "description": "• Qwen-Image-2.1-viggle-turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen-Image-2.1-viggle-turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Viggle/Qwen-Image-2.1-viggle-turbo",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
