@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-09-30",
-      "update_time": "2026-09-29 17:14:42",
+      "update_time": "2026-09-29 21:38:36",
       "news": [
+        {
+          "title": "신뢰할 수 있는 AI의 기준은…서울 AI 윤리·거버넌스 포럼",
+          "link": "https://www.yna.co.kr/view/AKR20260929153700004",
+          "date": "2026-09-30",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 김준태 기자 = 서울AI재단은 다음 달 7일 코엑스에서 &apos;서울 AI 윤리·거버넌스 포럼&apos;을 개최한다고 30일 밝혔다.",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/09/29/AKR20260929153700004_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "신뢰할 수 있는 AI의 기준은…서울 AI 윤리·거버넌스 포럼",
+          "original_summary": "(서울=연합뉴스) 김준태 기자 = 서울AI재단은 다음 달 7일 코엑스에서 &apos;서울 AI 윤리·거버넌스 포럼&apos;을 개최한다고 30일 밝혔다.",
+          "summary": "(서울=연합뉴스) 김준태 기자 = 서울AI재단은 다음 달 7일 코엑스에서 &apos;서울 AI 윤리·거버넌스 포럼&apos;을 개최한다고 30일 밝혔다."
+        },
         {
           "title": "convaiinnovations/laya",
           "link": "https://huggingface.co/convaiinnovations/laya",
@@ -44,19 +56,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen-Image-2.1",
-          "link": "https://huggingface.co/Qwen/Qwen-Image-2.1",
-          "date": "2026-09-30",
-          "source": "HuggingFace",
-          "description": "• Qwen-Image-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/image2.1/logo.png",
-          "is_english": true,
-          "summary": "• Qwen-Image-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen-Image-2.1",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "XingChen-AGI/TeleOCR",
           "link": "https://huggingface.co/XingChen-AGI/TeleOCR",
           "date": "2026-09-30",
@@ -66,6 +65,19 @@
           "is_english": true,
           "summary": "• TeleOCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "XingChen-AGI/TeleOCR",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen-Image-2.1",
+          "link": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+          "date": "2026-09-30",
+          "source": "HuggingFace",
+          "description": "• Qwen-Image-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/image2.1/logo.png",
+          "is_english": true,
+          "summary": "• Qwen-Image-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen-Image-2.1",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -83,19 +95,6 @@
           "category": "AI Model"
         },
         {
-          "title": "XingChen-AGI/Xing4.0-29B-A4B",
-          "link": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
-          "date": "2026-09-30",
-          "source": "HuggingFace",
-          "description": "• Xing4.0-29B-A4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Xing4.0-29B-A4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "XingChen-AGI/Xing4.0-29B-A4B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nvidia/Nemotron-3-Diarization",
           "link": "https://huggingface.co/nvidia/Nemotron-3-Diarization",
           "date": "2026-09-30",
@@ -105,6 +104,19 @@
           "is_english": true,
           "summary": "• Nemotron-3-Diarization 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nvidia/Nemotron-3-Diarization",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "XingChen-AGI/Xing4.0-29B-A4B",
+          "link": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
+          "date": "2026-09-30",
+          "source": "HuggingFace",
+          "description": "• Xing4.0-29B-A4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Xing4.0-29B-A4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "XingChen-AGI/Xing4.0-29B-A4B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -174,6 +186,19 @@
           "category": "AI Model"
         },
         {
+          "title": "SupersonicLabs/Julia-1",
+          "link": "https://huggingface.co/SupersonicLabs/Julia-1",
+          "date": "2026-09-30",
+          "source": "HuggingFace",
+          "description": "• Julia-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/SupersonicLabs/Julia-1/resolve/main/assets/supersonic-labs-dark.svg",
+          "is_english": true,
+          "summary": "• Julia-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "SupersonicLabs/Julia-1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "inclusionAI/Ming-Image-0.1-Design",
           "link": "https://huggingface.co/inclusionAI/Ming-Image-0.1-Design",
           "date": "2026-09-30",
@@ -200,6 +225,19 @@
           "category": "AI Model"
         },
         {
+          "title": "apple/LensVLM-9B",
+          "link": "https://huggingface.co/apple/LensVLM-9B",
+          "date": "2026-09-30",
+          "source": "HuggingFace",
+          "description": "• LensVLM-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• LensVLM-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "apple/LensVLM-9B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "akhilaaa3/Jev-Omni",
           "link": "https://huggingface.co/akhilaaa3/Jev-Omni",
           "date": "2026-09-30",
@@ -209,19 +247,6 @@
           "is_english": true,
           "summary": "• Jev-Omni 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "akhilaaa3/Jev-Omni",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "SupersonicLabs/Julia-1",
-          "link": "https://huggingface.co/SupersonicLabs/Julia-1",
-          "date": "2026-09-30",
-          "source": "HuggingFace",
-          "description": "• Julia-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/SupersonicLabs/Julia-1/resolve/main/assets/supersonic-labs-dark.svg",
-          "is_english": true,
-          "summary": "• Julia-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "SupersonicLabs/Julia-1",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -250,26 +275,169 @@
           "translated_title": "unsloth/Qwen-Image-2.1-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "apple/LensVLM-9B",
-          "link": "https://huggingface.co/apple/LensVLM-9B",
-          "date": "2026-09-30",
-          "source": "HuggingFace",
-          "description": "• LensVLM-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• LensVLM-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "apple/LensVLM-9B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-09-29",
-      "update_time": "2026-09-29 17:14:39",
+      "update_time": "2026-09-29 21:38:36",
       "news": [
+        {
+          "title": "사천시 국군묘지 조성사업, 호국의 희생과 기억을 담은 추모공간 조성",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215777",
+          "date": "2026-09-29",
+          "source": "AI타임스",
+          "description": "경남 사천시에 국가를 위해 헌신한 호국영령의 희생을 기억하고 그 의미를 되새길 수 있는 추모공간이 조성됐다. 사천시 국군묘지 조성사업의 일환으로 설치된 석재 아트월은 국군의 역사와 희생을 시각적으로 표현해 방문객들이 자연스럽게 추모의 의미를 되새길 수 있도록 구성됐다.아트월은 군 장병의 모습을 중심으로 전투 장면과 철조망, 행군하는 병사 등 다양한 이미지를 하나의 흐름으로 배치했다. 중앙에는 군인의 모습을 크게 표현하고 주변에 과거 기록사진과 전쟁 당시의 모습을 함께 구성해 대한민국을 지키기 위해 헌신했던 이들의 시간을 한눈에 살펴",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215777_219729_486.jpg",
+          "is_english": false,
+          "original_title": "사천시 국군묘지 조성사업, 호국의 희생과 기억을 담은 추모공간 조성",
+          "original_summary": "경남 사천시에 국가를 위해 헌신한 호국영령의 희생을 기억하고 그 의미를 되새길 수 있는 추모공간이 조성됐다. 사천시 국군묘지 조성사업의 일환으로 설치된 석재 아트월은 국군의 역사와 희생을 시각적으로 표현해 방문객들이 자연스럽게 추모의 의미를 되새길 수 있도록 구성됐다.아트월은 군 장병의 모습을 중심으로 전투 장면과 철조망, 행군하는 병사 등 다양한 이미지를 하나의 흐름으로 배치했다. 중앙에는 군인의 모습을 크게 표현하고 주변에 과거 기록사진과 전쟁 당시의 모습을 함께 구성해 대한민국을 지키기 위해 헌신했던 이들의 시간을 한눈에 살펴",
+          "summary": "경남 사천시에 국가를 위해 헌신한 호국영령의 희생을 기억하고 그 의미를 되새길 수 있는 추모공간이 조성됐다. 사천시 국군묘지 조성사업의 일환으로 설치된 석재 아트월은 국군의 역사와 희생을 시각적으로 표현해 방문객들이 자연스럽게 추모의 의미를 되새길 수 있도록 구성됐다.아트월은 군 장병의 모습을 중심으로 전투 장면과 철조망, 행군하는 병사 등 다양한 이미지를 하나의 흐름으로 배치했다. 중앙에는 군인의 모습을 크게 표현하고 주변에 과거 기록사진과 전쟁 당시의 모습을 함께 구성해 대한민국을 지키기 위해 헌신했던 이들의 시간을 한눈에 살펴"
+        },
+        {
+          "title": "Introducing GPT-6.1 Sol",
+          "link": "https://openai.com/index/introducing-gpt-6-1-sol",
+          "date": "2026-09-29",
+          "source": "OpenAI",
+          "description": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Introducing GPT-6.1 Sol",
+          "original_summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+          "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices."
+        },
+        {
+          "title": "DevDay 2026 Recap",
+          "link": "https://openai.com/index/devday-2026-recap",
+          "date": "2026-09-29",
+          "source": "OpenAI",
+          "description": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+          "image": null,
+          "is_english": true,
+          "original_title": "DevDay 2026 Recap",
+          "original_summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+          "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders."
+        },
+        {
+          "title": "Introducing dots",
+          "link": "https://openai.com/index/introducing-dots",
+          "date": "2026-09-29",
+          "source": "OpenAI",
+          "description": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Introducing dots",
+          "original_summary": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward.",
+          "summary": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work moves forward."
+        },
+        {
+          "title": "OpenAI’s latest features take direct aim at the app store model",
+          "link": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+          "date": "2026-09-29",
+          "source": "TechCrunch",
+          "description": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "OpenAI’s latest features take direct aim at the app store model",
+          "original_summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+          "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike."
+        },
+        {
+          "title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+          "link": "https://techcrunch.com/2026/09/29/openai-repotedly-in-talks-to-raise-30b-round-at-1-4t-valuation/",
+          "date": "2026-09-29",
+          "source": "TechCrunch",
+          "description": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/02/GettyImages-2236544077.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "OpenAI repotedly in talks to raise $30B round at $1.4T valuation",
+          "original_summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut.",
+          "summary": "The new round is anticipated to be the company's last before its delayed 2027 public debut."
+        },
+        {
+          "title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+          "link": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents/",
+          "date": "2026-09-29",
+          "source": "TechCrunch",
+          "description": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/11/Sam-Altman-OpenAI.jpg?resize=1200,680",
+          "is_english": true,
+          "original_title": "Here’s why OpenAI is absent from Nvidia’s industry-wide effort to end rogue AI agents",
+          "original_summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
+          "summary": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned."
+        },
+        {
+          "title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+          "link": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite/",
+          "date": "2026-09-29",
+          "source": "TechCrunch",
+          "description": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/OpenAI.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite",
+          "original_summary": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies. ",
+          "summary": "OpenAI's newly announced suite of office features puts it into mor direct competition with more traditional software companies. "
+        },
+        {
+          "title": "AI-powered app maker Wabi pivots to a messaging experience",
+          "link": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+          "date": "2026-09-29",
+          "source": "TechCrunch",
+          "description": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/wabi-20.jpg?resize=1200,620",
+          "is_english": true,
+          "original_title": "AI-powered app maker Wabi pivots to a messaging experience",
+          "original_summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks.",
+          "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps and ongoing tasks."
+        },
+        {
+          "title": "OpenAI launches Dots, its bubbly agentic avatar",
+          "link": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar/",
+          "date": "2026-09-29",
+          "source": "TechCrunch",
+          "description": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/Screenshot-2026-09-29-at-1.16.22-PM.jpg?w=988",
+          "is_english": true,
+          "original_title": "OpenAI launches Dots, its bubbly agentic avatar",
+          "original_summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
+          "summary": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight."
+        },
+        {
+          "title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
+          "link": "https://techcrunch.com/2026/09/29/openai-expands-chatgpts-plugins-with-app-like-interfaces-and-automations/",
+          "date": "2026-09-29",
+          "source": "TechCrunch",
+          "description": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/plugins-.jpg?resize=1200,690",
+          "is_english": true,
+          "original_title": "OpenAI expands ChatGPT’s plugins with app-like interfaces and automations",
+          "original_summary": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations.",
+          "summary": "OpenAI is expanding ChatGPT plugins with dedicated sidebar homes, interactive panels, file viewers, improved discovery, and support for automations."
+        },
+        {
+          "title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+          "link": "https://techcrunch.com/2026/09/29/openai-launches-gpt-6-1-sol-says-it-nearly-matches-gpt-6-astra-and-costs-less/",
+          "date": "2026-09-29",
+          "source": "TechCrunch",
+          "description": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-in-Seoul.jpg?w=1024",
+          "is_english": true,
+          "original_title": "OpenAI launches GPT-6.1 Sol, says it nearly matches GPT-6 Astra and costs less",
+          "original_summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows. ",
+          "summary": "OpenAI says GPT-6.1 Sol delivers significant improvements over GPT-6 Sol across complex professional tasks, including code writing and debugging, document understanding, and executing multi-step business workflows. "
+        },
+        {
+          "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+          "link": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
+          "date": "2026-09-29",
+          "source": "TechCrunch",
+          "description": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
+          "is_english": true,
+          "original_title": "OpenAI gives Codex reusable cloud environments that work across devices",
+          "original_summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes.",
+          "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools and a security-focused product for scanning repositories and preparing fixes."
+        },
         {
           "title": "\"한도 차면 할인 끝\" 앤트로픽…오픈AI는 '파격 할인'으로 고객 빼앗기",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215761",
@@ -7345,7 +7513,7 @@
         {
           "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
           "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
-          "date": "2026-09-21",
+          "date": "2026-09-30",
           "source": "HuggingFace",
           "description": "• Ternary-Bonsai-2-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
@@ -7358,7 +7526,7 @@
         {
           "title": "convaiinnovations/laya",
           "link": "https://huggingface.co/convaiinnovations/laya",
-          "date": "2026-09-21",
+          "date": "2026-09-30",
           "source": "HuggingFace",
           "description": "• laya 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/convaiinnovations/laya/resolve/main/assets/logo-lockup.png",
@@ -7384,7 +7552,7 @@
         {
           "title": "XingChen-AGI/Xing4.0-29B-A4B",
           "link": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
-          "date": "2026-09-21",
+          "date": "2026-09-30",
           "source": "HuggingFace",
           "description": "• Xing4.0-29B-A4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -7410,7 +7578,7 @@
         {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "date": "2026-09-21",
+          "date": "2026-09-30",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -7462,7 +7630,7 @@
         {
           "title": "Lightricks/LTX-2.5",
           "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-09-21",
+          "date": "2026-09-30",
           "source": "HuggingFace",
           "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
