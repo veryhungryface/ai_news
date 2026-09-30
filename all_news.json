@@ -2,20 +2,67 @@
   "dates": [
     {
       "date": "2026-10-01",
-      "update_time": "2026-09-30 17:12:35",
+      "update_time": "2026-09-30 21:39:49",
       "news": [
         {
-          "title": "convaiinnovations/laya",
-          "link": "https://huggingface.co/convaiinnovations/laya",
+          "title": "서울-프랑스 학생교류 넓힌다…AI·직업교육 협력도",
+          "link": "https://www.yna.co.kr/view/AKR20260930147500530",
           "date": "2026-10-01",
-          "source": "HuggingFace",
-          "description": "• laya 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/convaiinnovations/laya/resolve/main/assets/logo-lockup.png",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 오보람 기자 = 서울시교육청은 2일(현지시간) 프랑스 파리에서 일드프랑스교육청과 교육협력 업무협약(MOU)을 체결한다고 1일 ...",
+          "image": "https://img.yna.co.kr/photo/cms/2026/04/01/84/PCM20260401000084990_P2.jpg",
+          "is_english": false,
+          "original_title": "서울-프랑스 학생교류 넓힌다…AI·직업교육 협력도",
+          "original_summary": "(서울=연합뉴스) 오보람 기자 = 서울시교육청은 2일(현지시간) 프랑스 파리에서 일드프랑스교육청과 교육협력 업무협약(MOU)을 체결한다고 1일 ...",
+          "summary": "(서울=연합뉴스) 오보람 기자 = 서울시교육청은 2일(현지시간) 프랑스 파리에서 일드프랑스교육청과 교육협력 업무협약(MOU)을 체결한다고 1일 ..."
+        },
+        {
+          "title": "구글, '제미나이 4 아르곤' 공개…성능 1위 탈환에도 \"일반 사용 제한\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215821",
+          "date": "2026-10-01",
+          "source": "AI타임스",
+          "description": "구글이 프런티어급 지능과 에이전트 작업 능력을 대폭 끌어올린 차세대 플래그십 모델 \\'제미나이 4 아르곤(Gemini 4 Argon)\\'을 공개했다. 핵심 경쟁 모델들을 제치고 벤치마크 선두를 탈환했음에도 불구하고, 대다수 개발자와 기업이 당장 사용할 수 없는 \\'제한적 출시\\'에 그쳤다. 구글은 30일(현지시간) 제미나이 4 아르곤을 소개하며 \\'페어윈드(Fairwind)\\' 프로그램을 통해 사전 검증된 사이버 보안 방어 파트너 및 미국 정부의 출시 전 평가 프로세스 참가자에게만 초기 접근 권한을 우선 부여했다. 구글 AI 울트라 구독자와",
+          "image": "https://cdn.aitimes.com/news/photo/202610/215821_219790_2710.png",
+          "is_english": false,
+          "original_title": "구글, '제미나이 4 아르곤' 공개…성능 1위 탈환에도 \"일반 사용 제한\"",
+          "original_summary": "구글이 프런티어급 지능과 에이전트 작업 능력을 대폭 끌어올린 차세대 플래그십 모델 \\'제미나이 4 아르곤(Gemini 4 Argon)\\'을 공개했다. 핵심 경쟁 모델들을 제치고 벤치마크 선두를 탈환했음에도 불구하고, 대다수 개발자와 기업이 당장 사용할 수 없는 \\'제한적 출시\\'에 그쳤다. 구글은 30일(현지시간) 제미나이 4 아르곤을 소개하며 \\'페어윈드(Fairwind)\\' 프로그램을 통해 사전 검증된 사이버 보안 방어 파트너 및 미국 정부의 출시 전 평가 프로세스 참가자에게만 초기 접근 권한을 우선 부여했다. 구글 AI 울트라",
+          "summary": "구글이 프런티어급 지능과 에이전트 작업 능력을 대폭 끌어올린 차세대 플래그십 모델 \\'제미나이 4 아르곤(Gemini 4 Argon)\\'을 공개했다. 핵심 경쟁 모델들을 제치고 벤치마크 선두를 탈환했음에도 불구하고, 대다수 개발자와 기업이 당장 사용할 수 없는 \\'제한적 출시\\'에 그쳤다. 구글은 30일(현지시간) 제미나이 4 아르곤을 소개하며 \\'페어윈드(Fairwind)\\' 프로그램을 통해 사전 검증된 사이버 보안 방어 파트너 및 미국 정부의 출시 전 평가 프로세스 참가자에게만 초기 접근 권한을 우선 부여했다. 구글 AI 울트라"
+        },
+        {
+          "title": "Anthropic plugs regulation, AI leaders meet with Trump, and open models",
+          "link": "https://aibusiness.com/generative-ai/anthropic-plugs-regulation-ai-leaders-meet-trump-open-models",
+          "date": "2026-10-01",
+          "source": "AI Business",
+          "description": "The AI world buzzes about stopping out-of-control agents. President Trump appears to slightly modify his anti-AI regulation stance. Open source AI could lose out. Or not.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt5ca5a02a1d873366/6abd5fdff337fa7cadc0b1be/AI_agents.jpg?width=720&quality=80&disable=upscale",
           "is_english": true,
-          "summary": "• laya 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "convaiinnovations/laya",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
+          "original_title": "Anthropic plugs regulation, AI leaders meet with Trump, and open models",
+          "original_summary": "The AI world buzzes about stopping out-of-control agents. President Trump appears to slightly modify his anti-AI regulation stance. Open source AI could lose out. Or not.",
+          "summary": "The AI world buzzes about stopping out-of-control agents. President Trump appears to slightly modify his anti-AI regulation stance. Open source AI could lose out. Or not."
+        },
+        {
+          "title": "AI is now ‘super intelligence,’ but federal oversight is still missing",
+          "link": "https://aibusiness.com/generative-ai/ai-now-super-intelligence-federal-oversight-is-still-missing",
+          "date": "2026-10-01",
+          "source": "AI Business",
+          "description": "President Trump calls AI by a new name and asserts the U.S. will not be slowing down AI development.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/bltea1594fd378e711b/6abd4559cde687a9de9169bb/SI.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "AI is now ‘super intelligence,’ but federal oversight is still missing",
+          "original_summary": "President Trump calls AI by a new name and asserts the U.S. will not be slowing down AI development.",
+          "summary": "President Trump calls AI by a new name and asserts the U.S. will not be slowing down AI development."
+        },
+        {
+          "title": "AI industry copes with out-of-control agents. Here’s OpenAI’s response",
+          "link": "https://aibusiness.com/generative-ai/ai-industry-copes-out-of-control-agents-here-s-openai-s-response",
+          "date": "2026-10-01",
+          "source": "AI Business",
+          "description": "The generative AI vendor delayed the release of GPT-6.1 Astra after testing exposed new safety concerns, showing why AI models need continued evaluation and enterprise runtime controls.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt806f2731a1973eeb/6abd42fef337fa93acc0b186/Astra.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "AI industry copes with out-of-control agents. Here’s OpenAI’s response",
+          "original_summary": "The generative AI vendor delayed the release of GPT-6.1 Astra after testing exposed new safety concerns, showing why AI models need continued evaluation and enterprise runtime controls.",
+          "summary": "The generative AI vendor delayed the release of GPT-6.1 Astra after testing exposed new safety concerns, showing why AI models need continued evaluation and enterprise runtime controls."
         },
         {
           "title": "Edge0/Audio8-ASR-Infinite",
@@ -27,6 +74,19 @@
           "is_english": true,
           "summary": "• Audio8-ASR-Infinite 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Edge0/Audio8-ASR-Infinite",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "convaiinnovations/laya",
+          "link": "https://huggingface.co/convaiinnovations/laya",
+          "date": "2026-10-01",
+          "source": "HuggingFace",
+          "description": "• laya 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/convaiinnovations/laya/resolve/main/assets/logo-lockup.png",
+          "is_english": true,
+          "summary": "• laya 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "convaiinnovations/laya",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -148,19 +208,6 @@
           "category": "AI Model"
         },
         {
-          "title": "XingChen-AGI/Xing4.0-29B-A4B",
-          "link": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
-          "date": "2026-10-01",
-          "source": "HuggingFace",
-          "description": "• Xing4.0-29B-A4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Xing4.0-29B-A4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "XingChen-AGI/Xing4.0-29B-A4B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "SupersonicLabs/Julia-1",
           "link": "https://huggingface.co/SupersonicLabs/Julia-1",
           "date": "2026-10-01",
@@ -174,15 +221,15 @@
           "category": "AI Model"
         },
         {
-          "title": "apple/LensVLM-9B",
-          "link": "https://huggingface.co/apple/LensVLM-9B",
+          "title": "XingChen-AGI/Xing4.0-29B-A4B",
+          "link": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
           "date": "2026-10-01",
           "source": "HuggingFace",
-          "description": "• LensVLM-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• Xing4.0-29B-A4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
           "is_english": true,
-          "summary": "• LensVLM-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "apple/LensVLM-9B",
+          "summary": "• Xing4.0-29B-A4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "XingChen-AGI/Xing4.0-29B-A4B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -200,15 +247,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Altworld/Hemmingway-1",
-          "link": "https://huggingface.co/Altworld/Hemmingway-1",
+          "title": "orcarouter/OrcaSAQ-2-27B",
+          "link": "https://huggingface.co/orcarouter/OrcaSAQ-2-27B",
           "date": "2026-10-01",
           "source": "HuggingFace",
-          "description": "• Hemmingway-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/Altworld/Hemmingway-1/resolve/main/charts/communicationbench.png",
+          "description": "• OrcaSAQ-2-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://www.orcarouter.ai/orca-logo-classic.png",
           "is_english": true,
-          "summary": "• Hemmingway-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Altworld/Hemmingway-1",
+          "summary": "• OrcaSAQ-2-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "orcarouter/OrcaSAQ-2-27B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -226,19 +273,6 @@
           "category": "AI Model"
         },
         {
-          "title": "orcarouter/OrcaSAQ-2-27B",
-          "link": "https://huggingface.co/orcarouter/OrcaSAQ-2-27B",
-          "date": "2026-10-01",
-          "source": "HuggingFace",
-          "description": "• OrcaSAQ-2-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://www.orcarouter.ai/orca-logo-classic.png",
-          "is_english": true,
-          "summary": "• OrcaSAQ-2-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "orcarouter/OrcaSAQ-2-27B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "TaichuAI/ZDTaichu5.0-9B",
           "link": "https://huggingface.co/TaichuAI/ZDTaichu5.0-9B",
           "date": "2026-10-01",
@@ -248,6 +282,19 @@
           "is_english": true,
           "summary": "• ZDTaichu5.0-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "TaichuAI/ZDTaichu5.0-9B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Altworld/Hemmingway-1",
+          "link": "https://huggingface.co/Altworld/Hemmingway-1",
+          "date": "2026-10-01",
+          "source": "HuggingFace",
+          "description": "• Hemmingway-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/Altworld/Hemmingway-1/resolve/main/charts/communicationbench.png",
+          "is_english": true,
+          "summary": "• Hemmingway-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Altworld/Hemmingway-1",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -263,13 +310,134 @@
           "translated_title": "Comfy-Org/Qwen-Image-2.1",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "apple/LensVLM-9B",
+          "link": "https://huggingface.co/apple/LensVLM-9B",
+          "date": "2026-10-01",
+          "source": "HuggingFace",
+          "description": "• LensVLM-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• LensVLM-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "apple/LensVLM-9B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-09-30",
-      "update_time": "2026-09-30 17:12:34",
+      "update_time": "2026-09-30 21:39:49",
       "news": [
+        {
+          "title": "\"한국판 코어위브 넘는다\"...'1조 몸값' 엘리스그룹, 코스닥 도전",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215816",
+          "date": "2026-09-30",
+          "source": "AI타임스",
+          "description": "코어위브, 람다 등 네오클라우드 열기가 뜨거운 가운데 엘리스그룹이 GPU 대여를 넘어 데이터센터부터 AI 서비스까지 아우르는 \\'풀스택\\'으로 글로벌 시장을 두드린다.엘리스그룹(대표 김재원)은 30일 서울 여의도 CCMM에서 기자간담회를 열고 코스닥 상장을 통한 성장 전략을 밝혔다.2015년 설립된 엘리스그룹은 ▲모듈형 AI 데이터센터(AI PMDC) ▲인프라 관리 소프트웨어 \\'ECI\\' ▲GPU 클라우드 서비스(GPUaaS) ▲헬피(Helpy) 기반 교육·기업 AX 솔루션 등 4단계 풀스택 구조를 갖췄다.대다수 AI 기업이 적자를 내는",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215816_219776_734.jpg",
+          "is_english": false,
+          "original_title": "\"한국판 코어위브 넘는다\"...'1조 몸값' 엘리스그룹, 코스닥 도전",
+          "original_summary": "코어위브, 람다 등 네오클라우드 열기가 뜨거운 가운데 엘리스그룹이 GPU 대여를 넘어 데이터센터부터 AI 서비스까지 아우르는 \\'풀스택\\'으로 글로벌 시장을 두드린다.엘리스그룹(대표 김재원)은 30일 서울 여의도 CCMM에서 기자간담회를 열고 코스닥 상장을 통한 성장 전략을 밝혔다.2015년 설립된 엘리스그룹은 ▲모듈형 AI 데이터센터(AI PMDC) ▲인프라 관리 소프트웨어 \\'ECI\\' ▲GPU 클라우드 서비스(GPUaaS) ▲헬피(Helpy) 기반 교육·기업 AX 솔루션 등 4단계 풀스택 구조를 갖췄다.대다수 AI 기업이 적자",
+          "summary": "코어위브, 람다 등 네오클라우드 열기가 뜨거운 가운데 엘리스그룹이 GPU 대여를 넘어 데이터센터부터 AI 서비스까지 아우르는 \\'풀스택\\'으로 글로벌 시장을 두드린다.엘리스그룹(대표 김재원)은 30일 서울 여의도 CCMM에서 기자간담회를 열고 코스닥 상장을 통한 성장 전략을 밝혔다.2015년 설립된 엘리스그룹은 ▲모듈형 AI 데이터센터(AI PMDC) ▲인프라 관리 소프트웨어 \\'ECI\\' ▲GPU 클라우드 서비스(GPUaaS) ▲헬피(Helpy) 기반 교육·기업 AX 솔루션 등 4단계 풀스택 구조를 갖췄다.대다수 AI 기업이 적자"
+        },
+        {
+          "title": "[게시판] 최수연 네이버 대표, UNGC이사회 참석 등 단신",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215818",
+          "date": "2026-09-30",
+          "source": "AI타임스",
+          "description": "■ 최수연 네이버 대표가 지난 19일(현지시간) 미국 뉴욕 UN본부에서 열린 UN글로벌콤팩트(UNGC) 이사회에 참석했다고 밝혔다. 안토니우 구테흐스 UN 사무총장, 산다 오잠보 UNGC 사무총장 등 이사회 주요 멤버들이 참석해 지속가능발전을 위한 기업의 역할을 논의했다. 최 대표는 네이버의 디지털·AI 기반 도구 활용을 검토해볼 것을 제안했다. 네이버클라우드의 협업 플랫폼 \\'네이버웍스\\'와 네이버의 AI 통역-번역 서비스 \\'파파고 플러스\\'가 포함된다.■ AI 마케팅 성과 분석 플랫폼 전문 에이비일팔공(AB180)은 ‘MGS26 인사",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215818_219780_3613.png",
+          "is_english": false,
+          "original_title": "[게시판] 최수연 네이버 대표, UNGC이사회 참석 등 단신",
+          "original_summary": "■ 최수연 네이버 대표가 지난 19일(현지시간) 미국 뉴욕 UN본부에서 열린 UN글로벌콤팩트(UNGC) 이사회에 참석했다고 밝혔다. 안토니우 구테흐스 UN 사무총장, 산다 오잠보 UNGC 사무총장 등 이사회 주요 멤버들이 참석해 지속가능발전을 위한 기업의 역할을 논의했다. 최 대표는 네이버의 디지털·AI 기반 도구 활용을 검토해볼 것을 제안했다. 네이버클라우드의 협업 플랫폼 \\'네이버웍스\\'와 네이버의 AI 통역-번역 서비스 \\'파파고 플러스\\'가 포함된다.■ AI 마케팅 성과 분석 플랫폼 전문 에이비일팔공(AB180)은 ‘MGS2",
+          "summary": "■ 최수연 네이버 대표가 지난 19일(현지시간) 미국 뉴욕 UN본부에서 열린 UN글로벌콤팩트(UNGC) 이사회에 참석했다고 밝혔다. 안토니우 구테흐스 UN 사무총장, 산다 오잠보 UNGC 사무총장 등 이사회 주요 멤버들이 참석해 지속가능발전을 위한 기업의 역할을 논의했다. 최 대표는 네이버의 디지털·AI 기반 도구 활용을 검토해볼 것을 제안했다. 네이버클라우드의 협업 플랫폼 \\'네이버웍스\\'와 네이버의 AI 통역-번역 서비스 \\'파파고 플러스\\'가 포함된다.■ AI 마케팅 성과 분석 플랫폼 전문 에이비일팔공(AB180)은 ‘MGS2"
+        },
+        {
+          "title": "광양경자청 하동사무소, 이차전지 및 첨단소재 기업 투자 유치 박차",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215820",
+          "date": "2026-09-30",
+          "source": "AI타임스",
+          "description": "광양만권경제자유구역청(청장 구충곤) 하동사무소(소장 최윤종)는 30일부터 10월2일까지 서울 코엑스 C홀에서 개최되는 ‘제14회 국제첨단소재기술대전(INTRA 2026)’에 참가한다고 밝혔다.광양경자청 하동사무소는 하동군과 협업해 행사장 내 홍보관을 운영하고, 소장을 포함한 10여 명이 참가해 박람회 참가 기업을 대상으로 하동지구의 개발 현황과 투자 환경 등을 소개하며 투자 유치 상담도 진행한다.광양만권경제자유구역 하동지구는 대송산업단지와 갈사만조선산업단지 등이 있으며, 특히 대송산업단지는 포스코를 비롯한 광양만권의 산업 기반과 연",
+          "image": "https://cdn.aitimes.com/news/photo/202610/215820_219786_38.jpg",
+          "is_english": false,
+          "original_title": "광양경자청 하동사무소, 이차전지 및 첨단소재 기업 투자 유치 박차",
+          "original_summary": "광양만권경제자유구역청(청장 구충곤) 하동사무소(소장 최윤종)는 30일부터 10월2일까지 서울 코엑스 C홀에서 개최되는 ‘제14회 국제첨단소재기술대전(INTRA 2026)’에 참가한다고 밝혔다.광양경자청 하동사무소는 하동군과 협업해 행사장 내 홍보관을 운영하고, 소장을 포함한 10여 명이 참가해 박람회 참가 기업을 대상으로 하동지구의 개발 현황과 투자 환경 등을 소개하며 투자 유치 상담도 진행한다.광양만권경제자유구역 하동지구는 대송산업단지와 갈사만조선산업단지 등이 있으며, 특히 대송산업단지는 포스코를 비롯한 광양만권의 산업 기반과 연",
+          "summary": "광양만권경제자유구역청(청장 구충곤) 하동사무소(소장 최윤종)는 30일부터 10월2일까지 서울 코엑스 C홀에서 개최되는 ‘제14회 국제첨단소재기술대전(INTRA 2026)’에 참가한다고 밝혔다.광양경자청 하동사무소는 하동군과 협업해 행사장 내 홍보관을 운영하고, 소장을 포함한 10여 명이 참가해 박람회 참가 기업을 대상으로 하동지구의 개발 현황과 투자 환경 등을 소개하며 투자 유치 상담도 진행한다.광양만권경제자유구역 하동지구는 대송산업단지와 갈사만조선산업단지 등이 있으며, 특히 대송산업단지는 포스코를 비롯한 광양만권의 산업 기반과 연"
+        },
+        {
+          "title": "Disrupting a coordinated model-distillation campaign",
+          "link": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+          "date": "2026-09-30",
+          "source": "OpenAI",
+          "description": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Disrupting a coordinated model-distillation campaign",
+          "original_summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+          "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation."
+        },
+        {
+          "title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+          "link": "https://techcrunch.com/2026/09/30/valor-atreides-and-sequoia-back-ai-startup-flow-engineering-at-750m-valuation/",
+          "date": "2026-09-30",
+          "source": "TechCrunch",
+          "description": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/10/2243688557.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Valor, Atreides, and Sequoia back AI startup Flow Engineering at $750M valuation",
+          "original_summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member.",
+          "summary": "Flow Engineering, which is bringing AI agents to hardware design, also landed Roelof Botha as an angel investor and board member."
+        },
+        {
+          "title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+          "link": "https://techcrunch.com/2026/09/30/openais-jev-clone-could-help-the-frontier-lab-stop-its-swarming-agents/",
+          "date": "2026-09-30",
+          "source": "TechCrunch",
+          "description": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/GettyImages-2297228249.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "OpenAI’s Jev clone could help the frontier lab stop its swarming agents",
+          "original_summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence. ",
+          "summary": "OpenAI's \"Decisions API\" is a Jev clone that confirms the importance of fast, cheap intelligence. "
+        },
+        {
+          "title": "AI voice startup ElevenLabs doubles valuation to $22B",
+          "link": "https://techcrunch.com/2026/09/30/ai-voice-startup-elevenlabs-doubles-valuation-to-22b/",
+          "date": "2026-09-30",
+          "source": "TechCrunch",
+          "description": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/01/ElevenLabs-feat.jpg?resize=1200,669",
+          "is_english": true,
+          "original_title": "AI voice startup ElevenLabs doubles valuation to $22B",
+          "original_summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price.",
+          "summary": "The $300 million employee tender was co-led by Wellington and T. Rowe Price."
+        },
+        {
+          "title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+          "link": "https://techcrunch.com/2026/09/30/reddit-is-killing-rss-feeds-ending-public-api-access-because-of-ai-bots/",
+          "date": "2026-09-30",
+          "source": "TechCrunch",
+          "description": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/06/reddit-glitch-1.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "Reddit is killing RSS feeds and ending public API access because of AI bots",
+          "original_summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content.",
+          "summary": "Reddit is ending support for RSS feeds, as the company continues tightening access to its trove of user-generated content."
+        },
+        {
+          "title": "The ugly economics of consumer AI",
+          "link": "https://techcrunch.com/2026/09/30/the-ugly-economics-of-consumer-ai/",
+          "date": "2026-09-30",
+          "source": "TechCrunch",
+          "description": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/mark-zuckerberg-muse-charm-getty.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "The ugly economics of consumer AI",
+          "original_summary": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough.",
+          "summary": "There’s a reason frontier labs have gotten gun-shy about consumer AI — and it’s not because the tech isn’t good enough."
+        },
         {
           "title": "배경훈 장관 “독파모 계속된다…SPC 프론티어 AI 도전과 병행”",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215817",
@@ -7549,7 +7717,7 @@
         {
           "title": "convaiinnovations/laya",
           "link": "https://huggingface.co/convaiinnovations/laya",
-          "date": "2026-09-22",
+          "date": "2026-10-01",
           "source": "HuggingFace",
           "description": "• laya 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/convaiinnovations/laya/resolve/main/assets/logo-lockup.png",
@@ -7562,7 +7730,7 @@
         {
           "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
           "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
-          "date": "2026-09-22",
+          "date": "2026-10-01",
           "source": "HuggingFace",
           "description": "• Ternary-Bonsai-2-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
@@ -7575,7 +7743,7 @@
         {
           "title": "Qwen/Qwen-Image-2.1",
           "link": "https://huggingface.co/Qwen/Qwen-Image-2.1",
-          "date": "2026-09-22",
+          "date": "2026-10-01",
           "source": "HuggingFace",
           "description": "• Qwen-Image-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/image2.1/logo.png",
@@ -7588,7 +7756,7 @@
         {
           "title": "XingChen-AGI/Xing4.0-29B-A4B",
           "link": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
-          "date": "2026-09-22",
+          "date": "2026-10-01",
           "source": "HuggingFace",
           "description": "• Xing4.0-29B-A4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -7627,7 +7795,7 @@
         {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "date": "2026-09-22",
+          "date": "2026-10-01",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -7653,7 +7821,7 @@
         {
           "title": "Comfy-Org/Qwen-Image-2.1",
           "link": "https://huggingface.co/Comfy-Org/Qwen-Image-2.1",
-          "date": "2026-09-22",
+          "date": "2026-10-01",
           "source": "HuggingFace",
           "description": "• Qwen-Image-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -7692,7 +7860,7 @@
         {
           "title": "ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
           "link": "https://huggingface.co/ISTA-DASLab/Qwen3.8-27B-GSQ-RCO-GGUF",
-          "date": "2026-09-22",
+          "date": "2026-10-01",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B-GSQ-RCO-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/arXiv-GSQ_2604.18556-b31b1b?logo=arxiv&logoColor=white",
@@ -7718,7 +7886,7 @@
         {
           "title": "Lightricks/LTX-2.5",
           "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-09-22",
+          "date": "2026-10-01",
           "source": "HuggingFace",
           "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
