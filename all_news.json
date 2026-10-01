@@ -2,8 +2,164 @@
   "dates": [
     {
       "date": "2026-10-01",
-      "update_time": "2026-09-30 21:39:49",
+      "update_time": "2026-10-01 03:02:00",
       "news": [
+        {
+          "title": "카카오 AI 계열사 부산 집결…지역 AI 생태계 키운다",
+          "link": "https://www.yna.co.kr/view/AKR20261001087000017",
+          "date": "2026-10-01",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 오지은 기자 = 카카오[035720]의 인공지능(AI) 인재·기업 육성 추진 기구 카카오 AI 돛은 지난달 29일 부산항국제전...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/01/AKR20261001087000017_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "카카오 AI 계열사 부산 집결…지역 AI 생태계 키운다",
+          "original_summary": "(서울=연합뉴스) 오지은 기자 = 카카오[035720]의 인공지능(AI) 인재·기업 육성 추진 기구 카카오 AI 돛은 지난달 29일 부산항국제전...",
+          "summary": "(서울=연합뉴스) 오지은 기자 = 카카오[035720]의 인공지능(AI) 인재·기업 육성 추진 기구 카카오 AI 돛은 지난달 29일 부산항국제전..."
+        },
+        {
+          "title": "구글, 내부서 '제미나이 4 아르곤' 성능 회의론...\"벤치맥싱 한계\" 지적",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215824",
+          "date": "2026-10-01",
+          "source": "AI타임스",
+          "description": "구글이 차세대 플래그십 AI 모델 \\'제미나이 4 아르곤\\'을 공개했지만, 내부에서는 실제 업무 성능을 놓고 엇갈린 평가가 나오고 있다. 각종 벤치마크에서는 높은 점수를 받았지만, 실제 제품 개발이나 복잡한 코딩 작업에서는 기대만큼 안정적인 성능을 보여주지 못한다는 지적이다. 구글은 30일(현지시간) 일부 사이버보안 파트너를 대상으로 제미나이 4를 먼저 공개하고 추가 테스트를 거쳐 유료 가입자에게 접근을 확대할 계획이라고 밝혔다. 여러 주요 벤치마크에서 경쟁 모델을 앞섰으며, 보안 관련 평가에서도 오픈AI의 \\'아스트라\\'를 앞선 결과를",
+          "image": "https://cdn.aitimes.com/news/photo/202610/215824_219792_4725.png",
+          "is_english": false,
+          "original_title": "구글, 내부서 '제미나이 4 아르곤' 성능 회의론...\"벤치맥싱 한계\" 지적",
+          "original_summary": "구글이 차세대 플래그십 AI 모델 \\'제미나이 4 아르곤\\'을 공개했지만, 내부에서는 실제 업무 성능을 놓고 엇갈린 평가가 나오고 있다. 각종 벤치마크에서는 높은 점수를 받았지만, 실제 제품 개발이나 복잡한 코딩 작업에서는 기대만큼 안정적인 성능을 보여주지 못한다는 지적이다. 구글은 30일(현지시간) 일부 사이버보안 파트너를 대상으로 제미나이 4를 먼저 공개하고 추가 테스트를 거쳐 유료 가입자에게 접근을 확대할 계획이라고 밝혔다. 여러 주요 벤치마크에서 경쟁 모델을 앞섰으며, 보안 관련 평가에서도 오픈AI의 \\'아스트라\\'를 앞선 ",
+          "summary": "구글이 차세대 플래그십 AI 모델 \\'제미나이 4 아르곤\\'을 공개했지만, 내부에서는 실제 업무 성능을 놓고 엇갈린 평가가 나오고 있다. 각종 벤치마크에서는 높은 점수를 받았지만, 실제 제품 개발이나 복잡한 코딩 작업에서는 기대만큼 안정적인 성능을 보여주지 못한다는 지적이다. 구글은 30일(현지시간) 일부 사이버보안 파트너를 대상으로 제미나이 4를 먼저 공개하고 추가 테스트를 거쳐 유료 가입자에게 접근을 확대할 계획이라고 밝혔다. 여러 주요 벤치마크에서 경쟁 모델을 앞섰으며, 보안 관련 평가에서도 오픈AI의 \\'아스트라\\'를 앞선 "
+        },
+        {
+          "title": "업스테이지, sLM '솔라 미니 4' 출시... '프로·미니' 투트랙 본격화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215826",
+          "date": "2026-10-01",
+          "source": "AI타임스",
+          "description": "업스테이지가 1일 소형언어모델(sLM) \\'솔라 미니 4\\'를 출시하고, 솔라 LLM을 \\'프로\\'와 \\'미니\\'로 나누는 투트랙 전략을 본격화한다.솔라 미니 4는 전체 350억(35B) 매개변수 규모에 전문가 혼합(MoE) 구조를 적용, 추론 시 30억(3B) 매개변수만 활성화함으로써 응답 속도를 높이고 운영 비용을 낮췄다. 아티피셜 애널리시스의 인텔리전스 인덱스(AAII)에서는 종합 24점을 기록하며 활성 매개변수 30억 규모 모델 중 최고 점수를 받았다.솔라 미니 4는 알리바바 \\'큐원 3.6-35B-A3B\\', 엔비디아 \\'네모트론 3.5",
+          "image": "https://cdn.aitimes.com/news/photo/202610/215826_219793_4854.png",
+          "is_english": false,
+          "original_title": "업스테이지, sLM '솔라 미니 4' 출시... '프로·미니' 투트랙 본격화",
+          "original_summary": "업스테이지가 1일 소형언어모델(sLM) \\'솔라 미니 4\\'를 출시하고, 솔라 LLM을 \\'프로\\'와 \\'미니\\'로 나누는 투트랙 전략을 본격화한다.솔라 미니 4는 전체 350억(35B) 매개변수 규모에 전문가 혼합(MoE) 구조를 적용, 추론 시 30억(3B) 매개변수만 활성화함으로써 응답 속도를 높이고 운영 비용을 낮췄다. 아티피셜 애널리시스의 인텔리전스 인덱스(AAII)에서는 종합 24점을 기록하며 활성 매개변수 30억 규모 모델 중 최고 점수를 받았다.솔라 미니 4는 알리바바 \\'큐원 3.6-35B-A3B\\', 엔비디아 \\'",
+          "summary": "업스테이지가 1일 소형언어모델(sLM) \\'솔라 미니 4\\'를 출시하고, 솔라 LLM을 \\'프로\\'와 \\'미니\\'로 나누는 투트랙 전략을 본격화한다.솔라 미니 4는 전체 350억(35B) 매개변수 규모에 전문가 혼합(MoE) 구조를 적용, 추론 시 30억(3B) 매개변수만 활성화함으로써 응답 속도를 높이고 운영 비용을 낮췄다. 아티피셜 애널리시스의 인텔리전스 인덱스(AAII)에서는 종합 24점을 기록하며 활성 매개변수 30억 규모 모델 중 최고 점수를 받았다.솔라 미니 4는 알리바바 \\'큐원 3.6-35B-A3B\\', 엔비디아 \\'"
+        },
+        {
+          "title": "\"앤트로픽 몸값 1.5조 달러로 하향해야\"…월가의 AI IPO '거품' 경고",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215828",
+          "date": "2026-10-01",
+          "source": "AI타임스",
+          "description": "실리콘밸리가 부풀려 놓은 AI 기업들의 몸값에 월스트리트가 잇달아 제동을 걸고 나섰다. AI 분야의 막대한 투자 비용 대비 수익성에 대한 의구심이 커지며, 시장 전반의 기대감이 가라앉는 분위기다.30일 디 인포메이션과 월스트리트저널(WSJ) 등에 따르면 주식 시장의 불안감으로 인해 중소 규모 기업의 기업공개(IPO) 연기가 이어지는 가운데, 당초 예상했던 앤트로픽의 대형 IPO에 대한 열기마저 차갑게 식고 있다.이와 관련해 두 대형 공모주 투자자는 앤트로픽의 기업 가치를 일부 투자은행들이 초기 논의에서 제시했던 2조달러보다는 1조5",
+          "image": "https://cdn.aitimes.com/news/photo/202610/215828_219795_5030.jpg",
+          "is_english": false,
+          "original_title": "\"앤트로픽 몸값 1.5조 달러로 하향해야\"…월가의 AI IPO '거품' 경고",
+          "original_summary": "실리콘밸리가 부풀려 놓은 AI 기업들의 몸값에 월스트리트가 잇달아 제동을 걸고 나섰다. AI 분야의 막대한 투자 비용 대비 수익성에 대한 의구심이 커지며, 시장 전반의 기대감이 가라앉는 분위기다.30일 디 인포메이션과 월스트리트저널(WSJ) 등에 따르면 주식 시장의 불안감으로 인해 중소 규모 기업의 기업공개(IPO) 연기가 이어지는 가운데, 당초 예상했던 앤트로픽의 대형 IPO에 대한 열기마저 차갑게 식고 있다.이와 관련해 두 대형 공모주 투자자는 앤트로픽의 기업 가치를 일부 투자은행들이 초기 논의에서 제시했던 2조달러보다는 1조5",
+          "summary": "실리콘밸리가 부풀려 놓은 AI 기업들의 몸값에 월스트리트가 잇달아 제동을 걸고 나섰다. AI 분야의 막대한 투자 비용 대비 수익성에 대한 의구심이 커지며, 시장 전반의 기대감이 가라앉는 분위기다.30일 디 인포메이션과 월스트리트저널(WSJ) 등에 따르면 주식 시장의 불안감으로 인해 중소 규모 기업의 기업공개(IPO) 연기가 이어지는 가운데, 당초 예상했던 앤트로픽의 대형 IPO에 대한 열기마저 차갑게 식고 있다.이와 관련해 두 대형 공모주 투자자는 앤트로픽의 기업 가치를 일부 투자은행들이 초기 논의에서 제시했던 2조달러보다는 1조5"
+        },
+        {
+          "title": "덴컴, 치과 진료 전 과정 연결한 AI 플랫폼 ‘덴트허브 1.0’ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215822",
+          "date": "2026-10-01",
+          "source": "AI타임스",
+          "description": "치과 AI 전문 덴컴(대표 임병준)이 진료실 대화를 AI가 자동 인식해 차트로 구조화하고, 문진부터 보험청구까지 전 과정을 연결하는 통합 치과 AI 플랫폼 ‘덴트허브(DentHub) 1.0’을 1일 공개했다.덴트허브는 별도 조작 없이 진료 과정에서 AI가 자동 작동하는 앰비언트 방식을 적용한 점이 핵심이다. 자체 개발 AI 엔진 ‘덴스퍼(Densper)’가 대기실과 진료실 등에서 이뤄지는 음성을 실시간 분석해 동일 환자 차트에 맞춰 정리한다. 입력된 데이터는 예약, 문진, 차팅, 처방, 보험청구, 사후관리까지 하나의 흐름으로 연동된",
+          "image": "https://cdn.aitimes.com/news/photo/202610/215822_219791_2946.jpg",
+          "is_english": false,
+          "original_title": "덴컴, 치과 진료 전 과정 연결한 AI 플랫폼 ‘덴트허브 1.0’ 공개",
+          "original_summary": "치과 AI 전문 덴컴(대표 임병준)이 진료실 대화를 AI가 자동 인식해 차트로 구조화하고, 문진부터 보험청구까지 전 과정을 연결하는 통합 치과 AI 플랫폼 ‘덴트허브(DentHub) 1.0’을 1일 공개했다.덴트허브는 별도 조작 없이 진료 과정에서 AI가 자동 작동하는 앰비언트 방식을 적용한 점이 핵심이다. 자체 개발 AI 엔진 ‘덴스퍼(Densper)’가 대기실과 진료실 등에서 이뤄지는 음성을 실시간 분석해 동일 환자 차트에 맞춰 정리한다. 입력된 데이터는 예약, 문진, 차팅, 처방, 보험청구, 사후관리까지 하나의 흐름으로 연동된",
+          "summary": "치과 AI 전문 덴컴(대표 임병준)이 진료실 대화를 AI가 자동 인식해 차트로 구조화하고, 문진부터 보험청구까지 전 과정을 연결하는 통합 치과 AI 플랫폼 ‘덴트허브(DentHub) 1.0’을 1일 공개했다.덴트허브는 별도 조작 없이 진료 과정에서 AI가 자동 작동하는 앰비언트 방식을 적용한 점이 핵심이다. 자체 개발 AI 엔진 ‘덴스퍼(Densper)’가 대기실과 진료실 등에서 이뤄지는 음성을 실시간 분석해 동일 환자 차트에 맞춰 정리한다. 입력된 데이터는 예약, 문진, 차팅, 처방, 보험청구, 사후관리까지 하나의 흐름으로 연동된"
+        },
+        {
+          "title": "[기고] AI판 빅맥지수가 비춘 'AI 강국'의 그림자",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215819",
+          "date": "2026-10-01",
+          "source": "AI타임스",
+          "description": "지난 9월10일 오픈AI는 월 200달러짜리 챗GPT 프로 요금제의 신규 가입을 멈췄다. 시스템 부하가 이유였다. 값을 올리지도 내리지도 않고 판매 자체를 멈췄다.챗GPT 프로 200달러는 서울에서도 베를린에서도 같다. 그런데 그 돈을 최저임금으로 벌려면 독일에서는 12.7시간, 한국에서는 27.6시간, 멕시코에서는 98시간을 일해야 한다.가격은 하나인데 그것을 사는 노동시간은 열 배 가까이 벌어져 있다.나는 이 차이를 재는 지수를 만들었다. 이름은 \\'지능시간\\'이다. 월 20달러인 기본 요금제 가격을 그 나라 법정 최저시급으로 나눈",
+          "image": "https://cdn.aitimes.com/news/photo/202610/215819_219785_5622.png",
+          "is_english": false,
+          "original_title": "[기고] AI판 빅맥지수가 비춘 'AI 강국'의 그림자",
+          "original_summary": "지난 9월10일 오픈AI는 월 200달러짜리 챗GPT 프로 요금제의 신규 가입을 멈췄다. 시스템 부하가 이유였다. 값을 올리지도 내리지도 않고 판매 자체를 멈췄다.챗GPT 프로 200달러는 서울에서도 베를린에서도 같다. 그런데 그 돈을 최저임금으로 벌려면 독일에서는 12.7시간, 한국에서는 27.6시간, 멕시코에서는 98시간을 일해야 한다.가격은 하나인데 그것을 사는 노동시간은 열 배 가까이 벌어져 있다.나는 이 차이를 재는 지수를 만들었다. 이름은 \\'지능시간\\'이다. 월 20달러인 기본 요금제 가격을 그 나라 법정 최저시급으로 ",
+          "summary": "지난 9월10일 오픈AI는 월 200달러짜리 챗GPT 프로 요금제의 신규 가입을 멈췄다. 시스템 부하가 이유였다. 값을 올리지도 내리지도 않고 판매 자체를 멈췄다.챗GPT 프로 200달러는 서울에서도 베를린에서도 같다. 그런데 그 돈을 최저임금으로 벌려면 독일에서는 12.7시간, 한국에서는 27.6시간, 멕시코에서는 98시간을 일해야 한다.가격은 하나인데 그것을 사는 노동시간은 열 배 가까이 벌어져 있다.나는 이 차이를 재는 지수를 만들었다. 이름은 \\'지능시간\\'이다. 월 20달러인 기본 요금제 가격을 그 나라 법정 최저시급으로 "
+        },
+        {
+          "title": "[AI리더의 서가] 허깅페이스 인 액션",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215624",
+          "date": "2026-10-01",
+          "source": "AI타임스",
+          "description": "허깅페이스 인 액션웨이멍 리 | 길2026년 9월 23일추천이유이 책은 트랜스포머부터 RAG, 에이전트까지 허깅페이스를 활용한 실전 AI 시스템 구축 방법을 코드 중심으로 설명합니다. 독자는 객체 탐지, 챗봇, 질의응답 등 다양한 프로젝트를 직접 만들며 AI 개발 경험을 쌓을 수 있습니다.상세보기길벗이 오는 23일 펴내는 『허깅페이스 인 액션』(웨이멍 리 지음, 박지은 옮김)은 제목 그대로 허깅페이스를 축으로 삼은 실전서다. 트랜스포머부터 자연어 처리와 비전, 파인튜닝, RAG, 에이전트까지 열세 개 장에 걸쳐, 모델을 탐색하는 단",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215624_219525_1127.jpg",
+          "is_english": false,
+          "original_title": "[AI리더의 서가] 허깅페이스 인 액션",
+          "original_summary": "허깅페이스 인 액션웨이멍 리 | 길2026년 9월 23일추천이유이 책은 트랜스포머부터 RAG, 에이전트까지 허깅페이스를 활용한 실전 AI 시스템 구축 방법을 코드 중심으로 설명합니다. 독자는 객체 탐지, 챗봇, 질의응답 등 다양한 프로젝트를 직접 만들며 AI 개발 경험을 쌓을 수 있습니다.상세보기길벗이 오는 23일 펴내는 『허깅페이스 인 액션』(웨이멍 리 지음, 박지은 옮김)은 제목 그대로 허깅페이스를 축으로 삼은 실전서다. 트랜스포머부터 자연어 처리와 비전, 파인튜닝, RAG, 에이전트까지 열세 개 장에 걸쳐, 모델을 탐색하는 단",
+          "summary": "허깅페이스 인 액션웨이멍 리 | 길2026년 9월 23일추천이유이 책은 트랜스포머부터 RAG, 에이전트까지 허깅페이스를 활용한 실전 AI 시스템 구축 방법을 코드 중심으로 설명합니다. 독자는 객체 탐지, 챗봇, 질의응답 등 다양한 프로젝트를 직접 만들며 AI 개발 경험을 쌓을 수 있습니다.상세보기길벗이 오는 23일 펴내는 『허깅페이스 인 액션』(웨이멍 리 지음, 박지은 옮김)은 제목 그대로 허깅페이스를 축으로 삼은 실전서다. 트랜스포머부터 자연어 처리와 비전, 파인튜닝, RAG, 에이전트까지 열세 개 장에 걸쳐, 모델을 탐색하는 단"
+        },
+        {
+          "title": "앤트로픽 IPO 서류가 드러낸 매출 편중 “기업에는 협상 적기”",
+          "link": "https://www.itworld.co.kr/article/4229303/%ec%95%a4%ed%8a%b8%eb%a1%9c%ed%94%bd-ipo-%ec%84%9c%eb%a5%98%ea%b0%80-%eb%93%9c%eb%9f%ac%eb%82%b8-%eb%a7%a4%ec%b6%9c-%ed%8e%b8%ec%a4%91-%ea%b8%b0%ec%97%85%ec%97%90%eb%8a%94-%ed%98%91%ec%83%81.html",
+          "date": "2026-10-01",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n앤트로픽의 지난해 매출 중 약 1/4이 단 두 고객사에서 발생했으며, 대형 고객 다수가 장기 계약을 체결하지 않은 것으로 확인됐다. 두 가지 사실 모두 기업 CIO의 협상력을 한층 높이는 요인이 될 수 있다.\n\n\n\n로이터의 상세 분석에 따르면, 앤트로픽의 기밀 공개서류에는 매출 다각화 부족으로 어려움을 겪고 있는 기업의 모습이 담겼다. 다른 AI 업체와 마찬가지로, 앤트로픽 역시 기업이 특정 AI 업체를 필요로 하는 것보다 기업 매출이 더 절실히 필요한 상황이다.\n\n\n\n애널리스트와 컨설턴트들은 이번 분석 결과가 기업 CIO에게 희소식이 될 수 있지만, 상황이 어떻게 전개될지는 지켜봐야 한다고 밝혔다.\n\n\n\n딕슨 리서치(Dickson Research) 수석 애널리스트 프랭크 딕슨은 공개서류에 따르면 앤트로픽의 핵심 위험 요인은 매출 집중이라고 짚었다.\n\n\n\n딕슨은 “매출의 1/4 가까이가 단 두 고객사에서 발생했으며, 앤트로픽 스스로도 다수의 ",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/10/4229303-0-22815500-1790820328-shutterstock_2777184899.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "앤트로픽 IPO 서류가 드러낸 매출 편중 “기업에는 협상 적기”",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n앤트로픽의 지난해 매출 중 약 1/4이 단 두 고객사에서 발생했으며, 대형 고객 다수가 장기 계약을 체결하지 않은 것으로 확인됐다. 두 가지 사실 모두 기업 CIO의 협상력을 한층 높이는 요인이 될 수 있다.\n\n\n\n로이터의 상세 분석에 따르면, 앤트로픽의 기밀 공개서류에는 매출 다각화 부족으로 어려움을 겪고 있는 기업의 모습이 담겼다. 다른 AI 업체와 마찬가지로, 앤트로픽 역시 기업이 특정 AI 업체를 필요로 하는 것보다 기업 매출이 더 절실히 필요한 상황이다.\n\n\n\n애널리스트와 컨설턴트들",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n앤트로픽의 지난해 매출 중 약 1/4이 단 두 고객사에서 발생했으며, 대형 고객 다수가 장기 계약을 체결하지 않은 것으로 확인됐다. 두 가지 사실 모두 기업 CIO의 협상력을 한층 높이는 요인이 될 수 있다.\n\n\n\n로이터의 상세 분석에 따르면, 앤트로픽의 기밀 공개서류에는 매출 다각화 부족으로 어려움을 겪고 있는 기업의 모습이 담겼다. 다른 AI 업체와 마찬가지로, 앤트로픽 역시 기업이 특정 AI 업체를 필요로 하는 것보다 기업 매출이 더 절실히 필요한 상황이다.\n\n\n\n애널리스트와 컨설턴트들"
+        },
+        {
+          "title": "이름만 바꾸고 규제는 없나 — 트럼프의 ‘슈퍼 인텔리전스’ 시대 선언",
+          "link": "https://www.itworld.co.kr/article/4229291/%ec%9d%b4%eb%a6%84%eb%a7%8c-%eb%b0%94%ea%be%b8%ea%b3%a0-%ea%b7%9c%ec%a0%9c%eb%8a%94-%ec%97%86%eb%82%98-%ed%8a%b8%eb%9f%bc%ed%94%84%ec%9d%98-%ec%8a%88%ed%8d%bc-%ec%9d%b8%ed%85%94%eb%a6%ac.html",
+          "date": "2026-10-01",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n미국 도널드 트럼프 대통령이 연방 정부에 AI를 ‘슈퍼 인텔리전스’로 지칭하도록 지시했다. 기술의 법적 정의는 유지하면서, 활용 규칙 설정은 업계 자율에 맡기는 방식이다.\n\n\n\n미국 백악관은 행정명령을 통해, 현대 시스템이 “‘AI’이라는 용어가 처음 등장했을 당시 상정했던 수준을 훨씬 뛰어넘었다”며 “점점 더 단순한 AI가 아닌 새로운 슈퍼 인텔리전스 시대를 대표하게 됐다”고 밝혔다.\n\n\n\n트럼프 대통령은 “따라서 법이 허용하는 최대 범위 내에서, 행정부는 ‘AI’과 ‘AI’ 대신 ‘슈퍼 인텔리전스’와 ‘SI’라는 용어를 사용하는 것이 트럼프 행정부 정책”이라고 명령했다.\n\n\n\n이번 행정명령은 행정부가 어떤 관련 상황에서도 기존 용어를 “인정하지 않을 것”이라고 명시했다.\n\n\n\n그러나 정작 슈퍼 인텔리전스를 정의할 때는 기존의 정의를 그대로 가져다 썼다. 행정명령 제3조는 슈퍼 인텔리전스를 미국 연방법 15 U.S.C. 9401(3)의 AI",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/10/4229291-0-83406200-1790817995-white-house-pexels-simon-gagner-2161982982-38391185.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "이름만 바꾸고 규제는 없나 — 트럼프의 ‘슈퍼 인텔리전스’ 시대 선언",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n미국 도널드 트럼프 대통령이 연방 정부에 AI를 ‘슈퍼 인텔리전스’로 지칭하도록 지시했다. 기술의 법적 정의는 유지하면서, 활용 규칙 설정은 업계 자율에 맡기는 방식이다.\n\n\n\n미국 백악관은 행정명령을 통해, 현대 시스템이 “‘AI’이라는 용어가 처음 등장했을 당시 상정했던 수준을 훨씬 뛰어넘었다”며 “점점 더 단순한 AI가 아닌 새로운 슈퍼 인텔리전스 시대를 대표하게 됐다”고 밝혔다.\n\n\n\n트럼프 대통령은 “따라서 법이 허용하는 최대 범위 내에서, 행정부는 ‘AI’과 ‘AI’ 대신 ‘슈퍼 ",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n미국 도널드 트럼프 대통령이 연방 정부에 AI를 ‘슈퍼 인텔리전스’로 지칭하도록 지시했다. 기술의 법적 정의는 유지하면서, 활용 규칙 설정은 업계 자율에 맡기는 방식이다.\n\n\n\n미국 백악관은 행정명령을 통해, 현대 시스템이 “‘AI’이라는 용어가 처음 등장했을 당시 상정했던 수준을 훨씬 뛰어넘었다”며 “점점 더 단순한 AI가 아닌 새로운 슈퍼 인텔리전스 시대를 대표하게 됐다”고 밝혔다.\n\n\n\n트럼프 대통령은 “따라서 법이 허용하는 최대 범위 내에서, 행정부는 ‘AI’과 ‘AI’ 대신 ‘슈퍼 "
+        },
+        {
+          "title": "속도·실험·군살 빼기…터너스가 바꾸는 애플",
+          "link": "https://www.itworld.co.kr/article/4229287/%ec%86%8d%eb%8f%84%c2%b7%ec%8b%a4%ed%97%98%c2%b7%ea%b5%b0%ec%82%b4-%eb%b9%bc%ea%b8%b0%ed%84%b0%eb%84%88%ec%8a%a4%ea%b0%80-%eb%b0%94%ea%be%b8%eb%8a%94-%ec%95%a0%ed%94%8c.html",
+          "date": "2026-10-01",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n애플 신임 CEO가 인력을 줄이면서 더 많은 제품을 더 빠른 속도로 출시하라고 요구하고 있다는 보도가 나왔다.\n\n\n\n긍정적인 소식은 실제로 더 많은 제품을 출시하려는 노력이 이루어지고 있다는 점이다. 애플 CEO 존 터너스의 취임 첫 해에 신제품이 쏟아질 것이라는 전망은 이미 오래전부터 있었다. 신임 CEO 때문만이 아니라, 오랫동안 출시 소문이 돌던 제품들이 마침내 완성 단계에 접어들었기 때문이다.\n\n\n\n폴더블 아이폰 듀오는 시작에 불과하다. 향후 12개월 안에 터치스크린 맥북, 카메라 내장 에어팟, 스마트 안경, 새로운 스마트 홈 허브, 20주년 기념 아이폰까지 출시될 예정이다. 여기에 아이폰, 아이패드, 맥 라인업의 정기 업데이트도 예정돼 있다. 그러나 블룸버그 기자 마크 거먼의 광범위한 보도에 따르면, 터너스에게 이것만으로는 부족하다.\n\n\n\n거먼의 소식통에 따르면, 애플 신임 CEO는 회사가 “더 실험적”으로 변하고 신제품을 더 빠르게",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/10/4229287-0-81263000-1790816201-3209849-0-29228100-1788783671-john-ternus-scary-fast-event.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "속도·실험·군살 빼기…터너스가 바꾸는 애플",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n애플 신임 CEO가 인력을 줄이면서 더 많은 제품을 더 빠른 속도로 출시하라고 요구하고 있다는 보도가 나왔다.\n\n\n\n긍정적인 소식은 실제로 더 많은 제품을 출시하려는 노력이 이루어지고 있다는 점이다. 애플 CEO 존 터너스의 취임 첫 해에 신제품이 쏟아질 것이라는 전망은 이미 오래전부터 있었다. 신임 CEO 때문만이 아니라, 오랫동안 출시 소문이 돌던 제품들이 마침내 완성 단계에 접어들었기 때문이다.\n\n\n\n폴더블 아이폰 듀오는 시작에 불과하다. 향후 12개월 안에 터치스크린 맥북, 카메라 내",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n애플 신임 CEO가 인력을 줄이면서 더 많은 제품을 더 빠른 속도로 출시하라고 요구하고 있다는 보도가 나왔다.\n\n\n\n긍정적인 소식은 실제로 더 많은 제품을 출시하려는 노력이 이루어지고 있다는 점이다. 애플 CEO 존 터너스의 취임 첫 해에 신제품이 쏟아질 것이라는 전망은 이미 오래전부터 있었다. 신임 CEO 때문만이 아니라, 오랫동안 출시 소문이 돌던 제품들이 마침내 완성 단계에 접어들었기 때문이다.\n\n\n\n폴더블 아이폰 듀오는 시작에 불과하다. 향후 12개월 안에 터치스크린 맥북, 카메라 내"
+        },
+        {
+          "title": "패스키가 비밀번호보다 안전한 이유",
+          "link": "https://www.itworld.co.kr/article/4229267/%ed%8c%a8%ec%8a%a4%ed%82%a4%ea%b0%80-%eb%b9%84%eb%b0%80%eb%b2%88%ed%98%b8%eb%b3%b4%eb%8b%a4-%ec%95%88%ec%a0%84%ed%95%9c-%ec%9d%b4%ec%9c%a0.html",
+          "date": "2026-10-01",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n비밀번호는 이제 과거의 유물이 됐다. 패스키로 전환했더라도 보안 설정을 제대로 마쳤다고 보기 어렵다.\n\n\n\n대다수 사용자는 스마트폰, 패스워드 관리자, PC 중 하나에 패스키를 저장한다. 각각 장점이 있지만 보안 방법도 저장 방식에 따라 조금씩 달라야 한다. 기기에 대한 접근을 잃을 경우를 대비하지 않은 사용자도 적지 않다.\n\n\n\n올바른 보안 설정 방법을 정리했다.\n\n\n\n클라우드 저장 패스키\n\n\n\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t클라우드 기반 비밀번호 관리자 계정을 엄격히 관리해 내부 패스키를 보호해야 한다.Foundry\n\n\n\n스마트폰이나 독립형 비밀번호 관리자에 패스키를 저장하면 클라우드에 보관된다. 마이크로소프트 계정으로 로그인한 엣지나 구글 계정으로 로그인한 크롬에 저장해도 마찬가지다.\n\n\n\n클라우드에 저장된 패스키는 여러 기기에서 사용할 수 있는 만큼, 저장 계정을 반드시 철저히 보호해야 오남용을 막을 수 있다. 강력하고 예측하기 어",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/10/4229267-0-56595300-1790815327-3245399-0-29564100-1790769668-Screenshot-2025-09-19-162302.webp",
+          "is_english": false,
+          "original_title": "패스키가 비밀번호보다 안전한 이유",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n비밀번호는 이제 과거의 유물이 됐다. 패스키로 전환했더라도 보안 설정을 제대로 마쳤다고 보기 어렵다.\n\n\n\n대다수 사용자는 스마트폰, 패스워드 관리자, PC 중 하나에 패스키를 저장한다. 각각 장점이 있지만 보안 방법도 저장 방식에 따라 조금씩 달라야 한다. 기기에 대한 접근을 잃을 경우를 대비하지 않은 사용자도 적지 않다.\n\n\n\n올바른 보안 설정 방법을 정리했다.\n\n\n\n클라우드 저장 패스키\n\n\n\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t클라우드 기반 비밀번호 관리자 계정을 엄격히 관리해 내부 패스",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n비밀번호는 이제 과거의 유물이 됐다. 패스키로 전환했더라도 보안 설정을 제대로 마쳤다고 보기 어렵다.\n\n\n\n대다수 사용자는 스마트폰, 패스워드 관리자, PC 중 하나에 패스키를 저장한다. 각각 장점이 있지만 보안 방법도 저장 방식에 따라 조금씩 달라야 한다. 기기에 대한 접근을 잃을 경우를 대비하지 않은 사용자도 적지 않다.\n\n\n\n올바른 보안 설정 방법을 정리했다.\n\n\n\n클라우드 저장 패스키\n\n\n\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t클라우드 기반 비밀번호 관리자 계정을 엄격히 관리해 내부 패스"
+        },
+        {
+          "title": "Giddy up, it's Botober 2026",
+          "link": "https://www.aiweirdness.com/botober-2026/",
+          "date": "2026-10-01",
+          "source": "AI Weirdness",
+          "description": "They're racehorse names generated by a very tiny neural net trained only on 42,000 horses from the Jockey Club.",
+          "image": "https://storage.ghost.io/c/88/01/8801c921-e9ec-4479-88c3-381d53470eca/content/images/2026/10/botober_2026-02-2.png",
+          "is_english": true,
+          "original_title": "Giddy up, it's Botober 2026",
+          "original_summary": "They're racehorse names generated by a very tiny neural net trained only on 42,000 horses from the Jockey Club.",
+          "summary": "They're racehorse names generated by a very tiny neural net trained only on 42,000 horses from the Jockey Club."
+        },
+        {
+          "title": "Bonus: Rejected Racehorses",
+          "link": "https://www.aiweirdness.com/bonus-rejected-racehorses/",
+          "date": "2026-10-01",
+          "source": "AI Weirdness",
+          "description": "For AI Weirdness supporters - a list of rejected racehorse names, generated by a very small neural network.",
+          "image": "https://storage.ghost.io/c/88/01/8801c921-e9ec-4479-88c3-381d53470eca/content/images/size/w1200/2021/03/neural_net_box_default_square-01-2.png",
+          "is_english": true,
+          "original_title": "Bonus: Rejected Racehorses",
+          "original_summary": "For AI Weirdness supporters - a list of rejected racehorse names, generated by a very small neural network.",
+          "summary": "For AI Weirdness supporters - a list of rejected racehorse names, generated by a very small neural network."
+        },
         {
           "title": "서울-프랑스 학생교류 넓힌다…AI·직업교육 협력도",
           "link": "https://www.yna.co.kr/view/AKR20260930147500530",
@@ -91,19 +247,6 @@
           "category": "AI Model"
         },
         {
-          "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-          "link": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-          "date": "2026-10-01",
-          "source": "HuggingFace",
-          "description": "• Qwen-Image-2.1-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF/resolve/main/assets/Qwen-Image-2.1-Benchmark.png",
-          "is_english": true,
-          "summary": "• Qwen-Image-2.1-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "XingChen-AGI/TeleOCR",
           "link": "https://huggingface.co/XingChen-AGI/TeleOCR",
           "date": "2026-10-01",
@@ -117,15 +260,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen-Image-2.1",
-          "link": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+          "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
+          "link": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
           "date": "2026-10-01",
           "source": "HuggingFace",
-          "description": "• Qwen-Image-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/image2.1/logo.png",
+          "description": "• Qwen-Image-2.1-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF/resolve/main/assets/Qwen-Image-2.1-Benchmark.png",
           "is_english": true,
-          "summary": "• Qwen-Image-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen-Image-2.1",
+          "summary": "• Qwen-Image-2.1-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -143,6 +286,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Qwen/Qwen-Image-2.1",
+          "link": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+          "date": "2026-10-01",
+          "source": "HuggingFace",
+          "description": "• Qwen-Image-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/image2.1/logo.png",
+          "is_english": true,
+          "summary": "• Qwen-Image-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen-Image-2.1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "nvidia/Nemotron-3-Diarization",
           "link": "https://huggingface.co/nvidia/Nemotron-3-Diarization",
           "date": "2026-10-01",
@@ -152,19 +308,6 @@
           "is_english": true,
           "summary": "• Nemotron-3-Diarization 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nvidia/Nemotron-3-Diarization",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "Qwen/Qwen3.8-27B",
-          "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "date": "2026-10-01",
-          "source": "HuggingFace",
-          "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.8-27B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -182,6 +325,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Qwen/Qwen3.8-27B",
+          "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "date": "2026-10-01",
+          "source": "HuggingFace",
+          "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.8-27B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
           "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
           "date": "2026-10-01",
@@ -191,19 +347,6 @@
           "is_english": true,
           "summary": "• Ternary-Bonsai-2-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "Viggle/Qwen-Image-2.1-viggle-turbo",
-          "link": "https://huggingface.co/Viggle/Qwen-Image-2.1-viggle-turbo",
-          "date": "2026-10-01",
-          "source": "HuggingFace",
-          "description": "• Qwen-Image-2.1-viggle-turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen-Image-2.1-viggle-turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Viggle/Qwen-Image-2.1-viggle-turbo",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -221,15 +364,15 @@
           "category": "AI Model"
         },
         {
-          "title": "XingChen-AGI/Xing4.0-29B-A4B",
-          "link": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
+          "title": "Viggle/Qwen-Image-2.1-viggle-turbo",
+          "link": "https://huggingface.co/Viggle/Qwen-Image-2.1-viggle-turbo",
           "date": "2026-10-01",
           "source": "HuggingFace",
-          "description": "• Xing4.0-29B-A4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "description": "• Qwen-Image-2.1-viggle-turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• Xing4.0-29B-A4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "XingChen-AGI/Xing4.0-29B-A4B",
+          "summary": "• Qwen-Image-2.1-viggle-turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Viggle/Qwen-Image-2.1-viggle-turbo",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -243,6 +386,19 @@
           "is_english": true,
           "summary": "• GLiNER2.5-Decide 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "fastino/GLiNER2.5-Decide",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "PSRben/VisionHOPE",
+          "link": "https://huggingface.co/PSRben/VisionHOPE",
+          "date": "2026-10-01",
+          "source": "HuggingFace",
+          "description": "• VisionHOPE 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• VisionHOPE 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "PSRben/VisionHOPE",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -312,15 +468,15 @@
           "category": "AI Model"
         },
         {
-          "title": "apple/LensVLM-9B",
-          "link": "https://huggingface.co/apple/LensVLM-9B",
+          "title": "XingChen-AGI/Xing4.0-29B-A4B",
+          "link": "https://huggingface.co/XingChen-AGI/Xing4.0-29B-A4B",
           "date": "2026-10-01",
           "source": "HuggingFace",
-          "description": "• LensVLM-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• Xing4.0-29B-A4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
           "is_english": true,
-          "summary": "• LensVLM-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "apple/LensVLM-9B",
+          "summary": "• Xing4.0-29B-A4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "XingChen-AGI/Xing4.0-29B-A4B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -328,8 +484,20 @@
     },
     {
       "date": "2026-09-30",
-      "update_time": "2026-09-30 21:39:49",
+      "update_time": "2026-10-01 03:01:58",
       "news": [
+        {
+          "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+          "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+          "date": "2026-09-30",
+          "source": "TechCrunch",
+          "description": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+          "original_summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work. ",
+          "summary": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work. "
+        },
         {
           "title": "\"한국판 코어위브 넘는다\"...'1조 몸값' 엘리스그룹, 코스닥 도전",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215816",
