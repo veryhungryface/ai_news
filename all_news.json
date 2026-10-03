@@ -2,20 +2,19 @@
   "dates": [
     {
       "date": "2026-10-04",
-      "update_time": "2026-10-03 18:25:57",
+      "update_time": "2026-10-03 23:26:26",
       "news": [
         {
-          "title": "convaiinnovations/laya",
-          "link": "https://huggingface.co/convaiinnovations/laya",
+          "title": "국가독성데이터에 AI 활용…실험동물 사용↓ 독성평가 효율성 ↑",
+          "link": "https://www.yna.co.kr/view/AKR20261002150000063",
           "date": "2026-10-04",
-          "source": "HuggingFace",
-          "description": "• laya 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/convaiinnovations/laya/resolve/main/assets/logo-lockup.png",
-          "is_english": true,
-          "summary": "• laya 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "convaiinnovations/laya",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
+          "source": "연합뉴스",
+          "description": "(대전=연합뉴스) 김준호 기자 = &quot;국가독성AI데이터센터 신설은 연구소가 축적해 온 독성연구 역량에 데이터와 AI를 접목해 연구방식을 한 단계 ...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/02/AKR20261002150000063_02_i_P2.jpg",
+          "is_english": false,
+          "original_title": "국가독성데이터에 AI 활용…실험동물 사용↓ 독성평가 효율성 ↑",
+          "original_summary": "(대전=연합뉴스) 김준호 기자 = &quot;국가독성AI데이터센터 신설은 연구소가 축적해 온 독성연구 역량에 데이터와 AI를 접목해 연구방식을 한 단계 ...",
+          "summary": "(대전=연합뉴스) 김준호 기자 = &quot;국가독성AI데이터센터 신설은 연구소가 축적해 온 독성연구 역량에 데이터와 AI를 접목해 연구방식을 한 단계 ..."
         },
         {
           "title": "Cloudflare/clef",
@@ -27,6 +26,19 @@
           "is_english": true,
           "summary": "• clef 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Cloudflare/clef",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "convaiinnovations/laya",
+          "link": "https://huggingface.co/convaiinnovations/laya",
+          "date": "2026-10-04",
+          "source": "HuggingFace",
+          "description": "• laya 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/convaiinnovations/laya/resolve/main/assets/logo-lockup.png",
+          "is_english": true,
+          "summary": "• laya 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "convaiinnovations/laya",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -57,32 +69,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Contrastive-LM/CLM-v0.1-8B",
-          "link": "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B",
-          "date": "2026-10-04",
-          "source": "HuggingFace",
-          "description": "• CLM-v0.1-8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/Contrastive-LM/CLM/main/assets/logo.png",
-          "is_english": true,
-          "summary": "• CLM-v0.1-8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Contrastive-LM/CLM-v0.1-8B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "SupersonicLabs/Julia-1",
-          "link": "https://huggingface.co/SupersonicLabs/Julia-1",
-          "date": "2026-10-04",
-          "source": "HuggingFace",
-          "description": "• Julia-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/SupersonicLabs/Julia-1/resolve/main/assets/supersonic-labs-dark.svg",
-          "is_english": true,
-          "summary": "• Julia-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "SupersonicLabs/Julia-1",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen-Image-2.1",
           "link": "https://huggingface.co/Qwen/Qwen-Image-2.1",
           "date": "2026-10-04",
@@ -92,6 +78,19 @@
           "is_english": true,
           "summary": "• Qwen-Image-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen-Image-2.1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Contrastive-LM/CLM-v0.1-8B",
+          "link": "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B",
+          "date": "2026-10-04",
+          "source": "HuggingFace",
+          "description": "• CLM-v0.1-8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://raw.githubusercontent.com/Contrastive-LM/CLM/main/assets/logo.png",
+          "is_english": true,
+          "summary": "• CLM-v0.1-8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Contrastive-LM/CLM-v0.1-8B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -118,6 +117,19 @@
           "is_english": true,
           "summary": "• clef-flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Cloudflare/clef-flash",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "SupersonicLabs/Julia-1",
+          "link": "https://huggingface.co/SupersonicLabs/Julia-1",
+          "date": "2026-10-04",
+          "source": "HuggingFace",
+          "description": "• Julia-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/SupersonicLabs/Julia-1/resolve/main/assets/supersonic-labs-dark.svg",
+          "is_english": true,
+          "summary": "• Julia-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "SupersonicLabs/Julia-1",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -170,6 +182,19 @@
           "is_english": true,
           "summary": "• Nemotron-3-Diarization 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nvidia/Nemotron-3-Diarization",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Aleph-Alpha/Kolibri-1",
+          "link": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+          "date": "2026-10-04",
+          "source": "HuggingFace",
+          "description": "• Kolibri-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Kolibri-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Aleph-Alpha/Kolibri-1",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -250,26 +275,37 @@
           "translated_title": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "deepseek-ai/DeepSeek-V4.1-Flash",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
-          "date": "2026-10-04",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4.1-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
-          "is_english": true,
-          "summary": "• DeepSeek-V4.1-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepseek-ai/DeepSeek-V4.1-Flash",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-10-03",
-      "update_time": "2026-10-03 18:25:57",
+      "update_time": "2026-10-03 23:26:24",
       "news": [
+        {
+          "title": "[내면 지도 그리기] 36 Inner Mapping: 나를 찾는 지도",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215944",
+          "date": "2026-10-03",
+          "source": "AI타임스",
+          "description": "내면지도_일기는 장르가 될 수 있을까정신건강의 날이 되면 마음을 돌보는 방법들이 다시 화제에 오릅니다. 산책하기, 잠 잘 자기, 상담받기, 가까운 사람에게 말하기. 그 목록 어딘가에는 대개 \\'일기 쓰기\\'도 있습니다. 그런데 이 말은 조금 쉽게 들리기도 합니다. 마치 일기를 쓰면 마음이 정리되고, 정리된 마음은 곧 건강해질 것처럼.그런데 일기를 쓴다는 것은 정말 그런 일일까요.프랑스의 문학 연구자 필리프 르죈은 이 질문을 조금 다른 곳에서 시작했습니다. 그는 문학적으로 뛰어난 일기가 아니라, 글을 업으로 삼지 않는 평범한 사람들의 일",
+          "image": "https://cdn.aitimes.com/news/photo/202610/215944_219916_3759.jpeg",
+          "is_english": true,
+          "original_title": "[내면 지도 그리기] 36 Inner Mapping: 나를 찾는 지도",
+          "original_summary": "내면지도_일기는 장르가 될 수 있을까정신건강의 날이 되면 마음을 돌보는 방법들이 다시 화제에 오릅니다. 산책하기, 잠 잘 자기, 상담받기, 가까운 사람에게 말하기. 그 목록 어딘가에는 대개 \\'일기 쓰기\\'도 있습니다. 그런데 이 말은 조금 쉽게 들리기도 합니다. 마치 일기를 쓰면 마음이 정리되고, 정리된 마음은 곧 건강해질 것처럼.그런데 일기를 쓴다는 것은 정말 그런 일일까요.프랑스의 문학 연구자 필리프 르죈은 이 질문을 조금 다른 곳에서 시작했습니다. 그는 문학적으로 뛰어난 일기가 아니라, 글을 업으로 삼지 않는 평범한 사람들의",
+          "summary": "내면지도_일기는 장르가 될 수 있을까정신건강의 날이 되면 마음을 돌보는 방법들이 다시 화제에 오릅니다. 산책하기, 잠 잘 자기, 상담받기, 가까운 사람에게 말하기. 그 목록 어딘가에는 대개 \\'일기 쓰기\\'도 있습니다. 그런데 이 말은 조금 쉽게 들리기도 합니다. 마치 일기를 쓰면 마음이 정리되고, 정리된 마음은 곧 건강해질 것처럼.그런데 일기를 쓴다는 것은 정말 그런 일일까요.프랑스의 문학 연구자 필리프 르죈은 이 질문을 조금 다른 곳에서 시작했습니다. 그는 문학적으로 뛰어난 일기가 아니라, 글을 업으로 삼지 않는 평범한 사람들의"
+        },
+        {
+          "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+          "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
+          "date": "2026-10-03",
+          "source": "TechCrunch",
+          "description": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Amazon responds to data center backlash, says it no longer uses NDAs",
+          "original_summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
+          "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers."
+        },
         {
           "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
           "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
@@ -7489,7 +7525,7 @@
         {
           "title": "convaiinnovations/laya",
           "link": "https://huggingface.co/convaiinnovations/laya",
-          "date": "2026-09-25",
+          "date": "2026-10-04",
           "source": "HuggingFace",
           "description": "• laya 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/convaiinnovations/laya/resolve/main/assets/logo-lockup.png",
@@ -7502,7 +7538,7 @@
         {
           "title": "Qwen/Qwen-Image-2.1",
           "link": "https://huggingface.co/Qwen/Qwen-Image-2.1",
-          "date": "2026-09-25",
+          "date": "2026-10-04",
           "source": "HuggingFace",
           "description": "• Qwen-Image-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/image2.1/logo.png",
@@ -7515,7 +7551,7 @@
         {
           "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
           "link": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-          "date": "2026-09-25",
+          "date": "2026-10-04",
           "source": "HuggingFace",
           "description": "• Qwen-Image-2.1-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF/resolve/main/assets/Qwen-Image-2.1-Benchmark.png",
@@ -7528,7 +7564,7 @@
         {
           "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
           "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
-          "date": "2026-09-25",
+          "date": "2026-10-04",
           "source": "HuggingFace",
           "description": "• Ternary-Bonsai-2-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
@@ -7606,7 +7642,7 @@
         {
           "title": "TaichuAI/ZDTaichu5.0-9B",
           "link": "https://huggingface.co/TaichuAI/ZDTaichu5.0-9B",
-          "date": "2026-09-25",
+          "date": "2026-10-04",
           "source": "HuggingFace",
           "description": "• ZDTaichu5.0-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
@@ -7619,7 +7655,7 @@
         {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "date": "2026-09-25",
+          "date": "2026-10-04",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -7684,7 +7720,7 @@
         {
           "title": "Lightricks/LTX-2.5",
           "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-09-25",
+          "date": "2026-10-04",
           "source": "HuggingFace",
           "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
