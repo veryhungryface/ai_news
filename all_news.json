@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-10-05",
-      "update_time": "2026-10-04 16:08:43",
+      "update_time": "2026-10-04 20:38:11",
       "news": [
         {
           "title": "Cloudflare/clef",
@@ -70,19 +70,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.8-27B",
-          "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "date": "2026-10-05",
-          "source": "HuggingFace",
-          "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.8-27B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Aleph-Alpha/Kolibri-1",
           "link": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
           "date": "2026-10-05",
@@ -92,6 +79,19 @@
           "is_english": true,
           "summary": "• Kolibri-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Aleph-Alpha/Kolibri-1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "date": "2026-10-05",
+          "source": "HuggingFace",
+          "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.8-27B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -122,6 +122,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Venastine-Research/Xing4.0-29B-A4B-GGUF",
+          "link": "https://huggingface.co/Venastine-Research/Xing4.0-29B-A4B-GGUF",
+          "date": "2026-10-05",
+          "source": "HuggingFace",
+          "description": "• Xing4.0-29B-A4B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Xing4.0-29B-A4B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Venastine-Research/Xing4.0-29B-A4B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Contrastive-LM/CLM-v0.1-8B",
           "link": "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B",
           "date": "2026-10-05",
@@ -131,19 +144,6 @@
           "is_english": true,
           "summary": "• CLM-v0.1-8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Contrastive-LM/CLM-v0.1-8B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "SupersonicLabs/Julia-1",
-          "link": "https://huggingface.co/SupersonicLabs/Julia-1",
-          "date": "2026-10-05",
-          "source": "HuggingFace",
-          "description": "• Julia-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/SupersonicLabs/Julia-1/resolve/main/assets/supersonic-labs-dark.svg",
-          "is_english": true,
-          "summary": "• Julia-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "SupersonicLabs/Julia-1",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -161,15 +161,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Venastine-Research/Xing4.0-29B-A4B-GGUF",
-          "link": "https://huggingface.co/Venastine-Research/Xing4.0-29B-A4B-GGUF",
+          "title": "SupersonicLabs/Julia-1",
+          "link": "https://huggingface.co/SupersonicLabs/Julia-1",
           "date": "2026-10-05",
           "source": "HuggingFace",
-          "description": "• Xing4.0-29B-A4B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "description": "• Julia-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/SupersonicLabs/Julia-1/resolve/main/assets/supersonic-labs-dark.svg",
           "is_english": true,
-          "summary": "• Xing4.0-29B-A4B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Venastine-Research/Xing4.0-29B-A4B-GGUF",
+          "summary": "• Julia-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "SupersonicLabs/Julia-1",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -196,19 +196,6 @@
           "is_english": true,
           "summary": "• OrcaSAQ-2-Cyber-27B-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF",
-          "link": "https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF",
-          "date": "2026-10-05",
-          "source": "HuggingFace",
-          "description": "• Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/arXiv-GSQ_2604.18556-b31b1b?logo=arxiv&logoColor=white",
-          "is_english": true,
-          "summary": "• Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -252,15 +239,28 @@
           "category": "AI Model"
         },
         {
-          "title": "deepseek-ai/DeepSeek-V4.1-Flash",
-          "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
+          "title": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF",
+          "link": "https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF",
           "date": "2026-10-05",
           "source": "HuggingFace",
-          "description": "• DeepSeek-V4.1-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
+          "description": "• Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/arXiv-GSQ_2604.18556-b31b1b?logo=arxiv&logoColor=white",
           "is_english": true,
-          "summary": "• DeepSeek-V4.1-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "deepseek-ai/DeepSeek-V4.1-Flash",
+          "summary": "• Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-Coder-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Alissonerdx/BFS-Best-Face-Swap",
+          "link": "https://huggingface.co/Alissonerdx/BFS-Best-Face-Swap",
+          "date": "2026-10-05",
+          "source": "HuggingFace",
+          "description": "• BFS-Best-Face-Swap 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• BFS-Best-Face-Swap 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Alissonerdx/BFS-Best-Face-Swap",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -268,8 +268,32 @@
     },
     {
       "date": "2026-10-04",
-      "update_time": "2026-10-04 16:08:43",
+      "update_time": "2026-10-04 20:38:11",
       "news": [
+        {
+          "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+          "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+          "date": "2026-10-04",
+          "source": "TechCrunch",
+          "description": "AI slop seems to be overwhelming bug bounty programs.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/07/ai-slop-bug-bounty-reports-1646637201.jpg?resize=1200,863",
+          "is_english": true,
+          "original_title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+          "original_summary": "AI slop seems to be overwhelming bug bounty programs.",
+          "summary": "AI slop seems to be overwhelming bug bounty programs."
+        },
+        {
+          "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+          "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+          "date": "2026-10-04",
+          "source": "TechCrunch",
+          "description": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2297262633.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+          "original_summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+          "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI."
+        },
         {
           "title": "Trump unveils his new Super Intelligence Force",
           "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
@@ -2335,7 +2359,7 @@
         {
           "title": "Alissonerdx/BFS-Best-Face-Swap",
           "link": "https://huggingface.co/Alissonerdx/BFS-Best-Face-Swap",
-          "date": "2026-10-04",
+          "date": "2026-10-05",
           "source": "HuggingFace",
           "description": "• BFS-Best-Face-Swap 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -7321,7 +7345,7 @@
         {
           "title": "convaiinnovations/laya",
           "link": "https://huggingface.co/convaiinnovations/laya",
-          "date": "2026-09-26",
+          "date": "2026-10-05",
           "source": "HuggingFace",
           "description": "• laya 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/convaiinnovations/laya/resolve/main/assets/logo-lockup.png",
@@ -7334,7 +7358,7 @@
         {
           "title": "Qwen/Qwen-Image-2.1",
           "link": "https://huggingface.co/Qwen/Qwen-Image-2.1",
-          "date": "2026-09-26",
+          "date": "2026-10-05",
           "source": "HuggingFace",
           "description": "• Qwen-Image-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/image2.1/logo.png",
@@ -7347,7 +7371,7 @@
         {
           "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
           "link": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-          "date": "2026-09-26",
+          "date": "2026-10-05",
           "source": "HuggingFace",
           "description": "• Qwen-Image-2.1-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF/resolve/main/assets/Qwen-Image-2.1-Benchmark.png",
@@ -7373,7 +7397,7 @@
         {
           "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
           "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
-          "date": "2026-09-26",
+          "date": "2026-10-05",
           "source": "HuggingFace",
           "description": "• Ternary-Bonsai-2-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
@@ -7438,7 +7462,7 @@
         {
           "title": "TaichuAI/ZDTaichu5.0-9B",
           "link": "https://huggingface.co/TaichuAI/ZDTaichu5.0-9B",
-          "date": "2026-09-26",
+          "date": "2026-10-05",
           "source": "HuggingFace",
           "description": "• ZDTaichu5.0-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
@@ -7477,7 +7501,7 @@
         {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "date": "2026-09-26",
+          "date": "2026-10-05",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -7503,7 +7527,7 @@
         {
           "title": "Lightricks/LTX-2.5",
           "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-09-26",
+          "date": "2026-10-05",
           "source": "HuggingFace",
           "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -7516,7 +7540,7 @@
         {
           "title": "nvidia/Nemotron-3-Diarization",
           "link": "https://huggingface.co/nvidia/Nemotron-3-Diarization",
-          "date": "2026-09-26",
+          "date": "2026-10-05",
           "source": "HuggingFace",
           "description": "• Nemotron-3-Diarization 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/nvidia/Nemotron-3-Diarization/resolve/main/streaming_diarization_demo.gif",
