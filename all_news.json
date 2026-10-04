@@ -2,8 +2,92 @@
   "dates": [
     {
       "date": "2026-10-04",
-      "update_time": "2026-10-04 03:21:22",
+      "update_time": "2026-10-04 11:30:15",
       "news": [
+        {
+          "title": "한전 직원 2만4천여명 개인정보 노출…\"AI 해킹과는 무관\"(종합)",
+          "link": "https://www.yna.co.kr/view/AKR20261004032351003",
+          "date": "2026-10-04",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 신창용 기자 = 최근 금융권에서 개인정보 유출 사고가 잇따르는 가운데 한국전력에서도 관련 사고가 발생했다.",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/04/AKR20261004032351003_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "한전 직원 2만4천여명 개인정보 노출…\"AI 해킹과는 무관\"(종합)",
+          "original_summary": "(서울=연합뉴스) 신창용 기자 = 최근 금융권에서 개인정보 유출 사고가 잇따르는 가운데 한국전력에서도 관련 사고가 발생했다.",
+          "summary": "(서울=연합뉴스) 신창용 기자 = 최근 금융권에서 개인정보 유출 사고가 잇따르는 가운데 한국전력에서도 관련 사고가 발생했다."
+        },
+        {
+          "title": "원프레딕트 “버려지던 제조 데이터, AI 자산으로 바꾸겠다”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215688",
+          "date": "2026-10-04",
+          "source": "AI타임스",
+          "description": "산업 AI 전문 원프레딕트(대표 윤병동)는 ‘제조 데이터 자산화’를 통해 공장 전체 운영을 AI 중심으로 혁신하는 ‘AI 네이티브 팩토리’를 추진하겠다고 밝혔다. 윤병동 원프레딕트 대표는 현재 제조 현장의 가장 큰 문제로 설비와 시스템별로 파편화된 데이터 구조를 꼽았다. 제품이나 공정 조건과 연결되지 못한 채, 설비 상태 확인이나 생산 결과 기록 등 일회성으로 소비되고 버려지는 소모성 데이터가 대부분이라는 지적이다.이처럼 현장에 축적된 데이터를 AI가 지속적으로 학습·재활용할 수 있는 ‘자산성 데이터’로 바꾸지 않는다면, AI를 도",
+          "image": "https://cdn.aitimes.com/news/photo/202609/215688_219631_3246.jpg",
+          "is_english": false,
+          "original_title": "원프레딕트 “버려지던 제조 데이터, AI 자산으로 바꾸겠다”",
+          "original_summary": "산업 AI 전문 원프레딕트(대표 윤병동)는 ‘제조 데이터 자산화’를 통해 공장 전체 운영을 AI 중심으로 혁신하는 ‘AI 네이티브 팩토리’를 추진하겠다고 밝혔다. 윤병동 원프레딕트 대표는 현재 제조 현장의 가장 큰 문제로 설비와 시스템별로 파편화된 데이터 구조를 꼽았다. 제품이나 공정 조건과 연결되지 못한 채, 설비 상태 확인이나 생산 결과 기록 등 일회성으로 소비되고 버려지는 소모성 데이터가 대부분이라는 지적이다.이처럼 현장에 축적된 데이터를 AI가 지속적으로 학습·재활용할 수 있는 ‘자산성 데이터’로 바꾸지 않는다면, AI를 도",
+          "summary": "산업 AI 전문 원프레딕트(대표 윤병동)는 ‘제조 데이터 자산화’를 통해 공장 전체 운영을 AI 중심으로 혁신하는 ‘AI 네이티브 팩토리’를 추진하겠다고 밝혔다. 윤병동 원프레딕트 대표는 현재 제조 현장의 가장 큰 문제로 설비와 시스템별로 파편화된 데이터 구조를 꼽았다. 제품이나 공정 조건과 연결되지 못한 채, 설비 상태 확인이나 생산 결과 기록 등 일회성으로 소비되고 버려지는 소모성 데이터가 대부분이라는 지적이다.이처럼 현장에 축적된 데이터를 AI가 지속적으로 학습·재활용할 수 있는 ‘자산성 데이터’로 바꾸지 않는다면, AI를 도"
+        },
+        {
+          "title": "화면 안 보고 게임한다…GPT-6 아스트라, 'WoW' 40분 만에 클리어",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215945",
+          "date": "2026-10-04",
+          "source": "AI타임스",
+          "description": "AI 에이전트가 복잡한 가상 세계를 얼마나 스스로 이해하고 행동할 수 있는지를 시험하는 실험이 이어지고 있다. 이번에는 오픈AI의 ‘GPT-6 아스트라(Astra)’가 AI 연구자 에드워드 에드워즈의 실험을 통해 인기 MMORPG를 게임 화면이나 사람의 직접적인 조작 없이 플레이하며 눈길을 끌었다.에드워즈에 따르면, GPT-6 아스트라는 2일(현지시간) \\'월드 오브 워크래프트(WoW)\\'를 게임 화면 한 번 보지 않고 플레이해 오크 시작 지역의 모든 퀘스트를 40분 만에 완료했다.한 번도 죽지 않은 것은 물론, 별도의 게임 공략이나",
+          "image": "https://cdn.aitimes.com/news/photo/202610/215945_219917_4457.jpg",
+          "is_english": true,
+          "original_title": "화면 안 보고 게임한다…GPT-6 아스트라, 'WoW' 40분 만에 클리어",
+          "original_summary": "AI 에이전트가 복잡한 가상 세계를 얼마나 스스로 이해하고 행동할 수 있는지를 시험하는 실험이 이어지고 있다. 이번에는 오픈AI의 ‘GPT-6 아스트라(Astra)’가 AI 연구자 에드워드 에드워즈의 실험을 통해 인기 MMORPG를 게임 화면이나 사람의 직접적인 조작 없이 플레이하며 눈길을 끌었다.에드워즈에 따르면, GPT-6 아스트라는 2일(현지시간) \\'월드 오브 워크래프트(WoW)\\'를 게임 화면 한 번 보지 않고 플레이해 오크 시작 지역의 모든 퀘스트를 40분 만에 완료했다.한 번도 죽지 않은 것은 물론, 별도의 게임 공략이",
+          "summary": "AI 에이전트가 복잡한 가상 세계를 얼마나 스스로 이해하고 행동할 수 있는지를 시험하는 실험이 이어지고 있다. 이번에는 오픈AI의 ‘GPT-6 아스트라(Astra)’가 AI 연구자 에드워드 에드워즈의 실험을 통해 인기 MMORPG를 게임 화면이나 사람의 직접적인 조작 없이 플레이하며 눈길을 끌었다.에드워즈에 따르면, GPT-6 아스트라는 2일(현지시간) \\'월드 오브 워크래프트(WoW)\\'를 게임 화면 한 번 보지 않고 플레이해 오크 시작 지역의 모든 퀘스트를 40분 만에 완료했다.한 번도 죽지 않은 것은 물론, 별도의 게임 공략이"
+        },
+        {
+          "title": "\"클로드가 일하고, 클로드가 감시한다\"... 앤트로픽, 새 플러그인 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215949",
+          "date": "2026-10-04",
+          "source": "AI타임스",
+          "description": "AI 에이전트가 복잡한 작업을 스스로 수행하는 시대가 되면서 에이전트를 보조하고 관리하는 또 다른 AI의 역할도 커지고 있다. 앤트로픽은 \\'클로드 코드\\'에 메인 에이전트의 작업을 지켜보며 사용자가 놓치기 쉬운 내용을 알려주는 보조 에이전트 기능을 추가했다.앤트로픽은 2일(현지시간) 클로드 코드에 ‘알아두어야 할 사항(You should know)’이라는 내장 플러그인을 추가했다.이 기능은 별도의 보조 에이전트를 실행해 클로드가 작업하는 과정을 살펴보고, 장시간 작업에서 사용자가 알아야 할 중요한 내용을 발견하면 프롬프트 위에 별도의",
+          "image": "https://cdn.aitimes.com/news/photo/202610/215949_219925_4230.jpg",
+          "is_english": false,
+          "original_title": "\"클로드가 일하고, 클로드가 감시한다\"... 앤트로픽, 새 플러그인 공개",
+          "original_summary": "AI 에이전트가 복잡한 작업을 스스로 수행하는 시대가 되면서 에이전트를 보조하고 관리하는 또 다른 AI의 역할도 커지고 있다. 앤트로픽은 \\'클로드 코드\\'에 메인 에이전트의 작업을 지켜보며 사용자가 놓치기 쉬운 내용을 알려주는 보조 에이전트 기능을 추가했다.앤트로픽은 2일(현지시간) 클로드 코드에 ‘알아두어야 할 사항(You should know)’이라는 내장 플러그인을 추가했다.이 기능은 별도의 보조 에이전트를 실행해 클로드가 작업하는 과정을 살펴보고, 장시간 작업에서 사용자가 알아야 할 중요한 내용을 발견하면 프롬프트 위에 별",
+          "summary": "AI 에이전트가 복잡한 작업을 스스로 수행하는 시대가 되면서 에이전트를 보조하고 관리하는 또 다른 AI의 역할도 커지고 있다. 앤트로픽은 \\'클로드 코드\\'에 메인 에이전트의 작업을 지켜보며 사용자가 놓치기 쉬운 내용을 알려주는 보조 에이전트 기능을 추가했다.앤트로픽은 2일(현지시간) 클로드 코드에 ‘알아두어야 할 사항(You should know)’이라는 내장 플러그인을 추가했다.이 기능은 별도의 보조 에이전트를 실행해 클로드가 작업하는 과정을 살펴보고, 장시간 작업에서 사용자가 알아야 할 중요한 내용을 발견하면 프롬프트 위에 별"
+        },
+        {
+          "title": "구글, 제미나이 요금제 개편..무료·저가 요금제서 '프로' 모델 뺀다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215946",
+          "date": "2026-10-04",
+          "source": "AI타임스",
+          "description": "구글이 \\'제미나이\\' 앱의 요금제별 모델 접근 권한과 사용량 제한을 조정한다. 무료 및 저가 요금제에서 상대적으로 연산 비용이 높은 모델을 이용할 수 있는 범위를 줄이는 대신, 상위 요금제에는 고급 추론 기능을 확대하는 방식이다.구글에 따르면, 9일부터 무료 사용자는 제미나이에서 \\'플래시-라이트\\'만 사용할 수 있게 된다.AI 플러스 요금제에서도 \\'프로\\' 모델 접근이 사라지고 플래시-라이트와 \\'플래시\\'만 제공된다. 프로 모델은 앞으로 AI 프로와 AI 울트라 가입자에게만 제공된다.또 구글이 최근 공개한 최상위 모델 \\'제미나이 4 아르곤",
+          "image": "https://cdn.aitimes.com/news/photo/202610/215946_219919_108.jpg",
+          "is_english": false,
+          "original_title": "구글, 제미나이 요금제 개편..무료·저가 요금제서 '프로' 모델 뺀다",
+          "original_summary": "구글이 \\'제미나이\\' 앱의 요금제별 모델 접근 권한과 사용량 제한을 조정한다. 무료 및 저가 요금제에서 상대적으로 연산 비용이 높은 모델을 이용할 수 있는 범위를 줄이는 대신, 상위 요금제에는 고급 추론 기능을 확대하는 방식이다.구글에 따르면, 9일부터 무료 사용자는 제미나이에서 \\'플래시-라이트\\'만 사용할 수 있게 된다.AI 플러스 요금제에서도 \\'프로\\' 모델 접근이 사라지고 플래시-라이트와 \\'플래시\\'만 제공된다. 프로 모델은 앞으로 AI 프로와 AI 울트라 가입자에게만 제공된다.또 구글이 최근 공개한 최상위 모델 \\'제",
+          "summary": "구글이 \\'제미나이\\' 앱의 요금제별 모델 접근 권한과 사용량 제한을 조정한다. 무료 및 저가 요금제에서 상대적으로 연산 비용이 높은 모델을 이용할 수 있는 범위를 줄이는 대신, 상위 요금제에는 고급 추론 기능을 확대하는 방식이다.구글에 따르면, 9일부터 무료 사용자는 제미나이에서 \\'플래시-라이트\\'만 사용할 수 있게 된다.AI 플러스 요금제에서도 \\'프로\\' 모델 접근이 사라지고 플래시-라이트와 \\'플래시\\'만 제공된다. 프로 모델은 앞으로 AI 프로와 AI 울트라 가입자에게만 제공된다.또 구글이 최근 공개한 최상위 모델 \\'제"
+        },
+        {
+          "title": "알레프 알파, 범용 LLM 포기 후 첫 모델 ‘콜리브리’ 공개...\"소버린 AI용\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215951",
+          "date": "2026-10-04",
+          "source": "AI타임스",
+          "description": "독일의 알레프 알파(Aleph Alpha)가 범용 대형언어모델(LLM) 개발 포기를 선언하고 방산·공공 사업으로 방향을 튼 지 약 1년 만에 첫 개방형 AI 모델 ‘콜리브리(Kolibri)’를 공개했다.알레프 알파는 3일(현지시간) 독일어와 영어를 지원하는 오픈웨이트 AI 모델 ‘콜리브리(Kolibri)’를 공개했다.이번 모델 출시는 글로벌 빅테크와의 첨단 성능 경쟁에 복귀한다는 의미가 아니다. 독일 정부와 군, 공공 기관, 국가 핵심 산업 부문이 요구하는 ‘데이터 주권(소버린 AI)’과 엄격한 EU 규제 준수 역량을 입증하기 위한",
+          "image": "https://cdn.aitimes.com/news/photo/202610/215951_219926_1759.png",
+          "is_english": false,
+          "original_title": "알레프 알파, 범용 LLM 포기 후 첫 모델 ‘콜리브리’ 공개...\"소버린 AI용\"",
+          "original_summary": "독일의 알레프 알파(Aleph Alpha)가 범용 대형언어모델(LLM) 개발 포기를 선언하고 방산·공공 사업으로 방향을 튼 지 약 1년 만에 첫 개방형 AI 모델 ‘콜리브리(Kolibri)’를 공개했다.알레프 알파는 3일(현지시간) 독일어와 영어를 지원하는 오픈웨이트 AI 모델 ‘콜리브리(Kolibri)’를 공개했다.이번 모델 출시는 글로벌 빅테크와의 첨단 성능 경쟁에 복귀한다는 의미가 아니다. 독일 정부와 군, 공공 기관, 국가 핵심 산업 부문이 요구하는 ‘데이터 주권(소버린 AI)’과 엄격한 EU 규제 준수 역량을 입증하기 위한",
+          "summary": "독일의 알레프 알파(Aleph Alpha)가 범용 대형언어모델(LLM) 개발 포기를 선언하고 방산·공공 사업으로 방향을 튼 지 약 1년 만에 첫 개방형 AI 모델 ‘콜리브리(Kolibri)’를 공개했다.알레프 알파는 3일(현지시간) 독일어와 영어를 지원하는 오픈웨이트 AI 모델 ‘콜리브리(Kolibri)’를 공개했다.이번 모델 출시는 글로벌 빅테크와의 첨단 성능 경쟁에 복귀한다는 의미가 아니다. 독일 정부와 군, 공공 기관, 국가 핵심 산업 부문이 요구하는 ‘데이터 주권(소버린 AI)’과 엄격한 EU 규제 준수 역량을 입증하기 위한"
+        },
+        {
+          "title": "머스크 \"TSMC와 테라팹 칩 생산 협력 논의\" 확인",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215952",
+          "date": "2026-10-04",
+          "source": "AI타임스",
+          "description": "일론 머스크 CEO가 반도체 생산 프로젝트 ‘테라팹(Terafab)’과 관련해 대만 TSMC와 협력을 논의하고 있다고 확인했다. 3일 반도체 업계 소식통 컬피움(Culpium)에 따르면, TSMC는 테라팹과 협력해 테슬라, 스페이스X 등 머스크 CEO가 이끄는 기업들에 반도체를 독점 공급하는 생산 시설을 건설하고 운영하는 방안을 검토하고 있다. 관련 보도 이후 머스크는 X를 통해 \\\"논의일 뿐이지만, 뭔가 나올 수도 있다\\\"고 밝혀 협의가 진행 중임을 인정했다. TSMC는 아직 공식 입장을 내놓지 않았다.테라팹의 목표는 TSMC나 삼성",
+          "image": "https://cdn.aitimes.com/news/photo/202610/215952_219928_08.png",
+          "is_english": false,
+          "original_title": "머스크 \"TSMC와 테라팹 칩 생산 협력 논의\" 확인",
+          "original_summary": "일론 머스크 CEO가 반도체 생산 프로젝트 ‘테라팹(Terafab)’과 관련해 대만 TSMC와 협력을 논의하고 있다고 확인했다. 3일 반도체 업계 소식통 컬피움(Culpium)에 따르면, TSMC는 테라팹과 협력해 테슬라, 스페이스X 등 머스크 CEO가 이끄는 기업들에 반도체를 독점 공급하는 생산 시설을 건설하고 운영하는 방안을 검토하고 있다. 관련 보도 이후 머스크는 X를 통해 \\\"논의일 뿐이지만, 뭔가 나올 수도 있다\\\"고 밝혀 협의가 진행 중임을 인정했다. TSMC는 아직 공식 입장을 내놓지 않았다.테라팹의 목표는 TSMC나 ",
+          "summary": "일론 머스크 CEO가 반도체 생산 프로젝트 ‘테라팹(Terafab)’과 관련해 대만 TSMC와 협력을 논의하고 있다고 확인했다. 3일 반도체 업계 소식통 컬피움(Culpium)에 따르면, TSMC는 테라팹과 협력해 테슬라, 스페이스X 등 머스크 CEO가 이끄는 기업들에 반도체를 독점 공급하는 생산 시설을 건설하고 운영하는 방안을 검토하고 있다. 관련 보도 이후 머스크는 X를 통해 \\\"논의일 뿐이지만, 뭔가 나올 수도 있다\\\"고 밝혀 협의가 진행 중임을 인정했다. TSMC는 아직 공식 입장을 내놓지 않았다.테라팹의 목표는 TSMC나 "
+        },
         {
           "title": "서울연구원, 6일 퀘벡·플랑드르와 'AI·도시로봇 협력 세미나'",
           "link": "https://www.yna.co.kr/view/AKR20261004011500004",
@@ -189,19 +273,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen-Image-2.1",
-          "link": "https://huggingface.co/Qwen/Qwen-Image-2.1",
-          "date": "2026-10-04",
-          "source": "HuggingFace",
-          "description": "• Qwen-Image-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/image2.1/logo.png",
-          "is_english": true,
-          "summary": "• Qwen-Image-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen-Image-2.1",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Cloudflare/clef-flash",
           "link": "https://huggingface.co/Cloudflare/clef-flash",
           "date": "2026-10-04",
@@ -228,6 +299,32 @@
           "category": "AI Model"
         },
         {
+          "title": "Qwen/Qwen-Image-2.1",
+          "link": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+          "date": "2026-10-04",
+          "source": "HuggingFace",
+          "description": "• Qwen-Image-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/image2.1/logo.png",
+          "is_english": true,
+          "summary": "• Qwen-Image-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen-Image-2.1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Aleph-Alpha/Kolibri-1",
+          "link": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+          "date": "2026-10-04",
+          "source": "HuggingFace",
+          "description": "• Kolibri-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Kolibri-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Aleph-Alpha/Kolibri-1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Contrastive-LM/CLM-v0.1-8B",
           "link": "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B",
           "date": "2026-10-04",
@@ -237,19 +334,6 @@
           "is_english": true,
           "summary": "• CLM-v0.1-8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Contrastive-LM/CLM-v0.1-8B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "SupersonicLabs/Julia-1",
-          "link": "https://huggingface.co/SupersonicLabs/Julia-1",
-          "date": "2026-10-04",
-          "source": "HuggingFace",
-          "description": "• Julia-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/SupersonicLabs/Julia-1/resolve/main/assets/supersonic-labs-dark.svg",
-          "is_english": true,
-          "summary": "• Julia-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "SupersonicLabs/Julia-1",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -267,15 +351,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Aleph-Alpha/Kolibri-1",
-          "link": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+          "title": "SupersonicLabs/Julia-1",
+          "link": "https://huggingface.co/SupersonicLabs/Julia-1",
           "date": "2026-10-04",
           "source": "HuggingFace",
-          "description": "• Kolibri-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "description": "• Julia-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/SupersonicLabs/Julia-1/resolve/main/assets/supersonic-labs-dark.svg",
           "is_english": true,
-          "summary": "• Kolibri-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Aleph-Alpha/Kolibri-1",
+          "summary": "• Julia-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "SupersonicLabs/Julia-1",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -345,6 +429,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Venastine-Research/Xing4.0-29B-A4B-GGUF",
+          "link": "https://huggingface.co/Venastine-Research/Xing4.0-29B-A4B-GGUF",
+          "date": "2026-10-04",
+          "source": "HuggingFace",
+          "description": "• Xing4.0-29B-A4B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Xing4.0-29B-A4B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Venastine-Research/Xing4.0-29B-A4B-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "TaichuAI/ZDTaichu5.0-9B",
           "link": "https://huggingface.co/TaichuAI/ZDTaichu5.0-9B",
           "date": "2026-10-04",
@@ -380,19 +477,6 @@
           "is_english": true,
           "summary": "• MiniMax-H3-Character-Swap-LoRA 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "akatz-ai/MiniMax-H3-Character-Swap-LoRA",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "Alissonerdx/BFS-Best-Face-Swap",
-          "link": "https://huggingface.co/Alissonerdx/BFS-Best-Face-Swap",
-          "date": "2026-10-04",
-          "source": "HuggingFace",
-          "description": "• BFS-Best-Face-Swap 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• BFS-Best-Face-Swap 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Alissonerdx/BFS-Best-Face-Swap",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
