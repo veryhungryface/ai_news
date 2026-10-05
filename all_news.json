@@ -2,8 +2,128 @@
   "dates": [
     {
       "date": "2026-10-05",
-      "update_time": "2026-10-05 02:57:40",
+      "update_time": "2026-10-05 09:53:10",
       "news": [
+        {
+          "title": "정보 있는데 AI가 못찾아?…데이터 바뀌어도 최신 정보 안놓친다",
+          "link": "https://www.yna.co.kr/view/AKR20261002072500063",
+          "date": "2026-10-05",
+          "source": "연합뉴스",
+          "description": "(대전=연합뉴스) 김준호 기자 = 한국과학기술원(KAIST)은 전산학부 김민수 교수 연구팀이 데이터가 지속 추가·삭제되는 환경에서도 높은 검색 ...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/02/AKR20261002072500063_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "정보 있는데 AI가 못찾아?…데이터 바뀌어도 최신 정보 안놓친다",
+          "original_summary": "(대전=연합뉴스) 김준호 기자 = 한국과학기술원(KAIST)은 전산학부 김민수 교수 연구팀이 데이터가 지속 추가·삭제되는 환경에서도 높은 검색 ...",
+          "summary": "(대전=연합뉴스) 김준호 기자 = 한국과학기술원(KAIST)은 전산학부 김민수 교수 연구팀이 데이터가 지속 추가·삭제되는 환경에서도 높은 검색 ..."
+        },
+        {
+          "title": "GPT-6 아스트라, 217년 된 나폴레옹 암호 6시간 만에 해독",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215961",
+          "date": "2026-10-05",
+          "source": "AI타임스",
+          "description": "오픈AI의 \\'GPT-6 아스트라\\'가 217년 동안 풀리지 않았던 나폴레옹 시대의 군사 암호를 한 장의 이미지와 한 번의 프롬프트만으로 단 6시간 만에 해독했다. 사이버보안 기업 센티넬원의 엔지니어 카터 처치는 최근 아스트라를 이용해 크립티아나(Cryptiana)의 ‘미해결 역사 암호’ 목록에 수십 년간 남아 있던 암호문을 풀었다고 밝혔다.이 암호문은 1809년 나폴레옹 전쟁 당시 프랑스군이 사용한 것으로, 나폴레옹의 의붓아들이자 이탈리아 부왕이었던 외젠 드 보아르네의 본부에서 프랑스 장군 오귀스트 드 마르몽에게 전달된 군사 지시였다",
+          "image": "https://cdn.aitimes.com/news/photo/202610/215961_219941_2530.png",
+          "is_english": false,
+          "original_title": "GPT-6 아스트라, 217년 된 나폴레옹 암호 6시간 만에 해독",
+          "original_summary": "오픈AI의 \\'GPT-6 아스트라\\'가 217년 동안 풀리지 않았던 나폴레옹 시대의 군사 암호를 한 장의 이미지와 한 번의 프롬프트만으로 단 6시간 만에 해독했다. 사이버보안 기업 센티넬원의 엔지니어 카터 처치는 최근 아스트라를 이용해 크립티아나(Cryptiana)의 ‘미해결 역사 암호’ 목록에 수십 년간 남아 있던 암호문을 풀었다고 밝혔다.이 암호문은 1809년 나폴레옹 전쟁 당시 프랑스군이 사용한 것으로, 나폴레옹의 의붓아들이자 이탈리아 부왕이었던 외젠 드 보아르네의 본부에서 프랑스 장군 오귀스트 드 마르몽에게 전달된 군사 지시",
+          "summary": "오픈AI의 \\'GPT-6 아스트라\\'가 217년 동안 풀리지 않았던 나폴레옹 시대의 군사 암호를 한 장의 이미지와 한 번의 프롬프트만으로 단 6시간 만에 해독했다. 사이버보안 기업 센티넬원의 엔지니어 카터 처치는 최근 아스트라를 이용해 크립티아나(Cryptiana)의 ‘미해결 역사 암호’ 목록에 수십 년간 남아 있던 암호문을 풀었다고 밝혔다.이 암호문은 1809년 나폴레옹 전쟁 당시 프랑스군이 사용한 것으로, 나폴레옹의 의붓아들이자 이탈리아 부왕이었던 외젠 드 보아르네의 본부에서 프랑스 장군 오귀스트 드 마르몽에게 전달된 군사 지시"
+        },
+        {
+          "title": "MIT·사카나, 자가 진화 AI 에이전트 'SIFT' 발표...'검증 비용 병목' 해결",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215967",
+          "date": "2026-10-05",
+          "source": "AI타임스",
+          "description": "AI 에이전트가 스스로 문제 해결 방식을 개선하는 ‘재귀적 자기개선(RSI)’ 연구가 활발하지만, 수많은 변종 후보를 일일이 검증하는 데 막대한 비용과 시간이 들어 실용화의 걸림돌이 돼 왔다. 이러한 ‘검증 비용 병목(Evaluation Bottleneck)’을 대폭 줄여 에이전트 자가 진화의 실현 가능성을 끌어올린 새로운 기술이 등장했다.MIT와 사카나 AI 연구진은 최근 코딩 에이전트가 스스로 자신의 지침과 도구, 코드를 수정하면서 더 나은 버전을 찾아갈 수 있도록 하는 새로운 프레임워크 ‘SIFT(Recursive Self-I",
+          "image": "https://cdn.aitimes.com/news/photo/202610/215967_219950_2126.png",
+          "is_english": true,
+          "original_title": "MIT·사카나, 자가 진화 AI 에이전트 'SIFT' 발표...'검증 비용 병목' 해결",
+          "original_summary": "AI 에이전트가 스스로 문제 해결 방식을 개선하는 ‘재귀적 자기개선(RSI)’ 연구가 활발하지만, 수많은 변종 후보를 일일이 검증하는 데 막대한 비용과 시간이 들어 실용화의 걸림돌이 돼 왔다. 이러한 ‘검증 비용 병목(Evaluation Bottleneck)’을 대폭 줄여 에이전트 자가 진화의 실현 가능성을 끌어올린 새로운 기술이 등장했다.MIT와 사카나 AI 연구진은 최근 코딩 에이전트가 스스로 자신의 지침과 도구, 코드를 수정하면서 더 나은 버전을 찾아갈 수 있도록 하는 새로운 프레임워크 ‘SIFT(Recursive Self-I",
+          "summary": "AI 에이전트가 스스로 문제 해결 방식을 개선하는 ‘재귀적 자기개선(RSI)’ 연구가 활발하지만, 수많은 변종 후보를 일일이 검증하는 데 막대한 비용과 시간이 들어 실용화의 걸림돌이 돼 왔다. 이러한 ‘검증 비용 병목(Evaluation Bottleneck)’을 대폭 줄여 에이전트 자가 진화의 실현 가능성을 끌어올린 새로운 기술이 등장했다.MIT와 사카나 AI 연구진은 최근 코딩 에이전트가 스스로 자신의 지침과 도구, 코드를 수정하면서 더 나은 버전을 찾아갈 수 있도록 하는 새로운 프레임워크 ‘SIFT(Recursive Self-I"
+        },
+        {
+          "title": "아마존, 11조 규모 AI 칩 투자자에 매각 후 리스…재무 부담 낮춘다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215966",
+          "date": "2026-10-05",
+          "source": "AI타임스",
+          "description": "아마존이 80억달러(약 11조원) 규모의 엔비디아 최신 AI 칩을 외부 투자자에게 넘기고 다시 임대하는 방식으로 자금을 조달하는 방안을 추진하고 있다. 대규모 AI 데이터센터 투자에 필요한 자산을 별도 법인으로 이전해 재무 부담을 낮추려는 움직임이다.2일(현지시간) 파이낸셜타임스에 따르면, 아마존은 최근 몇 주 동안 자산운용사 및 기관 투자자들과 접촉해 해당 구조의 거래 가능성을 타진하고 있다.계획대로 진행되면 미국 내 주요 데이터센터에 배치하고 있는 수천개의 엔비디아 \\'그레이스 블랙웰\\' 칩을 특수목적법인(SPV)에 이전하게 된다.",
+          "image": "https://cdn.aitimes.com/news/photo/202610/215966_219946_3254.jpg",
+          "is_english": false,
+          "original_title": "아마존, 11조 규모 AI 칩 투자자에 매각 후 리스…재무 부담 낮춘다",
+          "original_summary": "아마존이 80억달러(약 11조원) 규모의 엔비디아 최신 AI 칩을 외부 투자자에게 넘기고 다시 임대하는 방식으로 자금을 조달하는 방안을 추진하고 있다. 대규모 AI 데이터센터 투자에 필요한 자산을 별도 법인으로 이전해 재무 부담을 낮추려는 움직임이다.2일(현지시간) 파이낸셜타임스에 따르면, 아마존은 최근 몇 주 동안 자산운용사 및 기관 투자자들과 접촉해 해당 구조의 거래 가능성을 타진하고 있다.계획대로 진행되면 미국 내 주요 데이터센터에 배치하고 있는 수천개의 엔비디아 \\'그레이스 블랙웰\\' 칩을 특수목적법인(SPV)에 이전하게 된",
+          "summary": "아마존이 80억달러(약 11조원) 규모의 엔비디아 최신 AI 칩을 외부 투자자에게 넘기고 다시 임대하는 방식으로 자금을 조달하는 방안을 추진하고 있다. 대규모 AI 데이터센터 투자에 필요한 자산을 별도 법인으로 이전해 재무 부담을 낮추려는 움직임이다.2일(현지시간) 파이낸셜타임스에 따르면, 아마존은 최근 몇 주 동안 자산운용사 및 기관 투자자들과 접촉해 해당 구조의 거래 가능성을 타진하고 있다.계획대로 진행되면 미국 내 주요 데이터센터에 배치하고 있는 수천개의 엔비디아 \\'그레이스 블랙웰\\' 칩을 특수목적법인(SPV)에 이전하게 된"
+        },
+        {
+          "title": "AI가 쏟아낸 '엉터리 제보'에... 구글, 오픈소스 버그 바운티 일시 중단",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215972",
+          "date": "2026-10-05",
+          "source": "AI타임스",
+          "description": "구글이 AI가 자동으로 작성한 부정확한 버그 제보가 급증하자 오픈소스 소프트웨어 취약점 보상 프로그램의 일부를 일시 중단했다. 실제 보안 취약점을 찾는 데 투입될 인력이 무더기로 들어오는 엉터리 제보를 검증하는 데 소모되면서 프로그램 운영에 부담이 커졌기 때문이다.구글은 1일(현지시간)부터 ‘오픈소스 소프트웨어 취약점 보상 프로그램(OSS VRP)’에서 제품 취약점 제보 접수를 일시 중단한다고 발표했다. 구글 보안 팀은 공식 블로그를 통해 “자동화된 제보가 크게 늘었으며, 그중 대부분이 유효하지 않다”고 이유를 밝혔다.OSS VRP",
+          "image": "https://cdn.aitimes.com/news/photo/202610/215972_219955_1529.png",
+          "is_english": false,
+          "original_title": "AI가 쏟아낸 '엉터리 제보'에... 구글, 오픈소스 버그 바운티 일시 중단",
+          "original_summary": "구글이 AI가 자동으로 작성한 부정확한 버그 제보가 급증하자 오픈소스 소프트웨어 취약점 보상 프로그램의 일부를 일시 중단했다. 실제 보안 취약점을 찾는 데 투입될 인력이 무더기로 들어오는 엉터리 제보를 검증하는 데 소모되면서 프로그램 운영에 부담이 커졌기 때문이다.구글은 1일(현지시간)부터 ‘오픈소스 소프트웨어 취약점 보상 프로그램(OSS VRP)’에서 제품 취약점 제보 접수를 일시 중단한다고 발표했다. 구글 보안 팀은 공식 블로그를 통해 “자동화된 제보가 크게 늘었으며, 그중 대부분이 유효하지 않다”고 이유를 밝혔다.OSS VRP",
+          "summary": "구글이 AI가 자동으로 작성한 부정확한 버그 제보가 급증하자 오픈소스 소프트웨어 취약점 보상 프로그램의 일부를 일시 중단했다. 실제 보안 취약점을 찾는 데 투입될 인력이 무더기로 들어오는 엉터리 제보를 검증하는 데 소모되면서 프로그램 운영에 부담이 커졌기 때문이다.구글은 1일(현지시간)부터 ‘오픈소스 소프트웨어 취약점 보상 프로그램(OSS VRP)’에서 제품 취약점 제보 접수를 일시 중단한다고 발표했다. 구글 보안 팀은 공식 블로그를 통해 “자동화된 제보가 크게 늘었으며, 그중 대부분이 유효하지 않다”고 이유를 밝혔다.OSS VRP"
+        },
+        {
+          "title": "챗GPT서 옷 입어보고 쇼핑한다... 오픈AI, '가상 착용' 도입",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215969",
+          "date": "2026-10-05",
+          "source": "AI타임스",
+          "description": "\\'챗GPT\\'에 온라인 쇼핑 과정에서 상품을 찾는 것을 넘어 실제로 입어본 모습을 확인하고 마음에 드는 상품을 저장할 수 있는 기능이 추가됐다. 오픈AI는 1일(현지시간) 챗GPT에 의류와 액세서리를 가상으로 착용해 볼 수 있는 ‘가상 착용(Try On)’ 기능과 관심 상품을 저장할 수 있는 ‘즐겨찾기(Favorites)’ 기능을 전 세계에 출시했다고 밝혔다. 웹은 물론 챗GPT 모바일 앱에서도 제공된다.가상 착용 기능은 챗GPT 쇼핑 결과에 표시되는 트라이 온 버튼을 누른 뒤 셀카나 전신 사진을 올리면 해당 의류나 액세서리를 착용한",
+          "image": "https://cdn.aitimes.com/news/photo/202610/215969_219952_3651.png",
+          "is_english": false,
+          "original_title": "챗GPT서 옷 입어보고 쇼핑한다... 오픈AI, '가상 착용' 도입",
+          "original_summary": "\\'챗GPT\\'에 온라인 쇼핑 과정에서 상품을 찾는 것을 넘어 실제로 입어본 모습을 확인하고 마음에 드는 상품을 저장할 수 있는 기능이 추가됐다. 오픈AI는 1일(현지시간) 챗GPT에 의류와 액세서리를 가상으로 착용해 볼 수 있는 ‘가상 착용(Try On)’ 기능과 관심 상품을 저장할 수 있는 ‘즐겨찾기(Favorites)’ 기능을 전 세계에 출시했다고 밝혔다. 웹은 물론 챗GPT 모바일 앱에서도 제공된다.가상 착용 기능은 챗GPT 쇼핑 결과에 표시되는 트라이 온 버튼을 누른 뒤 셀카나 전신 사진을 올리면 해당 의류나 액세서리를 착",
+          "summary": "\\'챗GPT\\'에 온라인 쇼핑 과정에서 상품을 찾는 것을 넘어 실제로 입어본 모습을 확인하고 마음에 드는 상품을 저장할 수 있는 기능이 추가됐다. 오픈AI는 1일(현지시간) 챗GPT에 의류와 액세서리를 가상으로 착용해 볼 수 있는 ‘가상 착용(Try On)’ 기능과 관심 상품을 저장할 수 있는 ‘즐겨찾기(Favorites)’ 기능을 전 세계에 출시했다고 밝혔다. 웹은 물론 챗GPT 모바일 앱에서도 제공된다.가상 착용 기능은 챗GPT 쇼핑 결과에 표시되는 트라이 온 버튼을 누른 뒤 셀카나 전신 사진을 올리면 해당 의류나 액세서리를 착"
+        },
+        {
+          "title": "브로드컴, 앤트로픽에 80조 대출 보증…칩 판매 위해 금융 지원",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215971",
+          "date": "2026-10-05",
+          "source": "AI타임스",
+          "description": "반도체 기업 브로드컴이 앤트로픽의 대규모 컴퓨팅 인프라 구축을 지원하기 위해 최대 600억달러(약 80조원) 규모의 자금 조달에 나선다. AI 칩과 서버에 대한 금융 지원을 통해 칩 판매를 늘리는 동시에 고객사의 컴퓨팅 수요를 뒷받침하는 구조다.2일(현지시간) 블룸버그에 따르면, 뱅크오브아메리카, 씨티그룹, 모건스탠리 등으로 구성된 브로드컴 주간 은행단은 420억달러(약 56조원) 규모의 선순위 담보 대출 상품을 구성해 시장의 여러 투자자에게 배분하는 작업에 착수했다.브로드컴은 이 자금에 대해 잔존가치 지원(Residual Valu",
+          "image": "https://cdn.aitimes.com/news/photo/202610/215971_219954_028.jpg",
+          "is_english": false,
+          "original_title": "브로드컴, 앤트로픽에 80조 대출 보증…칩 판매 위해 금융 지원",
+          "original_summary": "반도체 기업 브로드컴이 앤트로픽의 대규모 컴퓨팅 인프라 구축을 지원하기 위해 최대 600억달러(약 80조원) 규모의 자금 조달에 나선다. AI 칩과 서버에 대한 금융 지원을 통해 칩 판매를 늘리는 동시에 고객사의 컴퓨팅 수요를 뒷받침하는 구조다.2일(현지시간) 블룸버그에 따르면, 뱅크오브아메리카, 씨티그룹, 모건스탠리 등으로 구성된 브로드컴 주간 은행단은 420억달러(약 56조원) 규모의 선순위 담보 대출 상품을 구성해 시장의 여러 투자자에게 배분하는 작업에 착수했다.브로드컴은 이 자금에 대해 잔존가치 지원(Residual Valu",
+          "summary": "반도체 기업 브로드컴이 앤트로픽의 대규모 컴퓨팅 인프라 구축을 지원하기 위해 최대 600억달러(약 80조원) 규모의 자금 조달에 나선다. AI 칩과 서버에 대한 금융 지원을 통해 칩 판매를 늘리는 동시에 고객사의 컴퓨팅 수요를 뒷받침하는 구조다.2일(현지시간) 블룸버그에 따르면, 뱅크오브아메리카, 씨티그룹, 모건스탠리 등으로 구성된 브로드컴 주간 은행단은 420억달러(약 56조원) 규모의 선순위 담보 대출 상품을 구성해 시장의 여러 투자자에게 배분하는 작업에 착수했다.브로드컴은 이 자금에 대해 잔존가치 지원(Residual Valu"
+        },
+        {
+          "title": "\"전직 미국 관료 사칭\"…중국 해커, AI 정책 전문가 계정 노렸다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215963",
+          "date": "2026-10-05",
+          "source": "AI타임스",
+          "description": "중국과 연계된 해커들이 전직 미국 정부 관료와 AI 전문가를 사칭해 미국의 AI 정책 전문가들을 노린 피싱 공격을 벌이고 있는 것으로 나타났다. 사이버보안 기업 프루프포인트(Proofpoint)는 1일(현지시간) 중국 해커들이 미국의 싱크탱크와 대학, 로펌 등에 소속된 AI 정책 전문가의 계정 정보를 훔치려 했다고 밝혔다.TA419(일명 \\'머스탱 판다\\')라는 이 그룹은 2025년 4월부터 미국과 일본의 싱크탱크, 방산업체, 대학, 로펌 관계자를 대상으로 자격 증명 탈취 공격을 반복해 왔다. 공격 대상에는 AI 규제와 수출 통제, 국",
+          "image": "https://cdn.aitimes.com/news/photo/202610/215963_219944_050.png",
+          "is_english": false,
+          "original_title": "\"전직 미국 관료 사칭\"…중국 해커, AI 정책 전문가 계정 노렸다",
+          "original_summary": "중국과 연계된 해커들이 전직 미국 정부 관료와 AI 전문가를 사칭해 미국의 AI 정책 전문가들을 노린 피싱 공격을 벌이고 있는 것으로 나타났다. 사이버보안 기업 프루프포인트(Proofpoint)는 1일(현지시간) 중국 해커들이 미국의 싱크탱크와 대학, 로펌 등에 소속된 AI 정책 전문가의 계정 정보를 훔치려 했다고 밝혔다.TA419(일명 \\'머스탱 판다\\')라는 이 그룹은 2025년 4월부터 미국과 일본의 싱크탱크, 방산업체, 대학, 로펌 관계자를 대상으로 자격 증명 탈취 공격을 반복해 왔다. 공격 대상에는 AI 규제와 수출 통제,",
+          "summary": "중국과 연계된 해커들이 전직 미국 정부 관료와 AI 전문가를 사칭해 미국의 AI 정책 전문가들을 노린 피싱 공격을 벌이고 있는 것으로 나타났다. 사이버보안 기업 프루프포인트(Proofpoint)는 1일(현지시간) 중국 해커들이 미국의 싱크탱크와 대학, 로펌 등에 소속된 AI 정책 전문가의 계정 정보를 훔치려 했다고 밝혔다.TA419(일명 \\'머스탱 판다\\')라는 이 그룹은 2025년 4월부터 미국과 일본의 싱크탱크, 방산업체, 대학, 로펌 관계자를 대상으로 자격 증명 탈취 공격을 반복해 왔다. 공격 대상에는 AI 규제와 수출 통제,"
+        },
+        {
+          "title": "네덜란드 대형 안경 체인, 몰래 촬영 우려로 메타 스마트 안경 판매 중단",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215962",
+          "date": "2026-10-05",
+          "source": "AI타임스",
+          "description": "네덜란드 대형 안경 체인 한스 안데르스(Hans Anders)가 개인정보 보호 논란이 커지자, 메타의 레이밴 스마트 안경 판매를 네덜란드와 벨기에에서 중단했다. 한스 안데르스의 모회사 넥사이(Nexeye)는 2일(현지시간) “스마트 안경을 둘러싼 지속적인 대중적·정치적 논의와 이 기술을 어떤 조건에서 사용할 수 있는지를 둘러싼 의문이 제기되고 있다”며 “논의와 후속 결정이 나올 때까지 제품을 다시 판매할지, 판매한다면 어떤 방식으로 할지 판단을 보류한다”고 밝혔다.논란은 공공장소에서 메타 안경을 이용해 다른 사람을 몰래 촬영할 수",
+          "image": "https://cdn.aitimes.com/news/photo/202610/215962_219942_4331.png",
+          "is_english": false,
+          "original_title": "네덜란드 대형 안경 체인, 몰래 촬영 우려로 메타 스마트 안경 판매 중단",
+          "original_summary": "네덜란드 대형 안경 체인 한스 안데르스(Hans Anders)가 개인정보 보호 논란이 커지자, 메타의 레이밴 스마트 안경 판매를 네덜란드와 벨기에에서 중단했다. 한스 안데르스의 모회사 넥사이(Nexeye)는 2일(현지시간) “스마트 안경을 둘러싼 지속적인 대중적·정치적 논의와 이 기술을 어떤 조건에서 사용할 수 있는지를 둘러싼 의문이 제기되고 있다”며 “논의와 후속 결정이 나올 때까지 제품을 다시 판매할지, 판매한다면 어떤 방식으로 할지 판단을 보류한다”고 밝혔다.논란은 공공장소에서 메타 안경을 이용해 다른 사람을 몰래 촬영할 수",
+          "summary": "네덜란드 대형 안경 체인 한스 안데르스(Hans Anders)가 개인정보 보호 논란이 커지자, 메타의 레이밴 스마트 안경 판매를 네덜란드와 벨기에에서 중단했다. 한스 안데르스의 모회사 넥사이(Nexeye)는 2일(현지시간) “스마트 안경을 둘러싼 지속적인 대중적·정치적 논의와 이 기술을 어떤 조건에서 사용할 수 있는지를 둘러싼 의문이 제기되고 있다”며 “논의와 후속 결정이 나올 때까지 제품을 다시 판매할지, 판매한다면 어떤 방식으로 할지 판단을 보류한다”고 밝혔다.논란은 공공장소에서 메타 안경을 이용해 다른 사람을 몰래 촬영할 수"
+        },
+        {
+          "title": "\"지기 싫어서 남의 코드 복사\"…아스트라, 스타크래프트 벤치마크서 꼼수",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215970",
+          "date": "2026-10-05",
+          "source": "AI타임스",
+          "description": "오픈AI의 \\'GPT-6 아스트라\\'가 스타크래프트 대회 경기 도중 부정행위를 저지른 정황이 포착돼 기술 업계와 커뮤니티의 관심이 집중되고 있다.개발자 카이 맥피터스가 운영하는 스타크래프트: 브루드 워 봇 경기장 \\'스타스커미시(StarSkirmish)\\'에서는 인간 개발자가 제작한 봇과 AI 모델이 직접 개발한 봇 간의 대결이 펼쳐졌다. 이번 대회에는 오픈AI의 GPT-6 아스트라와 앤트로픽의 \\'클로드 오퍼스 5.5\\'가 주요 AI 참가자로 맞붙었다.경기 규칙에 따라 각 모델은 프로토스 종족만을 선택해 1시간 동안 C++ 코드로 봇을 직접",
+          "image": "https://cdn.aitimes.com/news/photo/202610/215970_219951_3239.png",
+          "is_english": false,
+          "original_title": "\"지기 싫어서 남의 코드 복사\"…아스트라, 스타크래프트 벤치마크서 꼼수",
+          "original_summary": "오픈AI의 \\'GPT-6 아스트라\\'가 스타크래프트 대회 경기 도중 부정행위를 저지른 정황이 포착돼 기술 업계와 커뮤니티의 관심이 집중되고 있다.개발자 카이 맥피터스가 운영하는 스타크래프트: 브루드 워 봇 경기장 \\'스타스커미시(StarSkirmish)\\'에서는 인간 개발자가 제작한 봇과 AI 모델이 직접 개발한 봇 간의 대결이 펼쳐졌다. 이번 대회에는 오픈AI의 GPT-6 아스트라와 앤트로픽의 \\'클로드 오퍼스 5.5\\'가 주요 AI 참가자로 맞붙었다.경기 규칙에 따라 각 모델은 프로토스 종족만을 선택해 1시간 동안 C++ 코드로",
+          "summary": "오픈AI의 \\'GPT-6 아스트라\\'가 스타크래프트 대회 경기 도중 부정행위를 저지른 정황이 포착돼 기술 업계와 커뮤니티의 관심이 집중되고 있다.개발자 카이 맥피터스가 운영하는 스타크래프트: 브루드 워 봇 경기장 \\'스타스커미시(StarSkirmish)\\'에서는 인간 개발자가 제작한 봇과 AI 모델이 직접 개발한 봇 간의 대결이 펼쳐졌다. 이번 대회에는 오픈AI의 GPT-6 아스트라와 앤트로픽의 \\'클로드 오퍼스 5.5\\'가 주요 AI 참가자로 맞붙었다.경기 규칙에 따라 각 모델은 프로토스 종족만을 선택해 1시간 동안 C++ 코드로"
+        },
         {
           "title": "AI·반도체 열풍에…4대 과기원 수시지원자 3만명 '역대 최대'",
           "link": "https://www.yna.co.kr/view/AKR20261005025700530",
@@ -212,6 +332,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Aleph-Alpha/Kolibri-1",
+          "link": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+          "date": "2026-10-05",
+          "source": "HuggingFace",
+          "description": "• Kolibri-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Kolibri-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Aleph-Alpha/Kolibri-1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Lightricks/LTX-2.5",
           "link": "https://huggingface.co/Lightricks/LTX-2.5",
           "date": "2026-10-05",
@@ -238,19 +371,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Aleph-Alpha/Kolibri-1",
-          "link": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
-          "date": "2026-10-05",
-          "source": "HuggingFace",
-          "description": "• Kolibri-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Kolibri-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Aleph-Alpha/Kolibri-1",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
           "date": "2026-10-05",
@@ -260,32 +380,6 @@
           "is_english": true,
           "summary": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.8-27B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "Qwen/Qwen-Image-2.1",
-          "link": "https://huggingface.co/Qwen/Qwen-Image-2.1",
-          "date": "2026-10-05",
-          "source": "HuggingFace",
-          "description": "• Qwen-Image-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/image2.1/logo.png",
-          "is_english": true,
-          "summary": "• Qwen-Image-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen-Image-2.1",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "PSRben/VisionHOPE",
-          "link": "https://huggingface.co/PSRben/VisionHOPE",
-          "date": "2026-10-05",
-          "source": "HuggingFace",
-          "description": "• VisionHOPE 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• VisionHOPE 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "PSRben/VisionHOPE",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -303,15 +397,28 @@
           "category": "AI Model"
         },
         {
-          "title": "Contrastive-LM/CLM-v0.1-8B",
-          "link": "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B",
+          "title": "PSRben/VisionHOPE",
+          "link": "https://huggingface.co/PSRben/VisionHOPE",
           "date": "2026-10-05",
           "source": "HuggingFace",
-          "description": "• CLM-v0.1-8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/Contrastive-LM/CLM/main/assets/logo.png",
+          "description": "• VisionHOPE 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
           "is_english": true,
-          "summary": "• CLM-v0.1-8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Contrastive-LM/CLM-v0.1-8B",
+          "summary": "• VisionHOPE 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "PSRben/VisionHOPE",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen-Image-2.1",
+          "link": "https://huggingface.co/Qwen/Qwen-Image-2.1",
+          "date": "2026-10-05",
+          "source": "HuggingFace",
+          "description": "• Qwen-Image-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/image2.1/logo.png",
+          "is_english": true,
+          "summary": "• Qwen-Image-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen-Image-2.1",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -329,15 +436,28 @@
           "category": "AI Model"
         },
         {
-          "title": "Viggle/Qwen-Image-2.1-viggle-turbo",
-          "link": "https://huggingface.co/Viggle/Qwen-Image-2.1-viggle-turbo",
+          "title": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
+          "link": "https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
           "date": "2026-10-05",
           "source": "HuggingFace",
-          "description": "• Qwen-Image-2.1-viggle-turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• Qwen3.8-Flash-Next-GSQ-RCO-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/arXiv-GSQ_2604.18556-b31b1b?logo=arxiv&logoColor=white",
           "is_english": true,
-          "summary": "• Qwen-Image-2.1-viggle-turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Viggle/Qwen-Image-2.1-viggle-turbo",
+          "summary": "• Qwen3.8-Flash-Next-GSQ-RCO-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Contrastive-LM/CLM-v0.1-8B",
+          "link": "https://huggingface.co/Contrastive-LM/CLM-v0.1-8B",
+          "date": "2026-10-05",
+          "source": "HuggingFace",
+          "description": "• CLM-v0.1-8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://raw.githubusercontent.com/Contrastive-LM/CLM/main/assets/logo.png",
+          "is_english": true,
+          "summary": "• CLM-v0.1-8B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Contrastive-LM/CLM-v0.1-8B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -355,19 +475,6 @@
           "category": "AI Model"
         },
         {
-          "title": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
-          "link": "https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
-          "date": "2026-10-05",
-          "source": "HuggingFace",
-          "description": "• Qwen3.8-Flash-Next-GSQ-RCO-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/arXiv-GSQ_2604.18556-b31b1b?logo=arxiv&logoColor=white",
-          "is_english": true,
-          "summary": "• Qwen3.8-Flash-Next-GSQ-RCO-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "TaichuAI/ZDTaichu5.0-9B",
           "link": "https://huggingface.co/TaichuAI/ZDTaichu5.0-9B",
           "date": "2026-10-05",
@@ -381,15 +488,15 @@
           "category": "AI Model"
         },
         {
-          "title": "SupersonicLabs/Julia-1",
-          "link": "https://huggingface.co/SupersonicLabs/Julia-1",
+          "title": "Viggle/Qwen-Image-2.1-viggle-turbo",
+          "link": "https://huggingface.co/Viggle/Qwen-Image-2.1-viggle-turbo",
           "date": "2026-10-05",
           "source": "HuggingFace",
-          "description": "• Julia-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/SupersonicLabs/Julia-1/resolve/main/assets/supersonic-labs-dark.svg",
+          "description": "• Qwen-Image-2.1-viggle-turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• Julia-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "SupersonicLabs/Julia-1",
+          "summary": "• Qwen-Image-2.1-viggle-turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Viggle/Qwen-Image-2.1-viggle-turbo",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -407,6 +514,32 @@
           "category": "AI Model"
         },
         {
+          "title": "SupersonicLabs/Julia-1",
+          "link": "https://huggingface.co/SupersonicLabs/Julia-1",
+          "date": "2026-10-05",
+          "source": "HuggingFace",
+          "description": "• Julia-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/SupersonicLabs/Julia-1/resolve/main/assets/supersonic-labs-dark.svg",
+          "is_english": true,
+          "summary": "• Julia-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "SupersonicLabs/Julia-1",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Infatoshi/GLM-5.3-UNCENSORED-EXL3-3.0bpw",
+          "link": "https://huggingface.co/Infatoshi/GLM-5.3-UNCENSORED-EXL3-3.0bpw",
+          "date": "2026-10-05",
+          "source": "HuggingFace",
+          "description": "• GLM-5.3-UNCENSORED-EXL3-3.0bpw 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• GLM-5.3-UNCENSORED-EXL3-3.0bpw 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Infatoshi/GLM-5.3-UNCENSORED-EXL3-3.0bpw",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "deepseek-ai/DeepSeek-V4.1-Flash",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash",
           "date": "2026-10-05",
@@ -416,19 +549,6 @@
           "is_english": true,
           "summary": "• DeepSeek-V4.1-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "deepseek-ai/DeepSeek-V4.1-Flash",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-          "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
-          "date": "2026-10-05",
-          "source": "HuggingFace",
-          "description": "• Ternary-Bonsai-2-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
-          "is_english": true,
-          "summary": "• Ternary-Bonsai-2-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
