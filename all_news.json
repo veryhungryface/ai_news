@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-10-07",
-      "update_time": "2026-10-06 17:35:10",
+      "update_time": "2026-10-06 22:00:26",
       "news": [
         {
           "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
@@ -69,19 +69,6 @@
           "category": "AI Model"
         },
         {
-          "title": "convaiinnovations/laya",
-          "link": "https://huggingface.co/convaiinnovations/laya",
-          "date": "2026-10-07",
-          "source": "HuggingFace",
-          "description": "• laya 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/convaiinnovations/laya/resolve/main/assets/logo-lockup.png",
-          "is_english": true,
-          "summary": "• laya 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "convaiinnovations/laya",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Cloudflare/clef-flash",
           "link": "https://huggingface.co/Cloudflare/clef-flash",
           "date": "2026-10-07",
@@ -91,6 +78,19 @@
           "is_english": true,
           "summary": "• clef-flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Cloudflare/clef-flash",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "convaiinnovations/laya",
+          "link": "https://huggingface.co/convaiinnovations/laya",
+          "date": "2026-10-07",
+          "source": "HuggingFace",
+          "description": "• laya 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/convaiinnovations/laya/resolve/main/assets/logo-lockup.png",
+          "is_english": true,
+          "summary": "• laya 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "convaiinnovations/laya",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -143,6 +143,19 @@
           "is_english": true,
           "summary": "• humanizer 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "jialinyyzz/humanizer",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "google/embeddinggemma-2",
+          "link": "https://huggingface.co/google/embeddinggemma-2",
+          "date": "2026-10-07",
+          "source": "HuggingFace",
+          "description": "• embeddinggemma-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "is_english": true,
+          "summary": "• embeddinggemma-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/embeddinggemma-2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -212,19 +225,6 @@
           "category": "AI Model"
         },
         {
-          "title": "orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
-          "link": "https://huggingface.co/orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
-          "date": "2026-10-07",
-          "source": "HuggingFace",
-          "description": "• OrcaSAQ-2-Cyber-27B-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• OrcaSAQ-2-Cyber-27B-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "TaichuAI/ZDTaichu5.0-9B",
           "link": "https://huggingface.co/TaichuAI/ZDTaichu5.0-9B",
           "date": "2026-10-07",
@@ -234,6 +234,19 @@
           "is_english": true,
           "summary": "• ZDTaichu5.0-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "TaichuAI/ZDTaichu5.0-9B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
+          "link": "https://huggingface.co/orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
+          "date": "2026-10-07",
+          "source": "HuggingFace",
+          "description": "• OrcaSAQ-2-Cyber-27B-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• OrcaSAQ-2-Cyber-27B-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "orcarouter/OrcaSAQ-2-Cyber-27B-Uncensored-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -262,26 +275,85 @@
           "translated_title": "deepseek-ai/DeepSeek-V4.1-Flash",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-          "link": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
-          "date": "2026-10-07",
-          "source": "HuggingFace",
-          "description": "• Ternary-Bonsai-2-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf/resolve/main/./assets/bonsai-logo.svg",
-          "is_english": true,
-          "summary": "• Ternary-Bonsai-2-27B-gguf 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "prism-ml/Ternary-Bonsai-2-27B-gguf",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-10-06",
-      "update_time": "2026-10-06 17:35:10",
+      "update_time": "2026-10-06 22:00:25",
       "news": [
+        {
+          "title": "Advancing computer use with Ironclad",
+          "link": "https://openai.com/index/advancing-computer-use-with-ironclad",
+          "date": "2026-10-06",
+          "source": "OpenAI",
+          "description": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Advancing computer use with Ironclad",
+          "original_summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+          "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work."
+        },
+        {
+          "title": "How AI decision models could change content moderation",
+          "link": "https://techcrunch.com/2026/10/06/how-ai-decision-models-could-change-content-moderation/",
+          "date": "2026-10-06",
+          "source": "TechCrunch",
+          "description": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/ai-agents-chatbots-GettyImages-2243730029.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "How AI decision models could change content moderation",
+          "original_summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights. ",
+          "summary": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights. "
+        },
+        {
+          "title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+          "link": "https://techcrunch.com/2026/10/06/ai-computing-startup-lambda-to-raise-4b-ahead-of-planned-ipo/",
+          "date": "2026-10-06",
+          "source": "TechCrunch",
+          "description": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-1148109686.jpg?resize=1200,687",
+          "is_english": true,
+          "original_title": "AI computing startup Lambda to raise $4B ahead of planned IPO",
+          "original_summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
+          "summary": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone."
+        },
+        {
+          "title": "The next hurdle for AI agents: getting websites to let them in",
+          "link": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
+          "date": "2026-10-06",
+          "source": "TechCrunch",
+          "description": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/ai-agent-bots-GettyImages-2243729307.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "The next hurdle for AI agents: getting websites to let them in",
+          "original_summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help. ",
+          "summary": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help. "
+        },
+        {
+          "title": "Hark releases an AI personal assistant with a focus on privacy",
+          "link": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy/",
+          "date": "2026-10-06",
+          "source": "TechCrunch",
+          "description": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Hark-Panels.png?resize=1200,675",
+          "is_english": true,
+          "original_title": "Hark releases an AI personal assistant with a focus on privacy",
+          "original_summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct. ",
+          "summary": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct. "
+        },
+        {
+          "title": "Supercomputing researchers document evolution of AI hardware",
+          "link": "https://news.mit.edu/2026/supercomputing-researchers-document-evolution-ai-hardware-1006",
+          "date": "2026-10-06",
+          "source": "MIT News",
+          "description": "An ongoing survey tracks the latest AI accelerator systems to keep hardware relevant for Lincoln Laboratory staff and sponsors.",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202609/mit-lincoln-supercomputer.jpg?itok=QZ2fNcDJ",
+          "is_english": true,
+          "original_title": "Supercomputing researchers document evolution of AI hardware",
+          "original_summary": "An ongoing survey tracks the latest AI accelerator systems to keep hardware relevant for Lincoln Laboratory staff and sponsors.",
+          "summary": "An ongoing survey tracks the latest AI accelerator systems to keep hardware relevant for Lincoln Laboratory staff and sponsors."
+        },
         {
           "title": "대형 교회 2곳도 해킹 피해…\"교인 정보 100만건 유출 가능성\"(종합)",
           "link": "https://www.yna.co.kr/view/AKR20261006193451017",
@@ -7861,7 +7933,7 @@
         {
           "title": "convaiinnovations/laya",
           "link": "https://huggingface.co/convaiinnovations/laya",
-          "date": "2026-09-28",
+          "date": "2026-10-07",
           "source": "HuggingFace",
           "description": "• laya 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/convaiinnovations/laya/resolve/main/assets/logo-lockup.png",
@@ -7874,7 +7946,7 @@
         {
           "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
           "link": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-          "date": "2026-09-28",
+          "date": "2026-10-07",
           "source": "HuggingFace",
           "description": "• Qwen-Image-2.1-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF/resolve/main/assets/Qwen-Image-2.1-Benchmark.png",
@@ -7887,7 +7959,7 @@
         {
           "title": "Qwen/Qwen-Image-2.1",
           "link": "https://huggingface.co/Qwen/Qwen-Image-2.1",
-          "date": "2026-09-28",
+          "date": "2026-10-07",
           "source": "HuggingFace",
           "description": "• Qwen-Image-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/image2.1/logo.png",
@@ -8004,7 +8076,7 @@
         {
           "title": "TaichuAI/ZDTaichu5.0-9B",
           "link": "https://huggingface.co/TaichuAI/ZDTaichu5.0-9B",
-          "date": "2026-09-28",
+          "date": "2026-10-07",
           "source": "HuggingFace",
           "description": "• ZDTaichu5.0-9B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
@@ -8056,7 +8128,7 @@
         {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "date": "2026-09-28",
+          "date": "2026-10-07",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -8069,7 +8141,7 @@
         {
           "title": "Lightricks/LTX-2.5",
           "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-09-28",
+          "date": "2026-10-07",
           "source": "HuggingFace",
           "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
