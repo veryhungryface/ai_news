@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-10-11",
-      "update_time": "2026-10-10 16:34:17",
+      "update_time": "2026-10-10 20:51:39",
       "news": [
         {
           "title": "google/embeddinggemma-2",
@@ -109,19 +109,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Cloudflare/clef-flash",
-          "link": "https://huggingface.co/Cloudflare/clef-flash",
-          "date": "2026-10-11",
-          "source": "HuggingFace",
-          "description": "• clef-flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• clef-flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Cloudflare/clef-flash",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
           "date": "2026-10-11",
@@ -135,15 +122,15 @@
           "category": "AI Model"
         },
         {
-          "title": "convaiinnovations/laya",
-          "link": "https://huggingface.co/convaiinnovations/laya",
+          "title": "Cloudflare/clef-flash",
+          "link": "https://huggingface.co/Cloudflare/clef-flash",
           "date": "2026-10-11",
           "source": "HuggingFace",
-          "description": "• laya 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/convaiinnovations/laya/resolve/main/assets/logo-lockup.png",
+          "description": "• clef-flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
           "is_english": true,
-          "summary": "• laya 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "convaiinnovations/laya",
+          "summary": "• clef-flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Cloudflare/clef-flash",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -161,6 +148,19 @@
           "category": "AI Model"
         },
         {
+          "title": "convaiinnovations/laya",
+          "link": "https://huggingface.co/convaiinnovations/laya",
+          "date": "2026-10-11",
+          "source": "HuggingFace",
+          "description": "• laya 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/convaiinnovations/laya/resolve/main/assets/logo-lockup.png",
+          "is_english": true,
+          "summary": "• laya 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "convaiinnovations/laya",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Cactus-Compute/whistle",
           "link": "https://huggingface.co/Cactus-Compute/whistle",
           "date": "2026-10-11",
@@ -174,19 +174,6 @@
           "category": "AI Model"
         },
         {
-          "title": "LiquidAI/d1-3B",
-          "link": "https://huggingface.co/LiquidAI/d1-3B",
-          "date": "2026-10-11",
-          "source": "HuggingFace",
-          "description": "• d1-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/r2H7UlZ_m48SYAhZWIHiu.png",
-          "is_english": true,
-          "summary": "• d1-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "LiquidAI/d1-3B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "ConwayResearch/Underdog-Saluki-27B-1.0",
           "link": "https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0",
           "date": "2026-10-11",
@@ -196,6 +183,19 @@
           "is_english": true,
           "summary": "• Underdog-Saluki-27B-1.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "ConwayResearch/Underdog-Saluki-27B-1.0",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "LiquidAI/d1-3B",
+          "link": "https://huggingface.co/LiquidAI/d1-3B",
+          "date": "2026-10-11",
+          "source": "HuggingFace",
+          "description": "• d1-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/r2H7UlZ_m48SYAhZWIHiu.png",
+          "is_english": true,
+          "summary": "• d1-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "LiquidAI/d1-3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,19 +239,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.8-Flash-Next",
-          "link": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
-          "date": "2026-10-11",
-          "source": "HuggingFace",
-          "description": "• Qwen3.8-Flash-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3.8-Flash-Next/architecture.png",
-          "is_english": true,
-          "summary": "• Qwen3.8-Flash-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.8-Flash-Next",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2",
           "link": "https://huggingface.co/nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2",
           "date": "2026-10-11",
@@ -263,13 +250,38 @@
           "translated_title": "nerkyor/Qwen3.8-27B-Coder390-EfficientThink-Opus5.5-GPT6Astra-Grok4.7-DSV4Pro-K3-SFT-RLOO-MTP-DFlash2",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.8-Flash-Next",
+          "link": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+          "date": "2026-10-11",
+          "source": "HuggingFace",
+          "description": "• Qwen3.8-Flash-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3.8-Flash-Next/architecture.png",
+          "is_english": true,
+          "summary": "• Qwen3.8-Flash-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.8-Flash-Next",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-10-10",
-      "update_time": "2026-10-10 16:34:15",
+      "update_time": "2026-10-10 20:51:39",
       "news": [
+        {
+          "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+          "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
+          "date": "2026-10-10",
+          "source": "TechCrunch",
+          "description": "Is Apple hoping to get into the AI-generated podcast business?",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/01/apple-podcasts-1.jpg?w=1200",
+          "is_english": true,
+          "original_title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
+          "original_summary": "Is Apple hoping to get into the AI-generated podcast business?",
+          "summary": "Is Apple hoping to get into the AI-generated podcast business?"
+        },
         {
           "title": "엔비디아, AI 추론 칩 d-매트릭스에 투자 계획…GPU 중심 생태계 확장",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216122",
@@ -6793,7 +6805,7 @@
         {
           "title": "convaiinnovations/laya",
           "link": "https://huggingface.co/convaiinnovations/laya",
-          "date": "2026-10-02",
+          "date": "2026-10-11",
           "source": "HuggingFace",
           "description": "• laya 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/convaiinnovations/laya/resolve/main/assets/logo-lockup.png",
@@ -6819,7 +6831,7 @@
         {
           "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
           "link": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-          "date": "2026-10-02",
+          "date": "2026-10-11",
           "source": "HuggingFace",
           "description": "• Qwen-Image-2.1-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF/resolve/main/assets/Qwen-Image-2.1-Benchmark.png",
@@ -6858,7 +6870,7 @@
         {
           "title": "Qwen/Qwen-Image-2.1",
           "link": "https://huggingface.co/Qwen/Qwen-Image-2.1",
-          "date": "2026-10-02",
+          "date": "2026-10-11",
           "source": "HuggingFace",
           "description": "• Qwen-Image-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/image2.1/logo.png",
@@ -6871,7 +6883,7 @@
         {
           "title": "Lightricks/LTX-2.5",
           "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-10-02",
+          "date": "2026-10-11",
           "source": "HuggingFace",
           "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -6884,7 +6896,7 @@
         {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "date": "2026-10-02",
+          "date": "2026-10-11",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
