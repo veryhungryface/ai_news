@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-10-11",
-      "update_time": "2026-10-10 20:51:39",
+      "update_time": "2026-10-10 23:58:24",
       "news": [
+        {
+          "title": "취임 6주년 맞은 정의선…피지컬 AI 설루션 기업 전환 속도",
+          "link": "https://www.yna.co.kr/view/AKR20261009061300003",
+          "date": "2026-10-11",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 장하나 기자 = 정의선 현대차그룹 회장이 오는 14일로 취임 6주년을 맞는다. \n",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/09/AKR20261009061300003_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "취임 6주년 맞은 정의선…피지컬 AI 설루션 기업 전환 속도",
+          "original_summary": "(서울=연합뉴스) 장하나 기자 = 정의선 현대차그룹 회장이 오는 14일로 취임 6주년을 맞는다. \n",
+          "summary": "(서울=연합뉴스) 장하나 기자 = 정의선 현대차그룹 회장이 오는 14일로 취임 6주년을 맞는다. \n"
+        },
         {
           "title": "google/embeddinggemma-2",
           "link": "https://huggingface.co/google/embeddinggemma-2",
@@ -174,19 +186,6 @@
           "category": "AI Model"
         },
         {
-          "title": "ConwayResearch/Underdog-Saluki-27B-1.0",
-          "link": "https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0",
-          "date": "2026-10-11",
-          "source": "HuggingFace",
-          "description": "• Underdog-Saluki-27B-1.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Underdog-Saluki-27B-1.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ConwayResearch/Underdog-Saluki-27B-1.0",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "LiquidAI/d1-3B",
           "link": "https://huggingface.co/LiquidAI/d1-3B",
           "date": "2026-10-11",
@@ -200,15 +199,15 @@
           "category": "AI Model"
         },
         {
-          "title": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
-          "link": "https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
+          "title": "ConwayResearch/Underdog-Saluki-27B-1.0",
+          "link": "https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0",
           "date": "2026-10-11",
           "source": "HuggingFace",
-          "description": "• Qwen3.8-Flash-Next-GSQ-RCO-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/arXiv-GSQ_2604.18556-b31b1b?logo=arxiv&logoColor=white",
+          "description": "• Underdog-Saluki-27B-1.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
           "is_english": true,
-          "summary": "• Qwen3.8-Flash-Next-GSQ-RCO-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
+          "summary": "• Underdog-Saluki-27B-1.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "ConwayResearch/Underdog-Saluki-27B-1.0",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -222,6 +221,19 @@
           "is_english": true,
           "summary": "• embeddinggemma-2-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/embeddinggemma-2-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
+          "link": "https://huggingface.co/ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
+          "date": "2026-10-11",
+          "source": "HuggingFace",
+          "description": "• Qwen3.8-Flash-Next-GSQ-RCO-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/arXiv-GSQ_2604.18556-b31b1b?logo=arxiv&logoColor=white",
+          "is_english": true,
+          "summary": "• Qwen3.8-Flash-Next-GSQ-RCO-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "ISTA-DASLab/Qwen3.8-Flash-Next-GSQ-RCO-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -252,15 +264,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.8-Flash-Next",
-          "link": "https://huggingface.co/Qwen/Qwen3.8-Flash-Next",
+          "title": "AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
+          "link": "https://huggingface.co/AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
           "date": "2026-10-11",
           "source": "HuggingFace",
-          "description": "• Qwen3.8-Flash-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen3.8-Flash-Next/architecture.png",
+          "description": "• Qwen-Image-2.1-Turbo-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/AtomicChat/Qwen3.8-27B-GGUF/resolve/main/btn_atomic.png",
           "is_english": true,
-          "summary": "• Qwen3.8-Flash-Next 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.8-Flash-Next",
+          "summary": "• Qwen-Image-2.1-Turbo-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -268,8 +280,20 @@
     },
     {
       "date": "2026-10-10",
-      "update_time": "2026-10-10 20:51:39",
+      "update_time": "2026-10-10 23:58:22",
       "news": [
+        {
+          "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+          "link": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+          "date": "2026-10-10",
+          "source": "TechCrunch",
+          "description": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+          "image": "https://techcrunch.com/wp-content/uploads/2023/11/satya-nadella-2_web.png?w=1000",
+          "is_english": true,
+          "original_title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+          "original_summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI.",
+          "summary": "In a Saturday morning post, Microsoft's CEO wrote that it’s time “to step back and assess the trust architecture” of AI."
+        },
         {
           "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
           "link": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe/",
