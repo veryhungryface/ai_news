@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-10-12",
-      "update_time": "2026-10-11 16:59:15",
+      "update_time": "2026-10-11 21:12:30",
       "news": [
+        {
+          "title": "서범수 \"취약층 학생 12만명에 AI 지원한다더니…접속자 저조\"",
+          "link": "https://www.yna.co.kr/view/AKR20261011033600001",
+          "date": "2026-10-12",
+          "source": "연합뉴스",
+          "description": "&apos;",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/09/14/PYH2026091413640001300_P2.jpg",
+          "is_english": false,
+          "original_title": "서범수 \"취약층 학생 12만명에 AI 지원한다더니…접속자 저조\"",
+          "original_summary": "&apos;",
+          "summary": "&apos;"
+        },
         {
           "title": "google/embeddinggemma-2",
           "link": "https://huggingface.co/google/embeddinggemma-2",
@@ -70,19 +82,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Aleph-Alpha/Kolibri-1",
-          "link": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
-          "date": "2026-10-12",
-          "source": "HuggingFace",
-          "description": "• Kolibri-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Kolibri-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Aleph-Alpha/Kolibri-1",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Lightricks/LTX-2.5",
           "link": "https://huggingface.co/Lightricks/LTX-2.5",
           "date": "2026-10-12",
@@ -92,6 +91,19 @@
           "is_english": true,
           "summary": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Lightricks/LTX-2.5",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Aleph-Alpha/Kolibri-1",
+          "link": "https://huggingface.co/Aleph-Alpha/Kolibri-1",
+          "date": "2026-10-12",
+          "source": "HuggingFace",
+          "description": "• Kolibri-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Kolibri-1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Aleph-Alpha/Kolibri-1",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -161,6 +173,19 @@
           "category": "AI Model"
         },
         {
+          "title": "AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
+          "link": "https://huggingface.co/AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
+          "date": "2026-10-12",
+          "source": "HuggingFace",
+          "description": "• Qwen-Image-2.1-Turbo-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/AtomicChat/Qwen3.8-27B-GGUF/resolve/main/btn_atomic.png",
+          "is_english": true,
+          "summary": "• Qwen-Image-2.1-Turbo-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Cloudflare/clef-flash",
           "link": "https://huggingface.co/Cloudflare/clef-flash",
           "date": "2026-10-12",
@@ -183,19 +208,6 @@
           "is_english": true,
           "summary": "• laya 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "convaiinnovations/laya",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
-          "link": "https://huggingface.co/AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
-          "date": "2026-10-12",
-          "source": "HuggingFace",
-          "description": "• Qwen-Image-2.1-Turbo-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/AtomicChat/Qwen3.8-27B-GGUF/resolve/main/btn_atomic.png",
-          "is_english": true,
-          "summary": "• Qwen-Image-2.1-Turbo-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +280,20 @@
     },
     {
       "date": "2026-10-11",
-      "update_time": "2026-10-11 16:59:15",
+      "update_time": "2026-10-11 21:12:30",
       "news": [
+        {
+          "title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+          "link": "https://techcrunch.com/2026/10/11/48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats-next/",
+          "date": "2026-10-11",
+          "source": "TechCrunch",
+          "description": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/09/Perplexity-Disrupt-Stage-2024.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "48 hours to TechCrunch Disrupt 2026 — hear directly from the people building what’s next",
+          "original_summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals.",
+          "summary": "Less than 48 hours, TechCrunch Disrupt 2026 starts in San Francisco’s Moscone West. Save up to $100 on your pass before prices increase at the door, plus get 50% on a second pass. Or score other deals."
+        },
         {
           "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
           "link": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas/",
@@ -6349,7 +6373,7 @@
         {
           "title": "convaiinnovations/laya",
           "link": "https://huggingface.co/convaiinnovations/laya",
-          "date": "2026-10-03",
+          "date": "2026-10-12",
           "source": "HuggingFace",
           "description": "• laya 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/convaiinnovations/laya/resolve/main/assets/logo-lockup.png",
@@ -6362,7 +6386,7 @@
         {
           "title": "Cloudflare/clef",
           "link": "https://huggingface.co/Cloudflare/clef",
-          "date": "2026-10-03",
+          "date": "2026-10-12",
           "source": "HuggingFace",
           "description": "• clef 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -6375,7 +6399,7 @@
         {
           "title": "abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
           "link": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF",
-          "date": "2026-10-03",
+          "date": "2026-10-12",
           "source": "HuggingFace",
           "description": "• Qwen-Image-2.1-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-GGUF/resolve/main/assets/Qwen-Image-2.1-Benchmark.png",
@@ -6401,7 +6425,7 @@
         {
           "title": "Lightricks/LTX-2.5",
           "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-10-03",
+          "date": "2026-10-12",
           "source": "HuggingFace",
           "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -6427,7 +6451,7 @@
         {
           "title": "Qwen/Qwen-Image-2.1",
           "link": "https://huggingface.co/Qwen/Qwen-Image-2.1",
-          "date": "2026-10-03",
+          "date": "2026-10-12",
           "source": "HuggingFace",
           "description": "• Qwen-Image-2.1 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/image2.1/logo.png",
@@ -6440,7 +6464,7 @@
         {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "date": "2026-10-03",
+          "date": "2026-10-12",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
