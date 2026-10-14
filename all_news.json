@@ -2,8 +2,44 @@
   "dates": [
     {
       "date": "2026-10-15",
-      "update_time": "2026-10-14 19:02:38",
+      "update_time": "2026-10-14 23:32:33",
       "news": [
+        {
+          "title": "[10월14일] 챗GPT와 맞먹던 캐릭터닷AI가 4년 만에 파산한 이유",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216239",
+          "date": "2026-10-15",
+          "source": "AI타임스",
+          "description": "한때 챗GPT와 맞먹을 정도로 인기를 끌었던 캐릭터닷AI(Character.AI)가 결국 파산보호를 신청했습니다. 2022년 서비스를 시작한 지 불과 4년 만입니다. 특히 눈길을 끄는 것은 한때 빅테크들의 인수 대상으로 거론됐던 회사가 이제는 28곳의 잠재적 인수자와 접촉하고도 소송과 규제 위험 때문에 인수자를 찾지 못했다는 점입니다.캐릭터닷AI는 2022년 9월 서비스를 공개한 뒤 빠르게 성장했습니다. 이어 등장한 챗GPT가 질문에 답하고 정보를 제공하는 AI로 인기를 끌었다면, 캐릭터닷AI는 유명인이나 역사적 인물, 영화와 게임",
+          "image": "https://cdn.aitimes.com/news/photo/202610/216239_220260_2238.jpg",
+          "is_english": false,
+          "original_title": "[10월14일] 챗GPT와 맞먹던 캐릭터닷AI가 4년 만에 파산한 이유",
+          "original_summary": "한때 챗GPT와 맞먹을 정도로 인기를 끌었던 캐릭터닷AI(Character.AI)가 결국 파산보호를 신청했습니다. 2022년 서비스를 시작한 지 불과 4년 만입니다. 특히 눈길을 끄는 것은 한때 빅테크들의 인수 대상으로 거론됐던 회사가 이제는 28곳의 잠재적 인수자와 접촉하고도 소송과 규제 위험 때문에 인수자를 찾지 못했다는 점입니다.캐릭터닷AI는 2022년 9월 서비스를 공개한 뒤 빠르게 성장했습니다. 이어 등장한 챗GPT가 질문에 답하고 정보를 제공하는 AI로 인기를 끌었다면, 캐릭터닷AI는 유명인이나 역사적 인물, 영화와 게임",
+          "summary": "한때 챗GPT와 맞먹을 정도로 인기를 끌었던 캐릭터닷AI(Character.AI)가 결국 파산보호를 신청했습니다. 2022년 서비스를 시작한 지 불과 4년 만입니다. 특히 눈길을 끄는 것은 한때 빅테크들의 인수 대상으로 거론됐던 회사가 이제는 28곳의 잠재적 인수자와 접촉하고도 소송과 규제 위험 때문에 인수자를 찾지 못했다는 점입니다.캐릭터닷AI는 2022년 9월 서비스를 공개한 뒤 빠르게 성장했습니다. 이어 등장한 챗GPT가 질문에 답하고 정보를 제공하는 AI로 인기를 끌었다면, 캐릭터닷AI는 유명인이나 역사적 인물, 영화와 게임"
+        },
+        {
+          "title": "IBM: Agentic AI is reshaping governance, controls and trust",
+          "link": "https://aibusiness.com/generative-ai/ibm-agentic-ai-reshaping-governance-controls-trust",
+          "date": "2026-10-15",
+          "source": "AI Business",
+          "description": "As AI agents move from answering questions to making decisions and acting, businesses face a growing challenge of keeping accountability in step with the pace of change.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt203d395bdcf7c434/6acfe8021f5cbc32b0c5968f/IBM.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "IBM: Agentic AI is reshaping governance, controls and trust",
+          "original_summary": "As AI agents move from answering questions to making decisions and acting, businesses face a growing challenge of keeping accountability in step with the pace of change.",
+          "summary": "As AI agents move from answering questions to making decisions and acting, businesses face a growing challenge of keeping accountability in step with the pace of change."
+        },
+        {
+          "title": "Musing about Muse’s new AI models, unruly DeepSeek",
+          "link": "https://aibusiness.com/generative-ai/musing-muse-s-new-supporting-ai-models-unruly-deepseek-models",
+          "date": "2026-10-15",
+          "source": "AI Business",
+          "description": "The social media giant tries to capitalize on, monetize its successful personal agent and maybe crack the business market. Chinese models go astray, like their U.S. counterparts.",
+          "image": "https://eu-images.contentstack.com/v3/assets/blt6b0f74e5591baa03/blt9455d902665d3a3d/6acfdc5df4bc011f001449ed/Muse_2.jpg?width=720&quality=80&disable=upscale",
+          "is_english": true,
+          "original_title": "Musing about Muse’s new AI models, unruly DeepSeek",
+          "original_summary": "The social media giant tries to capitalize on, monetize its successful personal agent and maybe crack the business market. Chinese models go astray, like their U.S. counterparts.",
+          "summary": "The social media giant tries to capitalize on, monetize its successful personal agent and maybe crack the business market. Chinese models go astray, like their U.S. counterparts."
+        },
         {
           "title": "google/embeddinggemma-2",
           "link": "https://huggingface.co/google/embeddinggemma-2",
@@ -122,19 +158,6 @@
           "category": "AI Model"
         },
         {
-          "title": "LiquidAI/d1-3B",
-          "link": "https://huggingface.co/LiquidAI/d1-3B",
-          "date": "2026-10-15",
-          "source": "HuggingFace",
-          "description": "• d1-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/r2H7UlZ_m48SYAhZWIHiu.png",
-          "is_english": true,
-          "summary": "• d1-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "LiquidAI/d1-3B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
           "date": "2026-10-15",
@@ -144,19 +167,6 @@
           "is_english": true,
           "summary": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.8-27B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "Cloudflare/clef",
-          "link": "https://huggingface.co/Cloudflare/clef",
-          "date": "2026-10-15",
-          "source": "HuggingFace",
-          "description": "• clef 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• clef 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Cloudflare/clef",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -174,15 +184,15 @@
           "category": "AI Model"
         },
         {
-          "title": "LiquidAI/LFM2.5-24B-A2B",
-          "link": "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B",
+          "title": "LiquidAI/d1-3B",
+          "link": "https://huggingface.co/LiquidAI/d1-3B",
           "date": "2026-10-15",
           "source": "HuggingFace",
-          "description": "• LFM2.5-24B-A2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B/resolve/main/figures/LFM2.5-24B-A2B-benchmark.png",
+          "description": "• d1-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/r2H7UlZ_m48SYAhZWIHiu.png",
           "is_english": true,
-          "summary": "• LFM2.5-24B-A2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "LiquidAI/LFM2.5-24B-A2B",
+          "summary": "• d1-3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "LiquidAI/d1-3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -196,6 +206,32 @@
           "is_english": true,
           "summary": "• drama-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "fishaudio/drama-3",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "LiquidAI/LFM2.5-24B-A2B",
+          "link": "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B",
+          "date": "2026-10-15",
+          "source": "HuggingFace",
+          "description": "• LFM2.5-24B-A2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B/resolve/main/figures/LFM2.5-24B-A2B-benchmark.png",
+          "is_english": true,
+          "summary": "• LFM2.5-24B-A2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "LiquidAI/LFM2.5-24B-A2B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Cloudflare/clef",
+          "link": "https://huggingface.co/Cloudflare/clef",
+          "date": "2026-10-15",
+          "source": "HuggingFace",
+          "description": "• clef 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• clef 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Cloudflare/clef",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +304,44 @@
     },
     {
       "date": "2026-10-14",
-      "update_time": "2026-10-14 19:02:38",
+      "update_time": "2026-10-14 23:32:33",
       "news": [
+        {
+          "title": "광양경자청, 국제해양플랜트산업전서 기업 유치 나서",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216268",
+          "date": "2026-10-14",
+          "source": "AI타임스",
+          "description": "광양만권경제자유구역청(청장 구충곤)은 14일부터 16일까지 사흘간 부산 벡스코(BEXCO)에서 열리는 ‘2026 국제해양에너지플랜트산업전’에 참가해 투자유치 활동을 펼친다고 밝혔다.‘2026 국제해양에너지플랜트산업전’은 산업통상자원부와 부산시가 주최하는 국내 유일의 조선·해양에너지플랜트 전문 산업전시회이다. 이번 산업전시회에는 글로벌 조선사를 비롯한 15개국 170여 개 기업이 참가해 600개 부스를 운영하며, 조선·해양플랜트, 해양에너지, 관련 기자재 등으로 친환경·탈탄소 기술과 AI, 자동화 등 산업의 디지털 전환 분야의 기술과",
+          "image": "https://cdn.aitimes.com/news/photo/202610/216268_220303_4337.jpg",
+          "is_english": false,
+          "original_title": "광양경자청, 국제해양플랜트산업전서 기업 유치 나서",
+          "original_summary": "광양만권경제자유구역청(청장 구충곤)은 14일부터 16일까지 사흘간 부산 벡스코(BEXCO)에서 열리는 ‘2026 국제해양에너지플랜트산업전’에 참가해 투자유치 활동을 펼친다고 밝혔다.‘2026 국제해양에너지플랜트산업전’은 산업통상자원부와 부산시가 주최하는 국내 유일의 조선·해양에너지플랜트 전문 산업전시회이다. 이번 산업전시회에는 글로벌 조선사를 비롯한 15개국 170여 개 기업이 참가해 600개 부스를 운영하며, 조선·해양플랜트, 해양에너지, 관련 기자재 등으로 친환경·탈탄소 기술과 AI, 자동화 등 산업의 디지털 전환 분야의 기술과",
+          "summary": "광양만권경제자유구역청(청장 구충곤)은 14일부터 16일까지 사흘간 부산 벡스코(BEXCO)에서 열리는 ‘2026 국제해양에너지플랜트산업전’에 참가해 투자유치 활동을 펼친다고 밝혔다.‘2026 국제해양에너지플랜트산업전’은 산업통상자원부와 부산시가 주최하는 국내 유일의 조선·해양에너지플랜트 전문 산업전시회이다. 이번 산업전시회에는 글로벌 조선사를 비롯한 15개국 170여 개 기업이 참가해 600개 부스를 운영하며, 조선·해양플랜트, 해양에너지, 관련 기자재 등으로 친환경·탈탄소 기술과 AI, 자동화 등 산업의 디지털 전환 분야의 기술과"
+        },
+        {
+          "title": "How Block is building AI-powered security with OpenAI technology",
+          "link": "https://openai.com/index/block-ai-powered-security",
+          "date": "2026-10-14",
+          "source": "OpenAI",
+          "description": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+          "image": null,
+          "is_english": true,
+          "original_title": "How Block is building AI-powered security with OpenAI technology",
+          "original_summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes.",
+          "summary": "Block is building AI-powered security with OpenAI. Its security team investigates threats faster and proposes patches in minutes."
+        },
+        {
+          "title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+          "link": "https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/",
+          "date": "2026-10-14",
+          "source": "TechCrunch",
+          "description": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/55589672916_8efa76c0ac_o.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Flock CEO says its microphones detect ‘just gunshots’ — its website says different",
+          "original_summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology.",
+          "summary": "Langley’s comments come amid mounting scrutiny of Flock from privacy advocates, including the ACLU, and members of the public who are concerned about the misuse of its technology."
+        },
         {
           "title": "Amp puts AI agents to work beyond code with OpenAI models",
           "link": "https://openai.com/index/amp-beyond-coding",
@@ -7153,7 +7225,7 @@
         {
           "title": "Cloudflare/clef",
           "link": "https://huggingface.co/Cloudflare/clef",
-          "date": "2026-10-06",
+          "date": "2026-10-15",
           "source": "HuggingFace",
           "description": "• clef 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
@@ -7205,7 +7277,7 @@
         {
           "title": "convaiinnovations/laya",
           "link": "https://huggingface.co/convaiinnovations/laya",
-          "date": "2026-10-06",
+          "date": "2026-10-15",
           "source": "HuggingFace",
           "description": "• laya 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/convaiinnovations/laya/resolve/main/assets/logo-lockup.png",
@@ -7231,7 +7303,7 @@
         {
           "title": "Lightricks/LTX-2.5",
           "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-10-06",
+          "date": "2026-10-15",
           "source": "HuggingFace",
           "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -7270,7 +7342,7 @@
         {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "date": "2026-10-06",
+          "date": "2026-10-15",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
