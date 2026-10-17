@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-10-18",
-      "update_time": "2026-10-17 17:37:00",
+      "update_time": "2026-10-17 19:49:44",
       "news": [
         {
           "title": "google/embeddinggemma-2",
@@ -18,19 +18,6 @@
           "category": "AI Model"
         },
         {
-          "title": "jialinyyzz/humanizer",
-          "link": "https://huggingface.co/jialinyyzz/humanizer",
-          "date": "2026-10-18",
-          "source": "HuggingFace",
-          "description": "• humanizer 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/jialinyyzz/humanizer/resolve/main/assets/banner-en.png",
-          "is_english": true,
-          "summary": "• humanizer 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "jialinyyzz/humanizer",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
           "date": "2026-10-18",
@@ -40,6 +27,19 @@
           "is_english": true,
           "summary": "• DeepSeek-V4.1-Flash-1017 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "jialinyyzz/humanizer",
+          "link": "https://huggingface.co/jialinyyzz/humanizer",
+          "date": "2026-10-18",
+          "source": "HuggingFace",
+          "description": "• humanizer 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/jialinyyzz/humanizer/resolve/main/assets/banner-en.png",
+          "is_english": true,
+          "summary": "• humanizer 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "jialinyyzz/humanizer",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -187,19 +187,6 @@
           "category": "AI Model"
         },
         {
-          "title": "AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
-          "link": "https://huggingface.co/AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
-          "date": "2026-10-18",
-          "source": "HuggingFace",
-          "description": "• Qwen-Image-2.1-Turbo-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/AtomicChat/Qwen3.8-27B-GGUF/resolve/main/btn_atomic.png",
-          "is_english": true,
-          "summary": "• Qwen-Image-2.1-Turbo-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "openbmb/MiniCPM-V-4.7-1B",
           "link": "https://huggingface.co/openbmb/MiniCPM-V-4.7-1B",
           "date": "2026-10-18",
@@ -209,6 +196,19 @@
           "is_english": true,
           "summary": "• MiniCPM-V-4.7-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "openbmb/MiniCPM-V-4.7-1B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
+          "link": "https://huggingface.co/AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
+          "date": "2026-10-18",
+          "source": "HuggingFace",
+          "description": "• Qwen-Image-2.1-Turbo-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/AtomicChat/Qwen3.8-27B-GGUF/resolve/main/btn_atomic.png",
+          "is_english": true,
+          "summary": "• Qwen-Image-2.1-Turbo-Uncensored-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "AtomicChat/Qwen-Image-2.1-Turbo-Uncensored-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,19 +239,6 @@
           "category": "AI Model"
         },
         {
-          "title": "vllm-sr/d3",
-          "link": "https://huggingface.co/vllm-sr/d3",
-          "date": "2026-10-18",
-          "source": "HuggingFace",
-          "description": "• d3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/vllm-sr/d3/resolve/main/assets/banner.png",
-          "is_english": true,
-          "summary": "• d3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "vllm-sr/d3",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "OpenMOSS-Team/MOSS-Image-SFT",
           "link": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
           "date": "2026-10-18",
@@ -263,13 +250,38 @@
           "translated_title": "OpenMOSS-Team/MOSS-Image-SFT",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "vllm-sr/d3",
+          "link": "https://huggingface.co/vllm-sr/d3",
+          "date": "2026-10-18",
+          "source": "HuggingFace",
+          "description": "• d3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/vllm-sr/d3/resolve/main/assets/banner.png",
+          "is_english": true,
+          "summary": "• d3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "vllm-sr/d3",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-10-17",
-      "update_time": "2026-10-17 12:34:28",
+      "update_time": "2026-10-17 19:49:44",
       "news": [
+        {
+          "title": "Replit is no longer working with Anthropic, CEO says",
+          "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+          "date": "2026-10-17",
+          "source": "TechCrunch",
+          "description": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Replit is no longer working with Anthropic, CEO says",
+          "original_summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform. ",
+          "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform. "
+        },
         {
           "title": "[AI 모델 신작] BFL ‘플럭스 3 이미지 클라인’ 등 5종",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216368",
@@ -6940,7 +6952,7 @@
         {
           "title": "google/embeddinggemma-2",
           "link": "https://huggingface.co/google/embeddinggemma-2",
-          "date": "2026-10-09",
+          "date": "2026-10-18",
           "source": "HuggingFace",
           "description": "• embeddinggemma-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -6979,7 +6991,7 @@
         {
           "title": "jialinyyzz/humanizer",
           "link": "https://huggingface.co/jialinyyzz/humanizer",
-          "date": "2026-10-09",
+          "date": "2026-10-18",
           "source": "HuggingFace",
           "description": "• humanizer 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/jialinyyzz/humanizer/resolve/main/assets/banner-en.png",
@@ -7018,7 +7030,7 @@
         {
           "title": "Lightricks/LTX-2.5",
           "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-10-09",
+          "date": "2026-10-18",
           "source": "HuggingFace",
           "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -7057,7 +7069,7 @@
         {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "date": "2026-10-09",
+          "date": "2026-10-18",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
