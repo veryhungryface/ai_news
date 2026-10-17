@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-10-18",
-      "update_time": "2026-10-17 19:49:44",
+      "update_time": "2026-10-17 22:46:02",
       "news": [
         {
           "title": "google/embeddinggemma-2",
@@ -109,19 +109,6 @@
           "category": "AI Model"
         },
         {
-          "title": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
-          "link": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
-          "date": "2026-10-18",
-          "source": "HuggingFace",
-          "description": "• Qwen-Image-2.1-Uncensored-Quantized 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%A4%97_Model_Requests-Submit_Here-f59e0b?style=for-the-badge&labelColor=1f2937",
-          "is_english": true,
-          "summary": "• Qwen-Image-2.1-Uncensored-Quantized 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "LiquidAI/LFM2.5-24B-A2B",
           "link": "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B",
           "date": "2026-10-18",
@@ -131,6 +118,19 @@
           "is_english": true,
           "summary": "• LFM2.5-24B-A2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "LiquidAI/LFM2.5-24B-A2B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+          "link": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+          "date": "2026-10-18",
+          "source": "HuggingFace",
+          "description": "• Qwen-Image-2.1-Uncensored-Quantized 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%A4%97_Model_Requests-Submit_Here-f59e0b?style=for-the-badge&labelColor=1f2937",
+          "is_english": true,
+          "summary": "• Qwen-Image-2.1-Uncensored-Quantized 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -213,15 +213,15 @@
           "category": "AI Model"
         },
         {
-          "title": "ConwayResearch/Underdog-Saluki-27B-1.0",
-          "link": "https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0",
+          "title": "OpenMOSS-Team/MOSS-Image-SFT",
+          "link": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
           "date": "2026-10-18",
           "source": "HuggingFace",
-          "description": "• Underdog-Saluki-27B-1.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "description": "• MOSS-Image-SFT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT/resolve/main/assets/lockup-light.svg",
           "is_english": true,
-          "summary": "• Underdog-Saluki-27B-1.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ConwayResearch/Underdog-Saluki-27B-1.0",
+          "summary": "• MOSS-Image-SFT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "OpenMOSS-Team/MOSS-Image-SFT",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,28 +239,28 @@
           "category": "AI Model"
         },
         {
-          "title": "OpenMOSS-Team/MOSS-Image-SFT",
-          "link": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
+          "title": "ConwayResearch/Underdog-Saluki-27B-1.0",
+          "link": "https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0",
           "date": "2026-10-18",
           "source": "HuggingFace",
-          "description": "• MOSS-Image-SFT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT/resolve/main/assets/lockup-light.svg",
+          "description": "• Underdog-Saluki-27B-1.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
           "is_english": true,
-          "summary": "• MOSS-Image-SFT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "OpenMOSS-Team/MOSS-Image-SFT",
+          "summary": "• Underdog-Saluki-27B-1.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "ConwayResearch/Underdog-Saluki-27B-1.0",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
         {
-          "title": "vllm-sr/d3",
-          "link": "https://huggingface.co/vllm-sr/d3",
+          "title": "OpenMOSS-Team/MOSS-Image-Base",
+          "link": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base",
           "date": "2026-10-18",
           "source": "HuggingFace",
-          "description": "• d3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/vllm-sr/d3/resolve/main/assets/banner.png",
+          "description": "• MOSS-Image-Base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base/resolve/main/assets/lockup-light.svg",
           "is_english": true,
-          "summary": "• d3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "vllm-sr/d3",
+          "summary": "• MOSS-Image-Base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "OpenMOSS-Team/MOSS-Image-Base",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -268,8 +268,32 @@
     },
     {
       "date": "2026-10-17",
-      "update_time": "2026-10-17 19:49:44",
+      "update_time": "2026-10-17 22:46:01",
       "news": [
+        {
+          "title": "Meta removes language that raised scraping and AI training concerns",
+          "link": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+          "date": "2026-10-17",
+          "source": "TechCrunch",
+          "description": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Meta removes language that raised scraping and AI training concerns",
+          "original_summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+          "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web."
+        },
+        {
+          "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+          "link": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+          "date": "2026-10-17",
+          "source": "TechCrunch",
+          "description": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+          "is_english": true,
+          "original_title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
+          "original_summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
+          "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year."
+        },
         {
           "title": "Replit is no longer working with Anthropic, CEO says",
           "link": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
