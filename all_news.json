@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-10-19",
-      "update_time": "2026-10-18 19:50:24",
+      "update_time": "2026-10-18 22:40:55",
       "news": [
+        {
+          "title": "교사 절반 이상 \"매주 AI 사용\"…\"관련 법 안다\" 응답은 17%뿐",
+          "link": "https://www.yna.co.kr/view/AKR20261016118400530",
+          "date": "2026-10-19",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 오보람 기자 = 학교 현장에서 교사 절반 이상이 매주 인공지능(AI)을 활용하고 있지만 관련 법령이나 정책 등을 알고 있다는 ...",
+          "image": "https://img.yna.co.kr/photo/yna/YH/2026/01/21/PYH2026012110080001300_P2.jpg",
+          "is_english": false,
+          "original_title": "교사 절반 이상 \"매주 AI 사용\"…\"관련 법 안다\" 응답은 17%뿐",
+          "original_summary": "(서울=연합뉴스) 오보람 기자 = 학교 현장에서 교사 절반 이상이 매주 인공지능(AI)을 활용하고 있지만 관련 법령이나 정책 등을 알고 있다는 ...",
+          "summary": "(서울=연합뉴스) 오보람 기자 = 학교 현장에서 교사 절반 이상이 매주 인공지능(AI)을 활용하고 있지만 관련 법령이나 정책 등을 알고 있다는 ..."
+        },
         {
           "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
@@ -161,19 +173,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen-Image-2.1-Turbo",
-          "link": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
-          "date": "2026-10-19",
-          "source": "HuggingFace",
-          "description": "• Qwen-Image-2.1-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/image2.1/logo.png",
-          "is_english": true,
-          "summary": "• Qwen-Image-2.1-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen-Image-2.1-Turbo",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "OpenMOSS-Team/MOSS-Image-SFT",
           "link": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
           "date": "2026-10-19",
@@ -187,15 +186,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Qwen/Qwen3.8-27B",
-          "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "title": "Qwen/Qwen-Image-2.1-Turbo",
+          "link": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
           "date": "2026-10-19",
           "source": "HuggingFace",
-          "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "description": "• Qwen-Image-2.1-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/image2.1/logo.png",
           "is_english": true,
-          "summary": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.8-27B",
+          "summary": "• Qwen-Image-2.1-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen-Image-2.1-Turbo",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -209,6 +208,19 @@
           "is_english": true,
           "summary": "• MiniCPM-V-4.7-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "openbmb/MiniCPM-V-4.7-1B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "date": "2026-10-19",
+          "source": "HuggingFace",
+          "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.8-27B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +280,20 @@
     },
     {
       "date": "2026-10-18",
-      "update_time": "2026-10-18 17:39:44",
+      "update_time": "2026-10-18 22:40:55",
       "news": [
+        {
+          "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+          "link": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+          "date": "2026-10-18",
+          "source": "TechCrunch",
+          "description": "Anthropic said that it will commit 5% of its shares to the fund.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/01/GettyImages-2252871842.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+          "original_summary": "Anthropic said that it will commit 5% of its shares to the fund.",
+          "summary": "Anthropic said that it will commit 5% of its shares to the fund."
+        },
         {
           "title": "Disney agrees to hire the majority of Character.AI’s workforce",
           "link": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
