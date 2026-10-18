@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-10-19",
-      "update_time": "2026-10-18 17:39:46",
+      "update_time": "2026-10-18 19:50:24",
       "news": [
         {
           "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
@@ -18,19 +18,6 @@
           "category": "AI Model"
         },
         {
-          "title": "google/embeddinggemma-2",
-          "link": "https://huggingface.co/google/embeddinggemma-2",
-          "date": "2026-10-19",
-          "source": "HuggingFace",
-          "description": "• embeddinggemma-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
-          "is_english": true,
-          "summary": "• embeddinggemma-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "google/embeddinggemma-2",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "openbmb/MiniCPM-V-4.7-35B-A3B",
           "link": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
           "date": "2026-10-19",
@@ -40,6 +27,19 @@
           "is_english": true,
           "summary": "• MiniCPM-V-4.7-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "openbmb/MiniCPM-V-4.7-35B-A3B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "google/embeddinggemma-2",
+          "link": "https://huggingface.co/google/embeddinggemma-2",
+          "date": "2026-10-19",
+          "source": "HuggingFace",
+          "description": "• embeddinggemma-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "is_english": true,
+          "summary": "• embeddinggemma-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "google/embeddinggemma-2",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -187,19 +187,6 @@
           "category": "AI Model"
         },
         {
-          "title": "openbmb/MiniCPM-V-4.7-1B",
-          "link": "https://huggingface.co/openbmb/MiniCPM-V-4.7-1B",
-          "date": "2026-10-19",
-          "source": "HuggingFace",
-          "description": "• MiniCPM-V-4.7-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• MiniCPM-V-4.7-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "openbmb/MiniCPM-V-4.7-1B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
           "date": "2026-10-19",
@@ -209,6 +196,19 @@
           "is_english": true,
           "summary": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.8-27B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "openbmb/MiniCPM-V-4.7-1B",
+          "link": "https://huggingface.co/openbmb/MiniCPM-V-4.7-1B",
+          "date": "2026-10-19",
+          "source": "HuggingFace",
+          "description": "• MiniCPM-V-4.7-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• MiniCPM-V-4.7-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "openbmb/MiniCPM-V-4.7-1B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -252,15 +252,15 @@
           "category": "AI Model"
         },
         {
-          "title": "ConwayResearch/Underdog-Saluki-27B-1.0",
-          "link": "https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0",
+          "title": "LiquidAI/LFM2.5-24B-A2B-GGUF",
+          "link": "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B-GGUF",
           "date": "2026-10-19",
           "source": "HuggingFace",
-          "description": "• Underdog-Saluki-27B-1.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "description": "• LFM2.5-24B-A2B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://cdn-uploads.huggingface.co/production/uploads/61b8e2ba285851687028d395/2b08LKpev0DNEk6DlnWkY.png",
           "is_english": true,
-          "summary": "• Underdog-Saluki-27B-1.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ConwayResearch/Underdog-Saluki-27B-1.0",
+          "summary": "• LFM2.5-24B-A2B-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "LiquidAI/LFM2.5-24B-A2B-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -6733,7 +6733,7 @@
         {
           "title": "google/embeddinggemma-2",
           "link": "https://huggingface.co/google/embeddinggemma-2",
-          "date": "2026-10-10",
+          "date": "2026-10-19",
           "source": "HuggingFace",
           "description": "• embeddinggemma-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -6759,7 +6759,7 @@
         {
           "title": "jialinyyzz/humanizer",
           "link": "https://huggingface.co/jialinyyzz/humanizer",
-          "date": "2026-10-10",
+          "date": "2026-10-19",
           "source": "HuggingFace",
           "description": "• humanizer 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/jialinyyzz/humanizer/resolve/main/assets/banner-en.png",
@@ -6811,7 +6811,7 @@
         {
           "title": "Lightricks/LTX-2.5",
           "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-10-10",
+          "date": "2026-10-19",
           "source": "HuggingFace",
           "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -6850,7 +6850,7 @@
         {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "date": "2026-10-10",
+          "date": "2026-10-19",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
