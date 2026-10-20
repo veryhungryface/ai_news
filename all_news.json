@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-10-21",
-      "update_time": "2026-10-20 18:49:35",
+      "update_time": "2026-10-20 23:31:54",
       "news": [
+        {
+          "title": "[10월20일] AI는 과학 연구를 얼마나 잘할까…일반 업무와 달랐던 성능 순위",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216432",
+          "date": "2026-10-21",
+          "source": "AI타임스",
+          "description": "최근 오픈AI와 앤트로픽이 AI를 활용한 수학 문제 해결과 과학적 발견을 잇달아 발표하고 있습니다. 이제는 AI가 얼마나 많은 지식을 알고 있는지를 넘어, 실제로 새로운 과학적 발견을 해낼 수 있는지가 관심사로 떠오르는 모습입니다. 이런 가운데 최근 AI 성능 평가 분야에서 주목받는 스타트업 발스 AI(Vals AI)가 과학 연구 능력을 종합적으로 측정하는 새로운 지수를 내놨습니다. 첫 평가에서는 오픈AI의 \\'GPT-6 아스트라\\'가 1위를 차지했지만, 과학 분야별 성적은 상당히 달랐습니다. 일반적인 업무 수행 능력에서 좋은 평가를",
+          "image": "https://cdn.aitimes.com/news/photo/202610/216432_220494_2335.png",
+          "is_english": false,
+          "original_title": "[10월20일] AI는 과학 연구를 얼마나 잘할까…일반 업무와 달랐던 성능 순위",
+          "original_summary": "최근 오픈AI와 앤트로픽이 AI를 활용한 수학 문제 해결과 과학적 발견을 잇달아 발표하고 있습니다. 이제는 AI가 얼마나 많은 지식을 알고 있는지를 넘어, 실제로 새로운 과학적 발견을 해낼 수 있는지가 관심사로 떠오르는 모습입니다. 이런 가운데 최근 AI 성능 평가 분야에서 주목받는 스타트업 발스 AI(Vals AI)가 과학 연구 능력을 종합적으로 측정하는 새로운 지수를 내놨습니다. 첫 평가에서는 오픈AI의 \\'GPT-6 아스트라\\'가 1위를 차지했지만, 과학 분야별 성적은 상당히 달랐습니다. 일반적인 업무 수행 능력에서 좋은 평가",
+          "summary": "최근 오픈AI와 앤트로픽이 AI를 활용한 수학 문제 해결과 과학적 발견을 잇달아 발표하고 있습니다. 이제는 AI가 얼마나 많은 지식을 알고 있는지를 넘어, 실제로 새로운 과학적 발견을 해낼 수 있는지가 관심사로 떠오르는 모습입니다. 이런 가운데 최근 AI 성능 평가 분야에서 주목받는 스타트업 발스 AI(Vals AI)가 과학 연구 능력을 종합적으로 측정하는 새로운 지수를 내놨습니다. 첫 평가에서는 오픈AI의 \\'GPT-6 아스트라\\'가 1위를 차지했지만, 과학 분야별 성적은 상당히 달랐습니다. 일반적인 업무 수행 능력에서 좋은 평가"
+        },
         {
           "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
@@ -83,19 +95,6 @@
           "category": "AI Model"
         },
         {
-          "title": "jialinyyzz/humanizer",
-          "link": "https://huggingface.co/jialinyyzz/humanizer",
-          "date": "2026-10-21",
-          "source": "HuggingFace",
-          "description": "• humanizer 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/jialinyyzz/humanizer/resolve/main/assets/banner-en.png",
-          "is_english": true,
-          "summary": "• humanizer 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "jialinyyzz/humanizer",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "OpenMOSS-Team/MOSS-Image-SFT",
           "link": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
           "date": "2026-10-21",
@@ -109,6 +108,19 @@
           "category": "AI Model"
         },
         {
+          "title": "jialinyyzz/humanizer",
+          "link": "https://huggingface.co/jialinyyzz/humanizer",
+          "date": "2026-10-21",
+          "source": "HuggingFace",
+          "description": "• humanizer 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/jialinyyzz/humanizer/resolve/main/assets/banner-en.png",
+          "is_english": true,
+          "summary": "• humanizer 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "jialinyyzz/humanizer",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Lightricks/LTX-2.5",
           "link": "https://huggingface.co/Lightricks/LTX-2.5",
           "date": "2026-10-21",
@@ -118,19 +130,6 @@
           "is_english": true,
           "summary": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Lightricks/LTX-2.5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "LiquidAI/LFM2.5-24B-A2B",
-          "link": "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B",
-          "date": "2026-10-21",
-          "source": "HuggingFace",
-          "description": "• LFM2.5-24B-A2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B/resolve/main/figures/LFM2.5-24B-A2B-benchmark.png",
-          "is_english": true,
-          "summary": "• LFM2.5-24B-A2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "LiquidAI/LFM2.5-24B-A2B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -161,6 +160,19 @@
           "category": "AI Model"
         },
         {
+          "title": "LiquidAI/LFM2.5-24B-A2B",
+          "link": "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B",
+          "date": "2026-10-21",
+          "source": "HuggingFace",
+          "description": "• LFM2.5-24B-A2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B/resolve/main/figures/LFM2.5-24B-A2B-benchmark.png",
+          "is_english": true,
+          "summary": "• LFM2.5-24B-A2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "LiquidAI/LFM2.5-24B-A2B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
           "date": "2026-10-21",
@@ -187,19 +199,6 @@
           "category": "AI Model"
         },
         {
-          "title": "datalab-to/indra-ocr",
-          "link": "https://huggingface.co/datalab-to/indra-ocr",
-          "date": "2026-10-21",
-          "source": "HuggingFace",
-          "description": "• indra-ocr 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/datalab-to/indra-ocr/resolve/main/assets/datalab-logo.png",
-          "is_english": true,
-          "summary": "• indra-ocr 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "datalab-to/indra-ocr",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nvidia/Qwen3.8-Flash-Next-FP4-Local",
           "link": "https://huggingface.co/nvidia/Qwen3.8-Flash-Next-FP4-Local",
           "date": "2026-10-21",
@@ -209,6 +208,19 @@
           "is_english": true,
           "summary": "• Qwen3.8-Flash-Next-FP4-Local 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "nvidia/Qwen3.8-Flash-Next-FP4-Local",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "datalab-to/indra-ocr",
+          "link": "https://huggingface.co/datalab-to/indra-ocr",
+          "date": "2026-10-21",
+          "source": "HuggingFace",
+          "description": "• indra-ocr 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/datalab-to/indra-ocr/resolve/main/assets/datalab-logo.png",
+          "is_english": true,
+          "summary": "• indra-ocr 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "datalab-to/indra-ocr",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,6 +251,19 @@
           "category": "AI Model"
         },
         {
+          "title": "facebook/sam3",
+          "link": "https://huggingface.co/facebook/sam3",
+          "date": "2026-10-21",
+          "source": "HuggingFace",
+          "description": "• sam3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• sam3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "facebook/sam3",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Qwen/Qwen-Image-2.1-Turbo",
           "link": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
           "date": "2026-10-21",
@@ -250,26 +275,85 @@
           "translated_title": "Qwen/Qwen-Image-2.1-Turbo",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "baidu/Unlimited-OCR",
-          "link": "https://huggingface.co/baidu/Unlimited-OCR",
-          "date": "2026-10-21",
-          "source": "HuggingFace",
-          "description": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/baidu/Unlimited-OCR/resolve/main/assets/baidu.png",
-          "is_english": true,
-          "summary": "• Unlimited-OCR 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "baidu/Unlimited-OCR",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-10-20",
-      "update_time": "2026-10-20 18:49:35",
+      "update_time": "2026-10-20 23:31:54",
       "news": [
+        {
+          "title": "OpenAI acquires Orchestra Bio",
+          "link": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+          "date": "2026-10-20",
+          "source": "OpenAI",
+          "description": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+          "image": null,
+          "is_english": true,
+          "original_title": "OpenAI acquires Orchestra Bio",
+          "original_summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments.",
+          "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treatments."
+        },
+        {
+          "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+          "link": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+          "date": "2026-10-20",
+          "source": "TechCrunch",
+          "description": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2282033342.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+          "original_summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge. ",
+          "summary": "The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge. "
+        },
+        {
+          "title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+          "link": "https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/",
+          "date": "2026-10-20",
+          "source": "TechCrunch",
+          "description": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/11/clem-delangue.png?resize=1200,789",
+          "is_english": true,
+          "original_title": "Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate",
+          "original_summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate.",
+          "summary": "Before you share the Netflix documentary \"AI Gone Rogue\" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went \"full doomer mode\" and isn't accurate."
+        },
+        {
+          "title": "Anthropic’s cloud partnerships are getting messy",
+          "link": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy/",
+          "date": "2026-10-20",
+          "source": "TechCrunch",
+          "description": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2295579000.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Anthropic’s cloud partnerships are getting messy",
+          "original_summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+          "summary": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO."
+        },
+        {
+          "title": "SpaceX’s AI business is beating expectations",
+          "link": "https://techcrunch.com/2026/10/20/spacexs-ai-business-is-beating-expectations/",
+          "date": "2026-10-20",
+          "source": "TechCrunch",
+          "description": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-20-at-2.40.46-PM.png?resize=1130,1200",
+          "is_english": true,
+          "original_title": "SpaceX’s AI business is beating expectations",
+          "original_summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine. ",
+          "summary": "SpaceX hit profitably in the third-quarter, with net income of $4.4 billion. AI was the engine. "
+        },
+        {
+          "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+          "link": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business/",
+          "date": "2026-10-20",
+          "source": "TechCrunch",
+          "description": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/pills-GettyImages-157287767.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+          "original_summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results. ",
+          "summary": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results. "
+        },
         {
           "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
           "link": "https://openai.com/index/ted-taylor-restaurant",
@@ -4043,7 +4127,7 @@
         {
           "title": "facebook/sam3",
           "link": "https://huggingface.co/facebook/sam3",
-          "date": "2026-10-19",
+          "date": "2026-10-21",
           "source": "HuggingFace",
           "description": "• sam3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -7465,7 +7549,7 @@
         {
           "title": "google/embeddinggemma-2",
           "link": "https://huggingface.co/google/embeddinggemma-2",
-          "date": "2026-10-12",
+          "date": "2026-10-21",
           "source": "HuggingFace",
           "description": "• embeddinggemma-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -7478,7 +7562,7 @@
         {
           "title": "jialinyyzz/humanizer",
           "link": "https://huggingface.co/jialinyyzz/humanizer",
-          "date": "2026-10-12",
+          "date": "2026-10-21",
           "source": "HuggingFace",
           "description": "• humanizer 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/jialinyyzz/humanizer/resolve/main/assets/banner-en.png",
@@ -7517,7 +7601,7 @@
         {
           "title": "Qwen/Qwen-Image-2.1-Turbo",
           "link": "https://huggingface.co/Qwen/Qwen-Image-2.1-Turbo",
-          "date": "2026-10-12",
+          "date": "2026-10-21",
           "source": "HuggingFace",
           "description": "• Qwen-Image-2.1-Turbo 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://qianwen-res.oss-cn-beijing.aliyuncs.com/Qwen-Image/image2.1/logo.png",
@@ -7530,7 +7614,7 @@
         {
           "title": "Lightricks/LTX-2.5",
           "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-10-12",
+          "date": "2026-10-21",
           "source": "HuggingFace",
           "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -7543,7 +7627,7 @@
         {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "date": "2026-10-12",
+          "date": "2026-10-21",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
