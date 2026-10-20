@@ -2,8 +2,92 @@
   "dates": [
     {
       "date": "2026-10-20",
-      "update_time": "2026-10-19 21:51:33",
+      "update_time": "2026-10-20 02:33:36",
       "news": [
+        {
+          "title": "[테크스냅] KT, 'K-PATH'서 AI 스타트업 협업 공개",
+          "link": "https://www.yna.co.kr/view/AKR20261020073900017",
+          "date": "2026-10-20",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 박형빈 기자 = KT[030200]가 AI 스타트업과의 협력을 확대하고 의료 분야에서도 전문기업과 공동 사업 발굴에 나서는 등...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/20/AKR20261020073900017_03_i_P2.jpg",
+          "is_english": true,
+          "original_title": "[테크스냅] KT, 'K-PATH'서 AI 스타트업 협업 공개",
+          "original_summary": "(서울=연합뉴스) 박형빈 기자 = KT[030200]가 AI 스타트업과의 협력을 확대하고 의료 분야에서도 전문기업과 공동 사업 발굴에 나서는 등...",
+          "summary": "(서울=연합뉴스) 박형빈 기자 = KT[030200]가 AI 스타트업과의 협력을 확대하고 의료 분야에서도 전문기업과 공동 사업 발굴에 나서는 등..."
+        },
+        {
+          "title": "[AI리더의 서가] 다중 에이전트 시스템을 위한 컨텍스트 엔지니어링",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216342",
+          "date": "2026-10-20",
+          "source": "AI타임스",
+          "description": "다중 에이전트 시스템을 위한 컨텍스트 엔지니어링데니스 마그다 | 제이펍2026년 9월 10일추천이유저자가 프롬프트 수정의 한계를 넘어 투명한 추론과 맥락 설계를 통해 AI의 예측 불가능성을 신뢰성으로 변환하는 방법을 제시합니다. 독자는 의미 청사진부터 다중 에이전트 오케스트레이션, 안전장치 구현까지 완전히 작동하는 컨텍스트 엔진을 구축하는 실습 여정을 거치게 됩니다.상세보기 AI 기능 하나를 붙일 때마다 저장소가 하나씩 늘어나는 팀이 적지 않다. 검색엔진을 따로, 벡터 저장소를 따로, 메시지 큐를 또 따로 들이다 보면 운영해야 할",
+          "image": "https://cdn.aitimes.com/news/photo/202610/216342_220384_4133.jpg",
+          "is_english": false,
+          "original_title": "[AI리더의 서가] 다중 에이전트 시스템을 위한 컨텍스트 엔지니어링",
+          "original_summary": "다중 에이전트 시스템을 위한 컨텍스트 엔지니어링데니스 마그다 | 제이펍2026년 9월 10일추천이유저자가 프롬프트 수정의 한계를 넘어 투명한 추론과 맥락 설계를 통해 AI의 예측 불가능성을 신뢰성으로 변환하는 방법을 제시합니다. 독자는 의미 청사진부터 다중 에이전트 오케스트레이션, 안전장치 구현까지 완전히 작동하는 컨텍스트 엔진을 구축하는 실습 여정을 거치게 됩니다.상세보기 AI 기능 하나를 붙일 때마다 저장소가 하나씩 늘어나는 팀이 적지 않다. 검색엔진을 따로, 벡터 저장소를 따로, 메시지 큐를 또 따로 들이다 보면 운영해야 할",
+          "summary": "다중 에이전트 시스템을 위한 컨텍스트 엔지니어링데니스 마그다 | 제이펍2026년 9월 10일추천이유저자가 프롬프트 수정의 한계를 넘어 투명한 추론과 맥락 설계를 통해 AI의 예측 불가능성을 신뢰성으로 변환하는 방법을 제시합니다. 독자는 의미 청사진부터 다중 에이전트 오케스트레이션, 안전장치 구현까지 완전히 작동하는 컨텍스트 엔진을 구축하는 실습 여정을 거치게 됩니다.상세보기 AI 기능 하나를 붙일 때마다 저장소가 하나씩 늘어나는 팀이 적지 않다. 검색엔진을 따로, 벡터 저장소를 따로, 메시지 큐를 또 따로 들이다 보면 운영해야 할"
+        },
+        {
+          "title": "[10월19일] 뇌 읽는 AI, 공상과학을 현실로 이끄는 기술들",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216396",
+          "date": "2026-10-20",
+          "source": "AI타임스",
+          "description": "사람의 뇌와 AI를 연결하자는 이야기는 오래됐습니다. \\'특이점이 온다(The Singularity Is Near)\\'의 저자 레이 커즈와일은 뇌를 디지털 지능과 연결해 사고 능력을 확장하는 미래를 예견했습니다. 일론 머스크도 인간이 AI에 뒤처지지 않도록 뇌와 컴퓨터를 연결해야 한다는 구상으로 뉴럴링크를 설립했습니다. 하지만 뇌와 AI를 연결해 인간의 지능을 확장한다는 구상은 아직 공상과학에 가까운 이야기로 여겨집니다.최근 이 오래된 전망을 다시 꺼낸 글이 나왔습니다. 기업가이자 투자자인 사투르닌 퍼그넷이 공개한 에세이 ‘페이즈 록(",
+          "image": "https://cdn.aitimes.com/news/photo/202610/216396_220458_84.jpeg",
+          "is_english": false,
+          "original_title": "[10월19일] 뇌 읽는 AI, 공상과학을 현실로 이끄는 기술들",
+          "original_summary": "사람의 뇌와 AI를 연결하자는 이야기는 오래됐습니다. \\'특이점이 온다(The Singularity Is Near)\\'의 저자 레이 커즈와일은 뇌를 디지털 지능과 연결해 사고 능력을 확장하는 미래를 예견했습니다. 일론 머스크도 인간이 AI에 뒤처지지 않도록 뇌와 컴퓨터를 연결해야 한다는 구상으로 뉴럴링크를 설립했습니다. 하지만 뇌와 AI를 연결해 인간의 지능을 확장한다는 구상은 아직 공상과학에 가까운 이야기로 여겨집니다.최근 이 오래된 전망을 다시 꺼낸 글이 나왔습니다. 기업가이자 투자자인 사투르닌 퍼그넷이 공개한 에세이 ‘페이즈 ",
+          "summary": "사람의 뇌와 AI를 연결하자는 이야기는 오래됐습니다. \\'특이점이 온다(The Singularity Is Near)\\'의 저자 레이 커즈와일은 뇌를 디지털 지능과 연결해 사고 능력을 확장하는 미래를 예견했습니다. 일론 머스크도 인간이 AI에 뒤처지지 않도록 뇌와 컴퓨터를 연결해야 한다는 구상으로 뉴럴링크를 설립했습니다. 하지만 뇌와 AI를 연결해 인간의 지능을 확장한다는 구상은 아직 공상과학에 가까운 이야기로 여겨집니다.최근 이 오래된 전망을 다시 꺼낸 글이 나왔습니다. 기업가이자 투자자인 사투르닌 퍼그넷이 공개한 에세이 ‘페이즈 "
+        },
+        {
+          "title": "머스크 “미국 모든 어린이에게 스페이스X 주식 1주씩”…14조원 규모",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216418",
+          "date": "2026-10-20",
+          "source": "AI타임스",
+          "description": "일론 머스크 CEO가 내년 미국의 모든 어린이에게 자신이 보유한 스페이스X 주식을 1주씩 나눠주겠다고 약속했다. 현재 주가로 약 105억달러(약 14조원) 규모다. 앤트로픽이 회사 지분 5%를 공익 기금에 배정하겠다고 발표하자, 대중에게 직접 주식을 나눠주겠다고 나선 것이다.머스크는 19일(현지시간) X를 통해 “내년에는 미국에 있는 모든 어린이에게 내가 보유한 스페이스X 주식 1주씩을 나눠주겠다”며 “앞으로 있을 많은 일의 시작일 뿐”이라고 밝혔다. 이 글은 게시 13시간 만에 좋아요 48만개를 넘겼으며, 댓글도 3만1000개나",
+          "image": "https://cdn.aitimes.com/news/photo/202610/216418_220490_4258.png",
+          "is_english": false,
+          "original_title": "머스크 “미국 모든 어린이에게 스페이스X 주식 1주씩”…14조원 규모",
+          "original_summary": "일론 머스크 CEO가 내년 미국의 모든 어린이에게 자신이 보유한 스페이스X 주식을 1주씩 나눠주겠다고 약속했다. 현재 주가로 약 105억달러(약 14조원) 규모다. 앤트로픽이 회사 지분 5%를 공익 기금에 배정하겠다고 발표하자, 대중에게 직접 주식을 나눠주겠다고 나선 것이다.머스크는 19일(현지시간) X를 통해 “내년에는 미국에 있는 모든 어린이에게 내가 보유한 스페이스X 주식 1주씩을 나눠주겠다”며 “앞으로 있을 많은 일의 시작일 뿐”이라고 밝혔다. 이 글은 게시 13시간 만에 좋아요 48만개를 넘겼으며, 댓글도 3만1000개나",
+          "summary": "일론 머스크 CEO가 내년 미국의 모든 어린이에게 자신이 보유한 스페이스X 주식을 1주씩 나눠주겠다고 약속했다. 현재 주가로 약 105억달러(약 14조원) 규모다. 앤트로픽이 회사 지분 5%를 공익 기금에 배정하겠다고 발표하자, 대중에게 직접 주식을 나눠주겠다고 나선 것이다.머스크는 19일(현지시간) X를 통해 “내년에는 미국에 있는 모든 어린이에게 내가 보유한 스페이스X 주식 1주씩을 나눠주겠다”며 “앞으로 있을 많은 일의 시작일 뿐”이라고 밝혔다. 이 글은 게시 13시간 만에 좋아요 48만개를 넘겼으며, 댓글도 3만1000개나"
+        },
+        {
+          "title": "서피스 랩톱 울트라 리뷰 : 몬스터급 AI 성능에 몬스터급 가격",
+          "link": "https://www.itworld.co.kr/article/4236871/%ec%84%9c%ed%94%bc%ec%8a%a4-%eb%9e%a9%ed%86%b1-%ec%9a%b8%ed%8a%b8%eb%9d%bc-%eb%a6%ac%eb%b7%b0-%eb%aa%ac%ec%8a%a4%ed%84%b0%ea%b8%89-ai-%ec%84%b1%eb%8a%a5%ec%97%90-%eb%aa%ac%ec%8a%a4%ed%84%b0%ea%b8%89.html",
+          "date": "2026-10-20",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n마이크로소프트의 서피스 랩톱 울트라와 새로운 엔비디아의 RTX 스파크 칩은 많은 이가 새로운 생산성의 축이라 부르는 AI를 구현한다. 그와 함께 오래된 익숙한 감정이 되살아난다. 뒤처짐에 대한 두려움, 이른바 FOMO다.\n\n\n\n수십 년간 방정식은 단순했다. 빠른 CPU는 애플리케이션 실행 속도를 높이고, 빠른 GPU는 PC 게임의 프레임 레이트를 끌어올린다. 이제 AI가 등장하면서 메모리가 중요해졌다. 서피스 랩톱 울트라를 구동하는 엔비디아 스파크 N1X 칩 내부에서 Arm CPU와 강력한 RTX GPU는 메모리를 공유하며, 메모리가 많을수록 더 강력한 AI 모델을 로드할 수 있다.\n\n\n\n리뷰 후반부는 “게이밍 노트북이 이미 존재하는데 왜 서피스 랩톱 울트라가 필요한가?”라는 질문을 탐구하는 기회가 됐다. 이 새로운 카테고리의 기기를 둘러싸고 찬반 양론이 공존하는 만큼, 충분히 짚어볼 가치가 있는 질문이다.\n\n\n\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/10/4236871-0-70090500-1792458251-3258665-0-34946400-1792175846-Microsoft-Surface-Laptop-Ultra-primary-1.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "서피스 랩톱 울트라 리뷰 : 몬스터급 AI 성능에 몬스터급 가격",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n마이크로소프트의 서피스 랩톱 울트라와 새로운 엔비디아의 RTX 스파크 칩은 많은 이가 새로운 생산성의 축이라 부르는 AI를 구현한다. 그와 함께 오래된 익숙한 감정이 되살아난다. 뒤처짐에 대한 두려움, 이른바 FOMO다.\n\n\n\n수십 년간 방정식은 단순했다. 빠른 CPU는 애플리케이션 실행 속도를 높이고, 빠른 GPU는 PC 게임의 프레임 레이트를 끌어올린다. 이제 AI가 등장하면서 메모리가 중요해졌다. 서피스 랩톱 울트라를 구동하는 엔비디아 스파크 N1X 칩 내부에서 Arm CPU와 강력한 ",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n마이크로소프트의 서피스 랩톱 울트라와 새로운 엔비디아의 RTX 스파크 칩은 많은 이가 새로운 생산성의 축이라 부르는 AI를 구현한다. 그와 함께 오래된 익숙한 감정이 되살아난다. 뒤처짐에 대한 두려움, 이른바 FOMO다.\n\n\n\n수십 년간 방정식은 단순했다. 빠른 CPU는 애플리케이션 실행 속도를 높이고, 빠른 GPU는 PC 게임의 프레임 레이트를 끌어올린다. 이제 AI가 등장하면서 메모리가 중요해졌다. 서피스 랩톱 울트라를 구동하는 엔비디아 스파크 N1X 칩 내부에서 Arm CPU와 강력한 "
+        },
+        {
+          "title": "섀도 AI에 4중 방어선을 쳐라…기업 보안을 뚫는 것은 ‘미승인 AI’",
+          "link": "https://www.itworld.co.kr/article/4237372/%ec%84%80%eb%8f%84-ai%ec%97%90-4%ec%a4%91-%eb%b0%a9%ec%96%b4%ec%84%a0%ec%9d%84-%ec%b3%90%eb%9d%bc-%ea%b8%b0%ec%97%85-%eb%b3%b4%ec%95%88%ec%9d%84-%eb%9a%ab%eb%8a%94-%ea%b2%83%ec%9d%80-%eb%af%b8.html",
+          "date": "2026-10-20",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n옛날이라 할 만한 작년만 해도, 승인받지 않은 AI 도구를 쓰는 직원이 민감한 데이터를 복사해 붙여넣으면 AI 기업의 학습 데이터 세트에 흘러 들어갈 수 있는 정도였다.\n\n\n\n오늘날에는 승인받지 않은 AI가 직원이 명시적으로 요청하지 않았는데도 직원을 대신해 다른 기업의 시스템에 침입할 수 있다.\n\n\n\n보안 테스트를 거치고 있는 미공개 최신 프런티어 모델만 가리키는 말이 아니다. 클로드, 챗GPT, 제미나이 모두 질문에 답하고 이메일 작성을 돕는 단순한 챗봇에서 진화했다. 이제 에이전틱 기능을 갖추고 사용자를 대신해 복잡한 작업을 수행할 수 있다.\n\n\n\n실제로 수행하고 있으며, 때로는 위험한 결과로 이어진다.\n\n\n\n8월 호주 ABC 뉴스는 AI 에이전트에 헬스장 수업 등록을 맡겼다는, 앤드루라는 이름만 공개된 남성을 인터뷰했다. AI 에이전트는 헬스장 시스템에 침입해 다른 사람의 대기자 명단 예약을 삭제했다.\n\n\n\n이때 사용된 AI는 앤트로픽",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/10/4237372-0-83952600-1792456187-insider-threat-shadow-worker-laptop.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "섀도 AI에 4중 방어선을 쳐라…기업 보안을 뚫는 것은 ‘미승인 AI’",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n옛날이라 할 만한 작년만 해도, 승인받지 않은 AI 도구를 쓰는 직원이 민감한 데이터를 복사해 붙여넣으면 AI 기업의 학습 데이터 세트에 흘러 들어갈 수 있는 정도였다.\n\n\n\n오늘날에는 승인받지 않은 AI가 직원이 명시적으로 요청하지 않았는데도 직원을 대신해 다른 기업의 시스템에 침입할 수 있다.\n\n\n\n보안 테스트를 거치고 있는 미공개 최신 프런티어 모델만 가리키는 말이 아니다. 클로드, 챗GPT, 제미나이 모두 질문에 답하고 이메일 작성을 돕는 단순한 챗봇에서 진화했다. 이제 에이전틱 기능",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n옛날이라 할 만한 작년만 해도, 승인받지 않은 AI 도구를 쓰는 직원이 민감한 데이터를 복사해 붙여넣으면 AI 기업의 학습 데이터 세트에 흘러 들어갈 수 있는 정도였다.\n\n\n\n오늘날에는 승인받지 않은 AI가 직원이 명시적으로 요청하지 않았는데도 직원을 대신해 다른 기업의 시스템에 침입할 수 있다.\n\n\n\n보안 테스트를 거치고 있는 미공개 최신 프런티어 모델만 가리키는 말이 아니다. 클로드, 챗GPT, 제미나이 모두 질문에 답하고 이메일 작성을 돕는 단순한 챗봇에서 진화했다. 이제 에이전틱 기능"
+        },
+        {
+          "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+          "link": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
+          "date": "2026-10-20",
+          "source": "TechCrunch",
+          "description": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_1933.jpg?resize=1200,900",
+          "is_english": true,
+          "original_title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
+          "original_summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands.",
+          "summary": "Mayor Zohran Mamdani said Monday night that New Yorkers must resist the narrative that an AI takeover is inevitable and demand regulations that protect the public and put power back in their hands."
+        },
         {
           "title": "미국, 연방기관서 딥시크 퇴출…기반 기술 활용 외부 서비스도 포함",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216417",
@@ -66,19 +150,6 @@
           "category": "AI Model"
         },
         {
-          "title": "openbmb/MiniCPM-V-4.7-35B-A3B",
-          "link": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
-          "date": "2026-10-20",
-          "source": "HuggingFace",
-          "description": "• MiniCPM-V-4.7-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
-          "is_english": true,
-          "summary": "• MiniCPM-V-4.7-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "openbmb/MiniCPM-V-4.7-35B-A3B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "black-forest-labs/flux-3-image-klein-comfy",
           "link": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
           "date": "2026-10-20",
@@ -88,6 +159,19 @@
           "is_english": true,
           "summary": "• flux-3-image-klein-comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "black-forest-labs/flux-3-image-klein-comfy",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "openbmb/MiniCPM-V-4.7-35B-A3B",
+          "link": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
+          "date": "2026-10-20",
+          "source": "HuggingFace",
+          "description": "• MiniCPM-V-4.7-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• MiniCPM-V-4.7-35B-A3B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "openbmb/MiniCPM-V-4.7-35B-A3B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -261,19 +345,6 @@
           "category": "AI Model"
         },
         {
-          "title": "openbmb/MiniCPM-V-4.7-1B",
-          "link": "https://huggingface.co/openbmb/MiniCPM-V-4.7-1B",
-          "date": "2026-10-20",
-          "source": "HuggingFace",
-          "description": "• MiniCPM-V-4.7-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• MiniCPM-V-4.7-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "openbmb/MiniCPM-V-4.7-1B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "datalab-to/indra-ocr",
           "link": "https://huggingface.co/datalab-to/indra-ocr",
           "date": "2026-10-20",
@@ -311,13 +382,98 @@
           "translated_title": "Comfy-Org/MOSS-Image",
           "category_keyword": "AI Model",
           "category": "AI Model"
+        },
+        {
+          "title": "openbmb/MiniCPM-V-4.7-1B",
+          "link": "https://huggingface.co/openbmb/MiniCPM-V-4.7-1B",
+          "date": "2026-10-20",
+          "source": "HuggingFace",
+          "description": "• MiniCPM-V-4.7-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• MiniCPM-V-4.7-1B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "openbmb/MiniCPM-V-4.7-1B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-10-19",
-      "update_time": "2026-10-19 21:51:33",
+      "update_time": "2026-10-20 02:33:36",
       "news": [
+        {
+          "title": "떠난 직원의 에이전트는 누구 몫인가…책임은 시스템에 있다",
+          "link": "https://www.itworld.co.kr/article/4237360/%eb%96%a0%eb%82%9c-%ec%a7%81%ec%9b%90%ec%9d%98-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%eb%8a%94-%eb%88%84%ea%b5%ac-%eb%aa%ab%ec%9d%b8%ea%b0%80%ec%b1%85%ec%9e%84%ec%9d%80-%ec%8b%9c%ec%8a%a4.html",
+          "date": "2026-10-19",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n엔터프라이즈 소프트웨어의 역사 대부분에서 책임 소재는 비교적 이해하기 쉬웠다. 사람이 로그인하고, 사람에게 일련의 권한이 있으며, 사람이 행동을 실행하는 구조였다. 문제가 생기면 대개 그 지점부터 거꾸로 추적하면 됐다.\n\n\n\n에이전틱 AI가 상황을 바꾸고 있다. 사람에게 무엇을 해야 할지 제안하는 시스템에서, 그 일을 직접 수행하는 시스템으로 넘어가고 있기 때문이다. 에이전트는 도구에 접근하고, 다른 시스템을 호출하며, 여러 단계에 걸쳐 의사결정을 내리고, 사람이 모든 단계를 승인하지 않아도 점점 독자적으로 작동한다. 물론 자율성의 핵심이 바로 여기에 있다. 결정마다 사람이 곁에서 지켜봐야 하는 시스템은 자율적이라고 말하기 어렵다.\n\n\n\n그러나 넘겨주는 행동이 많아질수록, 겉보기에는 단순한 질문 하나가 더욱 중요해진다. 에이전트가 무언가를 했을 때, 실행 주체는 누구인가?\n\n\n\n철학적인 질문이 아니라 운영상의 질문이다. 에이전트는 누구의 권한",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/10/4237360-0-21690900-1792454068-shutterstock_1817934503-100962958-orig.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "떠난 직원의 에이전트는 누구 몫인가…책임은 시스템에 있다",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n엔터프라이즈 소프트웨어의 역사 대부분에서 책임 소재는 비교적 이해하기 쉬웠다. 사람이 로그인하고, 사람에게 일련의 권한이 있으며, 사람이 행동을 실행하는 구조였다. 문제가 생기면 대개 그 지점부터 거꾸로 추적하면 됐다.\n\n\n\n에이전틱 AI가 상황을 바꾸고 있다. 사람에게 무엇을 해야 할지 제안하는 시스템에서, 그 일을 직접 수행하는 시스템으로 넘어가고 있기 때문이다. 에이전트는 도구에 접근하고, 다른 시스템을 호출하며, 여러 단계에 걸쳐 의사결정을 내리고, 사람이 모든 단계를 승인하지 않아도",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n엔터프라이즈 소프트웨어의 역사 대부분에서 책임 소재는 비교적 이해하기 쉬웠다. 사람이 로그인하고, 사람에게 일련의 권한이 있으며, 사람이 행동을 실행하는 구조였다. 문제가 생기면 대개 그 지점부터 거꾸로 추적하면 됐다.\n\n\n\n에이전틱 AI가 상황을 바꾸고 있다. 사람에게 무엇을 해야 할지 제안하는 시스템에서, 그 일을 직접 수행하는 시스템으로 넘어가고 있기 때문이다. 에이전트는 도구에 접근하고, 다른 시스템을 호출하며, 여러 단계에 걸쳐 의사결정을 내리고, 사람이 모든 단계를 승인하지 않아도"
+        },
+        {
+          "title": "AI 웜이 우리 집 오븐까지 장악할까?…IoT 봇넷, 위협 수준 진단",
+          "link": "https://www.itworld.co.kr/article/4237349/ai-%ec%9b%9c%ec%9d%b4-%ec%9a%b0%eb%a6%ac-%ec%a7%91-%ec%98%a4%eb%b8%90%ea%b9%8c%ec%a7%80-%ec%9e%a5%ec%95%85%ed%95%a0%ea%b9%8c-iot-%eb%b4%87%eb%84%b7-%ec%9c%84%ed%98%91-%ec%88%98%ec%a4%80-%ec%a7%84.html",
+          "date": "2026-10-19",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n스마트 오븐, 세탁기, TV 박스의 스마트 기능을 깊이 생각해 본 사용자는 많지 않을 것이다. 하지만 앤트로픽은 이런 사물인터넷 기기가 AI의 악용에 취약하다고 판단했다.\n\n\n\n그 방법은 스스로 복제하는 ‘AI 웜’이다.\n\n\n\n앤트로픽은 지난주 AI가 저사양 스마트 기기로 스스로 퍼져 나가도록 하는 일련의 실험을 정리한 보고서를 공개했다. 연구팀은 소규모 모델이 취약한 기기를 찾아내 설정하고 모델 가중치(모델이 데이터를 처리할 때 쓰는 매개변수)를 설치한 뒤, 같은 과정을 반복하며 확산하는 일이 얼마나 쉽게 이뤄지는지 살폈다. 이렇게 구성된 봇넷과 봇넷의 집단 연산 능력은 AI 작업에 활용될 수 있다. 사람의 감독 없이 악성코드가 끊임없이 복제되는 고전적인 컴퓨터 웜과 같은 방식이다.\n\n\n\n(소규모 모델이란 무엇일까? AI는 말하자면 크기가 다양하다. 사용자에게 가장 친숙한 모델은 클로드, 챗GPT, 제미나이 등 대규모 언어 모델 계열이다. ",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/10/4237349-0-38910300-1792453671-3263046-0-30819900-1792409433-pexels-artbovich-6969989.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "AI 웜이 우리 집 오븐까지 장악할까?…IoT 봇넷, 위협 수준 진단",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n스마트 오븐, 세탁기, TV 박스의 스마트 기능을 깊이 생각해 본 사용자는 많지 않을 것이다. 하지만 앤트로픽은 이런 사물인터넷 기기가 AI의 악용에 취약하다고 판단했다.\n\n\n\n그 방법은 스스로 복제하는 ‘AI 웜’이다.\n\n\n\n앤트로픽은 지난주 AI가 저사양 스마트 기기로 스스로 퍼져 나가도록 하는 일련의 실험을 정리한 보고서를 공개했다. 연구팀은 소규모 모델이 취약한 기기를 찾아내 설정하고 모델 가중치(모델이 데이터를 처리할 때 쓰는 매개변수)를 설치한 뒤, 같은 과정을 반복하며 확산하는 ",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n스마트 오븐, 세탁기, TV 박스의 스마트 기능을 깊이 생각해 본 사용자는 많지 않을 것이다. 하지만 앤트로픽은 이런 사물인터넷 기기가 AI의 악용에 취약하다고 판단했다.\n\n\n\n그 방법은 스스로 복제하는 ‘AI 웜’이다.\n\n\n\n앤트로픽은 지난주 AI가 저사양 스마트 기기로 스스로 퍼져 나가도록 하는 일련의 실험을 정리한 보고서를 공개했다. 연구팀은 소규모 모델이 취약한 기기를 찾아내 설정하고 모델 가중치(모델이 데이터를 처리할 때 쓰는 매개변수)를 설치한 뒤, 같은 과정을 반복하며 확산하는 "
+        },
+        {
+          "title": "Advancing coding in low‑resource programming languages",
+          "link": "https://openai.com/index/low-resource-programming-languages",
+          "date": "2026-10-19",
+          "source": "OpenAI",
+          "description": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Advancing coding in low‑resource programming languages",
+          "original_summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+          "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration."
+        },
+        {
+          "title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+          "link": "https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/",
+          "date": "2026-10-19",
+          "source": "TechCrunch",
+          "description": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2236544023.jpeg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Nscale and Anthropic are reportedly in talks for yet another $45B compute deal",
+          "original_summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year. ",
+          "summary": "If the deal goes through, it would be the latest in a long string of giant compute deals Anthropic has struck over the past year. "
+        },
+        {
+          "title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+          "link": "https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/",
+          "date": "2026-10-19",
+          "source": "TechCrunch",
+          "description": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/IMG_4993.jpeg?resize=1200,900",
+          "is_english": true,
+          "original_title": "Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says",
+          "original_summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology. ",
+          "summary": "The idea of embedded evaluators — in which supposedly \"neutral\" third-party observers are placed inside AI organizations — has been popularized over the last several months, as AI labs grapple with a rash of safety incidents that have spurred concerns over the potential harms of their technology. "
+        },
+        {
+          "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+          "link": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/",
+          "date": "2026-10-19",
+          "source": "TechCrunch",
+          "description": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Networked-AI-swarm-with-glowing-nodes.png?resize=1200,600",
+          "is_english": true,
+          "original_title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
+          "original_summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
+          "summary": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic."
+        },
         {
           "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
           "link": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool/",
