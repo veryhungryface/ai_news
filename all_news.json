@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-10-22",
-      "update_time": "2026-10-21 23:47:59",
+      "update_time": "2026-10-22 02:23:27",
       "news": [
+        {
+          "title": "[AI리더의 서가] 그냥 Postgres를 쓰세요",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216345",
+          "date": "2026-10-22",
+          "source": "AI타임스",
+          "description": "그냥 Postgres를 쓰세요이매뉴얼 트러머 | 에이콘출판사2026년 8월 20일추천이유이 책은 PostgreSQL이 관계형 데이터베이스를 넘어 JSON, 벡터 검색, 시계열 데이터 등 현대 애플리케이션의 다양한 워크로드를 감당할 수 있음을 실제 예제로 보여줍니다. 개발자가 기술 스택을 늘리기 전에 Postgres의 가능성을 먼저 확인하고 실무에서 효과적으로 활용하도록 돕습니다.상세보기 AI 기능 하나를 붙일 때마다 저장소가 하나씩 늘어나는 팀이 적지 않다. 검색엔진을 따로, 벡터 저장소를 따로, 메시지 큐를 또 따로 들이다 보면",
+          "image": "https://cdn.aitimes.com/news/photo/202610/216345_220387_502.jpg",
+          "is_english": true,
+          "original_title": "[AI리더의 서가] 그냥 Postgres를 쓰세요",
+          "original_summary": "그냥 Postgres를 쓰세요이매뉴얼 트러머 | 에이콘출판사2026년 8월 20일추천이유이 책은 PostgreSQL이 관계형 데이터베이스를 넘어 JSON, 벡터 검색, 시계열 데이터 등 현대 애플리케이션의 다양한 워크로드를 감당할 수 있음을 실제 예제로 보여줍니다. 개발자가 기술 스택을 늘리기 전에 Postgres의 가능성을 먼저 확인하고 실무에서 효과적으로 활용하도록 돕습니다.상세보기 AI 기능 하나를 붙일 때마다 저장소가 하나씩 늘어나는 팀이 적지 않다. 검색엔진을 따로, 벡터 저장소를 따로, 메시지 큐를 또 따로 들이다 보면",
+          "summary": "그냥 Postgres를 쓰세요이매뉴얼 트러머 | 에이콘출판사2026년 8월 20일추천이유이 책은 PostgreSQL이 관계형 데이터베이스를 넘어 JSON, 벡터 검색, 시계열 데이터 등 현대 애플리케이션의 다양한 워크로드를 감당할 수 있음을 실제 예제로 보여줍니다. 개발자가 기술 스택을 늘리기 전에 Postgres의 가능성을 먼저 확인하고 실무에서 효과적으로 활용하도록 돕습니다.상세보기 AI 기능 하나를 붙일 때마다 저장소가 하나씩 늘어나는 팀이 적지 않다. 검색엔진을 따로, 벡터 저장소를 따로, 메시지 큐를 또 따로 들이다 보면"
+        },
+        {
+          "title": "AI가 먼저 찾아낸 PHP의 허점 “패치를 미루지 마라”",
+          "link": "https://www.itworld.co.kr/article/4238838/%eb%91%90-%ea%b0%80%ec%a7%80-%ec%a4%91%eb%8c%80%ed%95%9c-php-%ec%b7%a8%ec%95%bd%ec%a0%90%ec%9c%bc%eb%a1%9c-%ec%9d%b8%ed%95%b4-%ec%9b%b9-%ec%97%85%ea%b3%84%ea%b0%80-%ea%b2%bd%ea%b3%84-%ed%83%9c.html",
+          "date": "2026-10-22",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n전 세계 기업이 인터넷 상당 부분을 구동하는 널리 쓰이는 코드에서 치명적 취약점 2건이 공개된 뒤 대응에 분주하다. PHP 스크립트 언어에서 발견된 두 결함은 공격자가 인증 없이 원격 코드 실행(RCE)을 수행하도록 허용할 수 있다.\n\n\n\nPHP 재단(PHP Foundation)은 수요일 오전 영향받는 버전의 패치를 배포하고, PHP를 운영하는 기업이 즉시 패치하는 것이 필수적이라고 밝혔다. 또한 PHP-FPM, 아파치(Apache)의 mod_php, php-cgi, 프랭큰PHP(FrankenPHP), 라이트스피드(LiteSpeed) 등 웹 요청을 처리하는 모든 PHP 설치 환경이 위험하다고 설명했다. 위험도가 가장 높은 환경은 mod_php로, 인증 없는 요청만으로 애플리케이션 코드가 실행되기 전에 공격이 이뤄질 수 있다고 판단했다.\n\n\n\n취약점 공개에 대응해 네덜란드와 핀란드 등 유럽 일부 정부 웹사이트와 전 세계 다른 기업의 웹사이트가 ",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/10/4238838-0-91046000-1792635763-shutterstock_2442326513.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "AI가 먼저 찾아낸 PHP의 허점 “패치를 미루지 마라”",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n전 세계 기업이 인터넷 상당 부분을 구동하는 널리 쓰이는 코드에서 치명적 취약점 2건이 공개된 뒤 대응에 분주하다. PHP 스크립트 언어에서 발견된 두 결함은 공격자가 인증 없이 원격 코드 실행(RCE)을 수행하도록 허용할 수 있다.\n\n\n\nPHP 재단(PHP Foundation)은 수요일 오전 영향받는 버전의 패치를 배포하고, PHP를 운영하는 기업이 즉시 패치하는 것이 필수적이라고 밝혔다. 또한 PHP-FPM, 아파치(Apache)의 mod_php, php-cgi, 프랭큰PHP(Franke",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n전 세계 기업이 인터넷 상당 부분을 구동하는 널리 쓰이는 코드에서 치명적 취약점 2건이 공개된 뒤 대응에 분주하다. PHP 스크립트 언어에서 발견된 두 결함은 공격자가 인증 없이 원격 코드 실행(RCE)을 수행하도록 허용할 수 있다.\n\n\n\nPHP 재단(PHP Foundation)은 수요일 오전 영향받는 버전의 패치를 배포하고, PHP를 운영하는 기업이 즉시 패치하는 것이 필수적이라고 밝혔다. 또한 PHP-FPM, 아파치(Apache)의 mod_php, php-cgi, 프랭큰PHP(Franke"
+        },
         {
           "title": "부산시상수도사업본부, 호찌민 수도공사와 AI 기술 교류 협력",
           "link": "https://www.yna.co.kr/view/AKR20261022021400051",
@@ -140,19 +164,6 @@
           "category": "AI Model"
         },
         {
-          "title": "fishaudio/drama-3",
-          "link": "https://huggingface.co/fishaudio/drama-3",
-          "date": "2026-10-22",
-          "source": "HuggingFace",
-          "description": "• drama-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• drama-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "fishaudio/drama-3",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "black-forest-labs/flux-3-image-klein",
           "link": "https://huggingface.co/black-forest-labs/flux-3-image-klein",
           "date": "2026-10-22",
@@ -162,6 +173,19 @@
           "is_english": true,
           "summary": "• flux-3-image-klein 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "black-forest-labs/flux-3-image-klein",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "fishaudio/drama-3",
+          "link": "https://huggingface.co/fishaudio/drama-3",
+          "date": "2026-10-22",
+          "source": "HuggingFace",
+          "description": "• drama-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• drama-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "fishaudio/drama-3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -231,19 +255,6 @@
           "category": "AI Model"
         },
         {
-          "title": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
-          "link": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
-          "date": "2026-10-22",
-          "source": "HuggingFace",
-          "description": "• Qwen-Image-2.1-Uncensored-Quantized 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%A4%97_Model_Requests-Submit_Here-f59e0b?style=for-the-badge&labelColor=1f2937",
-          "is_english": true,
-          "summary": "• Qwen-Image-2.1-Uncensored-Quantized 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Comfy-Org/MOSS-Image",
           "link": "https://huggingface.co/Comfy-Org/MOSS-Image",
           "date": "2026-10-22",
@@ -253,6 +264,19 @@
           "is_english": true,
           "summary": "• MOSS-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Comfy-Org/MOSS-Image",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+          "link": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+          "date": "2026-10-22",
+          "source": "HuggingFace",
+          "description": "• Qwen-Image-2.1-Uncensored-Quantized 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%A4%97_Model_Requests-Submit_Here-f59e0b?style=for-the-badge&labelColor=1f2937",
+          "is_english": true,
+          "summary": "• Qwen-Image-2.1-Uncensored-Quantized 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -296,6 +320,19 @@
           "category": "AI Model"
         },
         {
+          "title": "RecursiveSI/flint",
+          "link": "https://huggingface.co/RecursiveSI/flint",
+          "date": "2026-10-22",
+          "source": "HuggingFace",
+          "description": "• flint 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/RecursiveSI/flint/resolve/main/assets/flint_benchmarks_nvfp4.png",
+          "is_english": true,
+          "summary": "• flint 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "RecursiveSI/flint",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "datalab-to/indra-ocr",
           "link": "https://huggingface.co/datalab-to/indra-ocr",
           "date": "2026-10-22",
@@ -322,19 +359,6 @@
           "category": "AI Model"
         },
         {
-          "title": "RecursiveSI/flint",
-          "link": "https://huggingface.co/RecursiveSI/flint",
-          "date": "2026-10-22",
-          "source": "HuggingFace",
-          "description": "• flint 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/RecursiveSI/flint/resolve/main/assets/flint_benchmarks_nvfp4.png",
-          "is_english": true,
-          "summary": "• flint 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "RecursiveSI/flint",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "LiquidAI/LFM2.5-24B-A2B",
           "link": "https://huggingface.co/LiquidAI/LFM2.5-24B-A2B",
           "date": "2026-10-22",
@@ -348,15 +372,15 @@
           "category": "AI Model"
         },
         {
-          "title": "reflection/Beam-1.0-501B-A23B",
-          "link": "https://huggingface.co/reflection/Beam-1.0-501B-A23B",
+          "title": "lodestones/Kromoss",
+          "link": "https://huggingface.co/lodestones/Kromoss",
           "date": "2026-10-22",
           "source": "HuggingFace",
-          "description": "• Beam-1.0-501B-A23B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://cdn-uploads.huggingface.co/production/uploads/620a77b7dbba8fc1fbb8bdb4/N-HiEVXlqtoniRSdFo0RG.png",
+          "description": "• Kromoss 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/lodestones/Kromoss/resolve/main/assets/cat-50steps-cfg3.webp",
           "is_english": true,
-          "summary": "• Beam-1.0-501B-A23B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "reflection/Beam-1.0-501B-A23B",
+          "summary": "• Kromoss 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "lodestones/Kromoss",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -364,8 +388,20 @@
     },
     {
       "date": "2026-10-21",
-      "update_time": "2026-10-21 23:47:56",
+      "update_time": "2026-10-22 02:23:27",
       "news": [
+        {
+          "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+          "link": "https://openai.com/index/cloudflare-cyber",
+          "date": "2026-10-21",
+          "source": "OpenAI",
+          "description": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+          "original_summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality.",
+          "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review. Its developers use Codex to build faster and improve code quality."
+        },
         {
           "title": "Democratic governance of frontier AI, part II: Empowering cyber defenders",
           "link": "https://openai.com/index/empowering-cyber-defenders",
