@@ -2,8 +2,164 @@
   "dates": [
     {
       "date": "2026-10-22",
-      "update_time": "2026-10-22 08:06:50",
+      "update_time": "2026-10-22 14:13:37",
       "news": [
+        {
+          "title": "학술 논문 읽고 코드 수정하는 자가 진화 에이전트 '스칼라이볼브' 등장",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216552",
+          "date": "2026-10-22",
+          "source": "AI타임스",
+          "description": "AI 에이전트가 학술 논문을 직접 읽고 연구 결과를 코드에 반영해 스스로 성능을 개선하는 기술이 등장했다. 기존 에이전트가 작업 실패 기록과 시행착오에 의존해 개선 방법을 찾았다면, 새로운 프레임워크는 관련 연구를 검색하고 검증된 기술을 에이전트의 작동 구조에 적용한다.캘리포니아대학교 샌타바버라 캠퍼스(UCSB)와 마이크로소프트(MS) 연구진은 최근 에이전트가 작업을 수행하는 과정에서 드러난 문제를 분석한 뒤 관련 학술 논문을 찾아 해결책을 구현하고, 실제 성능 평가를 통해 개선 효과를 검증하는 프레임워크 \\'스칼라이볼브(Schola",
+          "image": "https://cdn.aitimes.com/news/photo/202610/216552_220646_3440.png",
+          "is_english": false,
+          "original_title": "학술 논문 읽고 코드 수정하는 자가 진화 에이전트 '스칼라이볼브' 등장",
+          "original_summary": "AI 에이전트가 학술 논문을 직접 읽고 연구 결과를 코드에 반영해 스스로 성능을 개선하는 기술이 등장했다. 기존 에이전트가 작업 실패 기록과 시행착오에 의존해 개선 방법을 찾았다면, 새로운 프레임워크는 관련 연구를 검색하고 검증된 기술을 에이전트의 작동 구조에 적용한다.캘리포니아대학교 샌타바버라 캠퍼스(UCSB)와 마이크로소프트(MS) 연구진은 최근 에이전트가 작업을 수행하는 과정에서 드러난 문제를 분석한 뒤 관련 학술 논문을 찾아 해결책을 구현하고, 실제 성능 평가를 통해 개선 효과를 검증하는 프레임워크 \\'스칼라이볼브(Schol",
+          "summary": "AI 에이전트가 학술 논문을 직접 읽고 연구 결과를 코드에 반영해 스스로 성능을 개선하는 기술이 등장했다. 기존 에이전트가 작업 실패 기록과 시행착오에 의존해 개선 방법을 찾았다면, 새로운 프레임워크는 관련 연구를 검색하고 검증된 기술을 에이전트의 작동 구조에 적용한다.캘리포니아대학교 샌타바버라 캠퍼스(UCSB)와 마이크로소프트(MS) 연구진은 최근 에이전트가 작업을 수행하는 과정에서 드러난 문제를 분석한 뒤 관련 학술 논문을 찾아 해결책을 구현하고, 실제 성능 평가를 통해 개선 효과를 검증하는 프레임워크 \\'스칼라이볼브(Schol"
+        },
+        {
+          "title": "리커시브, AI 주도 개발로 완성한 온디바이스 코딩 모델 '플린트' 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216516",
+          "date": "2026-10-22",
+          "source": "AI타임스",
+          "description": "AI 스타트업 리커시브(Recursive)가 AI 자동화 연구 시스템을 활용해 개발한 오픈소스 온디바이스 코딩 모델 \\'플린트(Flint)\\'를 공개했다. 소규모 연구팀이 4개월도 안 되는 기간에 구축한 이 모델은 개인 컴퓨터에서 실행할 수 있어 개발자의 데이터 보안을 유지하면서도 빠르게 코드를 생성할 수 있다.리커시브는 21일(현지시간) 플린트를 공개하고 모델 가중치를 허깅페이스에 아파치 2.0 라이선스로 배포했다.모델은 총 400억개 매개변수로 구성됐지만, 전문가 혼합(MoE) 구조를 적용해 토큰당 25억개만 활성화한다. 연산 부담",
+          "image": "https://cdn.aitimes.com/news/photo/202610/216516_220649_418.png",
+          "is_english": false,
+          "original_title": "리커시브, AI 주도 개발로 완성한 온디바이스 코딩 모델 '플린트' 공개",
+          "original_summary": "AI 스타트업 리커시브(Recursive)가 AI 자동화 연구 시스템을 활용해 개발한 오픈소스 온디바이스 코딩 모델 \\'플린트(Flint)\\'를 공개했다. 소규모 연구팀이 4개월도 안 되는 기간에 구축한 이 모델은 개인 컴퓨터에서 실행할 수 있어 개발자의 데이터 보안을 유지하면서도 빠르게 코드를 생성할 수 있다.리커시브는 21일(현지시간) 플린트를 공개하고 모델 가중치를 허깅페이스에 아파치 2.0 라이선스로 배포했다.모델은 총 400억개 매개변수로 구성됐지만, 전문가 혼합(MoE) 구조를 적용해 토큰당 25억개만 활성화한다. 연산 ",
+          "summary": "AI 스타트업 리커시브(Recursive)가 AI 자동화 연구 시스템을 활용해 개발한 오픈소스 온디바이스 코딩 모델 \\'플린트(Flint)\\'를 공개했다. 소규모 연구팀이 4개월도 안 되는 기간에 구축한 이 모델은 개인 컴퓨터에서 실행할 수 있어 개발자의 데이터 보안을 유지하면서도 빠르게 코드를 생성할 수 있다.리커시브는 21일(현지시간) 플린트를 공개하고 모델 가중치를 허깅페이스에 아파치 2.0 라이선스로 배포했다.모델은 총 400억개 매개변수로 구성됐지만, 전문가 혼합(MoE) 구조를 적용해 토큰당 25억개만 활성화한다. 연산 "
+        },
+        {
+          "title": "엔비디아, 로봇 데이터 수집 비용 125배 낮추는 모델 '플로라' 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216528",
+          "date": "2026-10-22",
+          "source": "AI타임스",
+          "description": "엔비디아가 로봇 학습에 필요한 데이터 제작 비용을 최대 125분의 1 수준으로 낮출 수 있는 오픈 모델 제품군 \\'플로라(Flora)\\'를 공개했다. 사람과 로봇의 작업 영상을 분석해 동작과 시간, 작업 성공 여부, 실패 원인 등을 자동으로 기록하는 모델로, 고품질 데이터 확보에 드는 비용과 시간을 줄여 로봇 파운데이션 모델 개발과 물리적 AI 연구를 가속한다는 목표다.엔비디아는 20일(현지시간) 플로라를 공개하고, 모델 가중치를 허깅페이스에 배포했다.플로라는 엔비디아의 휴머노이드 로봇용 파운데이션 모델 \\'GR00T\\'를 학습하는 데 실",
+          "image": "https://cdn.aitimes.com/news/photo/202610/216528_220611_5116.jpg",
+          "is_english": false,
+          "original_title": "엔비디아, 로봇 데이터 수집 비용 125배 낮추는 모델 '플로라' 공개",
+          "original_summary": "엔비디아가 로봇 학습에 필요한 데이터 제작 비용을 최대 125분의 1 수준으로 낮출 수 있는 오픈 모델 제품군 \\'플로라(Flora)\\'를 공개했다. 사람과 로봇의 작업 영상을 분석해 동작과 시간, 작업 성공 여부, 실패 원인 등을 자동으로 기록하는 모델로, 고품질 데이터 확보에 드는 비용과 시간을 줄여 로봇 파운데이션 모델 개발과 물리적 AI 연구를 가속한다는 목표다.엔비디아는 20일(현지시간) 플로라를 공개하고, 모델 가중치를 허깅페이스에 배포했다.플로라는 엔비디아의 휴머노이드 로봇용 파운데이션 모델 \\'GR00T\\'를 학습하는",
+          "summary": "엔비디아가 로봇 학습에 필요한 데이터 제작 비용을 최대 125분의 1 수준으로 낮출 수 있는 오픈 모델 제품군 \\'플로라(Flora)\\'를 공개했다. 사람과 로봇의 작업 영상을 분석해 동작과 시간, 작업 성공 여부, 실패 원인 등을 자동으로 기록하는 모델로, 고품질 데이터 확보에 드는 비용과 시간을 줄여 로봇 파운데이션 모델 개발과 물리적 AI 연구를 가속한다는 목표다.엔비디아는 20일(현지시간) 플로라를 공개하고, 모델 가중치를 허깅페이스에 배포했다.플로라는 엔비디아의 휴머노이드 로봇용 파운데이션 모델 \\'GR00T\\'를 학습하는"
+        },
+        {
+          "title": "미스트랄, 실시간 음성 에이전트 지원 '복스트랄 3' 제품군 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216544",
+          "date": "2026-10-22",
+          "source": "AI타임스",
+          "description": "미스트랄 AI가 다국어 음성 인식과 자연스러운 음성 생성을 지원하는 새 AI 모델 제품군을 공개했다. 음성 인식부터 생성까지 아우르는 모델과 소프트웨어 개발 키트(SDK)를 함께 제공해 실시간 음성 에이전트 개발을 지원한다. 이를 통해 기업의 고객 상담과 음성 기반 업무 자동화, 대화형 서비스 구축에 필요한 개발 과정을 단순화한다는 계획이다. 미스트랄은 20일(현지시간) 음성-텍스트 변환(STT)과 텍스트-음성 변환(TTS) 모델을 결합한 새로운 음성 AI 제품군 \\'복스트랄 3(Voxtral 3)\\'을 출시했다.음성 인식부터 추론,",
+          "image": "https://cdn.aitimes.com/news/photo/202610/216544_220645_3156.png",
+          "is_english": false,
+          "original_title": "미스트랄, 실시간 음성 에이전트 지원 '복스트랄 3' 제품군 공개",
+          "original_summary": "미스트랄 AI가 다국어 음성 인식과 자연스러운 음성 생성을 지원하는 새 AI 모델 제품군을 공개했다. 음성 인식부터 생성까지 아우르는 모델과 소프트웨어 개발 키트(SDK)를 함께 제공해 실시간 음성 에이전트 개발을 지원한다. 이를 통해 기업의 고객 상담과 음성 기반 업무 자동화, 대화형 서비스 구축에 필요한 개발 과정을 단순화한다는 계획이다. 미스트랄은 20일(현지시간) 음성-텍스트 변환(STT)과 텍스트-음성 변환(TTS) 모델을 결합한 새로운 음성 AI 제품군 \\'복스트랄 3(Voxtral 3)\\'을 출시했다.음성 인식부터 추론",
+          "summary": "미스트랄 AI가 다국어 음성 인식과 자연스러운 음성 생성을 지원하는 새 AI 모델 제품군을 공개했다. 음성 인식부터 생성까지 아우르는 모델과 소프트웨어 개발 키트(SDK)를 함께 제공해 실시간 음성 에이전트 개발을 지원한다. 이를 통해 기업의 고객 상담과 음성 기반 업무 자동화, 대화형 서비스 구축에 필요한 개발 과정을 단순화한다는 계획이다. 미스트랄은 20일(현지시간) 음성-텍스트 변환(STT)과 텍스트-음성 변환(TTS) 모델을 결합한 새로운 음성 AI 제품군 \\'복스트랄 3(Voxtral 3)\\'을 출시했다.음성 인식부터 추론"
+        },
+        {
+          "title": "중국 빅테크, 엔비디아 그래픽카드 46조원 주문…첨단 AI 칩 막히자 대체품 확보",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216548",
+          "date": "2026-10-22",
+          "source": "AI타임스",
+          "description": "바이트댄스와 알리바바, 텐센트 등 중국 빅테크 기업들이 미국의 대중국 반도체 수출 규제가 이어지는 가운데 엔비디아의 신형 그래픽 카드 300만개 이상을 주문했다. 첨단 AI 칩을 확보하기 어려워지자, 상대적으로 성능이 낮지만 중국에 합법적으로 공급할 수 있는 제품으로 눈을 돌린 것이다. 다만 주문량이 엔비디아의 생산 능력을 크게 웃돌아 실제 공급 규모는 제한될 전망이다.로이터는 20일(현지시간) 정통한 소식통을 인용, 이들 기업이 엔비디아의 워크스테이션용 그래픽 카드 \\'RTX PRO 5500\\'을 총 300만개 이상 주문했다고 보도했",
+          "image": "https://cdn.aitimes.com/news/photo/202610/216548_220641_3633.jpg",
+          "is_english": false,
+          "original_title": "중국 빅테크, 엔비디아 그래픽카드 46조원 주문…첨단 AI 칩 막히자 대체품 확보",
+          "original_summary": "바이트댄스와 알리바바, 텐센트 등 중국 빅테크 기업들이 미국의 대중국 반도체 수출 규제가 이어지는 가운데 엔비디아의 신형 그래픽 카드 300만개 이상을 주문했다. 첨단 AI 칩을 확보하기 어려워지자, 상대적으로 성능이 낮지만 중국에 합법적으로 공급할 수 있는 제품으로 눈을 돌린 것이다. 다만 주문량이 엔비디아의 생산 능력을 크게 웃돌아 실제 공급 규모는 제한될 전망이다.로이터는 20일(현지시간) 정통한 소식통을 인용, 이들 기업이 엔비디아의 워크스테이션용 그래픽 카드 \\'RTX PRO 5500\\'을 총 300만개 이상 주문했다고 보",
+          "summary": "바이트댄스와 알리바바, 텐센트 등 중국 빅테크 기업들이 미국의 대중국 반도체 수출 규제가 이어지는 가운데 엔비디아의 신형 그래픽 카드 300만개 이상을 주문했다. 첨단 AI 칩을 확보하기 어려워지자, 상대적으로 성능이 낮지만 중국에 합법적으로 공급할 수 있는 제품으로 눈을 돌린 것이다. 다만 주문량이 엔비디아의 생산 능력을 크게 웃돌아 실제 공급 규모는 제한될 전망이다.로이터는 20일(현지시간) 정통한 소식통을 인용, 이들 기업이 엔비디아의 워크스테이션용 그래픽 카드 \\'RTX PRO 5500\\'을 총 300만개 이상 주문했다고 보"
+        },
+        {
+          "title": "앤트로픽, 기업용 AI 보안 분석 도구 ‘클로드 시큐리티’ 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216549",
+          "date": "2026-10-22",
+          "source": "AI타임스",
+          "description": "앤트로픽이 기업용 AI 보안 시장 공략을 위해 코드 취약점 탐지와 수정 추적을 자동화하는 보안 분석 도구를 강화했다. 일회성 검사에서 벗어나 코드 변경에 맞춰 위험 요소를 지속적으로 점검하고, 기업 환경에 맞춰 대응 우선순위를 정하는 기능을 앞세웠다. 앤트로픽은 21일(현지시간) AI 기반 코드 보안 분석 도구 ‘클로드 시큐리티(Claude Security)’의 최신 버전을 공개 베타로 출시했다.코드 변경 사항을 지속적으로 분석하고 취약점이 해결됐는지 추적하는 기능을 강화했으며, 기업별 보안 정책과 시스템 환경을 반영해 실제 위험도",
+          "image": "https://cdn.aitimes.com/news/photo/202610/216549_220643_5410.png",
+          "is_english": false,
+          "original_title": "앤트로픽, 기업용 AI 보안 분석 도구 ‘클로드 시큐리티’ 출시",
+          "original_summary": "앤트로픽이 기업용 AI 보안 시장 공략을 위해 코드 취약점 탐지와 수정 추적을 자동화하는 보안 분석 도구를 강화했다. 일회성 검사에서 벗어나 코드 변경에 맞춰 위험 요소를 지속적으로 점검하고, 기업 환경에 맞춰 대응 우선순위를 정하는 기능을 앞세웠다. 앤트로픽은 21일(현지시간) AI 기반 코드 보안 분석 도구 ‘클로드 시큐리티(Claude Security)’의 최신 버전을 공개 베타로 출시했다.코드 변경 사항을 지속적으로 분석하고 취약점이 해결됐는지 추적하는 기능을 강화했으며, 기업별 보안 정책과 시스템 환경을 반영해 실제 위험도",
+          "summary": "앤트로픽이 기업용 AI 보안 시장 공략을 위해 코드 취약점 탐지와 수정 추적을 자동화하는 보안 분석 도구를 강화했다. 일회성 검사에서 벗어나 코드 변경에 맞춰 위험 요소를 지속적으로 점검하고, 기업 환경에 맞춰 대응 우선순위를 정하는 기능을 앞세웠다. 앤트로픽은 21일(현지시간) AI 기반 코드 보안 분석 도구 ‘클로드 시큐리티(Claude Security)’의 최신 버전을 공개 베타로 출시했다.코드 변경 사항을 지속적으로 분석하고 취약점이 해결됐는지 추적하는 기능을 강화했으며, 기업별 보안 정책과 시스템 환경을 반영해 실제 위험도"
+        },
+        {
+          "title": "오픈AI, 챗GPT 광고 서비스 26개국 추가... 전 세계 89개국으로 확대",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216539",
+          "date": "2026-10-22",
+          "source": "AI타임스",
+          "description": "오픈AI가 \\'챗GPT\\' 광고 서비스를 26개국에 추가로 도입했다. 올해 초 미국에서 광고 테스트를 시작한 이후 10만곳이 넘는 광고주가 캠페인을 진행했고, 지난 8월 광고 사업의 연간 환산 매출이 10억달러(약 1조3000억원)에 도달하는 등 성장세를 보이고 있다.오픈AI는 21일(현지시간) 챗GPT 광고 서비스 제공 지역을 기존보다 26개국 늘려 전 세계 89개국으로 확대한다고 발표했다. 최근 유럽과 동남아시아, 대만으로 서비스를 확대한 데 이은 조치다.이번 확장으로 멕시코와 브라질에 이어 아르헨티나, 칠레, 콜롬비아, 페루 등",
+          "image": "https://cdn.aitimes.com/news/photo/202610/216539_220618_3147.jpg",
+          "is_english": true,
+          "original_title": "오픈AI, 챗GPT 광고 서비스 26개국 추가... 전 세계 89개국으로 확대",
+          "original_summary": "오픈AI가 \\'챗GPT\\' 광고 서비스를 26개국에 추가로 도입했다. 올해 초 미국에서 광고 테스트를 시작한 이후 10만곳이 넘는 광고주가 캠페인을 진행했고, 지난 8월 광고 사업의 연간 환산 매출이 10억달러(약 1조3000억원)에 도달하는 등 성장세를 보이고 있다.오픈AI는 21일(현지시간) 챗GPT 광고 서비스 제공 지역을 기존보다 26개국 늘려 전 세계 89개국으로 확대한다고 발표했다. 최근 유럽과 동남아시아, 대만으로 서비스를 확대한 데 이은 조치다.이번 확장으로 멕시코와 브라질에 이어 아르헨티나, 칠레, 콜롬비아, 페루 ",
+          "summary": "오픈AI가 \\'챗GPT\\' 광고 서비스를 26개국에 추가로 도입했다. 올해 초 미국에서 광고 테스트를 시작한 이후 10만곳이 넘는 광고주가 캠페인을 진행했고, 지난 8월 광고 사업의 연간 환산 매출이 10억달러(약 1조3000억원)에 도달하는 등 성장세를 보이고 있다.오픈AI는 21일(현지시간) 챗GPT 광고 서비스 제공 지역을 기존보다 26개국 늘려 전 세계 89개국으로 확대한다고 발표했다. 최근 유럽과 동남아시아, 대만으로 서비스를 확대한 데 이은 조치다.이번 확장으로 멕시코와 브라질에 이어 아르헨티나, 칠레, 콜롬비아, 페루 "
+        },
+        {
+          "title": "몸값 높이려면 AI부터…2026년 IT 채용의 새로운 기준",
+          "link": "https://www.itworld.co.kr/article/4238852/%eb%aa%b8%ea%b0%92-%eb%86%92%ec%9d%b4%eb%a0%a4%eb%a9%b4-ai%eb%b6%80%ed%84%b0-2026%eb%85%84-it-%ec%b1%84%ec%9a%a9%ec%9d%98-%ec%83%88%eb%a1%9c%ec%9a%b4-%ea%b8%b0%ec%a4%80.html",
+          "date": "2026-10-22",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n기업이 IT 이력서를 보는 눈이 까다로워지고 있지만, 적합한 역량을 둘러싼 경쟁은 여전히 치열하다. 기업은 경력과 고급 AI 역량에 프리미엄을 지불할 방침이다.\n\n\n\n글로벌 인력 서비스 기업 맨파워그룹(ManpowerGroup)의 북미 지역 총괄 사장 게르 도일은 “시장은 더 이상 기업이 몇 명을 채용하느냐가 아니라 얼마나 정밀하게 채용하느냐로 정의된다”라고 말했다.\n\n\n\n또한 도일은 많은 경우 기업이 잘못된 채용을 하느니 자리를 비워두는 쪽을 택한다고 덧붙였다.\n\n\n\n인재 컨설팅 기업 로버트 하프(Robert Half)는 2027년 연봉 가이드에서 채용 관리자, 기업 리더, 재직 근로자 2,000명 이상을 설문한 결과 AI 활용 능력과 전문성이 연봉 상승을 이끌고 있다고 밝혔다. 응답자의 72%가 관련 AI 역량에 대한 급여를 올리고 있으며, 42%는 다른 기술 역량보다 AI 관련 전문성에 더 많은 급여를 제시한다는 설명이다.\n\n\n\n현재의 ",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/10/4238852-0-66843300-1792646260-shutterstock_2420639397.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "몸값 높이려면 AI부터…2026년 IT 채용의 새로운 기준",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n기업이 IT 이력서를 보는 눈이 까다로워지고 있지만, 적합한 역량을 둘러싼 경쟁은 여전히 치열하다. 기업은 경력과 고급 AI 역량에 프리미엄을 지불할 방침이다.\n\n\n\n글로벌 인력 서비스 기업 맨파워그룹(ManpowerGroup)의 북미 지역 총괄 사장 게르 도일은 “시장은 더 이상 기업이 몇 명을 채용하느냐가 아니라 얼마나 정밀하게 채용하느냐로 정의된다”라고 말했다.\n\n\n\n또한 도일은 많은 경우 기업이 잘못된 채용을 하느니 자리를 비워두는 쪽을 택한다고 덧붙였다.\n\n\n\n인재 컨설팅 기업 로버",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n기업이 IT 이력서를 보는 눈이 까다로워지고 있지만, 적합한 역량을 둘러싼 경쟁은 여전히 치열하다. 기업은 경력과 고급 AI 역량에 프리미엄을 지불할 방침이다.\n\n\n\n글로벌 인력 서비스 기업 맨파워그룹(ManpowerGroup)의 북미 지역 총괄 사장 게르 도일은 “시장은 더 이상 기업이 몇 명을 채용하느냐가 아니라 얼마나 정밀하게 채용하느냐로 정의된다”라고 말했다.\n\n\n\n또한 도일은 많은 경우 기업이 잘못된 채용을 하느니 자리를 비워두는 쪽을 택한다고 덧붙였다.\n\n\n\n인재 컨설팅 기업 로버"
+        },
+        {
+          "title": "의료 기기의 암호는 누가 바꾸나?…양자내성 암호 전환의 발목 잡는 OT 기기",
+          "link": "https://www.itworld.co.kr/article/4238842/%ec%9d%98%eb%a3%8c-%ea%b8%b0%ea%b8%b0%ec%9d%98-%ec%95%94%ed%98%b8%eb%8a%94-%eb%88%84%ea%b0%80-%eb%b0%94%ea%be%b8%eb%82%98-%ec%96%91%ec%9e%90%eb%82%b4%ec%84%b1-%ec%95%94%ed%98%b8-%ec%a0%84%ed%99%98.html",
+          "date": "2026-10-22",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n양자내성암호(PQC)는 보안 리더에게 다양한 과제를 안기지만, 사물인터넷과 OT 기기에 의존하는 업종의 CISO는 양자 대비 과정에서 특히 험난한 길을 걸을 수 있으며, 수년간 기밀로 유지해야 하는 민감 정보가 기기를 거쳐 전송된다면 더욱 그렇다.\n\n\n\n사이버 보안 업체 포리스카우트(Forescout)가 최근 내놓은 보고서는 생성 후에도 오랫동안 민감도를 유지하는 병력, 진단 영상, 검사 결과가 여러 운영 시스템 사이를 일상적으로 오가는 의료 업계에서 양자내성암호 전환의 어려움이 특히 두드러진다고 짚었다.\n\n\n\n오늘 의료 정보를 담은 암호화 트래픽을 수집한 공격자는 충분히 강력한 양자 컴퓨터가 등장하는 시점에 해독할 수 있도록 저장해 둘 수 있으며, 보안 전문가는 이런 방식을 “선 수집 후 해독(HNDL)”이라고 부른다.\n\n\n\n포리스카우트 연구진은 50개 이상 기업의 기기 250만 대 이상을 분석한 보고서에서 “의료 분야의 PQC 전환은 데이",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/10/4238842-0-85763700-1792638026-shutterstock_2702123681.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "의료 기기의 암호는 누가 바꾸나?…양자내성 암호 전환의 발목 잡는 OT 기기",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n양자내성암호(PQC)는 보안 리더에게 다양한 과제를 안기지만, 사물인터넷과 OT 기기에 의존하는 업종의 CISO는 양자 대비 과정에서 특히 험난한 길을 걸을 수 있으며, 수년간 기밀로 유지해야 하는 민감 정보가 기기를 거쳐 전송된다면 더욱 그렇다.\n\n\n\n사이버 보안 업체 포리스카우트(Forescout)가 최근 내놓은 보고서는 생성 후에도 오랫동안 민감도를 유지하는 병력, 진단 영상, 검사 결과가 여러 운영 시스템 사이를 일상적으로 오가는 의료 업계에서 양자내성암호 전환의 어려움이 특히 두드러",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n양자내성암호(PQC)는 보안 리더에게 다양한 과제를 안기지만, 사물인터넷과 OT 기기에 의존하는 업종의 CISO는 양자 대비 과정에서 특히 험난한 길을 걸을 수 있으며, 수년간 기밀로 유지해야 하는 민감 정보가 기기를 거쳐 전송된다면 더욱 그렇다.\n\n\n\n사이버 보안 업체 포리스카우트(Forescout)가 최근 내놓은 보고서는 생성 후에도 오랫동안 민감도를 유지하는 병력, 진단 영상, 검사 결과가 여러 운영 시스템 사이를 일상적으로 오가는 의료 업계에서 양자내성암호 전환의 어려움이 특히 두드러"
+        },
+        {
+          "title": "What FDE means at OpenAI",
+          "link": "https://openai.com/index/forward-deployed-engineering-means",
+          "date": "2026-10-22",
+          "source": "OpenAI",
+          "description": "What forward deployed engineering means at OpenAI",
+          "image": null,
+          "is_english": true,
+          "original_title": "What FDE means at OpenAI",
+          "original_summary": "What forward deployed engineering means at OpenAI",
+          "summary": "What forward deployed engineering means at OpenAI"
+        },
+        {
+          "title": "Claude Duet app is Anthropic’s bet on agents",
+          "link": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+          "date": "2026-10-22",
+          "source": "TechCrunch",
+          "description": "Claude Duet is available through waitlist for Pro and Max plan users",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Claude-Duet.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "Claude Duet app is Anthropic’s bet on agents",
+          "original_summary": "Claude Duet is available through waitlist for Pro and Max plan users",
+          "summary": "Claude Duet is available through waitlist for Pro and Max plan users"
+        },
+        {
+          "title": "Nirva raises $33M for a pendant that only listens to you",
+          "link": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+          "date": "2026-10-22",
+          "source": "TechCrunch",
+          "description": "Nirva will ship its $249 ambient AI pendant by the end of the year. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Nirva-pendant.jpg?resize=1200,675",
+          "is_english": true,
+          "original_title": "Nirva raises $33M for a pendant that only listens to you",
+          "original_summary": "Nirva will ship its $249 ambient AI pendant by the end of the year. ",
+          "summary": "Nirva will ship its $249 ambient AI pendant by the end of the year. "
+        },
+        {
+          "title": "DeepSeek reportedly raises $15B days after US restrictions",
+          "link": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
+          "date": "2026-10-22",
+          "source": "TechCrunch",
+          "description": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/01/deepseek-2.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "DeepSeek reportedly raises $15B days after US restrictions",
+          "original_summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
+          "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns."
+        },
         {
           "title": "[보은소식] AI 무료 강좌…수강생 모집",
           "link": "https://www.yna.co.kr/view/AKR20261022083200064",
@@ -537,19 +693,6 @@
           "category": "AI Model"
         },
         {
-          "title": "fishaudio/drama-3",
-          "link": "https://huggingface.co/fishaudio/drama-3",
-          "date": "2026-10-22",
-          "source": "HuggingFace",
-          "description": "• drama-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• drama-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "fishaudio/drama-3",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "OpenMOSS-Team/MOSS-Image-SFT",
           "link": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
           "date": "2026-10-22",
@@ -559,6 +702,19 @@
           "is_english": true,
           "summary": "• MOSS-Image-SFT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "OpenMOSS-Team/MOSS-Image-SFT",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "fishaudio/drama-3",
+          "link": "https://huggingface.co/fishaudio/drama-3",
+          "date": "2026-10-22",
+          "source": "HuggingFace",
+          "description": "• drama-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• drama-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "fishaudio/drama-3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -589,6 +745,19 @@
           "category": "AI Model"
         },
         {
+          "title": "RecursiveSI/flint",
+          "link": "https://huggingface.co/RecursiveSI/flint",
+          "date": "2026-10-22",
+          "source": "HuggingFace",
+          "description": "• flint 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/RecursiveSI/flint/resolve/main/assets/flint_benchmarks_nvfp4.png",
+          "is_english": true,
+          "summary": "• flint 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "RecursiveSI/flint",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "google/embeddinggemma-2",
           "link": "https://huggingface.co/google/embeddinggemma-2",
           "date": "2026-10-22",
@@ -611,19 +780,6 @@
           "is_english": true,
           "summary": "• humanizer 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "jialinyyzz/humanizer",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "RecursiveSI/flint",
-          "link": "https://huggingface.co/RecursiveSI/flint",
-          "date": "2026-10-22",
-          "source": "HuggingFace",
-          "description": "• flint 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/RecursiveSI/flint/resolve/main/assets/flint_benchmarks_nvfp4.png",
-          "is_english": true,
-          "summary": "• flint 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "RecursiveSI/flint",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -693,19 +849,6 @@
           "category": "AI Model"
         },
         {
-          "title": "datalab-to/indra-ocr",
-          "link": "https://huggingface.co/datalab-to/indra-ocr",
-          "date": "2026-10-22",
-          "source": "HuggingFace",
-          "description": "• indra-ocr 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/datalab-to/indra-ocr/resolve/main/assets/datalab-logo.png",
-          "is_english": true,
-          "summary": "• indra-ocr 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "datalab-to/indra-ocr",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "mistralai/Timestral-209M",
           "link": "https://huggingface.co/mistralai/Timestral-209M",
           "date": "2026-10-22",
@@ -715,6 +858,19 @@
           "is_english": true,
           "summary": "• Timestral-209M 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "mistralai/Timestral-209M",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "datalab-to/indra-ocr",
+          "link": "https://huggingface.co/datalab-to/indra-ocr",
+          "date": "2026-10-22",
+          "source": "HuggingFace",
+          "description": "• indra-ocr 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/datalab-to/indra-ocr/resolve/main/assets/datalab-logo.png",
+          "is_english": true,
+          "summary": "• indra-ocr 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "datalab-to/indra-ocr",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -732,15 +888,15 @@
           "category": "AI Model"
         },
         {
-          "title": "lodestones/Kromoss",
-          "link": "https://huggingface.co/lodestones/Kromoss",
+          "title": "dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
+          "link": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
           "date": "2026-10-22",
           "source": "HuggingFace",
-          "description": "• Kromoss 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/lodestones/Kromoss/resolve/main/assets/cat-50steps-cfg3.webp",
+          "description": "• DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/Twitter-%40dealignai-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge",
           "is_english": true,
-          "summary": "• Kromoss 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "lodestones/Kromoss",
+          "summary": "• DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
