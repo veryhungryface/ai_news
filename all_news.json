@@ -2,8 +2,56 @@
   "dates": [
     {
       "date": "2026-10-23",
-      "update_time": "2026-10-22 23:46:19",
+      "update_time": "2026-10-23 02:29:20",
       "news": [
+        {
+          "title": "[AI리더의 서가] 클로드 코드로 완성하는 에이전틱 코딩 자동화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216346",
+          "date": "2026-10-23",
+          "source": "AI타임스",
+          "description": "클로드 코드로 완성하는 에이전틱 코딩 자동화오사와 후미타카 | 위키북스2026년 10월 7일추천이유이 책은 Claude Code를 실제 업무에 안전하게 활용하는 방법을 제시하며, 명세와 테스트를 통해 AI 결과물을 검증하는 개발 프로세스를 제안합니다. 초보 개발자부터 경험자까지 Docker, TDD, 권한 관리 등을 실습하며 AI와 사람의 역할을 명확히 구분하는 법을 배울 수 있습니다.상세보기 위키북스가 지난 7일 『클로드 코드로 완성하는 에이전틱 코딩 자동화』(오사와 후미타카 지음, 최용 옮김)를 펴낸 뒤, 영풍문고 IT 서가에서",
+          "image": "https://cdn.aitimes.com/news/photo/202610/216346_220389_537.jpg",
+          "is_english": false,
+          "original_title": "[AI리더의 서가] 클로드 코드로 완성하는 에이전틱 코딩 자동화",
+          "original_summary": "클로드 코드로 완성하는 에이전틱 코딩 자동화오사와 후미타카 | 위키북스2026년 10월 7일추천이유이 책은 Claude Code를 실제 업무에 안전하게 활용하는 방법을 제시하며, 명세와 테스트를 통해 AI 결과물을 검증하는 개발 프로세스를 제안합니다. 초보 개발자부터 경험자까지 Docker, TDD, 권한 관리 등을 실습하며 AI와 사람의 역할을 명확히 구분하는 법을 배울 수 있습니다.상세보기 위키북스가 지난 7일 『클로드 코드로 완성하는 에이전틱 코딩 자동화』(오사와 후미타카 지음, 최용 옮김)를 펴낸 뒤, 영풍문고 IT 서가에서",
+          "summary": "클로드 코드로 완성하는 에이전틱 코딩 자동화오사와 후미타카 | 위키북스2026년 10월 7일추천이유이 책은 Claude Code를 실제 업무에 안전하게 활용하는 방법을 제시하며, 명세와 테스트를 통해 AI 결과물을 검증하는 개발 프로세스를 제안합니다. 초보 개발자부터 경험자까지 Docker, TDD, 권한 관리 등을 실습하며 AI와 사람의 역할을 명확히 구분하는 법을 배울 수 있습니다.상세보기 위키북스가 지난 7일 『클로드 코드로 완성하는 에이전틱 코딩 자동화』(오사와 후미타카 지음, 최용 옮김)를 펴낸 뒤, 영풍문고 IT 서가에서"
+        },
+        {
+          "title": "인터넷 절반이 쓰는 PHP서 치명적 취약점 2건 발견…AI가 공격 속도 앞당겼다",
+          "link": "https://www.itworld.co.kr/article/4239388/%ec%9d%b8%ed%84%b0%eb%84%b7-%ec%a0%88%eb%b0%98%ec%9d%b4-%ec%93%b0%eb%8a%94-php%ec%84%9c-%ec%b9%98%eb%aa%85%ec%a0%81-%ec%b7%a8%ec%95%bd%ec%a0%90-2%ea%b1%b4-%eb%b0%9c%ea%b2%acai%ea%b0%80.html",
+          "date": "2026-10-23",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n어느 정도 나이가 있는 독자라면 PHP라는 이름에서 1990년대 초기 웹 개발의 기억이 떠오를 것이다. 이후 수십 년간 이 스크립트 언어는 워드프레스 같은 인기 플랫폼에서 사용되며 웹 사이트 전면이 아닌 무대 뒤에서 묵묵히 돌아갔다. 그런데 이번 주 ‘치명적’ 등급의 고위험 취약점 2건을 두고 인터넷이 경보로 들끓으면서 PHP가 갑자기 큰 주목을 받았다.\n\n\n\n서버 관리자가 아니라면 실제 위험이 무엇인지 궁금할 수 있다. 사실 이용하거나 운영하는 웹사이트의 관리자가 충분히 빠르게 대응했다면, 아무런 변화도 느끼지 못했을 수 있다.\n\n\n\n2026년 10월 22일 업데이트 : 예상대로 공격이 빠르게 확대됐다. 더 레지스터(The Register)의 연속 보도에 따르면, 클라우드플레어는 PHP2Shell로 명명된 취약점을 악용하려는 시도를 수백만 건 포착했다. 또한 아마존의 보안 연구진은 긴급 패치가 나오기 나흘 전인 10월 17일부터 공격자가 취",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/10/4239388-0-18757300-1792718718-3266558-0-86344300-1792689280-ben-griffiths-4wxWBy8Jo1I-unsplash.webp",
+          "is_english": false,
+          "original_title": "인터넷 절반이 쓰는 PHP서 치명적 취약점 2건 발견…AI가 공격 속도 앞당겼다",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n어느 정도 나이가 있는 독자라면 PHP라는 이름에서 1990년대 초기 웹 개발의 기억이 떠오를 것이다. 이후 수십 년간 이 스크립트 언어는 워드프레스 같은 인기 플랫폼에서 사용되며 웹 사이트 전면이 아닌 무대 뒤에서 묵묵히 돌아갔다. 그런데 이번 주 ‘치명적’ 등급의 고위험 취약점 2건을 두고 인터넷이 경보로 들끓으면서 PHP가 갑자기 큰 주목을 받았다.\n\n\n\n서버 관리자가 아니라면 실제 위험이 무엇인지 궁금할 수 있다. 사실 이용하거나 운영하는 웹사이트의 관리자가 충분히 빠르게 대응했다면,",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n어느 정도 나이가 있는 독자라면 PHP라는 이름에서 1990년대 초기 웹 개발의 기억이 떠오를 것이다. 이후 수십 년간 이 스크립트 언어는 워드프레스 같은 인기 플랫폼에서 사용되며 웹 사이트 전면이 아닌 무대 뒤에서 묵묵히 돌아갔다. 그런데 이번 주 ‘치명적’ 등급의 고위험 취약점 2건을 두고 인터넷이 경보로 들끓으면서 PHP가 갑자기 큰 주목을 받았다.\n\n\n\n서버 관리자가 아니라면 실제 위험이 무엇인지 궁금할 수 있다. 사실 이용하거나 운영하는 웹사이트의 관리자가 충분히 빠르게 대응했다면,"
+        },
+        {
+          "title": "이제 오래된 코드를 모두 다시 써야 할 때",
+          "link": "https://www.itworld.co.kr/article/4239373/%ec%9d%b4%ec%a0%9c-%ec%98%a4%eb%9e%98%eb%90%9c-%ec%bd%94%eb%93%9c%eb%a5%bc-%eb%aa%a8%eb%91%90-%eb%8b%a4%ec%8b%9c-%ec%8d%a8%ec%95%bc-%ed%95%a0-%eb%95%8c.html",
+          "date": "2026-10-23",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n규모가 어느정도 되는 필자의 첫 소프트웨어 프로젝트는(적어도 그때는 규모가 크다고 생각했음) 1970년대 중반, 오래된 신문에 소개된 텍스트 기반의 유명한 스타트렉 게임을 “어쨌든 휴대가 가능한” IBM 5100 컴퓨터로 이식하는 작업이었다. 심장 전문의였던 필자의 아버지는 의료에 컴퓨터를 사용해야 한다고 일찍부터 주장해왔고 실제로 본인이 병원에서 IBM 5100을 사용했다. 주말에는 이 거대한 컴퓨터를 집으로 가져왔고 필자는 그 컴퓨터에서 코딩을 했다.\n\n\n\n코드가 인쇄된 그 신문을 어디서 구했는지는 기억이 나지 않지만 아무튼 그 코드는 필자의 마음을 단번에 사로잡았다. 라인 번호가 포함된 베이직 언어의 한 변형으로 작성된 코드였는데, IBM 5100에서 실행되는 언어와 달랐기 때문에 시행착오를 거치며 두 언어의 미묘한 차이를 익혀야 했다. 특히 GOSUB 작동 방식의 차이점을 알아내려고 고생했던 기억이 선명하다.\n\n\n\n코드를 입력하",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/10/4239373-0-47240200-1792717682-shutterstock_1646708614.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "이제 오래된 코드를 모두 다시 써야 할 때",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n규모가 어느정도 되는 필자의 첫 소프트웨어 프로젝트는(적어도 그때는 규모가 크다고 생각했음) 1970년대 중반, 오래된 신문에 소개된 텍스트 기반의 유명한 스타트렉 게임을 “어쨌든 휴대가 가능한” IBM 5100 컴퓨터로 이식하는 작업이었다. 심장 전문의였던 필자의 아버지는 의료에 컴퓨터를 사용해야 한다고 일찍부터 주장해왔고 실제로 본인이 병원에서 IBM 5100을 사용했다. 주말에는 이 거대한 컴퓨터를 집으로 가져왔고 필자는 그 컴퓨터에서 코딩을 했다.\n\n\n\n코드가 인쇄된 그 신문을",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n\n\n\n\n규모가 어느정도 되는 필자의 첫 소프트웨어 프로젝트는(적어도 그때는 규모가 크다고 생각했음) 1970년대 중반, 오래된 신문에 소개된 텍스트 기반의 유명한 스타트렉 게임을 “어쨌든 휴대가 가능한” IBM 5100 컴퓨터로 이식하는 작업이었다. 심장 전문의였던 필자의 아버지는 의료에 컴퓨터를 사용해야 한다고 일찍부터 주장해왔고 실제로 본인이 병원에서 IBM 5100을 사용했다. 주말에는 이 거대한 컴퓨터를 집으로 가져왔고 필자는 그 컴퓨터에서 코딩을 했다.\n\n\n\n코드가 인쇄된 그 신문을"
+        },
+        {
+          "title": "Left alone with nothing to do, AI agents started playing",
+          "link": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+          "date": "2026-10-23",
+          "source": "TechCrunch",
+          "description": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-5.42.44-PM.png?resize=1200,590",
+          "is_english": true,
+          "original_title": "Left alone with nothing to do, AI agents started playing",
+          "original_summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.",
+          "summary": "MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs."
+        },
         {
           "title": "고양시, 내일꿈제작소에 '인공지능 심리상담 부스' 시범운영",
           "link": "https://www.yna.co.kr/view/AKR20261023023100060",
@@ -154,19 +202,6 @@
           "category": "AI Model"
         },
         {
-          "title": "fishaudio/drama-3",
-          "link": "https://huggingface.co/fishaudio/drama-3",
-          "date": "2026-10-23",
-          "source": "HuggingFace",
-          "description": "• drama-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• drama-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "fishaudio/drama-3",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Lightricks/LTX-2.5",
           "link": "https://huggingface.co/Lightricks/LTX-2.5",
           "date": "2026-10-23",
@@ -180,28 +215,15 @@
           "category": "AI Model"
         },
         {
-          "title": "meta-models/Muse-Spark-Open-816B-A42B",
-          "link": "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B",
+          "title": "fishaudio/drama-3",
+          "link": "https://huggingface.co/fishaudio/drama-3",
           "date": "2026-10-23",
           "source": "HuggingFace",
-          "description": "• Muse-Spark-Open-816B-A42B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "description": "• drama-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
           "is_english": true,
-          "summary": "• Muse-Spark-Open-816B-A42B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "meta-models/Muse-Spark-Open-816B-A42B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "black-forest-labs/flux-3-image-klein",
-          "link": "https://huggingface.co/black-forest-labs/flux-3-image-klein",
-          "date": "2026-10-23",
-          "source": "HuggingFace",
-          "description": "• flux-3-image-klein 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• flux-3-image-klein 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "black-forest-labs/flux-3-image-klein",
+          "summary": "• drama-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "fishaudio/drama-3",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -228,6 +250,32 @@
           "is_english": true,
           "summary": "• MOSS-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Comfy-Org/MOSS-Image",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "meta-models/Muse-Spark-Open-816B-A42B",
+          "link": "https://huggingface.co/meta-models/Muse-Spark-Open-816B-A42B",
+          "date": "2026-10-23",
+          "source": "HuggingFace",
+          "description": "• Muse-Spark-Open-816B-A42B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1535378917042-10a22c95931a?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Muse-Spark-Open-816B-A42B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "meta-models/Muse-Spark-Open-816B-A42B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "black-forest-labs/flux-3-image-klein",
+          "link": "https://huggingface.co/black-forest-labs/flux-3-image-klein",
+          "date": "2026-10-23",
+          "source": "HuggingFace",
+          "description": "• flux-3-image-klein 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• flux-3-image-klein 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "black-forest-labs/flux-3-image-klein",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -284,19 +332,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/Qwen3.8-Flash-Next-FP4-Local",
-          "link": "https://huggingface.co/nvidia/Qwen3.8-Flash-Next-FP4-Local",
-          "date": "2026-10-23",
-          "source": "HuggingFace",
-          "description": "• Qwen3.8-Flash-Next-FP4-Local 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.8-Flash-Next-FP4-Local 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/Qwen3.8-Flash-Next-FP4-Local",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "datalab-to/indra-ocr",
           "link": "https://huggingface.co/datalab-to/indra-ocr",
           "date": "2026-10-23",
@@ -332,6 +367,19 @@
           "is_english": true,
           "summary": "• Spark-X2.6-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "XHToken/Spark-X2.6-4B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/Qwen3.8-Flash-Next-FP4-Local",
+          "link": "https://huggingface.co/nvidia/Qwen3.8-Flash-Next-FP4-Local",
+          "date": "2026-10-23",
+          "source": "HuggingFace",
+          "description": "• Qwen3.8-Flash-Next-FP4-Local 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.8-Flash-Next-FP4-Local 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/Qwen3.8-Flash-Next-FP4-Local",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
