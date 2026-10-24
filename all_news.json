@@ -2,8 +2,44 @@
   "dates": [
     {
       "date": "2026-10-25",
-      "update_time": "2026-10-24 19:57:44",
+      "update_time": "2026-10-24 22:47:21",
       "news": [
+        {
+          "title": "\"전세 피해 예측하고 자살 예방\"…AI로 대전 지역문제 해결 추진",
+          "link": "https://www.yna.co.kr/view/AKR20261023069900063",
+          "date": "2026-10-25",
+          "source": "연합뉴스",
+          "description": "(대전=연합뉴스) 박주영 기자 = 대전시가 인공지능(AI) 기술을 이용해 전세 사기 피해와 자살 예방 대책을 마련하는 등 지역 맞춤형 과제 해결...",
+          "image": "https://img.yna.co.kr/photo/cms/2025/06/01/55/PCM20250601000055990_P2.jpg",
+          "is_english": false,
+          "original_title": "\"전세 피해 예측하고 자살 예방\"…AI로 대전 지역문제 해결 추진",
+          "original_summary": "(대전=연합뉴스) 박주영 기자 = 대전시가 인공지능(AI) 기술을 이용해 전세 사기 피해와 자살 예방 대책을 마련하는 등 지역 맞춤형 과제 해결...",
+          "summary": "(대전=연합뉴스) 박주영 기자 = 대전시가 인공지능(AI) 기술을 이용해 전세 사기 피해와 자살 예방 대책을 마련하는 등 지역 맞춤형 과제 해결..."
+        },
+        {
+          "title": "21년간 청소년이 직접 제안한 정책 697건…수용률 91%",
+          "link": "https://www.yna.co.kr/view/AKR20261024030900530",
+          "date": "2026-10-25",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 홍준석 기자 = &quot;인공지능(AI) 챗봇과 언제나 대화할 수 있다는 게 좋지만, 중독될 수 있다는 게 불안해요.&quot;",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/24/AKR20261024030900530_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "21년간 청소년이 직접 제안한 정책 697건…수용률 91%",
+          "original_summary": "(서울=연합뉴스) 홍준석 기자 = &quot;인공지능(AI) 챗봇과 언제나 대화할 수 있다는 게 좋지만, 중독될 수 있다는 게 불안해요.&quot;",
+          "summary": "(서울=연합뉴스) 홍준석 기자 = &quot;인공지능(AI) 챗봇과 언제나 대화할 수 있다는 게 좋지만, 중독될 수 있다는 게 불안해요.&quot;"
+        },
+        {
+          "title": "[만나보니] S2W 김재기 \"AI가 알아서 해킹? 실상은 다르다\"",
+          "link": "https://www.yna.co.kr/view/AKR20261023177500017",
+          "date": "2026-10-25",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 오지은 기자 = &quot;최근 금융권 공격에 쓰인 &apos;아르텍스(ARTEX)&apos;를 두고 &apos;AI가 알아서 다 털었다&apos;는 식의 과장이 나오지만...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/23/AKR20261023177500017_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "[만나보니] S2W 김재기 \"AI가 알아서 해킹? 실상은 다르다\"",
+          "original_summary": "(서울=연합뉴스) 오지은 기자 = &quot;최근 금융권 공격에 쓰인 &apos;아르텍스(ARTEX)&apos;를 두고 &apos;AI가 알아서 다 털었다&apos;는 식의 과장이 나오지만...",
+          "summary": "(서울=연합뉴스) 오지은 기자 = &quot;최근 금융권 공격에 쓰인 &apos;아르텍스(ARTEX)&apos;를 두고 &apos;AI가 알아서 다 털었다&apos;는 식의 과장이 나오지만..."
+        },
         {
           "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
@@ -239,19 +275,6 @@
           "category": "AI Model"
         },
         {
-          "title": "jialinyyzz/humanizer",
-          "link": "https://huggingface.co/jialinyyzz/humanizer",
-          "date": "2026-10-25",
-          "source": "HuggingFace",
-          "description": "• humanizer 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/jialinyyzz/humanizer/resolve/main/assets/banner-en.png",
-          "is_english": true,
-          "summary": "• humanizer 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "jialinyyzz/humanizer",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/flint-GGUF",
           "link": "https://huggingface.co/unsloth/flint-GGUF",
           "date": "2026-10-25",
@@ -261,6 +284,19 @@
           "is_english": true,
           "summary": "• flint-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/flint-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "orcarouter/OrcaCyber-Nano-1.0",
+          "link": "https://huggingface.co/orcarouter/OrcaCyber-Nano-1.0",
+          "date": "2026-10-25",
+          "source": "HuggingFace",
+          "description": "• OrcaCyber-Nano-1.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• OrcaCyber-Nano-1.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "orcarouter/OrcaCyber-Nano-1.0",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -868,7 +904,7 @@
         {
           "title": "orcarouter/OrcaCyber-Nano-1.0",
           "link": "https://huggingface.co/orcarouter/OrcaCyber-Nano-1.0",
-          "date": "2026-10-24",
+          "date": "2026-10-25",
           "source": "HuggingFace",
           "description": "• OrcaCyber-Nano-1.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
