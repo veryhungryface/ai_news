@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-10-24",
-      "update_time": "2026-10-23 23:39:30",
+      "update_time": "2026-10-24 02:27:27",
       "news": [
+        {
+          "title": "구글 ‘제미나이 4 카본’ 외부 테스트설…“3D 개선됐지만 속도 느려”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216604",
+          "date": "2026-10-24",
+          "source": "AI타임스",
+          "description": "구글이 개발 중인 ‘제미나이 4 카본’이 외부 파트너 테스트에 들어갔다는 소식이 나왔다. ‘아르곤’ 공개 약 일주일 만에 카본으로 추정되는 모델의 결과물까지 등장했으며, 초기 이용자들은 아르곤과 비교해 3D 작업 능력이 개선됐다고 평가했다. 다만 처리 시간이 길고 웹페이지 디자인은 여전히 부족하다는 평가도 나왔다.테스팅카탈로그는 23일(현지시간) 테스트 참여자들의 게시물을 인용, 카본이 일부 파트너에게 제공되고 AI 모델 비교 플랫폼 LM아레나에서도 시험되고 있다고 전했다.카본은 이달 초 구글 내부 코딩 도구 ‘젯스키’에서 직원들이",
+          "image": "https://cdn.aitimes.com/news/photo/202610/216604_220711_5549.png",
+          "is_english": false,
+          "original_title": "구글 ‘제미나이 4 카본’ 외부 테스트설…“3D 개선됐지만 속도 느려”",
+          "original_summary": "구글이 개발 중인 ‘제미나이 4 카본’이 외부 파트너 테스트에 들어갔다는 소식이 나왔다. ‘아르곤’ 공개 약 일주일 만에 카본으로 추정되는 모델의 결과물까지 등장했으며, 초기 이용자들은 아르곤과 비교해 3D 작업 능력이 개선됐다고 평가했다. 다만 처리 시간이 길고 웹페이지 디자인은 여전히 부족하다는 평가도 나왔다.테스팅카탈로그는 23일(현지시간) 테스트 참여자들의 게시물을 인용, 카본이 일부 파트너에게 제공되고 AI 모델 비교 플랫폼 LM아레나에서도 시험되고 있다고 전했다.카본은 이달 초 구글 내부 코딩 도구 ‘젯스키’에서 직원들이",
+          "summary": "구글이 개발 중인 ‘제미나이 4 카본’이 외부 파트너 테스트에 들어갔다는 소식이 나왔다. ‘아르곤’ 공개 약 일주일 만에 카본으로 추정되는 모델의 결과물까지 등장했으며, 초기 이용자들은 아르곤과 비교해 3D 작업 능력이 개선됐다고 평가했다. 다만 처리 시간이 길고 웹페이지 디자인은 여전히 부족하다는 평가도 나왔다.테스팅카탈로그는 23일(현지시간) 테스트 참여자들의 게시물을 인용, 카본이 일부 파트너에게 제공되고 AI 모델 비교 플랫폼 LM아레나에서도 시험되고 있다고 전했다.카본은 이달 초 구글 내부 코딩 도구 ‘젯스키’에서 직원들이"
+        },
         {
           "title": "문샷 ‘키미 K3.1 프로’, AAII 전체 4위…오픈웨이트 1위 등극",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216603",
@@ -155,19 +167,6 @@
           "category": "AI Model"
         },
         {
-          "title": "OpenMOSS-Team/MOSS-Image-Base",
-          "link": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base",
-          "date": "2026-10-24",
-          "source": "HuggingFace",
-          "description": "• MOSS-Image-Base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base/resolve/main/assets/lockup-light.svg",
-          "is_english": true,
-          "summary": "• MOSS-Image-Base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "OpenMOSS-Team/MOSS-Image-Base",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "fishaudio/drama-3",
           "link": "https://huggingface.co/fishaudio/drama-3",
           "date": "2026-10-24",
@@ -181,15 +180,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Comfy-Org/MOSS-Image",
-          "link": "https://huggingface.co/Comfy-Org/MOSS-Image",
+          "title": "OpenMOSS-Team/MOSS-Image-Base",
+          "link": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base",
           "date": "2026-10-24",
           "source": "HuggingFace",
-          "description": "• MOSS-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "description": "• MOSS-Image-Base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base/resolve/main/assets/lockup-light.svg",
           "is_english": true,
-          "summary": "• MOSS-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Comfy-Org/MOSS-Image",
+          "summary": "• MOSS-Image-Base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "OpenMOSS-Team/MOSS-Image-Base",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -203,6 +202,19 @@
           "is_english": true,
           "summary": "• Qwen-Image-2.1-Uncensored-Quantized 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Comfy-Org/MOSS-Image",
+          "link": "https://huggingface.co/Comfy-Org/MOSS-Image",
+          "date": "2026-10-24",
+          "source": "HuggingFace",
+          "description": "• MOSS-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• MOSS-Image 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Comfy-Org/MOSS-Image",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -233,19 +245,6 @@
           "category": "AI Model"
         },
         {
-          "title": "jialinyyzz/humanizer",
-          "link": "https://huggingface.co/jialinyyzz/humanizer",
-          "date": "2026-10-24",
-          "source": "HuggingFace",
-          "description": "• humanizer 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/jialinyyzz/humanizer/resolve/main/assets/banner-en.png",
-          "is_english": true,
-          "summary": "• humanizer 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "jialinyyzz/humanizer",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
           "link": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
           "date": "2026-10-24",
@@ -272,15 +271,15 @@
           "category": "AI Model"
         },
         {
-          "title": "datalab-to/indra-ocr",
-          "link": "https://huggingface.co/datalab-to/indra-ocr",
+          "title": "jialinyyzz/humanizer",
+          "link": "https://huggingface.co/jialinyyzz/humanizer",
           "date": "2026-10-24",
           "source": "HuggingFace",
-          "description": "• indra-ocr 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/datalab-to/indra-ocr/resolve/main/assets/datalab-logo.png",
+          "description": "• humanizer 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/jialinyyzz/humanizer/resolve/main/assets/banner-en.png",
           "is_english": true,
-          "summary": "• indra-ocr 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "datalab-to/indra-ocr",
+          "summary": "• humanizer 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "jialinyyzz/humanizer",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -294,6 +293,19 @@
           "is_english": true,
           "summary": "• Sage-A1.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "InternScience/Sage-A1.5",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "datalab-to/indra-ocr",
+          "link": "https://huggingface.co/datalab-to/indra-ocr",
+          "date": "2026-10-24",
+          "source": "HuggingFace",
+          "description": "• indra-ocr 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/datalab-to/indra-ocr/resolve/main/assets/datalab-logo.png",
+          "is_english": true,
+          "summary": "• indra-ocr 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "datalab-to/indra-ocr",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -324,15 +336,15 @@
           "category": "AI Model"
         },
         {
-          "title": "black-forest-labs/flux-3-image-klein",
-          "link": "https://huggingface.co/black-forest-labs/flux-3-image-klein",
+          "title": "orcarouter/OrcaCyber-Nano-1.0",
+          "link": "https://huggingface.co/orcarouter/OrcaCyber-Nano-1.0",
           "date": "2026-10-24",
           "source": "HuggingFace",
-          "description": "• flux-3-image-klein 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "description": "• OrcaCyber-Nano-1.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• flux-3-image-klein 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "black-forest-labs/flux-3-image-klein",
+          "summary": "• OrcaCyber-Nano-1.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "orcarouter/OrcaCyber-Nano-1.0",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
