@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-10-25",
-      "update_time": "2026-10-24 17:43:08",
+      "update_time": "2026-10-24 19:57:44",
       "news": [
         {
           "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
@@ -44,19 +44,6 @@
           "category": "AI Model"
         },
         {
-          "title": "OpenMOSS-Team/MOSS-Image-SFT",
-          "link": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
-          "date": "2026-10-25",
-          "source": "HuggingFace",
-          "description": "• MOSS-Image-SFT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT/resolve/main/assets/lockup-light.svg",
-          "is_english": true,
-          "summary": "• MOSS-Image-SFT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "OpenMOSS-Team/MOSS-Image-SFT",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Lightricks/LTX-2.5",
           "link": "https://huggingface.co/Lightricks/LTX-2.5",
           "date": "2026-10-25",
@@ -66,6 +53,19 @@
           "is_english": true,
           "summary": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Lightricks/LTX-2.5",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "OpenMOSS-Team/MOSS-Image-SFT",
+          "link": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
+          "date": "2026-10-25",
+          "source": "HuggingFace",
+          "description": "• MOSS-Image-SFT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT/resolve/main/assets/lockup-light.svg",
+          "is_english": true,
+          "summary": "• MOSS-Image-SFT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "OpenMOSS-Team/MOSS-Image-SFT",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -96,19 +96,6 @@
           "category": "AI Model"
         },
         {
-          "title": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
-          "link": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
-          "date": "2026-10-25",
-          "source": "HuggingFace",
-          "description": "• Qwen-Image-2.1-Uncensored-Quantized 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%A4%97_Model_Requests-Submit_Here-f59e0b?style=for-the-badge&labelColor=1f2937",
-          "is_english": true,
-          "summary": "• Qwen-Image-2.1-Uncensored-Quantized 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
           "date": "2026-10-25",
@@ -122,15 +109,15 @@
           "category": "AI Model"
         },
         {
-          "title": "OpenMOSS-Team/MOSS-Image-Base",
-          "link": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base",
+          "title": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
+          "link": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
           "date": "2026-10-25",
           "source": "HuggingFace",
-          "description": "• MOSS-Image-Base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base/resolve/main/assets/lockup-light.svg",
+          "description": "• Qwen-Image-2.1-Uncensored-Quantized 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%A4%97_Model_Requests-Submit_Here-f59e0b?style=for-the-badge&labelColor=1f2937",
           "is_english": true,
-          "summary": "• MOSS-Image-Base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "OpenMOSS-Team/MOSS-Image-Base",
+          "summary": "• Qwen-Image-2.1-Uncensored-Quantized 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -144,6 +131,19 @@
           "is_english": true,
           "summary": "• MiniMax-M3.1-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "MiniMaxAI/MiniMax-M3.1-Flash",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "OpenMOSS-Team/MOSS-Image-Base",
+          "link": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base",
+          "date": "2026-10-25",
+          "source": "HuggingFace",
+          "description": "• MOSS-Image-Base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base/resolve/main/assets/lockup-light.svg",
+          "is_english": true,
+          "summary": "• MOSS-Image-Base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "OpenMOSS-Team/MOSS-Image-Base",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -268,8 +268,20 @@
     },
     {
       "date": "2026-10-24",
-      "update_time": "2026-10-24 17:43:06",
+      "update_time": "2026-10-24 19:57:44",
       "news": [
+        {
+          "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+          "link": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+          "date": "2026-10-24",
+          "source": "TechCrunch",
+          "description": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+          "image": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-95927766-1.jpg?resize=1200,797",
+          "is_english": true,
+          "original_title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+          "original_summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+          "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations."
+        },
         {
           "title": "Block’s new voice model sounds eerily human",
           "link": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
@@ -7357,7 +7369,7 @@
         {
           "title": "google/embeddinggemma-2",
           "link": "https://huggingface.co/google/embeddinggemma-2",
-          "date": "2026-10-16",
+          "date": "2026-10-25",
           "source": "HuggingFace",
           "description": "• embeddinggemma-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -7370,7 +7382,7 @@
         {
           "title": "jialinyyzz/humanizer",
           "link": "https://huggingface.co/jialinyyzz/humanizer",
-          "date": "2026-10-16",
+          "date": "2026-10-25",
           "source": "HuggingFace",
           "description": "• humanizer 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/jialinyyzz/humanizer/resolve/main/assets/banner-en.png",
@@ -7409,7 +7421,7 @@
         {
           "title": "fishaudio/drama-3",
           "link": "https://huggingface.co/fishaudio/drama-3",
-          "date": "2026-10-16",
+          "date": "2026-10-25",
           "source": "HuggingFace",
           "description": "• drama-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -7422,7 +7434,7 @@
         {
           "title": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
           "link": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
-          "date": "2026-10-16",
+          "date": "2026-10-25",
           "source": "HuggingFace",
           "description": "• Qwen-Image-2.1-Uncensored-Quantized 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%A4%97_Model_Requests-Submit_Here-f59e0b?style=for-the-badge&labelColor=1f2937",
@@ -7435,7 +7447,7 @@
         {
           "title": "Lightricks/LTX-2.5",
           "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-10-16",
+          "date": "2026-10-25",
           "source": "HuggingFace",
           "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -7513,7 +7525,7 @@
         {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "date": "2026-10-16",
+          "date": "2026-10-25",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
