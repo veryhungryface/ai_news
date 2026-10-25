@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-10-26",
-      "update_time": "2026-10-25 17:58:04",
+      "update_time": "2026-10-25 20:19:28",
       "news": [
         {
           "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
@@ -135,6 +135,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Nanbeige/Nanbeige4.3-33B",
+          "link": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+          "date": "2026-10-26",
+          "source": "HuggingFace",
+          "description": "• Nanbeige4.3-33B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B/resolve/main/figures/nbg.png",
+          "is_english": true,
+          "summary": "• Nanbeige4.3-33B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Nanbeige/Nanbeige4.3-33B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "InternScience/Sage-A1.5",
           "link": "https://huggingface.co/InternScience/Sage-A1.5",
           "date": "2026-10-26",
@@ -144,19 +157,6 @@
           "is_english": true,
           "summary": "• Sage-A1.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "InternScience/Sage-A1.5",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
-          "link": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
-          "date": "2026-10-26",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/Twitter-%40dealignai-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge",
-          "is_english": true,
-          "summary": "• DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -174,15 +174,15 @@
           "category": "AI Model"
         },
         {
-          "title": "OpenMOSS-Team/MOSS-Image-Base",
-          "link": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base",
+          "title": "dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
+          "link": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
           "date": "2026-10-26",
           "source": "HuggingFace",
-          "description": "• MOSS-Image-Base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base/resolve/main/assets/lockup-light.svg",
+          "description": "• DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/Twitter-%40dealignai-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge",
           "is_english": true,
-          "summary": "• MOSS-Image-Base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "OpenMOSS-Team/MOSS-Image-Base",
+          "summary": "• DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -200,15 +200,15 @@
           "category": "AI Model"
         },
         {
-          "title": "Nanbeige/Nanbeige4.3-33B",
-          "link": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+          "title": "OpenMOSS-Team/MOSS-Image-Base",
+          "link": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base",
           "date": "2026-10-26",
           "source": "HuggingFace",
-          "description": "• Nanbeige4.3-33B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B/resolve/main/figures/nbg.png",
+          "description": "• MOSS-Image-Base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base/resolve/main/assets/lockup-light.svg",
           "is_english": true,
-          "summary": "• Nanbeige4.3-33B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Nanbeige/Nanbeige4.3-33B",
+          "summary": "• MOSS-Image-Base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "OpenMOSS-Team/MOSS-Image-Base",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -252,15 +252,15 @@
           "category": "AI Model"
         },
         {
-          "title": "orcarouter/OrcaCyber-Nano-1.0",
-          "link": "https://huggingface.co/orcarouter/OrcaCyber-Nano-1.0",
+          "title": "datalab-to/indra-ocr",
+          "link": "https://huggingface.co/datalab-to/indra-ocr",
           "date": "2026-10-26",
           "source": "HuggingFace",
-          "description": "• OrcaCyber-Nano-1.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• indra-ocr 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/datalab-to/indra-ocr/resolve/main/assets/datalab-logo.png",
           "is_english": true,
-          "summary": "• OrcaCyber-Nano-1.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "orcarouter/OrcaCyber-Nano-1.0",
+          "summary": "• indra-ocr 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "datalab-to/indra-ocr",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -6147,7 +6147,7 @@
         {
           "title": "datalab-to/indra-ocr",
           "link": "https://huggingface.co/datalab-to/indra-ocr",
-          "date": "2026-10-25",
+          "date": "2026-10-26",
           "source": "HuggingFace",
           "description": "• indra-ocr 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/datalab-to/indra-ocr/resolve/main/assets/datalab-logo.png",
@@ -7144,7 +7144,7 @@
         {
           "title": "fishaudio/drama-3",
           "link": "https://huggingface.co/fishaudio/drama-3",
-          "date": "2026-10-17",
+          "date": "2026-10-26",
           "source": "HuggingFace",
           "description": "• drama-3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -7170,7 +7170,7 @@
         {
           "title": "black-forest-labs/flux-3-image-klein-comfy",
           "link": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
-          "date": "2026-10-17",
+          "date": "2026-10-26",
           "source": "HuggingFace",
           "description": "• flux-3-image-klein-comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -7183,7 +7183,7 @@
         {
           "title": "Lightricks/LTX-2.5",
           "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-10-17",
+          "date": "2026-10-26",
           "source": "HuggingFace",
           "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -7209,7 +7209,7 @@
         {
           "title": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
           "link": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
-          "date": "2026-10-17",
+          "date": "2026-10-26",
           "source": "HuggingFace",
           "description": "• Qwen-Image-2.1-Uncensored-Quantized 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%A4%97_Model_Requests-Submit_Here-f59e0b?style=for-the-badge&labelColor=1f2937",
@@ -7287,7 +7287,7 @@
         {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "date": "2026-10-17",
+          "date": "2026-10-26",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
