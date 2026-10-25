@@ -2,7 +2,7 @@
   "dates": [
     {
       "date": "2026-10-26",
-      "update_time": "2026-10-25 20:19:28",
+      "update_time": "2026-10-25 22:55:07",
       "news": [
         {
           "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
@@ -83,6 +83,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Nanbeige/Nanbeige4.3-33B",
+          "link": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+          "date": "2026-10-26",
+          "source": "HuggingFace",
+          "description": "• Nanbeige4.3-33B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B/resolve/main/figures/nbg.png",
+          "is_english": true,
+          "summary": "• Nanbeige4.3-33B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Nanbeige/Nanbeige4.3-33B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "MiniMaxAI/MiniMax-M3.1-Flash",
           "link": "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash",
           "date": "2026-10-26",
@@ -135,19 +148,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Nanbeige/Nanbeige4.3-33B",
-          "link": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
-          "date": "2026-10-26",
-          "source": "HuggingFace",
-          "description": "• Nanbeige4.3-33B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B/resolve/main/figures/nbg.png",
-          "is_english": true,
-          "summary": "• Nanbeige4.3-33B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Nanbeige/Nanbeige4.3-33B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "InternScience/Sage-A1.5",
           "link": "https://huggingface.co/InternScience/Sage-A1.5",
           "date": "2026-10-26",
@@ -174,19 +174,6 @@
           "category": "AI Model"
         },
         {
-          "title": "dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
-          "link": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
-          "date": "2026-10-26",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/Twitter-%40dealignai-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge",
-          "is_english": true,
-          "summary": "• DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "lodestones/Kromoss",
           "link": "https://huggingface.co/lodestones/Kromoss",
           "date": "2026-10-26",
@@ -200,6 +187,19 @@
           "category": "AI Model"
         },
         {
+          "title": "dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
+          "link": "https://huggingface.co/dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
+          "date": "2026-10-26",
+          "source": "HuggingFace",
+          "description": "• DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/Twitter-%40dealignai-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge",
+          "is_english": true,
+          "summary": "• DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "dealignai/DeepSeek-V4.1-Flash-1017-UNCENSORED-FP8",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "OpenMOSS-Team/MOSS-Image-Base",
           "link": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base",
           "date": "2026-10-26",
@@ -209,6 +209,19 @@
           "is_english": true,
           "summary": "• MOSS-Image-Base 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "OpenMOSS-Team/MOSS-Image-Base",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "unsloth/flint-GGUF",
+          "link": "https://huggingface.co/unsloth/flint-GGUF",
+          "date": "2026-10-26",
+          "source": "HuggingFace",
+          "description": "• flint-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
+          "is_english": true,
+          "summary": "• flint-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "unsloth/flint-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,19 +252,6 @@
           "category": "AI Model"
         },
         {
-          "title": "unsloth/flint-GGUF",
-          "link": "https://huggingface.co/unsloth/flint-GGUF",
-          "date": "2026-10-26",
-          "source": "HuggingFace",
-          "description": "• flint-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://github.com/unslothai/unsloth/raw/main/images/unsloth%20new%20logo.png",
-          "is_english": true,
-          "summary": "• flint-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "unsloth/flint-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "datalab-to/indra-ocr",
           "link": "https://huggingface.co/datalab-to/indra-ocr",
           "date": "2026-10-26",
@@ -268,8 +268,20 @@
     },
     {
       "date": "2026-10-25",
-      "update_time": "2026-10-25 17:58:03",
+      "update_time": "2026-10-25 22:55:07",
       "news": [
+        {
+          "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+          "link": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+          "date": "2026-10-25",
+          "source": "TechCrunch",
+          "description": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/03/grok-getty.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+          "original_summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+          "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest."
+        },
         {
           "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
           "link": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
