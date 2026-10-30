@@ -2,8 +2,128 @@
   "dates": [
     {
       "date": "2026-10-30",
-      "update_time": "2026-10-29 22:12:28",
+      "update_time": "2026-10-30 03:26:59",
       "news": [
+        {
+          "title": "교육부·LGU+·티오리한국, 사이버보안 영재교육 지원 MOU",
+          "link": "https://www.yna.co.kr/view/AKR20261030052700530",
+          "date": "2026-10-30",
+          "source": "연합뉴스",
+          "description": "(세종=연합뉴스) 고상민 기자 = 교육부는 31일 서울 LG사이언스파크에서 LG유플러스, 티오리한국과 함께 &apos;인공지능(AI)·정보보호 영재교육원...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/30/AKR20261030052700530_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "교육부·LGU+·티오리한국, 사이버보안 영재교육 지원 MOU",
+          "original_summary": "(세종=연합뉴스) 고상민 기자 = 교육부는 31일 서울 LG사이언스파크에서 LG유플러스, 티오리한국과 함께 &apos;인공지능(AI)·정보보호 영재교육원...",
+          "summary": "(세종=연합뉴스) 고상민 기자 = 교육부는 31일 서울 LG사이언스파크에서 LG유플러스, 티오리한국과 함께 &apos;인공지능(AI)·정보보호 영재교육원..."
+        },
+        {
+          "title": "한국딥러닝, AI로 IBK기업은행 보이스피싱 업무 자동화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216827",
+          "date": "2026-10-30",
+          "source": "AI타임스",
+          "description": "한국딥러닝(대표 김지현)은 IBK기업은행 금융소비자지원부와 시각언어모델(VLM) 기반 보이스피싱 피해구제 업무 자동화를 구현했다고 30일 밝혔다.이번 과제는 올해 4월부터 8월까지 진행됐으며, ‘2026 공공기관 AI혁신 챌린지’ AI 서비스 실증(PoC) 부문 우수상에 선정됐다.양사는 금융 특화 AI 에이전트 ‘딥 에이전트 포 금융’을 적용해 서류 인식·분류부터 정보 추출, 범죄 유형 추론까지 자동화하며 기존 수작업 처리의 한계를 극복했다.실증결과 서류 처리 시간은 88% 단축됐다. 인식 정확도는 인쇄체 100%, 필기체 97%",
+          "image": "https://cdn.aitimes.com/news/photo/202610/216827_220984_4224.jpeg",
+          "is_english": false,
+          "original_title": "한국딥러닝, AI로 IBK기업은행 보이스피싱 업무 자동화",
+          "original_summary": "한국딥러닝(대표 김지현)은 IBK기업은행 금융소비자지원부와 시각언어모델(VLM) 기반 보이스피싱 피해구제 업무 자동화를 구현했다고 30일 밝혔다.이번 과제는 올해 4월부터 8월까지 진행됐으며, ‘2026 공공기관 AI혁신 챌린지’ AI 서비스 실증(PoC) 부문 우수상에 선정됐다.양사는 금융 특화 AI 에이전트 ‘딥 에이전트 포 금융’을 적용해 서류 인식·분류부터 정보 추출, 범죄 유형 추론까지 자동화하며 기존 수작업 처리의 한계를 극복했다.실증결과 서류 처리 시간은 88% 단축됐다. 인식 정확도는 인쇄체 100%, 필기체 97%",
+          "summary": "한국딥러닝(대표 김지현)은 IBK기업은행 금융소비자지원부와 시각언어모델(VLM) 기반 보이스피싱 피해구제 업무 자동화를 구현했다고 30일 밝혔다.이번 과제는 올해 4월부터 8월까지 진행됐으며, ‘2026 공공기관 AI혁신 챌린지’ AI 서비스 실증(PoC) 부문 우수상에 선정됐다.양사는 금융 특화 AI 에이전트 ‘딥 에이전트 포 금융’을 적용해 서류 인식·분류부터 정보 추출, 범죄 유형 추론까지 자동화하며 기존 수작업 처리의 한계를 극복했다.실증결과 서류 처리 시간은 88% 단축됐다. 인식 정확도는 인쇄체 100%, 필기체 97%"
+        },
+        {
+          "title": "허깅페이스 오픈소스팀, 비드래프트 판단 AI 체험 데모 제작 기증",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216833",
+          "date": "2026-10-30",
+          "source": "AI타임스",
+          "description": "비드래프트(VIDRAFT·대표 김민식)는 자사가 공개한 비전 판단 인공지능(AI) 모델 ‘Darwin-35B-ZTC-Vision’의 체험용 데모를 허깅페이스(Hugging Face) 본사 오픈소스팀이 직접 제작해 기증했다고 30일 밝혔다.허깅페이스 오픈소스팀 소속 아폴리나리오(Apolinário)는 지난 10월 27일 해당 모델의 공개 페이지에 글을 올려 공개를 축하하고 작업에 감사를 표했다. 이어 모델을 인상적으로 평가하며, 무료 GPU 서비스인 제로GPU(ZeroGPU)에서 실행되는 대화형 데모 앱을 제작했다고 밝혔다. 아울러",
+          "image": "https://cdn.aitimes.com/news/photo/202610/216833_220988_2727.jpg",
+          "is_english": false,
+          "original_title": "허깅페이스 오픈소스팀, 비드래프트 판단 AI 체험 데모 제작 기증",
+          "original_summary": "비드래프트(VIDRAFT·대표 김민식)는 자사가 공개한 비전 판단 인공지능(AI) 모델 ‘Darwin-35B-ZTC-Vision’의 체험용 데모를 허깅페이스(Hugging Face) 본사 오픈소스팀이 직접 제작해 기증했다고 30일 밝혔다.허깅페이스 오픈소스팀 소속 아폴리나리오(Apolinário)는 지난 10월 27일 해당 모델의 공개 페이지에 글을 올려 공개를 축하하고 작업에 감사를 표했다. 이어 모델을 인상적으로 평가하며, 무료 GPU 서비스인 제로GPU(ZeroGPU)에서 실행되는 대화형 데모 앱을 제작했다고 밝혔다. 아울러",
+          "summary": "비드래프트(VIDRAFT·대표 김민식)는 자사가 공개한 비전 판단 인공지능(AI) 모델 ‘Darwin-35B-ZTC-Vision’의 체험용 데모를 허깅페이스(Hugging Face) 본사 오픈소스팀이 직접 제작해 기증했다고 30일 밝혔다.허깅페이스 오픈소스팀 소속 아폴리나리오(Apolinário)는 지난 10월 27일 해당 모델의 공개 페이지에 글을 올려 공개를 축하하고 작업에 감사를 표했다. 이어 모델을 인상적으로 평가하며, 무료 GPU 서비스인 제로GPU(ZeroGPU)에서 실행되는 대화형 데모 앱을 제작했다고 밝혔다. 아울러"
+        },
+        {
+          "title": "AI 신소재 나노포지에이아이, 146억 시드 투자 유치",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216829",
+          "date": "2026-10-30",
+          "source": "AI타임스",
+          "description": "AI 기반 신소재 개발 스타트업 나노포지에이아이(대표 김동현)가 146억원 규모의 시드 투자를 유치했다고 30일 밝혔다.이번 투자 라운드에는 기존 투자사인 퓨처플레이와 매쉬업벤처스를 비롯해 미래에셋벤처투자·DSC인베스트먼트·KDB산업은행·에코프로파트너스 등이 신규 투자자로 참여했다. 나노포지에이아이의 누적 투자 유치액은 150억원을 넘었다.2025년 설립된 나노포지에이아이는 원자 수준의 AI 기반 소재 예측·설계 기술과 로봇 자율실험실을 기반으로 반도체·배터리 등 산업용 신소재를 설계·검증하며 소재 지식재산(IP) 창출을 꾀하고 있",
+          "image": "https://cdn.aitimes.com/news/photo/202610/216829_220985_516.png",
+          "is_english": false,
+          "original_title": "AI 신소재 나노포지에이아이, 146억 시드 투자 유치",
+          "original_summary": "AI 기반 신소재 개발 스타트업 나노포지에이아이(대표 김동현)가 146억원 규모의 시드 투자를 유치했다고 30일 밝혔다.이번 투자 라운드에는 기존 투자사인 퓨처플레이와 매쉬업벤처스를 비롯해 미래에셋벤처투자·DSC인베스트먼트·KDB산업은행·에코프로파트너스 등이 신규 투자자로 참여했다. 나노포지에이아이의 누적 투자 유치액은 150억원을 넘었다.2025년 설립된 나노포지에이아이는 원자 수준의 AI 기반 소재 예측·설계 기술과 로봇 자율실험실을 기반으로 반도체·배터리 등 산업용 신소재를 설계·검증하며 소재 지식재산(IP) 창출을 꾀하고 있",
+          "summary": "AI 기반 신소재 개발 스타트업 나노포지에이아이(대표 김동현)가 146억원 규모의 시드 투자를 유치했다고 30일 밝혔다.이번 투자 라운드에는 기존 투자사인 퓨처플레이와 매쉬업벤처스를 비롯해 미래에셋벤처투자·DSC인베스트먼트·KDB산업은행·에코프로파트너스 등이 신규 투자자로 참여했다. 나노포지에이아이의 누적 투자 유치액은 150억원을 넘었다.2025년 설립된 나노포지에이아이는 원자 수준의 AI 기반 소재 예측·설계 기술과 로봇 자율실험실을 기반으로 반도체·배터리 등 산업용 신소재를 설계·검증하며 소재 지식재산(IP) 창출을 꾀하고 있"
+        },
+        {
+          "title": "[AI리더의 서가] 아파치 아이스버그 완벽 가이드",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216586",
+          "date": "2026-10-30",
+          "source": "AI타임스",
+          "description": "아파치 아이스버그 완벽 가이드토메르 시란·제이슨 휴즈·알렉스 메르세드 | 제이펍2026년 10월 15일추천이유데이터 엔지니어가 데이터 레이크의 유연성과 웨어하우스의 안정성을 결합한 레이크하우스를 구축하기 위해 아이스버그의 내부 구조부터 성능 최적화, 프로덕션 운영까지 실무에 필요한 모든 지식을 습득할 수 있습니다.상세보기 \\\"사내 데이터로 AI 에이전트를 돌려 보자는 이야기가 나올 때마다 결론은 데이터부터 정리하자는 데서 멈춥니다. 레이크하우스, 테이블 포맷 같은 말은 들리는데 어디서부터 손대야 할지 모르겠습니다.\\\" 데이터 플랫폼을",
+          "image": "https://cdn.aitimes.com/news/photo/202610/216586_220683_415.jpg",
+          "is_english": false,
+          "original_title": "[AI리더의 서가] 아파치 아이스버그 완벽 가이드",
+          "original_summary": "아파치 아이스버그 완벽 가이드토메르 시란·제이슨 휴즈·알렉스 메르세드 | 제이펍2026년 10월 15일추천이유데이터 엔지니어가 데이터 레이크의 유연성과 웨어하우스의 안정성을 결합한 레이크하우스를 구축하기 위해 아이스버그의 내부 구조부터 성능 최적화, 프로덕션 운영까지 실무에 필요한 모든 지식을 습득할 수 있습니다.상세보기 \\\"사내 데이터로 AI 에이전트를 돌려 보자는 이야기가 나올 때마다 결론은 데이터부터 정리하자는 데서 멈춥니다. 레이크하우스, 테이블 포맷 같은 말은 들리는데 어디서부터 손대야 할지 모르겠습니다.\\\" 데이터 플랫폼",
+          "summary": "아파치 아이스버그 완벽 가이드토메르 시란·제이슨 휴즈·알렉스 메르세드 | 제이펍2026년 10월 15일추천이유데이터 엔지니어가 데이터 레이크의 유연성과 웨어하우스의 안정성을 결합한 레이크하우스를 구축하기 위해 아이스버그의 내부 구조부터 성능 최적화, 프로덕션 운영까지 실무에 필요한 모든 지식을 습득할 수 있습니다.상세보기 \\\"사내 데이터로 AI 에이전트를 돌려 보자는 이야기가 나올 때마다 결론은 데이터부터 정리하자는 데서 멈춥니다. 레이크하우스, 테이블 포맷 같은 말은 들리는데 어디서부터 손대야 할지 모르겠습니다.\\\" 데이터 플랫폼"
+        },
+        {
+          "title": "앤트로픽, '클로드' 자기 대화 감시 기술 도입…유해 사용 78% 탐지",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216824",
+          "date": "2026-10-30",
+          "source": "AI타임스",
+          "description": "앤트로픽이 \\'클로드\\'가 이용자와 나눈 대화의 위험성을 스스로 평가하는 기술을 개발해 실제 서비스에 적용했다. 별도의 AI 모델을 동원하지 않고 클로드가 답변 직후 대화를 검토해 악용 가능성을 판단하는 방식이다. 기존 감시 체계가 놓친 대규모 사기와 불법적인 AI 모델 정보 추출 시도까지 찾아냈으며, 추가 연산 비용도 2% 미만으로 억제했다. 앤트로픽은 최근 공식 연구 블로그를 통해 \\'자기 평가(Self-Assessment)\\'라는 새로운 안전 감시 기술의 개발 및 운영 결과를 공개했다. 이 기술은 지난 6월 출시된 \\'클로드 페이블 5",
+          "image": "https://cdn.aitimes.com/news/photo/202610/216824_220982_159.png",
+          "is_english": false,
+          "original_title": "앤트로픽, '클로드' 자기 대화 감시 기술 도입…유해 사용 78% 탐지",
+          "original_summary": "앤트로픽이 \\'클로드\\'가 이용자와 나눈 대화의 위험성을 스스로 평가하는 기술을 개발해 실제 서비스에 적용했다. 별도의 AI 모델을 동원하지 않고 클로드가 답변 직후 대화를 검토해 악용 가능성을 판단하는 방식이다. 기존 감시 체계가 놓친 대규모 사기와 불법적인 AI 모델 정보 추출 시도까지 찾아냈으며, 추가 연산 비용도 2% 미만으로 억제했다. 앤트로픽은 최근 공식 연구 블로그를 통해 \\'자기 평가(Self-Assessment)\\'라는 새로운 안전 감시 기술의 개발 및 운영 결과를 공개했다. 이 기술은 지난 6월 출시된 \\'클로드 ",
+          "summary": "앤트로픽이 \\'클로드\\'가 이용자와 나눈 대화의 위험성을 스스로 평가하는 기술을 개발해 실제 서비스에 적용했다. 별도의 AI 모델을 동원하지 않고 클로드가 답변 직후 대화를 검토해 악용 가능성을 판단하는 방식이다. 기존 감시 체계가 놓친 대규모 사기와 불법적인 AI 모델 정보 추출 시도까지 찾아냈으며, 추가 연산 비용도 2% 미만으로 억제했다. 앤트로픽은 최근 공식 연구 블로그를 통해 \\'자기 평가(Self-Assessment)\\'라는 새로운 안전 감시 기술의 개발 및 운영 결과를 공개했다. 이 기술은 지난 6월 출시된 \\'클로드 "
+        },
+        {
+          "title": "회복탄력성을 갖춘 AI 오케스트레이션 플랫폼의 6가지 조건",
+          "link": "https://www.itworld.co.kr/article/4242324/%ed%9a%8c%eb%b3%b5%ed%83%84%eb%a0%a5%ec%84%b1%ec%9d%84-%ea%b0%96%ec%b6%98-ai-%ec%98%a4%ec%bc%80%ec%8a%a4%ed%8a%b8%eb%a0%88%ec%9d%b4%ec%85%98-%ed%94%8c%eb%9e%ab%ed%8f%bc%ec%9d%98-6%ea%b0%80%ec%a7%80.html",
+          "date": "2026-10-30",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n다수의 기업이 AI 에이전트 도입 초기 단계에 있지만, 향후 1년 안에 더 많은 기업이 에이전트와 어시스턴트 규모를 확대할 것이라는 조사 결과가 나왔다. 2026년 8월 발표된 보고서에 따르면 기업의 66%가 향후 12개월 내 디지털 워커에 투자할 가능성이 높다. 보고서는 이런 에이전트에 요구되는 최우선 조건으로 입증된 정확도, 의사결정에 대한 명확한 설명, 사람이 개입해 결정을 뒤집을 수 있는 기능을 꼽았다.\n\n\n\n에이전트 확대 과정의 어느 시점에는 IT·데이터·보안 리더가 운영 환경에서 가동되는 AI 에이전트 수천 개를 어떻게 관리하고 모니터링하며 측정할지 고민해야 한다. 이때 AI 에이전트 오케스트레이션 플랫폼은 에이전트 간 상호작용과 사람과 에이전트 간 상호작용을 아우르는 중앙 컨트롤 플레인 역할을 하며 가치를 발휘한다.\n\n\n\nSAP의 최고 AI 책임자 겸 플랫폼·AI 총괄 조너선 폰 루덴은 에이전트 오케스트레이션의 미래가 개방성에 달",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/10/4242324-0-16489800-1793324047-crm-trends-agentic-ai-shutterstock_2816124497.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "회복탄력성을 갖춘 AI 오케스트레이션 플랫폼의 6가지 조건",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n다수의 기업이 AI 에이전트 도입 초기 단계에 있지만, 향후 1년 안에 더 많은 기업이 에이전트와 어시스턴트 규모를 확대할 것이라는 조사 결과가 나왔다. 2026년 8월 발표된 보고서에 따르면 기업의 66%가 향후 12개월 내 디지털 워커에 투자할 가능성이 높다. 보고서는 이런 에이전트에 요구되는 최우선 조건으로 입증된 정확도, 의사결정에 대한 명확한 설명, 사람이 개입해 결정을 뒤집을 수 있는 기능을 꼽았다.\n\n\n\n에이전트 확대 과정의 어느 시점에는 IT·데이터·보안 리더가 운영 환경에서 ",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n다수의 기업이 AI 에이전트 도입 초기 단계에 있지만, 향후 1년 안에 더 많은 기업이 에이전트와 어시스턴트 규모를 확대할 것이라는 조사 결과가 나왔다. 2026년 8월 발표된 보고서에 따르면 기업의 66%가 향후 12개월 내 디지털 워커에 투자할 가능성이 높다. 보고서는 이런 에이전트에 요구되는 최우선 조건으로 입증된 정확도, 의사결정에 대한 명확한 설명, 사람이 개입해 결정을 뒤집을 수 있는 기능을 꼽았다.\n\n\n\n에이전트 확대 과정의 어느 시점에는 IT·데이터·보안 리더가 운영 환경에서 "
+        },
+        {
+          "title": "AI 에이전트에 필요한 것은 기억이 아닌 ‘신뢰할 수 있는 상태’",
+          "link": "https://www.itworld.co.kr/article/4240052/ai-%ec%97%90%ec%9d%b4%ec%a0%84%ed%8a%b8%ec%97%90-%ed%95%84%ec%9a%94%ed%95%9c-%ea%b2%83%ec%9d%80-%ea%b8%b0%ec%96%b5%ec%9d%b4-%ec%95%84%eb%8b%8c-%ec%8b%a0%eb%a2%b0%ed%95%a0-%ec%88%98-%ec%9e%88.html",
+          "date": "2026-10-30",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n대부분의 경우 AI 에이전트를 구축하는 팀이 주력하는 요소는 더 우수한 메모리(기억력), 더 긴 컨텍스트 윈도우, 대화 요약, 그리고 에이전트가 과거에 본 모든 정보를 불러오는 검색 시스템 구축이다. 이러한 요소는 물론 유용하다. 그러나 어떤 작업이 실제로 완료됐는지 여부를 확인하는 문제는 해결하지 못한다. 메모리는 에이전트에게 무슨 일이 있었는지 알려주지만 지금 시점에서 무엇이 사실인지는 알려주지 않는다. 환불 처리, 주문 변경, 계정 업데이트와 같은 실제 작업을 수행하는 에이전트에게 그 차이는 매우 중요하다.\n\n\n\n\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\n\t\t\t메모리는 요청을 기억할 수 있지만 그 요청의 결과는 알지 못한다.Arjun Mullick\n\n\n\n\n\n\n\n예를 들어 환불을 승인하는 고객 서비스 에이전트를 생각해 보자. 환불이 실제로 이뤄졌지만 그 결과가 에이전트에 도달하기 전에 확인 응답이 타임아웃된다. 에이전트 관점에서는 요청에 대한 기록만 있",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/10/4240052-0-94060400-1793322262-KI3.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "AI 에이전트에 필요한 것은 기억이 아닌 ‘신뢰할 수 있는 상태’",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n대부분의 경우 AI 에이전트를 구축하는 팀이 주력하는 요소는 더 우수한 메모리(기억력), 더 긴 컨텍스트 윈도우, 대화 요약, 그리고 에이전트가 과거에 본 모든 정보를 불러오는 검색 시스템 구축이다. 이러한 요소는 물론 유용하다. 그러나 어떤 작업이 실제로 완료됐는지 여부를 확인하는 문제는 해결하지 못한다. 메모리는 에이전트에게 무슨 일이 있었는지 알려주지만 지금 시점에서 무엇이 사실인지는 알려주지 않는다. 환불 처리, 주문 변경, 계정 업데이트와 같은 실제 작업을 수행하는 에이전트에게 그 ",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n대부분의 경우 AI 에이전트를 구축하는 팀이 주력하는 요소는 더 우수한 메모리(기억력), 더 긴 컨텍스트 윈도우, 대화 요약, 그리고 에이전트가 과거에 본 모든 정보를 불러오는 검색 시스템 구축이다. 이러한 요소는 물론 유용하다. 그러나 어떤 작업이 실제로 완료됐는지 여부를 확인하는 문제는 해결하지 못한다. 메모리는 에이전트에게 무슨 일이 있었는지 알려주지만 지금 시점에서 무엇이 사실인지는 알려주지 않는다. 환불 처리, 주문 변경, 계정 업데이트와 같은 실제 작업을 수행하는 에이전트에게 그 "
+        },
+        {
+          "title": "모델 라우팅으로 추론 비용 줄인다…데이터브릭스·MS·엔비디아·스노우플레이크 앞다퉈 도입",
+          "link": "https://www.itworld.co.kr/article/4242263/%eb%aa%a8%eb%8d%b8-%eb%9d%bc%ec%9a%b0%ed%8c%85%ec%9c%bc%eb%a1%9c-%ec%b6%94%eb%a1%a0-%eb%b9%84%ec%9a%a9-%ec%a4%84%ec%9d%b8%eb%8b%a4%eb%8d%b0%ec%9d%b4%ed%84%b0%eb%b8%8c%eb%a6%ad%ec%8a%a4%c2%b7.html",
+          "date": "2026-10-30",
+          "source": "ITWorld",
+          "description": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n코딩을 비롯한 여러 작업에 프론티어 모델을 사용하면 비용이 많이 발생할 수 있지만 경우에 따라서는 그만큼 매우 효과적이기도 하다. 프론티어 모델보다 더 저렴한, 비교적 작은 모델이나 오래된 모델을 사용하고 싶은 생각이 들지만 이런 모델은 값이 싼 만큼 프론티어 모델에 비해 성능이 떨어진다. 어떤 작업에 이상적인 모델은 주로 그 작업의 복잡성에 따라 달라진다. 요청과 컨텍스트를 기반으로 가장 적절한 모델을 자동으로 선택하는 것을 모델 라우팅이라고 한다.\n\n\n\n모델 라우팅의 작동 방식\n\n\n\n모델 라우팅을 구현하는 방법은 여러 가지다. 일반적으로 모델 라우팅은 사용 가능한 모델들로 구성된 풀, 모델 선택에 사용되는 기준, 그리고 라우터가 최적화하고자 하는 목표에 따라 달라진다. 구현하는 방식은 업체마다 다르다.\n\n\n\n데이터브릭스의 유니티 게이트웨이(Unity Gateway)는 코덱스 또는 클로드 코드를 위한 스마트 라우팅(Smart Routing)",
+          "image": "https://www.itworld.co.kr/wp-content/uploads/2026/10/4242263-0-39068900-1793323145-shutterstock_2236217443.jpg?quality=50&strip=all",
+          "is_english": false,
+          "original_title": "모델 라우팅으로 추론 비용 줄인다…데이터브릭스·MS·엔비디아·스노우플레이크 앞다퉈 도입",
+          "original_summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n코딩을 비롯한 여러 작업에 프론티어 모델을 사용하면 비용이 많이 발생할 수 있지만 경우에 따라서는 그만큼 매우 효과적이기도 하다. 프론티어 모델보다 더 저렴한, 비교적 작은 모델이나 오래된 모델을 사용하고 싶은 생각이 들지만 이런 모델은 값이 싼 만큼 프론티어 모델에 비해 성능이 떨어진다. 어떤 작업에 이상적인 모델은 주로 그 작업의 복잡성에 따라 달라진다. 요청과 컨텍스트를 기반으로 가장 적절한 모델을 자동으로 선택하는 것을 모델 라우팅이라고 한다.\n\n\n\n모델 라우팅의 작동 방식\n\n\n\n모델",
+          "summary": "\n\t\t\n\t\t\t\t\t  \n\t\t\t\t\t\t\n\n\n\n\n코딩을 비롯한 여러 작업에 프론티어 모델을 사용하면 비용이 많이 발생할 수 있지만 경우에 따라서는 그만큼 매우 효과적이기도 하다. 프론티어 모델보다 더 저렴한, 비교적 작은 모델이나 오래된 모델을 사용하고 싶은 생각이 들지만 이런 모델은 값이 싼 만큼 프론티어 모델에 비해 성능이 떨어진다. 어떤 작업에 이상적인 모델은 주로 그 작업의 복잡성에 따라 달라진다. 요청과 컨텍스트를 기반으로 가장 적절한 모델을 자동으로 선택하는 것을 모델 라우팅이라고 한다.\n\n\n\n모델 라우팅의 작동 방식\n\n\n\n모델"
+        },
+        {
+          "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+          "link": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+          "date": "2026-10-30",
+          "source": "TechCrunch",
+          "description": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2274650383.jpg?resize=1200,840",
+          "is_english": true,
+          "original_title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+          "original_summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace.",
+          "summary": "David Durman, a University of Kentucky administrator, recently earned a religious exemption from using AI in the workplace."
+        },
         {
           "title": "교육부, 특별성과 우수사례 시상…대상에 'AI 사이버보안 구축'",
           "link": "https://www.yna.co.kr/view/AKR20261029186200530",
@@ -178,19 +298,6 @@
           "category": "AI Model"
         },
         {
-          "title": "MiniMaxAI/MiniMax-M3.1-Flash",
-          "link": "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash",
-          "date": "2026-10-30",
-          "source": "HuggingFace",
-          "description": "• MiniMax-M3.1-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash/resolve/main/figures/logo.svg",
-          "is_english": true,
-          "summary": "• MiniMax-M3.1-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "MiniMaxAI/MiniMax-M3.1-Flash",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
           "link": "https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
           "date": "2026-10-30",
@@ -200,19 +307,6 @@
           "is_english": true,
           "summary": "• DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "Lightricks/LTX-2.5",
-          "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-10-30",
-          "source": "HuggingFace",
-          "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
-          "is_english": true,
-          "summary": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Lightricks/LTX-2.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -230,15 +324,15 @@
           "category": "AI Model"
         },
         {
-          "title": "black-forest-labs/flux-3-image-klein-comfy",
-          "link": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+          "title": "Lightricks/LTX-2.5",
+          "link": "https://huggingface.co/Lightricks/LTX-2.5",
           "date": "2026-10-30",
           "source": "HuggingFace",
-          "description": "• flux-3-image-klein-comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
           "is_english": true,
-          "summary": "• flux-3-image-klein-comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "black-forest-labs/flux-3-image-klein-comfy",
+          "summary": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Lightricks/LTX-2.5",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -252,6 +346,32 @@
           "is_english": true,
           "summary": "• Unlimited-OCR-2 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "baidu/Unlimited-OCR-2",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "MiniMaxAI/MiniMax-M3.1-Flash",
+          "link": "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash",
+          "date": "2026-10-30",
+          "source": "HuggingFace",
+          "description": "• MiniMax-M3.1-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/MiniMaxAI/MiniMax-M3.1-Flash/resolve/main/figures/logo.svg",
+          "is_english": true,
+          "summary": "• MiniMax-M3.1-Flash 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "MiniMaxAI/MiniMax-M3.1-Flash",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "black-forest-labs/flux-3-image-klein-comfy",
+          "link": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+          "date": "2026-10-30",
+          "source": "HuggingFace",
+          "description": "• flux-3-image-klein-comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• flux-3-image-klein-comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "black-forest-labs/flux-3-image-klein-comfy",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -334,19 +454,6 @@
           "category": "AI Model"
         },
         {
-          "title": "OpenMOSS-Team/MOSS-Image-SFT",
-          "link": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
-          "date": "2026-10-30",
-          "source": "HuggingFace",
-          "description": "• MOSS-Image-SFT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT/resolve/main/assets/lockup-light.svg",
-          "is_english": true,
-          "summary": "• MOSS-Image-SFT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "OpenMOSS-Team/MOSS-Image-SFT",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "LiquidAI/LFM3-Omni-2B",
           "link": "https://huggingface.co/LiquidAI/LFM3-Omni-2B",
           "date": "2026-10-30",
@@ -360,15 +467,28 @@
           "category": "AI Model"
         },
         {
-          "title": "HuggingFaceBio/Carbon-X",
-          "link": "https://huggingface.co/HuggingFaceBio/Carbon-X",
+          "title": "openbmb/MiniCPM-OCR-1.0",
+          "link": "https://huggingface.co/openbmb/MiniCPM-OCR-1.0",
           "date": "2026-10-30",
           "source": "HuggingFace",
-          "description": "• Carbon-X 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/HuggingFaceBio/Carbon-X/resolve/main/figures/carbon-x-banner.png",
+          "description": "• MiniCPM-OCR-1.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://raw.githubusercontent.com/OpenBMB/MiniCPM-OCR/main/assets/minicpm-ocr/minicpm-logo.jpg",
           "is_english": true,
-          "summary": "• Carbon-X 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "HuggingFaceBio/Carbon-X",
+          "summary": "• MiniCPM-OCR-1.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "openbmb/MiniCPM-OCR-1.0",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "OpenMOSS-Team/MOSS-Image-SFT",
+          "link": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
+          "date": "2026-10-30",
+          "source": "HuggingFace",
+          "description": "• MOSS-Image-SFT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT/resolve/main/assets/lockup-light.svg",
+          "is_english": true,
+          "summary": "• MOSS-Image-SFT 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "OpenMOSS-Team/MOSS-Image-SFT",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -376,8 +496,20 @@
     },
     {
       "date": "2026-10-29",
-      "update_time": "2026-10-29 22:12:27",
+      "update_time": "2026-10-30 03:26:57",
       "news": [
+        {
+          "title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+          "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+          "date": "2026-10-29",
+          "source": "TechCrunch",
+          "description": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2022/09/GettyImages-1415078085.jpg?resize=1200,721",
+          "is_english": true,
+          "original_title": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+          "original_summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday. ",
+          "summary": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday. "
+        },
         {
           "title": "As search traffic dries up, Reddit announces it’s shifting to a logged-in experience",
           "link": "https://techcrunch.com/2026/10/29/as-search-traffic-dries-up-reddit-announces-its-shifting-to-a-logged-in-experience/",
