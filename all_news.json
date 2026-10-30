@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-10-31",
-      "update_time": "2026-10-30 17:26:35",
+      "update_time": "2026-10-30 21:47:09",
       "news": [
+        {
+          "title": "[AI돋보기] 코인 탈취부터 위장 취업까지…북한발 사이버 위협은",
+          "link": "https://www.yna.co.kr/view/AKR20261030161700017",
+          "date": "2026-10-31",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 심재훈 기자 = 가상자산을 훔치고 방산업체의 기술자료를 빼내는 해킹 조직, 신분을 속여 해외 기업에 취업하는 정보기술(IT) ...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/30/AKR20261030161700017_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "[AI돋보기] 코인 탈취부터 위장 취업까지…북한발 사이버 위협은",
+          "original_summary": "(서울=연합뉴스) 심재훈 기자 = 가상자산을 훔치고 방산업체의 기술자료를 빼내는 해킹 조직, 신분을 속여 해외 기업에 취업하는 정보기술(IT) ...",
+          "summary": "(서울=연합뉴스) 심재훈 기자 = 가상자산을 훔치고 방산업체의 기술자료를 빼내는 해킹 조직, 신분을 속여 해외 기업에 취업하는 정보기술(IT) ..."
+        },
         {
           "title": "Gemini Carbon aims to boost AI cyber defense, but is limited to a few",
           "link": "https://aibusiness.com/cybersecurity/gemini-carbon-aims-boost-ai-cyber-defense-but-limited-to-a-few",
@@ -94,19 +106,6 @@
           "category": "AI Model"
         },
         {
-          "title": "RecursiveSI/flint",
-          "link": "https://huggingface.co/RecursiveSI/flint",
-          "date": "2026-10-31",
-          "source": "HuggingFace",
-          "description": "• flint 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/RecursiveSI/flint/resolve/main/assets/flint_benchmarks_nvfp4.png",
-          "is_english": true,
-          "summary": "• flint 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "RecursiveSI/flint",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "baidu/Unlimited-OCR-2",
           "link": "https://huggingface.co/baidu/Unlimited-OCR-2",
           "date": "2026-10-31",
@@ -129,6 +128,19 @@
           "is_english": true,
           "summary": "• Mistral-Large-4-1T-A52B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "mistralai/Mistral-Large-4-1T-A52B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "RecursiveSI/flint",
+          "link": "https://huggingface.co/RecursiveSI/flint",
+          "date": "2026-10-31",
+          "source": "HuggingFace",
+          "description": "• flint 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/RecursiveSI/flint/resolve/main/assets/flint_benchmarks_nvfp4.png",
+          "is_english": true,
+          "summary": "• flint 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "RecursiveSI/flint",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -224,19 +236,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-          "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-          "date": "2026-10-31",
-          "source": "HuggingFace",
-          "description": "• NVIDIA-Nemotron-3.5-Bolt-E4B-4GB 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB/resolve/main/bolt-smart-and-fast.png",
-          "is_english": true,
-          "summary": "• NVIDIA-Nemotron-3.5-Bolt-E4B-4GB 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "LiquidAI/LFM3-Omni-2B",
           "link": "https://huggingface.co/LiquidAI/LFM3-Omni-2B",
           "date": "2026-10-31",
@@ -246,6 +245,19 @@
           "is_english": true,
           "summary": "• LFM3-Omni-2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "LiquidAI/LFM3-Omni-2B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+          "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
+          "date": "2026-10-31",
+          "source": "HuggingFace",
+          "description": "• NVIDIA-Nemotron-3.5-Bolt-E4B-4GB 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB/resolve/main/bolt-smart-and-fast.png",
+          "is_english": true,
+          "summary": "• NVIDIA-Nemotron-3.5-Bolt-E4B-4GB 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -276,15 +288,15 @@
           "category": "AI Model"
         },
         {
-          "title": "facebook/sam3",
-          "link": "https://huggingface.co/facebook/sam3",
+          "title": "Pika-Labs/Pika-H3-Flex",
+          "link": "https://huggingface.co/Pika-Labs/Pika-H3-Flex",
           "date": "2026-10-31",
           "source": "HuggingFace",
-          "description": "• sam3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "description": "• Pika-H3-Flex 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
           "is_english": true,
-          "summary": "• sam3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "facebook/sam3",
+          "summary": "• Pika-H3-Flex 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Pika-Labs/Pika-H3-Flex",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -292,8 +304,92 @@
     },
     {
       "date": "2026-10-30",
-      "update_time": "2026-10-30 17:26:35",
+      "update_time": "2026-10-30 21:47:07",
       "news": [
+        {
+          "title": "광양경자청, 2026 GFEZ 전문가그룹 간담회 개최",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216836",
+          "date": "2026-10-30",
+          "source": "AI타임스",
+          "description": "광양만권경제자유구역청(청장 구충곤)은 30일 브리브 광주 바이 롯데호텔에서 GFEZ의 의료·철강·화학·항만물류 4개 산업 분야 전문가들과 지속가능한 발전 및 기업 투자유치 방안을 논의하는 \\'2026 전문가그룹 간담회\\'를 개최했다. 이번 행사에서는 급변하는 국내외 산업환경에 대응하고, GFEZ의 산업 경쟁력을 강화하기 위해 각 분야 전문가들이 지역의 산업 강점을 활용한 신규 투자유치 기회와 산업 간 연계·협력 방안에 대해 논의했다.전문가들은 글로벌 공급망 재편과 탄소중립 전환, AI 기술 발전, 산업 간 융복합 등 산업환경이 빠르게",
+          "image": "https://cdn.aitimes.com/news/photo/202610/216836_220993_5454.jpeg",
+          "is_english": false,
+          "original_title": "광양경자청, 2026 GFEZ 전문가그룹 간담회 개최",
+          "original_summary": "광양만권경제자유구역청(청장 구충곤)은 30일 브리브 광주 바이 롯데호텔에서 GFEZ의 의료·철강·화학·항만물류 4개 산업 분야 전문가들과 지속가능한 발전 및 기업 투자유치 방안을 논의하는 \\'2026 전문가그룹 간담회\\'를 개최했다. 이번 행사에서는 급변하는 국내외 산업환경에 대응하고, GFEZ의 산업 경쟁력을 강화하기 위해 각 분야 전문가들이 지역의 산업 강점을 활용한 신규 투자유치 기회와 산업 간 연계·협력 방안에 대해 논의했다.전문가들은 글로벌 공급망 재편과 탄소중립 전환, AI 기술 발전, 산업 간 융복합 등 산업환경이 빠르",
+          "summary": "광양만권경제자유구역청(청장 구충곤)은 30일 브리브 광주 바이 롯데호텔에서 GFEZ의 의료·철강·화학·항만물류 4개 산업 분야 전문가들과 지속가능한 발전 및 기업 투자유치 방안을 논의하는 \\'2026 전문가그룹 간담회\\'를 개최했다. 이번 행사에서는 급변하는 국내외 산업환경에 대응하고, GFEZ의 산업 경쟁력을 강화하기 위해 각 분야 전문가들이 지역의 산업 강점을 활용한 신규 투자유치 기회와 산업 간 연계·협력 방안에 대해 논의했다.전문가들은 글로벌 공급망 재편과 탄소중립 전환, AI 기술 발전, 산업 간 융복합 등 산업환경이 빠르"
+        },
+        {
+          "title": "Making it easier for websites to express AI training preferences",
+          "link": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+          "date": "2026-10-30",
+          "source": "OpenAI",
+          "description": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Making it easier for websites to express AI training preferences",
+          "original_summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+          "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers."
+        },
+        {
+          "title": "Last-minute Halloween costumes for tech nerds",
+          "link": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds/",
+          "date": "2026-10-30",
+          "source": "TechCrunch",
+          "description": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2170662558.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Last-minute Halloween costumes for tech nerds",
+          "original_summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
+          "summary": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson."
+        },
+        {
+          "title": "Cracks are emerging in the AI spending boom",
+          "link": "https://techcrunch.com/2026/10/30/cracks-are-emerging-in-the-ai-spending-boom/",
+          "date": "2026-10-30",
+          "source": "TechCrunch",
+          "description": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/mick-haupt-7Kv1Elbagcc-unsplash.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Cracks are emerging in the AI spending boom",
+          "original_summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom.",
+          "summary": "Big Tech is pouring billions into AI infrastructure, but mounting debt, negative cash flow, and growing investor skepticism are raising questions about the sustainability of the AI spending boom."
+        },
+        {
+          "title": "Zest’s new AI agent finds restaurants and books reservations over text",
+          "link": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
+          "date": "2026-10-30",
+          "source": "TechCrunch",
+          "description": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/zest.jpg?resize=1200,764",
+          "is_english": true,
+          "original_title": "Zest’s new AI agent finds restaurants and books reservations over text",
+          "original_summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation.",
+          "summary": "Can't agree on where to eat? Zest's AI concierge can combine everyone's tastes, put restaurant options to a vote, and make the reservation."
+        },
+        {
+          "title": "MIT affiliates named 2026 Schmidt Sciences AI2050 Fellows",
+          "link": "https://news.mit.edu/2026/mit-affiliates-named-schmidt-sciences-ai2050-fellows-1030",
+          "date": "2026-10-30",
+          "source": "MIT News",
+          "description": "Five MIT faculty members and two additional alumni are honored with fellowships to advance research on beneficial AI.",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/mit-eecs-Schmidt-AI-2050.jpg?itok=tKYYjIR3",
+          "is_english": true,
+          "original_title": "MIT affiliates named 2026 Schmidt Sciences AI2050 Fellows",
+          "original_summary": "Five MIT faculty members and two additional alumni are honored with fellowships to advance research on beneficial AI.",
+          "summary": "Five MIT faculty members and two additional alumni are honored with fellowships to advance research on beneficial AI."
+        },
+        {
+          "title": "Q&A: Hey AI, who should I vote for this year?",
+          "link": "https://news.mit.edu/2026/qa-hey-ai-who-should-i-vote-for-this-year-1030",
+          "date": "2026-10-30",
+          "source": "MIT News",
+          "description": "MIT professors Adam Berinsky and Chara Podimata discuss a new project to track how AI chatbots are responding to questions about the 2026 U.S. midterm elections. ",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/MIT-ElectionLLM-01-press.jpg?itok=F-_mE_pt",
+          "is_english": true,
+          "original_title": "Q&A: Hey AI, who should I vote for this year?",
+          "original_summary": "MIT professors Adam Berinsky and Chara Podimata discuss a new project to track how AI chatbots are responding to questions about the 2026 U.S. midterm elections. ",
+          "summary": "MIT professors Adam Berinsky and Chara Podimata discuss a new project to track how AI chatbots are responding to questions about the 2026 U.S. midterm elections. "
+        },
         {
           "title": "Community safety report and new protections for teens",
           "link": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
@@ -7561,7 +7657,7 @@
         {
           "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-          "date": "2026-10-22",
+          "date": "2026-10-31",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4.1-Flash-1017 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
@@ -7574,7 +7670,7 @@
         {
           "title": "black-forest-labs/flux-3-image-klein-comfy",
           "link": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
-          "date": "2026-10-22",
+          "date": "2026-10-31",
           "source": "HuggingFace",
           "description": "• flux-3-image-klein-comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -7652,7 +7748,7 @@
         {
           "title": "Lightricks/LTX-2.5",
           "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-10-22",
+          "date": "2026-10-31",
           "source": "HuggingFace",
           "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -7717,7 +7813,7 @@
         {
           "title": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
           "link": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
-          "date": "2026-10-22",
+          "date": "2026-10-31",
           "source": "HuggingFace",
           "description": "• Qwen-Image-2.1-Uncensored-Quantized 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%A4%97_Model_Requests-Submit_Here-f59e0b?style=for-the-badge&labelColor=1f2937",
@@ -7730,7 +7826,7 @@
         {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "date": "2026-10-22",
+          "date": "2026-10-31",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
