@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-11-01",
-      "update_time": "2026-10-31 16:29:50",
+      "update_time": "2026-10-31 20:46:43",
       "news": [
+        {
+          "title": "삼성 사장단 50명 만난 알트먼 \"AI 활용 속도가 기업 경쟁력 결정\"",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216852",
+          "date": "2026-11-01",
+          "source": "AI타임스",
+          "description": "샘 알트먼 오픈AI CEO가 삼성그룹 주요 관계사 사장단 50여명과 만나 AI 시대의 경영 전략을 논의했다. 그는 단순히 AI를 도입하는 것만으로는 경쟁력을 확보하기 어렵다며, AI를 활용해 얼마나 빠르게 움직이고 더 나은 제품을 만드느냐가 기업의 경쟁력을 결정할 것이라고 강조했다. 삼성은 31일 경기도 용인 삼성인력개발원에서 알트먼 CEO를 초청해 \\'AI가 바꿀 다음 10년, 기업의 선택\\'을 주제로 간담회를 개최했다고 밝혔다. 이날 행사에는 전영현 삼성전자 반도체(DS) 부문장 부회장과 노태문 디바이스경험(DX) 부문장 사장 등",
+          "image": "https://cdn.aitimes.com/news/photo/202611/216852_221018_93.png",
+          "is_english": false,
+          "original_title": "삼성 사장단 50명 만난 알트먼 \"AI 활용 속도가 기업 경쟁력 결정\"",
+          "original_summary": "샘 알트먼 오픈AI CEO가 삼성그룹 주요 관계사 사장단 50여명과 만나 AI 시대의 경영 전략을 논의했다. 그는 단순히 AI를 도입하는 것만으로는 경쟁력을 확보하기 어렵다며, AI를 활용해 얼마나 빠르게 움직이고 더 나은 제품을 만드느냐가 기업의 경쟁력을 결정할 것이라고 강조했다. 삼성은 31일 경기도 용인 삼성인력개발원에서 알트먼 CEO를 초청해 \\'AI가 바꿀 다음 10년, 기업의 선택\\'을 주제로 간담회를 개최했다고 밝혔다. 이날 행사에는 전영현 삼성전자 반도체(DS) 부문장 부회장과 노태문 디바이스경험(DX) 부문장 사장 ",
+          "summary": "샘 알트먼 오픈AI CEO가 삼성그룹 주요 관계사 사장단 50여명과 만나 AI 시대의 경영 전략을 논의했다. 그는 단순히 AI를 도입하는 것만으로는 경쟁력을 확보하기 어렵다며, AI를 활용해 얼마나 빠르게 움직이고 더 나은 제품을 만드느냐가 기업의 경쟁력을 결정할 것이라고 강조했다. 삼성은 31일 경기도 용인 삼성인력개발원에서 알트먼 CEO를 초청해 \\'AI가 바꿀 다음 10년, 기업의 선택\\'을 주제로 간담회를 개최했다고 밝혔다. 이날 행사에는 전영현 삼성전자 반도체(DS) 부문장 부회장과 노태문 디바이스경험(DX) 부문장 사장 "
+        },
         {
           "title": "Nanbeige/Nanbeige4.3-33B",
           "link": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
@@ -213,19 +225,6 @@
           "category": "AI Model"
         },
         {
-          "title": "orcarouter/DeepSeek-V4.1-Flash-1017-abliterated-GGUF",
-          "link": "https://huggingface.co/orcarouter/DeepSeek-V4.1-Flash-1017-abliterated-GGUF",
-          "date": "2026-11-01",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4.1-Flash-1017-abliterated-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• DeepSeek-V4.1-Flash-1017-abliterated-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "orcarouter/DeepSeek-V4.1-Flash-1017-abliterated-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "openbmb/MiniCPM-OCR-1.0",
           "link": "https://huggingface.co/openbmb/MiniCPM-OCR-1.0",
           "date": "2026-11-01",
@@ -261,6 +260,19 @@
           "is_english": true,
           "summary": "• LFM3-VL-2B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "LiquidAI/LFM3-VL-2B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "orcarouter/DeepSeek-V4.1-Flash-1017-abliterated-GGUF",
+          "link": "https://huggingface.co/orcarouter/DeepSeek-V4.1-Flash-1017-abliterated-GGUF",
+          "date": "2026-11-01",
+          "source": "HuggingFace",
+          "description": "• DeepSeek-V4.1-Flash-1017-abliterated-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• DeepSeek-V4.1-Flash-1017-abliterated-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "orcarouter/DeepSeek-V4.1-Flash-1017-abliterated-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -7237,7 +7249,7 @@
         {
           "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-          "date": "2026-10-23",
+          "date": "2026-11-01",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4.1-Flash-1017 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
@@ -7250,7 +7262,7 @@
         {
           "title": "black-forest-labs/flux-3-image-klein-comfy",
           "link": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
-          "date": "2026-10-23",
+          "date": "2026-11-01",
           "source": "HuggingFace",
           "description": "• flux-3-image-klein-comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -7263,7 +7275,7 @@
         {
           "title": "RecursiveSI/flint",
           "link": "https://huggingface.co/RecursiveSI/flint",
-          "date": "2026-10-23",
+          "date": "2026-11-01",
           "source": "HuggingFace",
           "description": "• flint 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/RecursiveSI/flint/resolve/main/assets/flint_benchmarks_nvfp4.png",
@@ -7302,7 +7314,7 @@
         {
           "title": "Lightricks/LTX-2.5",
           "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-10-23",
+          "date": "2026-11-01",
           "source": "HuggingFace",
           "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -7354,7 +7366,7 @@
         {
           "title": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
           "link": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
-          "date": "2026-10-23",
+          "date": "2026-11-01",
           "source": "HuggingFace",
           "description": "• Qwen-Image-2.1-Uncensored-Quantized 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%A4%97_Model_Requests-Submit_Here-f59e0b?style=for-the-badge&labelColor=1f2937",
@@ -7367,7 +7379,7 @@
         {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "date": "2026-10-23",
+          "date": "2026-11-01",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
