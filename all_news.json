@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-11-01",
-      "update_time": "2026-10-31 20:46:43",
+      "update_time": "2026-10-31 23:51:20",
       "news": [
+        {
+          "title": "경기도, '글로벌 AI허브' 유치 총력…지페어서 전략 논의",
+          "link": "https://www.yna.co.kr/view/AKR20261030171200061",
+          "date": "2026-11-01",
+          "source": "연합뉴스",
+          "description": "(수원=연합뉴스) 최종호 기자 = 경기도는 &apos;글로벌 AI허브 유치 전략 포럼&apos;을 열고 전문가, 시군 관계자 등과 함께 유치 전략을 논의했다고 1...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/10/30/AKR20261030171200061_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "경기도, '글로벌 AI허브' 유치 총력…지페어서 전략 논의",
+          "original_summary": "(수원=연합뉴스) 최종호 기자 = 경기도는 &apos;글로벌 AI허브 유치 전략 포럼&apos;을 열고 전문가, 시군 관계자 등과 함께 유치 전략을 논의했다고 1...",
+          "summary": "(수원=연합뉴스) 최종호 기자 = 경기도는 &apos;글로벌 AI허브 유치 전략 포럼&apos;을 열고 전문가, 시군 관계자 등과 함께 유치 전략을 논의했다고 1..."
+        },
         {
           "title": "삼성 사장단 50명 만난 알트먼 \"AI 활용 속도가 기업 경쟁력 결정\"",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216852",
@@ -121,19 +133,6 @@
           "category": "AI Model"
         },
         {
-          "title": "RecursiveSI/flint",
-          "link": "https://huggingface.co/RecursiveSI/flint",
-          "date": "2026-11-01",
-          "source": "HuggingFace",
-          "description": "• flint 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/RecursiveSI/flint/resolve/main/assets/flint_benchmarks_nvfp4.png",
-          "is_english": true,
-          "summary": "• flint 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "RecursiveSI/flint",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "XHToken/Spark-X2.6-4B",
           "link": "https://huggingface.co/XHToken/Spark-X2.6-4B",
           "date": "2026-11-01",
@@ -143,6 +142,19 @@
           "is_english": true,
           "summary": "• Spark-X2.6-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "XHToken/Spark-X2.6-4B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "RecursiveSI/flint",
+          "link": "https://huggingface.co/RecursiveSI/flint",
+          "date": "2026-11-01",
+          "source": "HuggingFace",
+          "description": "• flint 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/RecursiveSI/flint/resolve/main/assets/flint_benchmarks_nvfp4.png",
+          "is_english": true,
+          "summary": "• flint 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "RecursiveSI/flint",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -173,19 +185,6 @@
           "category": "AI Model"
         },
         {
-          "title": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
-          "link": "https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
-          "date": "2026-11-01",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/arXiv-GSQ_2604.18556-b31b1b?logo=arxiv&logoColor=white",
-          "is_english": true,
-          "summary": "• DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
           "date": "2026-11-01",
@@ -195,6 +194,19 @@
           "is_english": true,
           "summary": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.8-27B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
+          "link": "https://huggingface.co/ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
+          "date": "2026-11-01",
+          "source": "HuggingFace",
+          "description": "• DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/arXiv-GSQ_2604.18556-b31b1b?logo=arxiv&logoColor=white",
+          "is_english": true,
+          "summary": "• DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "ISTA-DASLab/DeepSeek-V4.1-Flash-1017-GSQ-RCO-GGUF",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -225,19 +237,6 @@
           "category": "AI Model"
         },
         {
-          "title": "openbmb/MiniCPM-OCR-1.0",
-          "link": "https://huggingface.co/openbmb/MiniCPM-OCR-1.0",
-          "date": "2026-11-01",
-          "source": "HuggingFace",
-          "description": "• MiniCPM-OCR-1.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://raw.githubusercontent.com/OpenBMB/MiniCPM-OCR/main/assets/minicpm-ocr/minicpm-logo.jpg",
-          "is_english": true,
-          "summary": "• MiniCPM-OCR-1.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "openbmb/MiniCPM-OCR-1.0",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "speridlabs/idol",
           "link": "https://huggingface.co/speridlabs/idol",
           "date": "2026-11-01",
@@ -247,6 +246,19 @@
           "is_english": true,
           "summary": "• idol 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "speridlabs/idol",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "openbmb/MiniCPM-OCR-1.0",
+          "link": "https://huggingface.co/openbmb/MiniCPM-OCR-1.0",
+          "date": "2026-11-01",
+          "source": "HuggingFace",
+          "description": "• MiniCPM-OCR-1.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://raw.githubusercontent.com/OpenBMB/MiniCPM-OCR/main/assets/minicpm-ocr/minicpm-logo.jpg",
+          "is_english": true,
+          "summary": "• MiniCPM-OCR-1.0 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "openbmb/MiniCPM-OCR-1.0",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -264,15 +276,15 @@
           "category": "AI Model"
         },
         {
-          "title": "orcarouter/DeepSeek-V4.1-Flash-1017-abliterated-GGUF",
-          "link": "https://huggingface.co/orcarouter/DeepSeek-V4.1-Flash-1017-abliterated-GGUF",
+          "title": "Diffuspace/Clover-35B-A3B-Preview",
+          "link": "https://huggingface.co/Diffuspace/Clover-35B-A3B-Preview",
           "date": "2026-11-01",
           "source": "HuggingFace",
-          "description": "• DeepSeek-V4.1-Flash-1017-abliterated-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "description": "• Clover-35B-A3B-Preview 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://diffuspace.ai/assets/blog/clover/agentic-benchmarks.jpg",
           "is_english": true,
-          "summary": "• DeepSeek-V4.1-Flash-1017-abliterated-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "orcarouter/DeepSeek-V4.1-Flash-1017-abliterated-GGUF",
+          "summary": "• Clover-35B-A3B-Preview 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Diffuspace/Clover-35B-A3B-Preview",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -280,8 +292,44 @@
     },
     {
       "date": "2026-10-31",
-      "update_time": "2026-10-31 16:29:48",
+      "update_time": "2026-10-31 23:51:18",
       "news": [
+        {
+          "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+          "link": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+          "date": "2026-10-31",
+          "source": "TechCrunch",
+          "description": "Apple's new CEO defended the company's current position in the AI landscape.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024",
+          "is_english": true,
+          "original_title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+          "original_summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+          "summary": "Apple's new CEO defended the company's current position in the AI landscape."
+        },
+        {
+          "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+          "link": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+          "date": "2026-10-31",
+          "source": "TechCrunch",
+          "description": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+          "original_summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+          "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door."
+        },
+        {
+          "title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+          "link": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/",
+          "date": "2026-10-31",
+          "source": "TechCrunch",
+          "description": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+          "image": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-2217198328.jpeg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Judge allows NAACP lawsuit over xAI data center pollution to move forward",
+          "original_summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.",
+          "summary": "An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act."
+        },
         {
           "title": "OpenAI reportedly lowers funding target for new round",
           "link": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
