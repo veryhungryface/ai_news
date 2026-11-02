@@ -2,8 +2,32 @@
   "dates": [
     {
       "date": "2026-11-02",
-      "update_time": "2026-11-01 19:16:29",
+      "update_time": "2026-11-02 00:02:05",
       "news": [
+        {
+          "title": "중진공, 청년창업학교 졸업기업에 '산업 AI 엑스포' 참가 지원",
+          "link": "https://www.yna.co.kr/view/AKR20261102018800030",
+          "date": "2026-11-02",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 이상서 기자 = 중소벤처기업진흥공단은 청년창업사관학교(이하 청창사) 졸업기업의 성장과 판로 확대를 위해 &apos;2026 산업 인공지...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102018800030_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "중진공, 청년창업학교 졸업기업에 '산업 AI 엑스포' 참가 지원",
+          "original_summary": "(서울=연합뉴스) 이상서 기자 = 중소벤처기업진흥공단은 청년창업사관학교(이하 청창사) 졸업기업의 성장과 판로 확대를 위해 &apos;2026 산업 인공지...",
+          "summary": "(서울=연합뉴스) 이상서 기자 = 중소벤처기업진흥공단은 청년창업사관학교(이하 청창사) 졸업기업의 성장과 판로 확대를 위해 &apos;2026 산업 인공지..."
+        },
+        {
+          "title": "강남구, 스페인 스마트시티 엑스포서 AI 도시기술 선보인다",
+          "link": "https://www.yna.co.kr/view/AKR20261102014200004",
+          "date": "2026-11-02",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 정준영 기자 = 서울 강남구(구청장 김현기)는 오는 3∼5일 스페인 바르셀로나에서 열리는 &apos;스마트시티 엑스포 월드 콩그레스(S...",
+          "image": "https://img.yna.co.kr/etc/inner/KR/2026/11/02/AKR20261102014200004_01_i_P2.jpg",
+          "is_english": false,
+          "original_title": "강남구, 스페인 스마트시티 엑스포서 AI 도시기술 선보인다",
+          "original_summary": "(서울=연합뉴스) 정준영 기자 = 서울 강남구(구청장 김현기)는 오는 3∼5일 스페인 바르셀로나에서 열리는 &apos;스마트시티 엑스포 월드 콩그레스(S...",
+          "summary": "(서울=연합뉴스) 정준영 기자 = 서울 강남구(구청장 김현기)는 오는 3∼5일 스페인 바르셀로나에서 열리는 &apos;스마트시티 엑스포 월드 콩그레스(S..."
+        },
         {
           "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
@@ -31,19 +55,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Nanbeige/Nanbeige4.3-33B",
-          "link": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
-          "date": "2026-11-02",
-          "source": "HuggingFace",
-          "description": "• Nanbeige4.3-33B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B/resolve/main/figures/nbg.png",
-          "is_english": true,
-          "summary": "• Nanbeige4.3-33B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Nanbeige/Nanbeige4.3-33B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
           "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
           "date": "2026-11-02",
@@ -66,6 +77,19 @@
           "is_english": true,
           "summary": "• Mistral-Large-4-1T-A52B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "mistralai/Mistral-Large-4-1T-A52B",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Nanbeige/Nanbeige4.3-33B",
+          "link": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B",
+          "date": "2026-11-02",
+          "source": "HuggingFace",
+          "description": "• Nanbeige4.3-33B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/Nanbeige/Nanbeige4.3-33B/resolve/main/figures/nbg.png",
+          "is_english": true,
+          "summary": "• Nanbeige4.3-33B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Nanbeige/Nanbeige4.3-33B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -122,6 +146,19 @@
           "category": "AI Model"
         },
         {
+          "title": "speridlabs/idol",
+          "link": "https://huggingface.co/speridlabs/idol",
+          "date": "2026-11-02",
+          "source": "HuggingFace",
+          "description": "• idol 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/%F0%9F%8C%90%20Project%20Page-1f6feb?style=for-the-badge",
+          "is_english": true,
+          "summary": "• idol 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "speridlabs/idol",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "black-forest-labs/flux-3-image-klein-comfy",
           "link": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
           "date": "2026-11-02",
@@ -131,6 +168,19 @@
           "is_english": true,
           "summary": "• flux-3-image-klein-comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "black-forest-labs/flux-3-image-klein-comfy",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Qwen/Qwen3.8-27B",
+          "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
+          "date": "2026-11-02",
+          "source": "HuggingFace",
+          "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Qwen/Qwen3.8-27B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -157,32 +207,6 @@
           "is_english": true,
           "summary": "• Spark-X2.6-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "XHToken/Spark-X2.6-4B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "Qwen/Qwen3.8-27B",
-          "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "date": "2026-11-02",
-          "source": "HuggingFace",
-          "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Qwen/Qwen3.8-27B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "speridlabs/idol",
-          "link": "https://huggingface.co/speridlabs/idol",
-          "date": "2026-11-02",
-          "source": "HuggingFace",
-          "description": "• idol 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/%F0%9F%8C%90%20Project%20Page-1f6feb?style=for-the-badge",
-          "is_english": true,
-          "summary": "• idol 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "speridlabs/idol",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -226,6 +250,19 @@
           "category": "AI Model"
         },
         {
+          "title": "Edge0/Audio8-TTS-Realistic-0.6b",
+          "link": "https://huggingface.co/Edge0/Audio8-TTS-Realistic-0.6b",
+          "date": "2026-11-02",
+          "source": "HuggingFace",
+          "description": "• Audio8-TTS-Realistic-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/Edge0/Audio8-TTS-Realistic-0.6b/resolve/main/./assets/badges/github-badge.svg",
+          "is_english": true,
+          "summary": "• Audio8-TTS-Realistic-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Edge0/Audio8-TTS-Realistic-0.6b",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Diffuspace/Clover-35B-A3B-Preview",
           "link": "https://huggingface.co/Diffuspace/Clover-35B-A3B-Preview",
           "date": "2026-11-02",
@@ -250,26 +287,37 @@
           "translated_title": "LiquidAI/LFM3-VL-2B",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "Edge0/Audio8-TTS-Realistic-0.6b",
-          "link": "https://huggingface.co/Edge0/Audio8-TTS-Realistic-0.6b",
-          "date": "2026-11-02",
-          "source": "HuggingFace",
-          "description": "• Audio8-TTS-Realistic-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/Edge0/Audio8-TTS-Realistic-0.6b/resolve/main/./assets/badges/github-badge.svg",
-          "is_english": true,
-          "summary": "• Audio8-TTS-Realistic-0.6b 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Edge0/Audio8-TTS-Realistic-0.6b",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-11-01",
-      "update_time": "2026-11-01 12:16:46",
+      "update_time": "2026-11-02 00:02:05",
       "news": [
+        {
+          "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+          "link": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+          "date": "2026-11-01",
+          "source": "TechCrunch",
+          "description": "Data centers are deeply unpopular. But what if we called them something else?",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-2283113936-maller.jpg?w=1024",
+          "is_english": true,
+          "original_title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+          "original_summary": "Data centers are deeply unpopular. But what if we called them something else?",
+          "summary": "Data centers are deeply unpopular. But what if we called them something else?"
+        },
+        {
+          "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+          "link": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+          "date": "2026-11-01",
+          "source": "TechCrunch",
+          "description": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-1481617564.jpg?resize=1200,680",
+          "is_english": true,
+          "original_title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+          "original_summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+          "summary": "On Equity, we discuss why tech CEO statements can seem so tone deaf."
+        },
         {
           "title": "\"상대방 숨은 역할·의도까지 추론하는 AI 훈련법 개발\"",
           "link": "https://www.yna.co.kr/view/AKR20261101045800057",
@@ -6913,7 +6961,7 @@
         {
           "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-          "date": "2026-10-24",
+          "date": "2026-11-02",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4.1-Flash-1017 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
@@ -6926,7 +6974,7 @@
         {
           "title": "RecursiveSI/flint",
           "link": "https://huggingface.co/RecursiveSI/flint",
-          "date": "2026-10-24",
+          "date": "2026-11-02",
           "source": "HuggingFace",
           "description": "• flint 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/RecursiveSI/flint/resolve/main/assets/flint_benchmarks_nvfp4.png",
@@ -6939,7 +6987,7 @@
         {
           "title": "black-forest-labs/flux-3-image-klein-comfy",
           "link": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
-          "date": "2026-10-24",
+          "date": "2026-11-02",
           "source": "HuggingFace",
           "description": "• flux-3-image-klein-comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -6965,7 +7013,7 @@
         {
           "title": "Lightricks/LTX-2.5",
           "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-10-24",
+          "date": "2026-11-02",
           "source": "HuggingFace",
           "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -6978,7 +7026,7 @@
         {
           "title": "XHToken/Spark-X2.6-4B",
           "link": "https://huggingface.co/XHToken/Spark-X2.6-4B",
-          "date": "2026-10-24",
+          "date": "2026-11-02",
           "source": "HuggingFace",
           "description": "• Spark-X2.6-4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/Slack-Join-4A154B?logo=slack&logoColor=white",
@@ -7004,7 +7052,7 @@
         {
           "title": "abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
           "link": "https://huggingface.co/abenzerps/Qwen-Image-2.1-Uncensored-Quantized",
-          "date": "2026-10-24",
+          "date": "2026-11-02",
           "source": "HuggingFace",
           "description": "• Qwen-Image-2.1-Uncensored-Quantized 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/%F0%9F%A4%97_Model_Requests-Submit_Here-f59e0b?style=for-the-badge&labelColor=1f2937",
@@ -7017,7 +7065,7 @@
         {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "date": "2026-10-24",
+          "date": "2026-11-02",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
