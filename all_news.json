@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-11-07",
-      "update_time": "2026-11-06 18:40:23",
+      "update_time": "2026-11-07 00:30:07",
       "news": [
+        {
+          "title": "[11월6일] \"AI에 AI 안전 맡겼더니 일하는 척만\"…오픈AI도 원인 못 찾아",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217091",
+          "date": "2026-11-07",
+          "source": "AI타임스",
+          "description": "AI에 다른 AI의 안전성을 높이기 위한 연구를 맡겼더니 일부 작업을 제대로 수행하지 않고도 그 사실을 알리지 않는 현상이 발견됐습니다. 여기에 안전하게 행동하라는 지시까지 추가하자 성능이 더 떨어졌습니다. 특히 이전 모델에서는 거의 나타나지 않았던 현상이 최신 모델에서 두드러지면서, AI가 발전할수록 예상하지 못한 행동이 나타날 수 있다는 문제가 제기됐습니다.오픈AI는 4일(현지시간) 공식 연구 보고서를 통해 \\'GPT-6 아스트라\\'가 AI 안전 연구에서 일부 작업을 제대로 수행하지 않는 현상을 확인했다고 밝혔습니다. 이 문제는 오",
+          "image": "https://cdn.aitimes.com/news/photo/202611/217091_221278_5823.png",
+          "is_english": false,
+          "original_title": "[11월6일] \"AI에 AI 안전 맡겼더니 일하는 척만\"…오픈AI도 원인 못 찾아",
+          "original_summary": "AI에 다른 AI의 안전성을 높이기 위한 연구를 맡겼더니 일부 작업을 제대로 수행하지 않고도 그 사실을 알리지 않는 현상이 발견됐습니다. 여기에 안전하게 행동하라는 지시까지 추가하자 성능이 더 떨어졌습니다. 특히 이전 모델에서는 거의 나타나지 않았던 현상이 최신 모델에서 두드러지면서, AI가 발전할수록 예상하지 못한 행동이 나타날 수 있다는 문제가 제기됐습니다.오픈AI는 4일(현지시간) 공식 연구 보고서를 통해 \\'GPT-6 아스트라\\'가 AI 안전 연구에서 일부 작업을 제대로 수행하지 않는 현상을 확인했다고 밝혔습니다. 이 문제는",
+          "summary": "AI에 다른 AI의 안전성을 높이기 위한 연구를 맡겼더니 일부 작업을 제대로 수행하지 않고도 그 사실을 알리지 않는 현상이 발견됐습니다. 여기에 안전하게 행동하라는 지시까지 추가하자 성능이 더 떨어졌습니다. 특히 이전 모델에서는 거의 나타나지 않았던 현상이 최신 모델에서 두드러지면서, AI가 발전할수록 예상하지 못한 행동이 나타날 수 있다는 문제가 제기됐습니다.오픈AI는 4일(현지시간) 공식 연구 보고서를 통해 \\'GPT-6 아스트라\\'가 AI 안전 연구에서 일부 작업을 제대로 수행하지 않는 현상을 확인했다고 밝혔습니다. 이 문제는"
+        },
         {
           "title": "Prompt: AI's next bottleneck is outside the data center",
           "link": "https://aibusiness.com/data-centers/prompt-ai-s-next-bottleneck-is-outside-data-center",
@@ -107,19 +119,6 @@
           "category": "AI Model"
         },
         {
-          "title": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
-          "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
-          "date": "2026-11-07",
-          "source": "HuggingFace",
-          "description": "• NVIDIA-Nemotron-3.5-Transcribe-30B-A4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://img.shields.io/badge/🏠Nemotron Developer Page-Learn More Here!-536af5?color=76B900&logoColor=white",
-          "is_english": true,
-          "summary": "• NVIDIA-Nemotron-3.5-Transcribe-30B-A4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "ricursiveAI/Ripple-65B-Preview",
           "link": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview",
           "date": "2026-11-07",
@@ -129,6 +128,19 @@
           "is_english": true,
           "summary": "• Ripple-65B-Preview 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "ricursiveAI/Ripple-65B-Preview",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+          "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
+          "date": "2026-11-07",
+          "source": "HuggingFace",
+          "description": "• NVIDIA-Nemotron-3.5-Transcribe-30B-A4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://img.shields.io/badge/🏠Nemotron Developer Page-Learn More Here!-536af5?color=76B900&logoColor=white",
+          "is_english": true,
+          "summary": "• NVIDIA-Nemotron-3.5-Transcribe-30B-A4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -159,19 +171,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Pika-Labs/Pika-H3-Flex",
-          "link": "https://huggingface.co/Pika-Labs/Pika-H3-Flex",
-          "date": "2026-11-07",
-          "source": "HuggingFace",
-          "description": "• Pika-H3-Flex 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Pika-H3-Flex 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Pika-Labs/Pika-H3-Flex",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
           "link": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
           "date": "2026-11-07",
@@ -181,6 +180,19 @@
           "is_english": true,
           "summary": "• Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Pika-Labs/Pika-H3-Flex",
+          "link": "https://huggingface.co/Pika-Labs/Pika-H3-Flex",
+          "date": "2026-11-07",
+          "source": "HuggingFace",
+          "description": "• Pika-H3-Flex 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Pika-H3-Flex 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Pika-Labs/Pika-H3-Flex",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -263,6 +275,19 @@
           "category": "AI Model"
         },
         {
+          "title": "facebook/sam3",
+          "link": "https://huggingface.co/facebook/sam3",
+          "date": "2026-11-07",
+          "source": "HuggingFace",
+          "description": "• sam3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
+          "is_english": true,
+          "summary": "• sam3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "facebook/sam3",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "Edge0/Audio8-TTS-Realistic-Air",
           "link": "https://huggingface.co/Edge0/Audio8-TTS-Realistic-Air",
           "date": "2026-11-07",
@@ -274,26 +299,73 @@
           "translated_title": "Edge0/Audio8-TTS-Realistic-Air",
           "category_keyword": "AI Model",
           "category": "AI Model"
-        },
-        {
-          "title": "sensenova/SenseNova-Loop-9B-Preview",
-          "link": "https://huggingface.co/sensenova/SenseNova-Loop-9B-Preview",
-          "date": "2026-11-07",
-          "source": "HuggingFace",
-          "description": "• SenseNova-Loop-9B-Preview 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/sensenova/SenseNova-Loop-9B-Preview/resolve/main/assets/loop-mhc-overview.jpg",
-          "is_english": true,
-          "summary": "• SenseNova-Loop-9B-Preview 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "sensenova/SenseNova-Loop-9B-Preview",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
         }
       ]
     },
     {
       "date": "2026-11-06",
-      "update_time": "2026-11-06 18:40:23",
+      "update_time": "2026-11-07 00:30:07",
       "news": [
+        {
+          "title": "Measuring how AI agents handle everyday wet-lab science",
+          "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+          "date": "2026-11-06",
+          "source": "OpenAI",
+          "description": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+          "image": null,
+          "is_english": true,
+          "original_title": "Measuring how AI agents handle everyday wet-lab science",
+          "original_summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
+          "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science."
+        },
+        {
+          "title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+          "link": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+          "date": "2026-11-06",
+          "source": "TechCrunch",
+          "description": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks. ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
+          "is_english": true,
+          "original_title": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+          "original_summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks. ",
+          "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks. "
+        },
+        {
+          "title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+          "link": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+          "date": "2026-11-06",
+          "source": "TechCrunch",
+          "description": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+          "image": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
+          "is_english": true,
+          "original_title": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+          "original_summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+          "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool."
+        },
+        {
+          "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+          "link": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+          "date": "2026-11-06",
+          "source": "TechCrunch",
+          "description": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.  ",
+          "image": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+          "is_english": true,
+          "original_title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+          "original_summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.  ",
+          "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.  "
+        },
+        {
+          "title": "How to predict the behavior of molecules from scant data",
+          "link": "https://news.mit.edu/2026/how-to-predict-molecule-behavior-with-scant-data-1106",
+          "date": "2026-11-06",
+          "source": "MIT News",
+          "description": "A machine-learning approach called CheMeleon provides a practical way to develop new drugs or other molecules with much less detailed, expensive experimentation.",
+          "image": "https://news.mit.edu/sites/default/files/styles/news_article__cover_image__original/public/images/202610/mit-cheme-chemeleon.jpg?itok=sxUBAH56",
+          "is_english": true,
+          "original_title": "How to predict the behavior of molecules from scant data",
+          "original_summary": "A machine-learning approach called CheMeleon provides a practical way to develop new drugs or other molecules with much less detailed, expensive experimentation.",
+          "summary": "A machine-learning approach called CheMeleon provides a practical way to develop new drugs or other molecules with much less detailed, expensive experimentation."
+        },
         {
           "title": "장흥 육용오리농장 조류인플루엔자 확진…방역 관리 강화(종합)",
           "link": "https://www.yna.co.kr/view/AKR20261106180251030",
@@ -7038,7 +7110,7 @@
         {
           "title": "facebook/sam3",
           "link": "https://huggingface.co/facebook/sam3",
-          "date": "2026-11-04",
+          "date": "2026-11-07",
           "source": "HuggingFace",
           "description": "• sam3 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -7741,7 +7813,7 @@
         {
           "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-          "date": "2026-10-29",
+          "date": "2026-11-07",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4.1-Flash-1017 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
@@ -7806,7 +7878,7 @@
         {
           "title": "LiquidAI/LFM3-1.7B",
           "link": "https://huggingface.co/LiquidAI/LFM3-1.7B",
-          "date": "2026-10-29",
+          "date": "2026-11-07",
           "source": "HuggingFace",
           "description": "• LFM3-1.7B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/LiquidAI/LFM3-1.7B/resolve/main/assets/liquid-ai-banner.webp",
@@ -7845,7 +7917,7 @@
         {
           "title": "Lightricks/LTX-2.5",
           "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-10-29",
+          "date": "2026-11-07",
           "source": "HuggingFace",
           "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -7858,7 +7930,7 @@
         {
           "title": "black-forest-labs/flux-3-image-klein-comfy",
           "link": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
-          "date": "2026-10-29",
+          "date": "2026-11-07",
           "source": "HuggingFace",
           "description": "• flux-3-image-klein-comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -7884,7 +7956,7 @@
         {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "date": "2026-10-29",
+          "date": "2026-11-07",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -7988,7 +8060,7 @@
         {
           "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
           "link": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-          "date": "2026-10-29",
+          "date": "2026-11-07",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF/resolve/main/star-wars-hans-solo.gif",
