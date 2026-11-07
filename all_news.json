@@ -2,8 +2,20 @@
   "dates": [
     {
       "date": "2026-11-08",
-      "update_time": "2026-11-07 17:09:25",
+      "update_time": "2026-11-07 21:13:14",
       "news": [
+        {
+          "title": "서울시 AI 활용 확대에도…\"주요 행정 부서 10곳 중 2곳만 활용\"",
+          "link": "https://www.yna.co.kr/view/AKR20261106126700004",
+          "date": "2026-11-08",
+          "source": "연합뉴스",
+          "description": "(서울=연합뉴스) 유한주 기자 = 서울시가 인공지능(AI) 기반 행정서비스를 확대하고 있지만, 주요 행정 부서의 실제 AI 활용률은 20%에 그...",
+          "image": "https://img.yna.co.kr/photo/cms/2025/05/20/53/PCM20250520000353990_P2.jpg",
+          "is_english": false,
+          "original_title": "서울시 AI 활용 확대에도…\"주요 행정 부서 10곳 중 2곳만 활용\"",
+          "original_summary": "(서울=연합뉴스) 유한주 기자 = 서울시가 인공지능(AI) 기반 행정서비스를 확대하고 있지만, 주요 행정 부서의 실제 AI 활용률은 20%에 그...",
+          "summary": "(서울=연합뉴스) 유한주 기자 = 서울시가 인공지능(AI) 기반 행정서비스를 확대하고 있지만, 주요 행정 부서의 실제 AI 활용률은 20%에 그..."
+        },
         {
           "title": "speridlabs/idol",
           "link": "https://huggingface.co/speridlabs/idol",
@@ -57,6 +69,19 @@
           "category": "AI Model"
         },
         {
+          "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+          "link": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+          "date": "2026-11-08",
+          "source": "HuggingFace",
+          "description": "• DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
+          "is_english": true,
+          "summary": "• DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
           "title": "ricursiveAI/Ripple-65B-Preview",
           "link": "https://huggingface.co/ricursiveAI/Ripple-65B-Preview",
           "date": "2026-11-08",
@@ -105,19 +130,6 @@
           "is_english": true,
           "summary": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "Qwen/Qwen3.8-27B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
-          "title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-          "link": "https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
-          "date": "2026-11-08",
-          "source": "HuggingFace",
-          "description": "• DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1920&q=80",
-          "is_english": true,
-          "summary": "• DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -187,19 +199,6 @@
           "category": "AI Model"
         },
         {
-          "title": "Pika-Labs/Pika-H3-Flex",
-          "link": "https://huggingface.co/Pika-Labs/Pika-H3-Flex",
-          "date": "2026-11-08",
-          "source": "HuggingFace",
-          "description": "• Pika-H3-Flex 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
-          "is_english": true,
-          "summary": "• Pika-H3-Flex 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "Pika-Labs/Pika-H3-Flex",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "ccore/Qwen3.5-4B-GLB-3D-Coder",
           "link": "https://huggingface.co/ccore/Qwen3.5-4B-GLB-3D-Coder",
           "date": "2026-11-08",
@@ -209,6 +208,19 @@
           "is_english": true,
           "summary": "• Qwen3.5-4B-GLB-3D-Coder 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "ccore/Qwen3.5-4B-GLB-3D-Coder",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "Pika-Labs/Pika-H3-Flex",
+          "link": "https://huggingface.co/Pika-Labs/Pika-H3-Flex",
+          "date": "2026-11-08",
+          "source": "HuggingFace",
+          "description": "• Pika-H3-Flex 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
+          "is_english": true,
+          "summary": "• Pika-H3-Flex 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "Pika-Labs/Pika-H3-Flex",
           "category_keyword": "AI Model",
           "category": "AI Model"
         },
@@ -239,19 +251,6 @@
           "category": "AI Model"
         },
         {
-          "title": "LiquidAI/LFM3-1.7B",
-          "link": "https://huggingface.co/LiquidAI/LFM3-1.7B",
-          "date": "2026-11-08",
-          "source": "HuggingFace",
-          "description": "• LFM3-1.7B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "image": "https://huggingface.co/LiquidAI/LFM3-1.7B/resolve/main/assets/liquid-ai-banner.webp",
-          "is_english": true,
-          "summary": "• LFM3-1.7B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
-          "translated_title": "LiquidAI/LFM3-1.7B",
-          "category_keyword": "AI Model",
-          "category": "AI Model"
-        },
-        {
           "title": "unsloth/Qwen3.8-Flash-Next-GGUF",
           "link": "https://huggingface.co/unsloth/Qwen3.8-Flash-Next-GGUF",
           "date": "2026-11-08",
@@ -261,6 +260,19 @@
           "is_english": true,
           "summary": "• Qwen3.8-Flash-Next-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "translated_title": "unsloth/Qwen3.8-Flash-Next-GGUF",
+          "category_keyword": "AI Model",
+          "category": "AI Model"
+        },
+        {
+          "title": "LiquidAI/LFM3-1.7B",
+          "link": "https://huggingface.co/LiquidAI/LFM3-1.7B",
+          "date": "2026-11-08",
+          "source": "HuggingFace",
+          "description": "• LFM3-1.7B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "image": "https://huggingface.co/LiquidAI/LFM3-1.7B/resolve/main/assets/liquid-ai-banner.webp",
+          "is_english": true,
+          "summary": "• LFM3-1.7B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
+          "translated_title": "LiquidAI/LFM3-1.7B",
           "category_keyword": "AI Model",
           "category": "AI Model"
         }
@@ -2814,7 +2826,7 @@
         {
           "title": "DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
           "link": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF",
-          "date": "2026-11-05",
+          "date": "2026-11-08",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF/resolve/main/star-wars-hans-solo.gif",
@@ -7393,7 +7405,7 @@
         {
           "title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
           "link": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-          "date": "2026-10-30",
+          "date": "2026-11-08",
           "source": "HuggingFace",
           "description": "• DeepSeek-V4.1-Flash-1017 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/logo.svg?raw=true",
@@ -7419,7 +7431,7 @@
         {
           "title": "LiquidAI/LFM3-1.7B",
           "link": "https://huggingface.co/LiquidAI/LFM3-1.7B",
-          "date": "2026-10-30",
+          "date": "2026-11-08",
           "source": "HuggingFace",
           "description": "• LFM3-1.7B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/LiquidAI/LFM3-1.7B/resolve/main/assets/liquid-ai-banner.webp",
@@ -7458,7 +7470,7 @@
         {
           "title": "nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
           "link": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B",
-          "date": "2026-10-30",
+          "date": "2026-11-08",
           "source": "HuggingFace",
           "description": "• NVIDIA-Nemotron-3.5-Transcribe-30B-A4B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://img.shields.io/badge/🏠Nemotron Developer Page-Learn More Here!-536af5?color=76B900&logoColor=white",
@@ -7484,7 +7496,7 @@
         {
           "title": "Lightricks/LTX-2.5",
           "link": "https://huggingface.co/Lightricks/LTX-2.5",
-          "date": "2026-10-30",
+          "date": "2026-11-08",
           "source": "HuggingFace",
           "description": "• LTX-2.5 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1676299081847-c3c644878e36?w=1920&q=80",
@@ -7497,7 +7509,7 @@
         {
           "title": "black-forest-labs/flux-3-image-klein-comfy",
           "link": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
-          "date": "2026-10-30",
+          "date": "2026-11-08",
           "source": "HuggingFace",
           "description": "• flux-3-image-klein-comfy 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1507146153580-69a1fe6d8aa1?w=1920&q=80",
@@ -7549,7 +7561,7 @@
         {
           "title": "Qwen/Qwen3.8-27B",
           "link": "https://huggingface.co/Qwen/Qwen3.8-27B",
-          "date": "2026-10-30",
+          "date": "2026-11-08",
           "source": "HuggingFace",
           "description": "• Qwen3.8-27B 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1920&q=80",
@@ -7575,7 +7587,7 @@
         {
           "title": "ccore/Qwen3.5-4B-3D-Coder",
           "link": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder",
-          "date": "2026-10-30",
+          "date": "2026-11-08",
           "source": "HuggingFace",
           "description": "• Qwen3.5-4B-3D-Coder 모델 공개\n• HuggingFace 트렌딩 모델\n• 최신 AI 기술 적용\n• 상세 정보는 링크 참조",
           "image": "https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder/resolve/main/images/roma3.png",
